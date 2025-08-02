@@ -1,0 +1,630 @@
+Plot
+
+O Feiticeiro XX trancou se atras da torre e esta a procurar ajuda para abrir a
+porta!
+
+Localizaçoes
+
+A torre fica no G no Marsh Keep, na fronteira com mistmarch, cerca de 65 km de
+distancia da taberna.
+
+A taberna e o 0
+
+  * Coisas k tem de ser ditas&/verdades:
+
+  * A missao principal deles e fazer reconhecimento do terreno.
+  * Foram transportados para a taberna e nao sabem muito bem como, ha buracos nas memorias
+  * Este mundo tem 2 luas
+  * Ou seja, nao se puxa muito nas backstories agora..e seguir e andar.
+  * Os dms sao taberneiros. Cada um pode ser o seu com o seu nome,.convem e apontar para ficar registado e coerente
+  * Designa 1 jogador para fazer notas das sessoes e para  te enviar ok=? Assim depois trato da historia - IMPORTANTE
+  * Vais ter as folhas impressas na altura
+  * Teem d rolar hit points no inicio
+
+Stat para mobs:
+
+Bullywag warrior  
+  
+---  
+  
+# Bullywug Warrior
+
+[MM'25](https://www.google.com/url?q=https://5e.tools/book.html%23XMM,page:64&sa=D&source=editors&ust=1754137314742721&usg=AOvVaw19JVyNlgNjxrGEcndUwqGe)[p64](https://www.google.com/url?q=https://5e.tools/book.html%23XMM,page:64&sa=D&source=editors&ust=1754137314742879&usg=AOvVaw1zEm6JpwMiT8eKCw3hG1XH)  
+Medium Fey, Any Alignment  
+AC 15Initiative +2 (12)  
+HP 11 (2d8 + 2)  
+Speed 30 ft., Swim 40 ft.  
+| | | mod| save| | | mod| save| | | mod| save  
+---|---|---|---|---|---|---|---|---|---|---|---  
+Str| 12| +1| +1| Dex| 14| +2| +2| Con| 13| +1| +1  
+Int| 7| -2| -2| Wis| 10| +0| +0| Cha| 7| -2| -2  
+  
+Skills Stealth +4  
+Senses Passive Perception 10  
+Languages Bullywug, Common  
+CR 1/4 (XP 50; PB +2)  
+| | | | |   
+| | | | |   
+  
+### Traits  
+  
+Amphibious. The bullywug can breathe air and water.Speak with Frogs and Toads.
+The bullywug can communicate simple concepts to frogs and toads when it speaks
+in Bullywug.  
+  
+### Actions  
+  
+Insectile Rapier. Melee Attack Roll: +4, reach 5 ft. Hit: 6 (1d8 + 2) Piercing
+damage plus 2 (1d4) Poison damage.  
+  
+### Bonus Actions  
+  
+Leap. The bullywug can jump up to 30 feet by spending 10 feet of movement.  
+Source: MM'25, page 64. Also found in UHftLH.  
+  
+wizard![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcryLHeG_UVn5ePGjOBz8p2MTDpStKp-
+TlgehTrIk_0ETFQP2oRyV3DGeIiHdUHBw87iHseM_TZ-7LhHE_7Q8QcWvmzlVWSjck-
+lbdqGBGYwUQQRXBIBkhA9RCL7HhdzQZ2rShUVg8?key=i0zMOWN-Nh-rPnbN5Mj735m5)
+
+Localizaçoes
+
+A emboscada  fica no L, no neen river cerca de 30 km de distancia da taberna.
+
+A taberna e o 0
+
+  * Coisas k tem de ser ditas&/verdades:
+
+  * A missao principal deles e fazer reconhecimento do terreno.
+  * Foram transportados para a taberna e nao sabem muito bem como, ha buracos nas memorias
+  * Este mundo tem 2 luas
+  * Ou seja, nao se puxa muito nas backstories agora..e seguir e andar.
+  * Os dms sao taberneiros. Cada um pode ser o seu com o seu nome,.convem e apontar para ficar registado e coerente
+  * Designa 1 jogador para fazer notas das sessoes e para  te enviar ok=? Assim depois trato da historia - IMPORTANTE
+  * Vais ter as folhas impressas na 
+
+### **A Emboscada nas Margens do Rio Neem**
+
+**Ambientaçao:**  
+
+Nas vastas planicies de Greyhawk, ao longo das margens do rio Neem, uma
+estrada comercial movimentada serpenteia ao lado da agua. Apesar de ser uma
+rota crucial para mercadores, a regiao e conhecida por ataques de tribos
+goblins, que se aproveitam do terreno e da vegetaçao densa para emboscar
+viajantes.
+
+\---
+
+### **Introduçao**  
+
+Os aventureiros estao viajando por esta rota quando ouvem gritos vindos de uma
+clareira proxima ao rio. Ao se aproximarem, veem um mercador tiefling chamado
+**Kaldros Veynor**, ao lado de sua carroça, cercado por goblins que o atacam
+enquanto saqueiam suas mercadorias.  
+
+Kaldros e um comerciante sofisticado e bem-falante, que esta viajando de
+**Peculiar Manor** para **Blackfair Manor**, transportando uma carga valiosa
+de tecidos exoticos, especiarias e gemas menores. Sua carroça e puxada por
+dois cavalos brancos bem treinados, que estao visivelmente assustados com o
+ataque.  
+
+**Gatilho da Aventura:** Assim que os jogadores percebem a situaçao, peça para
+realizarem um **teste de Percepçao (DC 13)**.  
+
+\- **Sucesso:** Eles identificam mais goblins escondidos na vegetaçao ao
+redor, preparando uma segunda onda de ataque.  
+
+\- **Falha:** Eles nao percebem os goblins escondidos, e a segunda onda chega
+com vantagem na iniciativa mais tarde.  
+
+\---
+
+### **A Emboscada**  
+
+Os goblins ja estao atacando Kaldros e saqueando sua carroça quando os
+aventureiros chegam. O combate ocorre em **duas ondas** de inimigos, exigindo
+estrategia e trabalho em equipe dos jogadores para proteger o mercador e seus
+bens.
+
+**Primeira Onda:**  
+
+\- **4 Goblins:** Estao atacando Kaldros e saqueando a carroça. Eles estao
+posicionados proximos a estrada e ao rio.  
+
+\- **1 Lobo Domesticado:** Mantido como companheiro por um dos goblins, o lobo
+avança contra qualquer aventureiro que se aproximar.  
+
+**Segunda Onda (chega no final da 2ª rodada):**  
+
+\- **3 Goblins:** Surgem da vegetaçao densa, tentando flanquear os
+aventureiros.  
+
+\- **1 Bugbear Lider:** Comanda a emboscada de longe e so entra no combate
+quando a segunda onda chega. Ele carrega uma lança e tenta alvejar os alvos
+mais vulneraveis.  
+
+**Teste de Investigaçao ou Sobrevivencia (DC 15):** Antes de se aproximarem,
+os jogadores podem procurar por sinais de armadilhas.  
+
+\- **Sucesso:** Eles descobrem que os goblins colocaram uma armadilha de corda
+na trilha que leva a clareira.  
+
+\- **Falha:** O primeiro personagem a passar pela area desencadeia a
+armadilha. Faça um teste de Destreza (DC 14). Em caso de falha, o personagem
+fica preso e incapacitado ate ser libertado.  
+
+\---
+
+### **Combate**  
+
+**Terreno:**  
+
+\- **Margem do Rio:** O terreno proximo ao rio e escorregadio. Qualquer
+personagem que tente correr ou lutar na margem deve fazer um teste de
+Acrobacia (DC 12) para evitar cair na agua.  
+
+\- **Vegetaçao Densa:** Oferece cobertura leve (+2 CA) para os goblins que se
+escondem nela.  
+
+**Estrategias dos Inimigos:**  
+
+\- Os goblins da primeira onda tentam manter distancia, atacando com arcos
+curtos, enquanto o lobo avança para travar os aventureiros no corpo a corpo.  
+
+\- A segunda onda tenta flanquear o grupo, enquanto o Bugbear usa sua força
+para focar em um unico alvo. Ele pode tentar intimidar os aventureiros para
+força-los a recuar.  
+
+**Teste de Intimidaçao ou Persuasao (DC 15):** Durante o combate, os jogadores
+podem tentar convencer Kaldros a se juntar a luta.  
+
+\- **Sucesso:** Kaldros usa uma besta leve que guarda na carroça para ajudar
+os aventureiros.  
+
+\- **Falha:** Ele permanece escondido, assustado demais para reagir.  
+
+\---
+
+### **Climax:**  
+
+Quando a segunda onda for reduzida a metade, o Bugbear tenta negociar sua
+liberdade. Ele oferece informaçoes sobre um acampamento goblin e revela que os
+goblins estao sendo pagos por uma gangue de bandidos para atacar mercadores.  
+
+\---
+
+### **Conclusao:**  
+
+Os aventureiros podem:  
+
+1\. **Salvar Kaldros:** Caso ele sobreviva, ele oferece uma recompensa de 50
+PO e promete recomendar os aventureiros para os nobres de Blackfair Manor,
+abrindo portas para futuras oportunidades.  
+
+2\. **Explorar o Acampamento Goblin:** Com as informaçoes do Bugbear, o grupo
+pode rastrear o esconderijo dos goblins, onde encontram mais saque e pistas
+sobre os bandidos.  
+
+3\. **Seguir as Pistas Sobre os Bandidos:** Isso pode levar a uma aventura
+maior, enfrentando a gangue que controla o comercio ilegal na regiao.  
+
+**Recompensas:**  
+
+\- 25 PO em moedas e joias encontradas nos corpos dos inimigos.  
+
+Goblin
+
+Beyond 20
+
+[Goblin](https://www.google.com/url?q=https://www.dndbeyond.com/monsters/16907-goblin&sa=D&source=editors&ust=1754137313516936&usg=AOvVaw02wIeKEyHAey4FKUI_q0fP)
+
+Small Humanoid (Goblinoid), Neutral Evil
+
+Armor Class 15 (leather armor, shield)
+
+Hit Points 7 (2d6)
+
+Speed 30 ft.
+
+Roll Initiative! +2
+
+STR
+
+8 (-1)
+
+DEX
+
+14 (+2)
+
+CON
+
+10 (+0)
+
+INT
+
+10 (+0)
+
+WIS
+
+8 (-1)
+
+CHA
+
+8 (-1)
+
+Skills
+[Stealth](https://www.google.com/url?q=https://www.dndbeyond.com/sources/dnd/free-
+rules/playing-the-
+game%23Skills&sa=D&source=editors&ust=1754137313518738&usg=AOvVaw1uCaGJCK_wVt-
+lFjk2o7ZW) +6
+
+Senses
+[Darkvision](https://www.google.com/url?q=https://www.dndbeyond.com/sources/dnd/free-
+rules/rules-
+glossary%23Darkvision&sa=D&source=editors&ust=1754137313519066&usg=AOvVaw1RKGW8DG8AM-
+WJo44f56Yi) 60 ft., Passive Perception 9
+
+Languages Common, Goblin
+
+Challenge 1/4 (50 XP)
+
+Proficiency Bonus +2
+
+Traits
+
+Nimble Escape. The goblin can take the
+[Disengage](https://www.google.com/url?q=https://www.dndbeyond.com/sources/dnd/free-
+rules/rules-
+glossary%23DisengageAction&sa=D&source=editors&ust=1754137313519855&usg=AOvVaw0oIVWRGD5WC2PcMaKtPRsa)
+or
+[Hide](https://www.google.com/url?q=https://www.dndbeyond.com/sources/dnd/free-
+rules/rules-
+glossary%23HideAction&sa=D&source=editors&ust=1754137313520008&usg=AOvVaw2hFV7HTPr2PSSikYEu5Ant)
+action as a bonus action on each of its turns.
+
+Actions
+
+Scimitar. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6
++ 2) slashing damage.
+
+Shortbow. Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. Hit:
+5 (1d6 + 2) piercing damage.
+
+Beyond 20
+
+[Bugbear](https://www.google.com/url?q=https://www.dndbeyond.com/monsters/16817-bugbear&sa=D&source=editors&ust=1754137313521400&usg=AOvVaw02BlWWO7rQHG74uY_FQb6K)
+
+Medium Humanoid (Goblinoid), Chaotic Evil
+
+Armor Class 16 (hide armor, shield)
+
+Hit Points 27 (5d8 + 5)
+
+Speed 30 ft.
+
+Roll Initiative! +2
+
+STR
+
+15 (+2)
+
+DEX
+
+14 (+2)
+
+CON
+
+13 (+1)
+
+INT
+
+8 (-1)
+
+WIS
+
+11 (+0)
+
+CHA
+
+9 (-1)
+
+Skills
+[Stealth](https://www.google.com/url?q=https://www.dndbeyond.com/sources/dnd/free-
+rules/playing-the-
+game%23Skills&sa=D&source=editors&ust=1754137313523232&usg=AOvVaw3LbiZZiuBjHb3y4laAR7zq)
++6,
+[Survival](https://www.google.com/url?q=https://www.dndbeyond.com/sources/dnd/free-
+rules/playing-the-
+game%23Skills&sa=D&source=editors&ust=1754137313523405&usg=AOvVaw0LjAxMcC3PK0gWKROI1hrO)
++2
+
+Senses
+[Darkvision](https://www.google.com/url?q=https://www.dndbeyond.com/sources/dnd/free-
+rules/rules-
+glossary%23Darkvision&sa=D&source=editors&ust=1754137313523653&usg=AOvVaw0Qx_CN6L1JjLJr1SW3VDpZ)
+60 ft., Passive Perception 10
+
+Languages Common, Goblin
+
+Challenge 1 (200 XP)
+
+Proficiency Bonus +2
+
+Traits
+
+Brute. A melee weapon deals one extra die of its damage when the bugbear hits
+with it (included in the attack).
+
+Surprise Attack. If the bugbear surprises a creature and hits it with an
+attack during the first round of combat, the target takes an extra 7 (2d6)
+damage from the attack.
+
+Actions
+
+Morningstar. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 11
+(2d8 + 2) piercing damage.
+
+Javelin. Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 30/120
+ft., one target. Hit: 9 (2d6 + 2) piercing damage in melee or 5 (1d6 + 2)
+piercing damage at range.
+
+Beyond 20
+
+[Wolf](https://www.google.com/url?q=https://www.dndbeyond.com/monsters/17062-wolf&sa=D&source=editors&ust=1754137313526353&usg=AOvVaw0pzN17gefPCiwN5AtEk2Ac)
+
+Medium Beast, Unaligned
+
+Armor Class 13 (natural armor)
+
+Hit Points 11 (2d8 + 2)
+
+Speed 40 ft.
+
+Roll Initiative! +2
+
+STR
+
+12 (+1)
+
+DEX
+
+15 (+2)
+
+CON
+
+12 (+1)
+
+INT
+
+3 (-4)
+
+WIS
+
+12 (+1)
+
+CHA
+
+6 (-2)
+
+Skills
+[Perception](https://www.google.com/url?q=https://www.dndbeyond.com/sources/dnd/free-
+rules/playing-the-
+game%23Skills&sa=D&source=editors&ust=1754137313528235&usg=AOvVaw02GSdlane6zp_IUkFdBVPm)
++3,
+[Stealth](https://www.google.com/url?q=https://www.dndbeyond.com/sources/dnd/free-
+rules/playing-the-
+game%23Skills&sa=D&source=editors&ust=1754137313528412&usg=AOvVaw1W6uJdjzIiNxrru78-Wfuv)
++4
+
+Senses Passive Perception 13
+
+Languages \--
+
+Challenge 1/4 (50 XP)
+
+Proficiency Bonus +2
+
+Traits
+
+Keen Hearing and Smell. The wolf has advantage on Wisdom
+([Perception](https://www.google.com/url?q=https://www.dndbeyond.com/sources/dnd/free-
+rules/playing-the-
+game%23Skills&sa=D&source=editors&ust=1754137313529300&usg=AOvVaw0WgwL159jJpOpYoocSxFO8))
+checks that rely on hearing or smell.
+
+Pack Tactics. The wolf has advantage on attack rolls against a creature if at
+least one of the wolf's allies is within 5 feet of the creature and the ally
+isn't
+[incapacitated](https://www.google.com/url?q=https://www.dndbeyond.com/sources/dnd/free-
+rules/rules-
+glossary%23IncapacitatedCondition&sa=D&source=editors&ust=1754137313529958&usg=AOvVaw206UgCwQeqkwRC6I9o9Lys).
+
+Actions
+
+Bite. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4 +
+2) piercing damage. If the target is a creature, it must succeed on a DC 11
+Strength saving throw or be knocked
+[prone](https://www.google.com/url?q=https://www.dndbeyond.com/sources/dnd/free-
+rules/rules-
+glossary%23ProneCondition&sa=D&source=editors&ust=1754137313530734&usg=AOvVaw0ofiok7HXb-98YuCD45wKY).
+
+# Intro
+
+###
+
+## Taberneiro
+
+  
+ "Meus amigos, preciso da vossa ajuda.  
+Graças aos vossos esforços de reconhecimento estamos a entender o que nos
+rodeia, e como tal começa a nos chegar rumores…  
+Preciso da vossa ajuda para fazer o reconhecimento de uma  zona ao sul daqui,
+conhecida como Vale do Vento Sombrio.  
+Pelo que nos chegou ,uma rota de comercio importante, mas ninguem tem voltado
+de la ultimamente. Ouvi rumores de uma aldeia abandonada, e o ar por la...
+dizem que esta pesado, doente.  
+Como sabem nao sou homem de espadas, mas sei reconhecer problemas quando os
+vejo. Se algo esta errado, quero que descubram o que e. Nao so por mim, mas
+por todos que dependem daquele caminho. Tragam-me respostas, e, se possivel,
+solucionem o problema.  
+Por favor, tenham cuidado. A sensaçao que tenho... nao e boa."
+
+###
+
+## A Jornada e a Descoberta
+
+Seguindo as orientaçoes do taberneiro , os personagens viajam para sul, rumo
+ao Vale do Vento Sombrio.  
+  
+Esta viagem ira demorar aproximadamente 1 noite.  
+-Alguma coisa que pretendem falar enquanto vao?  
+  
+Passando por vales verdes e pequenas florestas de coniferas, a viagem decorre
+sem sobre saltos..  
+  
+Chegando ao anoitecer , começam a ponderar fazer campo.
+
+Sobrevivencia (DC 12): Identificar sinais no caminho indicando que algo esta
+errado, pegadas apressadas, marcas no solo e uma ausencia incomum de vida
+selvagem.  
+  
+Percepçao (DC 14): Notar os primeiros sinais de fungo antes de respirarem os
+esporos. Falha resulta em um teste de Constituiçao (DC 13) para resistir a
+leve intoxicaçao (desvantagem em cheques de Percepçao por 1 hora).
+
+Survival (DC 14) para campo, fazer fogo, colocar tendas.  
+Esta e uma versao menor do fungo que  encontraram antes.
+
+Noite, 3 turno:  
+Percepçao (DC 15):  consegue ver os lobos, combate. Menos nao consegue ver os
+lobos e eles teem vantagem 1 turno e quem defende tem desvantagem
+
+  * 1d4 lobos infectados pelo fungo ataca os personagens. Cada ataque bem-sucedido dos lobos exige um teste de Constituiçao (DC 12) para evitar que pequenos esporos comecem a infectar os personagens (1d4 dano por veneno por turno ate serem curados).
+
+"Um rugido nas trevas, uma luz vermelha e amarela pulsante, um tornado de
+garras e dentes salivantes e tudo o que ves antes de gritares por ajuda!  
+  
+
+## A Aldeia Deserta
+
+  
+  
+Com o nascer do sol a neblina,que se agarra ao chao como um cobertor molhado
+sobe lentamente.  
+Conseguem ver  a distancia ruinas de edificios, ainda parcialmente cobertos
+por neblina.
+
+Ao chegar, descobrem que a  aldeia esta em ruinas e deserta, coberta por um
+fungo amarelo pulsante que exala esporos no ar. As casas estao abandonadas e
+em ruinas, mas sinais de luta sao visiveis: marcas de garras, moveis
+revirados, e plantas locais mortas ou cobertas pelo fungo.  
+  
+De repente  ouvem um som agudo e sussurrante. Um pequeno grupo de kobolds
+emerge de uma toca improvisada, liderado por um kobold chamado Klikz. Ele
+segura uma lança improvisada, mas parece mais assustado do que ameaçador.  
+  
+Klikz (com uma voz esganiçada):  
+ "Esperem, grandes guerreiros! Nos nao queremos lutar! Por favor, ajudem-nos!
+Este fungo... ele e malvado! Infectou nossa casa, nossos amigos, nossa tribo!
+Muitos de nos viraram monstros, atacando tudo o que veem!  
+Nao sabemos de onde ele veio, mas sabemos disso: ha homens estranhos na
+aldeia. Eles fazem coisas estranhas, com simbolos e cantos. Pensamos que eles
+trouxeram isso aqui!  
+Por favor, destruam esses homens e os seus altares    e queimem o fungo!
+Salvem o que resta da nossa tribo! Klikz agradece, sim, sim!"
+
+  
+Um tremor e um grito de horror de Kilikz anuncia uma pequena horda de kobolds
+infectados a sairem de tuneis do chao.  
+Kilitz rapidamente desaparece para os seus tuneis, gritando, fomos seguidos,
+as armas, as armas
+
+2d4 kobolds infectados pelo fungo atacam os personagens enquanto Klikz os guia
+para um abrigo seguro. Esses kobolds tem resistencia limitada ao dano e podem
+explodir em esporos ao morrer (teste de Constituiçao (DC 12) ou recebem 2d6
+dano por veneno).  
+  
+Depois do combate  
+
+  * Teste de Percepçao (DC 15): Encontram pegadas que levam a uma casa maior no centro (onde os cultistas estao).
+  * Teste de Investigaçao (DC 13): Descobrem rastros de luta e destroços, sugerindo que os aldeoes tentaram resistir antes de desaparecerem.
+  * Teste de Natureza ou Arcana (DC 14): Determinam que o fungo e anormal, possivelmente magico, com propriedades altamente infecciosas.
+
+Armadilha:
+
+  * Uma armadilha de esporos guardando a entrada da casa principal. Teste de Percepçao (DC 14): Notar os esporos adormecidos.
+  * Teste de Desarmar Armadilhas (DC 13): Evitar que os esporos sejam liberados. Falha resulta em um teste de Constituiçao (DC 14) para evitar cegueira por 1d4 rodadas.
+
+A vossa frente uma das estruturas pulsa com energia maligna
+
+Cheques de Habilidades:
+
+  * Furtividade (DC 15): Permite que os personagens se aproximem sem serem notados.
+  * Percepçao (DC 15): Identificam os simbolos usados no ritual como relacionados ao culto do Mal Elemental.
+
+Ao chegar a casa central podem  ver, a volta de um altar , um mago com robe
+que diz:
+
+Vaelkor Ashbrand (com uma voz gelida e arrogante):  
+ "Ah, visitantes inesperados. Vieram assistir a ascensao de uma nova era? Este
+fungo, esta bençao da terra, purificara o mundo de sua fraqueza. Ele consome
+os fracos e transforma os fortes em algo... maior.  
+Voces nao podem impedir o inevitavel. Lutem, resistam, gritem se quiserem. No
+final, serao apenas mais um alimento para o ciclo eterno da terra. Dobrem-se a
+vontade do Mal Elemental, ou pereçam em agonia."
+
+  
+Encontro de Combate Principal:
+
+  * 2 cultistas elementais menores guardando a entrada.
+  * Vaelkor Ashbrand (lider do culto, mago nivel 5) e 3 cultistas infectados no altar.
+  * O altar em si esta protegido por uma barreira magica que os personagens podem desativar com um teste combinado de Arcana e Religiao (DC 14) ou com dano massivo (50 HP total).
+  * Durante o combate, Vaelkor invoca 1 elemental da terra menor, que obedece as suas ordens.
+
+Discurso de Vaelkor Ashbrand: (Sem alteraçoes, ja incluido.)
+
+### Conclusao
+
+Se os personagens derrotarem Vaelkor e destruirem o altar:
+
+  * O fungo começa a definhar, os kobolds sobreviventes agradecem e oferecem um pequeno tesouro (50 PO, uma poçao de cura, e um item magico menor, como um Amuleto de Proteçao +1).
+  * Berdan Barleybrow recompensa os personagens com 200 PO e oferece refeiçoes gratuitas por um mes.
+
+Se falharem:
+
+  * O fungo se espalha, infectando areas ao redor. Isso pode levar a consequencias mais graves, como ataques a outras aldeias e uma continuaçao direta da aventura.
+
+Nota andre
+
+ notas de hoje foram essas:
+
+Vale do Vento Sombrio
+
+rota de coomercio importante
+
+ar doente
+
+1 mes atras - > calamidade
+
+fungos amarelos na floresta
+
+lobos infestados com fungo (levamos amostra do fungo do cerebro deles)
+
+2 nacos de lobo com fungo (acho que 1 foi usado como granada)
+
+ruinas cobertas de fungo amarelo, sinais de luta
+
+encontramos Klipz o Kobold, nao infectado
+
+tambem encontramos kobods infectados, mas lucidos o suficiente pra se
+comunicarem
+
+loot: 1 shortsword, resto de um escudo, 10 GP
+
+ritual bolado e maligno vindo da casa, liderado por Vaelkor Ashbrand, "fungo
+purificara o mundo da fraqueza", mal elemental (?)
+
+loot: carta misteriosa, 50 GP, 1 poçao de cura, 1 cimitarra, 1 shield, 2 robes
+de cultista normais, 1 robe de cultista tenente,
+
+Grix, Conan, Triss, Dustin, Usopp e Markus,
+

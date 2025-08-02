@@ -10,42 +10,42 @@ Tudo o que encontrares aqui pode mudar com o tempo — a história é viva, e é
 
 ## 🌆 Locais Principais
 
-- [[Free City of Greyhawk]]
-- [[The Company]]
-- [[Ruin Sites Index]]
+- [Free City of Greyhawk](mapa_da_cidade_de_greyhawk.md)
+- [The Company](the_company.md)
+- [Ruin Sites Index](ruin_sites_index.md)
 
 ---
 
 ## 🏙️ Bairros da Cidade
 
-- [[High Quarter]]
-- [[Garden Quarter]]
-- [[University Quarter]]
-- [[River Quarter]]
-- [[Thieves’ Quarter]]
-- [[Artisans’ Quarter]]
-- [[Foreign Quarter]]
-- [[City Market]]
-- [[Slum Quarter]]
+- [High Quarter](high_quarter.md)
+- [Garden Quarter](garden_quarter.md)
+- [University Quarter](university_quarter.md)
+- [River Quarter](river_quarter.md)
+- [Thieves’ Quarter](thieves_quarter.md)
+- [Artisans’ Quarter](artisans_quarter.md)
+- [Foreign Quarter](foreign_quarter.md)
+- [City Market](city_market.md)
+- [Slum Quarter](slum_quarter.md)
 
 ---
 
 ## 🛐 Locais e Estruturas
 
-- [[Templo de Oghma]]
-- [[Grande Biblioteca]]
-- [[Universidade Arcana]]
-- [[Estalagem da Companhia]]
-- [[Rua do Dragão Enferrujado]]
+- [Templo de Oghma](templo_de_oghma.md)
+- [Grande Biblioteca](grande_biblioteca.md)
+- [Universidade Arcana](universidade_arcana.md)
+- [Estalagem da Companhia](estalagem_da_companhia.md)
+- [Rua do Dragão Enferrujado](rua_do_dragao_enferrujado.md)
 
 ---
 
 ## 👥 NPCs em Destaque
 
-- [[Lord Aleister Devraine]]
-- [[Sister Blathine]]
-- [[Mistress Lyral Quil]]
-- [[Tomtha Beaknose]]
-- [[Iquander]]
-- [[Jandel the Lintwatcher]]
-- [[Talandra V]()]
+- [Lord Aleister Devraine](lord_aleister_devraine.md)
+- [Sister Blathine](sister_blathine.md)
+- [Mistress Lyral Quil](mistress_lyral_quil.md)
+- [Tomtha Beaknose](tomtha_beaknose.md)
+- [Iquander](iquander.md)
+- [Jandel the Lintwatcher](jandel_the_lintwatcher.md)
+- [Talandra V](talandra_v.md)
