@@ -1,6 +1,6 @@
 
 Wenla Frott
-![Wenla Frott](portrait_wenla_frott.png)
+![Wenla Frott](portrait_📚_wenla_frott.png)
 **Race**: Gnome
 
 **Role**: Bookseller and spa-enthusiast
