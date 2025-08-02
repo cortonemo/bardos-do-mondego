@@ -1,3 +1,4 @@
+
 Resumo sessao com Barda Pipa 6 Março
 
 Jogadores: Dustin - Paulo, Triss - Cristiana, Drayl - Rafael e Kai - Carlos
@@ -24,4 +25,3 @@ voltamos para o baile, tivemos a dança final e o Kai, tendo sido o mais bem
 sucedido ganhou a bençao da rainha com a duraçao de 1 ano (tem uns efeitos de
 poder voltar a rolar 1 dado por long rest tipo o feat do lucky) e ele tambem
 ganhou dinheiro, tendo ele ficado com 500GP. O resto da party nao recebeu nada
-
