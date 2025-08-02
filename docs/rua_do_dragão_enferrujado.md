@@ -10,10 +10,10 @@ Uma viela sinuosa e suja no River Quarter, conhecida por ser frequentada por ave
 
 ## 👥 Presenças conhecidas
 
-- [[Tomtha Beaknose]]
-- [[Jullis e Merrot]] (por vezes)
+- [Tomtha Beaknose]()
+- [Jullis e Merrot]() (por vezes)
 
 ## 📎 Ligações
 
-- [[River Quarter]]
-- [[Free City of Greyhawk]]
+- [River Quarter]()
+- [Free City of Greyhawk]()

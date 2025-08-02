@@ -5,7 +5,7 @@ Porto comercial e zona de excessos. Aqui cruzam-se marinheiros, mercadores, crim
 ## 📍 Pontos de Interesse
 
 - Doca Leste e Mercado de Peixe
-- [[Rua do Dragão Enferrujado]] – antro de aventureiros e informadores
+- [Rua do Dragão Enferrujado]() – antro de aventureiros e informadores
 - Tabernas: “O Tambor Partilhado”, “Boca da Enguia”
 
 ## ☠️ Perigos
@@ -14,6 +14,6 @@ Batedores de carteiras, esquemas de contrabando e criaturas vindas do rio não s
 
 ## 📎 Ligações
 
-- [[Free City of Greyhawk]]
-- [[Tomtha Beaknose]]
-- [[The Company]]
+- [Free City of Greyhawk]()
+- [Tomtha Beaknose]()
+- [The Company]()

@@ -4,9 +4,9 @@ Zona vibrante e caótica, o University Quarter alberga academias, bibliotecas e 
 
 ## 📍 Pontos de Interesse
 
-- [[Grande Biblioteca]]
-- [[Universidade Arcana]]
-- Arquivos da [[Templo de Oghma]]
+- [Grande Biblioteca]()
+- [Universidade Arcana]()
+- Arquivos da [Templo de Oghma]()
 - Cafés de estudantes e vendedores de componentes mágicos
 
 ## 👓 Frequentadores
@@ -15,6 +15,6 @@ Magos, escribas, aprendizes e teóricos convivem em debates acesos e duelos verb
 
 ## 📎 Ligações
 
-- [[Free City of Greyhawk]]
-- [[Sister Blathine]]
-- [[Mistress Lyral Quil]]
+- [Free City of Greyhawk]()
+- [Sister Blathine]()
+- [Mistress Lyral Quil]()

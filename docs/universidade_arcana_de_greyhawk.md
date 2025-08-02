@@ -10,12 +10,12 @@ Centro de estudos mágicos, a Universidade Arcana forma magos, feiticeiros e alq
 
 ## 👥 Académicos notáveis
 
-- [[Mistress Lyral Quil]]
-- [[Professor Elofan Jinxwell]]
-- [[Jullis e Merrot]] – aprendizes gémeos prodigiosos
+- [Mistress Lyral Quil]()
+- [Professor Elofan Jinxwell]()
+- [Jullis e Merrot]() – aprendizes gémeos prodigiosos
 
 ## 📎 Ligações
 
-- [[University Quarter]]
-- [[Grande Biblioteca]]
-- [[Free City of Greyhawk]]
+- [University Quarter]()
+- [Grande Biblioteca]()
+- [Free City of Greyhawk]()

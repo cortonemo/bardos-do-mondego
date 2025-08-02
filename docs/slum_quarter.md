@@ -14,5 +14,5 @@ Quem entra aqui deve saber o que procura. E estar pronto para perder mais do que
 
 ## 📎 Ligações
 
-- [[Free City of Greyhawk]]
-- [[Sessão 3 – O Ídolo Chama]]
+- [Free City of Greyhawk]()
+- [Sessão 3 – O Ídolo Chama]()
