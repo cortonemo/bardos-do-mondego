@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
-                "mode": "preview",
+                "file": "sister_blathine.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "sister_blathine"
             }
           },
           {
@@ -226,13 +226,14 @@
   },
   "active": "bc96191ffe26be01",
   "lastOpenFiles": [
-    "talandra_v.md",
     "index.md",
+    "sister_blathine.md",
+    "free_city_of_greyhawk.md",
+    "talandra_v.md",
     "jandel_the_lintwatcher.md",
     "iquander.md",
     "mistress_lyral_quil.md",
     "tomtha_beaknose.md",
-    "sister_blathine.md",
     "mapa_da_cidade_de_greyhawk.md",
     "calendario.md",
     "taberneiro.md",
@@ -251,7 +252,6 @@
     "dm/personagens_e_npcs.md",
     "dm/sessoes_e_aventuras.md",
     "dm/arcos_narrativos_principais.md",
-    "dm/introducao_geral.md",
     "dm/s4.txt",
     "Untitled 1",
     "Untitled"
