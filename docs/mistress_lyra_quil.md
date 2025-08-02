@@ -1,1 +1,1 @@
-![[portrait_🪶_mistress_lyra_quil.png]]
+![Mistress Lyra Quil](portrait_mistress_lyra_quil.png)

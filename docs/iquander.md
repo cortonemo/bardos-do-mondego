@@ -1,1 +1,1 @@
-![[portrait_iquander.png]]
+![Iquander](portrait_iquander.png)

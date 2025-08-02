@@ -1,1 +1,1 @@
-![[portrait_talandra_valaxar.webp]]
+![Talandra Valaxar](portrait_talandra_valaxar.webp)

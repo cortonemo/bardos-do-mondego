@@ -48,4 +48,4 @@ Tudo o que encontrares aqui pode mudar com o tempo — a história é viva, e é
 - [Tomtha Beaknose](tomtha_beaknose.md)
 - [Iquander](iquander.md)
 - [Jandel the Lintwatcher](jandel_the_lintwatcher.md)
-- [Talandra V](talandra_v.md)
+- [Talandra Valaxar](talandra_v.md)
