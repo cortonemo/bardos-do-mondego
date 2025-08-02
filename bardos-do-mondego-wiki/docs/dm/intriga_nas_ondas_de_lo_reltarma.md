@@ -1,0 +1,168 @@
+Intriga nas Ondas de Lo Reltarma
+Nível: 4-5
+Jogadores: 5
+Resumo: Os jogadores recebem uma missão misteriosa na Grande Taberna de Greyhawk:
+viajar para o passado e proteger o mercador Vrith Boralis de um atentado mortal. Se
+falharem, o futuro de Sarvian, um herói crucial contra o Culto do Mal Elemental, será
+apagado. Mas há um twist: Sarvian do Futuro também voltou no tempo, disfarçado e
+acompanhado pelos seus colegas, para garantir que o seu passado decorra como deve
+ser. Ninguém pode saber quem ele é, nem mesmo o seu eu mais jovem, ou o futuro
+poderá ser alterado de forma catastrófica...
+1. Introdução e Gancho
+Os jogadores estão na Grande Taberna de Greyhawk quando o taberneiro misterioso os
+chama para uma missão urgente: Usando um amuleto temporal (pequeno amuleto
+esférico de vidro e ouro) para voltar atrás no tempo, impedir o Culto do Mal Elemental de
+assassinar uma personagem fulcral no decorrer da resistência contra o culto: um
+mercador humano de nome Vrith Boralis. Ao mesmo tempo, evitarem grandes
+interferências com o ambiente envolvente; uma palavra ou um passo errados podem criar
+guerras ou catástrofes.
+Ele explica que o Culto do Mal Elemental viajou no tempo para matar Vrith antes que ele
+se tornar mentor de Sarvian, que no futuro se tornará um heroi contra o Culto. Se Vrith
+morrer, Sarvian nunca cumprirá o seu destino.
+Os jogadores devem proteger Vrith durante uma viagem no seu navio, "Rajada de Safira",
+sem alterar o passado. Para complicar, Sarvian do Futuro também voltou no tempo,
+disfarçado de um humanoide, acompanhado por dois aliados (os seus colegas do futuro),
+para proteger o seu próprio passado. Ele observa as interações com o seu eu mais jovem,
+sempre sem interferir diretamente.
+O taberneiro entrega-lhes o Amuleto Temporal. Este tem 2 usos: O primeiro quebra os
+aneis de ouro em volta duma esfera de cristal no centro, permitindo viajar para o
+passado; O segundo quebra o cristal, reverberando o som da quebra enquanto voltam
+para o momento em que os anéis de ouro quebraram. Com o amuleto temporal, os
+aventureiros viajam para o passado, para a praça central de Lo Reltarma.
+2. Encontro na Taberna: Vrith e Sarvian
+Os jogadores dirigem-se à taberna "Má Fortuna do Bom Vinho" em Lo Reltarma,
+misturando-se com a multidão. Lá, observam:
+Interações importantes:
+Durante a interação, outras 2 figuras encapuzadas (cultistas) observam a cena das
+sombras...
+Se aborado pelo grupo (teste de Persuasão/Deception CD12), Vrith aceita que o grupo o
+acompanhe na viagem como seus mercenários acompanhantes. Ao chegarem ao navio,
+preparam-se para sair em breve para uma ilha aí perto: Crescente de Coral
+Se o grupo decidir entrar à socapa no navio, terá que suceder a um teste furtivo CD 15
+para um dos 2 guardas do cais não os notar.
+3. Exploração do Navio: "Vento de Safira"
+Durante a viagem para a ilha, os jogadores podem explorar o navio e interagir com os
+personagens:
+Vrith Boralis, um mercador carismático, a acabar de conversar sobre negócios com
+alguns clientes enquanto bebem vinho
+Sarvian (jovem), um tritão com roupas marcantes, a oferecer panfletos com artigos
+de roupa a clientes da taberna
+A certo ponto, Vrith recebe um destes panfletos e começa em conversa com o tritão,
+rindo-se e familiarizando-se com ele
+Com um teste de investigação CD14, vê-se um Sarvian do Futuro, mas disfarçado de
+humanoide, com capuz, que observa atentamente o seu eu jovem.
+Vrith mostra interesse no entusiasmo de Sarvian (jovem) e oferece-lhe um lugar
+como aprendiz de mercador. Sarvian (jovem) aceita, encantado com a oportunidade.
+Se confrontado, Sarvian do Futuro diz que é apenas um mercenário a acompanhar o
+mercador. Um teste de Intuição (CD 18) revela que ele está a ocultar algo.
+Convés Principal: Barris com água suja acompanham rapazes de pólvora que limpam
+o convés à mão. Uma perceção passiva acima de 11 revela que murmuram sobre
+Interação Social: Vrith e Sarvian:
+4. Tentativa de Assassinato
+Já algum tempo depois do jantar, o navio é atacado por Assassinos Elementais do culto:
+Assassinos do Culto:
+estranhas tempestades e ventos reversos que o navio tem andado a enfrentar.
+Cabine de Vrith: Uma divisão repleta de fotos com caras diversas de todo o mundo,
+assim como diferentes bujigangas na mesa central, de costas a uma janelinha. Um
+teste de investigação CD15 descobre cartas ameaçadoras escritas em linguagem
+arcaica, um teste de história/arcana CD13 revela algumas palavras "quebrar o ciclo
+temporal".
+Cabine de Carga: Caixotes de todos os tamanhos ocupam esta larga divisão abaixo
+do convés. Caixas com símbolos dispostos em espirais brilham um leve roxo (energia
+temporal). Um teste de Arcana CD15 reconhece-os como símbolos elementais para
+ar, terra, fogo e água, comumente usados em rituais de manipulação temporal.
+Cabine de Sarvian (Jovem): Um quarto de marinheiros, improvisado com uma mesa
+colada a cuspe, onde pousa uma caixa contendo pertences de Sarvian; dentro desta,
+Livros de comércio e um livrete de viajem, contendo passagens descritivas de
+pesadelos com aberrações sombrias e tempestades violentas, podem ser
+encontrados.
+Vrith tenta esconder a sua preocupação (Intuição CD15 descobre) com as ameaças
+que tem recebido, enquanto agradece aos aventureiros pela sua disposição
+Sarvian (Jovem) está animado por voltar a estar perto do mar, completamente alheio
+ao perigo. Vrith não o deixa sair do navio, usando um trabalho no convés como
+desculpa
+3 Cultistas do Mal Elemental (2 Assassinos do culto que, quando confrontados,
+invocam imediatamente 2 Elementais do Ar Menores, quando um assassino morre,
+desaparece um elemental). O seu objetivo principal é matar Vrith enquanto ele dorme
+na cabine.
+AC 14 / HP60 / Velocidade 30ft. / Iniciativa +2
+STR 14 (+2) / DEX 14 (+2) / CON 13 (+1)
+Elementa do ar menor
+Combate:
+INT 10 (+0) / WIS 12 (+1) / CHA 11 (+0)
+Engano e Persuasão +3, Religião +4
+Símbolo sagrado, Armadura de couro
+CR 3
+Ações:
+-Lâmina do Pecado dormente: +4, reach 5ft.: 2d6+2 dano cortante + 2d6 
+dano necrótico. Se não moveres os teus membros neste turno, podes 
+escolher diminuir o teu AC para 12 e tornar-te incapaz de executar 
+ataques de oportunidade; em troca, desde que não te movas antes, o 
+primeiro ataque com esta arma no teu próximo turno conta como ataque 
+crítico.
+-Magia: WIS (CD12, +4):
+ -Saberes: Light, Thaumaturgy
+ -3/dia: Command
+ -2/dia : Hold person
+Ações bónus:
+-Arma Espiritual (2/dia): Usando wisdom, executa o feitiço Spiritual 
+Weapon.
+Igual a elemental do ar, exceto:
+AC 13 / HP 50
+DEX 17 (+3) / CON 12 (+1)
+Thunderous Slam: +6, 2d6+2 thunder
+Remoinho (Recarga 4-6): Uma criatura que esteja no mesmo espaço que este 
+elemental faz um save de força CD12. Se falhar, recebe 2d12 de thunder 
+damage e fica tonto (incapaz de usar vantagem e tem que re-rolar o dado 
+mais alto quando rola dano) por 2 turnos. Se suceder, recebe apenas 
+metade do dano
+Os jogadores devem proteger Vrith enquanto enfrentam os cultistas que usam
+relâmpagos e ventos cortantes.
+Os cultistas vão demonstrando a sua intenção de impedir o desenrolar da história de
+Sarvian, vendo-o como uma ameaça.
+5. Confronto Final: Invocador do Tempo Elemental
+Após derrotarem os assassinos, o mar distorce-se, abrindo um vórtice temporal.
+Flutuando numa capa de preto denso, uma figura imponente surge do vórtice: Ithyros, o
+Renegado Temporal. Um lizardfolk com pele cinzenta e azul, dentes pontiagudos
+dispostos num sorriso medonho que enche o seu focinho curto e olhos verdes que
+brilham como jades cobrem a face deste feiticeiro poderoso. Ithyros desdanha os
+aventureiros, embora não consiga negar o prazer que lhe dá poder usar as suas novas
+habilidades.
+Ithyros, o Renegado Temporal
+Elemental de água corrompido
+6. Conclusão e Resolução
+AC 13 / HP60 / Velocidade 30ft. / Iniciativa +1
+STR 11 (+0) / DEX 12 (+1) / CON 13 (+1)
+INT 14 (+2) / WIS 16 (+3) / CHA 13 (+1)
+Perceção +5, Religião +5
+Ações:
+-Magia: WIS (CD13, +5):
+ -Saberes: Scorching Ray (dano necrótico)
+ -2/dia: Fireball (dano necrótico)
+Ações bónus:
+-Hellish rebuke. Como reação ao trigger do feitiço, pode usar Hellish 
+rebuke com WIS (CD13)
+-Invocação Temporal: Invoca um elemental de água corrompido, manipulador 
+do tempo à sua volta
+igual a um elemental da água, com:
+Velocidade 15ft.
+Aura temporal corrompida: Criaturas a 15ft. à volta do elemental sofrem 
+os efeitos do feitiço Slow
+O Elemental tenta capturar Vrith para o afogar no tempo.
+Escolhas finais:
+7. Recompensas e Epílogo
+Ithyros é derrotado e o vórtice temporal fecha-se.
+Ao tentarem entrar na cabine de Vrith, este não se encontra lá. Quem tiver perceção
+mais alta consegue ouvir um roncar no silêncio da cabine de carga
+Revela-se que Vrith foi relocado pela figura encapuzada misteriosa que viram na
+taberna, que se mostra ser um Sarvian do futuro. Este explica que, no tempo de onde
+vem, chegará a liderar uma poderosa resistência contra o Culto do Mal Elemental.
+Este, ao sabe-los aventureiros no tempo, avisa os jogadores de que têm de manter o
+segredo para não alterar o futuro.
+Proteger o Destino: Garantem que Sarvian segue como aprendiz de Vrith, mantendo
+a linha temporal intacta.
+Alterar o Destino: Se interferirem, Sarvian pode escolher um caminho diferente,
+alterando o futuro.
+500 ouro a dividir por todos, oferecidos por Vrith
+Os jogadores retornam ao presente, onde o taberneiro confirma se o tempo foi
+preservado ou não, por agora...

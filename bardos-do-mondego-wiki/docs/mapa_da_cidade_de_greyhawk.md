@@ -17,14 +17,14 @@ A cidade está dividida em vários bairros, cada um com uma função distinta e 
 - [City Market](city_market.md) – Centro económico, cheio de gritos, ouro e truques
 - [Slum Quarter](slum_quarter.md) – Zonas esquecidas, perigosas e por vezes amaldiçoadas
 
-> 📌 Consulta o [Mapa da Cidade de Greyhawk](.md) para localização detalhada dos bairros e marcos importantes.
+> 📌 Consulta o [Mapa da Cidade de Greyhawk](mapa_da_cidade_de_greyhawk.md) para localização detalhada dos bairros e marcos importantes.
 
 ## 🏛️ Instituições de Poder
 
 - [As Guildas de Greyhawk](guildas_de_greyhawk.md) controlam comércio, espionagem e contratos
 - [Templo de Oghma](templo_de_oghma.md) é o centro espiritual e académico mais antigo
 - [A Universidade Arcana](universidade_arcana.md) forma os magos e eruditos da região
-- [A Guarda da Cidade](.md) mantém a ordem — ou finge manter
+- [A Guarda da Cidade](guarda_da_cidade.md) mantém a ordem — ou finge manter
 
 ## 👥 Figuras Importantes
 
