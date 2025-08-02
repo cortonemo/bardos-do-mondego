@@ -44,7 +44,7 @@ Tudo o que encontrares aqui pode mudar com o tempo — a história é viva, e é
 
 - [Lord Aleister Devraine](lord_aleister_devraine.md)
 - [Sister Blathine](sister_blathine.md)
-- [Mistress Lyral Quil](mistress_lyral_quil.md)
+- [Mistress Lyral Quil](mistress_lyra_quil.md)
 - [Tomtha Beaknose](tomtha_beaknose.md)
 - [Iquander](iquander.md)
 - [Jandel the Lintwatcher](jandel_the_lintwatcher.md)
