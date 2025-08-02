@@ -24,7 +24,7 @@ A cidade está dividida em vários bairros, cada um com uma função distinta e 
 - [As Guildas de Greyhawk](guildas_de_greyhawk.md) controlam comércio, espionagem e contratos
 - [Templo de Oghma](templo_de_oghma.md) é o centro espiritual e académico mais antigo
 - [A Universidade Arcana](universidade_arcana.md) forma os magos e eruditos da região
-- [A Guarda da Cidade](.md) mantém a ordem — ou finge manter
+- [A Guarda da Cidade](guarda_da_Cidade.md) mantém a ordem — ou finge manter
 
 ## 👥 Figuras Importantes
 
