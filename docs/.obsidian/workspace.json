@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wenla_frott.md",
+                "file": "lord_aleister_devraine.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "wenla_frott"
+              "title": "lord_aleister_devraine"
             }
           },
           {
@@ -226,6 +226,7 @@
   },
   "active": "bc96191ffe26be01",
   "lastOpenFiles": [
+    "wenla_frott.md",
     "calendario.md",
     "artisans_quarter.md",
     "guildas_de_greyhawk.md",
@@ -236,7 +237,6 @@
     "portrait_talandra_valaxar.webp",
     "mistress_lyra_quil.md",
     "portrait_🪶_mistress_lyra_quil.png",
-    "wenla_frott.md",
     "talandra_v.md",
     "taberneiro.md",
     "sister_blathine.md",
