@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sister_blathine.md",
+                "file": "wenla_frott.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "sister_blathine"
+              "title": "wenla_frott"
             }
           },
           {
@@ -226,21 +226,29 @@
   },
   "active": "bc96191ffe26be01",
   "lastOpenFiles": [
-    "index.md",
-    "sister_blathine.md",
-    "free_city_of_greyhawk.md",
+    "portrait_📚_wenla_frott.png",
     "talandra_v.md",
+    "portrait_talandra_valaxar.webp",
+    "taberneiro.md",
+    "sister_blathine.md",
+    "rua_do_dragao_enferrujado.md",
+    "portrait_sister_blathine_half-orc_oghman_archivist.png",
+    "lord_aleister_devraine.md",
+    "portrait_lord_aleister_devraine.png",
     "jandel_the_lintwatcher.md",
     "iquander.md",
+    "portrait_iquander.png",
+    "guarda_da_cidade.md",
+    "portrait_city_guard_captain.png",
+    "portrait_jandel_the_lintwatcher.png",
+    "mistress_lyra_quil.md",
+    "portrait_🪶_mistress_lyra_quil.png",
     "mistress_lyral_quil.md",
+    "index.md",
+    "free_city_of_greyhawk.md",
     "tomtha_beaknose.md",
     "mapa_da_cidade_de_greyhawk.md",
     "calendario.md",
-    "taberneiro.md",
-    "mistress_lyra_quil.md",
-    "lord_aleister_devraine.md",
-    "guarda_da_cidade.md",
-    "rua_do_dragao_enferrujado.md",
     "universidade_arcana.md",
     "high_quarter.md",
     "ruin_sites_index.md",
@@ -251,7 +259,6 @@
     "dm/faccoes_e_cultos.md",
     "dm/personagens_e_npcs.md",
     "dm/sessoes_e_aventuras.md",
-    "dm/arcos_narrativos_principais.md",
     "dm/s4.txt",
     "Untitled 1",
     "Untitled"
