@@ -8,7 +8,7 @@ plugins:
 nav:
   - Início: index.md
   - Sessões DM:
-      - Sessão 01: dm/s01_-_2025-01-02.md
+      - Sessão 01: dm/s01_-_2025-01-02
       - Sessão 02: dm/s02_-_2025-01-09.md
       - Sessão 03: dm/s03_-_2025-01-15.md
       - Sessão 04: dm/s04_-_2025-01-23.md
