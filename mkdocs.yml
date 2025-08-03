@@ -1,0 +1,69 @@
+site_name: Bardos do Mondego
+site_description: Wiki colaborativa para a campanha West Marches em Greyhawk
+site_author: Serelith
+
+docs_dir: docs
+site_dir: site
+
+nav:
+  - Início: index.md
+  - 🌆 Locais Principais:
+      - Free City of Greyhawk: mapa_da_cidade_de_greyhawk.md
+      - The Company: the_company.md
+      - Ruin Sites Index: ruin_sites_index.md
+  - 🏙️ Bairros da Cidade:
+      - High Quarter: high_quarter.md
+      - Garden Quarter: garden_quarter.md
+      - University Quarter: university_quarter.md
+      - River Quarter: river_quarter.md
+      - Thieves’ Quarter: thieves_quarter.md
+      - Artisans’ Quarter: artisans_quarter.md
+      - Foreign Quarter: foreign_quarter.md
+      - City Market: city_market.md
+      - Slum Quarter: slum_quarter.md
+  - 🛐 Locais e Estruturas:
+      - Templo de Oghma: templo_de_oghma.md
+      - Grande Biblioteca: grande_biblioteca.md
+      - Universidade Arcana: universidade_arcana.md
+      - Estalagem da Companhia: estalagem_da_companhia.md
+      - Rua do Dragão Enferrujado: rua_do_dragao_enferrujado.md
+  - 👥 NPCs em Destaque:
+      - Lord Aleister Devraine: lord_aleister_devraine.md
+      - Sister Blathine: sister_blathine.md
+      - Mistress Lyral Quil: mistress_lyra_quil.md
+      - Tomtha Beaknose: tomtha_beaknose.md
+      - Iquander: iquander.md
+      - Jandel the Lintwatcher: jandel_the_lintwatcher.md
+      - Talandra Valaxar: talandra_valaxar.md
+  - 📜 Sessões:
+      - S01 - 2025-01-02: dm/s01_-_2025-01-02.md
+      - S02 - 2025-01-09: dm/s02_-_2025-01-09.md
+      - S03 - 2025-01-15: dm/s03_-_2025-01-15.md
+      - S04 - 2025-01-23: dm/s04_-_2025-01-23.md
+      - S05 - 2025-01-30: dm/s05_-_2025-01-30.md
+      - S06 - 2025-02-13: dm/s06_-_2025-02-13.md
+      - S07 - 2025-02-20: dm/s07_-_2025-02-20.md
+      - S08 - 2025-02-27: dm/s08_-_2025-02-27.md
+      - S09 - 2025-03-06: dm/s09_-_2025-03-06.md
+      - S10 - 2025-03-13: dm/s10_-_2025-03-13.md
+      - S11 - 2025-03-20: dm/s11_-_2025-03-20.md
+      - S12 - 2025-03-27: dm/s12_-_2025-03-27.md
+      - S13 - 2025-04-03: dm/s13_-_2025-04-03.md
+      - S14 - 2025-04-10: dm/s14_-_2025-04-10.md
+      - S16 - 2025-04-24: dm/s16_-_2025-04-24.md
+      - S22 - 2025-06-05: dm/s22_-_2025-06-05.md
+      - S27 - 2025-07-10: dm/s27_-_2025-07-10.md
+      - S28 - 2025-07-17: dm/s28_-_2025-07-17.md
+      - S29 - 2025-07-24: dm/s29_-_2025-07-24.md
+
+theme:
+  name: material
+  language: pt
+  palette:
+    primary: black
+    accent: indigo
+
+use_directory_urls: true
+
+plugins:
+  - search
