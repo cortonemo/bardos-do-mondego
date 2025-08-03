@@ -1,6 +1,7 @@
 site_name: Bardos do Mondego
 theme:
   name: material
+use_directory_urls: true
 
 nav:
   - Início: index.md
