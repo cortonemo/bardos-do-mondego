@@ -22,6 +22,34 @@
             }
           },
           {
+            "id": "337c7b58367fa7b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dm/miner_difficulties.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "miner_difficulties"
+            }
+          },
+          {
+            "id": "3cfdaef855959523",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dm/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
             "id": "e96b67818b587160",
             "type": "leaf",
             "state": {
@@ -77,7 +105,8 @@
               "title": "index"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -224,42 +253,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bc96191ffe26be01",
+  "active": "3cfdaef855959523",
   "lastOpenFiles": [
-    "wenla_frott.md",
-    "calendario.md",
-    "artisans_quarter.md",
-    "guildas_de_greyhawk.md",
-    "guarda_da_cidade.md",
+    "dm/The Fouled Stream- O Riacho Corrompido.md",
+    "dm/the_fouled_stream.md",
+    "dm/shadows_of_iuz.md",
+    "dm/masks_of_death.md",
+    "dm/the_vale_of_lytharien.md",
+    "dm/adventures_index.md",
+    "dm/grande_castelo.md",
+    "dm/refugio_do_errante.md",
+    "dm/bosque_proximo.md",
+    "dm/caverna_infestada.md",
+    "dm/riacho_subterraneo.md",
+    "dm/majordomo_castelo.md",
+    "dm/taberneiro_refugio.md",
+    "dm/borogrove.md",
+    "dm/dustin.md",
+    "dm/triss.md",
+    "dm/vaunia.md",
+    "dm/markus.md",
+    "dm/conan.md",
+    "dm/grix_molah.md",
+    "dm/quest_dos_fungos.md",
+    "dm/borogrove_twig_blights.md",
+    "dm/shrieker_fungus.md",
+    "dm/bullywug_infestados.md",
+    "dm/urso_infestado.md",
+    "dm/psiquic_ooze.md",
     "portrait_📚_wenla_frott.png",
     "portrait_lord_aleister_devraine.png",
     "portrait_sister_blathine_half-orc_oghman_archivist.png",
     "portrait_talandra_valaxar.webp",
-    "mistress_lyra_quil.md",
     "portrait_🪶_mistress_lyra_quil.png",
-    "talandra_v.md",
-    "taberneiro.md",
-    "sister_blathine.md",
-    "rua_do_dragao_enferrujado.md",
-    "lord_aleister_devraine.md",
-    "jandel_the_lintwatcher.md",
-    "iquander.md",
     "portrait_iquander.png",
     "portrait_city_guard_captain.png",
     "portrait_jandel_the_lintwatcher.png",
-    "mistress_lyral_quil.md",
-    "index.md",
-    "free_city_of_greyhawk.md",
-    "tomtha_beaknose.md",
-    "mapa_da_cidade_de_greyhawk.md",
-    "universidade_arcana.md",
-    "high_quarter.md",
-    "ruin_sites_index.md",
-    "dm/index.md",
-    "dm/linha_do_tempo.md",
-    "dm/artefatos_e_itens.md",
-    "dm/locais_notaveis.md",
-    "dm/faccoes_e_cultos.md",
     "dm/s4.txt",
     "Untitled 1",
     "Untitled"

@@ -1,6 +1,40 @@
 ### 📜 SESSÕES
 
 - [S01 - 2025-01-02](s01_-_2025-01-02.md)
+    - **NPCs Envolvidos:**
+        - [Major-domo do Castelo](majordomo_castelo.md)
+        - [Taverneiro do Refúgio](taberneiro_refugio.md)
+        - [Borogrove](borogrove.md)
+        - [Druida Infetado](druida_infestado.md)
+    - **PCs Envolvidos:**
+        - [Dustin](dustin.md)
+        - [Triss](triss.md)
+        - [Vaunia](vaunia.md)
+        - [Markus](markus.md)
+        - [Conan](conan.md)
+        - [Grix'Molah](grix_molah.md)
+    - **Ameaças & Criaturas:**
+        - [Twig Blights](borogrove_twig_blights.md)
+        - [Shrieker Fungus](shrieker_fungus.md)
+        - [Bullywug Infestados](bullywug_infestados.md)
+        - [Urso Selvagem Infestado](urso_infestado.md)
+        - [Psiquic Ooze](psiquic_ooze.md)
+        - [Stirge](stirge.md)
+        - [Fungos Parasitas Alienígenas](fungos_parasitas_alienigenas.md)
+    - **Locais & Objetos:**
+        - [Grande Castelo](grande_castelo.md)
+        - [O Refúgio do Errante](refugio_do_errante.md)
+        - [Bosque Próximo](bosque_proximo.md)
+        - [Caverna Infestada](caverna_infestada.md)
+        - [Riacho Subterrâneo](riacho_subterraneo.md)
+        - [Livro do Druida Infetado](livro_druida.md)
+        - [Staff of Flowers](staff_of_flowers.md)
+        - [Bolota de Borogrove](acorn_borogrove.md)
+        - [Loot da Sessão 1](loot_sessao1.md)
+        - [Palavras Arcanas](palavras_arcanas.md)
+    - **Aventura:**
+        - [Quest dos Fungos Alienígenas](quest_dos_fungos.md)
+
 - [S02 - 2025-01-09](s02_-_2025-01-09.md)
 - [S03 - 2025-01-15](s03_-_2025-01-15.md)
 - [S04 - 2025-01-23](s04_-_2025-01-23.md)
@@ -19,15 +53,3 @@
 - [S27 - 2025-07-10](s27_-_2025-07-10.md)
 - [S28 - 2025-07-17](s28_-_2025-07-17.md)
 - [S29 - 2025-07-24](s29_-_2025-07-24.md)
-
-
-🗺️ **Wiki da Campanha West Marches – Greyhawk Corrompido**
-
-- [📚 **1. Introdução Geral**](introducao_geral.md)
-- [🧩 **2. Arcos Narrativos Principais**](arcos_narrativos_principais.md)
-- [📖 **3. Sessões e Aventuras**](sessoes_e_aventuras.md)
-- [🧙 **4. Personagens e NPCs**](personagens_e_npcs.md)
-- [🧠 **5. Facções e Cultos**](faccoes_e_cultos.md)
-- [🧪 **6. Locais Notáveis**](locais_notaveis.md)
-- [🪙 **7. Artefatos e Itens Especiais**](artefatos_e_itens.md)
-- [📆 **8. Linha do Tempo**](linha_do_tempo.md)
