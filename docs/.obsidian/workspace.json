@@ -4,109 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "95f62a09553cd147",
+        "id": "42051d7ca8a6b59e",
         "type": "tabs",
         "children": [
           {
-            "id": "bc96191ffe26be01",
+            "id": "ec60ee0c6b3fc13c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lord_aleister_devraine.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "lord_aleister_devraine"
-            }
-          },
-          {
-            "id": "337c7b58367fa7b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dm/miner_difficulties.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "miner_difficulties"
-            }
-          },
-          {
-            "id": "3cfdaef855959523",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dm/s03_-_2025-01-15.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "s03_-_2025-01-15"
-            }
-          },
-          {
-            "id": "e96b67818b587160",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dorakaa.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dorakaa"
-            }
-          },
-          {
-            "id": "94023b793ab4c5cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dyvers.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dyvers"
-            }
-          },
-          {
-            "id": "923d627246585226",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dm/index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "5d61a9d9d23a5059",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -253,8 +164,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3cfdaef855959523",
+  "active": "ec60ee0c6b3fc13c",
   "lastOpenFiles": [
+    "index.md",
+    "dm/index.md",
+    "dm/conan.md",
+    "dm/s03_-_2025-01-15.md",
+    "dm/miner_difficulties.md",
+    "lord_aleister_devraine.md",
+    "Untitled.md",
     "dm/s02_-_2025-01-09.md",
     "dm/s07_-_2025-02-20.md",
     "dm/sessao_13_de_fevereiro_com_a_dm_laura.md",
@@ -265,8 +183,6 @@
     "dm/triss.md",
     "dm/kristryd_splitanvil.md",
     "mistress_lyra_quil.md",
-    "index.md",
-    "dm/index.md",
     "dm/yellow_mold.md",
     "dm/violet_fungi.md",
     "dm/topaz.md",
@@ -276,11 +192,6 @@
     "dm/mina_de_obsidiana.md",
     "dm/hook_horror_teeth.md",
     "dm/greyhawk.md",
-    "dm/giant_spider.md",
-    "dm/darkmantle.md",
-    "dm/cairn_mountains.md",
-    "dm/blackstone.md",
-    "talandra_valaxar.md",
     "portrait_📚_wenla_frott.png",
     "portrait_lord_aleister_devraine.png",
     "portrait_sister_blathine_half-orc_oghman_archivist.png",
