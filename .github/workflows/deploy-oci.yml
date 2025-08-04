@@ -43,4 +43,4 @@ jobs:
 
       - name: Deploy site with rsync
         run: |
-          /usr/bin/rsync -avz --delete site/ ubuntu@${{ secrets.OCI_HOST }}:/var/www/bardos/
+          /usr/bin/rsync -avz --delete --rsync-path=/usr/bin/rsync site/ ubuntu@${{ secrets.OCI_HOST }}:/var/www/bardos/
