@@ -47,4 +47,4 @@ jobs:
           remote_path: /var/www/bardos/
           remote_host: ${{ secrets.OCI_HOST }}
           remote_user: ubuntu
-          remote_key: ${{ secrets.OCI_SSH_KEY }} 
+          remote_key: ${{ secrets.OCI_SSH_KEY }}
