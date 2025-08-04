@@ -1,23 +1,19 @@
-name: Deploy MkDocs to OCI
+name: Test Secrets Access
 
 on:
   push:
     branches: [main]
 
 jobs:
-  deploy:
+  test:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
-
-      - name: Debug: Check OCI_HOST
+      - name: Check OCI_HOST secret
         env:
           OCI_HOST: ${{ secrets.OCI_HOST }}
         run: echo "OCI_HOST is set"
 
-      - name: Debug: Check SSH Key presence
+      - name: Check OCI_SSH_KEY secret presence
         run: |
           if [ -n "${{ secrets.OCI_SSH_KEY }}" ]; then
             echo "OCI_SSH_KEY is set"
@@ -25,26 +21,3 @@ jobs:
             echo "OCI_SSH_KEY is NOT set"
             exit 1
           fi
-
-      - name: Setup Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: 3.11
-
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install mkdocs
-
-      - name: Build MkDocs
-        run: mkdocs build
-
-      - name: Deploy site with rsync
-        uses: burnett01/rsync-deployments@v1.0.0
-        with:
-          switches: -avz --delete
-          path: site/
-          remote_path: /var/www/bardos/
-          remote_host: ${{ secrets.OCI_HOST }}
-          remote_user: ubuntu
-          remote_key: ${{ secrets.OCI_SSH_KEY }}
