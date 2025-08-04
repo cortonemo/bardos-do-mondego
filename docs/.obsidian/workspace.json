@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dm/index.md",
+                "file": "mistress_lyra_quil.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "mistress_lyra_quil"
             }
           },
           {
@@ -255,6 +255,9 @@
   },
   "active": "3cfdaef855959523",
   "lastOpenFiles": [
+    "index.md",
+    "mistress_lyra_quil.md",
+    "dm/index.md",
     "dm/yellow_mold.md",
     "dm/violet_fungi.md",
     "dm/topaz.md",
@@ -278,9 +281,6 @@
     "dm/shadows_of_iuz.md",
     "dm/masks_of_death.md",
     "dm/the_vale_of_lytharien.md",
-    "dm/adventures_index.md",
-    "dm/grande_castelo.md",
-    "dm/refugio_do_errante.md",
     "portrait_📚_wenla_frott.png",
     "portrait_lord_aleister_devraine.png",
     "portrait_sister_blathine_half-orc_oghman_archivist.png",
