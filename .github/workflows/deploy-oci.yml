@@ -25,12 +25,13 @@ jobs:
       - name: Build MkDocs
         run: mkdocs build
 
+      - name: Setup SSH key
+        run: |
+          mkdir -p ~/.ssh
+          echo "${{ secrets.OCI_SSH_KEY }}" > ~/.ssh/id_rsa
+          chmod 600 ~/.ssh/id_rsa
+          ssh-keyscan -H ${{ secrets.OCI_HOST }} >> ~/.ssh/known_hosts
+
       - name: Deploy site with rsync
-        uses: burnett01/rsync-deployments@v1
-        with:
-          switches: -avz --delete
-          path: site/
-          remote_path: /var/www/bardos/
-          remote_host: ${{ secrets.OCI_HOST }}
-          remote_user: ubuntu
-          remote_key: ${{ secrets.OCI_SSH_KEY }}
+        run: |
+          rsync -avz --delete site/ ubuntu@${{ secrets.OCI_HOST }}:/var/www/bardos/
