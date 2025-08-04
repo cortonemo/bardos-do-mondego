@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mistress_lyra_quil.md",
+                "file": "dm/gelatinous_cube.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "mistress_lyra_quil"
+              "title": "gelatinous_cube"
             }
           },
           {
@@ -255,8 +255,12 @@
   },
   "active": "3cfdaef855959523",
   "lastOpenFiles": [
-    "index.md",
+    "dm/s02_-_2025-01-09.md",
+    "dm/hook_horror.md",
+    "dm/triss.md",
+    "dm/kristryd_splitanvil.md",
     "mistress_lyra_quil.md",
+    "index.md",
     "dm/index.md",
     "dm/yellow_mold.md",
     "dm/violet_fungi.md",
@@ -265,9 +269,7 @@
     "dm/rust_monster.md",
     "dm/pelor.md",
     "dm/mina_de_obsidiana.md",
-    "dm/kristryd_splitanvil.md",
     "dm/hook_horror_teeth.md",
-    "dm/hook_horror.md",
     "dm/greyhawk.md",
     "dm/giant_spider.md",
     "dm/gelatinous_cube.md",
@@ -279,8 +281,6 @@
     "dm/The Fouled Stream- O Riacho Corrompido.md",
     "dm/the_fouled_stream.md",
     "dm/shadows_of_iuz.md",
-    "dm/masks_of_death.md",
-    "dm/the_vale_of_lytharien.md",
     "portrait_📚_wenla_frott.png",
     "portrait_lord_aleister_devraine.png",
     "portrait_sister_blathine_half-orc_oghman_archivist.png",

@@ -1,4 +1,4 @@
-## Ficheiro: kristryd_splitanvil.md
+
 
 #### Kristryd Splitanvil
 

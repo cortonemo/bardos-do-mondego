@@ -1,4 +1,4 @@
-## Ficheiro: gelatinous_cube.md
+
 
 #### Gelatinous Cube / Cubo Gelatinoso
 
