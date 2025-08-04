@@ -49,4 +49,3 @@ Bardos do Mondego é uma campanha original criada pelos Bardos do Mondego, inspi
 
     Cada bardo deixa o seu verso. A lenda escreve-se em conjunto.
 
-
