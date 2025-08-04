@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
-                "mode": "preview",
+                "file": "s02_-_2025-01-09.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "s02_-_2025-01-09"
             }
           }
         ]
@@ -170,31 +170,31 @@
   },
   "active": "47815e22f549e82f",
   "lastOpenFiles": [
-    "linha_do_tempo.md",
+    "yellow_mold.md",
+    "violet_fungi.md",
+    "topaz.md",
+    "thargrin_letter.md",
+    "rust_monster.md",
+    "pelor.md",
+    "mina_de_obsidiana.md",
+    "kristryd_splitanvil.md",
+    "hook_horror_teeth.md",
+    "hook_horror.md",
+    "greyhawk.md",
+    "giant_spider.md",
+    "gelatinous_cube.md",
+    "darkmantle.md",
+    "cairn_mountains.md",
+    "blackstone.md",
+    "sessao_02_-_miner_difficulties.md",
+    "s02_-_2025-01-09.md",
+    "sessao_02_-_resumo_de_sessao.md",
     "index.md",
+    "s01_-_2025-01-02.md",
+    "linha_do_tempo.md",
     "artefatos_e_itens.md",
     "locais_notaveis.md",
     "faccoes_e_cultos.md",
-    "personagens_e_npcs.md",
-    "sessoes_e_aventuras.md",
-    "arcos_narrativos_principais.md",
-    "introducao_geral.md",
-    "resumo_o_museu_das_maravilhas_sombras.md",
-    "s27_-_2025-07-10.md",
-    "sessao_27_de_marco.pdf.md",
-    "s12_-_2025-03-27.md",
-    "s29_-_2025-07-24.md",
-    "s29_resumo_da_sessao_29_-_2025-07-24.md",
-    "s28_-_2025-07-17.md",
-    "resumo_da_sessao_28_-_2025-07-17.md",
-    "o_museu_das_maravilhas_sombras.md",
-    "one-.md",
-    "one-shot___a_sombra_do_tempo_perdido_.md",
-    "s22_-_2025-06-05.md",
-    "s16_-_2025-04-24.md",
-    "s14_-_2025-04-10.md",
-    "sessao_24-04_-_o_que_nos_espera_a_nova_cidade.md",
-    "sessao_10-04_-_henrique.md",
-    "sessao_10-04_-_o_que_nos_espera_a_nova_cidade.md"
+    "personagens_e_npcs.md"
   ]
 }
