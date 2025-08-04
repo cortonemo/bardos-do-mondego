@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "s02_-_2025-01-09.md",
-                "mode": "preview",
+                "file": "sessao_02_-_miner_difficulties.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "s02_-_2025-01-09"
+              "title": "sessao_02_-_miner_difficulties"
             }
           }
         ]
@@ -170,8 +170,8 @@
   },
   "active": "47815e22f549e82f",
   "lastOpenFiles": [
-    "sessao_02_-_miner_difficulties.md",
     "s02_-_2025-01-09.md",
+    "sessao_02_-_miner_difficulties.md",
     "kristryd_splitanvil.md",
     "s01_-_2025-01-02.md",
     "yellow_mold.md",
