@@ -35,6 +35,12 @@ jobs:
       - name: Install rsync
         run: sudo apt-get update && sudo apt-get install -y rsync 
 
+      - name: Check rsync path and version
+        run: |
+          which rsync
+          echo $PATH
+          rsync --version
+
       - name: Deploy site with rsync
         run: |
-          rsync -avz --delete site/ ubuntu@${{ secrets.OCI_HOST }}:/var/www/bardos/
+          /usr/bin/rsync -avz --delete site/ ubuntu@${{ secrets.OCI_HOST }}:/var/www/bardos/
