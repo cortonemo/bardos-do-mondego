@@ -12,6 +12,20 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
 
+      - name: Debug: Check OCI_HOST
+        run: echo "OCI_HOST is set"
+        env:
+          OCI_HOST: ${{ secrets.OCI_HOST }}
+
+      - name: Debug: Check SSH Key presence
+        run: |
+          if [ -n "${{ secrets.OCI_SSH_KEY }}" ]; then
+            echo "OCI_SSH_KEY is set"
+          else
+            echo "OCI_SSH_KEY is NOT set"
+            exit 1
+          fi
+
       - name: Setup Python
         uses: actions/setup-python@v4
         with:
