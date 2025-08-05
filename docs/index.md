@@ -50,6 +50,8 @@ Tudo o que encontrares aqui pode mudar com o tempo — a história é viva, e é
 - [Jandel the Lintwatcher](jandel_the_lintwatcher.md)
 - [Talandra Valaxar](talandra_valaxar.md)
 
+## 👥 DMs
+
 ### 📜 SESSÕES
 
 - [S01 - 2025-01-02](dm/s01_-_2025-01-02.md)
@@ -70,7 +72,7 @@ Tudo o que encontrares aqui pode mudar com o tempo — a história é viva, e é
 - [S22 - 2025-06-05](dm/s22_-_2025-06-05.md)
 - [S27 - 2025-07-10](dm/s27_-_2025-07-10.md)
 - [S28 - 2025-07-17](dm/s28_-_2025-07-17.md)
-- [S29 - 2025-07-24]](dm/s29_-_2025-07-24.md)
+- [S29 - 2025-07-24](dm/s29_-_2025-07-24.md)
 
 #### 📍 Localizações
 
