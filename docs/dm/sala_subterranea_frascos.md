@@ -1,16 +1,14 @@
 
-#### Sala Subterrânea dos Frascos / Underground Room of Flasks (Museum)
+# Sala Subterrânea dos Frascos (sub-location)
 
-Sessões:  
-- Sessão 27 | Fonte: s27.txt  
-
-Tags: localizacao, museu, sublocal
+Sessões: 27, 28 | Datas: 2025-07-10, 2025-07-17 | Fontes: s27_-_2025-07-10.txt, s28_-_2025-07-17.txt | Tags: sala, museu, sub-location
 
 [Sala Subterrânea dos Frascos](sala_subterranea_frascos.png)
 
-| English | Português |
-|---------|-----------|
-| **The Underground Room of Flasks** is a hidden laboratory beneath the [Museum](museu_das_maravilhas.md), filled with failed experiments and magical horrors. | **A Sala Subterrânea dos Frascos** é um laboratório secreto sob o [Museu](museu_das_maravilhas.md), cheio de experiências falhadas e horrores mágicos. |
+| Português | English |
+|-----------|---------|
+| Sala secreta do museu repleta de frascos mágicos e espécimes raros. | Secret museum room filled with magical jars and rare specimens. |
 
-[(Back to Locations / Voltar a Localizações)](localizacoes.md)
+[(Voltar a Localizações / Back to Locations)](localizacoes.md)  
+[(Voltar à Página Inicial / Back to Home Page)](index.md)
 

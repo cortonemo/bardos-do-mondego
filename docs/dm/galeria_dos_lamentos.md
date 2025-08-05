@@ -1,16 +1,14 @@
 
-#### Galeria dos Lamentos / Gallery of Laments (Museum)
+# Galeria dos Lamentos (sub-location)
 
-Sessões:  
-- Sessão 27 | Fonte: s27.txt  
-
-Tags: localizacao, museu, sublocal
+Sessões: 27, 28 | Datas: 2025-07-10, 2025-07-17 | Fontes: s27_-_2025-07-10.txt, s28_-_2025-07-17.txt | Tags: galeria, museu, sub-location
 
 [Galeria dos Lamentos](galeria_dos_lamentos.png)
 
-| English | Português |
-|---------|-----------|
-| **The Gallery of Laments** is an eerie wing in the [Museum](museu_das_maravilhas.md) filled with enchanted paintings and tormented spirits. | **A Galeria dos Lamentos** é uma ala inquietante do [Museu](museu_das_maravilhas.md) repleta de quadros encantados e espíritos atormentados. |
+| Português | English |
+|-----------|---------|
+| Secção do museu marcada por magia sombria, famosa por prateleiras de objetos amaldiçoados. | Section of the museum marked by dark magic, known for its shelves of cursed objects. |
 
-[(Back to Locations / Voltar a Localizações)](localizacoes.md)
+[(Voltar a Localizações / Back to Locations)](localizacoes.md)  
+[(Voltar à Página Inicial / Back to Home Page)](index.md)
 

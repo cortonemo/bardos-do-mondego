@@ -1,0 +1,14 @@
+
+# Aria Greenbottle
+
+Sessões: Sessão Extra | Datas: 2025-04-24 | Fontes: extra_relato_crianca_perdida.txt | Tags: npc, criança, desaparecida, greenbottle
+
+[Aria Greenbottle](aria_greenbottle.png)
+
+| Português | English |
+|-----------|---------|
+| **Descrição:** Halfling de 14 anos, curiosa e apaixonada por lendas de fadas e ruínas antigas. O seu desaparecimento em torno das [Ruínas das Sombras](ruinas_das_sombras.md) despoletou a missão “A Criança Perdida”. Sonhadora e destemida, Aria mantém marcas da influência das sombras e continua a ter sonhos perturbadores após o resgate. | **Description:** 14-year-old halfling, curious and fascinated by fairy tales and ancient ruins. Her disappearance around the [Ruins of Shadows](ruinas_das_sombras.md) triggered the “A Criança Perdida” quest. Dreamer and brave, Aria remains marked by the shadow’s influence and continues to have troubling dreams after her rescue. |
+
+[(Voltar a NPCs / Back to NPCs)](npcs.md)  
+[(Voltar à Página Inicial / Back to Home Page)](index.md)
+

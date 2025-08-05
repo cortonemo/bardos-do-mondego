@@ -1,17 +1,14 @@
 
-#### Sapolândia / Frog Village
+# Sapolândia / Frogland
 
-Sessões:  
-- Sessão 2 | Fonte: s02.txt  
-- Sessão 11 | Fonte: s11.txt  
-
-Tags: localizacao, aldeia
+Sessões: 4, 8 | Datas: 2025-01-23, 2025-02-27 | Fontes: s04_-_2025-01-23.txt, s08_-_2025-02-27.txt | Tags: localizacao, aldeia, pântano
 
 [Sapolândia](sapolandia.png)
 
-| English | Português |
-|---------|-----------|
-| **Frog Village** (“Sapolândia”) is a strange settlement of frogfolk in the swamps. Its inhabitants are reclusive and are often linked to dark magic or illithid plots. | **Sapolândia** é um povoado estranho de homens-sapo nos pântanos. Os seus habitantes são reclusos e muitas vezes associados a magia sombria ou esquemas de illithids. |
+| Português | English |
+|-----------|---------|
+| Aldeia remota de criaturas anfíbias, rodeada por pântano denso. Local-chave para encontros com mind flayers e missões envolvendo artefactos perdidos. | Remote village of amphibian creatures, surrounded by dense swamp. Key location for encounters with mind flayers and quests involving lost artifacts. |
 
-[(Back to Locations / Voltar a Localizações)](localizacoes.md)
+[(Voltar a Localizações / Back to Locations)](localizacoes.md)  
+[(Voltar à Página Inicial / Back to Home Page)](index.md)
 

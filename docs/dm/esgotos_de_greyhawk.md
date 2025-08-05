@@ -1,17 +1,14 @@
 
-#### Esgotos de Greyhawk / Greyhawk Sewers
+# Esgotos de Greyhawk / Greyhawk Sewers
 
-Sessões:  
-- Sessão 6 | Fonte: s06.txt  
-- Sessão 29 | Fonte: s29.txt  
-
-Tags: localizacao, dungeon, subterraneo
+Sessões: 29 | Datas: 2025-07-24 | Fontes: s29_-_2025-07-24.txt | Tags: localizacao, esgotos
 
 [Esgotos de Greyhawk](esgotos_de_greyhawk.png)
 
-| English | Português |
-|---------|-----------|
-| **The Greyhawk Sewers** run beneath the city, filled with danger, lost treasures, and hidden criminals. The party entered via the [Garden Quarter Fountain](garden_quarter.md) and explored ancient tunnels, encountering pirates and monsters. | **Os Esgotos de Greyhawk** estendem-se sob a cidade, repletos de perigos, tesouros perdidos e criminosos ocultos. O grupo entrou pela [Fonte do Garden Quarter](garden_quarter.md) e explorou túneis antigos, enfrentando piratas e monstros. |
+| Português | English |
+|-----------|---------|
+| Rede subterrânea de túneis sob a [Cidade de Greyhawk](cidade_de_greyhawk.md), local de exploração perigosa, encontros com piratas e monstros, e esconderijo de tesouros perdidos. | Underground network of tunnels beneath the [City of Greyhawk](cidade_de_greyhawk.md), a dangerous site for exploration, pirate encounters, monsters, and hidden treasures. |
 
-[(Back to Locations / Voltar a Localizações)](localizacoes.md)
+[(Voltar a Localizações / Back to Locations)](localizacoes.md)  
+[(Voltar à Página Inicial / Back to Home Page)](index.md)
 

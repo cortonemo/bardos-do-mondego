@@ -1,16 +1,14 @@
 
-#### Vale de Lytharien / Lytharien Vale
+# Vale de Lytharien / Lytharien Vale
 
-Sessões:  
-- Sessão 22 | Fonte: s22.txt  
-
-Tags: localizacao, vale, fey
+Sessões: 22 | Datas: 2025-06-05 | Fontes: s22_-_2025-06-05.txt | Tags: localizacao, vale, sagrado
 
 [Vale de Lytharien](vale_de_lytharien.png)
 
-| English | Português |
-|---------|-----------|
-| **The Lytharien Vale** is a hidden, sacred valley south of Greyhawk, protected by kobold tribes and home to a legendary [unicorn](unicorno.md) favored by Titania, queen of the Feywild. The vale is filled with ancient ruins, crystal lakes, and tribal totems. | **O Vale de Lytharien** é um vale sagrado e escondido a sul de Greyhawk, protegido por tribos de kobolds e lar de um lendário [unicórnio](unicorno.md) favorecido por Titania, rainha do Feywild. O vale contém ruínas antigas, lagos cristalinos e totens tribais. |
+| Português | English |
+|-----------|---------|
+| Vale sagrado ao sul da [Cidade de Greyhawk](cidade_de_greyhawk.md), protegido por kobolds e venerado por abrigar um unicórnio lendário. Repleto de ruínas antigas e de energia mística. | Sacred valley south of the [City of Greyhawk](cidade_de_greyhawk.md), protected by kobolds and revered for sheltering a legendary unicorn. Full of ancient ruins and mystical energy. |
 
-[(Back to Locations / Voltar a Localizações)](localizacoes.md)
+[(Voltar a Localizações / Back to Locations)](localizacoes.md)  
+[(Voltar à Página Inicial / Back to Home Page)](index.md)
 

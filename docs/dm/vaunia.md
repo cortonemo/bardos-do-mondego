@@ -1,9 +1,14 @@
-### Vaunia
 
-Sessão: 1 | Data: 2025-08-02 | Fonte: s01.txt | Tags: PC | Jogador: [Nome do Jogador]
+# Vaunia
+
+Sessões: a confirmar | Datas: a confirmar | Fontes: (logs de sessões) | Tags: pc, clériga | Jogador: (a confirmar)
 
 [Vaunia](vaunia.png)
 
-| English | Português |
-|---------|-----------|
-| **Player Character (PC)**<br>**Description:** Member of the party, receives a magical acorn from Borogrove. | **Personagem Jogadora (PC)**<br>**Descrição:** Membro do grupo, recebe uma bolota mágica de Borogrove. |
+| Português | English |
+|-----------|---------|
+| **Descrição:** Clériga de fé inabalável, destacou-se em rituais de proteção e cura, apoiando o grupo em momentos de grande adversidade. | **Description:** Cleric of unwavering faith, stood out in protection and healing rituals, supporting the party in times of great adversity. |
+
+[(Voltar a PCs / Back to PCs)](pcs.md)  
+[(Voltar à Página Inicial / Back to Home Page)](index.md)
+
