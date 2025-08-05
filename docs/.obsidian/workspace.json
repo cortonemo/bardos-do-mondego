@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "42051d7ca8a6b59e",
+        "id": "41d2acfd52f47caa",
         "type": "tabs",
         "children": [
           {
-            "id": "ec60ee0c6b3fc13c",
+            "id": "f74808016822e213",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -164,8 +164,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ec60ee0c6b3fc13c",
+  "active": "f74808016822e213",
   "lastOpenFiles": [
+    "dm/npcs.md",
+    "dm/majordomo_castelo.md",
+    "dm/borogrove.md",
     "index.md",
     "dm/index.md",
     "dm/conan.md",
@@ -189,9 +192,6 @@
     "dm/thargrin_letter.md",
     "dm/rust_monster.md",
     "dm/pelor.md",
-    "dm/mina_de_obsidiana.md",
-    "dm/hook_horror_teeth.md",
-    "dm/greyhawk.md",
     "portrait_📚_wenla_frott.png",
     "portrait_lord_aleister_devraine.png",
     "portrait_sister_blathine_half-orc_oghman_archivist.png",
