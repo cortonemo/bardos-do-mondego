@@ -1,0 +1,1 @@
+[(Voltar à Página Inicial / Back to Home Page)](npcs.md)

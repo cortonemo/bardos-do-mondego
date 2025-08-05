@@ -4,39 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "41d2acfd52f47caa",
+        "id": "5e7e422cff35604f",
         "type": "tabs",
         "children": [
           {
-            "id": "f74808016822e213",
+            "id": "78f58edb6cf68a6f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dm/the_vale_of_lytharien.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "the_vale_of_lytharien"
-            }
-          },
-          {
-            "id": "8c4684eb89597ddc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dm/s01_-_2025-01-02.md",
+                "file": "dm/npcs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "s01_-_2025-01-02"
+              "title": "npcs"
+            }
+          },
+          {
+            "id": "990a0fb098cfaf6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dm/npcs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "npcs"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,8 +182,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8c4684eb89597ddc",
+  "active": "78f58edb6cf68a6f",
   "lastOpenFiles": [
+    "taberneiro.md",
+    "dm/npcs.md",
+    "a_crianca_perdida.md",
+    "dm/aventuras.md",
+    "segredos_templo_scarlat.md",
+    "a_trama_do_pantano.md",
+    "o_segredo_de_eribend.md",
+    "dm/the_fouled_stream.md",
+    "dm/adventures_index.md",
+    "dm/the_vale_of_lytharien.md",
+    "dm/s01_-_2025-01-02.md",
     "dm/trixie.md",
     "dm/torre_do_eclipse.md",
     "dm/tobias_greenbottle.md",
@@ -200,17 +210,6 @@
     "dm/sombra.md",
     "dm/sociedade_dos_magos.md",
     "dm/sir_gregor.md",
-    "dm/silfir.md",
-    "dm/serpente_gigante.md",
-    "dm/senhor_rodrik.md",
-    "dm/sarvien.md",
-    "dm/rumores_sobre_illithids.md",
-    "dm/rumores_no_lago_umbra.md",
-    "dm/rumores_e_aliancas_em_eribend.md",
-    "dm/rumores_do_vale_lytharien.md",
-    "dm/rumores_da_mao_roubada.md",
-    "dm/ruinas_do_forte_da_casa_vanthir.md",
-    "dm/ruinas_das_sombras.md",
     "dm/missing_person.png",
     "dm/mapDM.png",
     "dm/mapa_caminho.png",
