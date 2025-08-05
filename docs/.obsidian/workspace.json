@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "the_vale_of_lytharien"
             }
+          },
+          {
+            "id": "8c4684eb89597ddc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "a_crianca_perdida.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "a_crianca_perdida"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,10 +183,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f74808016822e213",
+  "active": "8c4684eb89597ddc",
   "lastOpenFiles": [
-    "npc_prysanna.md",
+    "dm/missing_person.png",
+    "dm/mapDM.png",
+    "dm/mapa_caminho.png",
+    "dm/crypt_ruins.png",
+    "dm/child_alert.png",
     "dm/the_vale_of_lytharien.md",
+    "a_crianca_perdida.md",
+    "npc_prysanna.md",
     "dm/the_fouled_stream.md",
     "dm/The Fouled Stream- O Riacho Corrompido.md",
     "dm/vale_de_lytharien.md",
@@ -194,16 +215,12 @@
     "dm/notas_laura_2_-_23_de_janeiro_sessao_laura.md",
     "dm/notas_laura_1_-_15_de_janeiro_sessao_da_laura.md",
     "dm/nave_mae_illithid.md",
-    "dm/nave_illithid.md",
-    "dm/museu_das_maravilhas.md",
     "portrait_📚_wenla_frott.png",
     "portrait_🪶_mistress_lyra_quil.png",
     "portrait_city_guard_captain.png",
     "portrait_iquander.png",
     "portrait_jandel_the_lintwatcher.png",
     "portrait_lord_aleister_devraine.png",
-    "portrait_sister_blathine_half-orc_oghman_archivist.png",
-    "portrait_talandra_valaxar.webp",
     "dm/s4.txt",
     "Untitled 1",
     "Untitled"
