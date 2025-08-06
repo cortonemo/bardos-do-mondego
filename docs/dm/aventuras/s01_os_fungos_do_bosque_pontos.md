@@ -1,0 +1,24 @@
+# Sessão 01 — Os Fungos do Bosque (02-jan): Pontos Principais
+
+- Aventureiros acordam sem memórias claras, num castelo desconhecido.
+- Major-domo encaminha-os para a taberna “O Refúgio do Errante”.
+- Taberneiro apresenta o problema: fungos alienígenas a corromper o riacho e o bosque.
+- Aceitam a missão e partem em direção ao bosque.
+- Encontram Borogrove, o treant, que explica a situação e oferece uma bolota mágica (cura/restauração).
+- Chegada à caverna, entrada protegida por vinhas e atacados por 6 Twig Blights.
+- Interior da caverna completamente dominado por fungos vivos, atmosfera opressiva e mutante.
+- Encontram Shrieker Fungus (cogumelo que grita e alerta inimigos).
+- Confrontam 4 bullywugs (homens-sapo) corrompidos por fungos.
+- Defrontam urso selvagem corrompido (pode ser purificado com a bolota).
+- Enfrentam gosma psíquica e stirges (morcegos-inseto).
+- Descobrem colónia central de fungos alienígenas, uma infestação inteligente e hostil.
+- Purificam ou destroem a fonte da corrupção no riacho subterrâneo.
+- Borogrove agradece: oferece nova bolota a quem usou, e Staff of Flowers ao grupo.
+- Regressam à taberna, entregam itens/livro ao taberneiro e partilham loot:
+  - Staff of Flowers para Markus.
+  - Livro do druida para Dustin/taberneiro.
+  - 10 ouro para Grix’Molah.
+  - 3 gemas (1 Conan, 2 Triss), faca de prata para Triss, bolota para Vaunia.
+- Alguns provam cogumelos na taberna (com consequências).
+- Todos sobem de nível.
+- Palavras arcanas registadas para entrar/sair.
