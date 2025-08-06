@@ -1,5 +1,3 @@
-# Sessão 03 — Emboscada nas Margens do Rio Neem “Ready to Play” (versão fundida com detalhes de roleplay)
-
 ## Introdução
 Os aventureiros partem da taberna após receberem uma carta de missão para proteger uma estrada comercial junto ao Rio Neem.
 
