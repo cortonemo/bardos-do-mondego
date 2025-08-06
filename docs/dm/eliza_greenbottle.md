@@ -10,5 +10,5 @@ Sessões: Sessão Extra | Datas: 2025-04-24 | Fontes: extra_relato_crianca_perdi
 | **Descrição:** Mãe de [Aria](aria_greenbottle.md) e [Finn](finn_greenbottle.md), conhecida pela sua energia e conhecimentos em remédios e poções. Mostra-se aflita e acolhedora, mantendo esperança no regresso da filha. | **Description:** Mother of [Aria](aria_greenbottle.md) and [Finn](finn_greenbottle.md), known for her energy and skill in remedies and potions. She is distraught yet welcoming, holding out hope for her daughter’s return. |
 
 [(Voltar a NPCs / Back to NPCs)](npcs.md)  
-[(Voltar à Página Inicial / Back to Home Page)](index.md)
+[(Voltar à Página Inicial / Back to Home Page)](home.md)
 

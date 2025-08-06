@@ -10,5 +10,5 @@ Sessões: 27, 28 | Datas: 2025-07-10, 2025-07-17 | Fontes: s27_-_2025-07-10.txt,
 | Sala secreta do museu repleta de frascos mágicos e espécimes raros. | Secret museum room filled with magical jars and rare specimens. |
 
 [(Voltar a Localizações / Back to Locations)](localizacoes.md)  
-[(Voltar à Página Inicial / Back to Home Page)](index.md)
+[(Voltar à Página Inicial / Back to Home Page)](home.md)
 

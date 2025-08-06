@@ -10,5 +10,5 @@ Sessões: 2, 8 | Datas: 2025-01-09, 2025-02-27 | Fontes: s02_-_2025-01-09.txt, s
 | Criatura anfíbia misteriosa avistada no [Lago Umbra](lago_umbra.md) e arredores de [Mirens Hallow](mirens_hallow.md). Causou desaparecimentos e ataques noturnos; alvo de investigação de aventureiros. | Mysterious amphibious creature spotted in [Lago Umbra](lago_umbra.md) and around [Mirens Hallow](mirens_hallow.md). Responsible for disappearances and night attacks; target of adventurer investigations. |
 
 [(Voltar a Monstros / Back to Monsters)](monstros.md)  
-[(Voltar à Página Inicial / Back to Home Page)](index.md)
+[(Voltar à Página Inicial / Back to Home Page)](home.md)
 

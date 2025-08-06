@@ -2,7 +2,7 @@
 # NPCs  
 ## Personagens Não Jogadoras
 
-[(Voltar à Página Inicial / Back to Home Page)](index.md)
+[(Voltar à Página Inicial / Back to Home Page)](home.md)
 
 - [Aria Greenbottle](aria_greenbottle.md)
 - [Tobias Greenbottle](tobias_greenbottle.md)
@@ -39,6 +39,6 @@
 - [Verena Kestrel](verena_kestrel.md)
 - [Bartleby Quick](bartleby_quick.md)
 
-[(Voltar à Página Inicial / Back to Home Page)](index.md)
+[(Voltar à Página Inicial / Back to Home Page)](home.md)
 
 

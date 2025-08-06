@@ -1,7 +1,7 @@
 
 # Organizações & Rumores / Organizations & Rumors
 
-[(Voltar à Página Inicial / Back to Home Page)](index.md)
+[(Voltar à Página Inicial / Back to Home Page)](home.md)
 
 ## Organizações / Organizations
 
@@ -19,4 +19,4 @@
 - [Boatos sobre Piratas em Greyhawk](boatos_sobre_piratas.md)
 - [Rumores do Vale de Lytharien](rumores_do_vale_lytharien.md)
 
-[(Voltar à Página Inicial / Back to Home Page)](index.md)
+[(Voltar à Página Inicial / Back to Home Page)](home.md)

@@ -1,7 +1,7 @@
 
 # Localizações / Locations
 
-[(Voltar à Página Inicial / Back to Home Page)](index.md)
+[(Voltar à Página Inicial / Back to Home Page)](home.md)
 
 - [Casa dos Greenbottle](casa_dos_greenbottle.md)
 - [Caverna das Lágrimas de Cristal](caverna_das_lagrimas_de_cristal.md)
@@ -30,4 +30,4 @@
 - [Vila de Pessegueiro](vila_de_pessegueiro.md)
 - [Vila de Vauria](vila_de_vauria.md)
 
-[(Voltar à Página Inicial / Back to Home Page)](index.md)
+[(Voltar à Página Inicial / Back to Home Page)](home.md)

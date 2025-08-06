@@ -10,5 +10,5 @@ Sessões: 22 | Datas: 2025-06-05 | Fontes: s22_-_2025-06-05.txt | Tags: rumor, v
 | Histórias falam de um unicórnio lendário e ruínas sagradas no [Vale de Lytharien](vale_de_lytharien.md). Diz-se que só os puros de coração conseguem entrar e que o vale esconde um segredo milenar. | Tales speak of a legendary unicorn and sacred ruins in the [Vale de Lytharien](vale_de_lytharien.md). Only the pure of heart can enter, and the valley hides an ancient secret. |
 
 [(Voltar a Organizações & Rumores / Back to Organizations & Rumors)](organizacoes_rumores.md)  
-[(Voltar à Página Inicial / Back to Home Page)](index.md)
+[(Voltar à Página Inicial / Back to Home Page)](home.md)
 

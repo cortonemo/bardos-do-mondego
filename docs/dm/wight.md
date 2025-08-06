@@ -10,5 +10,5 @@ Sessões: 10, 11 | Datas: 2025-03-13, 2025-03-20 | Fontes: s10_-_2025-03-13.txt,
 | Morto-vivo inteligente encontrado nas [Ruínas do Forte da Casa Vanthir](ruinas_do_forte_da_casa_vanthir.md). Usa táticas de combate e controla outros mortos-vivos. | Intelligent undead found in the [Ruins of House Vanthir](ruinas_do_forte_da_casa_vanthir.md). Employs combat tactics and commands other undead. |
 
 [(Voltar a Monstros / Back to Monsters)](monstros.md)  
-[(Voltar à Página Inicial / Back to Home Page)](index.md)
+[(Voltar à Página Inicial / Back to Home Page)](home.md)
 

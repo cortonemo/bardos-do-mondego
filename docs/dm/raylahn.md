@@ -10,6 +10,6 @@ Sessões: 1–12, 14, 16, Sessão Extra | Datas: várias, 2025-04-24 | Fontes: s
 | **Descrição:** Caçador com ligação especial à natureza e animais, presença constante em todas as grandes aventuras do grupo. Destacou-se como rastreador na missão “**A Criança Perdida**”, localizando pistas de [Aria Greenbottle](aria_greenbottle.md) nas [Ruínas das Sombras](ruinas_das_sombras.md). Relevante também nos resgates de Dustin, explorações em Greyhawk, e confrontos com cultos e monstros. | **Description:** Hunter with a special bond to nature and animals, a constant presence in all major party quests. Excelled as the tracker in “**A Criança Perdida**”, finding clues to [Aria Greenbottle](aria_greenbottle.md) in the [Ruins of Shadows](ruinas_das_sombras.md). Also vital in Dustin’s rescues, explorations in Greyhawk, and battles against cults and monsters. |
 
 [(Voltar a PCs / Back to PCs)](pcs.md)  
-[(Voltar à Página Inicial / Back to Home Page)](index.md)
+[(Voltar à Página Inicial / Back to Home Page)](home.md)
 
 

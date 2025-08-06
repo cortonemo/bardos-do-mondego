@@ -10,5 +10,5 @@ Sessões: 1–12, 14, 16, 22 | Datas: várias | Fontes: s01_-_2025-01-02.txt, ..
 | **Descrição:** Bruxa com ligações ao submundo drow, conhecida por manipulações mágicas e rivalidade com [Pryssana](pryssana.md). Frequentemente recorre ao feitiço Hex e a identidades falsas. | **Description:** Witch with ties to the drow underworld, known for magical manipulation and rivalry with [Pryssana](pryssana.md). Often resorts to Hex and false identities. |
 
 [(Voltar a PCs / Back to PCs)](pcs.md)  
-[(Voltar à Página Inicial / Back to Home Page)](index.md)
+[(Voltar à Página Inicial / Back to Home Page)](home.md)
 

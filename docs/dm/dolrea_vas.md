@@ -10,5 +10,5 @@ Sessões: 9 | Datas: 2025-03-06 | Fontes: s09_-_2025-03-06.txt | Tags: npc, half
 | **Descrição:** Meio-elfa carismática, conhecida por recrutar aventureiros em [Eribend](eribend.md) e [Vauria](vila_de_vauria.md). Atua como ponte entre fações e é portadora de missões e rumores importantes para o grupo. | **Description:** Charismatic half-elf, known for recruiting adventurers in [Eribend](eribend.md) and [Vauria](vila_de_vauria.md). Acts as a bridge between factions and brings the group important quests and rumors. |
 
 [(Voltar a NPCs / Back to NPCs)](npcs.md)  
-[(Voltar à Página Inicial / Back to Home Page)](index.md)
+[(Voltar à Página Inicial / Back to Home Page)](home.md)
 

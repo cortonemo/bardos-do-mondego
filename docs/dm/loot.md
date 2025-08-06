@@ -1,7 +1,7 @@
 
 # Loot & Itens Mágicos / Loot & Magic Items
 
-[(Voltar à Página Inicial / Back to Home Page)](index.md)
+[(Voltar à Página Inicial / Back to Home Page)](home.md)
 
 - [Anel Mágico de Zorg](anel_magico_de_zorg.md)
 - [Braçadeiras de Defesa](bracers_of_defense.md)
@@ -16,4 +16,4 @@
 - [Poção de Resistência a Necrótico](pocao_resistencia_necrotico.md)
 - [Relíquia Amaldiçoada](reliquia_amaldicoada.md)
 
-[(Voltar à Página Inicial / Back to Home Page)](index.md)
+[(Voltar à Página Inicial / Back to Home Page)](home.md)

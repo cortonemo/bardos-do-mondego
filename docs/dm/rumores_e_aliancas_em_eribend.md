@@ -10,5 +10,5 @@ Sessão: 7 | Data: 2025-02-20 | Fontes: s07_-_2025-02-20.txt | Tags: aventura, e
 | Sessão marcada por negociações e novas alianças em [Eribend](eribend.md). O grupo lida com consequências de aventuras passadas, rumores de movimentações monstruosas e disputas entre comerciantes e viajantes. | Session marked by negotiations and new alliances in [Eribend](eribend.md). The party deals with the aftermath of previous adventures, rumors of monstrous activity, and disputes among merchants and travelers. |
 
 [(Voltar a Aventuras / Back to Adventures)](aventuras.md)  
-[(Voltar à Página Inicial / Back to Home Page)](index.md)
+[(Voltar à Página Inicial / Back to Home Page)](home.md)
 

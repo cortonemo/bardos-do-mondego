@@ -1,7 +1,7 @@
 
 # Aventuras / Adventures
 
-[(Voltar à Página Inicial / Back to Home Page)](index.md)
+[(Voltar à Página Inicial / Back to Home Page)](home.md)
 
 - [O Segredo de Eribend](o_segredo_de_eribend.md)  
   Sessão: 1 | Data: 2025-01-02
@@ -54,5 +54,5 @@
 - [O Mistério dos Esgotos](o_misterio_dos_esgotos.md)  
   Sessão: 29 | Data: 2025-07-24
 
-[(Voltar à Página Inicial / Back to Home Page)](index.md)
+[(Voltar à Página Inicial / Back to Home Page)](home.md)
 

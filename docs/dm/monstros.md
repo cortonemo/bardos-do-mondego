@@ -1,7 +1,7 @@
 
 # Monstros / Monsters
 
-[(Voltar à Página Inicial / Back to Home Page)](index.md)
+[(Voltar à Página Inicial / Back to Home Page)](home.md)
 
 - [Armadura Animada / Animated Armor](armadura_animada.md)
 - [Ghast](ghast.md)
@@ -26,4 +26,4 @@
 - [Elemental de Fogo / Fire Elemental](elemental_de_fogo.md)
 - [Corvo Gigante / Giant Crow](corvo_gigante.md)
 
-[(Voltar à Página Inicial / Back to Home Page)](index.md)
+[(Voltar à Página Inicial / Back to Home Page)](home.md)

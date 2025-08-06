@@ -10,5 +10,5 @@ Sessões: 10, 11, 12 | Datas: 2025-03-13, 2025-03-20, 2025-03-27 | Fontes: s10_-
 | Restos de uma antiga fortaleza nobre, hoje dominada por magia negra e palco do cativeiro de Dustin. | Remains of an old noble stronghold, now overtaken by dark magic and the site of Dustin’s captivity. |
 
 [(Voltar a Localizações / Back to Locations)](localizacoes.md)  
-[(Voltar à Página Inicial / Back to Home Page)](index.md)
+[(Voltar à Página Inicial / Back to Home Page)](home.md)
 

@@ -2,7 +2,7 @@
 # PCs  
 ## Personagens Jogadores
 
-[(Voltar à Página Inicial / Back to Home Page)](index.md)
+[(Voltar à Página Inicial / Back to Home Page)](home.md)
 
 - [Dustin](dustin.md)
 - [Triss](triss.md)
@@ -27,9 +27,9 @@
 - [Eirwen](eirwen.md)
 - [Ketrich Flavifer](ketrich_flavifer.md)
 - [Asinius](asinius.md)
-- [Grix’molah](grixmolah.md)
+- [Grix’molah](grix_molah.md)
 - [Ustrax](ustrax.md)
 - [Vaunia](vaunia.md)
 
-[(Voltar à Página Inicial / Back to Home Page)](index.md)
+[(Voltar à Página Inicial / Back to Home Page)](home.md)
 

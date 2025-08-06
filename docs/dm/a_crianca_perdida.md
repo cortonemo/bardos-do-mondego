@@ -10,5 +10,5 @@ Sessão: 16 | Data: 2025-04-24 | Fontes: extra_relato_crianca_perdida.txt, s16_-
 | [Aria Greenbottle](aria_greenbottle.md), uma jovem halfling, desaparece nas [Ruínas das Sombras](ruinas_das_sombras.md) ao norte de [Greyhawk](cidade_de_greyhawk.md). O grupo segue pistas, enfrenta criaturas das trevas na [Cripta das Sombras](cripta_das_sombras.md) e desvenda o mistério, salvando Aria e ganhando o respeito do Mercado de Greyhawk. | [Aria Greenbottle](aria_greenbottle.md), a young halfling, vanishes in the [Ruins of Shadows](ruinas_das_sombras.md) north of [Greyhawk](cidade_de_greyhawk.md). The party follows clues, faces shadowy creatures in the [Crypt of Shadows](cripta_das_sombras.md), and unravels the mystery, rescuing Aria and earning the respect of the Greyhawk Market. |
 
 [(Voltar a Aventuras / Back to Adventures)](aventuras.md)  
-[(Voltar à Página Inicial / Back to Home Page)](index.md)
+[(Voltar à Página Inicial / Back to Home Page)](home.md)
 

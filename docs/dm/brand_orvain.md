@@ -10,5 +10,5 @@ Sessões: 10, 11 | Datas: 2025-03-13, 2025-03-20 | Fontes: s10_-_2025-03-13.txt,
 | **Descrição:** Paladino do Subterrâneo, conhecido pela postura rígida e capacidade de liderança em situações de crise. | **Description:** Paladin of the Underdark, known for his strict demeanor and leadership abilities in crisis situations. |
 
 [(Voltar a NPCs / Back to NPCs)](npcs.md)  
-[(Voltar à Página Inicial / Back to Home Page)](index.md)
+[(Voltar à Página Inicial / Back to Home Page)](home.md)
 

@@ -93,4 +93,4 @@
 ---
 
 [(Voltar a Aventuras / Back to Adventures)](aventuras.md)  
-[(Voltar à Página Inicial / Back to Home Page)](index.md)
+[(Voltar à Página Inicial / Back to Home Page)](home.md)

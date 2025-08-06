@@ -10,5 +10,5 @@ Sessões: várias | Datas: várias | Fontes: vários | Tags: universidade, magia
 | Centro de ensino e investigação arcana na [Cidade de Greyhawk](cidade_de_greyhawk.md). | Center for arcane teaching and research in [Greyhawk](cidade_de_greyhawk.md). |
 
 [(Voltar a Localizações / Back to Locations)](localizacoes.md)  
-[(Voltar à Página Inicial / Back to Home Page)](index.md)
+[(Voltar à Página Inicial / Back to Home Page)](home.md)
 

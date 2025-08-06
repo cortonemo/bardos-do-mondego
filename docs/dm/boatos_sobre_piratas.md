@@ -10,5 +10,5 @@ Sessões: 29 | Datas: 2025-07-24 | Fontes: s29_-_2025-07-24.txt | Tags: rumor, p
 | Circulam boatos de que piratas estão a recrutar nos [Esgotos de Greyhawk](esgotos_de_greyhawk.md), preparando ataques ousados às rotas comerciais. A taberna [The Golden Dragon’s Tavern](taberna_golden_dragon.md) tornou-se ponto de encontro de suspeitos. | Rumors are circulating that pirates are recruiting in the [Sewers of Greyhawk](esgotos_de_greyhawk.md), preparing daring raids on trade routes. The [Golden Dragon’s Tavern](taberna_golden_dragon.md) has become a meeting point for suspects. |
 
 [(Voltar a Organizações & Rumores / Back to Organizations & Rumors)](organizacoes_rumores.md)  
-[(Voltar à Página Inicial / Back to Home Page)](index.md)
+[(Voltar à Página Inicial / Back to Home Page)](home.md)
 

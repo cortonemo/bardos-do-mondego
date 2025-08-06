@@ -10,5 +10,5 @@ Sessões: 27, 28 | Datas: 2025-07-10, 2025-07-17 | Fontes: s27_-_2025-07-10.txt,
 | Laboratório secreto do curador-chefe do museu, palco de experiências e de eventos críticos. | Secret laboratory of the museum’s head curator, stage for experiments and critical events. |
 
 [(Voltar a Localizações / Back to Locations)](localizacoes.md)  
-[(Voltar à Página Inicial / Back to Home Page)](index.md)
+[(Voltar à Página Inicial / Back to Home Page)](home.md)
 

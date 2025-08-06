@@ -10,5 +10,5 @@ Sessões: 10, 11, 12 | Datas: 2025-03-13, 2025-03-20, 2025-03-27 | Fontes: s10_-
 | **Descrição:** Paladino do Subterrâneo, conhecido pela bravura e devoção à justiça. Participou ativamente nas operações de resgate nas [Ruínas do Forte da Casa Vanthir](ruinas_do_forte_da_casa_vanthir.md). | **Description:** Paladin of the Underdark, known for bravery and devotion to justice. Played an active role in the rescue operations at the [Ruins of House Vanthir](ruinas_do_forte_da_casa_vanthir.md). |
 
 [(Voltar a NPCs / Back to NPCs)](npcs.md)  
-[(Voltar à Página Inicial / Back to Home Page)](index.md)
+[(Voltar à Página Inicial / Back to Home Page)](home.md)
 

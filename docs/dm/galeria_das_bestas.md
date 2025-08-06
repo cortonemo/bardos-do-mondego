@@ -10,5 +10,5 @@ Sessões: 27, 28 | Datas: 2025-07-10, 2025-07-17 | Fontes: s27_-_2025-07-10.txt,
 | Ala do museu dedicada a criaturas mágicas vivas ou embalsamadas. | Museum wing dedicated to living or stuffed magical creatures. |
 
 [(Voltar a Localizações / Back to Locations)](localizacoes.md)  
-[(Voltar à Página Inicial / Back to Home Page)](index.md)
+[(Voltar à Página Inicial / Back to Home Page)](home.md)
 

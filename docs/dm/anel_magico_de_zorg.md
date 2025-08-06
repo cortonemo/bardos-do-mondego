@@ -10,5 +10,5 @@ Sessões: 8 | Datas: 2025-02-27 | Fontes: s08_-_2025-02-27.txt | Tags: loot, ane
 | Anel concedido durante o baile de Mirens Hallow, supostamente proveniente do mago Zorg. Concede ao portador resistência a venenos e a capacidade de falar línguas raras durante breves períodos. | Ring granted during the Mirens Hallow ball, supposedly from the mage Zorg. Grants the wearer resistance to poisons and the ability to speak rare languages for short periods. |
 
 [(Voltar a Loot & Itens Mágicos / Back to Loot & Magic Items)](loot.md)  
-[(Voltar à Página Inicial / Back to Home Page)](index.md)
+[(Voltar à Página Inicial / Back to Home Page)](home.md)
 

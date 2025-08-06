@@ -10,5 +10,5 @@ Sessões: 9 | Datas: 2025-03-06 | Fontes: s09_-_2025-03-06.txt | Tags: localizac
 | Vila isolada nas montanhas, frequentada por aventureiros em busca de segredos antigos e tesouros esquecidos. | Isolated mountain village, frequented by adventurers searching for ancient secrets and forgotten treasures. |
 
 [(Voltar a Localizações / Back to Locations)](localizacoes.md)  
-[(Voltar à Página Inicial / Back to Home Page)](index.md)
+[(Voltar à Página Inicial / Back to Home Page)](home.md)
 
