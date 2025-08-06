@@ -38,30 +38,30 @@ nav:
 
   - 📜 DM:
       - 🧭 Aventuras:
-          - Os Fungos do Bosque: dm/aventuras/s01_os_fungos_do_bosque_ready.md
-          - Dificuldades na Mina de Obsidiana: dm/aventuras/s02_dificuldades_na_mina_de_obsidiana_ready.md
-          - Emboscada nas Margens do Rio Neem: dm/aventuras/s03_emboscada_nas_margens_do_rio_neem_ready.md
-          - Vale do Vento Sombrio: dm/aventuras/s03_vale_do_vento_sombrio_ready.md
-          - Regresso à Mina, Gravuras: dm/aventuras/s04_regresso_mina_gravuras_ready.md
-          - Two Fords, Doença do Rio e o Moinho: dm/aventuras/s04_two_fords_doenca_moinho_ready.md
-          - Vale do Vento Sombrio, Dragão: dm/aventuras/s04_vale_do_vento_sombrio_dragao_ready.md
-          - Acampamento Goblin e Resgate: dm/aventuras/s05_acampamento_goblin_caravana_resgate_ready.md
-          - As Máscaras da Morte (Mistwood): dm/aventuras/s05_as_mascaras_da_morte_mistwood_ready.md
-          - Diário da Acólita Morvanya: dm/aventuras/s05_diario_acolita_morvanya_ready.md
-          - Bullywugs e Basilisco: dm/aventuras/s08_bullywugs_e_basilisco_ready.md
-          - As Três Pedras e o Ritual: dm/aventuras/s08_as_tres_pedras_e_o_ritual_ready.md
-          - Roubo e Perseguição das Pedras: dm/aventuras/s08_roubo_e_perseguicao_das_pedras_ready.md
-          - Nave Illithid e Entrega de Thoren: dm/aventuras/s08_nave_illithid_e_entrega_de_thoren_ready.md
-          - Lago Umbra, O Cavaleiro e as Sombras: dm/aventuras/s08_lago_umbra_cavaleiro_sombras_ready.md
-          - Eribend, Raptos & Cultistas de Odrak: dm/aventuras/s07_eribend_raptos_cultistas_odrak_ready.md
-          - Terceiro Templo, Basilisco & Feixe de Luz: dm/aventuras/s07_terceiro_templo_basilisco_pedras_luz_ready.md
-          - Mistério de High Ery: dm/aventuras/s09_misterio_de_high_ery_ready.md
-          - Entrega para Blackfair Manor: dm/aventuras/s09_entrega_para_blackfair_manor_ready.md
-          - Baile dos High Fae: dm/aventuras/s09_baile_dos_high_fae_ready.md
-          - Sangue e Ouro no Pântano: dm/aventuras/s10_a_rota_da_cia_sangue_e_ouro_no_pantano_ready.md
-          - O Segredo de Peculiar Manor: dm/aventuras/s10_o_segredo_de_peculiar_manor_ready.md
-          - Sombras de Iuz: dm/aventuras/s10_sombras_de_iuz_ready.md
-          - Sombras sobre Erybend: dm/aventuras/s10_sombras_sobre_erybend_ready.md       
+          - Os Fungos do Bosque: dm/aventuras/s01_os_fungos_do_bosque_resumo.md
+          - Dificuldades na Mina de Obsidiana: dm/aventuras/s02_dificuldades_na_mina_de_obsidiana_resumo.md
+          - Emboscada nas Margens do Rio Neem: dm/aventuras/s03_emboscada_nas_margens_do_rio_neem_resumo.md
+          - Vale do Vento Sombrio: dm/aventuras/s03_vale_do_vento_sombrio_resumo.md
+          - Regresso à Mina, Gravuras: dm/aventuras/s04_regresso_mina_gravuras_resumo.md
+          - Two Fords, Doença do Rio e o Moinho: dm/aventuras/s04_two_fords_doenca_moinho_resumo.md
+          - Vale do Vento Sombrio, Dragão: dm/aventuras/s04_vale_do_vento_sombrio_dragao_resumo.md
+          - Acampamento Goblin e Resgate: dm/aventuras/s05_acampamento_goblin_caravana_resgate_resumo.md
+          - As Máscaras da Morte (Mistwood): dm/aventuras/s05_as_mascaras_da_morte_mistwood_resumo.md
+          - Diário da Acólita Morvanya: dm/aventuras/s05_diario_acolita_morvanya_resumo.md
+          - Bullywugs e Basilisco: dm/aventuras/s08_bullywugs_e_basilisco_resumo.md
+          - As Três Pedras e o Ritual: dm/aventuras/s08_as_tres_pedras_e_o_ritual_resumo.md
+          - Roubo e Perseguição das Pedras: dm/aventuras/s08_roubo_e_perseguicao_das_pedras_resumo.md
+          - Nave Illithid e Entrega de Thoren: dm/aventuras/s08_nave_illithid_e_entrega_de_thoren_resumo.md
+          - Lago Umbra, O Cavaleiro e as Sombras: dm/aventuras/s08_lago_umbra_cavaleiro_sombras_resumo.md
+          - Eribend, Raptos & Cultistas de Odrak: dm/aventuras/s07_eribend_raptos_cultistas_odrak_resumo.md
+          - Terceiro Templo, Basilisco & Feixe de Luz: dm/aventuras/s07_terceiro_templo_basilisco_pedras_luz_resumo.md
+          - Mistério de High Ery: dm/aventuras/s09_misterio_de_high_ery_resumo.md
+          - Entrega para Blackfair Manor: dm/aventuras/s09_entrega_para_blackfair_manor_resumo.md
+          - Baile dos High Fae: dm/aventuras/s09_baile_dos_high_fae_resumo.md
+          - Sangue e Ouro no Pântano: dm/aventuras/s10_a_rota_da_cia_sangue_e_ouro_no_pantano_resumo.md
+          - O Segredo de Peculiar Manor: dm/aventuras/s10_o_segredo_de_peculiar_manor_resumo.md
+          - Sombras de Iuz: dm/aventuras/s10_sombras_de_iuz_resumo.md
+          - Sombras sobre Erybend: dm/aventuras/s10_sombras_sobre_erybend_resumo.md       
       - 📜 SESSÕES:
           - S01 - 2025-01-02: dm/s01_-_2025-01-02.md
           - S02 - 2025-01-09: dm/s02_-_2025-01-09.md
