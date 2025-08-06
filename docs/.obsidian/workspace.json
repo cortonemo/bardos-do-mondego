@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dm/s07_-_2025-02-20.md",
+                "file": "dm/aventuras/s02_dificuldades_na_mina_de_obsidiana_ready.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "s07_-_2025-02-20"
+              "title": "s02_dificuldades_na_mina_de_obsidiana_ready"
             }
           }
         ]
@@ -168,8 +168,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "78f58edb6cf68a6f",
+  "active": "2251185c0404c7c2",
   "lastOpenFiles": [
+    "dm/aventuras/s01_os_fungos_do_bosque_pontos.md",
+    "dm/aventuras/s02_dificuldades_na_mina_de_obsidiana_ready.md",
+    "dm/aventuras/s02_dificuldades_na_mina_de_obsidiana_pontos.md",
+    "dm/aventuras/s02_dificuldades_na_mina_de_obsidiana_resumo.md",
+    "dm/s07_-_2025-02-20.md",
     "dm/tabelas/pcs_por_aventura.md",
     "dm/tabelas/npcs_por_aventura.md",
     "dm/tabelas/monstros_por_aventura.md",
@@ -193,11 +198,6 @@
     "dm/aventuras/s09_misterio_de_high_ery_ready.md",
     "dm/aventuras/s09_misterio_de_high_ery_pontos.md",
     "dm/aventuras/s09_entrega_para_blackfair_manor_resumo.md",
-    "dm/aventuras/s09_entrega_para_blackfair_manor_ready.md",
-    "dm/aventuras/s09_entrega_para_blackfair_manor_pontos.md",
-    "dm/aventuras/s09_baile_dos_high_fae_resumo.md",
-    "dm/aventuras/s09_baile_dos_high_fae_ready.md",
-    "dm/aventuras/s09_baile_dos_high_fae_pontos.md",
     "dm/aventuras",
     "portrait_talandra_valaxar.webp",
     "portrait_sister_blathine_half-orc_oghman_archivist.png",
