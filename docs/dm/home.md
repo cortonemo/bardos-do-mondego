@@ -52,6 +52,7 @@ Tudo o que encontrares aqui pode mudar com o tempo — a história é viva, e é
 
 ## 👥 DMs
 
+🧭 Aventuras
 ### 📜 SESSÕES
 
 - [S01 - 2025-01-02](dm/s01_-_2025-01-02.md)
