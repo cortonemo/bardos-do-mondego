@@ -32,3 +32,6 @@ Os aventureiros partem da taberna após receberem uma carta de missão para prot
 - Bugbear líder, goblins, lobo domesticado.
 - Crianças NPCs (secundário, possível gancho futuro).
 
+## Loot
+50GP (Kaldros), 25GP (enemies), clues to goblin camp
+

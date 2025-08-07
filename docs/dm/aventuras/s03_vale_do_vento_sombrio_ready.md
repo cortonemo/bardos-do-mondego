@@ -27,6 +27,13 @@ Taberneiro solicita investigação ao Vale do Vento Sombrio; rota interrompida, 
 - Altar com barreira mágica (Arcana+Religião DC 14 ou 50 HP dano).
 - Diálogo de Vaelkor.
 
+## NPCs
+- Klikz (kobold), Vaelkor Ashbrand (cultist), cultists, kobolds, elemental da terra
+
+## Loot
+- 50GP, potion of healing, +1 amulet, letter, 200GP (from taberneiro), free meals (1 month), weapons/robes
+
+
 ## Conclusão/Recompensas
 - Vitória: fungo morre, kobolds agradecem, loot (50 PO, poção, amuleto+1).
 - Loot extra: carta misteriosa, armas, escudos, robes.

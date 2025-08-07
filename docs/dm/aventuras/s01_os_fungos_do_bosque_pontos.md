@@ -19,6 +19,8 @@
   - Livro do druida para Dustin/taberneiro.
   - 10 ouro para Grix’Molah.
   - 3 gemas (1 Conan, 2 Triss), faca de prata para Triss, bolota para Vaunia.
+  - Loot: Staff of Flowers, druida’s book, 10 gold (Grix), 3 gems, silver knife (Triss), acorn (Vaunia), mushrooms (various effects)
 - Alguns provam cogumelos na taberna (com consequências).
 - Todos sobem de nível.
 - Palavras arcanas registadas para entrar/sair.
+- NPCs: Borogrove, taberneiro, major-domo, bullywugs, twig blights, stirges  

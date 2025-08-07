@@ -26,4 +26,7 @@ Orianna, Arkos, Lone, Wandering, Endor e Gau encontram-se na taberna, onde conhe
 - Grupo regressa à sua cidade natal, pronto para futuras investigações e preparado para partilhar o que descobriu.
 
 ## NPCs
-- Orianna, Arkos, Lone, Wandering Sage, Endor, Gau, Kaldros (mercador), Geralt (taberneiro).
+- Orianna, Arkos, Lone, Wandering Sage, Endor, Gau, Kaldros (mercador), Geralt (taberneiro), cultists, faunas corrompidas.
+
+## Loot
+- gems (10GP/cultist), healing potion, corrupted elemental crystal, weapons/notes

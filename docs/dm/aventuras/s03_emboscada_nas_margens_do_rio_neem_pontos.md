@@ -13,3 +13,5 @@
 - No clímax, bugbear tenta negociar: revela existência de acampamento goblin a soldo de uma gangue de bandidos.
 - **Recompensas:** 50 PO de Kaldros (se sobrevivente), 25 PO em moedas/joias dos inimigos.
 - Possíveis ganchos: seguir para acampamento goblin, investigar a gangue de bandidos.
+- NPCs: Kaldros Veynor, goblins, wolf, bugbear
+- Loot: 50GP (Kaldros), 25GP (enemies), clues to goblin camp

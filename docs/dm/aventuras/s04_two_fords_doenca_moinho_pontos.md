@@ -12,4 +12,5 @@
 - Tesouro: joias (10 GP/cultista), poção de cura (acolito), cristal elemental corrompido (item mágico para análise).
 - Descoberta: culto planeia atacar outras regiões pelo rio.
 - Regressam à cidade com provas e possível cura futura.
-
+- NPCs: Kaldros, Geralt (taberneiro), cultists, faunas corrompidas
+- Loot: gems (10GP/cultist), healing potion, corrupted elemental crystal, weapons/notes

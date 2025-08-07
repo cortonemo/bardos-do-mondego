@@ -1,4 +1,4 @@
-# Sessão 05 — As Máscaras da Morte (Mistwood) “Ready to Play”
+# Sessão 05 — As Máscaras da Morte (Mistwood) “Ready to Play” (data: 30-jan-2025)
 
 ## Introdução
 O taberneiro pede aos aventureiros para irem a Mistwood, vila comercial a norte, essencial para triangulação do mundo e futuras alianças.
@@ -22,11 +22,18 @@ O taberneiro pede aos aventureiros para irem a Mistwood, vila comercial a norte,
 ## Cena 4: Clímax — Morvanya
 - Morvanya (sacerdotisa de Nerull) surge com bonegoblin, apresenta-se como Manvea.
 - Combate difícil; bonegoblin regenera, Morvanya usa magia de morte e escuridão.
-- Derrotada, Morvanya suicida-se; altar purificado, altar de Titania renasce.
+- Derrotada, Morvanya suicida-se; altar profanado é purificado, altar de Titania renasce.
+- Paladina de Titania surge e recompensa os heróis.
 
 ## Encerramento e Recompensas
-- Mistwood salva, aldeia em luto, grupo regressa com orquídea mágica e prestígio entre os deuses.
+- Mistwood salva, aldeia em luto, grupo regressa com orquídea mágica, símbolo sagrado, loot mágico do altar e prestígio entre os deuses.
 - Ganchos: ligação entre Nerull, culto do Mal Elemental e próximos ataques.
 
-## NPCs/Elementos Chave
-- Morvanya (Manvea), Bonegoblin, Shade do padre, Wee Jas, Egalar/Titania.
+## NPCs
+- Morvanya (Manvea), Bonegoblin, shade do padre, Wee Jas, Egalar/Titania, villagers undead, paladina de Titania
+
+## Loot
+- Orquídea mágica, símbolo sagrado, loot mágico do altar
+
+**Data:** 30 de janeiro de 2025  
+**Fontes:** s05_acampamento_-_as_mascaras_da_morte.md, s05_-_notas_laura_3_-_30_janeiro_sessoes_laura.docx.md

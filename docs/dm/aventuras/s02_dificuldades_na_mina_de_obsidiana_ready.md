@@ -40,3 +40,9 @@ O taberneiro tem um sonho/visão de um anão preso e ferido numa mina. A mensage
 - 6 dentes grandes de Hook Horror (um para cada)
 - Promessa de ajuda de Kristryd/Blackstone
 
+## NPCs
+Kristryd Splitanvil, Thargrin (anão morto), hook horror, rust monster, giant spider
+
+## Loot
+Hook horror teeth, topázio (Triss), letter from Thargrin, future help from Kristryd, possible magic item
+

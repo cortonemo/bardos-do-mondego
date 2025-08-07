@@ -47,3 +47,9 @@ Desafios:
 - 3 gemas (1 Conan, 2 Triss)
 - Faca de prata (Triss)
 - Bolota mágica (Vaunia)
+
+## NPCs
+Borogrove, taberneiro, major-domo, bullywugs, twig blights, stirges
+
+## Loot
+Staff of Flowers, druida’s book, 10 gold (Grix), 3 gems, silver knife (Triss), acorn (Vaunia), mushrooms (various effects)

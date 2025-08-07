@@ -18,4 +18,7 @@
 - Triss recebe um topázio do tamanho de um punho (recompensa).
 - Kristryd promete ajudar o grupo em futuras expedições às montanhas de Cairn.
 - Grupo regressa, consolidando relação com Blackstone e Kristryd.
+- NPCs: Kristryd Splitanvil, Thargrin (anão morto), hook horror, rust monster, giant spider
+- Loot: Hook horror teeth, topázio (Triss), letter from Thargrin, future help from Kristryd, possible magic item
+
 

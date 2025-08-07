@@ -1,14 +1,13 @@
-# Sessão 05 — Acampamento Goblin e Resgate: Bullet Points
+# Sessão 05 — Acampamento Goblin & Resgate da Caravana (data: 30-jan-2025)
 
-- Lone Straw recebe pedido de uma rapariga da taberna para procurar um gato perdido (grupo junta-se).
-- Pista leva a acampamento goblin junto ao rio, guardado por ogre, goblins, altar profano e jaula com prisioneiros.
-- Usopp procura ervas raras; grupo observa acampamento à distância.
-- Enganam ogre usando ilusões, atraem-no ao rio e afogam-no.
-- Monges e Usopp emboscam goblins, libertam prisioneiros (humanos, elfos, goblins submissos).
-- Sarvian lança Fog Cloud, distraem e eliminam goblins, capturam um para interrogar.
-- Goblin revela adoração a Nerull, ligação ao xamã Jogmaahx, e ordens de Vaelkor Ashbrand.
-- Drayl identifica culto do Mal Elemental, destruição do altar profano.
-- Xamã invoca zombies, combate final.
-- Encontram carta de Vaelkor Ashbrand para Jogmaahx, detalhando planos para a região.
-- Libertam prisioneiros, decidem destino dos goblins escravos.
-- Regressam à taberna, recompensados (50 GP cada), apresentam carta ao taberneiro.
+- Missão do taberneiro: investigar raptos/caravana atacada.
+- Chegada ao acampamento: reconhecimento, ogre vigia, patrulhas de goblins.
+- Ilusões para afogar ogre no rio.
+- Emboscada furtiva aos goblins, libertação de prisioneiros (humanos, elfos, goblins submissos).
+- Descoberta de carta de Vaelkor Ashbrand com ordens.
+- Destruição do acampamento, regresso à taberna, recompensa paga.
+
+- **NPCs:** Taverneiro, sobrinha, Jogmaahx (xamã), ogre, patrulha goblin, escravos goblin, Vaelkor Ashbrand (mencionado), prisioneiros humanos/élficos
+- **Loot:** 50GP cada, carta Vaelkor Ashbrand, armas goblin
+- **Data:** 30 de janeiro de 2025
+- **Fontes:** s05_acampamento-_sessao_de_30_de_janeiro_de_2025_andre.md, s05_acampamento_-_notas_laura.md, s05_acampamento_-_sessao_laura.md, s05__-_2025-01-30.txt

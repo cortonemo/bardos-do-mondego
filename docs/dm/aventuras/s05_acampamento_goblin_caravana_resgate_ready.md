@@ -1,38 +1,38 @@
-# Sessão 05 — Acampamento Goblin e Resgate de Prisioneiros “Ready to Play” (com detalhes de roleplay)
+# Sessão 05 — Acampamento Goblin & Resgate da Caravana “Ready to Play” (data: 30-jan-2025)
 
 ## Introdução
-A sobrinha do taberneiro pede a Lone Straw para encontrar o gato perdido; outros personagens ouvem e juntam-se à missão, aceitando a promessa de recompensa.
+O taberneiro (ou a sua jovem sobrinha) procura aventureiros para investigar desaparecimentos e ataques a caravanas numa zona florestal a noroeste da cidade. Recompensa prometida a quem conseguir resolver o mistério.
 
-## Cena 1: Chegada ao Acampamento
-- Usopp procura ervas raras na clareira.
-- Observam acampamento: dois grupos de goblins em patrulha, ogre armado com taco de madeira junto a uma jaula de prisioneiros.
-- Detalhe RP: Silent Image cria um boneco de ogre fêmea; Minor Illusion dá-lhe voz (“Sr. Ogre, que músculos enormes… Que taco enorme, posso mexer?... Step Ogre, queres vir ver o meu taco?”).
-- Ogre confuso, segue o boneco até ao rio, Drayl lança Sleep (“Vem cá, deixa-me polir-te o taco aqui na água...”) e finalmente afoga-se.
+## Cena 1: Chegada à Clareira dos Goblins
+- Floresta densa e húmida, trilhos camuflados e sinais de batalha recente.
+- O grupo observa de longe: acampamento improvisado, ogre enorme de vigia junto ao rio, patrulhas goblin circulando.
+- Stealth: testes de Destreza para aproximar-se sem alertar o ogre.
+- Planos criativos: ilusão (Silent Image/Minor Illusion) para atrair o ogre, afogando-o no rio tumultuoso.
+- Possibilidade de emboscada ou diálogo se o plano falhar.
 
-## Cena 2: Ataque aos Goblins
-- Monges em stealth atacam primeiro grupo.
-- Veem que a jaula tem humanos, elfos e goblins; altar de sangue e ossos.
-- Fog Cloud cobre o altar, a jaula e parte do campo de batalha.
-- Um goblin capturado diz apenas: “Nerull… xamã… goblin”.
-- Drayl explica Nerull à party.
-- Amarram pedra ao goblin e lançam-no ao rio como distração, depois dão a volta para atacar o xamã.
+## Cena 2: Libertação dos Prisioneiros
+- Nas jaulas, humanos, elfos e alguns goblins submissos — sinais de fome e maus tratos.
+- Jogmaahx, o xamã goblin, lidera rituais macabros num altar improvisado a Nerull.
+- Patrulhas goblin defendem perímetro: encontros podem ser furtivos ou combativos.
+- O grupo pode negociar com os goblins submissos, convencendo-os a colaborar ou fugir.
 
-## Cena 3: Boss Fight e Magia
-- Monges e Usopp atacam o xamã em stealth; Drayl e Sarvian usam magias à distância.
-- Xamã invoca dois zombies.
-- Sarvian lança Charm Person a um goblin — que passa a ajudar a party.
-- Ao matar um zombie, o outro cai simultaneamente.
-- Goblins insultam o goblin charmed, que é atirado para a jaula.
+## Cena 3: O Ritual de Nerull
+- Jogmaahx prepara sacrifício quando a party chega ao altar.
+- Combate: goblins, mortos-vivos invocados (zombies), magias sombrias do xamã.
+- Elemento moral: destino dos goblins capturados, destruir o altar ou tentar preservar provas.
+- Ao derrotar Jogmaahx, encontram carta de Vaelkor Ashbrand detalhando ordens para os ataques.
 
-## Cena 4: Pós-luta e Resgate
-- Drayl encontra carta de Vaelkor Ashbrand para Jogmaahx.
-- Libertam prisioneiros humanos e elfos, deixam os goblins presos (ou matam-se entre si).
-- Destruem altar e lançam os restos ao rio.
-- Usopp faz performance divina (“Deus Usopp” salvou-vos!).
+## Cena 4: Regresso e Consequências
+- Prisioneiros libertos agradecem e alguns podem tornar-se aliados ou informantes futuros.
+- Party regressa à taberna, entrega provas ao taberneiro.
+- Recompensa distribuída; rumores sobre avanço do culto do Mal Elemental.
+- Ganchos: possíveis ataques futuros, alianças improváveis, sombra de Vaelkor Ashbrand.
 
-## Cena 5: Regresso e Recompensa
-- Regressam à taberna, relatam tudo à menina e ao taberneiro, mostram a carta.
-- Recebem 50 PO cada um.
+## NPCs
+- Taverneiro, sobrinha do taberneiro, Jogmaahx (xamã goblin), ogre vigia, goblins patrulha, goblins submissos, Vaelkor Ashbrand (mencionado), prisioneiros humanos/élficos
 
-## NPCs e Elementos Chave
-- Sobrinha do taberneiro, taberneiro, Usopp, Drayl Bharash, Wandering Sage, Sarvian Midlor, Lone Straw, ogre, goblins, Jogmaahx, Vaelkor Ashbrand, prisioneiros humanos/elfos/goblins.
+## Loot
+- 50GP cada, carta de Vaelkor Ashbrand, armas rudimentares goblin
+
+**Data:** 30 de janeiro de 2025  
+**Fontes:** s05_acampamento-_sessao_de_30_de_janeiro_de_2025_andre.md, s05_acampamento_-_notas_laura.md, s05_acampamento_-_sessao_laura.md, s05__-_2025-01-30.txt

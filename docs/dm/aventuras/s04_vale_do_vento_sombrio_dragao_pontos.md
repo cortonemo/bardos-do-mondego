@@ -14,4 +14,6 @@
 - Conhecem Rix, jovem kobold, fala sobre sacrifícios, comércio kobold e minas a oeste (Two Forts).
 - Loot: 234 GP (39 por jogador), pergaminhos Alarm (Vaunia) e Comprehend Languages (Triss), convites, cloaks de cultista (Triss, Dustin, Grix).
 - Interação com altar não tem efeito; floresta recupera, mas influência fiend persiste.
+- NPCs: Syzzin (dragão), Clipse (kobold), Rix (kobold), kobolds cultistas
+- Loot: 234GP, Alarm scroll, Comprehend Languages scroll, cloaks, cultist loot, possible rubi/esmeralda
 

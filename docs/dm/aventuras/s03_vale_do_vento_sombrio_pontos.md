@@ -11,4 +11,6 @@
 - Destruição do altar faz o fungo definhar, aldeia salva.
 - Recompensas: 50 PO, poção de cura, amuleto de proteção +1 (ou item mágico menor), loot adicional (carta misteriosa, 50 GP, armas, escudos, robes).
 - Taberneiro dá 200 PO e refeições grátis por um mês.
-- Jogadores: Grix, Conan, Triss, Dustin, Usopp, Markus.
+- NPCs: Klikz (kobold), Vaelkor Ashbrand (cultist), cultists, kobolds, elemental da terra
+- Loot: 50GP, potion of healing, +1 amulet, letter, 200GP (from taberneiro), free meals (1 month), weapons/robes
+

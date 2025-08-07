@@ -22,5 +22,11 @@ Rumores de doença em Two Fords, plantações murchas, habitantes preocupados. G
 - Provas apontam para ataque maior do culto via rio.
 - Grupo regressa, prepara-se para análise e futuras ações.
 
+## NPCs
+- Syzzin (dragão), Clipse (kobold), Rix (kobold), kobolds cultistas
+
+## Loot
+- 234GP, Alarm scroll, Comprehend Languages scroll, cloaks, cultist loot, possible rubi/esmeralda
+
 ## Notas
 - Grupo: Orianna, Arkos, Lone, Wandering, Endor, Gau.
