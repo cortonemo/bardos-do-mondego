@@ -1,20 +1,8 @@
-# Wagner
+# Wandering Sage
+![[pc_wandering_sage.png]]
 
-| Português | English |
-|-----------|---------|
-| **Jogador:** Vasco | **Player:** Vasco |
-| **Espécie:** Dragonborn (vermelho) | **Species:** Dragonborn (red) |
-| **Classe:** Feiticeiro | **Class:** Sorcerer |
-| **Origem:** Wayfarer | **Background:** Wayfarer |
-| **Alinhamento:** Caótico Neutro | **Alignment:** Chaotic Neutral |
-| **Idade:** 30 | **Age:** 30 |
-| **Ficha D&D Beyond:** [Link](https://www.dndbeyond.com/characters/140233506) | [D&D Beyond Sheet](https://www.dndbeyond.com/characters/140233506) |
-| **Sessões jogadas:** 9 | **Sessions played:** 9 |
-| **Sessões DM:** 0 | **DM Sessions:** 0 |
-| **Contacto:** +351 961 228 813 | **Contact:** +351 961 228 813 |
+| Português (PT-PT) | English (EN-US) |
+|-------------------|-----------------|
+| **Jogador:** Hugo Ferreira<br>**Raça:** Desconhecida<br>**Classe:** Desconhecida<br>**Antecedente:** Keeper of Knowledge (Ordem dos Guardiões)<br>**Alinhamento:** Desconhecido<br>**Género:** Masculino<br>**Olhos:** Desconhecido<br>**Tamanho:** Médio<br>**Altura:** Desconhecido<br>**Cabelo:** Desconhecido<br>**Pele:** Desconhecido<br>**Idade:** Desconhecida<br>**Nível:** 7<br>**Sessões:** 5<br>**Contacto:** +351 912 605 149<br><br>**Traços de Personalidade:** Curioso, disciplinado, guiado por um desejo insaciável de compreender os deuses e forças antigas. Valoriza o corpo e a mente treinados como caminho para a sabedoria.<br><br>**Ideais:** Preservar e partilhar o conhecimento antigo para guiar o mundo a um futuro mais luminoso.<br><br>**Vínculos:** Membro da Ordem dos Guardiões, uma sociedade secreta dedicada a proteger e transmitir o saber antigo.<br><br>**Defeitos:** Tendência a continuar a sua jornada em vez de permanecer em comunidades, o que pode afastá-lo de laços pessoais duradouros.<br><br>**História:** Desde criança, Wandering Sage mergulhou em pergaminhos antigos e nas histórias de estudiosos e sacerdotes viajantes. Após ter memorizado todos os pergaminhos do seu tutor, aprendeu artes marciais e meditação com os anciãos da aldeia. Na juventude, enfrentou um desastre: mists letais invadiram o vale, levando-o a propor o êxodo. Durante a viagem, muitos adoeceram e morreram, mas alguns recuperaram. Ao chegar ao destino, Sage continuou a sua jornada, recolhendo saber de cada aldeia. Eventualmente encontrou a Ordem dos Guardiões, onde se tornou Guardião do Conhecimento, dedicando-se a preservar histórias esquecidas e religiões antigas, e aperfeiçoando as suas habilidades marciais. | **Player:** Hugo Ferreira<br>**Race:** Unknown<br>**Class:** Unknown<br>**Background:** Keeper of Knowledge (Order of the Keepers)<br>**Alignment:** Unknown<br>**Gender:** Male<br>**Eyes:** Unknown<br>**Size:** Medium<br>**Height:** Unknown<br>**Hair:** Unknown<br>**Skin:** Unknown<br>**Age:** Unknown<br>**Level:** 7<br>**Sessions:** 5<br>**Contact:** +351 912 605 149<br><br>**Personality Traits:** Curious, disciplined, driven by an insatiable need to understand the gods and ancient forces. Values a trained body and mind as the path to wisdom.<br><br>**Ideals:** Preserve and share ancient knowledge to guide the world toward a brighter future.<br><br>**Bonds:** Member of the Order of the Keepers, a secret society dedicated to protecting and transmitting ancient wisdom.<br><br>**Flaws:** Tends to keep moving instead of settling in communities, which can distance him from lasting personal bonds.<br><br>**Backstory:** As a child, Wandering Sage immersed himself in ancient scrolls and the stories of traveling scholars and priests. After memorizing every scroll his caretaker owned, he learned martial arts and meditation from village elders. In his youth, disaster struck: deadly mists invaded the valley, leading him to propose an exodus. During the journey, many fell sick and died, though some recovered. Upon reaching their new home, Sage continued wandering, collecting knowledge from each village he passed. Eventually, he found the Order of the Keepers, becoming a Keeper of Knowledge, devoted to preserving forgotten histories and ancient religions, while honing his martial skills. |
 
-| Português | English |
-|-----------|---------|
-| Descendente de uma temida linhagem de dragões vermelhos, Wagner sempre procurou desafiar limites e descobrir a origem das suas escamas amarelas, raras entre a sua espécie. Viaja para se tornar mais forte e procurar um verdadeiro apelido. Desde que entrou na Taberna encontrou outros aventureiros dignos da sua fúria. | Descendant of a feared line of red dragons, Wagner always pushed his limits and seeks to discover the origin of his rare yellow scales. Travels to grow stronger and to earn a true surname. Since entering the Tavern, has found other adventurers worthy of his fury. |
-
-[[Personagens Jogadoras]]
+[⬆ Voltar a Personagens Jogadoras](personagens_jogadoras.md)

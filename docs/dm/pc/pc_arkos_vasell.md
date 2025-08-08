@@ -1,14 +1,14 @@
 # Arkos Vasell
 
-| Português | English |
-|-----------|---------|
-| **Jogador:** Luis Faria | **Player:** Luis Faria |
-| **Espécie:** Humano | **Species:** Human |
-| **Classe:** Guarda / Clérigo (aspirante) | **Class:** Guard / (Aspiring) Cleric |
+| Português                                                                    | English                                                            |
+| ---------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| **Jogador:** Luis Faria                                                      | **Player:** Luis Faria                                             |
+| **Espécie:** Humano                                                          | **Species:** Human                                                 |
+| **Classe:** Guarda / Clérigo (aspirante)                                     | **Class:** Guard / (Aspiring) Cleric                               |
 | **Ficha D&D Beyond:** [Link](https://www.dndbeyond.com/characters/139712043) | [D&D Beyond Sheet](https://www.dndbeyond.com/characters/139712043) |
-| **Sessões jogadas:** 3 | **Sessions played:** 3 |
-| **Sessões DM:** 1 | **DM Sessions:** 1 |
-| **Contacto:** +351 912 455 898 | **Contact:** +351 912 455 898 |
+| **Sessões jogadas:** 3                                                       | **Sessions played:** 3                                             |
+| **Sessões DM:** 1                                                            | **DM Sessions:** 1                                                 |
+| **Contacto:** +351 912 455 898                                               | **Contact:** +351 912 455 898                                      |
 
 | Português | English |
 |-----------|---------|
