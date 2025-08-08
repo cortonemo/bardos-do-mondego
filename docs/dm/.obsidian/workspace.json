@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "47815e22f549e82f",
+            "id": "265589f656b838e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sessao_02_-_miner_difficulties.md",
+                "file": "aventuras/bullet/s01_os_fungos_do_bosque_bullet01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "sessao_02_-_miner_difficulties"
+              "title": "s01_os_fungos_do_bosque_bullet01"
             }
           }
         ]
@@ -168,33 +168,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "47815e22f549e82f",
+  "active": "265589f656b838e1",
   "lastOpenFiles": [
-    "s02_-_2025-01-09.md",
-    "sessao_02_-_miner_difficulties.md",
-    "kristryd_splitanvil.md",
-    "s01_-_2025-01-02.md",
-    "yellow_mold.md",
-    "violet_fungi.md",
-    "topaz.md",
-    "thargrin_letter.md",
-    "rust_monster.md",
-    "pelor.md",
-    "mina_de_obsidiana.md",
-    "hook_horror_teeth.md",
-    "hook_horror.md",
-    "greyhawk.md",
-    "giant_spider.md",
-    "gelatinous_cube.md",
-    "darkmantle.md",
-    "cairn_mountains.md",
-    "blackstone.md",
-    "sessao_02_-_resumo_de_sessao.md",
-    "index.md",
-    "linha_do_tempo.md",
-    "artefatos_e_itens.md",
-    "locais_notaveis.md",
-    "faccoes_e_cultos.md",
-    "personagens_e_npcs.md"
+    "aventuras/ready/s01_os_fungos_do_bosque_ready.md",
+    "aventuras/bullet/s01_os_fungos_do_bosque_bullet01.md",
+    "aventuras/summary/s01_os_fungos_do_bosque_summary.md",
+    "aventuras/bullet/s01_os_fungos_do_bosque_bullet.md",
+    "pc/pc_dustin_thorne.md",
+    "pc/pc_vaunia_kolakiala.md",
+    "pc/pc_silfir.md",
+    "pc/pc_seraphine_bloodmad.md",
+    "pc/pc_lucian_vyrolyn.md",
+    "pc/pc_lone_straw.md",
+    "pc/pc_leo.md",
+    "pc/pc_endovan_bomsossego.md",
+    "pc/pc.md",
+    "pc/jogadores_personagens.md",
+    "pc/pc_zeldris_varus.md",
+    "pc/pc_zeldris_varus_01.png",
+    "pc/pc_zeldris_varus_09.png",
+    "pc/pc_zeldris_varus_08.png",
+    "pc/pc_zeldris_varus_07.png",
+    "pc/pc_zeldris_varus_06.png",
+    "pc/pc_zeldris_varus_02.png",
+    "pc/pc_zeldris_varus_05.png",
+    "pc/pc_zeldris_varus_04.png",
+    "pc/pc_zeldris_varus_03.png",
+    "pc/pc_zeldris_varus_02..png",
+    "pc/Untitled.md",
+    "pc/pc_conan_barbaro_ra.md",
+    "pc/pc_tabasco_de_lumeiros.md",
+    "pc/pc_drayl_bharash.md",
+    "pc/pc_valto.md",
+    "pc/pc_usopp.md",
+    "pc/pc_sarvian_midlor.md",
+    "pc/pc_redvel.md",
+    "pc/pc_kai.md",
+    "pc/pc_grixmolah.md",
+    "pc/pc_gauthak_vunakamune.md"
   ]
 }

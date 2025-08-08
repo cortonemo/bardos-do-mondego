@@ -24,7 +24,7 @@
 - [Rumores e Alianças em Eribend](rumores_e_aliancas_em_eribend.md)  
   Sessão: 7 | Data: 2025-02-20
 
-- [Intriga nas Ondas de Lo Reltarma](intriga_nas_ondas_de_lo_reltarma.md)  
+- [Intriga nas Ondas de Lo Reltarma](s08_-_intriga_nas_ondas_de_lo_reltarma.md)  
   Sessão: 8 | Data: 2025-02-27
 
 - [O Mistério de Vauria](o_misterio_de_vauria.md)  
