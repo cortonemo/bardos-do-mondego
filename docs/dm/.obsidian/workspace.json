@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aventuras/bullet/s01_os_fungos_do_bosque_bullet01.md",
+                "file": "pc/pc_eirwen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "s01_os_fungos_do_bosque_bullet01"
+              "title": "pc_eirwen"
             }
           }
         ]
@@ -170,8 +170,10 @@
   },
   "active": "265589f656b838e1",
   "lastOpenFiles": [
-    "aventuras/ready/s01_os_fungos_do_bosque_ready.md",
+    "pc/Eirwen.png",
+    "pc/pc_eirwen.md",
     "aventuras/bullet/s01_os_fungos_do_bosque_bullet01.md",
+    "aventuras/ready/s01_os_fungos_do_bosque_ready.md",
     "aventuras/summary/s01_os_fungos_do_bosque_summary.md",
     "aventuras/bullet/s01_os_fungos_do_bosque_bullet.md",
     "pc/pc_dustin_thorne.md",
@@ -203,8 +205,6 @@
     "pc/pc_usopp.md",
     "pc/pc_sarvian_midlor.md",
     "pc/pc_redvel.md",
-    "pc/pc_kai.md",
-    "pc/pc_grixmolah.md",
-    "pc/pc_gauthak_vunakamune.md"
+    "pc/pc_kai.md"
   ]
 }
