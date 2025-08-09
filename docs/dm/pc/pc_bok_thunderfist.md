@@ -1,5 +1,9 @@
 # B# Bok Thunderfist
 
+
+[Bok Thunderfist](pc_bok_thunderfist.png)
+
+
 | Português | English |
 |-----------|---------|
 | **Jogador:** Luis | **Player:** Luis |

@@ -1,4 +1,4 @@
-# ️ West Marches  Free City of Greyhawk
+# ️West Marches  Free City of Greyhawk
 
 Bem-vind@ à wiki da nossa campanha **West Marches**, com base na lendária **Free City of Greyhawk**.
 
