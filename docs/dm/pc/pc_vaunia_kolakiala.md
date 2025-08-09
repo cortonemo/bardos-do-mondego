@@ -1,26 +1,33 @@
 # Vaunia Kolakiala
-![[pc_vaunia_kolakiala.jpg]]
 
-| Português (PT-PT) | English (EN-US) |
-| ----------------- | --------------- |
-| **Jogadora:** Macarena Galego<br>**Raça:** Golias (Gigante de Pedra)<br>**Classe:** Ranger<br>**Origem:** Desconhecida<br>**Alinhamento:** Caótico Neutro<br>**Género:** Feminino (Ela)<br>**Idade:** 29<br>**Nível:** 8<br>**Sessões:** 8<br>**Sessões como DM:** 0<br>**Contacto:** +351 935 084 016<br>**Ficha D&D Beyond:** [Link](https://www.dndbeyond.com/characters/138365220)<br><br>**História:** A tribo de Coal vive na encosta oeste de um vulcão adormecido nas Corusk Mountains, onde a lava criou túneis usados como refúgio. O clima é extremo e poucos humanoides sobrevivem lá, predominando os golias. Dois clãs coabitam: os Kolakiala (descendentes de gigantes de pedra) e os Muthalavi (descendentes de gigantes de fogo), unidos há séculos. Numa noite de lua cheia nasceu Vaunia, do clã Kolakiala. Filha de um caçador, aprendeu cedo a arte da caça, recebendo aos 3 anos uma mini besta de brincar cuja munição ainda guarda como amuleto. Aos 10 anos entrou na escola e aprendeu gigante, comum e anão. Tornou-se amiga de Manvea e Aurkan, com quem participou em festas clandestinas fora de Coal, atravessando passagens secretas do vulcão. Até aos 20 anos manteve esta vida social ativa, organizando também algumas festas. | **Player:** Macarena Galego<br>**Race:** Goliath (Stone Giant)<br>**Class:** Ranger<br>**Background:** Unknown<br>**Alignment:** Chaotic Neutral<br>**Gender:** Female (She/Her)<br>**Age:** 29<br>**Level:** 8<br>**Sessions:** 8<br>**DM Sessions:** 0<br>**Contact:** +351 935 084 016<br>**D&D Beyond Sheet:** [Link](https://www.dndbeyond.com/characters/138365220)<br><br>**Backstory:** The Coal tribe lives on the western slope of a dormant volcano in the Corusk Mountains, where ancient lava flows formed tunnels used as shelter. The climate is extreme, and few humanoids survive there, with goliaths being the most common. Two clans share the settlement: the Kolakiala (stone giant descendants) and the Muthalavi (fire giant descendants), united for centuries. On a calm full moon night, Vaunia was born into the Kolakiala clan. Daughter of a hunter, she learned the craft early, receiving a toy crossbow at age 3 whose ammunition she still keeps as a charm. At 10, she attended school, learning Giant, Common, and Dwarvish. She befriended Manvea and Aurkan, joining them in clandestine parties outside Coal, sneaking through the volcanos secret passages. Until age 20, she maintained this active social life, even organizing some parties. |
+Sessões: 8 | Datas: a confirmar | Fontes: (logs de sessões) | Tags: pc, ranger | Jogadora: Macarena Galego
 
-[ Voltar a Personagens Jogadoras](personagens_jogadoras.md)
+![Vaunia](pc_vaunia_kolakiala.jpg)
 
+| Português                                                                                                                                                                                                | English                                                                                                                                                                                                   |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Descrição:** Antiga caçadora da tribo Kolakiala, Vaunia ressuscitou na Taberna sem memórias da sua vida anterior. Lembranças fragmentadas de dois nomes - Manvea e Aurkan - guiam a sua jornada atual. | **Description:** Former hunter of the Kolakiala tribe, Vaunia awoke at the Tavern with no memories of her past life. Fragmented recollections of two names - Manvea and Aurkan - drive her current quest. |
 
+| Português | English |
+|-----------|---------|
+| **Jogadora:** Macarena Galego | **Player:** Macarena Galego |
+| **Espécie:** Golias (Gigante de Pedra) | **Species:** Goliath (Stone Giant) |
+| **Classe:** Ranger | **Class:** Ranger |
+| **Nível:** 8 | **Level:** 8 |
+| **Origem:** Desconhecida | **Background:** Unknown |
+| **Alinhamento:** Caótico Neutro | **Alignment:** Chaotic Neutral |
+| **Género:** Feminino | **Gender:** Female |
+| **Idade:** 29 | **Age:** 29 |
+| **Sessões jogadas:** 8 | **Sessions played:** 8 |
+| **Sessões como DM:** 0 | **DM Sessions:** 0 |
+| **Contacto:** +351 935 084 016 | **Contact:** +351 935 084 016 |
+| **Ficha D&D Beyond:** [Link](https://www.dndbeyond.com/characters/138365220) | **D&D Beyond Sheet:** [Link](https://www.dndbeyond.com/characters/138365220) |
 
+## História / Backstory
 
+| Português | English |
+|-----------|---------|
+| **História:** Vaunia nasceu na tribo de Coal, nas Montanhas Corusk, onde coexistiam os clãs Kolakiala (descendentes de gigantes de pedra) e Muthalavi (descendentes de gigantes de fogo). Desde cedo treinada como caçadora pelo pai, viveu uma infância entre a dureza do ambiente vulcânico e as aventuras com os amigos Aurkan e Manvea. Aos 23 anos, Vaunia perdeu-se numa caçada e encontrou um misterioso homem que acredita ser Thor, deixando-lhe uma pulseira mágica. Anos depois, envolveu-se na tentativa de fuga de Aurkan e Manvea, apaixonados de clãs rivais. Ao tentar protegê-los de um ataque do seu próprio clã, foi mortalmente ferida. Ressuscitou misteriosamente na Taberna, sem memórias do passado, apenas guiada pelos nomes "Aurkan" e "Manvea". | **Backstory:** Vaunia was born in the Coal tribe, located in the Corusk Mountains, home to two clans: the Kolakiala (stone giant descendants) and the Muthalavi (fire giant descendants). Trained as a hunter from an early age, she balanced a harsh volcanic upbringing with secret adventures alongside her friends Aurkan and Manvea. At 23, she got lost during a hunt and encountered a mysterious man she believes to be Thor, who left her a magical bracelet. Years later, she aided Aurkan and Manvea—lovers from rival clans—in their attempted escape. In a confrontation with her own clan, Vaunia was fatally wounded while trying to protect them. She later awoke at the Tavern with no memory of her past, guided only by the names "Aurkan" and "Manvea". |
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+[(Voltar a PCs / Back to PCs)](pcs.md)  
+[(Voltar à Página Inicial / Back to Home Page)](home.md)
