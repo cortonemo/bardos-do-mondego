@@ -13,7 +13,7 @@
 - [Sarvien](sarvien.md)
 - [Baltigard](baltigard.md)
 - [Endo Bom Sossego](pc_endo_bom_sossego..md)
-- [Frederick Freddy](frederick_freddy.md)
+- [Frederick Freddy](pc_frederick_freddy..md)
 - [Wandering Sage](wandering_sage.md)
 - [Gauthak](gauthak.md)
 - [Eldric](pc_eldric..md)

@@ -23,7 +23,7 @@
     
 - [Finn Greenbottle](finn_greenbottle.md)
     
-- [Garruk Valstein](garruk_valstein.md)
+- [Garruk Valstein](pc_garruk_valstein..md)
     
 - [Guarda da Cidade](guarda_da_cidade.md)
     
