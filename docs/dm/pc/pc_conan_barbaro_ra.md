@@ -1,5 +1,5 @@
 # Conan, o Bárbaro-Rã
-![[pc_conan_barbaro_ra.png]]
+![Conan, o Bárbaro-Rã](pc_conan_barbaro_ra.png)
 
 | Português | English |
 |-----------|---------|

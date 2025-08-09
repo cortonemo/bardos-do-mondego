@@ -1,21 +1,13 @@
 # Arkos Vasell
 
-| Português                                                                    | English                                                            |
-| ---------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| **Jogador:** Luis Faria                                                      | **Player:** Luis Faria                                             |
-| **Espécie:** Humano                                                          | **Species:** Human                                                 |
-| **Classe:** Guarda / Clérigo (aspirante)                                     | **Class:** Guard / (Aspiring) Cleric                               |
-| **Ficha D&D Beyond:** [Link](https://www.dndbeyond.com/characters/139712043) | [D&D Beyond Sheet](https://www.dndbeyond.com/characters/139712043) |
-| **Sessões jogadas:** 3                                                       | **Sessions played:** 3                                             |
-| **Sessões DM:** 1                                                            | **DM Sessions:** 1                                                 |
-| **Contacto:** +351 912 455 898                                               | **Contact:** +351 912 455 898                                      |
-
 | Português | English |
 |-----------|---------|
-| Desde sempre o Arkos viveu uma vida pacífica como guarda, mas com o tempo sentiu que precisava de mais. Tentou aprender magia, sem grande sucesso, e virou-se para o estudo dos deuses. Agora aventura-se com a amiga de infância Orianna para aprender sobre o mundo e os deuses. | Arkos always lived a peaceful life as a guard, but over time felt he needed more. He tried to learn magic, not very successfully, and turned to the study of the gods. Now he adventures with childhood friend Orianna to learn about the world and the divine. |
-
-[[Personagens Jogadoras]]
-
+| **Descrição:** Desde sempre o Arkos viveu uma vida pacífica na sua terra, sendo guarda. Sentiu vontade de aprender mais, tentou aprender magia mas acabou por descobrir a sua vocação como clérigo. Aventurou-se com a amiga de infância Orianna para aprender mais sobre o mundo e os deuses. | **Description:** Arkos always lived a peaceful life in his homeland as a guard. He wanted to learn more, tried magic but eventually found his calling as a cleric. He set out on adventures with his childhood friend Orianna to learn more about the world and the gods. |
+| **Jogador:** Luís Faria | **Player:** Luís Faria |
+| **Espécie:** Humano? | **Species:** Human? |
+| **Classe:** Clérigo | **Class:** Cleric |
+| **Origem:** [unknown] | **Background:** [unknown] |
+![Arkos Vasell](arkos_vasell.png)
 
 
 

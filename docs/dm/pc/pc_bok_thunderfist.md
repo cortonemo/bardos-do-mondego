@@ -1,7 +1,7 @@
 # B# Bok Thunderfist
 
 
-[Bok Thunderfist](pc_bok_thunderfist.png)
+![Bok Thunderfist](pc_bok_thunderfist.png)
 
 
 | Português | English |

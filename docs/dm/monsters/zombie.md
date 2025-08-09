@@ -3,7 +3,7 @@
 
 Sessões: 16 | Datas: 2025-04-24 | Fontes: extra_relato_crianca_perdida.txt | Tags: monstro, morto-vivo
 
-[Zombie](638736718981177990.jpeg)
+![Zombie](638736718981177990.jpeg)
 
 | Português | English |
 |-----------|---------|

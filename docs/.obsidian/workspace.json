@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dm/pc/pc_bok_thunderfist.md",
-                "mode": "preview",
+                "file": "dm/monsters/zombie.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "pc_bok_thunderfist"
+              "title": "zombie"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dm/pc/pc_bok_thunderfist.md",
+                "file": "dm/monsters/zombie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for pc_bok_thunderfist"
+              "title": "Backlinks for zombie"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dm/pc/pc_bok_thunderfist.md",
+                "file": "dm/monsters/zombie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from pc_bok_thunderfist"
+              "title": "Outgoing links from zombie"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dm/pc/pc_bok_thunderfist.md",
+                "file": "dm/monsters/zombie.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of pc_bok_thunderfist"
+              "title": "Outline of zombie"
             }
           }
         ]
@@ -170,8 +170,12 @@
   },
   "active": "1cd8ed2262017592",
   "lastOpenFiles": [
-    "dm/pc/bok_thunderfist.md",
+    "dm/pc/pc_arkos_vasell.md",
+    "dm/pc/pc_arkos_vasell.md",
     "dm/pc/pc_bok_thunderfist.md",
+    "dm/images/pc_bok_thunderfist.png",
+    "dm/pc/pc_conan_barbaro_ra.md",
+    "dm/pc/bok_thunderfist.md",
     "dm/pc/pc_asinius.md",
     "dm/pc/asinius.md",
     "index.md",
