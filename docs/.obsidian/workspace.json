@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dm/pc/gauthak.md",
+                "file": "dm/pc/pc_aurora.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "gauthak"
+              "title": "pc_aurora"
             }
           }
         ]
@@ -170,6 +170,9 @@
   },
   "active": "1cd8ed2262017592",
   "lastOpenFiles": [
+    "dm/pc/pc_asinius.md",
+    "dm/pc/pc_arkos_vasell.md",
+    "dm/pc/pc_aurora.md",
     "dm/pc/pc_garrut_valstein..md",
     "dm/pc/pc_garruk_valstein..md",
     "dm/pc/pc_frederick_freddy..md",
@@ -193,9 +196,6 @@
     "adventures/s12_prisao_e_resgate_de_dustin_summary.md",
     "adventures/s11_trilogia_tres_pedras_mindflayer_summary.md",
     "adventures/s11_prisao_e_redencao_summary.md",
-    "adventures/s11_o_legado_de_krixis_summary.md",
-    "adventures/s10_sombras_sobre_erybend_summary.md",
-    "adventures/s10_sombras_de_iuz_summary.md",
     "dm/images/pc_bok_thunderfist.png",
     "dm/images/638736718981177990.jpeg"
   ]

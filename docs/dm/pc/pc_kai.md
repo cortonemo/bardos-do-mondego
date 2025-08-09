@@ -1,7 +1,7 @@
 # Kai
 
-|![[pc_kai_01.png]] 
-![[pc_kai_02.png]]
+|![Kai](pc_kai_01.png) 
+![Kai](pc_kai_02.png)
 
 
 | Português | English |
@@ -14,8 +14,8 @@
 | **Sessões DM:** 2 | **DM Sessions:** 2 |
 | **Contacto:** +351 934 669 172 | **Contact:** +351 934 669 172 |
 
-![[pc_kai_03.png]]
-![[pc_kai_04.png]] 
+![Kai](pc_kai_03.png)
+![Kai](pc_kai_04.png) 
 
 | Português | English |
 |-----------|---------|
@@ -28,9 +28,9 @@
 | **O Peso das Escolhas:**<br>Agora, duas forças caçam Kai: o **gangue traído**, faminto de vingança, e os **interesses políticos** ligados à casa nobre, desejosos de controlar (ou eliminar) o herdeiro. Entre culpa e propósito, Kai encontrou no mosteiro **paz e disciplina**, treinando até fundir **técnicas monásticas** com **instinto de ladino**  mas o **anel de madeira** lembra sempre a vida roubada. | **The Weight of Their Choices:**<br>Two forces now hunt Kai: the **betrayed gang**, hungry for payback, and **political interests** tied to the noble house, eager to control (or remove) the heir. Between guilt and purpose, the monastery gave Kai **peace and discipline**, forging **monastic technique** with **rogue instincts**  but the **wooden ring** always recalls the stolen life. |
 | **Caminho em Frente:**<br>Kai vive em permanente equilíbrio: passado criminoso, manto nobre, passos medidos. Cada favor pedido à linhagem arrisca expor a farsa; cada sombra pode ser um velho comparsa ou um espião. Busca **redenção** sem ilusões: a teia de **poder e política** não larga facilmente. | **Journey Forward:**<br>Kai walks a constant tightrope: criminal past, noble mantle, cautious steps. Every time they lean on heritage, the cover frays; every shadow may be an old crew mate or a spy. They seek **redemption** wi
 
-![[pc_kai_06.png]]
-![[pc_kai_07.png]]
-[[Personagens Jogadoras]]
+![Kai](pc_kai_06.png)
+![Kai](pc_kai_07.png)
+[[Personagens Jogadoras)
 
 
 
