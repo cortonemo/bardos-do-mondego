@@ -7,3 +7,21 @@
 | **Espécie:** Elfa | **Species:** Elf |
 | **Classe:** Barda | **Class:** Bard |
 | **Origem:** [unknown] | **Background:** [unknown] |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

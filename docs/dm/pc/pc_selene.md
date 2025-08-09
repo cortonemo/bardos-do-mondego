@@ -7,3 +7,21 @@
 | **Espécie:** Meia-Elfa | **Species:** Half-Elf |
 | **Classe:** Clériga | **Class:** Cleric |
 | **Origem:** [unknown] | **Background:** [unknown] |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

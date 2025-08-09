@@ -36,3 +36,21 @@
 | Depois de uma morte trágica e um novo corpo, Zeldris perdeu a fé e busca agora o equilíbrio entre o bem e o mal. Leal à Taberna, tem um conflito profundo: uma ordem embutida de não magoar mind flayers e uma sede de vingança contra quem destruiu a sua família. | After a tragic death and a new body, Zeldris lost his faith and now seeks balance between good and evil. Loyal to the Tavern, he’s torn: bound by an order never to harm mind flayers, and by a burning need for revenge against those who destroyed his family. |
 ![[pc_zeldris_varus_09.png]]
 [[Personagens Jogadoras]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

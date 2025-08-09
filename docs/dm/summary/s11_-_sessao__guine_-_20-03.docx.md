@@ -1,0 +1,32 @@
+Sessão DnD 20/03  Guiné
+
+A companhia volta a convocar os aventureiros para reaver as 3 pedras das aventuras passadas.
+Recompensas:
+25GP e 1 poção de HP de avanço
+25 GP no final
+Fomos até ao primeiro templo do pântano anteriormente visitado, passando primeiro pela aldeia dos sapos (Sapolândia), onde encontrámos alguns corpos sem cérebro.
+Varus encontrou 15GP 50SP e 38CP
+Os corpos têm duas insígnias. Metade deles têm a insígnia do mal elemental e a outra metade a da companhia.
+Varus encontra mais 10GP 25SP 500CP, 1 scroll de teleportation e 1 scroll de fireball.
+Combatemos 2 mind flayers que mataram Baltigard e Varus.
+Encontrámos a nave espacial desses 2 mind flayers que nos está a levar para algum local.
+Terminou a sessão.
+
+O Varus encontrou no total 25GP 75SP e 538CP, 1 scroll de teleport e 1 scroll de fireball. Mas levou instakill. RIP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

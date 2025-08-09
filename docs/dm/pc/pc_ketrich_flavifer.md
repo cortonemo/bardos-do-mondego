@@ -7,3 +7,21 @@
 | **Espécie:** [unknown] | **Species:** [unknown] |
 | **Classe:** Warlock | **Class:** Warlock |
 | **Origem:** [unknown] | **Background:** [unknown] |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

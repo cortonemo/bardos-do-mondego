@@ -7,3 +7,21 @@
 | **Espécie:** Meio-Orc | **Species:** Half-Orc |
 | **Classe:** Patrulheiro | **Class:** Ranger |
 | **Origem:** [unknown] | **Background:** [unknown] |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

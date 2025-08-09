@@ -15,3 +15,21 @@
 | Desde sempre o Arkos viveu uma vida pacífica como guarda, mas com o tempo sentiu que precisava de mais. Tentou aprender magia, sem grande sucesso, e virou-se para o estudo dos deuses. Agora aventura-se com a amiga de infância Orianna para aprender sobre o mundo e os deuses. | Arkos always lived a peaceful life as a guard, but over time felt he needed more. He tried to learn magic, not very successfully, and turned to the study of the gods. Now he adventures with childhood friend Orianna to learn about the world and the divine. |
 
 [[Personagens Jogadoras]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

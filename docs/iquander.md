@@ -1,1 +1,0 @@
-![Iquander](portrait_iquander.png)

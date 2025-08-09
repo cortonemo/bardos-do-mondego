@@ -1,0 +1,27 @@
+# Sessão 16  A Criança Perdida: Bullet Points
+
+| Português | English |
+|-----------|---------|
+| - Pedido urgente: encontrar Aria Greenbottle, halfling desaparecida.<br>- Investigação na casa da família revela pistas: diário, mapa, paixão por ruínas.<br>- Seguindo o diário, grupo evita perigos fora do caminho.<br>- Entrada armadilhada nas ruínas ao norte de Greyhawk.<br>- Exploração da cripta e múltiplos encontros com mortos-vivos e armadilhas.<br>- Confronto final com espectro e criatura das sombras.<br>- Aria é resgatada e Gema das Cinco Vozes é encontrada.<br> | - Urgent request: find missing halfling Aria Greenbottle.<br>- Investigation at family home reveals clues: diary, map, fascination with ruins.<br>- Following diary, party avoids dangers by staying on path.<br>- Trapped entrance at northern Greyhawk ruins.<br>- Crypt exploration and multiple encounters with undead and traps.<br>- Final battle with wraith and shadow creature.<br>- Aria rescued and Five Voices Gem found.<br> |
+| **NPCs:** Aria, Tobias, Eliza, Finn Greenbottle, guarda da cidade, taberneiro | **NPCs:** Aria, Tobias, Eliza, Finn Greenbottle, city guard, barkeeper |
+| **Loot:** 100 PO, poções, Gema das Cinco Vozes (misteriosa), diário, gratidão da família | **Loot:** 100 GP, potions, Five Voices Gem (mysterious), diary, familys gratitude |
+| **Data:** 2025-04-24 | **Date:** 2025-04-24 |
+| **Ficheiros de origem:** s16_a_crianca_perdida.md, s16_a_crianca_perdida.txt |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

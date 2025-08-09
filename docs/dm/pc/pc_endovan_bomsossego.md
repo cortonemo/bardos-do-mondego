@@ -15,15 +15,33 @@
 
 | Português | English |
 |-----------|---------|
-| **Personalidade:** Interesso-me por novas interações entre coisas, metendo-me facilmente em situações (desde que não haja perigo). Gosto de rir e de ouvir pessoas a reagir! | **Personality:** I’m interested in seeing new interactions between things, quickly getting myself involved (as long as there’s no danger). I like to laugh and listen to people react! |
-| **Ideais:** A magia está nas coisas naturais, sendo a mais importante e poderosa. | **Ideals:** There’s magic in natural things—this is the most important and powerful kind. |
-| **Elos:** Raramente quero itens novos, uso tudo até apodrecer. Sempre que uma decisão pode levar a situações novas e interessantes, escolho essa opção. | **Bonds:** I rarely want new items—everything I have is used until it rots. If a choice can lead to new and interesting situations, I take that path. |
-| **Defeitos:** Frequentemente meto-me em sarilhos porque me perco no caos que causo. Se algo não for interessante, não é fácil cativar a minha atenção. | **Flaws:** I often get into trouble, lost in the chaos I create. If something isn’t interesting, it’s hard to hold my attention. |
+| **Personalidade:** Interesso-me por novas interações entre coisas, metendo-me facilmente em situações (desde que não haja perigo). Gosto de rir e de ouvir pessoas a reagir! | **Personality:** Im interested in seeing new interactions between things, quickly getting myself involved (as long as theres no danger). I like to laugh and listen to people react! |
+| **Ideais:** A magia está nas coisas naturais, sendo a mais importante e poderosa. | **Ideals:** Theres magic in natural thingsthis is the most important and powerful kind. |
+| **Elos:** Raramente quero itens novos, uso tudo até apodrecer. Sempre que uma decisão pode levar a situações novas e interessantes, escolho essa opção. | **Bonds:** I rarely want new itemseverything I have is used until it rots. If a choice can lead to new and interesting situations, I take that path. |
+| **Defeitos:** Frequentemente meto-me em sarilhos porque me perco no caos que causo. Se algo não for interessante, não é fácil cativar a minha atenção. | **Flaws:** I often get into trouble, lost in the chaos I create. If something isnt interesting, its hard to hold my attention. |
 | **Organizações:** Academia de Magia de Greyhawk (posso trabalhar ocasionalmente para eles). | **Organizations:** Greyhawk Academy of Magic (I sometimes work for them). |
-| **Inimigos:** Pessoas que posso ter deixado em fogo enquanto voava embora por desinteresse... | **Enemies:** People I may have left “on fire” while flying away out of boredom... |
+| **Inimigos:** Pessoas que posso ter deixado em fogo enquanto voava embora por desinteresse... | **Enemies:** People I may have left on fire while flying away out of boredom... |
 
 | Português | English |
 |-----------|---------|
-| **Backstory:** Na Academia de Feitiçaria de Greyhawk, onde estudava, a magia tradicional (de fala, gestos e ingredientes) nunca me interessou. Fora da escola, na loja Unearthed Arcana, o meu mentor ensinou-me a observar a magia natural do mundo e a captá-la com runas antigas do meu povo. O caos desta magia sempre me fascinou. Um dia, o meu mentor morreu numa explosão alquímica misteriosa. Nunca se provou sabotagem, mas suspeito do rival [NOME DO RIVAL], que me invejava a relação com o mentor. Agora viajo para continuar a pesquisa sobre magia natural e descobrir a verdade sobre esse desastre. | **Backstory:** At the Greyhawk Academy of Sorcery, traditional magic (words, gestures, ingredients) never held my interest. Outside of school, at Unearthed Arcana, my mentor taught me to observe and harness the world’s natural magic with old runes from my people. The chaos of this magic always fascinated me. One day, my mentor died in a senseless alchemical explosion. Sabotage was never proven, but I suspect [NAME OF RIVAL], who resented my bond with my mentor. Now I travel to continue researching natural magic and seek the truth behind that catastrophe. |
+| **Backstory:** Na Academia de Feitiçaria de Greyhawk, onde estudava, a magia tradicional (de fala, gestos e ingredientes) nunca me interessou. Fora da escola, na loja Unearthed Arcana, o meu mentor ensinou-me a observar a magia natural do mundo e a captá-la com runas antigas do meu povo. O caos desta magia sempre me fascinou. Um dia, o meu mentor morreu numa explosão alquímica misteriosa. Nunca se provou sabotagem, mas suspeito do rival [NOME DO RIVAL], que me invejava a relação com o mentor. Agora viajo para continuar a pesquisa sobre magia natural e descobrir a verdade sobre esse desastre. | **Backstory:** At the Greyhawk Academy of Sorcery, traditional magic (words, gestures, ingredients) never held my interest. Outside of school, at Unearthed Arcana, my mentor taught me to observe and harness the worlds natural magic with old runes from my people. The chaos of this magic always fascinated me. One day, my mentor died in a senseless alchemical explosion. Sabotage was never proven, but I suspect [NAME OF RIVAL], who resented my bond with my mentor. Now I travel to continue researching natural magic and seek the truth behind that catastrophe. |
 
 [[Personagens Jogadoras]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

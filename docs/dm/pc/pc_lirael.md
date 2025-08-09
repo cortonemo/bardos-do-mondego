@@ -7,3 +7,21 @@
 | **Espécie:** Elfa | **Species:** Elf |
 | **Classe:** Feiticeira | **Class:** Sorcerer |
 | **Origem:** [unknown] | **Background:** [unknown] |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

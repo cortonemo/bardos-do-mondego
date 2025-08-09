@@ -7,3 +7,21 @@
 | **Espécie:** Humano | **Species:** Human |
 | **Classe:** Paladino | **Class:** Paladin |
 | **Origem:** [unknown] | **Background:** [unknown] |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,28 @@
+# Two Fords: A Doença do Rio e o Moinho  Ready to Play
+
+| Português | English |
+|-----------|---------|
+| **Introdução:** Orianna, Arkos, Lone, Wandering, Endor, Gau investigam rumores de doença em Two Fords.<br><br>**Cena 1: Chegada e investigação inicial**<br>- Encontro com Kaldros (mercador) e Geralt (taberneiro, filha doente).<br>- Descobrem mapa do moinho abandonado.<br><br>**Cena 2: Fauna corrompida**<br>- Combate contra lobo e urso corrompidos por fungos.<br><br>**Cena 3: O Moinho e o Culto**<br>- Exploração do moinho com cogumelos bioluminescentes.<br>- Descoberta de símbolos do culto, notas sobre planos maiores.<br>- Combate: 3 cultistas, 1 líder (foge), servos fúngicos.<br>- Risco de envenenamento por esporos.<br><br>**Cena 4: Recompensa e regresso**<br>- Loot: joias, poção, cristal corrompido.<br>- Provas de plano maior via rio.<br>- Regresso à cidade.<br> | **Introduction:** Orianna, Arkos, Lone, Wandering, Endor, Gau investigate rumors of sickness in Two Fords.<br><br>**Scene 1: Arrival and investigation**<br>- Meet Kaldros (merchant) and Geralt (innkeeper, daughter ill).<br>- Discover map to the abandoned mill.<br><br>**Scene 2: Corrupted fauna**<br>- Fight with fungus-infected wolf and bear.<br><br>**Scene 3: The Mill and the Cult**<br>- Explore mill with bioluminescent mushrooms.<br>- Discover cult symbols, notes on bigger plans.<br>- Combat: 3 cultists, 1 leader (escapes), fungal minions.<br>- Risk of spore poisoning.<br><br>**Scene 4: Reward and return**<br>- Loot: gems, potion, corrupted crystal.<br>- Evidence of cult's bigger plan via river.<br>- Return to town.<br> |
+| **PCs:** Orianna, Arkos, Lone, Wandering, Endor, Gau | **PCs:** Orianna, Arkos, Lone, Wandering, Endor, Gau |
+| **NPCs:** Kaldros, Geralt (taberneiro), cultistas, faunas corrompidas | **NPCs:** Kaldros, Geralt (innkeeper), cultists, corrupted beasts |
+| **Loot:** gems (10GP/cultist), healing potion, corrupted elemental crystal, weapons/notes | **Loot:** gems (10GP/cultist), healing potion, corrupted elemental crystal, weapons/notes |
+| **Data:** 2025-01-23 | **Date:** 2025-01-23 |
+| **Ficheiros de origem:** s04_two_fords_doenca_moinho_ready.md | **Source files:** s04_two_fords_doenca_moinho_ready.md |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

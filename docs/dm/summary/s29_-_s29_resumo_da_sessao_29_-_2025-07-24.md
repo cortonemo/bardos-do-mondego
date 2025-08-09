@@ -1,0 +1,79 @@
+Resumo de Sessão: Jota, 23-07-2025
+Indicação para o jogador, como preencher:
+Data: 23/07/2025
+
+DM: Jota
+
+Players: Coloca o nome, nivel e classe dos jogadores.
+
+O nome do ficheiro deve ter este formato:Resumo Sessão, Nome do DM, Data
+
+Sê conciso, claro e usa bullet points. a Ideia é um resumo fácil de entender por todos..
+
+
+
+DATA: 23-07-2025
+
+DM: Jota
+
+Players:
+Eirwen (Lvl3, Ranger)
+Asinius (Lvl?, Barbarian)
+Grixmolah (Lvl8, Warlock)
+Ulma (Lvl3, Barbarian)
+Ustrax (Lvl?, ?)
+Vaunia (Lvl7, Ranger)
+
+
+ 
+
+(Key-moments in bold; details in normal text)
+The group meets at the tavern, where the bartender informs them that adventurers are wanted for an exploration mission to improve the mapping of the underground sewer network of the city of Greyhawk, in exchange for a reward in gold pieces. He also mentioned they could win monetary prizes at the Coliseum. After a long discussion, voting, and an unsuccessful attempt to negotiate a minimum advance payment with the bartender, the group decided to go to the sewers. They were given a map by the bartender.
+Everyone ordered either alcohol, food or sweets. Ulma bought a bottle of the strongest alcoholic drink available at the tavern (95% alcohol) (1GP). She saved it in her backpack instead of drinking it.
+Grix failed a CON saving throw and got slightly drunk.
+While some coped better than others, Eirwen failed a CON saving throw and got so drunk she fainted, hitting her head on the table (no damage taken). She remained unconscious for most of the rest of the conversation with the bartender.
+Ulma took off her cloak, folded it and put it under Eirwens head.
+The group headed towards the Gardens Quarter to reach the city sewers from there.
+Grix, still drunk, said he wanted to make a detour to go to his patrons temple. Eirwen followed him, still very drunk. Ulma followed them to look after them. When Grix noticed Eirwen and Ulma following him, he gave up and decided to head back.
+At the gates, they were stopped by a guard, who interrogated them, but Vaunia managed to convince them she was an important figure in the city and that she was moving to the High Quarters and that the rest of the group was with her to help with the move. They finally made it to the place indicated in the map, they noticed a fountain which water strangely flowed toward the center and the bottom. They realized it was the entrance to the sewers and, after making a very clumsy entry, they ventured through the tunnels.
+They notice a big, beautiful and refined tavern, named The Golden Dragons Tavern but decide to investigate the fountain instead.
+Several copper pieces inside the fountain.
+Ustrax throws a coin which sinks and disappears from sight.
+Asinius tries to enter the fountain without anyone noticing but trips when jumping and falls straight through the fountain, farting as hits the ground.
+Ulma holds one end of her rope and gives the other end to the others, jumping right after Asinius. However, she fails the STR check and lets go of the rope, falling over Asinius, in the mud.
+Grix successfully reaches them without falling.
+Eirwen jumps after Grix, who tries to catch her, but he fails because he cannot see well in the darkness, and Eirwen falls over Ulma and Asinius.
+Ustrax jumps and is caught by Grix.
+Vaunia successfully reaches them without falling.
+They spot a door with a valve. Ulma fails to open it with her Thieves Tools but Asinius manages to open it with his crowbar.
+They venture through the tunnels and hear the sound of boats. They continue toward the sound, until they see light.
+At the sewers, the group met a group of pirates, the Black Orchids (Orquídeas Negras) with whom they fought after they invited them for a banquet, for they thought the pirates were deceiving them. Prior to the fight, the captain, named Ralph, threatened to shoot them when they met, but ended up not attacking. He only fired a warning shot into the air as the group attempted to leave. He had mentioned a treasure they had lost at sea and he did not want to let the group leave. The group tried to persuade him to give them a more exact indication of where the pirates had lost the treasure, but they were unsuccessful. They even tried to bribe him with the drink that Ulma had bought back at the tavern. He was really eager to try the drink, but he would not talk about the treasure. Finally, Eirwen manages to convince the Ralph to listen to them and he invites the group for a banquet.
+Asinius asked Ralph for an autograph.
+Eirwens humor is highly unstable. She threatens to shoot Ralph several times, including when he comments on Ulmas ragged clothes.
+Eirwen is suddenly inspired (advantage in HIS check) and tells a story half-true, half-made up, managing to convince the Ralph to listen to them.
+Ralph invites the group for a banquet. The group becomes suspicious of the pirates and decides to attack them before being brought inside their boats.
+Grix tries to make Ralph disappear but fails (Ralph got a Nat 20 and resisted the spell).
+Vaunia shots Ralph with a magic arrow, dealing 12 damage. The combat starts.
+Asinius was really sad that we ended up fighting them, for he truly admired the pirates.
+The group spared Ralph as well as the remaining crew members, who were either persuaded or intimidated to give up (once the captain was defeated) and left.
+They threatened Ralph in order to make him talk about the lost treasure, but he seemed to have forgotten that he even mentioned a treasure. Convinced that he was lying, Ulma tried to threaten him, forcing him to drink from the bottle she had bought and then pretending to throw a lit torch into his mouth to make him explode. However, he instantly fainted after taking a sip. The group then decided to hand him over to the authorities and hoped for a reward.
+Ulma took Ralphs pirate clothes, which coincidentally were just her size.
+The group finds a ring shining inside a turd floating in the water current. After going through a lot of failed attack rolls, they finally managed to stop the turd (Eirwen shot it with an arrow) and get the ring.
+They took Ralph, still unconscious, to a guard. The guard looked extremely distressed as he laid eyes on Ralph and explained that, in truth, he was not a pirate, but the demented son of nobleman from the city, and enjoys disguising himself as other people. He also explained that the crew were only a bunch of stray children. Stunned by the dramatic news, the group accepted the reward the guard gave them for finding the young man, and returned to the tavern. Each person was rewarded 33 GP from the police and 200 GP from the bartender. Grix sold the ring, resulting in plus 10 GP for each person.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

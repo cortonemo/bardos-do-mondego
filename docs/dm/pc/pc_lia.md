@@ -7,3 +7,21 @@
 | **Espécie:** Humana | **Species:** Human |
 | **Classe:** Ladina | **Class:** Rogue |
 | **Origem:** [unknown] | **Background:** [unknown] |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

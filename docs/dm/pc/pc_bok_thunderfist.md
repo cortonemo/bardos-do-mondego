@@ -12,6 +12,24 @@
 
 | Português | English |
 |-----------|---------|
-| Criado por monges do Mosteiro dos Picos Sussurrantes após ser encontrado num campo de batalha em bebé, Bok lutou para controlar o seu temperamento orc e aprender o caminho da disciplina. Agora parte para o seu ritual de iniciação: a Peregrinação da Harmonia — descobrir se a filosofia do mosteiro resiste ao mundo real. | Raised by monks of the Whispering Peaks Monastery after being found as a baby on a battlefield, Bok struggled to master his orcish temper and learn the path of discipline. Now he embarks on his initiation rite: the Pilgrimage of Harmony — to see if the monastery's philosophy holds up in the real world. |
+| Criado por monges do Mosteiro dos Picos Sussurrantes após ser encontrado num campo de batalha em bebé, Bok lutou para controlar o seu temperamento orc e aprender o caminho da disciplina. Agora parte para o seu ritual de iniciação: a Peregrinação da Harmonia  descobrir se a filosofia do mosteiro resiste ao mundo real. | Raised by monks of the Whispering Peaks Monastery after being found as a baby on a battlefield, Bok struggled to master his orcish temper and learn the path of discipline. Now he embarks on his initiation rite: the Pilgrimage of Harmony  to see if the monastery's philosophy holds up in the real world. |
 
 [[Personagens Jogadoras]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

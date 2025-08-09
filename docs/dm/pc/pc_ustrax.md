@@ -7,3 +7,21 @@
 | **Espécie:** Draconato | **Species:** Dragonborn |
 | **Classe:** [unknown] | **Class:** [unknown] |
 | **Origem:** [unknown] | **Background:** [unknown] |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
