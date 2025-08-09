@@ -4,7 +4,7 @@
 
 [(Voltar à Página Inicial / Back to Home Page)](home.md)
 
-- [Dustin](dustin.md)
+- [Dustin](pc_dustin..md)
 - [Triss](triss.md)
 - [Kai](kai.md)
 - [Raylahn](raylahn.md)
@@ -19,12 +19,12 @@
 - [Eldric](eldric.md)
 - [Silfir](silfir.md)
 - [Bok Thunderfist](bok_thunderfist.md)
-- [Drayl Barash](drayl_barash.md)
+- [Drayl Barash](pc_drayl_barash..md)
 - [Wagner](wagner.md)
 - [Leo](leo.md)
 - [Zahel](zahel.md)
 - [Ulma](ulma.md)
-- [Eirwen](eirwen.md)
+- [Eirwen](pc_eirwen..md)
 - [Ketrich Flavifer](ketrich_flavifer.md)
 - [Asinius](asinius.md)
 - [Grixmolah](grix_molah.md)

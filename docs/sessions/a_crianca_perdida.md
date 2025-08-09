@@ -28,7 +28,7 @@
 - [Markus Grimm](markus_grimm.md)
 - [Raylahn](raylahn.md)
 - [Bok Thunderfist](bok_thunderfist.md)
-- [Drayl Barash](drayl_barash.md)
+- [Drayl Barash](pc_drayl_barash..md)
 - [Wagner](wagner.md)
 
 ---
