@@ -1,5 +1,9 @@
 #  Journal Entry: Verbobonc
 
+*![Verbobonc](coat_of_arms_verbobonc.jpeg)
+
+*![Verbobonc](free_city_of_verbobonc.png)
+
 ---
 
 ## 0.  Location

@@ -1,5 +1,5 @@
 
-# ️West Marches  Free City of Greyhawk
+# ️West Marches  Wolrd of Greyhawk
 
 [Greyhawk](greyhawk.jpg)
 
