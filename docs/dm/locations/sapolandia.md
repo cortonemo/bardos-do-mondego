@@ -3,21 +3,14 @@
 
 Sessões: 4, 8 | Datas: 2025-01-23, 2025-02-27 | Fontes: s04_-_2025-01-23.txt, s08_-_2025-02-27.txt | Tags: localizacao, aldeia, pântano
 
-![Sapolândia](blank.png)
+![Sapolândia](docs/dm/locations/blank.png)
 
 | Português | English |
 |-----------|---------|
 | Aldeia remota de criaturas anfíbias, rodeada por pântano denso. Local-chave para encontros com mind flayers e missões envolvendo artefactos perdidos. | Remote village of amphibian creatures, surrounded by dense swamp. Key location for encounters with mind flayers and quests involving lost artifacts. |
 
 [(Voltar a Localizações / Back to Locations)](localizacoes.md)  
-[(Voltar à Página Inicial / Back to Home Page)](../../home.md)
-
-
-
-
-
-
-
+[(Voltar à Página Inicial / Back to Home Page)](home.md)
 
 
 

@@ -82,8 +82,3 @@ Recebem 500GP a dividir por todos e um medalhão que se for usado durante muito 
 
 
 
-
-
-
-
-

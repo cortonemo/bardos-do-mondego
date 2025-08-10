@@ -18,11 +18,4 @@ Sessões: 14 | Datas: 2025-04-10 | Fontes: s14_-_2025-04-10.txt | Tags: pc, drui
 | **Resumo rápido:** Druida com ligação à natureza, contribui com magia e cura durante os perigos de Pessegueiro. | **Quick synopsis:** Druid connected to nature, provides magic and healing during the dangers of Pessegueiro. |
 
 [(Voltar a PCs / Back to PCs)](pcs.md)  
-[(Voltar à Página Inicial / Back to Home Page)](../../home.md)
-
-
-
-
-
-
-
+[(Voltar à Página Inicial / Back to Home Page)](home.md)

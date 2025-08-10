@@ -37,8 +37,3 @@ ricardo ribeiro
 
 
 
-
-
-
-
-

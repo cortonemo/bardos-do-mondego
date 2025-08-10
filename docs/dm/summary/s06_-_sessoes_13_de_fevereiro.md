@@ -21,8 +21,3 @@ Terminámos a sessão em frente ao terceiro templo.
 
 
 
-
-
-
-
-

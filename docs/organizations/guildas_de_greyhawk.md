@@ -85,8 +85,3 @@ Cada guilda possui estatutos próprios, rituais de admissão e níveis hierárqu
 
 
 
-
-
-
-
-

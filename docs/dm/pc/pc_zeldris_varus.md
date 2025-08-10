@@ -23,7 +23,7 @@
 | **Defeitos:** Busca constante de defesa e sobrevivência acima de riqueza | **Flaws:** Constantly seeks defense and survival over wealth |
 | **História (Zeldris):** Após a sua morte como Varus, renasceu num corpo alterado, perdeu fé em deuses e passou a viver pelo seu próprio julgamento. Conheceu um demónio e fez um acordo para saber a verdade, recuperando memórias da esposa e filha assassinadas. A transformação física tornou-o mais lento de raciocínio. | **Story (Zeldris):** After his death as Varus, he was reborn in an altered body, lost faith in gods, and began living by his own judgment. Met a demon and made a pact to learn the truth, regaining memories of his murdered wife and daughter. His physical transformation made him slower in thought. |
 | **História (Varus):** Nascido numa família modesta, era artesão. Casado e com três filhos, recorreu a pequenos furtos para alimentar a família num inverno severo. Um grupo de homens atacou a sua casa, matando esposa e duas filhas. Matou acidentalmente o filho sobrevivente, pensando ser um inimigo. A tragédia transformou-o num assassino errante em busca de vingança contra a milícia responsável. | **Story (Varus):** Born into a modest family, he was a craftsman. Married with three children, he resorted to petty theft to feed them during a harsh winter. A group of men attacked his home, killing his wife and two daughters. He accidentally killed his surviving son, mistaking him for an enemy. The tragedy turned him into a wandering assassin seeking revenge against the militia responsible. |
-| **Link HeroForge:** [Visualização 3D](https://www.heroforge.com/load_config%3D524043482/index.md) | **HeroForge Link:** [3D View](https://www.heroforge.com/load_config%3D524043482/index.md) |
+| **Link HeroForge:** [Visualização 3D](https://www.heroforge.com/load_config%3D524043482/) | **HeroForge Link:** [3D View](https://www.heroforge.com/load_config%3D524043482/) |
 ![Zeldris](pc_zeldris_varus_03.png)
 ![Zeldris](pc_zeldris_varus_04.png)
 ![Zeldris](pc_zeldris_varus_05.png)
@@ -37,13 +37,6 @@
 | **Descrição:** Antigo aventureiro ressuscitado, agora com o alter ego Zeldris, envolvido em magias Illithid e mistérios espaciais.                                                                                                                                  | **Description:** Former adventurer resurrected, now with the alter ego Zeldris, involved in Illithid magics and space mysteries.                                                                                                                                 |
 ![Zeldris](pc_zeldris_varus_09.png)
 [[Personagens Jogadoras]]
-
-
-
-
-
-
-
 
 
 

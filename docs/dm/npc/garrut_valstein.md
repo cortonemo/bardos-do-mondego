@@ -12,14 +12,7 @@
 
 | Português | English |
 |-----------|---------|
-| **Descrição:** Paladino meio-orc, leal aos caçadores do subterrâneo. Atuou no combate direto contra os servos de Malrik Dorn e na defesa de prisioneiros. | **Description:** Half-orc paladin, loyal to the subterranean hunters. Took part in direct combat against Malrik Dorns servants and in the defense of prisoners. |
-
-
-
-
-
-
-
+| **Descrição:** Paladino meio-orc, leal aos caçadores do subterrâneo. Atuou no combate direto contra os servos de Malrik Dorn e na defesa de prisioneiros. | **Description:** Half-orc paladin, loyal to the subterranean hunters. Took part in direct combat against Malrik Dorn’s servants and in the defense of prisoners. |
 
 
 

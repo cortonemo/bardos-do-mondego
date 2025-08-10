@@ -1,7 +1,7 @@
 
 # Organizações  / Organizations
 
-[(Voltar à Página Inicial / Back to Home Page)](../../home.md)
+[(Voltar à Página Inicial / Back to Home Page)](home.md)
 
 ## Organizações / Organizations
 
@@ -12,14 +12,7 @@
 - [Conclave Anfíbio](conclave_anfibio.md)
 
 
-[(Voltar à Página Inicial / Back to Home Page)](../../home.md)
-
-
-
-
-
-
-
+[(Voltar à Página Inicial / Back to Home Page)](home.md)
 
 
 

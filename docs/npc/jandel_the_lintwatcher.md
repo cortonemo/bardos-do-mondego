@@ -1,9 +1,4 @@
-﻿![Jandel the Lintwatcher](portrait_jandel_the_lintwatcher.png)
-
-
-
-
-
+![Jandel the Lintwatcher](portrait_jandel_the_lintwatcher.png)
 
 
 

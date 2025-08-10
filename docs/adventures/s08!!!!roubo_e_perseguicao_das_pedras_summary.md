@@ -21,10 +21,3 @@ Durante o descanso após o ritual, Thoren, mestre de Sage e agente do Mal Elemen
 
 
 
-
-
-
-
-
-
-

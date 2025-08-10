@@ -22,10 +22,3 @@ na mina descobrem gravuras
 
 
 
-
-
-
-
-
-
-

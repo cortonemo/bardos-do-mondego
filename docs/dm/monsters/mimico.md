@@ -7,20 +7,13 @@ Sessões:
 
 Tags: npc, mimico, aliado
 
-![Mímico](blank.png)
+![Mímico](docs/dm/monsters/blank.png)
 
 | English | Português |
 |---------|-----------|
 | **The Mimic Prince** is a shape-shifting mimic who claims to be royalty, cursed into monstrous form. He aids the party, seeking release from his curse. | **O Príncipe Mímico** é um mimico metamórfico que afirma ser da realeza, amaldiçoado numa forma monstruosa. Ajuda o grupo, tentando quebrar a maldição. |
 
 [(Back to NPCs / Voltar a NPCs)](npcs_list.md)
-
-
-
-
-
-
-
 
 
 

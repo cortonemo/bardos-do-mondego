@@ -30,10 +30,3 @@ Cada uma com ideologia, líderes, zonas de operação e inimigos:
 
 
 
-
-
-
-
-
-
-

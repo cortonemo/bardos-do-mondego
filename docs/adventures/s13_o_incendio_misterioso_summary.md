@@ -24,10 +24,3 @@ A loja mágica Olho de Boccob é incendiada por guardas corruptos. A party salva
 
 
 
-
-
-
-
-
-
-

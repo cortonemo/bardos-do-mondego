@@ -47,8 +47,3 @@ Ricardo Guerra
 
 
 
-
-
-
-
-

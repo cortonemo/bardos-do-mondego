@@ -22,10 +22,3 @@
 |-----------|---------|
 | **Descrição:** [Descrição a adicionar com base em registos de sessão.] | **Description:** [Description to be added based on session logs.] |
 | **Backstory:** [História de fundo a adicionar.] | **Backstory:** [Backstory to be added.] |
-
-
-
-
-
-
-

@@ -1,7 +1,7 @@
 
 # Rumores / Rumors
 
-[(Voltar à Página Inicial / Back to Home Page)](../../home.md)
+[(Voltar à Página Inicial / Back to Home Page)](home.md)
 
 ## Rumores / Rumors
 
@@ -11,14 +11,7 @@
 - [Boatos sobre Piratas em Greyhawk](boatos_sobre_piratas.md)
 - [Rumores do Vale de Lytharien](rumores_do_vale_lytharien.md)
 
-[(Voltar à Página Inicial / Back to Home Page)](../../home.md)
-
-
-
-
-
-
-
+[(Voltar à Página Inicial / Back to Home Page)](home.md)
 
 
 

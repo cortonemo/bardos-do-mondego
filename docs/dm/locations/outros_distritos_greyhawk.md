@@ -6,20 +6,13 @@ Sessões:
 
 Tags: localizacao, distrito
 
-![Outros Distritos de Greyhawk](blank.png)
+![Outros Distritos de Greyhawk](docs/dm/locations/blank.png)
 
 | English | Português |
 |---------|-----------|
 | **Greyhawk** includes many districts: River Quarter, Thieves Quarter, Clerkburg, Market, Arena, University of Magical Arts, Mint, and otherseach with unique culture and adventure hooks. | **Greyhawk** inclui vários distritos: River Quarter, Thieves Quarter, Clerkburg, Mercado, Arena, Universidade de Artes Mágicas, Casa da Moeda e outros  cada qual com cultura e oportunidades de aventura próprias. |
 
 [(Back to Locations / Voltar a Localizações)](localizacoes.md)
-
-
-
-
-
-
-
 
 
 

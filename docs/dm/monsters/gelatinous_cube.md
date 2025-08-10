@@ -4,19 +4,12 @@
 
 Sessão: 2 | Data: (data não especificada) | Fonte: s02.txt | Tags: monstro, dungeon hazard
 
-![Gelatinous Cube](blank.png)
+![Gelatinous Cube](docs/dm/monsters/blank.png)
 
 | English | Português |
 |---------|-----------|
 | **Description:** Huge, transparent ooze that engulfs everything in its path. Fills dungeon corridors, dissolving all organic material and corroding metal. Nearly dissolved [Triss](triss.md). | **Descrição:** Grande cubo translúcido que devora tudo em seu caminho. Preenche corredores de masmorras, dissolvendo matéria orgânica e corroendo metal. Quase derreteu a [Triss](triss.md). |
 | **Notable:** Defeated near the end of the session. | **Notável:** Derrotado perto do fim da sessão. |
-
-
-
-
-
-
-
 
 
 

@@ -4,18 +4,11 @@
 
 Sessão: 2 | Data: (data não especificada) | Fonte: s02.txt | Tags: hazard, fungi
 
-![Yellow Mold](blank.png)
+![Yellow Mold](docs/dm/monsters/blank.png)
 
 | English | Português |
 |---------|-----------|
 | **Description:** Dangerous, living fungus growing on a miner's corpse. Releases poisonous spores when disturbed. Infests the mine, sign of environmental hazard. | **Descrição:** Fungo perigoso que cresce sobre o cadáver de um mineiro. Libera esporos venenosos quando perturbado. Infesta a mina, sinal de risco ambiental. |
-
-
-
-
-
-
-
 
 
 

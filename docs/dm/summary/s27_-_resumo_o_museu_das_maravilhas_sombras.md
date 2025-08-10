@@ -246,8 +246,3 @@ Pensamos que o mimic e ser o responsavel pelos ossos e restos que encontramos.
 
 
 
-
-
-
-
-

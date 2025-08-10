@@ -235,8 +235,3 @@ tirar circulos de sumon das coisas da laura
 
 
 
-
-
-
-
-

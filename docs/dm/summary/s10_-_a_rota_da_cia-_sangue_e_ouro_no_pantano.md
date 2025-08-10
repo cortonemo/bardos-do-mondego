@@ -56,8 +56,3 @@ Uma relação complexa e possivelmente conturbada entre Conan e seu passado.
 
 
 
-
-
-
-
-

@@ -9,11 +9,4 @@
 | **Origem:** [desconhecido] | **Background:** [unknown] |
 
 [(Voltar a PCs / Back to PCs)](pcs.md)  
-[(Voltar à Página Inicial / Back to Home Page)](../../home.md)
-
-
-
-
-
-
-
+[(Voltar à Página Inicial / Back to Home Page)](home.md)

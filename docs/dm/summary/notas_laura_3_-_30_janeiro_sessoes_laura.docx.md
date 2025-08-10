@@ -73,10 +73,3 @@ Os caracteres são recompensados com 50GP cada um.
 
 
 
-
-
-
-
-
-
-

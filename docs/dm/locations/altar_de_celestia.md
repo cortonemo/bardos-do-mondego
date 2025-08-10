@@ -8,20 +8,13 @@ Sessões:
 
 Tags: localizacao, altar
 
-![Altar de Celestia](blank.png)
+![Altar de Celestia](docs/dm/locations/blank.png)
 
 | English | Português |
 |---------|-----------|
 | **The Altar of Celestia** is a mysterious shrine to the goddess of stars and travelers, often found in the wilds or near ruins. It is a site of visions and divine magic in several adventures. | **O Altar de Celestia** é um santuário misterioso dedicado à deusa das estrelas e dos viajantes, frequentemente encontrado em locais selvagens ou ruínas. É um local de visões e magia divina em várias aventuras. |
 
 [(Back to Locations / Voltar a Localizações)](localizacoes.md)
-
-
-
-
-
-
-
 
 
 

@@ -4,18 +4,11 @@
 
 Sessão: 2 | Data: (data não especificada) | Fonte: s02.txt | Tags: monstro, aracnídeo
 
-![Giant Spider](blank.png)
+![Giant Spider](docs/dm/monsters/blank.png)
 
 | English | Português |
 |---------|-----------|
 | **Description:** Massive, dark, predatory spider. Hunts with webs and ambush. Accompanied by [Swarms of Insects (Spiders)](swarms_of_insects_spiders.md). | **Descrição:** Aranha gigante, escura, predadora. Caça com teias e emboscadas. Acompanhada por [Enxames de Insetos (Aranhas)](swarms_of_insects_spiders.md). |
-
-
-
-
-
-
-
 
 
 

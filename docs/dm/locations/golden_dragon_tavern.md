@@ -9,20 +9,13 @@ Sessões:
 
 Tags: localizacao, taberna
 
-![Taberna do Dragão Dourado](blank.png)
+![Taberna do Dragão Dourado](docs/dm/locations/blank.png)
 
 | English | Português |
 |---------|-----------|
 | **Golden Dragons Tavern** is a luxurious establishment in Greyhawk, renowned for its fine drinks and clientele. The taverns reputation for discretion draws many shady deals and secret meetings. | **A Taberna do Dragão Dourado** é um estabelecimento luxuoso em Greyhawk, famoso pelas suas bebidas e clientela. A reputação de discrição atrai muitos negócios duvidosos e reuniões secretas. |
 
 [(Back to Locations / Voltar a Localizações)](localizacoes.md)
-
-
-
-
-
-
-
 
 
 

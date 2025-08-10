@@ -168,8 +168,3 @@ criaturas. Queres isso?
 
 
 
-
-
-
-
-

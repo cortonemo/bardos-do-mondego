@@ -6,7 +6,7 @@ Sessões:
 
 Tags: npc, castelo, servo
 
-![Major-domo do Castelo](blank.png)
+![Major-domo do Castelo](docs/dm/npc/blank.png)
 
 | English                                                                                                                      | Português                                                                                                                    |
 | ---------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
@@ -14,13 +14,6 @@ Tags: npc, castelo, servo
 | **Description:** Imposing man, steward of the castle, who introduces the PCs to their new reality and the worlds mysteries. | **Descrição:** Homem imponente, mordomo do castelo, que apresenta os PCs à nova realidade e aos mistérios do mundo.          |
 
 [(Back to NPCs / Voltar a NPCs)](npcs_list.md)
-
-
-
-
-
-
-
 
 
 

@@ -23,20 +23,13 @@ Sessões:
 
 Tags: localizacao, base, magia
 
-![Taverna](blank.png)
+![Taverna](docs/dm/locations/blank.png)
 
 | English | Português |
 |---------|-----------|
 | **The Tavern** is the adventurers' home base throughout their journeys. Not an ordinary inn, this tavern is a magical place: at one point in the campaign, it mysteriously moved and relocated itself to the [Free City of Greyhawk](cidade_de_greyhawk.md). The party frequently regroups, receives quests, and stores loot here. | **A Taverna** é a base dos aventureiros durante as suas jornadas. Não é uma estalagem comum: trata-se de um local mágico que, em determinado momento, se deslocou misteriosamente e passou a situar-se na [Cidade Livre de Greyhawk](cidade_de_greyhawk.md). O grupo reúne-se aqui, recebe missões e guarda os seus espólios. |
 
 [(Back to Locations / Voltar a Localizações)](localizacoes.md)
-
-
-
-
-
-
-
 
 
 

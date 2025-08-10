@@ -2,18 +2,11 @@
 
 Sessão: 1 | Data: 2025-08-02 | Fonte: s01.txt | Tags: criatura, fungo, ameaça
 
-![Shrieker Fungus](blank.png)
+![Shrieker Fungus](docs/dm/monsters/blank.png)
 
 | English | Português |
 |---------|-----------|
 | **Description:** Huge, grotesque fungus that screams when disturbed, attracting predators. Not directly aggressive but a dangerous alarm in dark, damp environments. | **Descrição:** Cogumelo gigantesco e grotesco que grita quando perturbado, atraindo predadores. Não é agressivo, mas serve de alarme perigoso em ambientes escuros e húmidos. |
-
-
-
-
-
-
-
 
 
 

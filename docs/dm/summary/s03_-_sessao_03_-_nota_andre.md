@@ -51,10 +51,3 @@ Grix, Conan, Triss, Dustin, Usopp e Markus,
 
 
 
-
-
-
-
-
-
-

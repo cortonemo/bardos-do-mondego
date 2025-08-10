@@ -27,14 +27,7 @@ Sessões: 8 | Datas: a confirmar | Fontes: (logs de sessões) | Tags: pc, ranger
 
 | Português | English |
 |-----------|---------|
-| **História:** Vaunia nasceu na tribo de Coal, nas Montanhas Corusk, onde coexistiam os clãs Kolakiala (descendentes de gigantes de pedra) e Muthalavi (descendentes de gigantes de fogo). Desde cedo treinada como caçadora pelo pai, viveu uma infância entre a dureza do ambiente vulcânico e as aventuras com os amigos Aurkan e Manvea. Aos 23 anos, Vaunia perdeu-se numa caçada e encontrou um misterioso homem que acredita ser Thor, deixando-lhe uma pulseira mágica. Anos depois, envolveu-se na tentativa de fuga de Aurkan e Manvea, apaixonados de clãs rivais. Ao tentar protegê-los de um ataque do seu próprio clã, foi mortalmente ferida. Ressuscitou misteriosamente na Taberna, sem memórias do passado, apenas guiada pelos nomes "Aurkan" e "Manvea". | **Backstory:** Vaunia was born in the Coal tribe, located in the Corusk Mountains, home to two clans: the Kolakiala (stone giant descendants) and the Muthalavi (fire giant descendants). Trained as a hunter from an early age, she balanced a harsh volcanic upbringing with secret adventures alongside her friends Aurkan and Manvea. At 23, she got lost during a hunt and encountered a mysterious man she believes to be Thor, who left her a magical bracelet. Years later, she aided Aurkan and Manvealovers from rival clansin their attempted escape. In a confrontation with her own clan, Vaunia was fatally wounded while trying to protect them. She later awoke at the Tavern with no memory of her past, guided only by the names "Aurkan" and "Manvea". |
+| **História:** Vaunia nasceu na tribo de Coal, nas Montanhas Corusk, onde coexistiam os clãs Kolakiala (descendentes de gigantes de pedra) e Muthalavi (descendentes de gigantes de fogo). Desde cedo treinada como caçadora pelo pai, viveu uma infância entre a dureza do ambiente vulcânico e as aventuras com os amigos Aurkan e Manvea. Aos 23 anos, Vaunia perdeu-se numa caçada e encontrou um misterioso homem que acredita ser Thor, deixando-lhe uma pulseira mágica. Anos depois, envolveu-se na tentativa de fuga de Aurkan e Manvea, apaixonados de clãs rivais. Ao tentar protegê-los de um ataque do seu próprio clã, foi mortalmente ferida. Ressuscitou misteriosamente na Taberna, sem memórias do passado, apenas guiada pelos nomes "Aurkan" e "Manvea". | **Backstory:** Vaunia was born in the Coal tribe, located in the Corusk Mountains, home to two clans: the Kolakiala (stone giant descendants) and the Muthalavi (fire giant descendants). Trained as a hunter from an early age, she balanced a harsh volcanic upbringing with secret adventures alongside her friends Aurkan and Manvea. At 23, she got lost during a hunt and encountered a mysterious man she believes to be Thor, who left her a magical bracelet. Years later, she aided Aurkan and Manvea—lovers from rival clans—in their attempted escape. In a confrontation with her own clan, Vaunia was fatally wounded while trying to protect them. She later awoke at the Tavern with no memory of her past, guided only by the names "Aurkan" and "Manvea". |
 
 [(Voltar a PCs / Back to PCs)](pcs.md)  
-[(Voltar à Página Inicial / Back to Home Page)](../../home.md)
-
-
-
-
-
-
-
+[(Voltar à Página Inicial / Back to Home Page)](home.md)

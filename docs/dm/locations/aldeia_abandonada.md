@@ -3,18 +3,11 @@
 
 Sessão: 3 | Data: 2025-04-18 | Fonte: s03.txt | Tags: localização, ruína, fungo, combate, aldeia
 
-![Aldeia Abandonada do Vale](blank.png)
+![Aldeia Abandonada do Vale](docs/dm/locations/blank.png)
 
 | English | Português |
 |---------|-----------|
 | **Description:** The ruined village in the [Vale do Vento Sombrio](vale_do_vento_sombrio.md), overrun by yellow pulsating fungus. Signs of battle, overturned furniture, and claw marks are everywhere. Home to infected kobolds and the ritual site of Vaelkor Ashbrand. | **Descrição:** A aldeia em ruínas no [Vale do Vento Sombrio](vale_do_vento_sombrio.md), tomada por fungo amarelo pulsante. Sinais de batalha, móveis revirados e marcas de garras por toda a parte. Refúgio de kobolds infectados e palco do ritual de Vaelkor Ashbrand. |
-
-
-
-
-
-
-
 
 
 

@@ -67,8 +67,3 @@ Uma capa feita da tapeçaria de Nerull – cada membro da party ficou com uma.
 
 
 
-
-
-
-
-

@@ -70,10 +70,3 @@ vai mimir que foste mau.
 
 
 
-
-
-
-
-
-
-

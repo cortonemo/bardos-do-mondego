@@ -3,7 +3,7 @@
 
 Sessões: 11, 12 | Datas: 2025-03-20, 2025-03-27 | Fontes: s11_-_2025-03-20.txt, s12_-_2025-03-27.txt | Tags: npc, inquisidor, antagonista
 
-![Malrik Dorn](blank.png)
+![Malrik Dorn](docs/dm/npc/blank.png)
 
 | Português | English |
 |-----------|---------|
@@ -11,13 +11,6 @@ Sessões: 11, 12 | Datas: 2025-03-20, 2025-03-27 | Fontes: s11_-_2025-03-20.txt,
 
 [(Voltar a NPCs / Back to NPCs)](npcs_list.md)  
 [(Voltar à Página]()
-
-
-
-
-
-
-
 
 
 

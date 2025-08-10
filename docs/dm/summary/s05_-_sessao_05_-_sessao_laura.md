@@ -118,8 +118,3 @@ Estrategia do Xama Goblin:
 
 
 
-
-
-
-
-

@@ -42,8 +42,3 @@ ganhou dinheiro, tendo ele ficado com 500GP. O resto da party nao recebeu nada
 
 
 
-
-
-
-
-

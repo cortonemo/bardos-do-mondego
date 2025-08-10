@@ -3,21 +3,14 @@
 
 Sessões: 16 | Datas: 2025-04-24 | Fontes: extra_relato_crianca_perdida.txt | Tags: loot, artefato, mágico
 
-![Gema das Cinco Vozes](blank.png)
+![Gema das Cinco Vozes](docs/dm/loot/blank.png)
 
 | Português | English |
 |-----------|---------|
 | Artefacto misterioso encontrado na [Cripta das Sombras](cripta_das_sombras.md) durante a missão A Criança Perdida. Emite sussurros em múltiplas línguas. O seu verdadeiro poder permanece desconhecido; entregue ao taberneiro de Greyhawk pelo grupo. | Mysterious artifact found in the [Crypt of Shadows](cripta_das_sombras.md) during A Criança Perdida. Emits whispers in multiple tongues. Its true power remains unknown; handed to the Greyhawk barkeep by the party. |
 
 [(Voltar a Loot & Itens Mágicos / Back to Loot & Magic Items)](loot.md)  
-[(Voltar à Página Inicial / Back to Home Page)](../../home.md)
-
-
-
-
-
-
-
+[(Voltar à Página Inicial / Back to Home Page)](home.md)
 
 
 

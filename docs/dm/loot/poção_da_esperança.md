@@ -3,21 +3,14 @@
 
 Sessões: 1 | Datas: 2025-01-02 | Fontes: s01_-_2025-01-02.txt | Tags: loot, poção, mágico
 
-![Poção da Esperança](blank.png)
+![Poção da Esperança](docs/dm/loot/blank.png)
 
 | Português | English |
 |-----------|---------|
 | Poção rara entregue aos aventureiros de [Eribend](eribend.md) como recompensa inicial. Concede bónus temporário a testes de resistência contra medo e desespero. | Rare potion given to [Eribend](eribend.md) adventurers as an initial reward. Grants temporary bonus to saving throws against fear and despair. |
 
 [(Voltar a Loot & Itens Mágicos / Back to Loot & Magic Items)](loot.md)  
-[(Voltar à Página Inicial / Back to Home Page)](../../home.md)
-
-
-
-
-
-
-
+[(Voltar à Página Inicial / Back to Home Page)](home.md)
 
 
 

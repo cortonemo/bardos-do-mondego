@@ -6,20 +6,13 @@ Sessões:
 
 Tags: npc, paladino
 
-![Brandon Bane](blank.png)
+![Brandon Bane](docs/dm/npc/blank.png)
 
 | English | Português |
 |---------|-----------|
 | **Brandon Bane** is a paladin of the subterranean hunters, part of the group hunting Dustin. | **Brandon Bane** é um paladino dos caçadores do subterrâneo, membro do grupo que persegue Dustin. |
 
 [(Back to NPCs / Voltar a NPCs)](npcs_list.md)
-
-
-
-
-
-
-
 
 
 
