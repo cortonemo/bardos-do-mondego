@@ -1,8 +1,8 @@
-﻿ **8. Linha do Tempo**
+ **8. Linha do Tempo**
 
-    Resumo cronolÃ³gico das sessÃµes e eventos.
+    Resumo cronológico das sessões e eventos.
 
-    Entrada para cada dia de lua negra, avanÃ§os da praga, aÃ§Ãµes dos cultos, grandes combates.
+    Entrada para cada dia de lua negra, avanços da praga, ações dos cultos, grandes combates.
 
 
 

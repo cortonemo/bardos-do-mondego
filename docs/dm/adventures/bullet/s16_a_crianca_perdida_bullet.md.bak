@@ -1,0 +1,34 @@
+﻿# SessÃ£o 16  A CrianÃ§a Perdida: Bullet Points
+
+| PortuguÃªs | English |
+|-----------|---------|
+| - Pedido urgente: encontrar Aria Greenbottle, halfling desaparecida. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" - InvestigaÃ§Ã£o na casa da famÃ­lia revela pistas: diÃ¡rio, mapa, paixÃ£o por ruÃ­nas. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" - Seguindo o diÃ¡rio, grupo evita perigos fora do caminho. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" - Entrada armadilhada nas ruÃ­nas ao norte de Greyhawk. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" - ExploraÃ§Ã£o da cripta e mÃºltiplos encontros com mortos-vivos e armadilhas. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" - Confronto final com espectro e criatura das sombras. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" - Aria Ã© resgatada e Gema das Cinco Vozes Ã© encontrada. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">"  | - Urgent request: find missing halfling Aria Greenbottle. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" - Investigation at family home reveals clues: diary, map, fascination with ruins. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" - Following diary, party avoids dangers by staying on path. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" - Trapped entrance at northern Greyhawk ruins. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" - Crypt exploration and multiple encounters with undead and traps. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" - Final battle with wraith and shadow creature. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" - Aria rescued and Five Voices Gem found. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">"  |
+| **NPCs:** Aria, Tobias, Eliza, Finn Greenbottle, guarda da cidade, taberneiro | **NPCs:** Aria, Tobias, Eliza, Finn Greenbottle, city guard, barkeeper |
+| **Loot:** 100 PO, poÃ§Ãµes, Gema das Cinco Vozes (misteriosa), diÃ¡rio, gratidÃ£o da famÃ­lia | **Loot:** 100 GP, potions, Five Voices Gem (mysterious), diary, familys gratitude |
+| **Data:** 2025-04-24 | **Date:** 2025-04-24 |
+| **Ficheiros de origem:** s16_a_crianca_perdida.md, s16_a_crianca_perdida.txt |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

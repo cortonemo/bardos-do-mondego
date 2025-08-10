@@ -1,16 +1,16 @@
-﻿
+
 # Vila de Vauria / Vauria Village
 
-SessÃµes: 9 | Datas: 2025-03-06 | Fontes: s09_-_2025-03-06.txt | Tags: localizacao, vila
+Sessões: 9 | Datas: 2025-03-06 | Fontes: s09_-_2025-03-06.txt | Tags: localizacao, vila
 
-[Vila de Vauria](vila_de_vauria.png)
+![Vila de Vauria](blank.png)
 
-| PortuguÃªs | English |
+| Português | English |
 |-----------|---------|
 | Vila isolada nas montanhas, frequentada por aventureiros em busca de segredos antigos e tesouros esquecidos. | Isolated mountain village, frequented by adventurers searching for ancient secrets and forgotten treasures. |
 
-[(Voltar a LocalizaÃ§Ãµes / Back to Locations)](localizacoes.md)  
-[(Voltar Ã  PÃ¡gina Inicial / Back to Home Page)](../../home.md)
+[(Voltar a Localizações / Back to Locations)](localizacoes.md)  
+[(Voltar à Página Inicial / Back to Home Page)](../../home.md)
 
 
 

@@ -1,0 +1,34 @@
+﻿# O Baile dos High Fae  Bullet Points
+
+| PortuguÃªs                                                                                                                                                                                                                                                                                                                                                                                                                                    | English                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| - Convite para baile no castelo da Rainha Caecena. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" - MissÃ£o social: cada personagem deve encontrar um par para a danÃ§a. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" - Intrigas e conversas cortesÃ£s. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" - Ataque de homens-serpente enviados por Lord Coriver. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" - ApÃ³s combate, party Ã© teletransportada para o covil do vilÃ£o. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" - Batalha contra Lord Coriver e uma minhoca gigante; resgate de refÃ©ns. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" - Retorno ao baile, danÃ§a final, Kai recebe bÃªnÃ§Ã£o/feat Lucky. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">"  | - Invitation to a ball at Queen Caecenas castle. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" - Social mission: each PC must find a dance partner. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" - Intrigue and courtly conversations. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" - Attack by snake-men sent by Lord Coriver. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" - After the fight, the party is teleported to the villains lair. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" - Battle against Lord Coriver and a giant worm; rescue of hostages. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" - Return to the ball, final dance, Kai receives Queens blessing/Lucky feat. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">"  |
+| **NPCs:** Rainha Caecena, Lord Coriver, homens-serpente, minhoca gigante, refÃ©ns                                                                                                                                                                                                                                                                                                                                                             | **NPCs:** Queen Caecena, Lord Coriver, snake-men, giant worm, hostages                                                                                                                                                                                                                                                                                                                                                            |
+| **Loot:** BÃªnÃ§Ã£o/feat Lucky, possÃ­veis recompensas cortesÃ£s                                                                                                                                                                                                                                                                                                                                                                                  | **Loot:** Blessing/Lucky feat, possible courtly rewards                                                                                                                                                                                                                                                                                                                                                                           |
+| **Data:** 2025-03-06                                                                                                                                                                                                                                                                                                                                                                                                                         | **Date:** 2025-03-06                                                                                                                                                                                                                                                                                                                                                                                                              |
+| **Ficheiros de origem:** s09_baile_dos_high_fae_pontos.md                                                                                                                                                                                                                                                                                                                                                                                    | **Source files:** s09_baile_dos_high_fae_pontos.md                                                                                                                                                                                                                                                                                                                                                                                |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

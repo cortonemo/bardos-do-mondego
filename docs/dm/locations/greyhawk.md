@@ -1,14 +1,14 @@
-﻿## Ficheiro: greyhawk.md
+## Ficheiro: greyhawk.md
 
 #### Greyhawk
 
-SessÃ£o: 2 | Data: (data nÃ£o especificada) | Fonte: s02.txt | Tags: localizaÃ§Ã£o, cidade
+Sessão: 2 | Data: (data não especificada) | Fonte: s02.txt | Tags: localização, cidade
 
-[Greyhawk](greyhawk.png)
+![Greyhawk](blank.png)
 
-| English | PortuguÃªs |
+| English | Português |
 |---------|-----------|
-| **Description:** Large city mentioned as a point of reference/location. | **DescriÃ§Ã£o:** Grande cidade mencionada como ponto de referÃªncia/localizaÃ§Ã£o. |
+| **Description:** Large city mentioned as a point of reference/location. | **Descrição:** Grande cidade mencionada como ponto de referência/localização. |
 
 
 

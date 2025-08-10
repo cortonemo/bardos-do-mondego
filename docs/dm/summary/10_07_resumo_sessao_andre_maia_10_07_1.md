@@ -1,4 +1,4 @@
-﻿*10-07-2025*
+*10-07-2025*
 
 *Campanha Westmarshes*
 
@@ -15,7 +15,7 @@ hobgoblins) Cleric, lvl4
 
 Ulma - Half-orc Barbarian, lvl3
 
-*A aventura comeÃ§a dentro da cidade de Greyhawk: Leo e Zahel estao num parque/jardim numa zona centro-oeste da cidade e Ulma esta num dos distritos mais pobres.*
+*A aventura começa dentro da cidade de Greyhawk: Leo e Zahel estao num parque/jardim numa zona centro-oeste da cidade e Ulma esta num dos distritos mais pobres.*
 
 Leo persistentemente a tomar conta de um bando de pombos, tentando que estes
 nao sejam atacadas por aves de rapina que andam por perto
@@ -27,7 +27,7 @@ Ulma faz exercicio fisico, correndo pela rua, ate que chega ao parque onde se
 encontram Leo e Zahel, os quais ela conhece de vista pois ja os viu na
 taberna.
 
-*Encontro com uma estranha figura humanoide de cartola e paleto que convida os tres a visitar o "Museu das Maravilhas Naturais e Arcanas de Greyhawk", e oferece um misterioso bilhete convite a cada um. Zahel repara tambem numa coruja pousada numa arvore proxima que se transforma num humanoide e o grupo presume que a coruja se trata de uma wild shape. A criatura depois desaparece. Zahel e Leo querem muito ir e Ulma nao, mas resolve ir com eles com intenÃ§ao de os proteger.*
+*Encontro com uma estranha figura humanoide de cartola e paleto que convida os tres a visitar o "Museu das Maravilhas Naturais e Arcanas de Greyhawk", e oferece um misterioso bilhete convite a cada um. Zahel repara tambem numa coruja pousada numa arvore proxima que se transforma num humanoide e o grupo presume que a coruja se trata de uma wild shape. A criatura depois desaparece. Zahel e Leo querem muito ir e Ulma nao, mas resolve ir com eles com intençao de os proteger.*
 
 No meio do parque, perto do lago.
 
@@ -50,21 +50,21 @@ criatura depois desaparece.
 Ele oferece a cada um um bilhete de onde sai uma voz que diz "Convite VIP!
 Aguente uma noite e saia rico! Ou com vida!"
 
-Zahel e Leo querem muito ir e Ulma nao, mas resolve ir com eles com intenÃ§ao
+Zahel e Leo querem muito ir e Ulma nao, mas resolve ir com eles com intençao
 de os proteger. Antes de partirem, Zahel da guidance a Ulma e Leo da guidance
 aos pombos.
 
 *Chegados ao edificio do qual faz parte o museu, localizado em Garden Quarter, todos reparam que este se encontra ligeiramente degradado mas que algumas partes foram renovadas recentemente, como a porta, que e nova, um tapete a entrada e umas flores nuns vasos. A madeira e negra, trabalhada, ostentando vitrais coloridos. Ha tambem algumas gargulas e vem-se 6 janelas que vao de um lado ao outro do edificio. A parte do edificio que contem o museu propriamente dito nao se encontra em tao bom estado. O edificio localiza-se numa zona humida, pois esta proximo do rio.*
 
-Leo apercebe-se de que isto se deve a um misto de desleixo e de condiÃ§oes
-climatericas. Ele repara em ervas, trepadeiras e pequenos fungos que comeÃ§aram
+Leo apercebe-se de que isto se deve a um misto de desleixo e de condiçoes
+climatericas. Ele repara em ervas, trepadeiras e pequenos fungos que começaram
 a crescer nas paredes.
 
 Edificio estilo gotico.
 
 Zahel oferece a Leo e a Ulma um simbolo de uma pomba sobre um sol, esculpido
 em madeira por ele. Esta esculpido a pressa e de forma muito tosca. Zahel
-afirma que o simbolo lhes dara proteÃ§ao, mas nao e verdade. Leo e Ulma
+afirma que o simbolo lhes dara proteçao, mas nao e verdade. Leo e Ulma
 agradecem o presente e Ulma fica muito agradecida e convencida pelas palavras
 de Zahel, guardando o simbolo como se fosse algo muito precioso.
 
@@ -86,35 +86,35 @@ neles. Tambem ja nao se ouve a voz.
 
 Ao entrar ha um corredor longo, com varias salas.
 
-A 1Âª sala tem algumas criaturas embalsamadas expostas e retratos de nobres. Os
+A 1ª sala tem algumas criaturas embalsamadas expostas e retratos de nobres. Os
 olhos dos retratos nos quadros seguem o grupo A sala tem muitos animais, de
 especies variadas, incluindo um grifo, mas tambem humanoides, incluindo
 monstros como um Mindflayer. Tambem havia humanoides mais tipicos como um orc
-(?). "ExposiÃ§oes inquietantes" (foi o nome que o robo disse que tinha sido
-dado aquela secÃ§ao?)
+(?). "Exposiçoes inquietantes" (foi o nome que o robo disse que tinha sido
+dado aquela secçao?)
 
 Ver tantos animais embalsamados deixa sobretudo Leo bastante abalado e
 maldisposto.
 
-Ha moscas e o robo menciona que elas tambem fazem parte da exposiÃ§ao.
+Ha moscas e o robo menciona que elas tambem fazem parte da exposiçao.
 
 Zahel analisa um pergaminho que conta a historia da Branca de Neve, mas nesta
 versao ela escravizou os anoes pelos diamantes.
 
 Robo afirma que todas as criaturas foram recolhidas apos morte natural, mas
 percebemos que deve ser mentira, pois em varias das criaturas expostas e
-possivel notar marcas de golpes que, ainda que tenham sido disfarÃ§adas e
+possivel notar marcas de golpes que, ainda que tenham sido disfarçadas e
 cosidas, presumivelmente foram a verdadeira causa da morte.
 
-Robo explica uma das exibiÃ§oes contando a historia de um "senhor do moinho
+Robo explica uma das exibiçoes contando a historia de um "senhor do moinho
 encantado" que  "ha 300 anos viveu em Greyhawk".
 
 Zahel apercebe-se de que os embalsamados, apesar de nao serem dos melhores,
 estao feitos meticulosamente e com muito carinho.
 
-A 2Âª sala contem armas e armaduras, incluindo uma espada que brilhava com a
-presenÃ§a de orcs (Ferrao), e um machado (Gorefien?). Tambem tem uma armadura
-que se pensava estar amaldiÃ§oada mas simplesmente foi mal feita e envenena as
+A 2ª sala contem armas e armaduras, incluindo uma espada que brilhava com a
+presença de orcs (Ferrao), e um machado (Gorefien?). Tambem tem uma armadura
+que se pensava estar amaldiçoada mas simplesmente foi mal feita e envenena as
 pessoas com chumbo.
 
 Ulma aproveita que o robo esta distraido a explicar para investigar se as
@@ -123,7 +123,7 @@ o corredor agora esta maior. Neste andar de baixo, existem 4 janelas e ela ve
 que a porta da rua por onde entraram esta fechada. Ulma tenta abri-la (em
 stealth), mas sem sucesso, mesmo com numero elevado no STR check (esta
 realmente bem trancada). Ao fazer isto, Ulma ouve uma voz vinda do teto que
-diz para nao tentar sair enquanto nao terminar a exposiÃ§ao.
+diz para nao tentar sair enquanto nao terminar a exposiçao.
 
 Ulma regressa para junto de Leo e Zahel. O grupo prossegue para uma sala cheia
 de armas e armaduras. Zahel apercebe-se de que praticamente tudo ali e magico.
@@ -135,7 +135,7 @@ suspeitas.
 Ulma nao repara que o robo esta de olho nela (as lentes dos "olhos" saem um
 pouco para fora focando nela).
 
-*Encontro com o gnomo escondido dentro de uma das armaduras em exposiÃ§ao. Ele explica a Ulma que esta escondido no museu ha ja 1 semana, que todos os seus companheiros, incluindo o Mind Flayer, foram mortos e embalsamados, que temos de nos livrar do robo, que e o vigia e que temos de escapar antes da chegada do homem da cartola (Darsen). E que, ao que parece, o objetivo dele e matar todos os visitantes, tornando-os depois em exemplares de exposiÃ§ao.*
+*Encontro com o gnomo escondido dentro de uma das armaduras em exposiçao. Ele explica a Ulma que esta escondido no museu ha ja 1 semana, que todos os seus companheiros, incluindo o Mind Flayer, foram mortos e embalsamados, que temos de nos livrar do robo, que e o vigia e que temos de escapar antes da chegada do homem da cartola (Darsen). E que, ao que parece, o objetivo dele e matar todos os visitantes, tornando-os depois em exemplares de exposiçao.*
 
 Ulma ouve alguem chamar em voz baixa. O som vem de dentro de uma das
 armaduras. Ulma percebe que esta alguem escondido la dentro e aproxima-se. 
@@ -144,10 +144,10 @@ seus companheiros, incluindo o Mind Flayer, foram mortos e embalsamados. Pede
 para nao perdermos o robo de vista, pois e o vigia do homem da cartola e que
 temos de escapar antes da chegada deste. Ao que parece, o objetivo do homem da
 cartola, chamado Darsen, e matar todos os visitantes, tornando-os depois em
-exemplares de exposiÃ§ao - pelo que somos as proximas vitimas.
+exemplares de exposiçao - pelo que somos as proximas vitimas.
 
 Ulma regressa para junto de Zahel e tenta mais uma vez a mesma estrategia de
-comunicaÃ§ao, mas desta vez o robo esta muito atento presumivelmente percebe o
+comunicaçao, mas desta vez o robo esta muito atento presumivelmente percebe o
 esquema.
 
 Ulma volta para perto do gnomo, fingindo estar a analisar a armadura em vez de
@@ -161,18 +161,18 @@ Ulma ganha tempo para o atacar.
 *Luta com o robo, que imediatamente soa o alarme, e com um segundo robo que aparece de seguida. Robos expelem gas paralisante, atacam com eletricidade e sao vulneraveis a agua. Gnomo ajuda na parte final da luta, derrotando um dos robos com poderes (semelhantes a misseis?) de fogo(?) que fazem o robo explodir.*
 
 Ulma corre e cobre o robo com a sua capa, atacando-o de seguida. No entanto, o
-dano nao foi suficiente para o destruir, mas apenas para lhe cortar um braÃ§o.
+dano nao foi suficiente para o destruir, mas apenas para lhe cortar um braço.
 
 Robo entra em chamas e queima por completo a capa, que era a unica coisa com
 que Ulma tinha ficado dos seus pais. Robo soa o alarme e liberta uma nuvem de
 gas que deixa Ulma paralisada ao falhar um CON saving throw.
 
 Outro robo igual aparece e transforma-se num maior (tipo transformers) com
-varias cabeÃ§as e olhos.
+varias cabeças e olhos.
 
 Leo transforma-se em urso (wild shape) e da mais dano num dos robos.
 
-Ãgua da waterskin que Ulma atira para cima do robo mais fraco faz com que este
+Água da waterskin que Ulma atira para cima do robo mais fraco faz com que este
 rebente.
 
 A meio da luta, Zahel fica paralisado e, para o proteger, Ulma pega nele e faz
@@ -186,32 +186,32 @@ com um brasao com uma mao vermelha a segurar uma adaga, representando uma das
 "Casas Celestiais" pertencentes a famosos reinos de vampiros. Esta casa em
 particular e chamada "Darman".
 
-Zahel coloca na cabeÃ§a o capacete da armadura onde estava escondido o gnomo.
+Zahel coloca na cabeça o capacete da armadura onde estava escondido o gnomo.
 As suas orelhas longas saem de fora do capacete e ficam ligeiramente viradas
 para baixo.
 
-Zahel tem um feitiÃ§o que talvez possa ressuscitar o Mind Flayer e diz que vai
+Zahel tem um feitiço que talvez possa ressuscitar o Mind Flayer e diz que vai
 tentar. Gnomo fica extremamente agradecido.
 
-*Gnomo conduz o grupo para um local que ele diz ser seguro, nas ventilaÃ§oes, onde diz ter estado escondido durante a semana.*
+*Gnomo conduz o grupo para um local que ele diz ser seguro, nas ventilaçoes, onde diz ter estado escondido durante a semana.*
 
 Leo faz find familiar (rato) para tentar que este espie atraves das
-ventilaÃ§oes, mas este distrai-se com um pedaÃ§o de queijo e apos um guincho, a
-comunicaÃ§ao com Leo e cortada. Presumivelmente foi morto numa armadilha.
+ventilaçoes, mas este distrai-se com um pedaço de queijo e apos um guincho, a
+comunicaçao com Leo e cortada. Presumivelmente foi morto numa armadilha.
 
 Reparamos em varios ossos e restos de criaturas espalhados ao longo dos canais
-de ventilaÃ§ao.
+de ventilaçao.
 
-*Long Rest interrompido (fica sem qualquer efeito) pelo ataque de um bau mimic kinky que tenta comunicar com o grupo apos desistir de atacar Ulma. Mimic transforma-se numa estatua de um elfo e cruza os braÃ§os, fazendo sinal para pararem de lutar, e transformando um dos braÃ§os numa bandeira branca de paz.*
+*Long Rest interrompido (fica sem qualquer efeito) pelo ataque de um bau mimic kinky que tenta comunicar com o grupo apos desistir de atacar Ulma. Mimic transforma-se numa estatua de um elfo e cruza os braços, fazendo sinal para pararem de lutar, e transformando um dos braços numa bandeira branca de paz.*
 
 Ulma fica no primeiro turno de vigia e e atacada por um bau mimic que ela nao
 ve chegar mas que, ao avistar, se lembra que nao estava ali antes. Mimic
-projeta a lingua em direÃ§ao a Ulma, agarrando-lhe o braÃ§o e envolvendo-o em
+projeta a lingua em direçao a Ulma, agarrando-lhe o braço e envolvendo-o em
 acido.
 
 Ulma provoca o proprio vomito e vomita dentro da boca do bau, que
 aparentemente gosta e lhe pisca o olho, lambendo e comendo o vomito,
-satisfeito (EEEEWWWWW!!!!!). Ulma aproveita a distraÃ§ao para atacar (ataque
+satisfeito (EEEEWWWWW!!!!!). Ulma aproveita a distraçao para atacar (ataque
 com vantagem) e corta-lhe a lingua.
 
 Mimic recua e rende-se; assume a aparencia de um elfo todo cinzento e o grupo
@@ -223,7 +223,7 @@ elfo, es um grande javardo."
 O grupo apercebe-se de que nao e um elfo verdadeiro, mas uma estatua que o
 mimic esta a imitar para tentar comunicar, pois e o mais proximo que encontra
 e os mimics apenas conseguem assumir a forma de objetos. Mimic cruza os
-braÃ§os, fazendo sinal para pararem de lutar, e transformando um dos braÃ§os
+braços, fazendo sinal para pararem de lutar, e transformando um dos braços
 numa bandeira branca de paz.
 
 Pensamos que o mimic e ser o responsavel pelos ossos e restos que encontramos.

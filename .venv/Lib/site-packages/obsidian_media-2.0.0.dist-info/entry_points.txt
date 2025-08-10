@@ -1,0 +1,3 @@
+[markdown.extensions]
+obsidian_media = obsidian_media.extension:ObsidianMediaExtension
+obsidian_media_mkdocs = obsidian_media.extension:ObsidianMediaMkDocsExtension

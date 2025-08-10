@@ -1,16 +1,16 @@
-﻿
-# LaboratÃ³rio do Curador (sub-location)
 
-SessÃµes: 27, 28 | Datas: 2025-07-10, 2025-07-17 | Fontes: s27_-_2025-07-10.txt, s28_-_2025-07-17.txt | Tags: laboratÃ³rio, museu, sub-location
+# Laboratório do Curador (sub-location)
 
-[LaboratÃ³rio do Curador](laboratorio_do_curador.png)
+Sessões: 27, 28 | Datas: 2025-07-10, 2025-07-17 | Fontes: s27_-_2025-07-10.txt, s28_-_2025-07-17.txt | Tags: laboratório, museu, sub-location
 
-| PortuguÃªs | English |
+![Laboratório do Curador](blank.png)
+
+| Português | English |
 |-----------|---------|
-| LaboratÃ³rio secreto do curador-chefe do museu, palco de experiÃªncias e de eventos crÃ­ticos. | Secret laboratory of the museums head curator, stage for experiments and critical events. |
+| Laboratório secreto do curador-chefe do museu, palco de experiências e de eventos críticos. | Secret laboratory of the museums head curator, stage for experiments and critical events. |
 
-[(Voltar a LocalizaÃ§Ãµes / Back to Locations)](localizacoes.md)  
-[(Voltar Ã  PÃ¡gina Inicial / Back to Home Page)](../../home.md)
+[(Voltar a Localizações / Back to Locations)](localizacoes.md)  
+[(Voltar à Página Inicial / Back to Home Page)](../../home.md)
 
 
 

@@ -1,7 +1,7 @@
-﻿
+
 # Monstros / Monsters
 
-[(Voltar Ã  PÃ¡gina Inicial / Back to Home Page)](../../home.md)
+[(Voltar à Página Inicial / Back to Home Page)](../../home.md)
 
 - [Armadura Animada / Animated Armor](armadura_animada.md)
 - [Ghast](ghast.md)
@@ -16,17 +16,17 @@
 - [Pirata / Pirate](pirata.md)
 - [Criatura Abissal / Abyssal Creature](criatura_abissal.md)
 - [Sombra / Shadow](sombra.md)
-- [GuardiÃ£o da Caverna / Cave Guardian](guardian_da_caverna.md)
+- [Guardião da Caverna / Cave Guardian](guardian_da_caverna.md)
 - [Monstro da Lagoa / Lagoon Monster](monstro_da_lagoa.md)
 - [Serpente Gigante / Giant Serpent](serpente_gigante.md)
 - [Wight](wight.md)
-- [UnicÃ³rnio LendÃ¡rio / Legendary Unicorn](unicÃ³rnio_lendario.md)
-- [Criatura de NÃ©voa / Mist Creature](criatura_de_nevoa.md)
+- [Unicórnio Lendário / Legendary Unicorn](unicórnio_lendario.md)
+- [Criatura de Névoa / Mist Creature](criatura_de_nevoa.md)
 - [Cultista / Cultist](cultista.md)
 - [Elemental de Fogo / Fire Elemental](elemental_de_fogo.md)
 - [Corvo Gigante / Giant Crow](corvo_gigante.md)
 
-[(Voltar Ã  PÃ¡gina Inicial / Back to Home Page)](../../home.md)
+[(Voltar à Página Inicial / Back to Home Page)](../../home.md)
 
 
 

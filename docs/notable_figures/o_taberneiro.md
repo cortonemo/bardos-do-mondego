@@ -2,7 +2,7 @@
 
 Sessão: 1 | Data: 2025-08-02 | Fonte: s01.txt | Tags: npc, taberna, mistério
 
-[Taverneiro do Refúgio](taberneiro_refugio.png)
+![Taverneiro do Refúgio](blank.png)
 
 | English | Português |
 |---------|-----------|

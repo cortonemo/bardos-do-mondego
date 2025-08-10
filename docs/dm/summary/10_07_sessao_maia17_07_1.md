@@ -1,4 +1,4 @@
-﻿Claro! Aqui vai uma aventura de Dungeons & Dragons para personagens de nivel
+Claro! Aqui vai uma aventura de Dungeons & Dragons para personagens de nivel
 4, passada em Greyhawk, com uma atmosfera de terror leve e misterio, dividida
 em duas sessoes. O foco sera num Museu de Curiosidades, onde criaturas magicas
 e artefactos estranhos estao presos -- ou talvez, aprisionados por uma razao
@@ -12,9 +12,9 @@ e artefactos estranhos estao presos -- ou talvez, aprisionados por uma razao
 Os aventureiros recebem bilhetes misteriosos na rua para visitar o recem-
 inaugurado Museu das Maravilhas Naturais e Arcanas de Greyhawk. A entrada e
 gratuita por "tempo limitado". O museu, belamente decorado, atrai a
-curiosidade com suas criaturas embalsamadas, artefactos bizarros e exposiÃ§oes
+curiosidade com suas criaturas embalsamadas, artefactos bizarros e exposiçoes
 interativas. Mas a medida que a noite cai, portas se trancam sozinhas e os
-horrores das exposiÃ§oes comeÃ§am a ganhar vida.
+horrores das exposiçoes começam a ganhar vida.
 
 Aos poucos, os jogadores descobrem que o museu e uma prisao arcana para
 criaturas extradimensionais. O curador-mago enlouqueceu e agora tenta
@@ -22,7 +22,7 @@ alimentar o museu com novas almas
 
 * * *
 
-## ï¸ Gatilho (Antes da Sessao 1)
+## ️ Gatilho (Antes da Sessao 1)
 
 Enquanto passeiam por Greyhawk, os jogadores sao abordados por uma figura
 andrajosa, que lhes entrega bilhetes dourados com uma tipografia elegante:
@@ -30,7 +30,7 @@ andrajosa, que lhes entrega bilhetes dourados com uma tipografia elegante:
  "Convite VIP: Museu das Maravilhas Naturais e Arcanas - Uma experiencia que
 vai mudar a sua visao do mundo para sempre!"
 
-Um mapa indica a localizaÃ§ao do museu: um antigo edificio vitoriano nas
+Um mapa indica a localizaçao do museu: um antigo edificio vitoriano nas
 margens do bairro de Garden Quarter.
 
 * * *
@@ -45,11 +45,11 @@ margens do bairro de Garden Quarter.
 
   * Um automato-mordomo (sem alma) da as boas-vindas, levando-os a uma visita guiada com audiomagia.  
 
-  2. ExposiÃ§oes Inquietantes  
+  2. Exposiçoes Inquietantes  
 
-  * Salas com criaturas embalsamadas (grifos, driades, um mind flayer morto), artefactos (coraÃ§ao flutuante, pergaminho vivo), e retratos encantados.  
+  * Salas com criaturas embalsamadas (grifos, driades, um mind flayer morto), artefactos (coraçao flutuante, pergaminho vivo), e retratos encantados.  
 
-  * Jogadores podem fazer testes de Arcana, Religiao, Natureza ou PercepÃ§ao para notar inconsistencias ou sinais de magia ativa.  
+  * Jogadores podem fazer testes de Arcana, Religiao, Natureza ou Percepçao para notar inconsistencias ou sinais de magia ativa.  
 
   3. O Primeiro Susto  
 
@@ -59,7 +59,7 @@ margens do bairro de Garden Quarter.
 
   * Portas e janelas trancam-se por magia. Um alarme arcano distorcido ecoa.  
 
-  4. ExploraÃ§ao Livre com Perigos  
+  4. Exploraçao Livre com Perigos  
 
   * Os jogadores agora exploram livremente enquanto o museu "ganha vida".  
 
@@ -67,7 +67,7 @@ margens do bairro de Garden Quarter.
 
   * Sala das Bestas: Um basilisco preso em campo magico tenta hipnotizar jogadores.  
 
-  * Galeria dos Lamentos: Retratos comeÃ§am a gritar e confundir.  
+  * Galeria dos Lamentos: Retratos começam a gritar e confundir.  
 
   * Sala Subterranea dos Frascos: Homunculos e experimentos falhados (enxame de horrores).  
 
@@ -76,7 +76,7 @@ margens do bairro de Garden Quarter.
   * Os jogadores descobrem uma porta oculta com um aviso antigo:  
   
   
-"ï¸ Proibido entrar: Laboratorio do Curador."  
+"️ Proibido entrar: Laboratorio do Curador."  
   
 
   * Quando a abrem, veem uma figura encapuzada -- o Curador - de costas, murmurando encantamentos diante de uma criatura enorme suspensa em ambar.  
@@ -87,13 +87,13 @@ margens do bairro de Garden Quarter.
 
 ###  Estrutura:
 
-  1. InteraÃ§ao com o Curador  
+  1. Interaçao com o Curador  
 
   * O Curador Darsen, um antigo mago ilusionista, ficou preso no museu apos tentar conter as entidades de um plano alem do veu.  
 
   * Esta agora possuido parcialmente por uma criatura chamada Yzr'alith, um espirito do Medo e da Curiosidade.  
 
-  2. Escolhas e ExploraÃ§ao Final  
+  2. Escolhas e Exploraçao Final  
 
   * Os jogadores podem tentar:  
 
@@ -125,12 +125,12 @@ margens do bairro de Garden Quarter.
 
 * * *
 
-## ï¸ Criaturas & Encontros Sugestivos
+## ️ Criaturas & Encontros Sugestivos
 
 Encontro| Criaturas  
 ---|---  
 Sala das Bestas| Basilisco enfraquecido + armadilhas magicas  
-Galeria dos Lamentos| Quadros que lanÃ§am Confusion \+ Fantasmas  
+Galeria dos Lamentos| Quadros que lançam Confusion \+ Fantasmas  
 Subsolo dos Frascos| 2 Homunculos + Enxame de Olhos Vivos (Monstros caseiros)  
 Curador Possuido| Mage (modificado) + Legendary Actions  
 Yzr'alith| Shadow Demon com habilidades de medo e ilusao  
@@ -139,7 +139,7 @@ Yzr'alith| Shadow Demon com habilidades de medo e ilusao
 
 ##  Tesouros
 
-  * Mascara de ObservaÃ§ao: permite Detect Magic 1/dia.  
+  * Mascara de Observaçao: permite Detect Magic 1/dia.  
 
   * Miniatura de Gargula Viva: funciona como Find Familiar, mas com aparencia de gargula.  
 

@@ -1,16 +1,16 @@
-﻿
+
 # Guarda da Cidade (Greyhawk)
 
-SessÃµes: SessÃ£o Extra | Datas: 2025-04-24 | Fontes: extra_relato_crianca_perdida.txt | Tags: npc, guarda, greyhawk
+Sessões: Sessão Extra | Datas: 2025-04-24 | Fontes: extra_relato_crianca_perdida.txt | Tags: npc, guarda, greyhawk
 
-[Guarda da Cidade](guarda_da_cidade.png)
+![Guarda da Cidade](blank.png)
 
-| PortuguÃªs | English |
+| Português | English |
 |-----------|---------|
-| **DescriÃ§Ã£o:** Membro da guarda de [Greyhawk](cidade_de_greyhawk.md), fornece informaÃ§Ãµes sobre o Ãºltimo avistamento de Aria a sair pelo portÃ£o norte. Papel discreto mas importante na investigaÃ§Ã£o. | **Description:** Member of the [Greyhawk](cidade_de_greyhawk.md) city guard, provides information about Arias last sighting leaving through the north gate. Discreet but important role in the investigation. |
+| **Descrição:** Membro da guarda de [Greyhawk](cidade_de_greyhawk.md), fornece informações sobre o último avistamento de Aria a sair pelo portão norte. Papel discreto mas importante na investigação. | **Description:** Member of the [Greyhawk](cidade_de_greyhawk.md) city guard, provides information about Arias last sighting leaving through the north gate. Discreet but important role in the investigation. |
 
 [(Voltar a NPCs / Back to NPCs)](npcs_list.md)  
-[(Voltar Ã  PÃ¡gina Inicial / Back to Home Page)](../../home.md)
+[(Voltar à Página Inicial / Back to Home Page)](../../home.md)
 
 
 

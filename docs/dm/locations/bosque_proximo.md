@@ -1,12 +1,12 @@
-﻿### Bosque PrÃ³ximo
+### Bosque Próximo
 
-SessÃ£o: 1 | Data: 2025-08-02 | Fonte: s01.txt | Tags: localizaÃ§Ã£o, floresta
+Sessão: 1 | Data: 2025-08-02 | Fonte: s01.txt | Tags: localização, floresta
 
-[Bosque PrÃ³ximo](bosque_proximo.png)
+![Bosque Próximo](blank.png)
 
-| English | PortuguÃªs |
+| English | Português |
 |---------|-----------|
-| **Description:** Forest near the tavern, source of the stream. Site of the first quest, where the adventurers meet Borogrove and find the cave entrance. | **DescriÃ§Ã£o:** Floresta prÃ³xima da taberna, fonte do riacho. Local da primeira missÃ£o, onde os aventureiros conhecem Borogrove e encontram a entrada da caverna. |
+| **Description:** Forest near the tavern, source of the stream. Site of the first quest, where the adventurers meet Borogrove and find the cave entrance. | **Descrição:** Floresta próxima da taberna, fonte do riacho. Local da primeira missão, onde os aventureiros conhecem Borogrove e encontram a entrada da caverna. |
 
 
 

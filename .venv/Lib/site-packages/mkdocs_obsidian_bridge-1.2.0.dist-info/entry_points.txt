@@ -1,0 +1,2 @@
+[mkdocs.plugins]
+obsidian-bridge = mkdocs_obsidian_bridge.plugin:ObsidianBridgePlugin

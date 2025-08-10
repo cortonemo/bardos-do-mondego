@@ -1,14 +1,14 @@
-﻿## Ficheiro: darkmantle.md
+## Ficheiro: darkmantle.md
 
 #### Darkmantle
 
-SessÃ£o: 2 | Data: (data nÃ£o especificada) | Fonte: s02.txt | Tags: monstro
+Sessão: 2 | Data: (data não especificada) | Fonte: s02.txt | Tags: monstro
 
-[Darkmantle](darkmantle.png)
+![Darkmantle](blank.png)
 
-| English | PortuguÃªs |
+| English | Português |
 |---------|-----------|
-| **Description:** Shadowy, tentacled creature that drops from cave ceilings to suffocate prey. Can plunge areas into magical darkness. | **DescriÃ§Ã£o:** Criatura sombria com tentÃ¡culos que se lanÃ§a do teto da caverna para sufocar presas. Pode criar escuridÃ£o mÃ¡gica. |
+| **Description:** Shadowy, tentacled creature that drops from cave ceilings to suffocate prey. Can plunge areas into magical darkness. | **Descrição:** Criatura sombria com tentáculos que se lança do teto da caverna para sufocar presas. Pode criar escuridão mágica. |
 
 
 

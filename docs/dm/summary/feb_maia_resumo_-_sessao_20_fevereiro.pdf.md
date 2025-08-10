@@ -1,48 +1,48 @@
-﻿SessÃ£o 20 de Fevereiro com a DM Laura 
+Sessão 20 de Fevereiro com a DM Laura 
  
 Jogadores 
 Carlos com Kai 
 Ricardo com Grix  
 Ricardo com Varus 
-LuÃ­s com Flynn 
+Luís com Flynn 
 Cristiana com Triss 
  
  
 Myria e Jeraldina, as senhoras que a equipa encontrou no acampamento, 
 emprestaram uma tenda para descansar durante a noite. E ao acordar a equipa 
-ouve alguÃ©m a cair no chÃ£o, e depara-se com um haling chamado Flynn que o 
+ouve alguém a cair no chão, e depara-se com um haling chamado Flynn que o 
 taberneiro enviou e ele torna-se parte da equipa. 
-Antes de continuar caminho, Jeraldina dÃ¡ 3 empadas a Grix para a party comer 
+Antes de continuar caminho, Jeraldina dá 3 empadas a Grix para a party comer 
 durante o caminho. 
-Rapidamente chegam a Eribend, mas pouco depois de atravessar os portÃµes da 
+Rapidamente chegam a Eribend, mas pouco depois de atravessar os portões da 
 cidade, deparam-se com um half-elf que se aproxima e que apresenta como 
 Dolrea Vas que vem receber os aventureiros a pedido do taberneiro. 
-Ele dirige a equipa para o parque para almoÃ§ar e na promessa de negociar rotas 
-comerciais, mas na ida para o local combinado, os aventureiros passam por vÃ¡rios 
-negÃ³cios, onde Triss compra um par de meias um pouco mal feitas, a duas 
+Ele dirige a equipa para o parque para almoçar e na promessa de negociar rotas 
+comerciais, mas na ida para o local combinado, os aventureiros passam por vários 
+negócios, onde Triss compra um par de meias um pouco mal feitas, a duas 
 meninas com uma pequena banca e Grix compra mais de 85 pares de meias a um 
 comerciante. 
-Ao chegar ao parque, o half-elf menciona que estÃ¡ interessado com estabelecer 
+Ao chegar ao parque, o half-elf menciona que está interessado com estabelecer 
 rotas comerciais, mas espera que em trocas das mesmas, seja oferecido 
-seguranÃ§a Ã  cidade, pois tem havido alguns distÃºrbios durante a noite, 
+segurança à cidade, pois tem havido alguns distúrbios durante a noite, 
 nomeadamente pessoas que foram raptadas sem deixar qualquer tipo de pistas 
-nem vestÃ­gios de teletransporte, rumores dizem que Ã© provÃ¡vel que sejam os 
-cultistas de Odrak. Para alÃ©m disso, tem havido movimentos estranho no templo 
-na periferia da cidade e foram ouvidos alguns gritos durante a noite. NÃ£o 
-conseguindo dar mais informaÃ§Ãµes, o half-elf menciona a taberna Machado 
-Quebrado onde a equipa poderÃ¡ conseguir mais informaÃ§Ãµes. 
-Os aventureiros ao entrar na taberna, deparam-se com um quadro de cortiÃ§a, 
-onde estÃ£o aï¬xados vÃ¡rios cartazes com pessoas desaparecidas, e pelas datas 
-chegam Ã  conclusÃ£o tem havidos desaparecimentos quase todos os dias. Ao falar 
-com o taberneiro do Machado Quebrado, ele diz que se suspeita que as vÃ­timas 
-tÃªm desaparecido das suas casas ou no caminho para casa e todas sÃ£o 
+nem vestígios de teletransporte, rumores dizem que é provável que sejam os 
+cultistas de Odrak. Para além disso, tem havido movimentos estranho no templo 
+na periferia da cidade e foram ouvidos alguns gritos durante a noite. Não 
+conseguindo dar mais informações, o half-elf menciona a taberna Machado 
+Quebrado onde a equipa poderá conseguir mais informações. 
+Os aventureiros ao entrar na taberna, deparam-se com um quadro de cortiça, 
+onde estão aﬁxados vários cartazes com pessoas desaparecidas, e pelas datas 
+chegam à conclusão tem havidos desaparecimentos quase todos os dias. Ao falar 
+com o taberneiro do Machado Quebrado, ele diz que se suspeita que as vítimas 
+têm desaparecido das suas casas ou no caminho para casa e todas são 
 comerciantes ou seus familiares. 
-Quando os aventureiros estÃ£o para sair da taberna, 6 indivÃ­duos de alturas 
+Quando os aventureiros estão para sair da taberna, 6 indivíduos de alturas 
 variadas e encapuzados entram na taberna, iniciando de imediato combate. 
-No ï¬m da batalha, ao investigar os corpos, um kobolt tem uma bolsa com uma 
-lista de 7 nomes, onde Dolrea Vas estÃ¡ no ï¬nal da mesma e ao ligar os nomes com 
-as pessoas desaparecidas, reparam que estÃ£o apenas 6 cartazes de pessoas 
-desaparecidas no quadro e Dolrea Vas serÃ¡ a prÃ³xima vÃ­tima.  
+No ﬁm da batalha, ao investigar os corpos, um kobolt tem uma bolsa com uma 
+lista de 7 nomes, onde Dolrea Vas está no ﬁnal da mesma e ao ligar os nomes com 
+as pessoas desaparecidas, reparam que estão apenas 6 cartazes de pessoas 
+desaparecidas no quadro e Dolrea Vas será a próxima vítima.  
 
 
 

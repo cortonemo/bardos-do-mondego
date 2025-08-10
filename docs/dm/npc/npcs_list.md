@@ -1,9 +1,9 @@
-﻿
+
 # NPCs
 
-## Personagens NÃ£o Jogadoras
+## Personagens Não Jogadoras
 
-[(Voltar Ã  PÃ¡gina Inicial / Back to Home Page)](../../home.md)
+[(Voltar à Página Inicial / Back to Home Page)](../../home.md)
 
 - [Aria Greenbottle](aria_greenbottle.md)
     
@@ -74,7 +74,7 @@
 - [Zavros Karamark](zavros_karamark.md)
     
 
-[(Voltar Ã  PÃ¡gina Inicial / Back to Home Page)](../../home.md)
+[(Voltar à Página Inicial / Back to Home Page)](../../home.md)
 
 
 

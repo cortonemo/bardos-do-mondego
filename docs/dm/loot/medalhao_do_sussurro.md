@@ -1,16 +1,16 @@
-﻿
-# MedalhÃ£o do Sussurro / Whisper Medallion
 
-SessÃµes: 10 | Datas: 2025-03-13 | Fontes: s10_-_2025-03-13.txt | Tags: loot, medalhÃ£o, mÃ¡gico
+# Medalhão do Sussurro / Whisper Medallion
 
-[MedalhÃ£o do Sussurro](medalhao_do_sussurro.png)
+Sessões: 10 | Datas: 2025-03-13 | Fontes: s10_-_2025-03-13.txt | Tags: loot, medalhão, mágico
 
-| PortuguÃªs | English |
+![Medalhão do Sussurro](blank.png)
+
+| Português | English |
 |-----------|---------|
-| MedalhÃ£o recuperado nas [RuÃ­nas do Forte da Casa Vanthir](ruinas_do_forte_da_casa_vanthir.md), sussurra segredos antigos ao portador e oferece vantagem em testes de PerceÃ§Ã£o e Engano. | Medallion recovered from the [Ruins of House Vanthir](ruinas_do_forte_da_casa_vanthir.md), whispers ancient secrets to the wearer and grants advantage on Perception and Deception checks. |
+| Medalhão recuperado nas [Ruínas do Forte da Casa Vanthir](ruinas_do_forte_da_casa_vanthir.md), sussurra segredos antigos ao portador e oferece vantagem em testes de Perceção e Engano. | Medallion recovered from the [Ruins of House Vanthir](ruinas_do_forte_da_casa_vanthir.md), whispers ancient secrets to the wearer and grants advantage on Perception and Deception checks. |
 
-[(Voltar a Loot & Itens MÃ¡gicos / Back to Loot & Magic Items)](loot.md)  
-[(Voltar Ã  PÃ¡gina Inicial / Back to Home Page)](../../home.md)
+[(Voltar a Loot & Itens Mágicos / Back to Loot & Magic Items)](loot.md)  
+[(Voltar à Página Inicial / Back to Home Page)](../../home.md)
 
 
 

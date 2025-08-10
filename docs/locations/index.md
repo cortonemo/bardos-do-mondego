@@ -1,7 +1,7 @@
 
 # ️ West Marches World of Greyhawk
 
-![Greyhawk](greyhawk.jpg)
+![Greyhawk](../greyhawk.jpg)
 
 | Português | English |
 |-----------|---------|

@@ -1,0 +1,34 @@
+﻿# Companhia & as TrÃªs Pedras / Mind Flayers  Bullet Points
+
+| PortuguÃªs                                                                                                                                                                                                                                                                                                                                                   | English                                                                                                                                                                                                                                                                                                                                                     |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| - Companhia pede Ã  party para recuperar as trÃªs pedras mÃ¡gicas. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" - Investigam templo no pÃ¢ntano, aldeia dos sapos com cadÃ¡veres sem cÃ©rebro. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" - Loot: moedas, scroll de teleport e fireball. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" - Dois mind flayers atacam: Baltigard e Varus morrem. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" - Nave Illithid aparece e rapta a party. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" - SessÃ£o termina com todos na nave alienÃ­gena. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">"  | - The Company asks the party to recover the three magic stones. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" - Investigate swamp temple, frogfolk village with brainless corpses. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" - Loot: coins, scrolls of teleport and fireball. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" - Two mind flayers attack: Baltigard and Varus die. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" - Illithid ship arrives and abducts the party. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" - Session ends with everyone on the alien ship. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">"  |
+| **NPCs:** Companhia das TrÃªs Pedras, Baltigard, Varus, mind flayers                                                                                                                                                                                                                                                                                         | **NPCs:** Three Stones Company, Baltigard, Varus, mind flayers                                                                                                                                                                                                                                                                                              |
+| **Loot:** Moedas, pergaminhos mÃ¡gicos                                                                                                                                                                                                                                                                                                                       | **Loot:** Coins, magic scrolls                                                                                                                                                                                                                                                                                                                              |
+| **Data:** 2025-03-20                                                                                                                                                                                                                                                                                                                                        | **Date:** 2025-03-20                                                                                                                                                                                                                                                                                                                                        |
+| **Ficheiros de origem:** s11_trilogia_tres_pedras_mindflayer_pontos.md                                                                                                                                                                                                                                                                                      | **Source files:** s11_trilogia_tres_pedras_mindflayer_pontos.md                                                                                                                                                                                                                                                                                             |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

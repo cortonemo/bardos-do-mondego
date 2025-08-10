@@ -1,0 +1,34 @@
+﻿# SessÃ£o 28  O Museu das Maravilhas Sombras: Bullet Points
+
+| PortuguÃªs | English |
+|-----------|---------|
+| - Eirwen chega via portal e junta-se ao grupo no museu, reconhecida por Ulma. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" - Descobrem Zahel desaparecido; Mimic, que os guiava pelos tÃºneis, nÃ£o Ã© culpado. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" - Seguem o Mimic (que se transforma em carro de brincar) por salas secretas. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" - Libertam Ketrich, preso num tubo com lÃ­quido verde; Ulma quase parte o tubo, Eirwen resolve no painel de controlo. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" - Enfrentam um mezzoloth, demasiado forte para derrotar, e conseguem prendÃª-lo no tubo com ajuda de Zael. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" - Robot de seis cabeÃ§as enfrenta o grupo; conseguem empurrÃ¡-lo para um buraco negro usando tentÃ¡culos mÃ¡gicos. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" - Mimic adquire capacete de comunicaÃ§Ã£o e revela ser um prÃ­ncipe amaldiÃ§oado. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" - Descobrem sala de descanso, fazem short rest; Mimic diz que era prÃ­ncipe de um reino canibal. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" - Encontram laboratÃ³rio de Darsen, tentam enganar o curador mas acabam em combate. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" - Darsen usa magia psÃ­quica e canto; Mimic Ã© destruÃ­do. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" - Darsen tenta ressuscitar esposa entregando almas a um demÃ³nio, mas Ã© traÃ­do por Raelith, que possui seu corpo. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" - Usam CrÃ¢nio Abissal para banir o demÃ³nio com ajuda da esposa de Darsen. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" - Grupo saqueia caixa registadora e apanha gemas cursed soul (falsas), foge do museu. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" - Leo faz funeral viking aos peluches (descobrem que eram animais reais empalhados). param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" - Zael leva restos do Mimic para estudar, pede que o procurem nos bairros baixos. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" - Grupo retorna Ã  taverna para long rest. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">"  | - Eirwen arrives via portal and joins the group, recognized by Ulma. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" - Discover Zahel is missing; Mimic guiding them is not responsible. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" - Follow the Mimic (who becomes a toy car) through secret rooms. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" - Free Ketrich from a tube of green goo; Ulma nearly smashes it, Eirwen solves it via the control panel. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" - Face a mezzoloth, too strong to kill, manage to trap it in the tube with Zaels help. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" - Six-headed robot fights group; they push it into a black hole using magic tentacles. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" - Mimic gains telepathic helmet, claims to be a cursed prince. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" - Find rest chamber, take short rest; Mimic explains his kingdom was cannibal. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" - Find Darsens lab, try to trick curator but end up fighting. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" - Darsen uses psychic magic and song; Mimic is destroyed. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" - Darsen tries to revive his wife by giving souls to a demon, but is betrayed by Raelith who possesses him. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" - Use Abyssal Skull to banish the demon with Darsens wifes help. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" - Group loots cash register, grabs cursed soul gems (fake), escapes the museum. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" - Leo gives the plushies a viking funeral (they realize they were real taxidermied animals). param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" - Zael takes Mimics remains to study, asks to be found in the Lower Quarters. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" - Group returns to tavern for long rest. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">"  |
+| **NPCs:** Eirwen, Leo, Ketrich, Ulma, Zael, Mimic (prÃ­ncipe), Darsen, Raelith (demÃ³nio), esposa de Darsen | **NPCs:** Eirwen, Leo, Ketrich, Ulma, Zael, Mimic (prince), Darsen, Raelith (demon), Darsens wife |
+| **Loot:** CrÃ¢nio Abissal, 100 PO por PC, gema falsa (30 PO) por PC, poÃ§Ãµes, peluches empalhados (funeral), capacete telepÃ¡tico, items mÃ¡gicos nÃ£o recuperados | **Loot:** Abyssal Skull, 100 GP per PC, fake gem (30 GP) per PC, potions, stuffed plushies (funeral), telepathic helmet, unrecovered magic items |
+| **Data:** 2025-07-17 | **Date:** 2025-07-17 |
+| **Ficheiros de origem:** s28_-_2025-07-17.md, s28_-_resumo_da_sessao_28_-_2025-07-17.md, s28_-_2025-07-17.txt |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

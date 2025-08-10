@@ -1,8 +1,8 @@
-﻿# Regresso Ã  Mina: Descoberta das Gravuras  Resumo Detalhado
+# Regresso à Mina: Descoberta das Gravuras  Resumo Detalhado
 
-| PortuguÃªs | English |
+| Português | English |
 |-----------|---------|
-| **DescriÃ§Ã£o:** O grupo Ã© guiado de volta Ã  mina por uma bÃºssola mÃ¡gica. Descobrem gravuras antigas com significado misterioso, reforÃ§ando ligaÃ§Ã£o entre os enigmas do mundo. EpisÃ³dio breve, mas deixa ganchos para investigaÃ§Ãµes futuras. param($m) "<" + ($m.Groups[1].Value -replace '\\','/') + ">"  | **Description:** The group is guided back to the mine by a magical compass. They find ancient carvings with mysterious meaning, tying into the worlds mysteries. Brief episode, but leaves hooks for future investigations. param($m) "<" + ($m.Groups[1].Value -replace '\\','/') + ">"  |
+| **Descrição:** O grupo é guiado de volta à mina por uma bússola mágica. Descobrem gravuras antigas com significado misterioso, reforçando ligação entre os enigmas do mundo. Episódio breve, mas deixa ganchos para investigações futuras. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">"  | **Description:** The group is guided back to the mine by a magical compass. They find ancient carvings with mysterious meaning, tying into the worlds mysteries. Brief episode, but leaves hooks for future investigations. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">"  |
 | **PCs:** [unknown] | **PCs:** [unknown] |
 | **NPCs:** [unknown] | **NPCs:** [unknown] |
 | **Loot:**  | **Loot:**  |

@@ -1,4 +1,4 @@
-﻿Nota andre
+Nota andre
 
  notas de hoje foram essas:
 
@@ -28,7 +28,7 @@ loot: 1 shortsword, resto de um escudo, 10 GP
 ritual bolado e maligno vindo da casa, liderado por Vaelkor Ashbrand, "fungo
 purificara o mundo da fraqueza", mal elemental (?)
 
-loot: carta misteriosa, 50 GP, 1 poÃ§ao de cura, 1 cimitarra, 1 shield, 2 robes
+loot: carta misteriosa, 50 GP, 1 poçao de cura, 1 cimitarra, 1 shield, 2 robes
 de cultista normais, 1 robe de cultista tenente,
 
 Grix, Conan, Triss, Dustin, Usopp e Markus,

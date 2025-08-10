@@ -1,14 +1,14 @@
-﻿## Ficheiro: pelor.md
+## Ficheiro: pelor.md
 
 #### Pelor
 
-SessÃ£o: 2 | Data: (data nÃ£o especificada) | Fonte: s02.txt | Tags: religiÃ£o, deidade
+Sessão: 2 | Data: (data não especificada) | Fonte: s02.txt | Tags: religião, deidade
 
-[Pelor](pelor.png)
+![Pelor](blank.png)
 
-| English | PortuguÃªs |
+| English | Português |
 |---------|-----------|
-| **Description:** God of the sun and healing. Worshipped by [Kristryd Splitanvil](kristryd_splitanvil.md). | **DescriÃ§Ã£o:** Deus do sol e da cura. Cultuado por [Kristryd Splitanvil](kristryd_splitanvil.md). |
+| **Description:** God of the sun and healing. Worshipped by [Kristryd Splitanvil](kristryd_splitanvil.md). | **Descrição:** Deus do sol e da cura. Cultuado por [Kristryd Splitanvil](kristryd_splitanvil.md). |
 
 
 

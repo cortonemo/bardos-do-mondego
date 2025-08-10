@@ -1,5 +1,5 @@
-﻿ **6. Locais NotÃ¡veis**
-Com mapas e notas de navegaÃ§Ã£o:
+ **6. Locais Notáveis**
+Com mapas e notas de navegação:
 
     Greyhawk (cidade)
 
@@ -7,7 +7,7 @@ Com mapas e notas de navegaÃ§Ã£o:
 
     Vale de Lytharien
 
-    MansÃ£o Blackfrair
+    Mansão Blackfrair
 
     Erybend
 

@@ -1,23 +1,23 @@
-﻿###  **4. Personagens e NPCs**
+###  **4. Personagens e NPCs**
 
-PÃ¡ginas individuais por personagem com:
+Páginas individuais por personagem com:
 
 - Nome completo
     
-- RaÃ§a e classe (se aplicÃ¡vel)
+- Raça e classe (se aplicável)
     
-- AparÃªncia / Personalidade
+- Aparência / Personalidade
     
-- LigaÃ§Ãµes narrativas
+- Ligações narrativas
     
-- SituaÃ§Ã£o atual (vivo, desaparecido, aliado, hostil)
+- Situação atual (vivo, desaparecido, aliado, hostil)
     
 
 Exemplo de categorias:
 
 - **Jogadores Atuais**
     
-- **Personagens Desaparecidos ou CaÃ­dos**
+- **Personagens Desaparecidos ou Caídos**
     
 - **NPCs Importantes**: Morvanya, Raveth, Borogrove, Lady Silvra Malren, etc.
 

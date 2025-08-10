@@ -1,14 +1,14 @@
-﻿## Ficheiro: blackstone.md
+## Ficheiro: blackstone.md
 
 #### Blackstone
 
-SessÃ£o: 2 | Data: (data nÃ£o especificada) | Fonte: s02.txt | Tags: cidade, localizaÃ§Ã£o
+Sessão: 2 | Data: (data não especificada) | Fonte: s02.txt | Tags: cidade, localização
 
-[Blackstone](blackstone.png)
+![Blackstone](blank.png)
 
-| English | PortuguÃªs |
+| English | Português |
 |---------|-----------|
-| **Description:** Mining town at the foot of the [Cairn Mountains](cairn_mountains.md), home to [Kristryd Splitanvil](kristryd_splitanvil.md). Central to the adventure. | **DescriÃ§Ã£o:** Cidade mineira no sopÃ© das [Montanhas de Cairn](cairn_mountains.md), lar de [Kristryd Splitanvil](kristryd_splitanvil.md). Centro da aventura. |
+| **Description:** Mining town at the foot of the [Cairn Mountains](cairn_mountains.md), home to [Kristryd Splitanvil](kristryd_splitanvil.md). Central to the adventure. | **Descrição:** Cidade mineira no sopé das [Montanhas de Cairn](cairn_mountains.md), lar de [Kristryd Splitanvil](kristryd_splitanvil.md). Centro da aventura. |
 
 
 

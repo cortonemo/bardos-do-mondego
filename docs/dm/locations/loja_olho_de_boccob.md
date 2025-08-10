@@ -1,16 +1,16 @@
-﻿
+
 # Loja Olho de Boccob / Eye of Boccob Shop
 
-SessÃµes: 13 | Datas: 2025-03-13 | Fontes: s13_-_2025-03-13.txt | Tags: localizacao, loja, magico
+Sessões: 13 | Datas: 2025-03-13 | Fontes: s13_-_2025-03-13.txt | Tags: localizacao, loja, magico
 
-[Loja Olho de Boccob](loja_olho_de_boccob.png)
+![Loja Olho de Boccob](blank.png)
 
-| PortuguÃªs | English |
+| Português | English |
 |-----------|---------|
-| Loja mÃ¡gica de um gnomo excÃªntrico, especializada em objetos arcanos e mapas raros. Foi alvo de um misterioso incÃªndio durante um conflito entre guildas. | Magic shop run by an eccentric gnome, specializing in arcane objects and rare maps. Targeted in a mysterious fire during a guild conflict. |
+| Loja mágica de um gnomo excêntrico, especializada em objetos arcanos e mapas raros. Foi alvo de um misterioso incêndio durante um conflito entre guildas. | Magic shop run by an eccentric gnome, specializing in arcane objects and rare maps. Targeted in a mysterious fire during a guild conflict. |
 
-[(Voltar a LocalizaÃ§Ãµes / Back to Locations)](localizacoes.md)  
-[(Voltar Ã  PÃ¡gina Inicial / Back to Home Page)](../../home.md)
+[(Voltar a Localizações / Back to Locations)](localizacoes.md)  
+[(Voltar à Página Inicial / Back to Home Page)](../../home.md)
 
 
 

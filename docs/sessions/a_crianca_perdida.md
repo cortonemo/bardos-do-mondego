@@ -48,7 +48,7 @@
 ### Missão
 
 - Encontrar e resgatar [Aria Greenbottle](aria_greenbottle.md), desaparecida após sair de [Greyhawk](cidade_de_greyhawk.md) em direção às [Ruínas das Sombras](ruinas_das_sombras.md).
-- Decifrar pistas ([cartaz](missing_person.png), [alerta](child_alert.png), [diário/mapa](mapa_caminho.png)) e sobreviver aos perigos das ruínas.
+- Decifrar pistas (![cartaz](blank.png), ![alerta](blank.png), ![diário/mapa](blank.png)) e sobreviver aos perigos das ruínas.
 - Descobrir a natureza da porta escondida e da [Gema das Cinco Vozes](gema_das_cinco_vozes.md).
 
 ---
@@ -58,27 +58,27 @@
 - **[Casa dos Greenbottle](casa_dos_greenbottle.md) ([Mercado de Greyhawk](cidade_de_greyhawk.md)):**
     - Conversa com [Tobias](tobias_greenbottle.md) e [Eliza](eliza_greenbottle.md).
     - Interrogatório a [Finn](finn_greenbottle.md).
-    - Descoberta do diário/mensagem de [Aria](aria_greenbottle.md) ([mapa_caminho.png](mapa_caminho.png)).
+    - Descoberta do diário/mensagem de [Aria](aria_greenbottle.md) (![mapa_caminho.png](blank.png)).
 - **[Ruínas das Sombras](ruinas_das_sombras.md) (a Norte):**
     - Entrada armadilhada (explosão, apenas ferimentos ligeiros).
-    - Exploração da [Cripta das Sombras](cripta_das_sombras.md) ([crypt_ruins.png](crypt_ruins.png)):
+    - Exploração da [Cripta das Sombras](cripta_das_sombras.md) (![crypt_ruins.png](blank.png)):
         - Área 1: [Armadura Animada](armadura_animada.md), [Enxame de Morcegos](enxame_de_morcegos.md), armadilha de dardos.
         - Área 2: [Ghast](ghast.md) e [Ghouls](ghoul.md).
         - Área 3: [Zombies](zombie.md), [Criatura das Sombras](criatura_das_sombras.md), [Enxame de Ratos](enxame_de_ratos.md).
         - Área 4: [Espectro](spectral_wraith.md) (boss), [Criatura das Sombras](criatura_das_sombras.md) (boss), relíquia amaldiçoada.
 
-    - Para detalhes de monstros/armadilhas/itens: [mapDM.png](mapDM.png) (apenas DM).
+    - Para detalhes de monstros/armadilhas/itens: ![mapDM.png](blank.png) (apenas DM).
 
 ---
 
 ### Desenrolar da Sessão
 
-- Os aventureiros encontram o [cartaz de desaparecimento](missing_person.png) e investigam na [Casa dos Greenbottle](casa_dos_greenbottle.md).
-- Recolhem pistas dos pais e do irmão, encontram o diário, decifram o [mapa desenhado](mapa_caminho.png).
+- Os aventureiros encontram o ![cartaz de desaparecimento](blank.png) e investigam na [Casa dos Greenbottle](casa_dos_greenbottle.md).
+- Recolhem pistas dos pais e do irmão, encontram o diário, decifram o ![mapa desenhado](blank.png).
 - Mantêm-se na estrada principal, evitando encontros fatais no caminho.
 - Acionam armadilha à entrada das ruínas; sobrevivem sem baixas.
 - Usam magia de área (fireball) e tática para avançar pela [cripta](cripta_das_sombras.md).
-- Confrontam e derrotam os bosses finais ([crypt_ruins.png](crypt_ruins.png)), resgatando [Aria](aria_greenbottle.md).
+- Confrontam e derrotam os bosses finais (![crypt_ruins.png](blank.png)), resgatando [Aria](aria_greenbottle.md).
 - Encontram a misteriosa [Gema das Cinco Vozes](gema_das_cinco_vozes.md) (não identificada), entregam-na ao [Taberneiro](o_taberneiro.md).
 
 ---
@@ -92,8 +92,8 @@
 
 ---
 
-[(Voltar a Aventuras / Back to Adventures)](dm/summary/aventuras.md)  
-[(Voltar à Página Inicial / Back to Home Page)](index.md)
+[(Voltar a Aventuras / Back to Adventures)](../dm/summary/aventuras.md)  
+[(Voltar à Página Inicial / Back to Home Page)](../index.md)
 
 
 

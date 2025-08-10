@@ -1,16 +1,16 @@
-﻿
+
 # Rumores no Lago Umbra
 
-SessÃ£o: 6 | Data: 2025-02-13 | Fontes: s06_-_2025-02-13.txt | Tags: aventura, lago_umbra, mistÃ©rio
+Sessão: 6 | Data: 2025-02-13 | Fontes: s06_-_2025-02-13.txt | Tags: aventura, lago_umbra, mistério
 
-[Rumores no Lago Umbra](rumores_no_lago_umbra.png)
+![Rumores no Lago Umbra](blank.png)
 
-| PortuguÃªs | English |
+| Português | English |
 |-----------|---------|
-| Novas pistas e lendas ameaÃ§adoras levam o grupo ao [Lago Umbra](lago_umbra.md), onde enfrentam criaturas aquÃ¡ticas e exploram a [Caverna das LÃ¡grimas de Cristal](caverna_das_lagrimas_de_cristal.md). Descobrem evidÃªncias de magia antiga e sinais de perigos iminentes. | New clues and ominous legends lead the party to [Lago Umbra](lago_umbra.md), where they face aquatic creatures and explore the [Cave of Crystal Tears](caverna_das_lagrimas_de_cristal.md). They uncover evidence of ancient magic and signs of looming dangers. |
+| Novas pistas e lendas ameaçadoras levam o grupo ao [Lago Umbra](lago_umbra.md), onde enfrentam criaturas aquáticas e exploram a [Caverna das Lágrimas de Cristal](caverna_das_lagrimas_de_cristal.md). Descobrem evidências de magia antiga e sinais de perigos iminentes. | New clues and ominous legends lead the party to [Lago Umbra](lago_umbra.md), where they face aquatic creatures and explore the [Cave of Crystal Tears](caverna_das_lagrimas_de_cristal.md). They uncover evidence of ancient magic and signs of looming dangers. |
 
 [(Voltar a Aventuras / Back to Adventures)](aventuras.md)  
-[(Voltar Ã  PÃ¡gina Inicial / Back to Home Page)](../../home.md)
+[(Voltar à Página Inicial / Back to Home Page)](../../home.md)
 
 
 

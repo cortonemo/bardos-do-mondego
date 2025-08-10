@@ -1,19 +1,19 @@
-﻿#### Usopp
+#### Usopp
 
-SessÃ£o: 3 | Data: 2025-04-18 | Fonte: s03.txt | Tags: pc | Jogador: Jota
+Sessão: 3 | Data: 2025-04-18 | Fonte: s03.txt | Tags: pc | Jogador: Jota
 
-[Usopp](usopp.png)
+![Usopp](blank.png)
 
-| PortuguÃªs | English |
+| Português | English |
 |-----------|---------|
 | **Jogador:** Jota | **Player:** Jota |
-| **NÃ­vel:** 9 | **Level:** 9 |
+| **Nível:** 9 | **Level:** 9 |
 | **Ficha D&D Beyond:** [Link](https://www.dndbeyond.com/characters/139380083) | **D&D Beyond Sheet:** [Link](https://www.dndbeyond.com/characters/139380083) |
 | **Contacto:** +351 933 686 501 | **Contact:** +351 933 686 501 |
 
-| PortuguÃªs | English |
+| Português | English |
 |-----------|---------|
-| **Personagem Jogador (PC)** param($m) "<" + ($m.Groups[1].Value -replace '\\','/') + ">" **DescriÃ§Ã£o:** Aventureiro presente na terceira sessÃ£o, envolvido nos eventos do [Vale do Vento Sombrio](vale_do_vento_sombrio.md). | **Player Character (PC)** param($m) "<" + ($m.Groups[1].Value -replace '\\','/') + ">" **Description:** Adventurer present in the third session, involved in the events of the [Vale do Vento Sombrio](vale_do_vento_sombrio.md). |
+| **Personagem Jogador (PC)** param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" **Descrição:** Aventureiro presente na terceira sessão, envolvido nos eventos do [Vale do Vento Sombrio](vale_do_vento_sombrio.md). | **Player Character (PC)** param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" **Description:** Adventurer present in the third session, involved in the events of the [Vale do Vento Sombrio](vale_do_vento_sombrio.md). |
 
 
 

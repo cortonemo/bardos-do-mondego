@@ -1,0 +1,35 @@
+﻿# Two Fords: A DoenÃ§a do Rio e o Moinho  Ready to Play
+
+| PortuguÃªs | English |
+|-----------|---------|
+| **IntroduÃ§Ã£o:** Orianna, Arkos, Lone, Wandering, Endor, Gau investigam rumores de doenÃ§a em Two Fords. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">"  param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" **Cena 1: Chegada e investigaÃ§Ã£o inicial** param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" - Encontro com Kaldros (mercador) e Geralt (taberneiro, filha doente). param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" - Descobrem mapa do moinho abandonado. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">"  param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" **Cena 2: Fauna corrompida** param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" - Combate contra lobo e urso corrompidos por fungos. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">"  param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" **Cena 3: O Moinho e o Culto** param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" - ExploraÃ§Ã£o do moinho com cogumelos bioluminescentes. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" - Descoberta de sÃ­mbolos do culto, notas sobre planos maiores. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" - Combate: 3 cultistas, 1 lÃ­der (foge), servos fÃºngicos. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" - Risco de envenenamento por esporos. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">"  param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" **Cena 4: Recompensa e regresso** param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" - Loot: joias, poÃ§Ã£o, cristal corrompido. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" - Provas de plano maior via rio. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" - Regresso Ã  cidade. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">"  | **Introduction:** Orianna, Arkos, Lone, Wandering, Endor, Gau investigate rumors of sickness in Two Fords. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">"  param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" **Scene 1: Arrival and investigation** param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" - Meet Kaldros (merchant) and Geralt (innkeeper, daughter ill). param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" - Discover map to the abandoned mill. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">"  param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" **Scene 2: Corrupted fauna** param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" - Fight with fungus-infected wolf and bear. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">"  param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" **Scene 3: The Mill and the Cult** param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" - Explore mill with bioluminescent mushrooms. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" - Discover cult symbols, notes on bigger plans. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" - Combat: 3 cultists, 1 leader (escapes), fungal minions. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" - Risk of spore poisoning. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">"  param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" **Scene 4: Reward and return** param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" - Loot: gems, potion, corrupted crystal. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" - Evidence of cult's bigger plan via river. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" - Return to town. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">"  |
+| **PCs:** Orianna, Arkos, Lone, Wandering, Endor, Gau | **PCs:** Orianna, Arkos, Lone, Wandering, Endor, Gau |
+| **NPCs:** Kaldros, Geralt (taberneiro), cultistas, faunas corrompidas | **NPCs:** Kaldros, Geralt (innkeeper), cultists, corrupted beasts |
+| **Loot:** gems (10GP/cultist), healing potion, corrupted elemental crystal, weapons/notes | **Loot:** gems (10GP/cultist), healing potion, corrupted elemental crystal, weapons/notes |
+| **Data:** 2025-01-23 | **Date:** 2025-01-23 |
+| **Ficheiros de origem:** s04_two_fords_doenca_moinho_ready.md | **Source files:** s04_two_fords_doenca_moinho_ready.md |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

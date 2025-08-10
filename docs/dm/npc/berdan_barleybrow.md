@@ -1,13 +1,13 @@
-﻿
+
 #### Berdan Barleybrow
 
-SessÃ£o: 3 | Data: 2025-04-18 | Fonte: s03.txt | Tags: npc, taberneiro, contacto
+Sessão: 3 | Data: 2025-04-18 | Fonte: s03.txt | Tags: npc, taberneiro, contacto
 
-[Berdan Barleybrow](berdan_barleybrow.png)
+![Berdan Barleybrow](blank.png)
 
-| English | PortuguÃªs |
+| English | Português |
 |---------|-----------|
-| **Description:** Tavernkeeper who sends the party on reconnaissance missions. Offers guidance and rewards, including gold and free meals. | **DescriÃ§Ã£o:** Taberneiro que envia o grupo em missÃµes de reconhecimento. Oferece orientaÃ§Ã£o e recompensas, incluindo ouro e refeiÃ§Ãµes gratuitas. |
+| **Description:** Tavernkeeper who sends the party on reconnaissance missions. Offers guidance and rewards, including gold and free meals. | **Descrição:** Taberneiro que envia o grupo em missões de reconhecimento. Oferece orientação e recompensas, incluindo ouro e refeições gratuitas. |
 
 
 

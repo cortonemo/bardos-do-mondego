@@ -1,0 +1,34 @@
+﻿# A Rota da Companhia Sangue & Ouro no PÃ¢ntano  Bullet Points
+
+| PortuguÃªs                                                                                                                                                                                                                                                                                                                                                                                                                            | English                                                                                                                                                                                                                                                                                                                                                                                                       |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| - Party escoltada por Baltigard e mercenÃ¡rios da Companhia Sangue & Ouro. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" - MissÃ£o: abrir rota segura no pÃ¢ntano para caravanas. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" - ObstÃ¡culos: terreno traiÃ§oeiro, monstros do pÃ¢ntano, emboscada de lizardfolk. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" - Descoberta de relÃ­quias antigas em ruÃ­nas submersas. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" - NegociaÃ§Ã£o com tribo lizardfolk; possÃ­vel alianÃ§a ou conflito. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" - Final: sucesso parcial, Baltigard oferece novo contrato e recompensas. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">"  | - Party escorted by Baltigard and Blood & Gold Company mercenaries. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" - Mission: open safe trade route in the swamp for caravans. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" - Obstacles: treacherous terrain, swamp monsters, lizardfolk ambush. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" - Discovery of ancient relics in sunken ruins. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" - Negotiation with lizardfolk tribe; possible alliance or conflict. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">" - End: partial success, Baltigard offers new contract and rewards. param($m) "<"_+_($m.Groups[1].Value_-replace_'//','/')_+_">"  |
+| **NPCs:** Baltigard, mercenÃ¡rios Sangue & Ouro, lizardfolk, lÃ­der tribal                                                                                                                                                                                                                                                                                                                                                             | **NPCs:** Baltigard, Blood & Gold Company mercenaries, lizardfolk, tribal leader                                                                                                                                                                                                                                                                                                                              |
+| **Loot:** RelÃ­quias antigas, recompensa de Baltigard, mapa do pÃ¢ntano                                                                                                                                                                                                                                                                                                                                                                | **Loot:** Ancient relics, Baltigards reward, swamp map                                                                                                                                                                                                                                                                                                                                                       |
+| **Data:** 2025-03-13                                                                                                                                                                                                                                                                                                                                                                                                                 | **Date:** 2025-03-13                                                                                                                                                                                                                                                                                                                                                                                          |
+| **Ficheiros de origem:** s10_a_rota_da_cia_sangue_e_ouro_no_pantano_pontos.md                                                                                                                                                                                                                                                                                                                                                        | **Source files:** s10_a_rota_da_cia_sangue_e_ouro_no_pantano_pontos.md                                                                                                                                                                                                                                                                                                                                        |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

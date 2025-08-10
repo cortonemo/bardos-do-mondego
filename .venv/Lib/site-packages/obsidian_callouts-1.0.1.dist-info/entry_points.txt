@@ -1,0 +1,2 @@
+[markdown.extensions]
+obsidian_callouts = obsidian_callouts.extension:ObsidianCalloutsExtension

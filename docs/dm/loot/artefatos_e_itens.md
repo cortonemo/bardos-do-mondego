@@ -1,5 +1,5 @@
-﻿ **7. Artefatos e Itens Especiais**
-    Corno Sagrado do UnicÃ³rnio
+ **7. Artefatos e Itens Especiais**
+    Corno Sagrado do Unicórnio
 
     Cajado de Borogrove
 
@@ -7,7 +7,7 @@
 
     Dados do Casino
 
-    PoÃ§Ãµes e objetos alquÃ­micos dos Ratos
+    Poções e objetos alquímicos dos Ratos
 
 
 

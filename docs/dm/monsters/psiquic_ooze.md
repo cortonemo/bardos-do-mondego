@@ -1,12 +1,12 @@
-﻿### Psiquic Ooze
+### Psiquic Ooze
 
-SessÃ£o: 1 | Data: 2025-08-02 | Fonte: s01.txt | Tags: criatura, oozes, psÃ­quico
+Sessão: 1 | Data: 2025-08-02 | Fonte: s01.txt | Tags: criatura, oozes, psíquico
 
-[Psiquic Ooze](psiquic_ooze.png)
+![Psiquic Ooze](blank.png)
 
-| English | PortuguÃªs |
+| English | Português |
 |---------|-----------|
-| **Description:** Amorphous, viscous substance radiating psychic energy. Moves toward intruders, disturbing their perception and sanity. | **DescriÃ§Ã£o:** SubstÃ¢ncia amorfa e viscosa que irradia energia psÃ­quica. Move-se na direÃ§Ã£o dos intrusos, perturbando a percepÃ§Ã£o e sanidade. |
+| **Description:** Amorphous, viscous substance radiating psychic energy. Moves toward intruders, disturbing their perception and sanity. | **Descrição:** Substância amorfa e viscosa que irradia energia psíquica. Move-se na direção dos intrusos, perturbando a percepção e sanidade. |
 
 
 

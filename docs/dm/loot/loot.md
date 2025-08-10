@@ -1,10 +1,10 @@
-﻿
-# Loot & Itens MÃ¡gicos / Loot & Magic Items
+
+# Loot & Itens Mágicos / Loot & Magic Items
 
 
-| PortuguÃªs | English |
+| Português | English |
 |-----------|---------|
-| Lista de **tesouros encontrados**, itens mÃ¡gicos e recompensas descobertas durante as sessÃµes. | List of **discovered treasures**, magic items, and rewards found throughout the sessions. |
+| Lista de **tesouros encontrados**, itens mágicos e recompensas descobertas durante as sessões. | List of **discovered treasures**, magic items, and rewards found throughout the sessions. |
 
 
 

@@ -1,16 +1,16 @@
-﻿
+
 #### Outros NPCs
 
-SessÃµes:  
-- Diversas | Fonte: mÃºltiplos arquivos
+Sessões:  
+- Diversas | Fonte: múltiplos arquivos
 
-Tags: npc, secundÃ¡rio
+Tags: npc, secundário
 
-[Outros NPCs](outros_npcs.png)
+![Outros NPCs](blank.png)
 
-| English | PortuguÃªs |
+| English | Português |
 |---------|-----------|
-| **Other minor NPCs** such as innkeepers, town guards, shopkeepers, and temporary allies or rivals encountered in individual sessions. | **Outros NPCs secundÃ¡rios** como taberneiros, guardas, comerciantes e aliados ou rivais temporÃ¡rios encontrados em sessÃµes individuais. |
+| **Other minor NPCs** such as innkeepers, town guards, shopkeepers, and temporary allies or rivals encountered in individual sessions. | **Outros NPCs secundários** como taberneiros, guardas, comerciantes e aliados ou rivais temporários encontrados em sessões individuais. |
 
 [(Back to NPCs / Voltar a NPCs)](npcs_list.md)
 

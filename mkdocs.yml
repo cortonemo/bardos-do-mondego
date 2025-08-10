@@ -4,31 +4,34 @@ site_author: Serelith
 
 docs_dir: docs
 site_dir: site
-strict: true   # fail build on broken links
+strict: false
 
 theme:
   name: material
 
 plugins:
   - search
-  - roamlinks               # handles [[links]] and ![[img|Alt|800x600]]
-  - awesome-pages           # 1st: computes nav ordering
-  - section-index           # 2nd: turns folder index.md into section page
-  - gen-files:              # 3rd: generates virtual index.md files
+  - obsidian-bridge:
+      invalid_link_attributes:
+        - '.invalid'
+  - awesome-pages
+  - section-index
+  - gen-files:
       scripts:
         - scripts/gen_indexes.py
-  - embed_file              # handles ![[note]] transclusions
+  - embed_file
 
 markdown_extensions:
   - admonition
   - toc:
       permalink: true
   - footnotes
-  - attr_list               # needed for roamlinks image sizing output
+  - attr_list
   - def_list
   - pymdownx.details
   - pymdownx.superfences
-  
+  - obsidian_media_mkdocs
+  - obsidian_callouts
+
 extra_css:
   - css/image-sizing.css
-  

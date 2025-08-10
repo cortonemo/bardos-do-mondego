@@ -1,0 +1,14 @@
+/* Ensure roamlinks image sizing remains responsive in MkDocs Material */
+img[width] {
+  max-width: 100% !important;  /* Never overflow container */
+  height: auto !important;     /* Keep aspect ratio */
+}
+
+img[height] {
+  height: auto !important;     /* Force height auto if set to preserve aspect */
+}
+
+.markdown img {
+  display: block;
+  margin: 0.5rem auto;          /* Center images with spacing */
+}

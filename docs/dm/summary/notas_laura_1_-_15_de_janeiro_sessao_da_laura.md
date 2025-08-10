@@ -1,4 +1,4 @@
-﻿DM: Laura
+DM: Laura
 
 Jogadores: Henrique como Endouvan
 
@@ -24,7 +24,7 @@ Luis como Arkos
 
 -Thak (Gauthak) deteta mais inimigos escondidos a nossa volta
 
--Endo manda o feitiÃ§o Sleep: 
+-Endo manda o feitiço Sleep: 
 
 Xau xau, Xi Xi,
 
@@ -38,7 +38,7 @@ vai mimir que foste mau.
 
 -Derrotamos a segunda ronda, sendo esta 3 goblins e 1 bugbear
 
--Tanto o lobo como o Bugbear demonstram ter sido domesticados a forÃ§a dos goblins: o Bugbear tinha uma nota a pedir ajuda em comum rudimentar
+-Tanto o lobo como o Bugbear demonstram ter sido domesticados a força dos goblins: o Bugbear tinha uma nota a pedir ajuda em comum rudimentar
 
 -Descobrimos tambem que os goblins foram contratados por uma Guida de bandidos
 
@@ -46,11 +46,11 @@ vai mimir que foste mau.
 
 -Enterramos o corpo do bugbear, a pedido do thak, juntamente com uma cerimonia curta
 
--O mercador recompensou-nos com algum gold (55 gp's); este tambem indicou a presenÃ§a de um bau que os goblins tentaram roubar, cheio de pedras preciosas e acessorios prateados e dourados
+-O mercador recompensou-nos com algum gold (55 gp's); este tambem indicou a presença de um bau que os goblins tentaram roubar, cheio de pedras preciosas e acessorios prateados e dourados
 
--Oferecemos este bau a um grupo de crianÃ§as, uma das quais era a neta do mercador que tinha dentro do bau a sua tiara de flores
+-Oferecemos este bau a um grupo de crianças, uma das quais era a neta do mercador que tinha dentro do bau a sua tiara de flores
 
--Voltamos a taberna a boleia da carroÃ§a do mercador
+-Voltamos a taberna a boleia da carroça do mercador
 
 
 

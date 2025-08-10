@@ -1,20 +1,20 @@
-﻿
+
 #### Castelo Ruina-de-Ebano / Ebony-Ruin Castle
 
-SessÃµes:  
-- SessÃ£o 2 | Fonte: s02.txt  
-- SessÃ£o 11 | Fonte: s11.txt  
-- SessÃ£o 12 | Fonte: s12.txt  
+Sessões:  
+- Sessão 2 | Fonte: s02.txt  
+- Sessão 11 | Fonte: s11.txt  
+- Sessão 12 | Fonte: s12.txt  
 
 Tags: localizacao, castelo, dungeon
 
-[Castelo Ruina-de-Ebano](castelo_ruina_de_ebano.png)
+![Castelo Ruina-de-Ebano](blank.png)
 
-| English | PortuguÃªs |
+| English | Português |
 |---------|-----------|
-| **Ebony-Ruin Castle** is a half-ruined fortress in the swamps, used by zealots of the Order of Beltar as a prison and place of judgment. Its dungeons, cells, and cursed halls are infamous for torture and executions. | **O Castelo Ruina-de-Ebano** Ã© uma fortaleza semi-arruinada nos pÃ¢ntanos, utilizada por fanÃ¡ticos da Ordem de Beltar como prisÃ£o e local de julgamento. As suas masmorras, celas e corredores amaldiÃ§oados sÃ£o conhecidos por tortura e execuÃ§Ãµes. |
+| **Ebony-Ruin Castle** is a half-ruined fortress in the swamps, used by zealots of the Order of Beltar as a prison and place of judgment. Its dungeons, cells, and cursed halls are infamous for torture and executions. | **O Castelo Ruina-de-Ebano** é uma fortaleza semi-arruinada nos pântanos, utilizada por fanáticos da Ordem de Beltar como prisão e local de julgamento. As suas masmorras, celas e corredores amaldiçoados são conhecidos por tortura e execuções. |
 
-[(Back to Locations / Voltar a LocalizaÃ§Ãµes)](localizacoes.md)
+[(Back to Locations / Voltar a Localizações)](localizacoes.md)
 
 
 
