@@ -1,8 +1,5 @@
 ## Sessão 16  [A Criança Perdida](a_crianca_perdida.md)
 
-**Data:** 24 de Abril  
-**Localização:** [Cidade Livre de Greyhawk](cidade_de_greyhawk.md) e [Ruínas das Sombras](ruinas_das_sombras.md) a norte (perto das terras de Iuz)
-
 ---
 
 ### Imagens & Mapas
@@ -15,100 +12,15 @@
 
 ---
 
-### Jogadores
-
-- Daniel
-- Fábio Oliveira
-- Vasco Almeida
-- Luís Henriques
-- Rafael Mesquita
-
-### Personagens Jogadoras (PCs)
-
-- [Markus Grimm](pc_markus_grimm.md)
-- [Raylahn](pc_raylahn.md)
-- [Bok Thunderfist](pc_bok_thunderfist.md)
-- [Drayl Bharash](pc_drayl_bharash.md)
-- [Wagner](pc_wagner.md)
-
----
-
-### NPCs Importantes
-
-- [Aria Greenbottle](aria_greenbottle.md): Halfling de 14 anos, curiosa, desaparecida; foco da missão.
-- [Tobias Greenbottle](tobias_greenbottle.md): Pai, comerciante, visivelmente esgotado.
-- [Eliza Greenbottle](eliza_greenbottle.md): Mãe, herbalista, incansável na busca pela filha.
-- [Finn Greenbottle](finn_greenbottle.md): Irmão de Aria, 14 anos, olhar determinado, dá pistas cruciais.
-- [Guarda da Cidade](guarda_da_cidade.md): Confirma a saída de Aria pelo portão norte ao entardecer.
-- [O Taberneiro](o_taberneiro.md): Figura de contacto e rumores.
-- Inimigos das ruínas: [Armadura Animada](armadura_animada.md), [Ghast](ghast.md), [Ghoul](ghoul.md), [Zombie](zombie.md), [Enxame de Morcegos](enxame_de_morcegos.md), [Criatura das Sombras](criatura_das_sombras.md), [Espectro](spectral_wraith.md), [Enxame de Ratos](enxame_de_ratos.md).
-
----
-
-### Missão
-
-- Encontrar e resgatar [Aria Greenbottle](aria_greenbottle.md), desaparecida após sair de [Greyhawk](cidade_de_greyhawk.md) em direção às [Ruínas das Sombras](ruinas_das_sombras.md).
-- Decifrar pistas ([cartaz](missing_person.png), [alerta](child_alert.png), [diário/mapa](mapa_caminho.png)) e sobreviver aos perigos das ruínas.
-- Descobrir a natureza da porta escondida e da [Gema das Cinco Vozes](gema_das_cinco_vozes.md).
-
----
-
-### Locais e Pistas
-
-- **[Casa dos Greenbottle](casa_dos_greenbottle.md) ([Mercado de Greyhawk](cidade_de_greyhawk.md)):**
-    - Conversa com [Tobias](tobias_greenbottle.md) e [Eliza](eliza_greenbottle.md).
-    - Interrogatório a [Finn](finn_greenbottle.md).
-    - Descoberta do diário/mensagem de [Aria](aria_greenbottle.md) ([mapa_caminho.png](mapa_caminho.png)).
-- **[Ruínas das Sombras](ruinas_das_sombras.md) (a Norte):**
-    - Entrada armadilhada (explosão, apenas ferimentos ligeiros).
-    - Exploração da [Cripta das Sombras](cripta_das_sombras.md) ([crypt_ruins.png](crypt_ruins.png)):
-        - Área 1: [Armadura Animada](armadura_animada.md), [Enxame de Morcegos](enxame_de_morcegos.md), armadilha de dardos.
-        - Área 2: [Ghast](ghast.md) e [Ghouls](ghoul.md).
-        - Área 3: [Zombies](zombie.md), [Criatura das Sombras](criatura_das_sombras.md), [Enxame de Ratos](enxame_de_ratos.md).
-        - Área 4: [Espectro](spectral_wraith.md) (boss), [Criatura das Sombras](criatura_das_sombras.md) (boss), relíquia amaldiçoada.
-
-    - Para detalhes de monstros/armadilhas/itens: [mapDM.png](mapDM.png) (apenas DM).
-
----
-
-### Desenrolar da Sessão
-
-- Os aventureiros encontram o [cartaz de desaparecimento](missing_person.png) e investigam na [Casa dos Greenbottle](casa_dos_greenbottle.md).
-- Recolhem pistas dos pais e do irmão, encontram o diário, decifram o [mapa desenhado](mapa_caminho.png).
-- Mantêm-se na estrada principal, evitando encontros fatais no caminho.
-- Acionam armadilha à entrada das ruínas; sobrevivem sem baixas.
-- Usam magia de área (fireball) e tática para avançar pela [cripta](cripta_das_sombras.md).
-- Confrontam e derrotam os bosses finais ([crypt_ruins.png](crypt_ruins.png)), resgatando [Aria](aria_greenbottle.md).
-- Encontram a misteriosa [Gema das Cinco Vozes](gema_das_cinco_vozes.md) (não identificada), entregam-na ao [Taberneiro](taberneiro.md).
-
----
-
-### Recompensas e Consequências
-
-- **Recompensa:** 100 PO, poções, gratidão da [família Greenbottle](casa_dos_greenbottle.md).
-- **[Gema das Cinco Vozes](gema_das_cinco_vozes.md):** objeto misterioso permanece por identificar, entregue ao [Taberneiro](taberneiro.md).
-- **[Aria](aria_greenbottle.md):** resgatada mas psicologicamente abalada pela experiência nas ruínas.
-- **[Greyhawk](cidade_de_greyhawk.md):** rumores crescentes sobre perigos nas ruínas a norte e sobre o destino da [Gema](gema_das_cinco_vozes.md).
-
----
-
-[(Voltar a Aventuras / Back to Adventures)](dm/summary/aventuras.md)  
-[(Voltar à Página Inicial / Back to Home Page)](home.md)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+| **Português (PT-PT)**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | **English (EN-US)**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **📅 Data:** 24 de Abril<br>**📍 Localização:** Cidade Livre de Greyhawk e Ruínas das Sombras a norte (perto das terras de Iuz)                                                                                                                                                                                                                                                                                                                                                                                                                                                       | **📅 Date:** April 24<br>**📍 Location:** Free City of Greyhawk and Shadow Ruins to the north (near the lands of Iuz)                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| **🗺️ Imagens & Mapas:**<br>- Cartaz de Pessoa Desaparecida<br>- Alerta de Criança Desaparecida<br>- Mapa desenhado por Aria (diário)<br>- Mapa da Cripta para jogadores<br>- Mapa DM com áreas, monstros e itens                                                                                                                                                                                                                                                                                                                                                                     | **🗺️ Images & Maps:**<br>- Missing Person Poster<br>- Missing Child Alert<br>- Map drawn by Aria (diary)<br>- Crypt Map for players<br>- DM Map with areas, monsters, and items                                                                                                                                                                                                                                                                                                                                                            |
+| **🎲 Jogadores:** Daniel, Fábio Oliveira, Vasco Almeida, Luís Henriques, Rafael Mesquita                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | **🎲 Players:** Daniel, Fábio Oliveira, Vasco Almeida, Luís Henriques, Rafael Mesquita                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| **🧙‍♂️ Personagens Jogadoras (PCs):** Markus Grimm, Raylahn, Bok Thunderfist, Drayl Bharash, Wagner                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | **🧙‍♂️ Player Characters (PCs):** Markus Grimm, Raylahn, Bok Thunderfist, Drayl Bharash, Wagner                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| **👥 NPCs Importantes:**<br>- Aria Greenbottle: Halfling de 14 anos, curiosa, desaparecida; foco da missão.<br>- Tobias Greenbottle: Pai, comerciante, visivelmente esgotado.<br>- Eliza Greenbottle: Mãe, herbalista, incansável na busca.<br>- Finn Greenbottle: Irmão gémeo, olhar determinado, fornece pistas cruciais.<br>- Guarda da Cidade: Confirma a saída de Aria pelo portão norte.<br>- O Taberneiro: Fonte de rumores e contacto.<br>- Inimigos nas ruínas: Armadura Animada, Ghast, Ghoul, Zombie, Enxame de Morcegos, Criatura das Sombras, Espectro, Enxame de Ratos. | **👥 Key NPCs:**<br>- Aria Greenbottle: 14-year-old halfling, curious, missing; mission focus.<br>- Tobias Greenbottle: Father, merchant, visibly exhausted.<br>- Eliza Greenbottle: Mother, herbalist, tireless in her search.<br>- Finn Greenbottle: Twin brother, determined look, provides crucial clues.<br>- City Guard: Confirms Aria’s exit through the north gate.<br>- The Innkeeper: Rumor source and contact.<br>- Ruins enemies: Animated Armor, Ghast, Ghoul, Zombie, Swarm of Bats, Shadow Creature, Specter, Swarm of Rats. |
+| **🎯 Missão:**<br>- Encontrar e resgatar Aria Greenbottle, desaparecida após sair de Greyhawk em direção às Ruínas das Sombras.<br>- Decifrar pistas (cartaz, alerta, diário/mapa).<br>- Sobreviver aos perigos das ruínas.<br>- Descobrir a natureza da porta escondida e da Gema das Cinco Vozes.                                                                                                                                                                                                                                                                                   | **🎯 Mission:**<br>- Find and rescue Aria Greenbottle, missing after leaving Greyhawk for the Shadow Ruins.<br>- Decipher clues (poster, alert, diary/map).<br>- Survive the dangers of the ruins.<br>- Uncover the nature of the hidden door and the Gem of Five Voices.                                                                                                                                                                                                                                                                   |
+| **📌 Locais & Pistas:**<br>**Casa dos Greenbottle (Mercado de Greyhawk):** Conversa com Tobias e Eliza, interrogatório a Finn, descoberta do diário com mapa.<br>**Ruínas das Sombras (a norte):** Entrada armadilhada (explosão).<br>**Cripta das Sombras:**<br>- Área 1: Armadura Animada, Enxame de Morcegos, armadilha de dardos.<br>- Área 2: Ghast, Ghouls.<br>- Área 3: Zombies, Criatura das Sombras, Enxame de Ratos.<br>- Área 4: Espectro (boss), Criatura das Sombras (boss), relíquia amaldiçoada.                                                                       | **📌 Locations & Clues:**<br>**Greenbottle House (Greyhawk Market):** Talk with Tobias and Eliza, question Finn, discover diary with map.<br>**Shadow Ruins (north):** Trapped entrance (explosion).<br>**Shadow Crypt:**<br>- Area 1: Animated Armor, Swarm of Bats, dart trap.<br>- Area 2: Ghast, Ghouls.<br>- Area 3: Zombies, Shadow Creature, Swarm of Rats.<br>- Area 4: Specter (boss), Shadow Creature (boss), cursed relic.                                                                                                       |
+| **📜 Desenrolar da Sessão:**<br>- Aventureiros encontram o cartaz e investigam.<br>- Recolhem pistas da família e diário.<br>- Mantêm-se na estrada principal, evitando encontros.<br>- Acionam armadilha na entrada das ruínas.<br>- Usam magia e táticas para avançar.<br>- Confrontam e derrotam bosses finais.<br>- Resgatam Aria.<br>- Encontram a Gema das Cinco Vozes, entregam ao Taberneiro.                                                                                                                                                                                 | **📜 Session Summary:**<br>- Adventurers find the poster and investigate.<br>- Gather clues from family and diary.<br>- Stay on main road, avoiding encounters.<br>- Trigger trap at ruins entrance.<br>- Use magic and tactics to advance.<br>- Face and defeat final bosses.<br>- Rescue Aria.<br>- Find the Gem of Five Voices, hand it to the Innkeeper.                                                                                                                                                                                |
+| **🏆 Recompensas & Consequências:**<br>- 100 PO, poções, gratidão da família Greenbottle.<br>- Gema das Cinco Vozes permanece por identificar.<br>- Aria regressa mas abalada.<br>- Rumores crescem sobre os perigos a norte.                                                                                                                                                                                                                                                                                                                                                         | **🏆 Rewards & Consequences:**<br>- 100 GP, potions, gratitude of the Greenbottle family.<br>- Gem of Five Voices remains unidentified.<br>- Aria returns but shaken.<br>- Growing rumors about dangers to the north.                                                                                                                                                                                                                                                                                                                       |
 

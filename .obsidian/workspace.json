@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
+                "file": "docs/sessions/a_crianca_perdida.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "a_crianca_perdida"
             }
           }
         ]
@@ -167,7 +167,9 @@
   },
   "active": "d98173a922739b6d",
   "lastOpenFiles": [
+    "taberneiro.md",
     "docs/sessions/a_crianca_perdida.md",
+    "README.md",
     "docs/monsters/enxame_de_ratos.md",
     "docs/monsters/enxame_de_morcegos.md",
     "markus_grimm.md",
@@ -187,7 +189,6 @@
     "docs/sessions/mapa_caminho.png",
     "docs/sessions/crypt_ruins.png",
     "docs/npc/o_taberneiro.md",
-    "taberneiro.md",
     "docs/adventures/s09_baile_dos_high_fae_summary.md",
     "docs/adventures/s13_o_que_nos_espera_a_nova_cidade_summary.md",
     "site/locations/free_city_of_greyhawk/quarters and locations/guildhall_of_wizardry/index.html",
@@ -211,7 +212,6 @@
     "docs/dm/rumors/rumores_do_vale_lytharien.md",
     "docs/dm/rumors/rumores_da_mao_roubada.md",
     "docs/dm/rumors/boatos_sobre_piratas.md",
-    "docs/dm/npc/aria_greenbottle.md",
-    "docs/dm/npc/baltigard.md"
+    "docs/dm/npc/aria_greenbottle.md"
   ]
 }
