@@ -1,14 +1,21 @@
+﻿
 
+# SessÃ£o 14  A MÃ£o de Zan, o Cetro e a Ordem Escarlate: Ready to Play
 
-# Sessão 14  A Mão de Zan, o Cetro e a Ordem Escarlate: Ready to Play
-
-| Português | English |
+| PortuguÃªs | English |
 |-----------|---------|
-| **Introdução:** Party convidada para participar de procissão solene na cidade.<br><br>**Cena 1: Procissão e Oferta**<br>- Apresentação do ceptro; líder religioso faz discurso.<br><br>**Cena 2: Aparição Espectral**<br>- Manifestação mágica causa pânico.<br>- Teste social ou combate para acalmar multidão.<br><br>**Cena 3: Investigação do Ceptro**<br>- Descoberta de selo mágico e possíveis efeitos nefastos.<br><br>**Cena 4: Repercussão Pública**<br>- Ganham reputação; pista para culto ou ameaça maior.<br> | **Introduction:** Party invited to take part in a solemn city procession.<br><br>**Scene 1: Procession and Gift**<br>- Scepter presented; religious leader speaks.<br><br>**Scene 2: Spectral Apparition**<br>- Magical manifestation causes panic.<br>- Social challenge or combat to calm the crowd.<br><br>**Scene 3: Scepter Investigation**<br>- Discovery of magic seal and possible harmful effects.<br><br>**Scene 4: Public Impact**<br>- Gain reputation; clue toward cult or greater threat.<br> |
-| **NPCs:** líder da Ordem Escarlate, clérigos, civis, aparição espectral | **NPCs:** Scarlet Order leader, clerics, civilians, spectral apparition |
-| **Loot:** ceptro ritual (amaldiçoado), selo mágico, oferendas de civis | **Loot:** ritual scepter (cursed), magic seal, civilian offerings |
+| **IntroduÃ§Ã£o:** Party convidada para participar de procissÃ£o solene na cidade. param($m) "<" + ($m.Groups[1].Value -replace '\\','/') + ">"  param($m) "<" + ($m.Groups[1].Value -replace '\\','/') + ">" **Cena 1: ProcissÃ£o e Oferta** param($m) "<" + ($m.Groups[1].Value -replace '\\','/') + ">" - ApresentaÃ§Ã£o do ceptro; lÃ­der religioso faz discurso. param($m) "<" + ($m.Groups[1].Value -replace '\\','/') + ">"  param($m) "<" + ($m.Groups[1].Value -replace '\\','/') + ">" **Cena 2: ApariÃ§Ã£o Espectral** param($m) "<" + ($m.Groups[1].Value -replace '\\','/') + ">" - ManifestaÃ§Ã£o mÃ¡gica causa pÃ¢nico. param($m) "<" + ($m.Groups[1].Value -replace '\\','/') + ">" - Teste social ou combate para acalmar multidÃ£o. param($m) "<" + ($m.Groups[1].Value -replace '\\','/') + ">"  param($m) "<" + ($m.Groups[1].Value -replace '\\','/') + ">" **Cena 3: InvestigaÃ§Ã£o do Ceptro** param($m) "<" + ($m.Groups[1].Value -replace '\\','/') + ">" - Descoberta de selo mÃ¡gico e possÃ­veis efeitos nefastos. param($m) "<" + ($m.Groups[1].Value -replace '\\','/') + ">"  param($m) "<" + ($m.Groups[1].Value -replace '\\','/') + ">" **Cena 4: RepercussÃ£o PÃºblica** param($m) "<" + ($m.Groups[1].Value -replace '\\','/') + ">" - Ganham reputaÃ§Ã£o; pista para culto ou ameaÃ§a maior. param($m) "<" + ($m.Groups[1].Value -replace '\\','/') + ">"  | **Introduction:** Party invited to take part in a solemn city procession. param($m) "<" + ($m.Groups[1].Value -replace '\\','/') + ">"  param($m) "<" + ($m.Groups[1].Value -replace '\\','/') + ">" **Scene 1: Procession and Gift** param($m) "<" + ($m.Groups[1].Value -replace '\\','/') + ">" - Scepter presented; religious leader speaks. param($m) "<" + ($m.Groups[1].Value -replace '\\','/') + ">"  param($m) "<" + ($m.Groups[1].Value -replace '\\','/') + ">" **Scene 2: Spectral Apparition** param($m) "<" + ($m.Groups[1].Value -replace '\\','/') + ">" - Magical manifestation causes panic. param($m) "<" + ($m.Groups[1].Value -replace '\\','/') + ">" - Social challenge or combat to calm the crowd. param($m) "<" + ($m.Groups[1].Value -replace '\\','/') + ">"  param($m) "<" + ($m.Groups[1].Value -replace '\\','/') + ">" **Scene 3: Scepter Investigation** param($m) "<" + ($m.Groups[1].Value -replace '\\','/') + ">" - Discovery of magic seal and possible harmful effects. param($m) "<" + ($m.Groups[1].Value -replace '\\','/') + ">"  param($m) "<" + ($m.Groups[1].Value -replace '\\','/') + ">" **Scene 4: Public Impact** param($m) "<" + ($m.Groups[1].Value -replace '\\','/') + ">" - Gain reputation; clue toward cult or greater threat. param($m) "<" + ($m.Groups[1].Value -replace '\\','/') + ">"  |
+| **NPCs:** lÃ­der da Ordem Escarlate, clÃ©rigos, civis, apariÃ§Ã£o espectral | **NPCs:** Scarlet Order leader, clerics, civilians, spectral apparition |
+| **Loot:** ceptro ritual (amaldiÃ§oado), selo mÃ¡gico, oferendas de civis | **Loot:** ritual scepter (cursed), magic seal, civilian offerings |
 | **Data:** 2025-04-10 | **Date:** 2025-04-10 |
 | **Ficheiros de origem:** s14_-_sessao_10-04__dm_guine.md, s14_-_sessao_10-04_-_henrique.md |
+
+
+
+
+
+
+
 
 
 

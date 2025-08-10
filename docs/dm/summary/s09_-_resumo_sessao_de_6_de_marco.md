@@ -52,3 +52,8 @@ Moedas que o Freddy roubou ao ferreiro e tem no bolso: 5 GP, 5 SP e 30 P.
 
 
 
+
+
+
+
+

@@ -82,3 +82,8 @@ muda a localização da taberna para a cidade de Greyhawk.
 
 
 
+
+
+
+
+

@@ -1,4 +1,4 @@
-Localizaçoes
+﻿LocalizaÃ§oes
 
 A emboscada  fica no L, no neen river cerca de 30 km de distancia da taberna.
 
@@ -16,33 +16,33 @@ A taberna e o 0
 
 ### **A Emboscada nas Margens do Rio Neem**
 
-**Ambientaçao:**  
+**AmbientaÃ§ao:**  
 
 Nas vastas planicies de Greyhawk, ao longo das margens do rio Neem, uma
 estrada comercial movimentada serpenteia ao lado da agua. Apesar de ser uma
 rota crucial para mercadores, a regiao e conhecida por ataques de tribos
-goblins, que se aproveitam do terreno e da vegetaçao densa para emboscar
+goblins, que se aproveitam do terreno e da vegetaÃ§ao densa para emboscar
 viajantes.
 
 \---
 
-### **Introduçao**  
+### **IntroduÃ§ao**  
 
 Os aventureiros estao viajando por esta rota quando ouvem gritos vindos de uma
 clareira proxima ao rio. Ao se aproximarem, veem um mercador tiefling chamado
-**Kaldros Veynor**, ao lado de sua carroça, cercado por goblins que o atacam
+**Kaldros Veynor**, ao lado de sua carroÃ§a, cercado por goblins que o atacam
 enquanto saqueiam suas mercadorias.  
 
 Kaldros e um comerciante sofisticado e bem-falante, que esta viajando de
 **Peculiar Manor** para **Blackfair Manor**, transportando uma carga valiosa
-de tecidos exoticos, especiarias e gemas menores. Sua carroça e puxada por
+de tecidos exoticos, especiarias e gemas menores. Sua carroÃ§a e puxada por
 dois cavalos brancos bem treinados, que estao visivelmente assustados com o
 ataque.  
 
-**Gatilho da Aventura:** Assim que os jogadores percebem a situaçao, peça para
-realizarem um **teste de Percepçao (DC 13)**.  
+**Gatilho da Aventura:** Assim que os jogadores percebem a situaÃ§ao, peÃ§a para
+realizarem um **teste de PercepÃ§ao (DC 13)**.  
 
-\- **Sucesso:** Eles identificam mais goblins escondidos na vegetaçao ao
+\- **Sucesso:** Eles identificam mais goblins escondidos na vegetaÃ§ao ao
 redor, preparando uma segunda onda de ataque.  
 
 \- **Falha:** Eles nao percebem os goblins escondidos, e a segunda onda chega
@@ -52,36 +52,36 @@ com vantagem na iniciativa mais tarde.
 
 ### **A Emboscada**  
 
-Os goblins ja estao atacando Kaldros e saqueando sua carroça quando os
+Os goblins ja estao atacando Kaldros e saqueando sua carroÃ§a quando os
 aventureiros chegam. O combate ocorre em **duas ondas** de inimigos, exigindo
 estrategia e trabalho em equipe dos jogadores para proteger o mercador e seus
 bens.
 
 **Primeira Onda:**  
 
-\- **4 Goblins:** Estao atacando Kaldros e saqueando a carroça. Eles estao
+\- **4 Goblins:** Estao atacando Kaldros e saqueando a carroÃ§a. Eles estao
 posicionados proximos a estrada e ao rio.  
 
 \- **1 Lobo Domesticado:** Mantido como companheiro por um dos goblins, o lobo
-avança contra qualquer aventureiro que se aproximar.  
+avanÃ§a contra qualquer aventureiro que se aproximar.  
 
-**Segunda Onda (chega no final da 2ª rodada):**  
+**Segunda Onda (chega no final da 2Âª rodada):**  
 
-\- **3 Goblins:** Surgem da vegetaçao densa, tentando flanquear os
+\- **3 Goblins:** Surgem da vegetaÃ§ao densa, tentando flanquear os
 aventureiros.  
 
 \- **1 Bugbear Lider:** Comanda a emboscada de longe e so entra no combate
-quando a segunda onda chega. Ele carrega uma lança e tenta alvejar os alvos
+quando a segunda onda chega. Ele carrega uma lanÃ§a e tenta alvejar os alvos
 mais vulneraveis.  
 
-**Teste de Investigaçao ou Sobrevivencia (DC 15):** Antes de se aproximarem,
+**Teste de InvestigaÃ§ao ou Sobrevivencia (DC 15):** Antes de se aproximarem,
 os jogadores podem procurar por sinais de armadilhas.  
 
 \- **Sucesso:** Eles descobrem que os goblins colocaram uma armadilha de corda
 na trilha que leva a clareira.  
 
 \- **Falha:** O primeiro personagem a passar pela area desencadeia a
-armadilha. Faça um teste de Destreza (DC 14). Em caso de falha, o personagem
+armadilha. FaÃ§a um teste de Destreza (DC 14). Em caso de falha, o personagem
 fica preso e incapacitado ate ser libertado.  
 
 \---
@@ -94,22 +94,22 @@ fica preso e incapacitado ate ser libertado.
 personagem que tente correr ou lutar na margem deve fazer um teste de
 Acrobacia (DC 12) para evitar cair na agua.  
 
-\- **Vegetaçao Densa:** Oferece cobertura leve (+2 CA) para os goblins que se
+\- **VegetaÃ§ao Densa:** Oferece cobertura leve (+2 CA) para os goblins que se
 escondem nela.  
 
 **Estrategias dos Inimigos:**  
 
 \- Os goblins da primeira onda tentam manter distancia, atacando com arcos
-curtos, enquanto o lobo avança para travar os aventureiros no corpo a corpo.  
+curtos, enquanto o lobo avanÃ§a para travar os aventureiros no corpo a corpo.  
 
-\- A segunda onda tenta flanquear o grupo, enquanto o Bugbear usa sua força
+\- A segunda onda tenta flanquear o grupo, enquanto o Bugbear usa sua forÃ§a
 para focar em um unico alvo. Ele pode tentar intimidar os aventureiros para
-força-los a recuar.  
+forÃ§a-los a recuar.  
 
-**Teste de Intimidaçao ou Persuasao (DC 15):** Durante o combate, os jogadores
+**Teste de IntimidaÃ§ao ou Persuasao (DC 15):** Durante o combate, os jogadores
 podem tentar convencer Kaldros a se juntar a luta.  
 
-\- **Sucesso:** Kaldros usa uma besta leve que guarda na carroça para ajudar
+\- **Sucesso:** Kaldros usa uma besta leve que guarda na carroÃ§a para ajudar
 os aventureiros.  
 
 \- **Falha:** Ele permanece escondido, assustado demais para reagir.  
@@ -119,7 +119,7 @@ os aventureiros.
 ### **Climax:**  
 
 Quando a segunda onda for reduzida a metade, o Bugbear tenta negociar sua
-liberdade. Ele oferece informaçoes sobre um acampamento goblin e revela que os
+liberdade. Ele oferece informaÃ§oes sobre um acampamento goblin e revela que os
 goblins estao sendo pagos por uma gangue de bandidos para atacar mercadores.  
 
 \---
@@ -132,7 +132,7 @@ Os aventureiros podem:
 PO e promete recomendar os aventureiros para os nobres de Blackfair Manor,
 abrindo portas para futuras oportunidades.  
 
-2\. **Explorar o Acampamento Goblin:** Com as informaçoes do Bugbear, o grupo
+2\. **Explorar o Acampamento Goblin:** Com as informaÃ§oes do Bugbear, o grupo
 pode rastrear o esconderijo dos goblins, onde encontram mais saque e pistas
 sobre os bandidos.  
 
@@ -378,6 +378,13 @@ Strength saving throw or be knocked
 [prone](https://www.google.com/url?q=https://www.dndbeyond.com/sources/dnd/free-
 rules/rules-
 glossary%23ProneCondition&sa=D&source=editors&ust=1754137313530734&usg=AOvVaw0ofiok7HXb-98YuCD45wKY).
+
+
+
+
+
+
+
 
 
 

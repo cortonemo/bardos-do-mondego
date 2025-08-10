@@ -1,12 +1,19 @@
-# Sessão 13  Dandan e os 40 Kobolds (03-abr): Ready to Play
+﻿# SessÃ£o 13  Dandan e os 40 Kobolds (03-abr): Ready to Play
 
-| Português | English |
+| PortuguÃªs | English |
 |-----------|---------|
-| **Introdução:** Dandan procura aventureiros para resgatar kobolds capturados.<br><br>**Cena 1: Entrada nos Esgotos**<br>- Confronto com guardas e armadilhas mecânicas.<br><br>**Cena 2: Emboscada e Negociação**<br>- Rivalidade entre kobolds, possível negociação ou combate.<br><br>**Cena 3: Fuga**<br>- Libertação dos kobolds, fuga pelas passagens secretas.<br><br>**Cena 4: Conclusão**<br>- Respeito dos kobolds e pistas sobre a guilda dos ladrões.<br> | **Introduction:** Dandan seeks adventurers to rescue captured kobolds.<br><br>**Scene 1: Sewer Entrance**<br>- Confrontation with guards and mechanical traps.<br><br>**Scene 2: Ambush and Negotiation**<br>- Kobold rivalry, possible negotiation or combat.<br><br>**Scene 3: Escape**<br>- Free the kobolds, escape via secret tunnels.<br><br>**Scene 4: Conclusion**<br>- Gain respect from kobolds and clues about the thieves guild.<br> |
-| **NPCs:** Dandan, líder kobold rival, guardas humanos, membros da guilda dos ladrões | **NPCs:** Dandan, rival kobold leader, human guards, thieves guild members |
-| **Loot:** armas improvisadas, joias kobold, mapa dos esgotos, pistas dos ladrões | **Loot:** improvised weapons, kobold jewels, sewer map, thieves clues |
+| **IntroduÃ§Ã£o:** Dandan procura aventureiros para resgatar kobolds capturados. param($m) "<" + ($m.Groups[1].Value -replace '\\','/') + ">"  param($m) "<" + ($m.Groups[1].Value -replace '\\','/') + ">" **Cena 1: Entrada nos Esgotos** param($m) "<" + ($m.Groups[1].Value -replace '\\','/') + ">" - Confronto com guardas e armadilhas mecÃ¢nicas. param($m) "<" + ($m.Groups[1].Value -replace '\\','/') + ">"  param($m) "<" + ($m.Groups[1].Value -replace '\\','/') + ">" **Cena 2: Emboscada e NegociaÃ§Ã£o** param($m) "<" + ($m.Groups[1].Value -replace '\\','/') + ">" - Rivalidade entre kobolds, possÃ­vel negociaÃ§Ã£o ou combate. param($m) "<" + ($m.Groups[1].Value -replace '\\','/') + ">"  param($m) "<" + ($m.Groups[1].Value -replace '\\','/') + ">" **Cena 3: Fuga** param($m) "<" + ($m.Groups[1].Value -replace '\\','/') + ">" - LibertaÃ§Ã£o dos kobolds, fuga pelas passagens secretas. param($m) "<" + ($m.Groups[1].Value -replace '\\','/') + ">"  param($m) "<" + ($m.Groups[1].Value -replace '\\','/') + ">" **Cena 4: ConclusÃ£o** param($m) "<" + ($m.Groups[1].Value -replace '\\','/') + ">" - Respeito dos kobolds e pistas sobre a guilda dos ladrÃµes. param($m) "<" + ($m.Groups[1].Value -replace '\\','/') + ">"  | **Introduction:** Dandan seeks adventurers to rescue captured kobolds. param($m) "<" + ($m.Groups[1].Value -replace '\\','/') + ">"  param($m) "<" + ($m.Groups[1].Value -replace '\\','/') + ">" **Scene 1: Sewer Entrance** param($m) "<" + ($m.Groups[1].Value -replace '\\','/') + ">" - Confrontation with guards and mechanical traps. param($m) "<" + ($m.Groups[1].Value -replace '\\','/') + ">"  param($m) "<" + ($m.Groups[1].Value -replace '\\','/') + ">" **Scene 2: Ambush and Negotiation** param($m) "<" + ($m.Groups[1].Value -replace '\\','/') + ">" - Kobold rivalry, possible negotiation or combat. param($m) "<" + ($m.Groups[1].Value -replace '\\','/') + ">"  param($m) "<" + ($m.Groups[1].Value -replace '\\','/') + ">" **Scene 3: Escape** param($m) "<" + ($m.Groups[1].Value -replace '\\','/') + ">" - Free the kobolds, escape via secret tunnels. param($m) "<" + ($m.Groups[1].Value -replace '\\','/') + ">"  param($m) "<" + ($m.Groups[1].Value -replace '\\','/') + ">" **Scene 4: Conclusion** param($m) "<" + ($m.Groups[1].Value -replace '\\','/') + ">" - Gain respect from kobolds and clues about the thieves guild. param($m) "<" + ($m.Groups[1].Value -replace '\\','/') + ">"  |
+| **NPCs:** Dandan, lÃ­der kobold rival, guardas humanos, membros da guilda dos ladrÃµes | **NPCs:** Dandan, rival kobold leader, human guards, thieves guild members |
+| **Loot:** armas improvisadas, joias kobold, mapa dos esgotos, pistas dos ladrÃµes | **Loot:** improvised weapons, kobold jewels, sewer map, thieves clues |
 | **Data:** 2025-04-03 | **Date:** 2025-04-03 |
 | **Ficheiros de origem:** s13_dandan_e_os_40_kobolds_ready.md | **Source files:** s13_dandan_e_os_40_kobolds_ready.md |
+
+
+
+
+
+
+
 
 
 

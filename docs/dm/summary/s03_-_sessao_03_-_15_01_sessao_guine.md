@@ -1,9 +1,9 @@
-Plot
+﻿Plot
 
 O Feiticeiro XX trancou se atras da torre e esta a procurar ajuda para abrir a
 porta!
 
-Localizaçoes
+LocalizaÃ§oes
 
 A torre fica no G no Marsh Keep, na fronteira com mistmarch, cerca de 65 km de
 distancia da taberna.
@@ -65,6 +65,13 @@ Source: MM'25, page 64. Also found in UHftLH.
 wizard![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcryLHeG_UVn5ePGjOBz8p2MTDpStKp-
 TlgehTrIk_0ETFQP2oRyV3DGeIiHdUHBw87iHseM_TZ-7LhHE_7Q8QcWvmzlVWSjck-
 lbdqGBGYwUQQRXBIBkhA9RCL7HhdzQZ2rShUVg8?key=i0zMOWN-Nh-rPnbN5Mj735m5)
+
+
+
+
+
+
+
 
 
 

@@ -1,14 +1,21 @@
-## Ficheiro: yellow_mold.md
+﻿## Ficheiro: yellow_mold.md
 
 #### Yellow Mold
 
-Sessão: 2 | Data: (data não especificada) | Fonte: s02.txt | Tags: hazard, fungi
+SessÃ£o: 2 | Data: (data nÃ£o especificada) | Fonte: s02.txt | Tags: hazard, fungi
 
 [Yellow Mold](yellow_mold.png)
 
-| English | Português |
+| English | PortuguÃªs |
 |---------|-----------|
-| **Description:** Dangerous, living fungus growing on a miner's corpse. Releases poisonous spores when disturbed. Infests the mine, sign of environmental hazard. | **Descrição:** Fungo perigoso que cresce sobre o cadáver de um mineiro. Libera esporos venenosos quando perturbado. Infesta a mina, sinal de risco ambiental. |
+| **Description:** Dangerous, living fungus growing on a miner's corpse. Releases poisonous spores when disturbed. Infests the mine, sign of environmental hazard. | **DescriÃ§Ã£o:** Fungo perigoso que cresce sobre o cadÃ¡ver de um mineiro. Libera esporos venenosos quando perturbado. Infesta a mina, sinal de risco ambiental. |
+
+
+
+
+
+
+
 
 
 

@@ -1,12 +1,19 @@
-### Fungos Parasitas Alienígenas
+﻿### Fungos Parasitas AlienÃ­genas
 
-Sessão: 1 | Data: 2025-08-02 | Fonte: s01.txt | Tags: ameaça, ambiente, infestação
+SessÃ£o: 1 | Data: 2025-08-02 | Fonte: s01.txt | Tags: ameaÃ§a, ambiente, infestaÃ§Ã£o
 
-[Fungos Parasitas Alienígenas](fungos_parasitas_alienigenas.png)
+[Fungos Parasitas AlienÃ­genas](fungos_parasitas_alienigenas.png)
 
-| English | Português |
+| English | PortuguÃªs |
 |---------|-----------|
-| **Description:** Pulsing, luminescent alien fungus spreading along the cave and stream, forming a network. Acts as a single organism with strange patterns and apparent intelligence. | **Descrição:** Fungos alienígenas pulsantes e luminosos que se espalham pela caverna e riacho, formando uma rede viva. Age como um organismo único com padrões estranhos e inteligência aparente. |
+| **Description:** Pulsing, luminescent alien fungus spreading along the cave and stream, forming a network. Acts as a single organism with strange patterns and apparent intelligence. | **DescriÃ§Ã£o:** Fungos alienÃ­genas pulsantes e luminosos que se espalham pela caverna e riacho, formando uma rede viva. Age como um organismo Ãºnico com padrÃµes estranhos e inteligÃªncia aparente. |
+
+
+
+
+
+
+
 
 
 

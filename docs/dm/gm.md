@@ -1,7 +1,13 @@
-# Área de Mestre de Jogo
+﻿# Ãrea de Mestre de Jogo
 
-| Português | English |
+| PortuguÃªs | English |
 |-----------|---------|
-| Conteúdo relacionado a **Área de Mestre de Jogo**. | Content related to **Game Master Area**. |
+| ConteÃºdo relacionado a **Ãrea de Mestre de Jogo**. | Content related to **Game Master Area**. |
 
 ### Acesso Reservado
+
+
+
+
+
+

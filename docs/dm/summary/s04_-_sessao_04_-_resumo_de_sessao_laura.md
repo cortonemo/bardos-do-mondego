@@ -1,11 +1,11 @@
-### *Introduçao*
+﻿### *IntroduÃ§ao*
 
 \- *Gatilho: Os personagens estao numa missao generica de reconhecimento
 (podes adaptar ao contexto do teu mundo), e acabam por cruzar a cidade de Two
 Fords, um pequeno vilarejo conhecido por sua ponte dupla que atravessa o rio
 Ery.
 
-\- Ao chegarem, notam sinais de decadencia: as plantaçoes estao murchando, e
+\- Ao chegarem, notam sinais de decadencia: as plantaÃ§oes estao murchando, e
 os habitantes parecem preocupados e doentes.
 
 \---
@@ -13,7 +13,7 @@ os habitantes parecem preocupados e doentes.
 ### *Cena 1: O Mercador Amigo*
 
 \- *Encontro: Os jogadores encontram Kaldros, um mercador viajante que ja
-conhecem de interaçoes passadas (ou que podem encontrar pela primeira vez).
+conhecem de interaÃ§oes passadas (ou que podem encontrar pela primeira vez).
 Ele e amistoso e conta que o vilarejo esta enfrentando problemas com a
 qualidade da agua do rio.
 
@@ -24,11 +24,11 @@ doente apos beber da agua.
 #### *Roleplay na Taberna*
 
 \- Geralt explica que nao sabe o que esta acontecendo, mas que os sintomas
-começaram ha duas semanas. Ele acredita que a agua do rio esta contaminada,
+comeÃ§aram ha duas semanas. Ele acredita que a agua do rio esta contaminada,
 mas ainda nao sabe como ou por que.
 
 \- Ele implora para que os jogadores ajudem a encontrar a origem do problema.
-Como incentivo, oferece um mapa da regiao com uma marcaçao: *um velho moinho
+Como incentivo, oferece um mapa da regiao com uma marcaÃ§ao: *um velho moinho
 abandonado rio acima*, onde os rumores dizem que coisas estranhas acontecem.
 
 \---
@@ -36,7 +36,7 @@ abandonado rio acima*, onde os rumores dizem que coisas estranhas acontecem.
 ### *Cena 2: A Fauna Possuida*
 
 \- *Caminho ate o moinho*: Enquanto seguem o rio Ery, os jogadores notam
-sinais de corrupçao:
+sinais de corrupÃ§ao:
 
   \- Plantas com cogumelos de cores incomuns.
 
@@ -58,12 +58,12 @@ fisico nao magico).
 \- *Ambiente*: O moinho esta coberto de fungos bioluminescentes, e um cheiro
 acido permeia o ar. A agua do rio passa por baixo do moinho, turva e escura.
 
-\- *Exploraçao*:
+\- *ExploraÃ§ao*:
 
   \- No interior, os jogadores encontram sinais de atividade recente: simbolos
 elementais esculpidos nas paredes e recipientes contendo o fungo alienigena.
 
-  \- Um pergaminho com anotaçoes fala sobre um plano do Culto do Mal Elemental
+  \- Um pergaminho com anotaÃ§oes fala sobre um plano do Culto do Mal Elemental
 para enfraquecer as regioes ao longo do rio, preparando o terreno para um
 ataque maior.
 
@@ -72,26 +72,26 @@ ataque maior.
 ### *Cena 4: A Celula do Culto*
 
 \- *Confronto*: Os jogadores encontram 3 cultistas e 1 acolito no moinho. Eles
-estao a trabalhar num ritual para lançar mais esporos no rio.
+estao a trabalhar num ritual para lanÃ§ar mais esporos no rio.
 
   \- *Cultistas*: Usam estatisticas de Cultistas padrao.
 
-  \- *Acolito: Pode conjurar feitiços para proteger os aliados (ex.: *Cure
+  \- *Acolito: Pode conjurar feitiÃ§os para proteger os aliados (ex.: *Cure
 Wounds, Sanctuary).
 
   \- Adicional: 1d2 "Servos Fungicos" (similes de zumbis, com resistencia a
 dano cortante e imunidade a venenos).
 
-\- Durante o combate, ha o risco de esporos se espalharem, forçando os
-jogadores a fazerem testes de resistencia a Constituiçao contra envenenamento.
+\- Durante o combate, ha o risco de esporos se espalharem, forÃ§ando os
+jogadores a fazerem testes de resistencia a ConstituiÃ§ao contra envenenamento.
 
 ### *Recompensas*
 
 \- Tesouro: Cada cultista carrega pequenas joias (10 gp cada), e o Acolito
-possui uma poçao de cura.
+possui uma poÃ§ao de cura.
 
 \- *Item Especial*: Cristal Elemental Corrompido - um item magico que pode ser
-estudado para obter mais informaçoes sobre o Culto.
+estudado para obter mais informaÃ§oes sobre o Culto.
 
 [https://www.aidedd.org/dnd/monstres.php?vo=acolyte](https://www.google.com/url?q=https://www.aidedd.org/dnd/monstres.php?vo%3Dacolyte&sa=D&source=editors&ust=1754137307239060&usg=AOvVaw27MrfTA50J1oz1q3X21z5E)
 
@@ -107,6 +107,13 @@ Zombies
 aSy-6D)
 
     Soren Barclay  
+
+
+
+
+
+
+
 
 
 

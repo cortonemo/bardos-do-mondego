@@ -1,0 +1,2 @@
+[mkdocs.plugins]
+custom-attributes = custom_attributes.plugin:TagsAttributePlugins

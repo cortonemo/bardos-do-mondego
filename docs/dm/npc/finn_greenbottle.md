@@ -1,16 +1,23 @@
-
+﻿
 # Finn Greenbottle
 
-Sessões: Sessão Extra | Datas: 2025-04-24 | Fontes: extra_relato_crianca_perdida.txt | Tags: npc, irmão, greenbottle
+SessÃµes: SessÃ£o Extra | Datas: 2025-04-24 | Fontes: extra_relato_crianca_perdida.txt | Tags: npc, irmÃ£o, greenbottle
 
 [Finn Greenbottle](finn_greenbottle.png)
 
-| Português | English |
+| PortuguÃªs | English |
 |-----------|---------|
-| **Descrição:** Irmão gémeo de [Aria](aria_greenbottle.md), espírito aventureiro e determinado a ajudar no resgate. Partilha pistas importantes sobre as obsessões e planos secretos da irmã, sendo crucial para o sucesso da missão. | **Description:** Twin brother of [Aria](aria_greenbottle.md), adventurous spirit and determined to help with her rescue. Shares vital clues about his sisters obsessions and secret plans, being crucial to the quests success. |
+| **DescriÃ§Ã£o:** IrmÃ£o gÃ©meo de [Aria](aria_greenbottle.md), espÃ­rito aventureiro e determinado a ajudar no resgate. Partilha pistas importantes sobre as obsessÃµes e planos secretos da irmÃ£, sendo crucial para o sucesso da missÃ£o. | **Description:** Twin brother of [Aria](aria_greenbottle.md), adventurous spirit and determined to help with her rescue. Shares vital clues about his sisters obsessions and secret plans, being crucial to the quests success. |
 
 [(Voltar a NPCs / Back to NPCs)](npcs_list.md)  
-[(Voltar à Página Inicial / Back to Home Page)](home.md)
+[(Voltar Ã  PÃ¡gina Inicial / Back to Home Page)](../../home.md)
+
+
+
+
+
+
+
 
 
 

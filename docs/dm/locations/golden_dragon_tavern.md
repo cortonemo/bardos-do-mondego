@@ -1,21 +1,28 @@
+﻿
+#### Taberna do DragÃ£o Dourado / Golden Dragons Tavern
 
-#### Taberna do Dragão Dourado / Golden Dragons Tavern
-
-Sessões:  
-- Sessão 6 | Fonte: s06.txt  
-- Sessão 7 | Fonte: s07.txt  
-- Sessão 14 | Fonte: s14.txt  
-- Sessão 29 | Fonte: s29.txt  
+SessÃµes:  
+- SessÃ£o 6 | Fonte: s06.txt  
+- SessÃ£o 7 | Fonte: s07.txt  
+- SessÃ£o 14 | Fonte: s14.txt  
+- SessÃ£o 29 | Fonte: s29.txt  
 
 Tags: localizacao, taberna
 
-[Taberna do Dragão Dourado](golden_dragon_tavern.png)
+[Taberna do DragÃ£o Dourado](golden_dragon_tavern.png)
 
-| English | Português |
+| English | PortuguÃªs |
 |---------|-----------|
-| **Golden Dragons Tavern** is a luxurious establishment in Greyhawk, renowned for its fine drinks and clientele. The taverns reputation for discretion draws many shady deals and secret meetings. | **A Taberna do Dragão Dourado** é um estabelecimento luxuoso em Greyhawk, famoso pelas suas bebidas e clientela. A reputação de discrição atrai muitos negócios duvidosos e reuniões secretas. |
+| **Golden Dragons Tavern** is a luxurious establishment in Greyhawk, renowned for its fine drinks and clientele. The taverns reputation for discretion draws many shady deals and secret meetings. | **A Taberna do DragÃ£o Dourado** Ã© um estabelecimento luxuoso em Greyhawk, famoso pelas suas bebidas e clientela. A reputaÃ§Ã£o de discriÃ§Ã£o atrai muitos negÃ³cios duvidosos e reuniÃµes secretas. |
 
-[(Back to Locations / Voltar a Localizações)](localizacoes.md)
+[(Back to Locations / Voltar a LocalizaÃ§Ãµes)](localizacoes.md)
+
+
+
+
+
+
+
 
 
 

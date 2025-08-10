@@ -1,4 +1,4 @@
-# Sister Blathine  Oghman Archivist
+﻿# Sister Blathine  Oghman Archivist
 
 ![Sister Blathine](portrait_sister_blathine_half-orc_oghman_archivist.png)
 
@@ -57,6 +57,11 @@ A broad-shouldered half-orc in sensible, ink-stained robes, with a battered chai
 
 **DM Notes:**  
 Sister Blathine is the gatekeeper of knowledge, the living backbone of the Oghman archive. She can provide lore, access, or even clerical magic to those who earn her trustor a sharp rebuke to those who waste her time.
+
+
+
+
+
 
 
 

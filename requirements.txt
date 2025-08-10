@@ -1,2 +1,8 @@
 mkdocs
 mkdocs-material
+mkdocs-roamlinks-plugin
+mkdocs-awesome-pages-plugin
+mkdocs-section-index
+mkdocs-gen-files
+mkdocs-embed-file-plugins
+pymdown-extensions

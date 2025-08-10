@@ -1,4 +1,4 @@
-
+﻿
 # Wenla Frott
 
 **Race**: Gnome
@@ -12,6 +12,11 @@
 **Use in Game**: Provides a flyer with kobold markings, and confused insight about past spa ownership.
 
 **Hook**: Calls the spa Serenity Through Scales and insists the mud was emotionally grounding.
+
+
+
+
+
 
 
 

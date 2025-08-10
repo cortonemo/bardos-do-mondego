@@ -1,16 +1,23 @@
+﻿
+# Sala SubterrÃ¢nea dos Frascos (sub-location)
 
-# Sala Subterrânea dos Frascos (sub-location)
+SessÃµes: 27, 28 | Datas: 2025-07-10, 2025-07-17 | Fontes: s27_-_2025-07-10.txt, s28_-_2025-07-17.txt | Tags: sala, museu, sub-location
 
-Sessões: 27, 28 | Datas: 2025-07-10, 2025-07-17 | Fontes: s27_-_2025-07-10.txt, s28_-_2025-07-17.txt | Tags: sala, museu, sub-location
+[Sala SubterrÃ¢nea dos Frascos](sala_subterranea_frascos.png)
 
-[Sala Subterrânea dos Frascos](sala_subterranea_frascos.png)
-
-| Português | English |
+| PortuguÃªs | English |
 |-----------|---------|
-| Sala secreta do museu repleta de frascos mágicos e espécimes raros. | Secret museum room filled with magical jars and rare specimens. |
+| Sala secreta do museu repleta de frascos mÃ¡gicos e espÃ©cimes raros. | Secret museum room filled with magical jars and rare specimens. |
 
-[(Voltar a Localizações / Back to Locations)](localizacoes.md)  
-[(Voltar à Página Inicial / Back to Home Page)](home.md)
+[(Voltar a LocalizaÃ§Ãµes / Back to Locations)](localizacoes.md)  
+[(Voltar Ã  PÃ¡gina Inicial / Back to Home Page)](../../home.md)
+
+
+
+
+
+
+
 
 
 

@@ -93,3 +93,8 @@ The group returned to the tavern and made a Long Rest.
 
 
 
+
+
+
+
+

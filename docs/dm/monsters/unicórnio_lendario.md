@@ -1,16 +1,23 @@
+﻿
+# UnicÃ³rnio LendÃ¡rio / Legendary Unicorn
 
-# Unicórnio Lendário / Legendary Unicorn
+SessÃµes: 22 | Datas: 2025-06-05 | Fontes: s22_-_2025-06-05.txt | Tags: monstro, sagrado, vale
 
-Sessões: 22 | Datas: 2025-06-05 | Fontes: s22_-_2025-06-05.txt | Tags: monstro, sagrado, vale
+[UnicÃ³rnio LendÃ¡rio](unicÃ³rnio_lendario.png)
 
-[Unicórnio Lendário](unicórnio_lendario.png)
-
-| Português | English |
+| PortuguÃªs | English |
 |-----------|---------|
-| Ser místico que protege o [Vale de Lytharien](vale_de_lytharien.md). Só aparece perante corações puros e é guardião de segredos ancestrais do vale. | Mystical being that protects the [Vale de Lytharien](vale_de_lytharien.md). Only appears to the pure of heart and guards the valleys ancient secrets. |
+| Ser mÃ­stico que protege o [Vale de Lytharien](vale_de_lytharien.md). SÃ³ aparece perante coraÃ§Ãµes puros e Ã© guardiÃ£o de segredos ancestrais do vale. | Mystical being that protects the [Vale de Lytharien](vale_de_lytharien.md). Only appears to the pure of heart and guards the valleys ancient secrets. |
 
 [(Voltar a Monstros / Back to Monsters)](monstros.md)  
-[(Voltar à Página Inicial / Back to Home Page)](home.md)
+[(Voltar Ã  PÃ¡gina Inicial / Back to Home Page)](../../home.md)
+
+
+
+
+
+
+
 
 
 

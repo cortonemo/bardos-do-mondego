@@ -1,13 +1,20 @@
-# Sessão 13  Dandan e os 40 Kobolds (03-abr): Resumo Detalhado
+﻿# SessÃ£o 13  Dandan e os 40 Kobolds (03-abr): Resumo Detalhado
 
-| Português | English |
+| PortuguÃªs | English |
 |-----------|---------|
-| **Descrição:** Dandan convoca a party para resgatar uma família de kobolds sequestrada nos esgotos de Greyhawk. O grupo enfrenta armadilhas, guardas e bestas mecânicas. Negociam com um líder kobold rival, evitando conflito maior. Libertam os kobolds, escapam por passagens secretas e descobrem que a guilda dos ladrões estava envolvida. Ganham respeito da comunidade kobold e novas pistas para futuras aventuras.<br> | **Description:** Dandan gathers the party to rescue a kidnapped kobold family from Greyhawks sewers. The group faces traps, guards, and mechanical beasts. They negotiate with a rival kobold leader, avoiding major conflict. Kobolds are freed, escape is made via secret passages, and the thieves guilds involvement is uncovered. The party gains the respect of the kobold community and new leads for future adventures.<br> |
+| **DescriÃ§Ã£o:** Dandan convoca a party para resgatar uma famÃ­lia de kobolds sequestrada nos esgotos de Greyhawk. O grupo enfrenta armadilhas, guardas e bestas mecÃ¢nicas. Negociam com um lÃ­der kobold rival, evitando conflito maior. Libertam os kobolds, escapam por passagens secretas e descobrem que a guilda dos ladrÃµes estava envolvida. Ganham respeito da comunidade kobold e novas pistas para futuras aventuras. param($m) "<" + ($m.Groups[1].Value -replace '\\','/') + ">"  | **Description:** Dandan gathers the party to rescue a kidnapped kobold family from Greyhawks sewers. The group faces traps, guards, and mechanical beasts. They negotiate with a rival kobold leader, avoiding major conflict. Kobolds are freed, escape is made via secret passages, and the thieves guilds involvement is uncovered. The party gains the respect of the kobold community and new leads for future adventures. param($m) "<" + ($m.Groups[1].Value -replace '\\','/') + ">"  |
 | **PCs:** (confirmar grupo) | **PCs:** (confirm party) |
-| **NPCs:** Dandan, líder kobold rival, guardas humanos, membros da guilda dos ladrões | **NPCs:** Dandan, rival kobold leader, human guards, thieves guild members |
-| **Loot:** armas improvisadas, joias kobold, mapa dos esgotos, pistas dos ladrões | **Loot:** improvised weapons, kobold jewels, sewer map, thieves clues |
+| **NPCs:** Dandan, lÃ­der kobold rival, guardas humanos, membros da guilda dos ladrÃµes | **NPCs:** Dandan, rival kobold leader, human guards, thieves guild members |
+| **Loot:** armas improvisadas, joias kobold, mapa dos esgotos, pistas dos ladrÃµes | **Loot:** improvised weapons, kobold jewels, sewer map, thieves clues |
 | **Data:** 2025-04-03 | **Date:** 2025-04-03 |
 | **Ficheiros de origem:** s13_dandan_e_os_40_kobolds_resumo.md | **Source files:** s13_dandan_e_os_40_kobolds_resumo.md |
+
+
+
+
+
+
+
 
 
 

@@ -30,3 +30,8 @@ O Varus encontrou no total 25GP 75SP e 538CP, 1 scroll de teleport e 1 scroll de
 
 
 
+
+
+
+
+

@@ -1,15 +1,22 @@
-## Ficheiro: topaz.md
+﻿## Ficheiro: topaz.md
 
 #### Large Topaz
 
-Sessão: 2 | Data: (data não especificada) | Fonte: s02.txt | Tags: loot, gem
+SessÃ£o: 2 | Data: (data nÃ£o especificada) | Fonte: s02.txt | Tags: loot, gem
 
 [Large Topaz](large_topaz.png)
 
-| English | Português |
+| English | PortuguÃªs |
 |---------|-----------|
-| **Description:** Precious topaz, larger than a fist, awarded as payment for clearing the mine of its monster threat. | **Descrição:** Topázio precioso, maior que um punho, entregue como pagamento por eliminar o monstro da mina. |
-| **Owner:** [Triss](triss.md) | **Proprietário:** [Triss](triss.md) |
+| **Description:** Precious topaz, larger than a fist, awarded as payment for clearing the mine of its monster threat. | **DescriÃ§Ã£o:** TopÃ¡zio precioso, maior que um punho, entregue como pagamento por eliminar o monstro da mina. |
+| **Owner:** [Triss](triss.md) | **ProprietÃ¡rio:** [Triss](triss.md) |
+
+
+
+
+
+
+
 
 
 

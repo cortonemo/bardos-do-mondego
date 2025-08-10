@@ -1,12 +1,19 @@
-### Quest dos Fungos Alienígenas
+﻿### Quest dos Fungos AlienÃ­genas
 
-Sessão: 1 | Data: 2025-08-02 | Fonte: s01.txt | Tags: aventura, fungi, corrupção
+SessÃ£o: 1 | Data: 2025-08-02 | Fonte: s01.txt | Tags: aventura, fungi, corrupÃ§Ã£o
 
-[Quest dos Fungos Alienígenas](quest_dos_fungos.png)
+[Quest dos Fungos AlienÃ­genas](quest_dos_fungos.png)
 
-| English | Português |
+| English | PortuguÃªs |
 |---------|-----------|
-| **Summary:** The party is tasked with investigating and cleansing a stream infested by alien fungus, encountering mutated creatures and a corrupted druid. | **Resumo:** O grupo é encarregado de investigar e purificar um riacho infestado por fungos alienígenas, enfrentando criaturas mutantes e um druida corrompido. |
+| **Summary:** The party is tasked with investigating and cleansing a stream infested by alien fungus, encountering mutated creatures and a corrupted druid. | **Resumo:** O grupo Ã© encarregado de investigar e purificar um riacho infestado por fungos alienÃ­genas, enfrentando criaturas mutantes e um druida corrompido. |
+
+
+
+
+
+
+
 
 
 

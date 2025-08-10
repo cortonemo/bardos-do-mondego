@@ -1,16 +1,23 @@
+﻿
+# Universidade de Artes MÃ¡gicas de Greyhawk
 
-# Universidade de Artes Mágicas de Greyhawk
+SessÃµes: vÃ¡rias | Datas: vÃ¡rias | Fontes: vÃ¡rios | Tags: universidade, magia, greyhawk
 
-Sessões: várias | Datas: várias | Fontes: vários | Tags: universidade, magia, greyhawk
+[Universidade de Artes MÃ¡gicas](universidade_de_artes_magicas.png)
 
-[Universidade de Artes Mágicas](universidade_de_artes_magicas.png)
-
-| Português | English |
+| PortuguÃªs | English |
 |-----------|---------|
-| Centro de ensino e investigação arcana na [Cidade de Greyhawk](cidade_de_greyhawk.md). | Center for arcane teaching and research in [Greyhawk](cidade_de_greyhawk.md). |
+| Centro de ensino e investigaÃ§Ã£o arcana na [Cidade de Greyhawk](cidade_de_greyhawk.md). | Center for arcane teaching and research in [Greyhawk](cidade_de_greyhawk.md). |
 
-[(Voltar a Localizações / Back to Locations)](localizacoes.md)  
-[(Voltar à Página Inicial / Back to Home Page)](home.md)
+[(Voltar a LocalizaÃ§Ãµes / Back to Locations)](localizacoes.md)  
+[(Voltar Ã  PÃ¡gina Inicial / Back to Home Page)](../../home.md)
+
+
+
+
+
+
+
 
 
 

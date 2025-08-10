@@ -30,3 +30,8 @@ No fim da batalha, ao investigar os corpos, um kobolt tem uma bolsa com uma list
 
 
 
+
+
+
+
+

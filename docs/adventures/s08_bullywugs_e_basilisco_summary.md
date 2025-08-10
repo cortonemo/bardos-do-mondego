@@ -1,13 +1,20 @@
-# Bullywugs e o Basilisco  Resumo Detalhado
+﻿# Bullywugs e o Basilisco  Resumo Detalhado
 
-| Português | English |
+| PortuguÃªs | English |
 |-----------|---------|
-| **Descrição:** Os PCs são recebidos como heróis na aldeia dos bullywugs. Compartilham os perigos superados e avisam sobre as possíveis consequências do ritual. Festa tribal, reconhecimento e promessas de novas alianças e desafios para todos.<br> | **Description:** PCs are welcomed as heroes in the bullywug village. Share the dangers faced and warn about the rituals possible consequences. Tribal celebration, recognition, and promises of new alliances and challenges ahead.<br> |
+| **DescriÃ§Ã£o:** Os PCs sÃ£o recebidos como herÃ³is na aldeia dos bullywugs. Compartilham os perigos superados e avisam sobre as possÃ­veis consequÃªncias do ritual. Festa tribal, reconhecimento e promessas de novas alianÃ§as e desafios para todos. param($m) "<" + ($m.Groups[1].Value -replace '\\','/') + ">"  | **Description:** PCs are welcomed as heroes in the bullywug village. Share the dangers faced and warn about the rituals possible consequences. Tribal celebration, recognition, and promises of new alliances and challenges ahead. param($m) "<" + ($m.Groups[1].Value -replace '\\','/') + ">"  |
 | **PCs:** Bok, Varus, Sage, Baltigard, outros [por confirmar] | **PCs:** Bok, Varus, Sage, Baltigard, others [to confirm] |
 | **NPCs:** Mestre Yoda (bullywug), Cocas, Baltigard, villagers bullywug | **NPCs:** Mestre Yoda (bullywug), Cocas, Baltigard, bullywug villagers |
-| **Loot:** Gratidão dos bullywugs, possíveis recompensas tribais | **Loot:** Gratitude of the bullywugs, possible tribal rewards |
+| **Loot:** GratidÃ£o dos bullywugs, possÃ­veis recompensas tribais | **Loot:** Gratitude of the bullywugs, possible tribal rewards |
 | **Data:** 2025-02-27 | **Date:** 2025-02-27 |
 | **Ficheiros de origem:** s08_bullywugs_e_basilisco_resumo.md | **Source files:** s08_bullywugs_e_basilisco_resumo.md |
+
+
+
+
+
+
+
 
 
 

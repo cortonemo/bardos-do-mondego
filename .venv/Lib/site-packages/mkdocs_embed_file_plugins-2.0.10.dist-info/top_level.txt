@@ -1,0 +1,1 @@
+mkdocs_embed_file_plugins

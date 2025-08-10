@@ -1,10 +1,10 @@
-**5. Facções e Cultos**
+﻿**5. FacÃ§Ãµes e Cultos**
 
-Cada uma com ideologia, líderes, zonas de operação e inimigos:
+Cada uma com ideologia, lÃ­deres, zonas de operaÃ§Ã£o e inimigos:
 
     Culto de Nerull
 
-    Ordem de Beltar (Caçadores do Subterrâneo)
+    Ordem de Beltar (CaÃ§adores do SubterrÃ¢neo)
 
     Seguidores de Titania
 
@@ -13,6 +13,13 @@ Cada uma com ideologia, líderes, zonas de operação e inimigos:
     Goblins de Two Fords
 
     Casa Vanthir (e impostores)
+
+
+
+
+
+
+
 
 
 

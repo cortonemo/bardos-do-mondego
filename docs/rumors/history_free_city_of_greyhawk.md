@@ -1,5 +1,5 @@
- Journal Entry: Free City of Greyhawk
-️ Name
+﻿ Journal Entry: Free City of Greyhawk
+ï¸ Name
 
 Free City of Greyhawk
 "The Gem of the Flanaess"
@@ -11,7 +11,7 @@ Map Reference: Near the north shore of Woolly Bay
  Description
 
 A vast and cosmopolitan city-state, Greyhawk is the epicenter of trade, magic, and adventuring activity in the Flanaess. Originally a military outpost of the Great Kingdom, it has grown into a sprawling metropolis famed for its deep dungeons, sprawling undercity, powerful guilds, and dangerous secrets.
-️ Climate
+ï¸ Climate
 
     Type: Temperate Continental
 
@@ -75,7 +75,7 @@ Greyhawk society is built on guilds, trade wealth, and political cunning. While 
 
         Cultists and agents of darker forces, hiding in plain sight
 
-️ Government
+ï¸ Government
 
     System: Plutocratic Oligarchy
 
@@ -85,7 +85,7 @@ Greyhawk society is built on guilds, trade wealth, and political cunning. While 
 
     Laws: Relatively open, but strict on murder, unlicensed magic, and slavery (which is outlawed)
 
-️ Notable Locations
+ï¸ Notable Locations
 
     University of Magical Arts  Arcane research & education
 
@@ -103,7 +103,7 @@ Greyhawk society is built on guilds, trade wealth, and political cunning. While 
 
     Castle Greyhawk Ruins  Just outside the city, a legendary dungeon
 
-️ Factions & Power Groups
+ï¸ Factions & Power Groups
 
     The Circle of Eight  Act via agents; rarely direct
 
@@ -127,7 +127,7 @@ Greyhawk society is built on guilds, trade wealth, and political cunning. While 
 
     A cult tied to ancient Flan ruins has resurfaced in the sewers beneath Temple Row.
 
-️ Civic & Academic
+ï¸ Civic & Academic
 
     University of Magical Arts  Arcane research & education
 
@@ -141,7 +141,7 @@ Greyhawk society is built on guilds, trade wealth, and political cunning. While 
 
     Temple of Boccob, Zilchus, St. Cuthbert, and others (merge with above or treat as umbrella reference)
 
-️ Districts & Social Zones
+ï¸ Districts & Social Zones
 
     The High Quarter  Noble residences
 
@@ -156,6 +156,11 @@ Greyhawk society is built on guilds, trade wealth, and political cunning. While 
     Old Citadel  Crumbling remains, possibly haunted
 
     Castle Greyhawk Ruins  Just outside the city, a legendary dungeon
+
+
+
+
+
 
 
 

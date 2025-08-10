@@ -1,16 +1,23 @@
-###  **2. Arcos Narrativos Principais**
+﻿###  **2. Arcos Narrativos Principais**
 
-Cada página terá um resumo + link para as sessões associadas:
+Cada pÃ¡gina terÃ¡ um resumo + link para as sessÃµes associadas:
 
-- ** A Praga Verde (Fungo Alienígena)**
+- ** A Praga Verde (Fungo AlienÃ­gena)**
     
 - ** Culto de Nerull e o Mal Elemental**
     
-- ** A Máscara de Kai (Conspiração Nobre e Drow)**
+- ** A MÃ¡scara de Kai (ConspiraÃ§Ã£o Nobre e Drow)**
     
 - ** O Chamado de Titania (Arco Fey e Divino)**
     
-- ** Subtramas Urbanas (Ratos, Spa, Casino, Criança Perdida)**
+- ** Subtramas Urbanas (Ratos, Spa, Casino, CrianÃ§a Perdida)**
+
+
+
+
+
+
+
 
 
 

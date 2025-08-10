@@ -1,4 +1,4 @@
-# 🕳️ Undercity of Greyhawk
+# ️ Undercity of Greyhawk
 ![Undercity](undercity.png)
 
 | Português | English |
@@ -11,6 +11,11 @@
 | **Habitantes** | **Inhabitants** |
 | - Derro<br>- Carniçais e espectros criados por rituais quebrados<br>- Magos fugidos<br>- Cultistas de Tharizdun, Vecna e outros<br>- Aberrações atraídas por vazamentos arcanos | - Derro enclaves<br>- Ghouls and wights animated by broken rituals<br>- Wizards hiding from debts or the Circle of Eight<br>- Cultists (Tharizdun, Vecna, and stranger things)<br>- Aberrations drawn to arcane leakage |
 | **Ameaças & Mistérios** | **Threats & Mysteries** |
-| - Obelisco negro com glifos que sussurram<br>- A entidade chamada **“O Arquivista”**, que troca memórias<br>- Gosma senciente com seguidores<br>- Portas trancadas com sigilo de Zagig — só abertas ao resolver enigmas em sonhos | - A black obelisk with whispering glyphs<br>- An entity known only as **“The Archivist”**, who trades memories<br>- A sentient ooze with cultist worshippers<br>- Locked doors with Zagig's sigil — solvable only in dreams |
+| - Obelisco negro com glifos que sussurram<br>- A entidade chamada **O Arquivista**, que troca memórias<br>- Gosma senciente com seguidores<br>- Portas trancadas com sigilo de Zagig  só abertas ao resolver enigmas em sonhos | - A black obelisk with whispering glyphs<br>- An entity known only as **The Archivist**, who trades memories<br>- A sentient ooze with cultist worshippers<br>- Locked doors with Zagig's sigil  solvable only in dreams |
 | **Uso no Jogo (TTRPG)** | **Gameplay Use (TTRPG)** |
 | O Subterrâneo é ideal para:<br>- Exploração urbana<br>- Conflitos políticos por acesso<br>- Mergulhos em lore antigo<br>- Horror e incursões planares | The Undercity is perfect for:<br>- Urban dungeon crawls<br>- Political conflict over access<br>- Ancient lore dives<br>- Horror and planar incursions |
+
+
+
+
+

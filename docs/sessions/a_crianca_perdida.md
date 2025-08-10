@@ -79,7 +79,7 @@
 - Acionam armadilha à entrada das ruínas; sobrevivem sem baixas.
 - Usam magia de área (fireball) e tática para avançar pela [cripta](cripta_das_sombras.md).
 - Confrontam e derrotam os bosses finais ([crypt_ruins.png](crypt_ruins.png)), resgatando [Aria](aria_greenbottle.md).
-- Encontram a misteriosa [Gema das Cinco Vozes](gema_das_cinco_vozes.md) (não identificada), entregam-na ao [Taberneiro](taberneiro.md).
+- Encontram a misteriosa [Gema das Cinco Vozes](gema_das_cinco_vozes.md) (não identificada), entregam-na ao [Taberneiro](o_taberneiro.md).
 
 ---
 
@@ -93,7 +93,13 @@
 ---
 
 [(Voltar a Aventuras / Back to Adventures)](dm/summary/aventuras.md)  
-[(Voltar à Página Inicial / Back to Home Page)](home.md)
+[(Voltar à Página Inicial / Back to Home Page)](index.md)
+
+
+
+
+
+
 
 
 

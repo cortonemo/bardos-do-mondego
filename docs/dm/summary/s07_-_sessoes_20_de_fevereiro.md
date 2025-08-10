@@ -18,3 +18,8 @@ Juntámos as 3 pedras numa caixa em cima de um altar e apareceu um feixe de luz 
 
 
 
+
+
+
+
+

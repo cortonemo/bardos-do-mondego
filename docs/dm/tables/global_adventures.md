@@ -1,4 +1,4 @@
-# Global Index of Adventures & Sessions
+﻿# Global Index of Adventures & Sessions
 
 ---
 
@@ -153,6 +153,11 @@
 | ...           | ...                 | ...      |
 
 ---
+
+
+
+
+
 
 
 
