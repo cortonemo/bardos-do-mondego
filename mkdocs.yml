@@ -4,7 +4,7 @@ site_author: Serelith
 
 docs_dir: docs
 site_dir: site
-strict: false
+strict: false          # keep false for deploys; run a separate strict lint in PRs
 
 theme:
   name: material
@@ -19,7 +19,7 @@ plugins:
   - gen-files:
       scripts:
         - scripts/gen_indexes.py
-  - embed_file
+  - embed_file          # requires mkdocs-embed-file-plugins
 
 markdown_extensions:
   - admonition
@@ -30,8 +30,10 @@ markdown_extensions:
   - def_list
   - pymdownx.details
   - pymdownx.superfences
-  - obsidian_media_mkdocs
-  - obsidian_callouts
+  - obsidian_media_mkdocs   # from obsidian-media
+  - obsidian_callouts       # from obsidian-callouts
 
 extra_css:
   - css/image-sizing.css
+# extra_javascript:
+#   - js/whatever.js
