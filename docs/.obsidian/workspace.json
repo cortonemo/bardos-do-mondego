@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "locations/free_city_of_greyhawk/free_city_of_greyhawk.md",
+                "file": "locations/free_city_of_greyhawk/quarters and locations/undercity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "free_city_of_greyhawk"
+              "title": "undercity"
             }
           }
         ],
@@ -183,17 +183,14 @@
   },
   "active": "3590b11b25449429",
   "lastOpenFiles": [
+    "locations/free_city_of_greyhawk/quarters and locations/universidade_arcana.md",
+    "locations/free_city_of_greyhawk/quarters and locations/undercity.md",
     "locations/free_city_of_greyhawk/greyhawk_114x135.png",
     "locations/free_city_of_greyhawk/free_city_of_greyhawk.md",
+    "locations/free_city_of_greyhawk/greyhawk.jpg",
     "locations/verbobonc/verbobonc.md",
-    "locations/free_city_of_greyhawk/quarters and locations/university_quarter.md",
-    "locations/free_city_of_greyhawk/quarters and locations/universidade_arcana.md",
-    "locations/free_city_of_greyhawk/quarters and locations/thieves_quarter.md",
-    "locations/free_city_of_greyhawk/quarters and locations/the_narrows.md",
-    "locations/free_city_of_greyhawk/quarters and locations/temple_row.md",
-    "locations/free_city_of_greyhawk/quarters and locations/temple_of_oghma.md",
-    "locations/free_city_of_greyhawk/quarters and locations/slum_quarter.md",
-    "locations/free_city_of_greyhawk/quarters and locations/ruin_sites_index.md",
+    "locations/verbobonc/verbobonc 1.md",
+    "locations/verbobonc/verbobonc_summary_bilingual.md",
     "locations/free_city_of_greyhawk/quarters and locations/rua_do_dragao_enferrujado.md",
     "locations/free_city_of_greyhawk/quarters and locations/river_quarter.md",
     "locations/free_city_of_greyhawk/quarters and locations/old_citadel.md",
@@ -209,6 +206,12 @@
     "locations/free_city_of_greyhawk/quarters and locations/castle_greyhawk_ruins.md",
     "locations/free_city_of_greyhawk/quarters and locations/bazaar_district.md",
     "locations/free_city_of_greyhawk/quarters and locations/artisans_quarter.md",
+    "dm/organizations/guilda_dos_ladroes.md",
+    "locations/free_city_of_greyhawk/quarters and locations/thieves_quarter.md",
+    "locations/dyvers/dyvers.md",
+    "locations/dorakaa/dorakaa.md",
+    "locations/dorakaa/city_of_dorakaa.png",
+    "locations/free_city_of_greyhawk/quarters and locations/university_quarter.md",
     "locations/free_city_of_greyhawk/quarters and locations",
     "locations/dorakaa/coat_of_arms_dorakaa.jpeg",
     "locations/dyvers/dyvers.jpg",
@@ -217,9 +220,6 @@
     "dm/adventures/ready/mapDM.png",
     "locations/greyhawk.jpg",
     "dm/adventures/ready/mapa_caminho.png",
-    "dm/adventures/ready/crypt_ruins.png",
-    "dm/adventures/ready/child_alert.png",
-    "dm/pc/pc_zeldris_varus_07.png",
     "images"
   ]
 }

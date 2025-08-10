@@ -1,24 +1,20 @@
-#  Rua do Dragão Enferrujado
+# Rua do Dragão Enferrujado / Rusted Dragon Alley
 
-Uma viela sinuosa e suja no River Quarter, conhecida por ser frequentada por aventureiros, informadores e criminosos de segunda categoria. O nome vem de uma escultura oxidada de um dragão sobre uma porta antiga, outrora uma taverna lendária.
+| Português | English |
+|-----------|---------|
+| Uma viela sinuosa e suja no **River Quarter**, conhecida por ser frequentada por aventureiros, informadores e criminosos de segunda categoria. O nome vem de uma escultura oxidada de um dragão sobre uma porta antiga, outrora uma taverna lendária. | A winding and grimy alley in the **River Quarter**, known for being frequented by adventurers, informants, and second-rate criminals. Its name comes from a rusted dragon sculpture above an old door, once a legendary tavern. |
 
-##  Função na Cidade
+## Função na Cidade / Function in the City
 
-- Local de encontros secretos
-- Contratação de trabalhos obscuros
-- Escapadela de patrulhas ou espiões
+| Português | English |
+|-----------|---------|
+| - Local de encontros secretos<br>- Contratação de trabalhos obscuros<br>- Escapadela de patrulhas ou espiões | - Place for secret meetings<br>- Hiring for shady jobs<br>- Escape route from patrols or spies |
 
-##  Presenças conhecidas
+## Presenças Conhecidas / Known Presences
 
-- [Tomtha Beaknose]()
-- [Jullis e Merrot]() (por vezes)
-
-##  Ligações
-
-- [River Quarter]()
-- [Free City of Greyhawk]()
-
-
+| Português                                    | English                                      |
+| -------------------------------------------- | -------------------------------------------- |
+| - [Tomtha Beaknose](tomtha_beaknose.md) <br> | - [Tomtha Beaknose](tomtha_beaknose.md) <br> |
 
 
 

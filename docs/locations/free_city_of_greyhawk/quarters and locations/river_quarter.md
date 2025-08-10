@@ -9,7 +9,7 @@
 | **🗝 Ganchos / Rumores:**<br> - Carga misteriosa chegou de noite sob proteção armada<br> - Navio desapareceu após atracar                                                                                                  | **🗝 Hooks / Rumors:**<br> - Mysterious cargo arrived at night under armed guard<br> - Ship vanished after docking                                                                                     |
 | **📌 Pontos de Interesse:**<br> - Doca Leste e Mercado de Peixe<br> - [Rua do Dragão Enferrujado](rua_do_dragao_enferrujado.md) — antro de aventureiros e informadores<br> - Tabernas: O Tambor Partilhado, Boca da Enguia | **📌 Points of Interest:**<br> - East Dock and Fish Market<br> - [Rusty Dragon Street](rua_do_dragao_enferrujado.md) — den of adventurers and informants<br> - Taverns: The Shared Drum, The Eel’s Maw |
 | **⚠️ Perigos:**<br> - Batedores de carteiras, esquemas de contrabando e criaturas vindas do rio não são incomuns.<br> - Mas é também onde se encontram oportunidades valiosas para quem arrisca.                           | **⚠️ Dangers:**<br> - Pickpockets, smuggling schemes, and river-born creatures are not uncommon.<br> - Yet valuable opportunities await those who take risks.                                          |
-| **📎 Ligações:**<br> - [Cidade Livre de Greyhawk](free_city_of_greyhawk.md)<br> - [Tomtha Beaknose](tomtha_beaknose.md)<br> - [The Company](the_company.md)                                                                | **📎 Connections:**<br> - [Free City of Greyhawk](free_city_of_greyhawk.md)<br> - [Tomtha Beaknose](tomtha_beaknose.md)<br> - [The Company](the_company.md)                                            |
+
 
 
 
