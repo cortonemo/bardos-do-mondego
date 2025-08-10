@@ -11,3 +11,4 @@ pymdown-extensions
 mkdocs-obsidian-bridge
 obsidian-media          # for obsidian_media_mkdocs
 obsidian-callouts       # for obsidian_callouts
+beautifulsoup4==4.11.2
