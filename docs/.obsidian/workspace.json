@@ -11,14 +11,12 @@
             "id": "1cd8ed2262017592",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "dm/pc/pc_zeldris_varus.md",
-                "mode": "source",
-                "source": false
+                "file": "monsters/zombie.jpeg"
               },
-              "icon": "lucide-file",
-              "title": "pc_zeldris_varus"
+              "icon": "lucide-image",
+              "title": "zombie"
             }
           }
         ]
@@ -170,11 +168,20 @@
   },
   "active": "5308e40d12e4e245",
   "lastOpenFiles": [
+    "images/zombie.md",
+    "monsters/zombie.jpeg",
+    "index.md",
+    "pc/grixmolah.png.md",
+    "images",
+    "dm/gm.md",
+    "pc/pc_asinius.md",
+    "pc/pc_arkos_vasell.md",
+    "loot/espada_mais_um.md",
+    "dm/pc/pc_zeldris_varus.md",
     "dm/pc/wagner.md",
     "dm/npc/ustrax.md",
     "dm/pc/ustrax.md",
     "dm/pc/varus_zeldris.md",
-    "dm/pc/pc_zeldris_varus.md",
     "dm/pc/pc_wandering_sage.md",
     "dm/pc/wandering_sage.md",
     "dm/pc/pc_raylahn.md",
@@ -189,20 +196,12 @@
     "dm/pc/vaunia.md",
     "dm/pc/pc_valto.md",
     "dm/pc/pc_ustrax.md",
-    "dm/pc/pc_usopp.md",
-    "dm/pc/usopp.md",
-    "dm/pc/pc_ulma.md",
-    "dm/pc/ulma.md",
-    "dm/pc/pc_triss_merrill.md",
-    "dm/pc/triss.md",
-    "dm/npc/thoren.md",
-    "dm/pc/pc_tabasco_de_lumeiros.md",
     "dm/images/pc_frederick_freddy_02.png",
     "dm/images/pc_frederick_freddy_01.png",
     "dm/images/pc_lucien_02.png",
     "dm/images/pc_lucien_01.png",
     "dm/images/pc_arkos_vasell.png",
     "dm/images/pc_bok_thunderfist.png",
-    "dm/images/638736718981177990.jpeg"
+    "dm/monsters/zombi.jpeg"
   ]
 }
