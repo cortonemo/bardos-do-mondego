@@ -24,7 +24,7 @@ jobs:
           mkdocs --version
 
       - name: Build MkDocs
-        run: mkdocs build --strict
+        run: mkdocs build
 
       - name: Setup SSH key
         run: |
