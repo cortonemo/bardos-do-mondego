@@ -1,11 +1,12 @@
-mkdocs==1.6.1
-mkdocs-material==9.5.39
-mkdocs-awesome-pages-plugin==2.9.2
-mkdocs-section-index==0.3.9
-mkdocs-gen-files==0.7.0
-
-# Obsidian ecosystem
-mkdocs-obsidian-bridge==1.2.0
-obsidian-media==2.0.0          # provides obsidian_media_mkdocs
-obsidian-callouts==1.3.0       # only if you use obsidian_callouts in mkdocs.yml
-# mkdocs-embed-file-plugins==2.1.0  # uncomment only if you use 'embed_file'
+mkdocs
+mkdocs-material
+mkdocs-awesome-pages-plugin
+mkdocs-section-index
+mkdocs-gen-files
+mkdocs-embed-file-plugins
+mkdocs-obsidian-bridge
+obsidian-media
+obsidian-callouts
+pymdown-extensions
+# temporary deprecation silencer for embed_file with BS4:
+beautifulsoup4==4.11.2
