@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notable_figures/o_taberneiro.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "o_taberneiro"
+              "title": "index"
             }
           }
         ]
@@ -168,18 +168,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5308e40d12e4e245",
+  "active": "1cd8ed2262017592",
   "lastOpenFiles": [
-    "notable figures/taberneiro.md",
+    "images/greyhawk.jpg",
+    "index.md",
     "notable_figures/o_taberneiro.md",
+    "notable figures/taberneiro.md",
     "npc/o_taberneiro.md",
     "dm/adventures/ready/s08_lago_umbra_cavaleiro_sombras_ready.md",
     "locations/dyvers.md",
     "images/city_of_dorakaa.png",
     "locations/dorakaa.md",
     "locations/clerksburg.md",
-    "images/greyhawk.jpg",
-    "index.md",
     "locations/mapa_da_cidade_de_greyhawk.md",
     "greyhawk.jpg",
     "images/greyhawk_114x135.png",
@@ -199,7 +199,6 @@
     "npc/mistress_lyra_quil.md",
     "locations/thieves_quarter.md",
     "locations/river_quarter.md",
-    "npc/tomtha_beaknose.md",
     "images/portrait_tomtha_beaknose.png",
     "dm/images/pc_wandering_sage.png",
     "images/portrait_mistress_lyra_quil.png",
