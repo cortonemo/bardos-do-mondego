@@ -7,11 +7,11 @@
 
 ### Imagens & Mapas
 
-- ![Cartaz de Pessoa Desaparecida](images/missing_person.png)
-- ![Alerta de Criança Desaparecida](images/child_alert.png)
-- ![Mapa desenhado por Aria (diário)](images/mapa_caminho.png)
-- ![Mapa da Cripta para jogadores](images/crypt_ruins.png)
-- ![Mapa DM com áreas, monstros e itens](images/mapDM.png)
+- ![Cartaz de Pessoa Desaparecida](missing_person.png)
+- ![Alerta de Criança Desaparecida](child_alert.png)
+- ![Mapa desenhado por Aria (diário)](mapa_caminho.png)
+- ![Mapa da Cripta para jogadores](crypt_ruins.png)
+- ![Mapa DM com áreas, monstros e itens](mapDM.png)
 
 ---
 
@@ -25,11 +25,11 @@
 
 ### Personagens Jogadoras (PCs)
 
-- [Markus Grimm](markus_grimm.md)
-- [Raylahn](raylahn.md)
-- [Bok Thunderfist](bok_thunderfist.md)
-- [Drayl Barash](pc_drayl_barash..md)
-- [Wagner](wagner.md)
+- [Markus Grimm](pc_markus_grimm.md)
+- [Raylahn](pc_raylahn.md)
+- [Bok Thunderfist](pc_bok_thunderfist.md)
+- [Drayl Bharash](pc_drayl_bharash.md)
+- [Wagner](pc_wagner.md)
 
 ---
 
@@ -40,7 +40,7 @@
 - [Eliza Greenbottle](eliza_greenbottle.md): Mãe, herbalista, incansável na busca pela filha.
 - [Finn Greenbottle](finn_greenbottle.md): Irmão de Aria, 14 anos, olhar determinado, dá pistas cruciais.
 - [Guarda da Cidade](guarda_da_cidade.md): Confirma a saída de Aria pelo portão norte ao entardecer.
-- [O Taberneiro](taberneiro.md): Figura de contacto e rumores.
+- [O Taberneiro](o_taberneiro.md): Figura de contacto e rumores.
 - Inimigos das ruínas: [Armadura Animada](armadura_animada.md), [Ghast](ghast.md), [Ghoul](ghoul.md), [Zombie](zombie.md), [Enxame de Morcegos](enxame_de_morcegos.md), [Criatura das Sombras](criatura_das_sombras.md), [Espectro](spectral_wraith.md), [Enxame de Ratos](enxame_de_ratos.md).
 
 ---

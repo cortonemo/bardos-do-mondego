@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/adventures/s13_o_que_nos_espera_a_nova_cidade_summary.md",
-                "mode": "source",
+                "file": "README.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "s13_o_que_nos_espera_a_nova_cidade_summary"
+              "title": "README"
             }
           }
         ]
@@ -167,6 +167,29 @@
   },
   "active": "d98173a922739b6d",
   "lastOpenFiles": [
+    "docs/sessions/a_crianca_perdida.md",
+    "docs/monsters/enxame_de_ratos.md",
+    "docs/monsters/enxame_de_morcegos.md",
+    "markus_grimm.md",
+    "docs/pc/pc_wagner.md",
+    "docs/pc/pc_drayl_bharash.md",
+    "docs/pc/pc_drayl_bharash.png",
+    "docs/pc/pc_bok_thunderfist.md",
+    "docs/pc/pc_bok_thunderfist.png",
+    "docs/pc/pc_raylahn.jpg",
+    "docs/pc/pc_raylahn.md",
+    "docs/pc/pc_markus_grimm_01.png",
+    "docs/pc/pc_markus_grimm.md",
+    "docs/pc/pc_markus_grimm_02.png",
+    "docs/dm/adventures/ready/child_alert.png",
+    "docs/sessions/missing_person.png",
+    "docs/sessions/mapDM.png",
+    "docs/sessions/mapa_caminho.png",
+    "docs/sessions/crypt_ruins.png",
+    "docs/npc/o_taberneiro.md",
+    "taberneiro.md",
+    "docs/adventures/s09_baile_dos_high_fae_summary.md",
+    "docs/adventures/s13_o_que_nos_espera_a_nova_cidade_summary.md",
     "site/locations/free_city_of_greyhawk/quarters and locations/guildhall_of_wizardry/index.html",
     "site/locations/free_city_of_greyhawk/quarters and locations/guildhall_of_wizardry",
     "site/locations/free_city_of_greyhawk/quarters and locations/great_library/index.html",
@@ -177,17 +200,6 @@
     "site/locations/free_city_of_greyhawk/quarters and locations/foreign_quarter",
     "site/locations/free_city_of_greyhawk/quarters and locations/estalagem_da_companhia/index.html",
     "site/locations/free_city_of_greyhawk/quarters and locations/estalagem_da_companhia",
-    "site/locations/free_city_of_greyhawk/quarters and locations/clerksburg/index.html",
-    "site/locations/dyvers/dyvers.jpg",
-    "site/locations/dyvers/coat_of_arms_dyvers.jpeg",
-    "site/locations/dorakaa/coat_of_arms_dorakaa.jpeg",
-    "site/locations/dorakaa/city_of_dorakaa.png",
-    "site/locations/blank.png",
-    "site/dm/adventures/ready/missing_person.png",
-    "site/dm/adventures/ready/mapDM.png",
-    "site/dm/adventures/ready/mapa_caminho.png",
-    "site/dm/adventures/ready/crypt_ruins.png",
-    "site/dm/adventures/ready/child_alert.png",
     "docs/adventures/s08_bullywugs_e_basilisco_summary.md",
     "docs/adventures/s05_as_mascaras_da_morte_mistwood_summary.md",
     "docs/adventures/s01_os_fungos_do_bosque_summary.md",
@@ -200,18 +212,6 @@
     "docs/dm/rumors/rumores_da_mao_roubada.md",
     "docs/dm/rumors/boatos_sobre_piratas.md",
     "docs/dm/npc/aria_greenbottle.md",
-    "docs/dm/npc/baltigard.md",
-    "docs/dm/adventures/bullet/s01_os_fungos_do_bosque_bullet.md",
-    "docs/adventures/s05_diario_acolita_morvanya_summary.md",
-    "docs/dm/locations/taberna_machado_quebrado.md",
-    "docs/dm/locations/caverna_dos_dois_postes.md",
-    "docs/dm/locations/castelo_ruina_de_ebano.md",
-    "docs/dm/locations/cairn_mountains.md",
-    "docs/dm/locations/bosque_proximo.md",
-    "docs/dm/locations/blackstone.md",
-    "docs/dm/locations/altar_de_celestia.md",
-    "docs/dm/adventures/ready/s03_vale_do_vento_sombrio_ready.md",
-    "docs/dm/adventures/bullet/s03_emboscada_nas_margens_do_rio_neem_bullet.md",
-    "docs/adventures/s16_a_crianca_perdida_summary.md"
+    "docs/dm/npc/baltigard.md"
   ]
 }
