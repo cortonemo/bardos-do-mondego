@@ -1,11 +1,10 @@
 ﻿arrange:
   - index.md
   - adventures
-  - images
   - locations
   - loot
   - monsters
-  - notable figures
+  - notable_figures
   - npc
   - organizations
   - pc
