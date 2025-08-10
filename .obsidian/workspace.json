@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "docs/adventures/a_crianca_perdida.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -167,6 +167,12 @@
   },
   "active": "d98173a922739b6d",
   "lastOpenFiles": [
+    "docs/monsters/swarm_of_rats.md",
+    "docs/monsters/enxame_de_ratos.md",
+    "docs/monsters/swarm_of_bats.md",
+    "docs/monsters/swarm_of_rats.jpeg",
+    "docs/adventures/a_crianca_perdida.md",
+    "docs/monsters/swarm_of_bats.png",
     "docs/adventures/segredos_templo_scarlat.md",
     "docs/adventures/o_segredo_de_eribend.md",
     "docs/adventures/missing_person.png",
@@ -176,7 +182,6 @@
     "docs/adventures/child_alert.png",
     "docs/adventures/blank.png",
     "docs/adventures/a_trama_do_pantano.md",
-    "docs/adventures/a_crianca_perdida.md",
     "docs/dm/summary/s01_os_fungos_do_bosque.md",
     "docs/dm/summary/s01_-_sessao_01_-_riacho_(02-jan).md",
     "docs/dm/summary/s01_-_sessao_01__(02-jan).md",
@@ -186,17 +191,13 @@
     "docs/sessions/a_crianca_perdida.md",
     "taberneiro.md",
     "README.md",
-    "docs/monsters/enxame_de_ratos.md",
-    "docs/monsters/enxame_de_morcegos.md",
     "markus_grimm.md",
     "docs/pc/pc_wagner.md",
     "docs/pc/pc_drayl_bharash.md",
     "docs/pc/pc_drayl_bharash.png",
     "docs/pc/pc_bok_thunderfist.md",
     "docs/pc/pc_bok_thunderfist.png",
-    "docs/pc/pc_raylahn.jpg",
     "docs/pc/pc_raylahn.md",
-    "docs/pc/pc_markus_grimm_01.png",
     "docs/pc/pc_markus_grimm.md",
     "docs/npc/o_taberneiro.md",
     "docs/adventures/s09_baile_dos_high_fae_summary.md",
@@ -211,7 +212,6 @@
     "site/locations/free_city_of_greyhawk/quarters and locations/foreign_quarter",
     "site/locations/free_city_of_greyhawk/quarters and locations/estalagem_da_companhia/index.html",
     "site/locations/free_city_of_greyhawk/quarters and locations/estalagem_da_companhia",
-    "docs/adventures/s08_bullywugs_e_basilisco_summary.md",
-    "docs/adventures/s05_as_mascaras_da_morte_mistwood_summary.md"
+    "docs/adventures/s08_bullywugs_e_basilisco_summary.md"
   ]
 }
