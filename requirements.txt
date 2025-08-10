@@ -1,12 +1,13 @@
- mkdocs
- mkdocs-material
- mkdocs-roamlinks-plugin
- mkdocs-awesome-pages-plugin
- mkdocs-section-index
- mkdocs-gen-files
- mkdocs-embed-file-plugins
- pymdown-extensions
-+mkdocs-obsidian-bridge
-+obsidian-media          # gives you: obsidian_media_mkdocs
-+# if you enable callouts in mkdocs.yml, also add:
-+# obsidian-callouts
+mkdocs
+mkdocs-material
+mkdocs-roamlinks-plugin
+mkdocs-awesome-pages-plugin
+mkdocs-section-index
+mkdocs-gen-files
+mkdocs-embed-file-plugins
+pymdown-extensions
+
+# Plugins/extensions matching mkdocs.yml
+mkdocs-obsidian-bridge
+obsidian-media          # for obsidian_media_mkdocs
+obsidian-callouts       # for obsidian_callouts
