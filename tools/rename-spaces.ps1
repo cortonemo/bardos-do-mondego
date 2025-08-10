@@ -1,134 +1,108 @@
-# tools/rename-spaces.ps1
-# Rename files/folders under docs/: " " -> "_" and rewrite Markdown links accordingly.
-# Usage:
-#   .\tools\rename-spaces.ps1         # real run
-#   .\tools\rename-spaces.ps1 -DryRun # preview only
-
 param(
   [switch]$DryRun
 )
 
 $ErrorActionPreference = 'Stop'
 $root = Join-Path $PSScriptRoot '..\docs'
+if (-not (Test-Path $root)) { Write-Error "docs/ not found: $root"; exit 1 }
 
-if (-not (Test-Path $root)) {
-  Write-Error "docs/ not found: $root"
-  exit 1
+function RelPath([string]$abs) {
+  ((Resolve-Path -LiteralPath $abs).Path.Substring($root.Length + 1)) -replace '\\','/'
 }
 
-# 1) Build rename list (dirs first, deepest first; then files)
+# 1) Plan renames: directories (deepest first), then files
 $dirs  = Get-ChildItem $root -Recurse -Directory | Where-Object { $_.Name -match ' ' } |
          Sort-Object { $_.FullName.Split('\').Count } -Descending
 $files = Get-ChildItem $root -Recurse -File      | Where-Object { $_.Name -match ' ' }
 
 $plan = @()
-
-function New-Rel($abs) {
-  return (Resolve-Path -LiteralPath $abs).Path.Substring($root.Length + 1)
-}
-
 foreach ($d in $dirs) {
   $newName = $d.Name -replace ' ','_'
   if ($newName -eq $d.Name) { continue }
-  $target = Join-Path ($d.PSParentPath -replace '^Microsoft\.PowerShell\.Core\\FileSystem::','') $newName
+  $toAbs = Join-Path $d.Parent.FullName $newName
   $plan += [pscustomobject]@{
-    Type = 'dir'
-    FromAbs = $d.FullName
-    ToAbs   = $target
-    FromRel = (New-Rel $d.FullName)
-    ToRel   = (Join-Path (Split-Path $d.FullName -Parent | ForEach-Object { New-Rel $_ }) $newName)
+    Type   = 'dir'
+    FromAbs= $d.FullName
+    ToAbs  = $toAbs
+    FromRel= RelPath $d.FullName
+    ToRel  = RelPath $toAbs
   }
 }
 foreach ($f in $files) {
   $newName = $f.Name -replace ' ','_'
   if ($newName -eq $f.Name) { continue }
-  $target = Join-Path ($f.PSParentPath -replace '^Microsoft\.PowerShell\.Core\\FileSystem::','') $newName
+  $toAbs = Join-Path $f.Directory.FullName $newName
   $plan += [pscustomobject]@{
-    Type = 'file'
-    FromAbs = $f.FullName
-    ToAbs   = $target
-    FromRel = (New-Rel $f.FullName)
-    ToRel   = (Join-Path (Split-Path $f.FullName -Parent | ForEach-Object { New-Rel $_ }) $newName)
+    Type   = 'file'
+    FromAbs= $f.FullName
+    ToAbs  = $toAbs
+    FromRel= RelPath $f.FullName
+    ToRel  = RelPath $toAbs
   }
 }
 
 if ($plan.Count -eq 0) {
-  Write-Host "No names with spaces under $root."
-  exit 0
+  Write-Host "No names with spaces under $($root)."
+} else {
+  Write-Host "Planned renames:" -ForegroundColor Cyan
+  $plan | ForEach-Object { Write-Host "  $($_.Type): $($_.FromRel) -> $($_.ToRel)" }
 }
 
-Write-Host "Planned renames:" -ForegroundColor Cyan
-$plan | ForEach-Object { Write-Host "  $($_.Type): $($_.FromRel) -> $($_.ToRel)" }
-
-if ($DryRun) {
-  Write-Host "`nDry-run only. No renames performed." -ForegroundColor Yellow
-} else {
-  # 2) Apply renames (dirs first already ordered)
-  foreach ($item in $plan) {
-    if (Test-Path -LiteralPath $item.ToAbs) {
-      Write-Warning "Target exists, skipping: $($item.ToRel)"
+if (-not $DryRun -and $plan.Count -gt 0) {
+  foreach ($p in $plan) {
+    if (Test-Path -LiteralPath $p.ToAbs) {
+      Write-Warning "Target exists, skipping: $($p.ToRel)"
       continue
     }
-    Rename-Item -LiteralPath $item.FromAbs -NewName ([IO.Path]::GetFileName($item.ToAbs))
-    Write-Host "Renamed: $($item.FromRel) -> $($item.ToRel)"
+    Rename-Item -LiteralPath $p.FromAbs -NewName ([IO.Path]::GetFileName($p.ToAbs))
+    Write-Host "Renamed: $($p.FromRel) -> $($p.ToRel)"
   }
 }
 
-# 3) Rewrite Markdown links to use new names
-# Build map from old forward-slash rel to new forward-slash rel for stable matching
-$map = @{}
+# Build fast lookup maps for link rewriting (old segment -> new segment)
+# We only need segment-level replacement: "notable figures" -> "notable_figures"
+$segmentMap = @{}
 foreach ($p in $plan) {
-  $old = ($p.FromRel -replace '\\','/')
-  $new = ($p.ToRel   -replace '\\','/')
-  $map[$old] = $new
+  # map only the last segment (file or folder name)
+  $oldSeg = [IO.Path]::GetFileName($p.FromAbs)
+  $newSeg = [IO.Path]::GetFileName($p.ToAbs)
+  $segmentMap[$oldSeg] = $newSeg
 }
 
-# Helper: given a URL, replace any segment that matches renamed paths
-function Rewrite-Url($url, $fileDir) {
-  # Normalize slashes for matching
+function RewriteUrl([string]$url, [string]$fileDir) {
+  if ($url -match '^(https?://|mailto:|tel:|#)') { return $url }
+
+  # normalize slashes
   $u = $url -replace '\\','/'
 
-  # Absolute-ish (relative to docs root) if it resolves from root directly
-  $candidate = Join-Path $root ($u -replace '/','\')
-  $isRootish = Test-Path -LiteralPath $candidate
-
-  # Try exact map hit
-  foreach ($k in $map.Keys) {
-    # exact file hit
-    if ($u -ieq $k) { $u = $map[$k]; break }
-    # inside a renamed dir: k is a dir path, match as prefix
-    if ($k -match '/$') { continue }
-  }
-
-  # Also try prefix replacement for renamed directories
-  foreach ($k in $map.Keys) {
-    # treat directory keys by appending a trailing slash if it is a dir in plan
-    $isDir = (Split-Path $k -Leaf) -ne [IO.Path]::GetFileName($k)
-    $kDir = $k
-    if ($isDir -and (-not $k.EndsWith('/'))) { $kDir = $k + '' }
-  }
-
-  # Simpler, robust approach: replace each path **segment** with underscores version
-  $segments = $u.Split('/')
-  $segments = $segments | ForEach-Object { $_ -replace ' ','_' }
-  $u = [string]::Join('/', $segments)
-
-  # Re-relativize if URL looked rootish and now exists
-  if ($isRootish -or (Test-Path (Join-Path $root ($u -replace '/','\')))) {
-    $abs = Resolve-Path -LiteralPath (Join-Path $root ($u -replace '/','\')) -ErrorAction SilentlyContinue
-    if ($abs) {
-      $uriFile = [Uri]$abs.Path
-      $uriDir  = [Uri]("$fileDir\")
-      $rel     = [Uri]::UnescapeDataString($uriDir.MakeRelativeUri($uriFile).ToString()).Replace('\','/')
-      return $rel
+  # replace spaces -> underscores in each segment (and apply known segment renames)
+  $parts = $u.Split('/')
+  for ($i=0; $i -lt $parts.Length; $i++) {
+    $seg = $parts[$i]
+    if ($segmentMap.ContainsKey($seg)) {
+      $parts[$i] = $segmentMap[$seg]
+    } else {
+      $parts[$i] = $seg -replace ' ','_'
     }
   }
+  $u2 = [string]::Join('/', $parts)
 
-  return $u
+  # if it looks root-ish and exists, re-relativize from current file
+  $candidate = Join-Path $root ($u2 -replace '/','\')
+  $abs = Resolve-Path -LiteralPath $candidate -ErrorAction SilentlyContinue
+  if ($abs) {
+    $uriFile = [Uri]$abs.Path
+    $uriDir  = [Uri]("$fileDir\")
+    return [Uri]::UnescapeDataString($uriDir.MakeRelativeUri($uriFile).ToString()).Replace('\','/')
+  }
+
+  return $u2
 }
 
-[int]$changed = 0
+# 2) Rewrite links in all Markdown files
 $mdFiles = Get-ChildItem $root -Recurse -Filter *.md -File
+[int]$rewritten = 0
+
 foreach ($f in $mdFiles) {
   $text = Get-Content $f.FullName -Raw
   if ([string]::IsNullOrEmpty($text)) { continue }
@@ -140,21 +114,19 @@ foreach ($f in $mdFiles) {
   foreach ($m in [regex]::Matches($text, $pat)) {
     $prefix = $m.Groups[1].Value
     $url    = $m.Groups[2].Value
-    if ($url -match '^(https?://|mailto:|tel:|#)') { continue }
-    $newUrl = Rewrite-Url $url $dir
+    $newUrl = RewriteUrl $url $dir
     if ($newUrl -ne $url) {
       $text = $text.Replace($m.Value, "$prefix($newUrl)")
     }
   }
 
-  # Reference-style links: [id]: url
+  # Reference-style: [id]: url
   $patRef = '(^\s*\[[^\]]+\]:\s*)([^#\s]+)'
   $text = [regex]::Replace($text, $patRef, {
     param($m)
     $head = $m.Groups[1].Value
     $url  = $m.Groups[2].Value
-    if ($url -match '^(https?://|mailto:|tel:|#)') { return $m.Value }
-    $newUrl = Rewrite-Url $url $dir
+    $newUrl = RewriteUrl $url (Split-Path $f.FullName)
     if ($newUrl -ne $url) { return "$head$newUrl" }
     return $m.Value
   }, 'Multiline')
@@ -163,24 +135,23 @@ foreach ($f in $mdFiles) {
   $text = [regex]::Replace($text, '<([^:>\s][^>]*)>', {
     param($m)
     $url = $m.Groups[1].Value
-    if ($url -match '^(https?://|mailto:|tel:|#)') { return $m.Value }
-    $newUrl = Rewrite-Url $url $dir
+    $newUrl = RewriteUrl $url (Split-Path $f.FullName)
     if ($newUrl -ne $url) { return "<$newUrl>" }
     return $m.Value
   })
 
   if ($text -ne $orig) {
     if ($DryRun) {
-      Write-Host "Would rewrite links in: $(Resolve-Path $f.FullName -Relative)"
+      Write-Host "Would rewrite links in: $(RelPath $f.FullName)"
     } else {
-      Set-Content -Path $f.FullName -Value $text -Encoding UTF8
-      $changed++
+      [System.IO.File]::WriteAllText($f.FullName, [string]$text, [System.Text.Encoding]::UTF8)
+      $rewritten++
     }
   }
 }
 
-Write-Host ""
 if ($DryRun) {
-  Write-Host "Dry-run complete. Files that would change: $changed" -ForegroundColor Yellow
+  Write-Host "`nDry-run complete. Files that would change: $rewritten" -ForegroundColor Yellow
 } else {
-  Write-H
+  Write-Host "`nRenames done: $($plan.Count). Links rewritten in: $rewritten file(s)." -ForegroundColor Green
+}
