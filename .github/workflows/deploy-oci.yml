@@ -2,55 +2,33 @@ name: Deploy MkDocs to OCI
 
 on:
   push:
-    branches: [ main ]
+    branches: [main]
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
 
-    permissions:
-      contents: read
-
-    env:
-      RSYNC_PATH: /usr/bin/rsync
-
     steps:
-      - name: Checkout
+      - name: Checkout repo
         uses: actions/checkout@v4
 
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'   # obsidian-media needs >=3.10
-
-      - name: Cache pip
-        uses: actions/cache@v4
-        with:
-          path: ~/.cache/pip
-          key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
-          restore-keys: |
-            ${{ runner.os }}-pip-
+          python-version: '3.11'   # obsidian-media needs >= 3.10
 
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
           mkdocs --version
-          python -c "import mkdocs; print('mkdocs OK')"
 
-      - name: Build MkDocs (strict)
+      - name: Build MkDocs
         run: mkdocs build --strict
 
-      - name: Upload site artifact (optional)
-        uses: actions/upload-artifact@v4
-        with:
-          name: site
-          path: site
-
       - name: Setup SSH key
-        if: success()
         run: |
-          install -m 700 -d ~/.ssh
+          mkdir -p ~/.ssh
           printf "%s" "${{ secrets.OCI_SSH_KEY }}" > ~/.ssh/id_rsa
           chmod 600 ~/.ssh/id_rsa
           ssh-keyscan -H "${{ secrets.OCI_HOST }}" >> ~/.ssh/known_hosts
@@ -60,15 +38,10 @@ jobs:
 
       - name: Check rsync path and version
         run: |
-          which rsync || true
+          which rsync
           echo "$PATH"
           rsync --version
 
       - name: Deploy site with rsync
-        if: success()
         run: |
-          "${{ env.RSYNC_PATH }}" -avz --delete --rsync-path="${{ env.RSYNC_PATH }}" site/ "ubuntu@${{ secrets.OCI_HOST }}:/var/www/bardos/"
-
-      - name: Clean up SSH key
-        if: always()
-        run: rm -f ~/.ssh/id_rsa
+          /usr/bin/rsync -avz --delete --rsync-path=/usr/bin/rsync site/ ubuntu@${{ secrets.OCI_HOST }}:/var/www/bardos/
