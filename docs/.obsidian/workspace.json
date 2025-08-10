@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "locations/dyvers.md",
+                "file": "notable_figures/o_taberneiro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "dyvers"
+              "title": "o_taberneiro"
             }
           }
         ]
@@ -168,8 +168,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1cd8ed2262017592",
+  "active": "5308e40d12e4e245",
   "lastOpenFiles": [
+    "notable figures/taberneiro.md",
+    "notable_figures/o_taberneiro.md",
+    "npc/o_taberneiro.md",
+    "dm/adventures/ready/s08_lago_umbra_cavaleiro_sombras_ready.md",
+    "locations/dyvers.md",
     "images/city_of_dorakaa.png",
     "locations/dorakaa.md",
     "locations/clerksburg.md",
@@ -185,8 +190,6 @@
     "locations/free_city_of_greyhawk.md",
     "locations/foreign_quarter.md",
     "locations/estalagem_da_companhia.md",
-    "locations/dyvers.md",
-    "npc/o_taberneiro.md",
     "locations/city_market.md",
     "locations/castle_greyhawk_ruins.md",
     "locations/bazaar_district.md",
@@ -198,8 +201,6 @@
     "locations/river_quarter.md",
     "npc/tomtha_beaknose.md",
     "images/portrait_tomtha_beaknose.png",
-    "locations/slum_quarter.md",
-    "npc/wenla_frott.md",
     "dm/images/pc_wandering_sage.png",
     "images/portrait_mistress_lyra_quil.png",
     "dm/images/wandering_sage.png",
