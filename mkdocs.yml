@@ -14,6 +14,9 @@ plugins:
   - obsidian-bridge:
       invalid_link_attributes:
         - '.invalid'
+      ignore_schemes:
+        - app
+  
   - awesome-pages
   - section-index
   - gen-files:
