@@ -11,12 +11,14 @@
             "id": "1cd8ed2262017592",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "monsters/zombie.jpeg"
+                "file": "locations/dyvers.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "zombie"
+              "icon": "lucide-file",
+              "title": "dyvers"
             }
           }
         ]
@@ -76,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 506.5
   },
   "right": {
     "id": "f99aecbc12102069",
@@ -166,42 +168,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5308e40d12e4e245",
+  "active": "1cd8ed2262017592",
   "lastOpenFiles": [
-    "images/zombie.md",
-    "monsters/zombie.jpeg",
+    "images/city_of_dorakaa.png",
+    "locations/dorakaa.md",
+    "locations/clerksburg.md",
+    "images/greyhawk.jpg",
     "index.md",
-    "pc/grixmolah.png.md",
+    "locations/mapa_da_cidade_de_greyhawk.md",
+    "greyhawk.jpg",
+    "images/greyhawk_114x135.png",
+    "locations/high_quarter.md",
+    "locations/guildhall_of_wizardry.md",
+    "locations/great_library.md",
+    "locations/garden_quarter.md",
+    "locations/free_city_of_greyhawk.md",
+    "locations/foreign_quarter.md",
+    "locations/estalagem_da_companhia.md",
+    "locations/dyvers.md",
+    "npc/o_taberneiro.md",
+    "locations/city_market.md",
+    "locations/castle_greyhawk_ruins.md",
+    "locations/bazaar_district.md",
+    "locations/artisans_quarter.md",
+    "locations/temple_of_oghma.md",
+    "locations/university_quarter.md",
+    "npc/mistress_lyra_quil.md",
+    "locations/thieves_quarter.md",
+    "locations/river_quarter.md",
+    "npc/tomtha_beaknose.md",
+    "images/portrait_tomtha_beaknose.png",
+    "locations/slum_quarter.md",
+    "npc/wenla_frott.md",
+    "dm/images/pc_wandering_sage.png",
+    "images/portrait_mistress_lyra_quil.png",
+    "dm/images/wandering_sage.png",
+    "images/zombie.jpeg",
     "images",
-    "dm/gm.md",
-    "pc/pc_asinius.md",
-    "pc/pc_arkos_vasell.md",
-    "loot/espada_mais_um.md",
-    "dm/pc/pc_zeldris_varus.md",
-    "dm/pc/wagner.md",
-    "dm/npc/ustrax.md",
-    "dm/pc/ustrax.md",
-    "dm/pc/varus_zeldris.md",
-    "dm/pc/pc_wandering_sage.md",
-    "dm/pc/wandering_sage.md",
-    "dm/pc/pc_raylahn.md",
-    "dm/pc/raylahn.md",
-    "dm/pc/pc_sarvian_midlor.md",
-    "dm/pc/sarvien.md",
-    "dm/pc/pc_wagner.md",
-    "dm/pc/pc_vaunia_kolakiala.md",
-    "pc_vaunia.png.md",
-    "dm/images/pc_vaunia_kolakiala.jpg",
-    "vaunia.png.md",
-    "dm/pc/vaunia.md",
-    "dm/pc/pc_valto.md",
-    "dm/pc/pc_ustrax.md",
-    "dm/images/pc_frederick_freddy_02.png",
-    "dm/images/pc_frederick_freddy_01.png",
-    "dm/images/pc_lucien_02.png",
-    "dm/images/pc_lucien_01.png",
-    "dm/images/pc_arkos_vasell.png",
-    "dm/images/pc_bok_thunderfist.png",
-    "dm/monsters/zombi.jpeg"
+    "dm/images/pc_vaunia_kolakiala.jpg"
   ]
 }

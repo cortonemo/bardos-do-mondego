@@ -1,4 +1,7 @@
+
 # ️West Marches  Free City of Greyhawk
+
+[Greyhawk](greyhawk.jpg)
 
 Bem-vind@ à wiki da nossa campanha **West Marches**, com base na lendária **Free City of Greyhawk**.
 
@@ -8,7 +11,6 @@ Tudo o que encontrares aqui pode mudar com o tempo  a história é viva, e és p
 
 ---
 
-_Para ver todas as páginas, use o menu de navegação à esquerda._
 
 
 
