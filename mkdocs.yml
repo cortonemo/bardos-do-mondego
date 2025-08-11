@@ -8,6 +8,9 @@ strict: false          # keep false for deploys; run a separate strict lint in P
 
 theme:
   name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
 
 plugins:
   - search
