@@ -41,7 +41,6 @@ markdown_extensions:
 
 plugins:
   - search
-  - section-index
   - gen-files
   - embed_file
   - obsidian-bridge
