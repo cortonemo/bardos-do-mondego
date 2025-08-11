@@ -1,4 +1,4 @@
-# Bullywugs e o Basilisco  Resumo Detalhado
+# Bullywugs e o Basilisco
 
 | Português | English |
 |-----------|---------|

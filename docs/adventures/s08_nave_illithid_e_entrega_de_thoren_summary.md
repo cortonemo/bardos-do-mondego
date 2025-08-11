@@ -1,4 +1,4 @@
-# Nave Illithid e Entrega de Thoren  Resumo Detalhado
+# Nave Illithid e Entrega de Thoren
 
 | Português | English |
 |-----------|---------|

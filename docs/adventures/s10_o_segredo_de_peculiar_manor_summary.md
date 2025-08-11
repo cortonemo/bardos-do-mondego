@@ -1,4 +1,4 @@
-# O Segredo de Peculiar Manor  Resumo Detalhado
+# O Segredo de Peculiar Manor
 
 | Português | English |
 |-----------|---------|

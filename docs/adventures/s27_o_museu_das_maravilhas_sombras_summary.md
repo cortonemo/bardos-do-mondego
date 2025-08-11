@@ -1,4 +1,4 @@
-# Sessão 27 – O Museu das Maravilhas Sombras: Resumo Detalhado
+# O Museu das Maravilhas Sombras Part 1
 
 | Português | English |
 |-----------|---------|

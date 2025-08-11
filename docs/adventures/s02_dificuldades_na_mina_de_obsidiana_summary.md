@@ -1,4 +1,4 @@
-# Dificuldades na Mina de Obsidiana  Resumo Detalhado
+# Dificuldades na Mina de Obsidiana
 
 | Português | English |
 |-----------|---------|

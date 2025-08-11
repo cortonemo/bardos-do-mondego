@@ -1,4 +1,4 @@
-# Vale do Vento Sombrio: O Dragão e o Altar  Resumo Detalhado
+# Vale do Vento Sombrio: O Dragão e o Altar
 
 | Português | English |
 |-----------|---------|

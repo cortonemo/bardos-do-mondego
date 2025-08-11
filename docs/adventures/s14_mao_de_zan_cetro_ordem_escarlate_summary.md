@@ -1,6 +1,6 @@
 
 
-# Sessão 14  A Mão de Zan, o Cetro e a Ordem Escarlate: Resumo Detalhado
+# SA Mão de Zan, o Cetro e a Ordem Escarlate
 
 | Português | English |
 |-----------|---------|

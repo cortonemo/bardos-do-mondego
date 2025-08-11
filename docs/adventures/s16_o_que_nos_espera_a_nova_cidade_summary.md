@@ -1,4 +1,4 @@
-# Sessão 16  O que nos espera a nova cidade: Resumo Detalhado
+# O que nos espera a nova cidade
 
 | Português | English |
 |-----------|---------|

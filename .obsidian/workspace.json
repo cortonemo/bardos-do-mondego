@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/adventures/a_crianca_perdida.md",
-                "mode": "preview",
+                "file": "docs/adventures/s16_a_crianca_perdida_summary.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "a_crianca_perdida"
+              "title": "s16_a_crianca_perdida_summary"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 474.5
   },
   "right": {
     "id": "91e5495a9d011ac2",
@@ -167,41 +167,42 @@
   },
   "active": "d98173a922739b6d",
   "lastOpenFiles": [
-    "docs/monsters/swarm_of_rats.md",
-    "docs/monsters/enxame_de_ratos.md",
-    "docs/monsters/swarm_of_bats.md",
-    "docs/monsters/swarm_of_rats.jpeg",
     "docs/adventures/a_crianca_perdida.md",
+    "docs/adventures/s16_a_crianca_perdida_summary.md",
+    "docs/adventures/s29_a_expedicao_aos_esgotos_de_greyhawk_summary.md",
+    "docs/adventures/s28_o_museu_das_maravilhas_sombras_summary.md",
+    "docs/adventures/s27_o_museu_das_maravilhas_sombras_summary.md",
+    "docs/adventures/s22_a_sombra_do_tempo_perdido_summary.md",
+    "docs/adventures/s16_o_que_nos_espera_a_nova_cidade_summary.md",
+    "docs/adventures/s14_mao_de_zan_cetro_ordem_escarlate_summary.md",
+    "docs/adventures/s13_o_que_nos_espera_a_nova_cidade_summary.md",
+    "docs/adventures/s13_o_incendio_misterioso_summary.md",
+    "docs/adventures/s13_investigar_o_sul_da_cidade_de_greyhawk_summary.md",
+    "docs/adventures/s13_enfrentando_a_guilda_dos_ladroes_summary.md",
+    "docs/adventures/s13_dandan_e_os_40_kobolds_summary.md",
+    "docs/adventures/s12_prisao_e_resgate_de_dustin_summary.md",
+    "docs/adventures/s11_trilogia_tres_pedras_mindflayer_summary.md",
+    "docs/adventures/s11_prisao_e_redencao_summary.md",
+    "docs/adventures/s11_o_legado_de_krixis_summary.md",
+    "docs/adventures/s10_sombras_sobre_erybend_summary.md",
+    "docs/adventures/s10_sombras_de_iuz_summary.md",
+    "docs/adventures/s10_o_segredo_de_peculiar_manor_summary.md",
+    "docs/adventures/s10_a_rota_da_cia_sangue_e_ouro_no_pantano_summary.md",
+    "docs/adventures/s09_misterio_de_high_ery_summary.md",
+    "docs/adventures/s09_entrega_para_blackfair_manor_summary.md",
+    "docs/adventures/s09_baile_dos_high_fae_summary.md",
+    "docs/adventures/s08!!!!roubo_e_perseguicao_das_pedras_summary.md",
+    "docs/adventures/s08_nave_illithid_e_entrega_de_thoren_summary.md",
+    "docs/monsters/swarm_of_rats.jpeg",
     "docs/monsters/swarm_of_bats.png",
-    "docs/adventures/segredos_templo_scarlat.md",
-    "docs/adventures/o_segredo_de_eribend.md",
     "docs/adventures/missing_person.png",
     "docs/adventures/mapDM.png",
     "docs/adventures/mapa_caminho.png",
     "docs/adventures/crypt_ruins.png",
     "docs/adventures/child_alert.png",
     "docs/adventures/blank.png",
-    "docs/adventures/a_trama_do_pantano.md",
-    "docs/dm/summary/s01_os_fungos_do_bosque.md",
-    "docs/dm/summary/s01_-_sessao_01_-_riacho_(02-jan).md",
-    "docs/dm/summary/s01_-_sessao_01__(02-jan).md",
-    "docs/dm/sessions/s02_-_2025-01-09.md",
-    "docs/dm/sessions/s01_-_2025-01-02.md",
-    "docs/sessions/o_segredo_de_eribend.md",
-    "docs/sessions/a_crianca_perdida.md",
-    "taberneiro.md",
-    "README.md",
-    "markus_grimm.md",
-    "docs/pc/pc_wagner.md",
-    "docs/pc/pc_drayl_bharash.md",
     "docs/pc/pc_drayl_bharash.png",
-    "docs/pc/pc_bok_thunderfist.md",
     "docs/pc/pc_bok_thunderfist.png",
-    "docs/pc/pc_raylahn.md",
-    "docs/pc/pc_markus_grimm.md",
-    "docs/npc/o_taberneiro.md",
-    "docs/adventures/s09_baile_dos_high_fae_summary.md",
-    "docs/adventures/s13_o_que_nos_espera_a_nova_cidade_summary.md",
     "site/locations/free_city_of_greyhawk/quarters and locations/guildhall_of_wizardry/index.html",
     "site/locations/free_city_of_greyhawk/quarters and locations/guildhall_of_wizardry",
     "site/locations/free_city_of_greyhawk/quarters and locations/great_library/index.html",
@@ -211,7 +212,6 @@
     "site/locations/free_city_of_greyhawk/quarters and locations/foreign_quarter/index.html",
     "site/locations/free_city_of_greyhawk/quarters and locations/foreign_quarter",
     "site/locations/free_city_of_greyhawk/quarters and locations/estalagem_da_companhia/index.html",
-    "site/locations/free_city_of_greyhawk/quarters and locations/estalagem_da_companhia",
-    "docs/adventures/s08_bullywugs_e_basilisco_summary.md"
+    "site/locations/free_city_of_greyhawk/quarters and locations/estalagem_da_companhia"
   ]
 }

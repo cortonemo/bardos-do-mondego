@@ -1,4 +1,4 @@
-# Eribend, Kobolds & O Baile de Blackfair  Resumo Detalhado
+# Eribend, Kobolds & O Baile de Blackfair
 
 | Português | English |
 |-----------|---------|

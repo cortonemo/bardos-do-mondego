@@ -1,4 +1,4 @@
-# Sessão 13  Enfrentando a Guilda dos Ladrões: Resumo Detalhado
+#  Enfrentando a Guilda dos Ladrões
 
 | Português | English |
 |-----------|---------|

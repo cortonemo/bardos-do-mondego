@@ -1,4 +1,4 @@
-# Terceiro Templo: Basilisco & Feixe de Luz  Resumo Detalhado
+# Terceiro Templo: Basilisco & Feixe de Luz
 
 | Português | English |
 |-----------|---------|

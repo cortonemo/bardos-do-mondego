@@ -1,4 +1,4 @@
-# Grutas do Pântano: Bullywugs, Baltigard & o Basilisco  Resumo Detalhado
+# Grutas do Pântano: Bullywugs, Baltigard & o Basilisco
 
 | Português | English |
 |-----------|---------|

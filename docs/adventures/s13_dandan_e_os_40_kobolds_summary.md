@@ -1,4 +1,4 @@
-# Sessão 13  Dandan e os 40 Kobolds (03-abr): Resumo Detalhado
+# Dandan e os 40 Kobolds
 
 | Português | English |
 |-----------|---------|

@@ -1,4 +1,4 @@
-**# Sessão 28  O Museu das Maravilhas Sombras: Resumo Detalhado
+# O Museu das Maravilhas Sombras Part 2
 
 | Português | English |
 |-----------|---------|

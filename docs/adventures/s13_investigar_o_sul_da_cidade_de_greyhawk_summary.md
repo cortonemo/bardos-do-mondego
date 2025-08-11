@@ -1,4 +1,4 @@
-# # Sessão 13  Investigar o Sul da Cidade de Greyhawk: Resumo Detalhado
+# Investigar o Sul da Cidade de Greyhawk
 
 | Português | English |
 |-----------|---------|

@@ -1,4 +1,4 @@
-# Sessão 29  A Expedição aos Esgotos de Greyhawk: Resumo Detalhado
+# A Expedição aos Esgotos de Greyhawk
 
 | Português | English |
 |-----------|---------|

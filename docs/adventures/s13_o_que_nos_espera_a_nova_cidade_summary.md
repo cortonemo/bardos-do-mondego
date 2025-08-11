@@ -1,5 +1,5 @@
 
-# Sessão 13  O Que Nos Espera a Nova Cidade: Resumo Detalhado
+#  O Que Nos Espera a Nova Cidade
 
 | Português | English |
 |-----------|---------|

@@ -1,4 +1,4 @@
-# As Três Pedras e o Ritual  Resumo Detalhado
+# As Três Pedras e o Ritual
 
 | Português | English |
 |-----------|---------|

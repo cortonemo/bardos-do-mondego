@@ -1,5 +1,5 @@
 
-# Prisão e Redenção de Dustin — Resumo Detalhado
+# Prisão e Redenção de Dustin
 
 | Português | English |
 |-----------|---------|

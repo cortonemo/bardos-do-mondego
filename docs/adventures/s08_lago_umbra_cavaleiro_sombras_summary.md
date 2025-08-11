@@ -1,4 +1,4 @@
-# Lago Umbra & O Cavaleiro das Sombras  Resumo Detalhado
+# Lago Umbra & O Cavaleiro das Sombras
 
 | Português | English |
 |-----------|---------|

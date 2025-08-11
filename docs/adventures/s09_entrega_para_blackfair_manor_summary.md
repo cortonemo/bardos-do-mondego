@@ -1,4 +1,4 @@
-# Entrega para Blackfair Manor  Resumo Detalhado
+# Entrega para Blackfair Manor
 
 | Português | English |
 |-----------|---------|

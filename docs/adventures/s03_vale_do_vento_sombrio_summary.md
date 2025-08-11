@@ -1,4 +1,4 @@
-# Vale do Vento Sombrio  Resumo Detalhado
+# Vale do Vento Sombrio
 
 | Português | English |
 |-----------|---------|

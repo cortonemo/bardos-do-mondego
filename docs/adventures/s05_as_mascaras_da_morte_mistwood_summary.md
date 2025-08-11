@@ -1,4 +1,4 @@
-# As Máscaras da Morte em Mistwood  Resumo Detalhado
+# As Máscaras da Morte em Mistwood
 
 | Português | English |
 |-----------|---------|

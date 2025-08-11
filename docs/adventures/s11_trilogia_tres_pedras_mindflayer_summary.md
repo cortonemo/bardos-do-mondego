@@ -1,4 +1,4 @@
-# Companhia & as Três Pedras / Mind Flayers  Resumo Detalhado
+# Companhia & as Três Pedras / Mind Flayers
 
 | Português | English |
 |-----------|---------|

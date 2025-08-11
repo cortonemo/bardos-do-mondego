@@ -1,4 +1,4 @@
-# A Rota da Companhia Sangue & Ouro no Pântano  Resumo Detalhado
+# A Rota da Companhia Sangue & Ouro no Pântano
 
 | Português | English |
 |-----------|---------|

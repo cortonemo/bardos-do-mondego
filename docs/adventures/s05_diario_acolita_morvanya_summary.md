@@ -1,4 +1,4 @@
-# Diário da Acólita Morvanya  Resumo Detalhado
+# Diário da Acólita Morvanya
 
 | Português | English |
 |-----------|---------|

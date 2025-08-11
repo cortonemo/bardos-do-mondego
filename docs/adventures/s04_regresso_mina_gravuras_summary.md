@@ -1,4 +1,4 @@
-# Regresso à Mina: Descoberta das Gravuras  Resumo Detalhado
+# Regresso à Mina: Descoberta das Gravuras 
 
 | Português | English |
 |-----------|---------|

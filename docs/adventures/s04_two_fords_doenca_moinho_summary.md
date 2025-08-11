@@ -1,4 +1,4 @@
-# Two Fords: A Doença do Rio e o Moinho  Resumo Detalhado
+# Two Fords: A Doença do Rio e o Moinho
 
 | Português | English |
 |-----------|---------|

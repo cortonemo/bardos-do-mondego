@@ -1,4 +1,4 @@
-# Sessão 22  A Sombra do Tempo Perdido: Resumo Detalhado
+# A Sombra do Tempo Perdido
 
 | Português | English |
 |-----------|---------|

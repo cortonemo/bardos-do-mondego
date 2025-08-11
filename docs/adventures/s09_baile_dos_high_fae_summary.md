@@ -1,4 +1,4 @@
-# O Baile dos High Fae  Resumo Detalhado
+# O Baile dos High Fae
 
 | Português | English |
 |-----------|---------|

@@ -1,4 +1,4 @@
-# Sombras sobre Erybend  Resumo Detalhado
+# Sombras sobre Erybend
 
 | Português | English |
 |-----------|---------|

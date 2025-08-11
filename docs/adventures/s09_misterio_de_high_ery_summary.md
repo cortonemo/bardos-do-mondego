@@ -1,4 +1,4 @@
-# Mistério de High Ery  Resumo Detalhado
+# Mistério de High Ery
 
 | Português | English |
 |-----------|---------|

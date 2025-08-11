@@ -1,4 +1,4 @@
-# O Legado de Krixis, o Valente  Resumo Detalhado
+# O Legado de Krixis, o Valento
 
 | Português | English |
 |-----------|---------|

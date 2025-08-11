@@ -1,4 +1,4 @@
-# Emboscada nas Margens do Rio Neem  Resumo Detalhado
+# Emboscada nas Margens do Rio Neem
 
 | Português | English |
 |-----------|---------|
