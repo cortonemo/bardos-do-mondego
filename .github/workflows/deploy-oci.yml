@@ -28,7 +28,7 @@ jobs:
         run: python scripts/gen_nav.py
       # ------------------------------------
 
-      # MkDocs build will also auto-run gen_indexes.py via mkdocs-gen-files
+      # Build MkDocs with strict mode to catch broken links
       - name: Build MkDocs
         run: mkdocs build --strict
 
