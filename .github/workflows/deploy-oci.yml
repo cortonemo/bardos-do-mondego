@@ -15,7 +15,7 @@ jobs:
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'   # obsidian-media needs >= 3.10
+          python-version: '3.11'   # For mkdocs and plugins
 
       - name: Install dependencies
         run: |
@@ -23,13 +23,14 @@ jobs:
           pip install -r requirements.txt
           mkdocs --version
 
-      # --- New steps for auto-generation ---
+      # --- Auto-generate nav from docs/ ---
       - name: Generate nav menu
         run: python scripts/gen_nav.py
-      # --------------------------------------
+      # ------------------------------------
 
+      # MkDocs build will also auto-run gen_indexes.py via mkdocs-gen-files
       - name: Build MkDocs
-        run: mkdocs build
+        run: mkdocs build --strict
 
       - name: Setup SSH key
         run: |
