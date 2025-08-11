@@ -2,7 +2,7 @@
 
 Sessão: 1 | Data: 2025-08-02 | Fonte: s01.txt | Tags: item, livro, druid
 
-![Livro do Druida Infetado](docs/dm/loot/blank.png)
+![Livro do Druida Infetado](livro_druida.jpg)
 
 | English | Português |
 |---------|-----------|

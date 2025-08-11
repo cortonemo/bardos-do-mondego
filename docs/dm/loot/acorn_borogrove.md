@@ -2,7 +2,7 @@
 
 Sessão: 1 | Data: 2025-08-02 | Fonte: s01.txt | Tags: item, mágico, cura
 
-![Bolota de Borogrove](docs/dm/loot/blank.png)
+![Bolota de Borogrove](acorn_borogrove.jpg)
 
 | English | Português |
 |---------|-----------|

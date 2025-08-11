@@ -3,7 +3,7 @@
 
 Sessões: 11 | Datas: 2025-03-20 | Fontes: s11_-_2025-03-20.txt | Tags: loot, espada, mágico
 
-![Espada da Luz Velada](docs/dm/loot/blank.png)
+![Espada da Luz Velada](espada_luz_velada.png)
 
 | Português | English |
 |-----------|---------|
