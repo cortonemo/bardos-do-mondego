@@ -18,7 +18,7 @@ A Estalagem da Companhia é uma taverna mágica e itinerante que aparece em dife
 ## 📎 Ligações
 
 
-- [River Quarter](river_quarter) (aparição mais frequente)
+- [River Quarter](river_quarter.md) (aparição mais frequente)
 
 
 

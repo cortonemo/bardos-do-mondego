@@ -1,0 +1,1 @@
+![](https://melkot.com/locations/cogh/Maldin's-CoG-v2.gif)

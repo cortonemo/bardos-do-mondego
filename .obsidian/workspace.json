@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/locations/cities/free_city_of_greyhawk/quarters_and_locations/great_library.md",
+                "file": "docs/locations/cities/free_city_of_greyhawk/quarters_and_locations/cidade_de_greyhawk.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "great_library"
+              "title": "cidade_de_greyhawk"
             }
           }
         ]
@@ -167,6 +167,11 @@
   },
   "active": "d98173a922739b6d",
   "lastOpenFiles": [
+    "docs/locations/cities/free_city_of_greyhawk/quarters_and_locations/cidade_de_greyhawk.md",
+    "mapa_cidade_de_greyhawk.md",
+    "[Sister.md",
+    "docs/organizations/-/the_company.md",
+    "docs/locations/cities/free_city_of_greyhawk/quarters_and_locations/great_library.md",
     "docs/locations/cities/free_city_of_greyhawk/free_city_of_greyhawk.md",
     "docs/dm/-/pc/pc_wagner.md",
     "docs/dm/-/pc/pc_vaunia_kolakiala.md",
@@ -199,12 +204,7 @@
     "docs/dm/-/locations/peculiar_manor.md",
     "docs/dm/-/locations/peculiar_manor.png",
     "docs/dm/-/npc/baltigard.md",
-    "docs/dm/-/monsters/mimico.md",
-    "docs/dm/-/monsters/swarm_of_spiders.md",
     "docs/dm/-/monsters/swarm_of_spiders.png",
-    "docs/dm/-/monsters/giant_spider.md",
-    "docs/dm/-/monsters/gelatinous_cube.md",
-    "docs/dm/-/tables/adventures_summary.md",
     "tools/remove_lines_gui.py",
     "tools/remove_links_gui.py",
     "docs/dm/-/npc/mojibake_fix_log.txt",
