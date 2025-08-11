@@ -22,7 +22,6 @@ plugins:
       scripts:
         - scripts/gen_indexes.py    # generates folder index.md during build
   - obsidian-bridge                 # keep if you use it
-  - obsidian_media_mkdocs           # keep if you use it
   - obsidian_callouts               # keep if you use it
   # do NOT include awesome-pages or section-index in this mode
 

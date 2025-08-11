@@ -1,12 +1,9 @@
 mkdocs
 mkdocs-material
-mkdocs-awesome-pages-plugin
-mkdocs-section-index
 mkdocs-gen-files
 mkdocs-embed-file-plugins
 mkdocs-obsidian-bridge
-obsidian-media
 obsidian-callouts
 pymdown-extensions
-# temporary deprecation silencer for embed_file with BS4:
 beautifulsoup4==4.11.2
+
