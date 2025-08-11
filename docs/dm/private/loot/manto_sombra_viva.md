@@ -3,7 +3,7 @@
 
 Sessões: 16 | Datas: 2025-04-24 | Fontes: extra_relato_crianca_perdida.txt | Tags: loot, manto, sombra, mágico
 
-![Manto da Sombra Viva](docs/dm/loot/blank.png)
+![Manto da Sombra Viva](blank.png)
 
 | Português | English |
 |-----------|---------|

@@ -3,7 +3,7 @@
 
 Sessões: 6, 9 | Datas: 2025-02-13, 2025-03-06 | Fontes: s06_-_2025-02-13.txt, s09_-_2025-03-06.txt | Tags: localizacao, caverna
 
-![Caverna das Lágrimas de Cristal](docs/dm/locations/blank.png)
+![Caverna das Lágrimas de Cristal](blank.png)
 
 | Português | English |
 |-----------|---------|

@@ -3,7 +3,7 @@
 
 Sessão: 9 | Data: 2025-03-06 | Fontes: s09_-_2025-03-06.txt | Tags: aventura, vauria, montanha
 
-![O Mistério de Vauria](docs/dm/summary/blank.png)
+![O Mistério de Vauria](blank.png)
 
 | Português | English |
 |-----------|---------|

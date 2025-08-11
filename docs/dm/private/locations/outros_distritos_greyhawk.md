@@ -6,7 +6,7 @@ Sessões:
 
 Tags: localizacao, distrito
 
-![Outros Distritos de Greyhawk](docs/dm/locations/blank.png)
+![Outros Distritos de Greyhawk](blank.png)
 
 | English | Português |
 |---------|-----------|

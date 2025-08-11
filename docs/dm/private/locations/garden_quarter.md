@@ -10,7 +10,7 @@ Sessões:
 
 Tags: localizacao, distrito, cidade
 
-![Garden Quarter](docs/dm/locations/blank.png)
+![Garden Quarter](blank.png)
 
 | English | Português |
 |---------|-----------|

@@ -7,7 +7,7 @@ Sessões:
 
 Tags: npc, amiga, barbaro
 
-![Liwana](docs/dm/npc/blank.png)
+![Liwana](blank.png)
 
 | English | Português |
 |---------|-----------|

@@ -3,7 +3,7 @@
 
 Sessão: 14 | Data: 2025-04-10 | Fontes: s14_-_2025-04-10.txt | Tags: aventura, pessegueiro, resgate
 
-![Ameaça em Pessegueiro](docs/dm/summary/blank.png)
+![Ameaça em Pessegueiro](blank.png)
 
 | Português | English |
 |-----------|---------|
@@ -18,7 +18,7 @@ Sessão: 14 | Data: 2025-04-10 | Fontes: s14_-_2025-04-10.txt | Tags: aventura, 
 
 Sessão: 16 | Data: 2025-04-24 | Fontes: s16_-_2025-04-24.txt | Tags: aventura, templo, culto, scarlat
 
-![Segredos do Templo de Scarlat](docs/dm/summary/blank.png)
+![Segredos do Templo de Scarlat](blank.png)
 
 | Português | English |
 |-----------|---------|

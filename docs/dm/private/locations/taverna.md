@@ -23,7 +23,7 @@ Sessões:
 
 Tags: localizacao, base, magia
 
-![Taverna](docs/dm/locations/blank.png)
+![Taverna](blank.png)
 
 | English | Português |
 |---------|-----------|

@@ -6,7 +6,7 @@ Sessões:
 
 Tags: npc, taverneiro
 
-![Taverneiro do Refúgio](docs/dm/npc/blank.png)
+![Taverneiro do Refúgio](blank.png)
 
 | English | Português |
 |---------|-----------|

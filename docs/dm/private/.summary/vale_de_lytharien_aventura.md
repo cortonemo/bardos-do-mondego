@@ -3,7 +3,7 @@
 
 Sessão: 22 | Data: 2025-06-05 | Fontes: s22_-_2025-06-05.txt | Tags: aventura, vale, unicórnio, sagrado
 
-![O Vale de Lytharien](docs/dm/summary/blank.png)
+![O Vale de Lytharien](blank.png)
 
 | Português | English |
 |-----------|---------|

@@ -7,7 +7,7 @@ Sessões:
 
 Tags: npc, mentor, mago
 
-![Mestre Tolyn](docs/dm/npc/blank.png)
+![Mestre Tolyn](blank.png)
 
 | English | Português |
 |---------|-----------|

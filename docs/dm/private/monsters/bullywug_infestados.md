@@ -2,7 +2,7 @@
 
 Sessão: 1 | Data: 2025-08-02 | Fonte: s01.txt | Tags: criatura, inimigo, infestação
 
-![Bullywug Infestados](docs/dm/monsters/blank.png)
+![Bullywug Infestados](blank.png)
 
 | English | Português |
 |---------|-----------|

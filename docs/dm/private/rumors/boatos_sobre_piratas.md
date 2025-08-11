@@ -3,7 +3,7 @@
 
 Sessões: 29 | Datas: 2025-07-24 | Fontes: s29_-_2025-07-24.txt | Tags: rumor, piratas, greyhawk
 
-![Boatos sobre Piratas](docs/dm/rumors/blank.png)
+![Boatos sobre Piratas](blank.png)
 
 | Português | English |
 |-----------|---------|

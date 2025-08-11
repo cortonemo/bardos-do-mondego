@@ -9,7 +9,7 @@ Sessões:
 
 Tags: localizacao, museu, dungeon
 
-![Museu das Maravilhas](docs/dm/locations/blank.png)
+![Museu das Maravilhas](blank.png)
 
 | English | Português |
 |---------|-----------|

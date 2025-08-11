@@ -3,7 +3,7 @@
 
 Sessões: a confirmar | Datas: a confirmar | Fontes: (logs de sessões) | Tags: pc, feiticeiro | Jogador: (a confirmar)
 
-![Zahel](docs/dm/npc/blank.png)
+![Zahel](blank.png)
 
 | Português | English |
 |-----------|---------|

@@ -4,7 +4,7 @@
 
 Sessão: 2 | Data: (data não especificada) | Fonte: s02.txt | Tags: loot, gem
 
-![Large Topaz](docs/dm/loot/blank.png)
+![Large Topaz](blank.png)
 
 | English | Português |
 |---------|-----------|

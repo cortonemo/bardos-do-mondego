@@ -3,7 +3,7 @@
 
 Sessões: 14, 16 | Datas: 2025-04-10, 2025-04-24 | Fontes: s14_-_2025-04-10.txt, s16_-_2025-04-24.txt | Tags: rumor, culto, mistério
 
-![Rumores da Mão Roubada](docs/dm/rumors/blank.png)
+![Rumores da Mão Roubada](blank.png)
 
 | Português | English |
 |-----------|---------|

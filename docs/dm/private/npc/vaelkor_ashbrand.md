@@ -3,7 +3,7 @@
 
 Sessão: 3 | Data: 2025-04-18 | Fonte: s03.txt | Tags: npc, vilão, mago, culto elemental
 
-![Vaelkor Ashbrand](docs/dm/npc/blank.png)
+![Vaelkor Ashbrand](blank.png)
 
 | English | Português |
 |---------|-----------|

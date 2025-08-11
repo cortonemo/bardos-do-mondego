@@ -3,7 +3,7 @@
 
 Sessão: 8 | Data: 2025-02-27 | Fontes: s08_-_2025-02-27.txt | Tags: aventura, mirens_hallow, baile, nave
 
-![Intriga nas Ondas de Lo Reltarma](docs/dm/summary/blank.png)
+![Intriga nas Ondas de Lo Reltarma](blank.png)
 
 | Português | English |
 |-----------|---------|

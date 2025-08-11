@@ -3,7 +3,7 @@
 
 Sessões: 14 | Datas: 2025-04-10 | Fontes: s14_-_2025-04-10.txt | Tags: npc, cavaleiro, pessegueiro
 
-![Sir Gregor](docs/dm/npc/blank.png)
+![Sir Gregor](blank.png)
 
 | Português | English |
 |-----------|---------|

@@ -6,7 +6,7 @@ Sessões:
 
 Tags: npc, kobold, lider
 
-![Snikil Pescabrasa](docs/dm/npc/blank.png)
+![Snikil Pescabrasa](blank.png)
 
 | English | Português |
 |---------|-----------|

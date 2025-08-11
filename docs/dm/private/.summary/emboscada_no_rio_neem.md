@@ -3,7 +3,7 @@ z
 
 Sessão: 3 | Data: 2025-04-18 | Fonte: s03.txt | Tags: aventura, combate, goblins, kaldros_veynor
 
-![Emboscada nas Margens do Rio Neem](docs/dm/summary/blank.png)
+![Emboscada nas Margens do Rio Neem](blank.png)
 
 | English | Português |
 |---------|-----------|

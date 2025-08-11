@@ -3,7 +3,7 @@
 
 Sessão: 16 | Data: 2025-04-24 | Fontes: extra_relato_crianca_perdida.txt, s16_-_2025-04-24.txt | Tags: aventura, resgate, sombras, greenbottle
 
-![A Criança Perdida](docs/dm/summary/blank.png)
+![A Criança Perdida](blank.png)
 
 | Português | English |
 |-----------|---------|

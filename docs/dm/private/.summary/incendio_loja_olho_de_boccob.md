@@ -3,7 +3,7 @@
 
 Sessão: 13 | Data: 2025-03-13 | Fontes: s13_-_2025-03-13.txt | Tags: aventura, loja, intriga
 
-![Loja Olho de Boccob: Incêndio e Intriga](docs/dm/summary/blank.png)
+![Loja Olho de Boccob: Incêndio e Intriga](blank.png)
 
 | Português | English |
 |-----------|---------|

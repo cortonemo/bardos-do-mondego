@@ -3,7 +3,7 @@
 
 Sessões: 27, 28 | Datas: 2025-07-10, 2025-07-17 | Fontes: s27_-_2025-07-10.txt, s28_-_2025-07-17.txt | Tags: localizacao, museu
 
-![Museu das Maravilhas Naturais e Arcanas de Greyhawk](docs/dm/locations/blank.png)
+![Museu das Maravilhas Naturais e Arcanas de Greyhawk](blank.png)
 
 | Português | English |
 |-----------|---------|

@@ -2,7 +2,7 @@
 
 Sessão: 1 | Data: 2025-08-02 | Fonte: s01.txt | Tags: aventura, fungi, corrupção
 
-![Quest dos Fungos Alienígenas](docs/dm/summary/blank.png)
+![Quest dos Fungos Alienígenas](blank.png)
 
 | English | Português |
 |---------|-----------|

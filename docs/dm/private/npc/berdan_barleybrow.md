@@ -3,7 +3,7 @@
 
 Sessão: 3 | Data: 2025-04-18 | Fonte: s03.txt | Tags: npc, taberneiro, contacto
 
-![Berdan Barleybrow](docs/dm/npc/blank.png)
+![Berdan Barleybrow](blank.png)
 
 | English | Português |
 |---------|-----------|

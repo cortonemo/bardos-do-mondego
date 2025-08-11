@@ -4,7 +4,7 @@
 
 Sessão: 2 | Data: (data não especificada) | Fonte: s02.txt | Tags: npc, prefeito, clérigo, Blackstone
 
-![Kristryd Splitanvil](docs/dm/npc/blank.png)
+![Kristryd Splitanvil](blank.png)
 
 | English | Português |
 |---------|-----------|

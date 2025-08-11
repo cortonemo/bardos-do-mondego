@@ -3,7 +3,7 @@
 
 Sessões: a confirmar | Datas: a confirmar | Fontes: (logs de sessões) | Tags: pc, ladino | Jogador: (a confirmar)
 
-![Leo](docs/dm/pc/blank.png)
+![Leo](blank.png)
 
 | Português | English |
 |-----------|---------|

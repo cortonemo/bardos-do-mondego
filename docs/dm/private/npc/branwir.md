@@ -3,7 +3,7 @@
 
 Sessões: 1 | Datas: 2025-01-02 | Fontes: s01_-_2025-01-02.txt | Tags: npc, mendigo, eribend
 
-![Branwir](docs/dm/npc/blank.png)
+![Branwir](blank.png)
 
 | Português | English |
 |-----------|---------|

@@ -6,7 +6,7 @@ Sessões:
 
 Tags: npc, secundário
 
-![Outros NPCs](docs/dm/npc/blank.png)
+![Outros NPCs](blank.png)
 
 | English | Português |
 |---------|-----------|

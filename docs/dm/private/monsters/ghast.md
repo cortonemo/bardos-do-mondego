@@ -3,7 +3,7 @@
 
 Sessões: 16 | Datas: 2025-04-24 | Fontes: extra_relato_crianca_perdida.txt | Tags: monstro, morto-vivo
 
-![Ghast](docs/dm/monsters/blank.png)
+![Ghast](blank.png)
 
 | Português | English |
 |-----------|---------|

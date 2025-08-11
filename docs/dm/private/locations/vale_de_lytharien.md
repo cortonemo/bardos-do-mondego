@@ -3,7 +3,7 @@
 
 Sessões: 22 | Datas: 2025-06-05 | Fontes: s22_-_2025-06-05.txt | Tags: localizacao, vale, sagrado
 
-![Vale de Lytharien](docs/dm/locations/blank.png)
+![Vale de Lytharien](blank.png)
 
 | Português | English |
 |-----------|---------|

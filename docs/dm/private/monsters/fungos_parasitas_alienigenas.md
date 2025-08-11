@@ -2,7 +2,7 @@
 
 Sessão: 1 | Data: 2025-08-02 | Fonte: s01.txt | Tags: ameaça, ambiente, infestação
 
-![Fungos Parasitas Alienígenas](docs/dm/monsters/blank.png)
+![Fungos Parasitas Alienígenas](blank.png)
 
 | English | Português |
 |---------|-----------|

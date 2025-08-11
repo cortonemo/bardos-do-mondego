@@ -4,7 +4,7 @@
 
 Sessão: 2 | Data: (data não especificada) | Fonte: s02.txt | Tags: monstro
 
-![Rust Monster](docs/dm/monsters/blank.png)
+![Rust Monster](blank.png)
 
 | English | Português |
 |---------|-----------|

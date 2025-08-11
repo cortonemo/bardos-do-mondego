@@ -12,7 +12,7 @@ Sessões:
 
 Tags: localizacao, taberna
 
-![Taberna da Trixie](docs/dm/locations/blank.png)
+![Taberna da Trixie](blank.png)
 
 | English | Português |
 |---------|-----------|

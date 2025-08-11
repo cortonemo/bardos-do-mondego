@@ -3,7 +3,7 @@
 
 Sessões: Sessão Extra | Datas: 2025-04-24 | Fontes: extra_relato_crianca_perdida.txt | Tags: npc, guarda, greyhawk
 
-![Guarda da Cidade](docs/dm/npc/blank.png)
+![Guarda da Cidade](blank.png)
 
 | Português | English |
 |-----------|---------|

@@ -3,7 +3,7 @@
 
 Sessões: 5 | Datas: 2025-01-30 | Fontes: s05_-_2025-01-30.txt | Tags: localizacao, ilha, magia
 
-![Ilha da Lua Negra](docs/dm/locations/blank.png)
+![Ilha da Lua Negra](blank.png)
 
 | Português | English |
 |-----------|---------|

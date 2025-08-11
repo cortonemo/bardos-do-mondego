@@ -3,7 +3,7 @@
 
 Sessão: 3 | Data: 2025-04-18 | Fonte: s03.txt | Tags: aventura, culto, vaelkor_ashbrand, fungo, kobolds
 
-![Ritual do Fungo Elemental](docs/dm/summary/blank.png)
+![Ritual do Fungo Elemental](blank.png)
 
 | English | Português |
 |---------|-----------|

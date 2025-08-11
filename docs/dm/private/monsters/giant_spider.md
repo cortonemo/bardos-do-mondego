@@ -4,7 +4,7 @@
 
 Sessão: 2 | Data: (data não especificada) | Fonte: s02.txt | Tags: monstro, aracnídeo
 
-![Giant Spider](docs/dm/monsters/blank.png)
+![Giant Spider](blank.png)
 
 | English | Português |
 |---------|-----------|

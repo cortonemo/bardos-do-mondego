@@ -3,7 +3,7 @@
 
 Sessões: 27 | Datas: 2025-07-10 | Fontes: s27_-_2025-07-10.txt | Tags: npc, curandeira, greyhawk
 
-![Marielle Duns](docs/dm/npc/blank.png)
+![Marielle Duns](blank.png)
 
 | Português | English |
 |-----------|---------|

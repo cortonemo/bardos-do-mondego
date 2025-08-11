@@ -6,7 +6,7 @@ Sessões:
 
 Tags: npc, paladino
 
-![Zeibranth](docs/dm/npc/blank.png)
+![Zeibranth](blank.png)
 
 | English | Português |
 |---------|-----------|

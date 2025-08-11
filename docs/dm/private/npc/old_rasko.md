@@ -3,7 +3,7 @@
 
 Sessões: 9 | Datas: 2025-03-06 | Fontes: s09_-_2025-03-06.txt | Tags: npc, lojista, vauria
 
-![Old Rasko](docs/dm/npc/blank.png)
+![Old Rasko](blank.png)
 
 | Português | English |
 |-----------|---------|

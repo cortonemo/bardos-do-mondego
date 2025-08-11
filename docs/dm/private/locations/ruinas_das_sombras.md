@@ -3,7 +3,7 @@
 
 Sessões: 16 | Datas: 2025-04-24 | Fontes: extra_relato_crianca_perdida.txt | Tags: localizacao, ruinas, sombras
 
-![Ruínas das Sombras](docs/dm/locations/blank.png)
+![Ruínas das Sombras](blank.png)
 
 | Português | English |
 |-----------|---------|
