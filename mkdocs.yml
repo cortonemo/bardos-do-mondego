@@ -8,47 +8,47 @@ theme:
   name: material
   language: pt
   features:
-    - navigation.tabs
+    - navigation.instant
     - navigation.sections
-    - navigation.indexes
-
-plugins:
-  - search
-  - awesome-pages
-  - section-index
-  - gen-files:
-      scripts:
-        - scripts/gen_indexes.py
-  - embed_file
-  - obsidian-bridge
-  # Removed: obsidian_media_mkdocs
-  # Removed: obsidian_callouts
-  - mkdocs_gen_nav:
-      script: scripts/gen_nav.py
-  - tags
-  - section-index
-  - search
+    - navigation.expand
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.suggest
+    - content.code.copy
+  icon:
+    repo: fontawesome/brands/github
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+    - scheme: slate
+      primary: indigo
+      accent: indigo
 
 markdown_extensions:
   - admonition
   - toc:
       permalink: true
-  - footnotes
-  - tables
-  - def_list
   - pymdownx.details
   - pymdownx.superfences
-  - pymdownx.highlight
-  - pymdownx.tasklist:
-      custom_checkbox: true
-  - pymdownx.inlinehilite
-  - pymdownx.magiclink
-  - pymdownx.mark
-  - pymdownx.smartsymbols
-  - pymdownx.tilde
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+plugins:
+  - search
+  - awesome-pages
+  - section-index
+  - gen-files
+  - embed_file
+  - obsidian-bridge
 
 extra_css:
   - css/extra.css
 
-extra_javascript:
-  - js/extra.js
+nav:
+  # BEGIN AUTO_NAV
+  # END AUTO_NAV
