@@ -1,2 +1,16 @@
-﻿nav: 
-  - "🗝️ DM Access": index.md
+﻿title: "Dm"
+nav:
+  - "🔑 DM Access":
+      - "index.md"
+      - "Aventuras": "adventures/"
+      - "Localizações": "locations/"
+      - "Loot": "loot/"
+      - "Monstros": "monsters/"
+      - "Notable Figures": "notable_figures/"
+      - "NPCs": "npc/"
+      - "Organizações": "organizations/"
+      - "PCs": "pc/"
+      - "Rumores": "rumors/"
+      - "Sessions": "sessions/"
+      - "Tabelas": "tables/"
+

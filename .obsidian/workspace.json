@@ -167,6 +167,8 @@
   },
   "active": "8b60e7fd6b137849",
   "lastOpenFiles": [
+    "tools/gen_nav.py",
+    "tools/fix_mojibake.py",
     "docs/dm/tables/index.md",
     "docs/dm/sessions/index.md",
     "docs/dm/rumors/index.md",
@@ -192,7 +194,6 @@
     "docs/dm/pc/pc_flynn.md",
     "docs/dm/pc/pc_eldric_silvanus.md",
     "docs/dm/pc/pc_eirwen.md",
-    "docs/dm/npc/prysanna.md",
     "docs/dm/pc/pc_frederick_freddy_01.png",
     "docs/dm/pc/pc_arkos_vasell.png",
     "docs/dm/ - Copy.pages",
@@ -211,7 +212,6 @@
     "site/locations/free_city_of_greyhawk/quarters and locations/great_library/index.html",
     "site/locations/free_city_of_greyhawk/quarters and locations/great_library",
     "site/locations/free_city_of_greyhawk/quarters and locations/garden_quarter/index.html",
-    "site/locations/free_city_of_greyhawk/quarters and locations/garden_quarter",
-    "site/locations/free_city_of_greyhawk/quarters and locations/foreign_quarter/index.html"
+    "site/locations/free_city_of_greyhawk/quarters and locations/garden_quarter"
   ]
 }
