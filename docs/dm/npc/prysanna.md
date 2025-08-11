@@ -9,12 +9,9 @@ Tags: npc, fey, feiticeira
 
 ![Prysanna](docs/dm/npc/blank.png)
 
-| English | Português |
-|---------|-----------|
-| **Prysanna** is a dangerous fey sorceress who claims ownership of Dustin via a magical contract. She intervenes to save him from captivity. | **Prysanna** é uma feiticeira feérica perigosa que reivindica Dustin através de um contrato mágico. Intervém para o salvar do cativeiro. |
-
-[(Back to NPCs / Voltar a NPCs)](npcs_list.md)
-
+| Português                                                                                                                                | English                                                                                                                                     |
+| ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Prysanna** é uma feiticeira feérica perigosa que reivindica Dustin através de um contrato mágico. Intervém para o salvar do cativeiro. | **Prysanna** is a dangerous fey sorceress who claims ownership of Dustin via a magical contract. She intervenes to save him from captivity. |
 
 
 

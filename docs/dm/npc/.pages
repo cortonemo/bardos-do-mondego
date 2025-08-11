@@ -1,6 +1,6 @@
 nav:
-  - "**4. Personagens e NPCs**": personagens_e_npcs.md
   - Aria Greenbottle: aria_greenbottle.md
+  - Aurora: pc_aurora.md
   - Baltigard: baltigard.md
   - Bareth Lionmane: bareth_lionmane.md
   - Bartleby Quick: bartleby_quick.md
@@ -28,6 +28,8 @@ nav:
   - Klikz: klikz.md
   - Kobolds Infectados: kobolds_infectados.md
   - Kristryd Splitanvil: kristryd_splitanvil.md
+  - Lia: lia.md
+  - Lirael: lirael.md
   - Liwana: liwana.md
   - Luthor: luthor.md
   - Luthor Greystone: luthor_greystone.md

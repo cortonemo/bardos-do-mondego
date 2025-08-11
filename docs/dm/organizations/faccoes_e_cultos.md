@@ -1,4 +1,4 @@
-**5. Facções e Cultos**
+# Facções e Cultos**
 
 Cada uma com ideologia, líderes, zonas de operação e inimigos:
 
