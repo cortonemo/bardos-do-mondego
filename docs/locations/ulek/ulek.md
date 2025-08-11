@@ -1,5 +1,5 @@
 # Duchado de Ulek | Duchy of Ulek
-![Ulek](tools/blank.png)
+![Ulek](blank.png)
 
 | **Português (PT-PT)** | **English (EN-US)** |
 |----------------------|---------------------|

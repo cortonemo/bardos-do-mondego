@@ -1,5 +1,5 @@
 # Veluna | Veluna
-![Veluna](tools/blank.png)
+![Veluna](blank.png)
 
 | **Português (PT-PT)** | **English (EN-US)** |
 |------------------------|----------------------|
