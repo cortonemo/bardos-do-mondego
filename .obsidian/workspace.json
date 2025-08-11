@@ -167,6 +167,17 @@
   },
   "active": "8b60e7fd6b137849",
   "lastOpenFiles": [
+    "docs/index.md",
+    "docs/locations/verbobonc/index.md",
+    "docs/locations/veluna/index.md",
+    "docs/locations/ulek/index.md",
+    "docs/locations/free_city_of_greyhawk/index.md",
+    "docs/locations/dyvers/index.md",
+    "docs/locations/dorakaa/index.md",
+    "docs/dm/index.md",
+    "docs/css/index.md",
+    "docs/adventures/index.md",
+    "docs/----------/index.md",
     "scripts/gen_nav.py",
     "scripts/New Documento de Texto.txt",
     "docs/locations/free_city_of_greyhawk/quarters_and_locations/index.md",
@@ -189,16 +200,6 @@
     "docs/dm/pc/pc_seraphine_bloodmad.md",
     "docs/dm/pc/pc_sarvian_midlor.md",
     "docs/dm/pc/pc_raylahn.md",
-    "docs/dm/pc/pc_orianna.md",
-    "docs/dm/pc/pc_markus_grimm.md",
-    "docs/dm/npc/lirael.md",
-    "docs/dm/pc/pc_leo.md",
-    "docs/dm/pc/pc_kai.md",
-    "docs/dm/pc/pc_grix_molah.md",
-    "docs/dm/pc/pc_gauthak_vunakamune.md",
-    "docs/dm/pc/pc_friedrick_junsi.md",
-    "docs/dm/pc/pc_flynn.md",
-    "docs/dm/pc/pc_eldric_silvanus.md",
     "docs/dm/pc/pc_frederick_freddy_01.png",
     "docs/dm/pc/pc_arkos_vasell.png",
     "docs/dm/ - Copy.pages",
@@ -211,7 +212,6 @@
     "docs/adventures/mapDM.png",
     "docs/adventures/mapa_caminho.png",
     "docs/adventures/crypt_ruins.png",
-    "docs/adventures/child_alert.png",
-    "site/locations/free_city_of_greyhawk/quarters and locations/guildhall_of_wizardry/index.html"
+    "docs/adventures/child_alert.png"
   ]
 }
