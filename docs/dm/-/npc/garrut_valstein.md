@@ -1,6 +1,6 @@
 
 # Garruk Valstein
-![Garruk Valstein](garruk_valstein.png)
+![Garruk Valstein](blank.png)
 
 | Português | English |
 |-----------|---------|
