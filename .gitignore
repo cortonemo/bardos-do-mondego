@@ -1,0 +1,14 @@
+# Ignore auto-generated index files
+docs/adventures/index.md
+docs/css/index.md
+docs/dm/index.md
+docs/dm/**/index.md
+docs/locations/index.md
+docs/locations/**/index.md
+docs/loot/index.md
+docs/monsters/index.md
+docs/notable_figures/index.md
+docs/npc/index.md
+docs/organizations/index.md
+docs/pc/index.md
+docs/rumors/index.md
