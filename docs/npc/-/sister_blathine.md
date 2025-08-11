@@ -2,7 +2,7 @@
 
 ![Sister Blathine](portrait_sister_blathine_half-orc_oghman_archivist.png)
 
-**Location:** [Templo de Oghma](temple_of_oghma.md), [Free City of Greyhawk](citygreyhawk%201.md)  
+**Location:** [Templo de Oghma](temple_of_oghma.md), [Free City of Greyhawk](free_city_of_greyhawk.md)  
 **Role:** Archive Mistress, Clerical Records Division  
 **Race:** Half-Orc  
 **Class:** Cleric (Oghma), Archivist

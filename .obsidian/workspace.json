@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/locations/cities/free_city_of_greyhawk/quarters_and_locations/free_city_of_greyhawk.md",
-                "mode": "source",
+                "file": "docs/npc/-/sister_blathine.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "free_city_of_greyhawk"
+              "title": "sister_blathine"
             }
           },
           {
@@ -194,8 +194,8 @@
   },
   "active": "06a0fc2326ba429c",
   "lastOpenFiles": [
-    "docs/locations/cities/free_city_of_greyhawk/quarters_and_locations/citygreyhawk 1.md",
     "docs/locations/cities/free_city_of_greyhawk/quarters_and_locations/free_city_of_greyhawk.md",
+    "docs/locations/cities/free_city_of_greyhawk/quarters_and_locations/citygreyhawk 1.md",
     "docs/locations/cities/free_city_of_greyhawk/quarters_and_locations/greyhawk_114x135.png",
     "docs/locations/cities/free_city_of_greyhawk/greyhawk.jpg",
     "docs/locations/cities/free_city_of_greyhawk/quarters_and_locations/slum_quarter.md",
