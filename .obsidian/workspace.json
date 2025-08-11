@@ -167,6 +167,7 @@
   },
   "active": "8b60e7fd6b137849",
   "lastOpenFiles": [
+    "lter .bak  Remove-Item -Force",
     "New Documento de Texto.txt",
     "docs/index.md",
     "docs/locations/verbobonc/index.md",
@@ -204,7 +205,6 @@
     "docs/dm/pc/pc_arkos_vasell.png",
     "docs/dm/ - Copy.pages",
     "tools/create_mkdocs_md_index_and_pages_gui.py",
-    "tools/Unconfirmed 99872.crdownload",
     "docs/pc/pc_raylahn.jpg",
     "docs/monsters/swarm_of_rats.jpeg",
     "docs/monsters/swarm_of_bats.png",
