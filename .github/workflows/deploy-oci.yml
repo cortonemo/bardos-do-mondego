@@ -23,6 +23,14 @@ jobs:
           pip install -r requirements.txt
           mkdocs --version
 
+      # --- New steps for auto-generation ---
+      - name: Generate folder indexes
+        run: python scripts/gen_indexes.py
+
+      - name: Generate nav menu
+        run: python scripts/gen_nav.py
+      # --------------------------------------
+
       - name: Build MkDocs
         run: mkdocs build
 
