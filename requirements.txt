@@ -3,7 +3,6 @@ mkdocs-material
 mkdocs-gen-files
 mkdocs-embed-file-plugins
 mkdocs-obsidian-bridge
-obsidian-callouts
 pymdown-extensions
 beautifulsoup4==4.11.2
 
