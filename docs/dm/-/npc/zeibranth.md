@@ -12,23 +12,3 @@ Tags: npc, paladino
 |---------|-----------|
 | **Zeibranth** is a paladin member of the subterranean hunters, dedicated to the pursuit of fugitives. | **Zeibranth** é um paladino dos caçadores do subterrâneo, dedicado à perseguição de fugitivos. |
 
-[(Back to NPCs / Voltar a NPCs)](npcs_list.md)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

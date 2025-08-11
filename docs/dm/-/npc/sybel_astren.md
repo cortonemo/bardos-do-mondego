@@ -5,7 +5,7 @@ Sessões: 10, 11, 12 | Datas: 2025-03-13, 2025-03-20, 2025-03-27 | Fontes: s10_-
 
 ![Sybel Astren](blank.png)
 
-| Português | English |
-|-----------|---------|
-| **Descrição:** Paladina dedicada, parte dos Paladinos do Subterrâneo, destacou-se no apoio mágico e logístico durante o arco do resgate de [Dustin](pc_dustin..md). | **Description:** Dedicated paladin, part of the Underdark Paladins, stood out in magical and logistical support during the [Dustin](pc_dustin..md) rescue arc. |
+| Português                                                                                                                                                                 | English                                                                                                                                                              |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Descrição:** Paladina dedicada, parte dos Paladinos do Subterrâneo, destacou-se no apoio mágico e logístico durante o arco do resgate de [Dustin](pc_dustin_thorne.md). | **Description:** Dedicated paladin, part of the Underdark Paladins, stood out in magical and logistical support during the [Dustin](pc_dustin_thorne.md) rescue arc. |
 

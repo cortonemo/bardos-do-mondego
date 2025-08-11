@@ -8,4 +8,3 @@
 | **Classe:** [desconhecido] | **Class:** [unknown] |
 | **Origem:** [desconhecido] | **Background:** [unknown] |
 
-[(Voltar a PCs / Back to PCs)](pcs.md)  

@@ -1,13 +1,24 @@
 
 # Leo
 
-Sessões: a confirmar | Datas: a confirmar | Fontes: (logs de sessões) | Tags: pc, ladino | Jogador: (a confirmar)
+![Leo](pc_leo.jpeg)
 
-![Leo](blank.png)
+| **Português (PT-PT)** | **English (EN-US)** |
+|---|---|
+| **Jogador:** Nuno Santos | **Player:** Nuno Santos |
+| **Espécie:** Humano | **Species:** Human |
+| **Classe:** Druida | **Class:** Druid |
+| **Origem:** [por preencher] | **Background:** [to fill] |
+| **Alinhamento:** [por preencher] | **Alignment:** [to fill] |
+| **Nível:** 4 | **Level:** 4 |
+| **Sessões:** a confirmar | **Sessions:** to confirm |
+| **Presenças:** 3 | **Attendance:** 3 |
+| **Fonte:** (logs de sessões) | **Source:** (session logs) |
+| **Ficha DnD Beyond:** [Link](https://www.dndbeyond.com/characters/145620187) | **DnD Beyond Sheet:** [Link](https://www.dndbeyond.com/characters/145620187) |
+| **Contacto:** +351 916 234 286 | **Contact:** +351 916 234 286 |
 
-| Português | English |
-|-----------|---------|
-| **Descrição:** Ladino discreto e ágil, envolvido em missões de infiltração e aquisição de informação em Greyhawk e arredores. Conhecido pela astúcia e capacidade de escapar de situações perigosas. | **Description:** Stealthy and agile rogue, involved in infiltration and intelligence missions in Greyhawk and beyond. Known for cunning and ability to escape danger. |
+---
 
-[(Voltar a PCs / Back to PCs)](pcs.md)  
-
+| **Português (PT-PT)** | **English (EN-US)** |
+|---|---|
+| **Descrição:** Druida humano de nível 4. Mais detalhes por preencher. | **Description:** Level 4 human druid. Further details to be filled in. |

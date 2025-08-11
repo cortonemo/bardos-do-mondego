@@ -1,4 +1,5 @@
 # Grix'molah
+![[pc_grix_molah.jpg|200]]
 
 | Português | English |
 |-----------|---------|
