@@ -23,21 +23,18 @@ def build_nav_for_dir(directory: Path):
     return items
 
 def build_full_nav():
-    """Build full nav with public sections first, DM last."""
-    nav = []
+    nav = [{"Home": "index.md"}]  # add root
+    # public sections first
     for entry in sorted(DOCS_DIR.iterdir(), key=lambda p: p.name.lower()):
-        if entry.name.startswith(".") or not entry.is_dir():
+        if entry.name.startswith(".") or not entry.is_dir() or entry.name.lower() == "dm":
             continue
-        if entry.name.lower() == "dm":
-            continue  # handled last
         nav.append({entry.name: build_nav_for_dir(entry)})
-
-    # Handle DM section
+    # DM last, grouped
     dm_path = DOCS_DIR / "dm"
     if dm_path.exists():
         nav.append({"🔑 DM Access": build_nav_for_dir(dm_path)})
-
     return nav
+
 
 def insert_nav_into_mkdocs(nav):
     """Replace the AUTO_NAV block in mkdocs.yml with new nav."""
