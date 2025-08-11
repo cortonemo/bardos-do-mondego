@@ -167,6 +167,15 @@
   },
   "active": "d98173a922739b6d",
   "lastOpenFiles": [
+    "docs/dm/npc/index.md",
+    "docs/dm/notable_figures/index.md",
+    "docs/dm/monsters/index.md",
+    "docs/dm/loot/index.md",
+    "docs/dm/locations/index.md",
+    "docs/dm/adventures/summary/index.md",
+    "docs/dm/adventures/ready/index.md",
+    "docs/dm/adventures/bullet/index.md",
+    "docs/dm/adventures/index.md",
     "docs/dm/ - Copy.pages",
     "docs/rumors/index.md",
     "docs/pc/index.md",
@@ -188,14 +197,6 @@
     "docs/adventures/a_crianca_perdida.md",
     "docs/adventures/s29_a_expedicao_aos_esgotos_de_greyhawk_summary.md",
     "docs/adventures/s28_o_museu_das_maravilhas_sombras_summary.md",
-    "docs/adventures/s27_o_museu_das_maravilhas_sombras_summary.md",
-    "docs/adventures/s22_a_sombra_do_tempo_perdido_summary.md",
-    "docs/adventures/s16_o_que_nos_espera_a_nova_cidade_summary.md",
-    "docs/adventures/s14_mao_de_zan_cetro_ordem_escarlate_summary.md",
-    "docs/adventures/s13_o_que_nos_espera_a_nova_cidade_summary.md",
-    "docs/adventures/s13_o_incendio_misterioso_summary.md",
-    "docs/adventures/s13_investigar_o_sul_da_cidade_de_greyhawk_summary.md",
-    "docs/adventures/s13_enfrentando_a_guilda_dos_ladroes_summary.md",
     "docs/monsters/swarm_of_rats.jpeg",
     "docs/monsters/swarm_of_bats.png",
     "docs/adventures/missing_person.png",
@@ -211,7 +212,6 @@
     "site/locations/free_city_of_greyhawk/quarters and locations/great_library",
     "site/locations/free_city_of_greyhawk/quarters and locations/garden_quarter/index.html",
     "site/locations/free_city_of_greyhawk/quarters and locations/garden_quarter",
-    "site/locations/free_city_of_greyhawk/quarters and locations/foreign_quarter/index.html",
-    "site/locations/free_city_of_greyhawk/quarters and locations/foreign_quarter"
+    "site/locations/free_city_of_greyhawk/quarters and locations/foreign_quarter/index.html"
   ]
 }
