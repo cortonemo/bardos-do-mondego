@@ -38,10 +38,8 @@ markdown_extensions:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
-
 plugins:
   - search
-  - gen-files
   - embed_file
   - obsidian-bridge
 
@@ -51,4 +49,5 @@ extra_css:
 nav:
   # BEGIN AUTO_NAV
   # END AUTO_NAV
+
   
