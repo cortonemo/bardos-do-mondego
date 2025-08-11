@@ -14,8 +14,6 @@ Tags: localizacao, castelo, dungeon
 |---------|-----------|
 | **Ebony-Ruin Castle** is a half-ruined fortress in the swamps, used by zealots of the Order of Beltar as a prison and place of judgment. Its dungeons, cells, and cursed halls are infamous for torture and executions. | **O Castelo Ruina-de-Ebano** é uma fortaleza semi-arruinada nos pântanos, utilizada por fanáticos da Ordem de Beltar como prisão e local de julgamento. As suas masmorras, celas e corredores amaldiçoados são conhecidos por tortura e execuções. |
 
-[(Back to Locations / Voltar a Localizações)](localizacoes.md)
-
 
 
 

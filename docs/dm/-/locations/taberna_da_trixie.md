@@ -14,27 +14,7 @@ Tags: localizacao, taberna
 
 ![Taberna da Trixie](blank.png)
 
-| English | Português |
-|---------|-----------|
-| **Trixies Tavern** is a popular gathering spot for adventurers, criminals, and informants in Greyhawk. Known for its raucous crowds and connections to the citys underbelly. | **A Taberna da Trixie** é um ponto de encontro popular para aventureiros, criminosos e informadores em Greyhawk. Conhecida pelo ambiente agitado e ligações ao submundo da cidade. |
-
-[(Back to Locations / Voltar a Localizações)](localizacoes.md)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+| Português                                                                                                                                                                          | English                                                                                                                                                                      |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **A Taberna da Trixie** é um ponto de encontro popular para aventureiros, criminosos e informadores em Greyhawk. Conhecida pelo ambiente agitado e ligações ao submundo da cidade. | **Trixies Tavern** is a popular gathering spot for adventurers, criminals, and informants in Greyhawk. Known for its raucous crowds and connections to the citys underbelly. |
 

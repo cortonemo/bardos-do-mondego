@@ -9,27 +9,7 @@ Tags: localizacao, templo, kobold
 
 ![Templo Abandonado dos Kobolds](blank.png)
 
-| English | Português |
-|---------|-----------|
-| **The Abandoned Kobold Temple** is a haunted structure once dedicated to the legendary kobold hero Krixis. Now it is infested by sinister monsters and cursed magic. | **O Templo Abandonado dos Kobolds** é uma estrutura assombrada outrora dedicada ao herói kobold Krixis. Agora encontra-se infestado por monstros sinistros e magia amaldiçoada. |
-
-[(Back to Locations / Voltar a Localizações)](localizacoes.md)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+| Português                                                                                                                                                                       | English                                                                                                                                                              |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **O Templo Abandonado dos Kobolds** é uma estrutura assombrada outrora dedicada ao herói kobold Krixis. Agora encontra-se infestado por monstros sinistros e magia amaldiçoada. | **The Abandoned Kobold Temple** is a haunted structure once dedicated to the legendary kobold hero Krixis. Now it is infested by sinister monsters and cursed magic. |
 

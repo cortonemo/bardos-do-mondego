@@ -7,7 +7,7 @@ A Estalagem da Companhia é uma taverna mágica e itinerante que aparece em dife
 - Capaz de se deslocar magicamente (sem que ninguém saiba como)
 - Quartos personalizados para cada membro do grupo
 - Um quadro de contratos fixado junto à lareira
-- Presença constante do enigmático [[O Taberneiro]]
+- Presença constante do enigmático [O Taberneiro](o_taberneiro)
 
 ## 🧩 Mistérios
 
@@ -17,9 +17,8 @@ A Estalagem da Companhia é uma taverna mágica e itinerante que aparece em dife
 
 ## 📎 Ligações
 
-- [[The Company]]
-- [[River Quarter]] (aparição mais frequente)
-- [[Sessão 1 – A Chegada a Greyhawk]]
+
+- [River Quarter](river_quarter) (aparição mais frequente)
 
 
 
