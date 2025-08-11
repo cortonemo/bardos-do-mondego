@@ -1,2 +1,3 @@
-﻿nav:
-  - "🗝️ DM Access": index.md
+﻿title: "🗝️ DM Access"
+arrange:
+  - index.md
