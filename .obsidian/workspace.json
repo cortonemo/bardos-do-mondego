@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/dm/-/npc/sir_gregor.md",
+                "file": "docs/dm/-/tables/adventures_summary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "sir_gregor"
+              "title": "adventures_summary"
             }
           }
         ]
@@ -167,8 +167,17 @@
   },
   "active": "d98173a922739b6d",
   "lastOpenFiles": [
-    "docs/dm/-/npc/senhor_rodrik.md",
+    "docs/dm/-/rumors/blank.png",
+    "docs/dm/-/sessions/s02_-_2025-01-09.md",
+    "docs/dm/-/sessions/s01_-_2025-01-02.md",
+    "docs/dm/-/rumors/rumores_sobre_illithids.md",
+    "docs/dm/-/rumors/rumores_do_vale_lytharien.md",
+    "docs/dm/-/rumors/rumores_da_mao_roubada.md",
+    "docs/dm/-/rumors/palavras_arcanas.md",
+    "docs/dm/-/rumors/lendas_das_ruinas_sombras.md",
+    "docs/dm/-/rumors/boatos_sobre_piratas.md",
     "docs/dm/-/npc/sir_gregor.md",
+    "docs/dm/-/npc/senhor_rodrik.md",
     "docs/dm/-/npc/selene.md",
     "docs/dm/-/npc/raveth_xil_zyrl.md",
     "docs/dm/-/npc/pryssana.md",
@@ -185,15 +194,6 @@
     "docs/dm/-/locations/vale_do_vento_sombrio.md",
     "docs/dm/-/locations/vila_de_pessegueiro.md",
     "docs/dm/-/locations/vila_de_vauria.md",
-    "docs/dm/-/locations/vale_de_lytharien.md",
-    "docs/dm/-/locations/universidade_de_artes_magicas.md",
-    "docs/dm/-/locations/torre_do_eclipse.md",
-    "docs/dm/-/locations/templo_ordem_de_scarlat.md",
-    "docs/dm/-/locations/templo_abandonado_kobold.md",
-    "docs/dm/-/locations/taverna.md",
-    "docs/dm/-/locations/taberna_machado_quebrado.md",
-    "docs/dm/-/locations/taberna_golden_dragon.md",
-    "docs/dm/-/locations/taberna_da_trixie.md",
     "tools/remove_lines_gui.py",
     "tools/remove_links_gui.py",
     "docs/dm/-/adventures/ready/missing_person.png",
@@ -201,7 +201,6 @@
     "docs/dm/-/adventures/ready/mapa_caminho.png",
     "docs/dm/-/adventures/ready/crypt_ruins.png",
     "docs/dm/-/adventures/ready/child_alert.png",
-    "docs/dm/-/rumors/blank.png",
     "docs/dm/-/pc/pc_zeldris_varus_09.png",
     "docs/dm/-/pc/pc_zeldris_varus_08.png",
     "docs/dm/-/pc/pc_zeldris_varus_07.png",
