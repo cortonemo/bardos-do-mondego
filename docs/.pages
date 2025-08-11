@@ -1,13 +1,13 @@
-﻿arrange:
-  - index.md
-  - adventures
-  - locations
-  - loot
-  - monsters
-  - notable_figures
-  - npc
-  - organizations
-  - pc
-  - rumors
+﻿nav:
+  - Bemvindos a Campanha West Marches dos Bardos do Mondego: index.md
+  - Aventuras: adventures
+  - Locaçãoes: locations
+  - Loot: loot
+  - "Monstros & Inimigos": monsters
+  - "Personagens Notaveis": notable_figures
+  - "Personagensnão Jogadores": npc
+  - Organizações: organizations
+  - Personagens Jogadoras: pc
+  - O jornal da rua: rumors
   - ----------
-  - dm
+  - Área reservada aos DMs": dm
