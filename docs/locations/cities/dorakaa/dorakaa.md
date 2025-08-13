@@ -1,8 +1,9 @@
-# Dorakaa — "A Cidade das Caveiras" | "The City of Skulls"
+# Dorakaa "The City of Skulls"
+*Dorakaa "A Cidade das Caveiras"*
 
-*![Dorakaa](coat_of_arms_dorakaa.jpeg)
+*![Dorakaa|150](coat_of_arms_dorakaa.jpeg)
 
-*![Dorakaa](city_of_dorakaa.png)
+*![Dorakaa|400](city_of_dorakaa.png)
 
 
 

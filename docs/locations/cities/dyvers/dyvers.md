@@ -1,6 +1,7 @@
-# Dyvers — "Cidade dos Cem Portos" | "City of a Hundred Harbors"
-*![Dyvers](coat_of_arms_dyvers.jpeg)
-*![Dyvers](dyvers.jpg)
+# Dyvers "City of a Hundred Harbors"
+*Dyvers "Cidade dos Cem Portos"*
+*![Dyvers|150](coat_of_arms_dyvers.jpeg)
+*![Dyvers|400](dyvers.jpg)
 
 
 
