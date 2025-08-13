@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/locations/cities/free_city_of_greyhawk/free_city_of_greyhawk.md",
+                "file": "docs/locations/cities/free_city_of_greyhawk/river_quarter/estalagem_da_companhia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "free_city_of_greyhawk"
+              "title": "estalagem_da_companhia"
             }
           }
         ],
@@ -178,13 +178,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8b60e7fd6b137849",
+  "active": "7d33197f7cace1bb",
   "lastOpenFiles": [
+    "docs/dm/-/npc/o_taberneiro.md",
+    "docs/locations/cities/free_city_of_greyhawk/river_quarter/estalagem_da_companhia.md",
+    "docs/notable_figures/-/o_taberneiro.md",
+    "docs/npc/-/o_taberneiro.md",
+    "taberneiro_refugio.png.md",
+    "docs/locations/cities/free_city_of_greyhawk/free_city_of_greyhawk.md",
     "docs/locations/cities/free_city_of_greyhawk/thieves_quarter/thieves_quarter.md",
     "docs/locations/cities/free_city_of_greyhawk/thieves_quarter",
     "docs/locations/cities/free_city_of_greyhawk/slum_quarter/slum_quarter.md",
     "docs/locations/cities/free_city_of_greyhawk/slum_quarter",
-    "docs/locations/cities/free_city_of_greyhawk/river_quarter/estalagem_da_companhia.md",
     "docs/locations/cities/free_city_of_greyhawk/undercity/undercity.md",
     "docs/locations/cities/free_city_of_greyhawk/undercity/undercity.png",
     "docs/locations/cities/free_city_of_greyhawk/foreign_quarter/rua_do_dragao_enferrujado.md",
@@ -197,7 +202,6 @@
     "docs/locations/cities/free_city_of_greyhawk/garden_quarter",
     "docs/locations/cities/free_city_of_greyhawk/clerks_quarter",
     "docs/dm/-/tables/adventures_summary.md",
-    "docs/locations/cities/free_city_of_greyhawk/free_city_of_greyhawk.md",
     "docs/npc/-/sister_blathine.md",
     "docs/locations/cities/free_city_of_greyhawk/quarters_and_locations/citygreyhawk 1.md",
     "docs/locations/cities/free_city_of_greyhawk/greyhawk_114x135.png",
@@ -221,10 +225,6 @@
     "docs/dm/-/pc/pc_gauthak_vunakamune.jpeg",
     "docs/pc/-/pc_bok_thunderfist.md",
     "docs/dm/-/pc/pc_bok_thunderfist.md",
-    "docs/dm/-/npc/malrik_dorn.md",
-    "docs/dm/-/npc/sybel_astren.md",
-    "pc_dustin..md",
-    "docs/dm/-/npc/pryssana.md",
     "docs/dm/-/locations/blackfair_manor.png"
   ]
 }
