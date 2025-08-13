@@ -1,11 +1,11 @@
-### Taberneiro do Refúgio
-
+# Taberneiro do Refúgio
+![[portrait_o_taberneiro.png|250]]
 Sessão: 1 | Data: 2025-08-02 | Fonte: s01.txt | Tags: npc, taberna, mistério
 
 
-| English | Português |
-|---------|-----------|
-| **Description:** Middle-aged innkeeper with a hidden face and piercing eyes, overseeing all in the tavern. Holds secrets and sets the adventurers on their first quest. | **Descrição:** Estalajadeiro de meia-idade com rosto parcialmente oculto e olhos penetrantes, observa tudo na taberna. Guarda segredos e orienta os aventureiros na primeira missão. |
+| Português                                                                                                                                                                            | English                                                                                                                                                                 |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Descrição:** Estalajadeiro de meia-idade com rosto parcialmente oculto e olhos penetrantes, observa tudo na taberna. Guarda segredos e orienta os aventureiros na primeira missão. | **Description:** Middle-aged innkeeper with a hidden face and piercing eyes, overseeing all in the tavern. Holds secrets and sets the adventurers on their first quest. |
 
 
 
