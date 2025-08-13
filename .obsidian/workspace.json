@@ -91,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 474.5
+    "width": 955.5
   },
   "right": {
     "id": "91e5495a9d011ac2",
@@ -180,12 +180,13 @@
   },
   "active": "7d33197f7cace1bb",
   "lastOpenFiles": [
-    "docs/notable_figures/-/portrait_o_taberneiro.png",
+    "docs/notable_figures/-/o_taberneiro.png",
+    "docs/locations/cities/free_city_of_greyhawk/river_quarter/estalagem_da_companhia.md",
+    "docs/locations/cities/free_city_of_greyhawk/river_quarter/the_inn.jpeg",
+    "docs/notable_figures/-/o_taberneiro.md",
     "docs/dm/-/pc/portrait_o_taberneiro.png",
     "docs/dm/-/pc/the_inn.jpeg",
-    "docs/locations/cities/free_city_of_greyhawk/river_quarter/estalagem_da_companhia.md",
     "docs/dm/-/npc/o_taberneiro.md",
-    "docs/notable_figures/-/o_taberneiro.md",
     "docs/npc/-/o_taberneiro.md",
     "taberneiro_refugio.png.md",
     "docs/locations/cities/free_city_of_greyhawk/free_city_of_greyhawk.md",
@@ -221,9 +222,7 @@
     "docs/dm/-/pc/portrait_silfir.png",
     "docs/dm/-/pc/pc_lucien.md",
     "docs/dm/-/pc/pc_leo.md",
-    "docs/dm/-/pc/pc_leo.jpeg",
     "docs/dm/-/pc/pc_grix_molah.md",
-    "docs/dm/-/pc/pc_grix_molah.jpg",
     "docs/dm/-/pc/pc_gauthak_vunakamune.md",
     "docs/pc/-/pc_bok_thunderfist.md"
   ]
