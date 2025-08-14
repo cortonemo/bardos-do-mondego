@@ -2,17 +2,17 @@
 
 
 
-| Português | English |
-|-----------|---------|
-| **Jogador:** Ivo Simões | **Player:** Ivo Simões |
-| **Espécie:** desconhecido | **Species:** unknown |
-| **Classe:** Guerreiro | **Class:** Fighter |
-| **Origem:** desconhecido | **Background:** unknown |
-| **Nível:** 6 | **Level:** 6 |
+| Português                                                                    | English                                                                      |
+| ---------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| **Jogador:** Ivo Simões                                                      | **Player:** Ivo Simões                                                       |
+| **Espécie:** desconhecido                                                    | **Species:** unknown                                                         |
+| **Classe:** Guerreiro                                                        | **Class:** Fighter                                                           |
+| **Origem:** desconhecido                                                     | **Background:** unknown                                                      |
+| **Nível:** 6                                                                 | **Level:** 6                                                                 |
 | **Ficha D&D Beyond:** [Link](https://www.dndbeyond.com/characters/142689215) | **D&D Beyond Sheet:** [Link](https://www.dndbeyond.com/characters/142689215) |
-| **Sessões jogadas:** 5 | **Sessions played:** 5 |
-| **Sessões DM:** desconhecido | **DM Sessions:** unknown |
-| **Contacto:** +351 933 045 339 | **Contact:** +351 933 045 339 |
+| **Sessões jogadas:** 5                                                       | **Sessions played:** 5                                                       |
+| **Sessões DM:** desconhecido                                                 | **DM Sessions:** unknown                                                     |
+| **Contacto:** +351 933 045 339                                               | **Contact:** +351 933 045 339                                                |
 
 | Português | English |
 |-----------|---------|

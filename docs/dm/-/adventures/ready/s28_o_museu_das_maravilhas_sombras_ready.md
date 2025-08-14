@@ -1,5 +1,6 @@
 # Sessão 28  O Museu das Maravilhas Sombras: Ready to Play
 
+
 | Português | English |
 |-----------|---------|
 | **Introdução:** Grupo encontra Eirwen após portal; Mimic conduz pelos túneis secretos.<br><br>**Cena 1:** Libertação de Ketrich da cápsula mágica.<br>**Cena 2:** Combate tático para prender mezzoloth no tubo.<br>**Cena 3:** Encontro com robô multi-cabeças e fuga pelo buraco negro.<br>**Cena 4:** Revelações do Mimic e descanso rápido.<br>**Cena 5:** Exploração de laboratório: confronto verbal e combate com Darsen.<br>**Cena 6:** Confronto final contra Raelith (demónio) e uso do Crânio Abissal.<br>**Cena 7:** Saque à loja do museu, funeral dos peluches, saída para a taverna.<br> | **Introduction:** Group meets Eirwen after portal; Mimic leads through secret tunnels.<br><br>**Scene 1:** Freeing Ketrich from the magical capsule.<br>**Scene 2:** Tactical fight to trap mezzoloth in the tube.<br>**Scene 3:** Encounter with multi-headed robot and escape via black hole.<br>**Scene 4:** Mimics revelations and quick rest.<br>**Scene 5:** Laboratory exploration: verbal showdown and fight with Darsen.<br>**Scene 6:** Final battle against Raelith (demon) and use of Abyssal Skull.<br>**Scene 7:** Looting the museum shop, plushie funeral, return to tavern.<br> |

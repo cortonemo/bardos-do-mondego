@@ -3,17 +3,17 @@
 |![Eirwen](pc_eirwen.png) 
 
 
-| Português | English |
-|-----------|---------|
-| **Jogadora:** Aylin Mendes | **Player:** Aylin Mendes |
-| **Espécie:** Eladrin (Inverno) | **Species:** Eladrin (Winter) |
-| **Classe:** Ranger | **Class:** Ranger |
-| **Origem:** desconhecido | **Background:** unknown |
-| **Nível:** 4 | **Level:** 4 |
+| Português                                                                    | English                                                                      |
+| ---------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| **Jogadora:** Aylin Mendes                                                   | **Player:** Aylin Mendes                                                     |
+| **Espécie:** Eladrin (Inverno)                                               | **Species:** Eladrin (Winter)                                                |
+| **Classe:** Ranger                                                           | **Class:** Ranger                                                            |
+| **Origem:** desconhecido                                                     | **Background:** unknown                                                      |
+| **Nível:** 4                                                                 | **Level:** 4                                                                 |
 | **Ficha D&D Beyond:** [Link](https://www.dndbeyond.com/characters/147371208) | **D&D Beyond Sheet:** [Link](https://www.dndbeyond.com/characters/147371208) |
-| **Sessões jogadas:** 4 | **Sessions played:** 4 |
-| **Sessões DM:** 1 | **DM Sessions:** 1 |
-| **Contacto:** +351 961 762 194 | **Contact:** +351 961 762 194 |
+| **Sessões jogadas:** 4                                                       | **Sessions played:** 4                                                       |
+| **Sessões DM:** 1                                                            | **DM Sessions:** 1                                                           |
+| **Contacto:** +351 961 762 194                                               | **Contact:** +351 961 762 194                                                |
 
 | Português | English |
 |-----------|---------|

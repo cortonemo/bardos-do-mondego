@@ -2,16 +2,16 @@
 
 |![Bok Thunderfist](pc_bok_thunderfist.png) 
 
-| Português | English |
-|-----------|---------|
-| **Jogador:** Luis | **Player:** Luis |
-| **Espécie:** Meio-Orc | **Species:** Half-Orc |
-| **Classe:** Monge (Caminho da Mão Aberta) | **Class:** Monk (Way of the Open Hand) |
-| **Nível:** 6 | **Level:** 6 |
+| Português                                                                    | English                                                                      |
+| ---------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| **Jogador:** luis Miguel Henriques                                           | **Player:** luis Miguel Henriques                                            |
+| **Espécie:** Meio-Orc                                                        | **Species:** Half-Orc                                                        |
+| **Classe:** Monge (Caminho da Mão Aberta)                                    | **Class:** Monk (Way of the Open Hand)                                       |
+| **Nível:** 6                                                                 | **Level:** 6                                                                 |
 | **Ficha D&D Beyond:** [Link](https://www.dndbeyond.com/characters/138745784) | **D&D Beyond Sheet:** [Link](https://www.dndbeyond.com/characters/138745784) |
-| **Sessões jogadas:** 6 | **Sessions played:** 6 |
-| **Sessões DM:** 4 | **DM Sessions:** 4 |
-| **Contacto:** +351 915 495 031 | **Contact:** +351 915 495 031 |
+| **Sessões jogadas:** 6                                                       | **Sessions played:** 6                                                       |
+| **Sessões DM:** 4                                                            | **DM Sessions:** 4                                                           |
+| **Contacto:** +351 915 495 031                                               | **Contact:** +351 915 495 031                                                |
 
 | Português | English |
 |-----------|---------|
