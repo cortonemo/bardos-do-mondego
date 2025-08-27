@@ -1,6 +1,6 @@
 ## 🎭 Ready to Play
 
-**Sessões 21–22 — O Golpe dos Dados Rubi: Ready to Play**
+# O Golpe dos Dados Rubi: Ready to Play**
 
 |Português|English|
 |---|---|

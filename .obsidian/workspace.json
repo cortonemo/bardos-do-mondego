@@ -11,110 +11,17 @@
             "id": "e982e4e18a589f2d",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "docs/locations/cities/free_city_of_greyhawk/undercity/undercity.png"
-              },
-              "icon": "lucide-image",
-              "title": "undercity"
-            }
-          },
-          {
-            "id": "7d33197f7cace1bb",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/dm/-/adventures/ready/s24_sociedade_dos_ratos_sedentos_ready.md",
+                "file": "docs/dm/-/adventures/bullet/sessões - Bullet Points.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "s24_sociedade_dos_ratos_sedentos_ready"
-            }
-          },
-          {
-            "id": "41af109774f26ab6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/dm/-/adventures/bullet/s21_s22_casino_heist_bullet.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "s21_s22_casino_heist_bullet"
-            }
-          },
-          {
-            "id": "45879ceefa9f6608",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "docs/adventures/list/blank.png"
-              },
-              "icon": "lucide-image",
-              "title": "blank"
-            }
-          },
-          {
-            "id": "f4902e41a5f3bf20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/dm/-/adventures/bullet/s01_os_fungos_do_bosque_bullet.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "s01_os_fungos_do_bosque_bullet"
-            }
-          },
-          {
-            "id": "08ee32d5d26643f6",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "docs/dm/-/adventures/ready/mapa_caminho.png"
-              },
-              "icon": "lucide-image",
-              "title": "mapa_caminho"
-            }
-          },
-          {
-            "id": "3842889f17f43438",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/dm/-/adventures/bullet/s28_idolo_de_lady_scale_bullet.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "s28_idolo_de_lady_scale_bullet"
-            }
-          },
-          {
-            "id": "3572c912bfbe3c4f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/dm/-/adventures/ready/s30_idolo_de_lady_scale_ready.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "s30_idolo_de_lady_scale_ready"
+              "title": "sessões - Bullet Points"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 955.5
+    "width": 430.5
   },
   "right": {
     "id": "91e5495a9d011ac2",
@@ -250,6 +157,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -258,37 +166,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3572c912bfbe3c4f",
+  "active": "e982e4e18a589f2d",
   "lastOpenFiles": [
+    "docs/dm/-/adventures/bullet/s10_o_segredo_de_peculiar_manor_bullet.md",
+    "docs/dm/-/adventures/bullet/sessões - Bullet Points.md",
+    "docs/adventures/list/s21_s22_casino_heist_summary.md",
+    "docs/dm/-/adventures/bullet/s21_s22_casino_heist_bullet.md",
     "docs/dm/-/adventures/bullet/s30_idolo_de_lady_scale_bullet.md",
-    "docs/dm/-/adventures/ready/s30_idolo_de_lady_scale_ready.md",
     "docs/adventures/list/s30_idolo_de_lady_scale_summary.md",
-    "docs/dm/-/adventures/ready/s28_idolo_de_lady_scale_ready.md",
-    "docs/dm/-/adventures/ready/s29_idolo_de_lady_scale_ready.md",
-    "docs/dm/-/adventures/bullet/s28_idolo_de_lady_scale_bullet.md",
     "docs/dm/-/adventures/bullet/s29_idolo_de_lady_scale_bullet.md",
     "docs/adventures/list/s29_idolo_de_lady_scale_summary.md",
+    "docs/dm/-/adventures/bullet/s28_idolo_de_lady_scale_bullet.md",
     "docs/adventures/list/s28_idolo_de_lady_scale_summary.md",
-    "docs/adventures/list/s28_o_museu_das_maravilhas_sombras_summary.md",
-    "docs/adventures/list/s29_a_expedicao_aos_esgotos_de_greyhawk_summary.md",
-    "docs/dm/-/adventures/ready/s28_o_museu_das_maravilhas_sombras_ready.md",
-    "docs/dm/-/adventures/ready/mapa_caminho.png",
-    "docs/dm/-/adventures/bullet/s01_os_fungos_do_bosque_bullet.md",
-    "docs/adventures/list/blank.png",
-    "docs/npc/-/mistress_lyra_quil.md",
-    "docs/npc/-/portrait_mistress_lyra_quil.png",
-    "docs/dm/-/pc/pc_bok_thunderfist.md",
-    "docs/dm/-/pc/pc_eirwen.md",
-    "docs/dm/-/pc/pc_wandering_sage.md",
-    "docs/dm/-/pc/pc_silfir.md",
-    "docs/dm/-/pc/pc_eldric_silvanus.md",
-    "docs/adventures/list/s21_s22_casino_heist_summary.md",
-    "docs/dm/-/adventures/ready/s21_s22_casino_heist_ready.md",
-    "docs/dm/-/adventures/bullet/s21_s22_casino_heist_bullet.md",
-    "docs/dm/-/adventures/bullet/s22_a_sombra_do_tempo_perdido_bullet.md",
-    "docs/dm/-/adventures/bullet/s24_sociedade_dos_ratos_sedentos_bullet.md",
-    "docs/dm/-/adventures/bullet/s28_o_museu_das_maravilhas_sombras_bullet.md",
     "docs/dm/-/adventures/bullet/s29_a_expedicao_aos_esgotos_de_greyhawk_bullet.md",
+    "docs/dm/-/adventures/bullet/s28_o_museu_das_maravilhas_sombras_bullet.md",
+    "docs/dm/-/adventures/bullet/s27_o_museu_das_maravilhas_sombras_bullet.md",
+    "docs/dm/-/adventures/bullet/s24_sociedade_dos_ratos_sedentos_bullet.md",
+    "docs/dm/-/adventures/bullet/s22_a_sombra_do_tempo_perdido_bullet.md",
+    "docs/dm/-/adventures/ready/s21_s22_casino_heist_ready.md",
+    "docs/dm/-/adventures/bullet/s16_o_que_nos_espera_a_nova_cidade_bullet.md",
+    "docs/dm/-/adventures/bullet/s16_a_crianca_perdida_bullet.md",
+    "docs/dm/-/adventures/bullet/s14_resgate_abigail_pessegueiro_espelhos_bullet.md",
+    "docs/dm/-/adventures/bullet/s14_o_que_nos_espera_a_nova_cidade_bullet.md",
+    "docs/dm/-/adventures/bullet/s14_mao_de_zan_cetro_ordem_escarlate_bullet.md",
+    "docs/dm/-/adventures/bullet/s13_o_que_nos_espera_a_nova_cidade_bullet.md",
+    "docs/dm/-/adventures/bullet/s13_o_incendio_misterioso_bullet.md",
+    "docs/dm/-/adventures/bullet/s13_investigar_o_sul_da_cidade_de_greyhawk_bullet.md",
+    "docs/dm/-/adventures/bullet/s13_enfrentando_a_guilda_dos_ladroes_bullet.md",
+    "docs/dm/-/adventures/bullet/s13_dandan_e_os_40_kobolds_bullet.md",
+    "docs/locations/cities/free_city_of_greyhawk/undercity/undercity.png",
+    "docs/dm/-/adventures/ready/mapa_caminho.png",
+    "docs/adventures/list/blank.png",
+    "docs/npc/-/portrait_mistress_lyra_quil.png",
     "docs/notable_figures/-/blank.png",
     "docs/locations/cities/ulek/ulek.png",
     "docs/locations/cities/irongate/free_city_of_irongate_coat_of_Arms.gif",
@@ -296,7 +205,6 @@
     "docs/locations/cities/irongate",
     "docs/locations/cities/dorakaa/coat_of_arms_dorakaa.jpeg",
     "docs/locations/cities/free_city_of_greyhawk/free_city_of_greyhawk.jpg",
-    "docs/locations/cities/free_city_of_greyhawk/greyhawk_114x135.png",
     "docs/locations/cities/ulek/ps1592.tmp",
     "docs/locations/cities/free_city_of_greyhawk/thieves_quarter",
     "docs/locations/cities/free_city_of_greyhawk/slum_quarter",
