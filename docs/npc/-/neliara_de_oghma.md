@@ -1,0 +1,1 @@
+![[portrait_neliara_of_oghma.png]]
