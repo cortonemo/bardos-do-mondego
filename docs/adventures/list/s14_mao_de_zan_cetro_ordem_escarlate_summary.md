@@ -1,6 +1,6 @@
 
 
-# SA Mão de Zan, o Cetro e a Ordem Escarlate
+# Mão de Zan, o Cetro e a Ordem Escarlate
 
 | Português | English |
 |-----------|---------|

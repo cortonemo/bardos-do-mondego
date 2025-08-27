@@ -1,6 +1,6 @@
 
 
-# Sessão 14  Resgate de Abigail em Pessegueiro e os Espelhos: Resumo Detalhado
+# Resgate de Abigail em Pessegueiro e os Espelhos: Resumo Detalhado
 
 | Português | English |
 |-----------|---------|
