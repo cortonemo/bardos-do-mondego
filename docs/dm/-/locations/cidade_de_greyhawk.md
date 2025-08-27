@@ -7,7 +7,7 @@ Sessões: 3, 6, 8, 13, 16, 22, 27, 28, 29 | Datas: 2025-01-15, 2025-02-13, 2025-
 
 | Português | English |
 |-----------|---------|
-| Capital vibrante, centro de comércio, magia, política e aventura. Sede de várias guildas ([Guilda dos Ladrões](guilda_dos_ladroes.md), [Guilda dos Assassinos](guilda_dos_assassinos.md)), instituições como a [Universidade de Artes Mágicas](universidade_de_artes_magicas.md), e palco de eventos como o [Museu das Maravilhas Naturais e Arcanas](museu_das_maravilhas_naturais_e_arcanas_de_greyhawk.md). | Vibrant capital, hub of trade, magic, politics, and adventure. Home to multiple guilds ([Thieves Guild](guilda_dos_ladroes.md), [Assassins Guild](guilda_dos_assassinos.md)), institutions like the [University of Magical Arts](universidade_de_artes_magicas.md), and events such as the [Museum of Natural & Arcane Wonders](museu_das_maravilhas_naturais_e_arcanas_de_greyhawk.md). |
+| Capital vibrante, centro de comércio, magia, política e aventura. Sede de várias guildas ([Guilda dos Ladrões](guild_of_thieves.md), [Guilda dos Assassinos](assassins_guild.md)), instituições como a [Universidade de Artes Mágicas](universidade_de_artes_magicas.md), e palco de eventos como o [Museu das Maravilhas Naturais e Arcanas](museu_das_maravilhas_naturais_e_arcanas_de_greyhawk.md). | Vibrant capital, hub of trade, magic, politics, and adventure. Home to multiple guilds ([Thieves Guild](guild_of_thieves.md), [Assassins Guild](assassins_guild.md)), institutions like the [University of Magical Arts](universidade_de_artes_magicas.md), and events such as the [Museum of Natural & Arcane Wonders](museu_das_maravilhas_naturais_e_arcanas_de_greyhawk.md). |
 
 
 
