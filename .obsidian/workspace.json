@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/adventures/Timeline/timeline_table_complete.md",
+                "file": "docs/adventures/Timeline/timeline_table_full.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "timeline_table_complete"
+              "title": "timeline_table_full"
             }
           }
         ]
@@ -168,7 +168,10 @@
   },
   "active": "684e4785336f8d35",
   "lastOpenFiles": [
+    "docs/adventures/Timeline/timeline_table_full2.md",
     "docs/adventures/Timeline/timeline_table_full.md",
+    "docs/adventures/Timeline/timeline_table_expanded.md",
+    "docs/adventures/Timeline/timeline_table_complete.md",
     "docs/npc/-/mistress_lyra_quil.md",
     "docs/locations/cities/free_city_of_greyhawk/garden_quarter/great_library.md",
     "docs/npc/-/sister_blathine.md",
@@ -196,8 +199,6 @@
     "docs/dm/-/adventures/ready/s03_vale_do_vento_sombrio_ready.md",
     "docs/dm/-/adventures/ready/s03_emboscada_nas_margens_do_rio_neem_ready.md",
     "docs/dm/-/organizations/assassins_guild.md",
-    "docs/dm/-/organizations/guild_of_thieves.md",
-    "docs/locations/cities/free_city_of_greyhawk/thieves_quarter/thieves_quarter.md",
     "docs/locations/cities/free_city_of_greyhawk/greyhawk_114x135.png",
     "docs/locations/cities/free_city_of_greyhawk/undercity/undercity.png",
     "docs/dm/-/adventures/ready/mapa_caminho.png",
