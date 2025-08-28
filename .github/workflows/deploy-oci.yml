@@ -17,6 +17,7 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
+          cache: 'pip'                 # speeds up installs
 
       - name: Install dependencies
         run: |
@@ -24,12 +25,12 @@ jobs:
           pip install -r requirements.txt
           mkdocs --version
 
-      # Optional: auto-generate nav
+      # Your nav generator (kept)
       - name: Generate nav menu
         run: python scripts/gen_nav.py
 
       - name: Build MkDocs
-        run: mkdocs build # add --strict if you want broken links to fail the build
+        run: mkdocs build # add --strict if you want failures on broken links
 
       # --- SSH setup + sanity check ---
       - name: Start ssh-agent and add key
@@ -43,18 +44,11 @@ jobs:
           mkdir -p ~/.ssh && chmod 700 ~/.ssh
           ssh-keyscan -H "${{ secrets.OCI_HOST }}" >> ~/.ssh/known_hosts
           chmod 600 ~/.ssh/known_hosts
-          ssh -o IdentitiesOnly=yes -o BatchMode=yes -o ConnectTimeout=10 ubuntu@${{ secrets.OCI_HOST }} "echo ok && uname -a"
+          ssh -o IdentitiesOnly=yes -o BatchMode=yes -o ConnectTimeout=10 \
+              ubuntu@${{ secrets.OCI_HOST }} "echo ok && uname -a"
 
-      # rsync is usually present, but keep this for portability
       - name: Install rsync
         run: sudo apt-get update && sudo apt-get install -y rsync
-
-      # Optional: quick visibility when diagnosing runners
-      - name: Check rsync path and version
-        run: |
-          which rsync
-          echo "$PATH"
-          rsync --version
 
       - name: Deploy site with rsync
         shell: bash
