@@ -11,17 +11,42 @@
             "id": "b2556d53d46bdc39",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "docs/dm/-/pc/pc_drayl_bharash 1.png"
+              },
+              "icon": "lucide-image",
+              "title": "pc_drayl_bharash 1"
+            }
+          },
+          {
+            "id": "a6e07b0407d3707d",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "docs/dm/-/pc/pc_dustin_thorne_01 1.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "pc_dustin_thorne_01 1"
+            }
+          },
+          {
+            "id": "7ff3c92a6d4b5d26",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/dm/-/organizations/faccoes_e_cultos.md",
-                "mode": "preview",
+                "file": "docs/dm/-/pc/pc_kai.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "faccoes_e_cultos"
+              "title": "pc_kai"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -166,53 +191,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b2556d53d46bdc39",
+  "active": "7ff3c92a6d4b5d26",
   "lastOpenFiles": [
+    "docs/dm/-/pc/pc_vaunia_kolakiala.md",
+    "docs/dm/-/pc/pc_vaunia_kolakiala.jpg",
+    "docs/dm/-/pc/ficha não atual/pc_vaunia_kolakiala.md",
+    "docs/dm/-/pc/ficha não atual/pc_vaunia_kolakiala.jpg",
+    "docs/dm/-/pc/ficha não atual/pc_tabasco_de_lumeiros.md",
+    "docs/dm/-/pc/ficha não atual/pc_silfir.png",
+    "docs/dm/-/pc/ficha não atual/pc_silfir.md",
+    "docs/dm/-/pc/ficha não atual/pc_orianna.md",
+    "docs/dm/-/pc/ficha não atual/pc_orianna.jpg",
+    "docs/dm/-/pc/ficha não atual/pc_markus_grimm_02.png",
+    "docs/dm/-/pc/ficha não atual/pc_markus_grimm_02 1.png",
+    "docs/dm/-/pc/ficha não atual/pc_markus_grimm_01.png",
+    "docs/dm/-/pc/ficha não atual/pc_markus_grimm_01 1.png",
+    "docs/dm/-/pc/ficha não atual/pc_markus_grimm.md",
+    "docs/dm/-/pc/ficha não atual/pc_markus_grimm 1.md",
+    "docs/dm/-/pc/ficha não atual/pc_gauthak_vunakamune.jpeg",
+    "docs/dm/-/pc/ficha não atual/pc_gauthak_vunakamune.md",
+    "docs/dm/-/pc/ficha não atual/pc_friedrick_junsi.md",
+    "docs/dm/-/pc/ficha não atual/pc_frederick_freddy_02.png",
+    "docs/dm/-/pc/ficha não atual/pc_flynn.md",
+    "docs/dm/-/pc/ficha não atual/pc_endovan_bomsossego.md",
+    "docs/dm/-/pc/ficha não atual/pc_eldric_silvanus.md",
+    "docs/dm/-/pc/pc_conan_barbaro_ra.md",
+    "docs/dm/-/pc/pc_eirwen.md",
+    "docs/dm/-/pc/ficha não atual/pc_asinius.md",
+    "docs/dm/-/pc/ficha não atual/pc_arkos_vasell.md",
+    "docs/dm/-/pc/pc_arkos_vasell.md",
+    "docs/dm/-/pc/pc_dustin_thorne.md",
+    "docs/dm/-/pc/pc_drayl_bharash.md",
+    "docs/dm/-/pc/ficha não atual/pc_bok_thunderfist.md",
+    "docs/dm/-/pc/ficha não atual",
+    "docs/dm/-/pc/New folder",
     "docs/dm/-/pc/pc_kai.md",
+    "docs/dm/-/organizations/faccoes_e_cultos.md",
     "docs/dm/-/adventures/ready/s10_sombras_de_iuz_ready.md",
     "docs/adventures/list/s10_sombras_de_iuz_summary.md",
     "docs/dm/-/adventures/bullet/s10_a_rota_da_cia_sangue_e_ouro_no_pantano_bullet.md",
     "docs/dm/-/adventures/bullet/s09_misterio_de_high_ery_bullet.md",
-    "docs/dm/-/adventures/bullet/s09_entrega_para_blackfair_manor_bullet.md",
-    "docs/dm/-/adventures/bullet/s09_baile_dos_high_fae_bullet.md",
-    "docs/dm/-/adventures/bullet/s03_vale_do_vento_sombrio_bullet.md",
-    "docs/dm/-/adventures/bullet/s03_emboscada_nas_margens_do_rio_neem_bullet.md",
-    "docs/dm/-/adventures/bullet/s02_dificuldades_na_mina_de_obsidiana_bullet.md",
-    "docs/dm/-/adventures/bullet/s01_os_fungos_do_bosque_bullet.md",
-    "docs/lore/timeline/timeline_greyhawkwars.md",
-    "docs/lore/timeline/timeline_westmarches.md",
-    "docs/lore/timeline/timeline_greatkingdom.md",
-    "docs/lore/timeline/timeline_chroniclers.md",
-    "docs/lore/timeline/timeline_ancient.md",
-    "docs/lore/timeline/greyhawk_timeline_complete.md",
-    "docs/lore/timeline/greyhawk_sessions_complete.md",
-    "docs/lore/villains.md",
-    "docs/lore/factions.md",
-    "docs/lore/pantheon.md",
-    "docs/lore/locations/geography.md",
-    "docs/lore/calendar.md",
-    "docs/lore/heroes.md",
-    "docs/lore/locations/cities/free_city_of_greyhawk/mapa_cidade_de_greyhawk.md",
-    "README.md",
     "docs/lore",
-    "docs/npc/-/portrait_neliara_of_oghma.png",
-    "docs/npc/-/portrait_neliara_of_oghma.pn.png",
-    "docs/loot/itens/espada_luz_velada.png",
-    "docs/loot/itens/espada_mais_um.png",
     "docs/lore/timeline",
-    "docs/lore/locations/cities/free_city_of_greyhawk/greyhawk_114x135.png",
-    "docs/lore/locations/cities/free_city_of_greyhawk/undercity/undercity.png",
-    "docs/dm/-/adventures/ready/mapa_caminho.png",
-    "docs/adventures/list/blank.png",
-    "docs/npc/-/portrait_mistress_lyra_quil.png",
-    "docs/notable_figures/-/blank.png",
     "docs/lore/locations/cities/irongate",
     "docs/locations/cities/ulek/ps1592.tmp",
     "docs/lore/locations/cities/free_city_of_greyhawk/thieves_quarter",
     "docs/lore/locations/cities/free_city_of_greyhawk/slum_quarter",
     "docs/lore/locations/cities/free_city_of_greyhawk/undercity",
-    "docs/lore/locations/cities/free_city_of_greyhawk/temple_row",
-    "docs/lore/locations/cities/free_city_of_greyhawk/university_quarter",
-    "docs/lore/locations/cities/free_city_of_greyhawk/foreign_quarter"
+    "docs/lore/locations/cities/free_city_of_greyhawk/temple_row"
   ]
 }
