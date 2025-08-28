@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/lore/villains.md",
+                "file": "docs/lore/locations/cities/free_city_of_greyhawk/mapa_cidade_de_greyhawk.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "villains"
+              "title": "mapa_cidade_de_greyhawk"
             }
           }
         ],
@@ -281,12 +281,12 @@
   },
   "active": "8b60e7fd6b137849",
   "lastOpenFiles": [
+    "docs/lore/villains.md",
     "README.md",
     "docs/lore",
     "docs/lore/calendar.md",
-    "docs/mapa_cidade_de_greyhawk.md",
+    "docs/lore/locations/cities/free_city_of_greyhawk/mapa_cidade_de_greyhawk.md",
     "docs/lore/pantheon.md",
-    "docs/lore/villains.md",
     "docs/lore/heroes.md",
     "docs/lore/factions.md",
     "docs/lore/locations/geography.md",
