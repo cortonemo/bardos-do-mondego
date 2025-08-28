@@ -1,4 +1,4 @@
-# 🗓️ Timeline do Grande Reino | Great Kingdom Timeline
+# 🗓️ Linha Temporal do Grande Reino | Great Kingdom Timeline
 
 | 📖 Linha Temporal                                                                           | 📖 Timeline                                                                                     |
 | ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
@@ -20,3 +20,5 @@
 | **479 CY**<br>Poder de Iuz cresce; invasões humanoides comuns.                              | **479 CY**<br>Might of Iuz grows; humanoid invasions common.                                    |
 | **498 CY**<br>Urnst torna-se palatinado; Greyhawk torna-se Cidade Livre.                    | **498 CY**<br>Urnst becomes palatinate; Greyhawk becomes a Free City.                           |
 | **505 CY**<br>Iuz é aprisionado por Zagig Yragerne.                                         | **505 CY**<br>Iuz is imprisoned by Zagig Yragerne.                                              |
+
+---

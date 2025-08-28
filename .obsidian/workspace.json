@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/lore/timeline/greyhawk_timeline_complete.md",
-                "mode": "source",
+                "file": "docs/lore/timeline/timeline_greyhawkwars.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "greyhawk_timeline_complete"
+              "title": "timeline_greyhawkwars"
             }
           }
         ]
@@ -168,11 +168,11 @@
   },
   "active": "b2556d53d46bdc39",
   "lastOpenFiles": [
-    "docs/lore/timeline/timeline_ancient.md",
-    "docs/lore/timeline/timeline_chroniclers.md",
-    "docs/lore/timeline/timeline_greatkingdom.md",
-    "docs/lore/timeline/timeline_greyhawkwars.md",
     "docs/lore/timeline/timeline_westmarches.md",
+    "docs/lore/timeline/timeline_greyhawkwars.md",
+    "docs/lore/timeline/timeline_greatkingdom.md",
+    "docs/lore/timeline/timeline_chroniclers.md",
+    "docs/lore/timeline/timeline_ancient.md",
     "docs/lore/timeline/greyhawk_timeline_complete.md",
     "docs/lore/timeline/greyhawk_sessions_complete.md",
     "docs/lore/villains.md",

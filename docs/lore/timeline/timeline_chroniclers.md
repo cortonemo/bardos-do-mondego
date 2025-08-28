@@ -5,3 +5,5 @@
 | **c. 963 CY**<br>Pluffet Smedger, o Velho, examina um exemplar antigo do *Catálogo da Terra de Flanaess*, escrito pelo Sábio de Greyhawk, e fica impressionado pela frescura da obra. | **c. 963 CY**<br>Pluffet Smedger the Elder examines an old copy of the *Catalogue of the Land Flanaess* by the Savant-Sage of Greyhawk, impressed by its freshness. |
 | **c. 963 CY**<br>Nesta era, a magia não é uma arte perdida, mas parece estar em declínio.                                                                                             | **c. 963 CY**<br>In this era, magic is not a lost art, but appears to be fading.                                                                                    |
 | **998 CY**<br>Pluffet Smedger, o Velho, publica a sua *Glossografia para o Guia do Mundo de Greyhawk* na Universidade Real de Rel Mord.                                               | **998 CY**<br>Pluffet Smedger the Elder publishes his *Glossography for the Guide to the World of Greyhawk* at Rel Mord University.                                 |
+
+---

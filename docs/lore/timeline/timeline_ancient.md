@@ -1,4 +1,4 @@
-# 🗓️ Timeline Antiga | Ancient Timeline
+# 🗓️ Linha Temporal Antiga | Ancient Timeline
 
 | 📖 Linha Temporal                                                                                                                                                                 | 📖 Timeline                                                                                                                                                                   |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -13,3 +13,5 @@
 | **-457 CY**<br>Início das migrações oeridianas para leste.                                                                                                                        | **-457 CY**<br>Oerid migrations east.                                                                                                                                         |
 | **-446 CY**<br>Migrações suelitas começam.                                                                                                                                        | **-446 CY**<br>Suel migrations begin.                                                                                                                                         |
 | **-422 CY**<br>Devastação Invocada destrói terras baklunish. Retaliação: Chuva de Fogo Incolor transforma o Império Suelita no Mar de Poeira.                                     | **-422 CY**<br>Invoked Devastation destroys Baklunish lands. Retaliation: Rain of Colorless Fire transforms the Suel Imperium into the Sea of Dust.                           |
+
+---

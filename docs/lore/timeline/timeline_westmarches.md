@@ -8,3 +8,5 @@
 | **998–999 CY**<br>Arco das Conspirações de Blackfair: bailes, rotas comerciais, nobres suspeitos.                                                                       | **998–999 CY**<br>Blackfair Conspiracies Arc: banquets, trade routes, suspicious nobles.                                                               |
 | **999 CY**<br>Arco do Quinto Jogo: encontro com Drennar Solace e Cassino “O Quinto Jogo”.                                                                               | **999 CY**<br>The Fifth Game Arc: encounter with Drennar Solace and the “Fifth Game” Casino.                                                           |
 | **999 CY**<br>Arcos de Greyhawk: exploração urbana, guildas, piratas Orquídeas Negras, museus, Scarlet Brotherhood.                                                     | **999 CY**<br>Greyhawk Arcs: urban exploration, guilds, Black Orchids pirates, museums, Scarlet Brotherhood.                                           |
+
+---

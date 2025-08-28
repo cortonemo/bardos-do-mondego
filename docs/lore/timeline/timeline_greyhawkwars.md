@@ -1,4 +1,4 @@
-# 🗓️ Timeline das Guerras de Greyhawk | Greyhawk Wars Timeline
+# 🗓️ Linha Temporal das Guerras de Greyhawk | Greyhawk Wars Timeline
 
 | 📖 Linha Temporal                                                                                                                        | 📖 Timeline                                                                                                                           |
 | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
@@ -9,3 +9,5 @@
 | **584 CY**<br>Pacto de Greyhawk põe fim às guerras. Rary trai o Círculo dos Oito, mata Otiluke e Tenser, e foge para o Deserto Luminoso. | **584 CY**<br>Pact of Greyhawk ends the wars. Rary betrays the Circle of Eight, kills Otiluke and Tenser, flees to the Bright Desert. |
 | **586 CY**<br>Fim do Grande Reino. Divide-se em Ahlissa e Reino do Norte. Hazen de Veluna usa o Cajado de Rao para banir fiends.         | **586 CY**<br>Great Kingdom ends, splits into Ahlissa and North Kingdom. Hazen of Veluna uses the Crook of Rao to banish fiends.      |
 | **591–598 CY**<br>Eventos da campanha *Living Greyhawk*.                                                                                 | **591–598 CY**<br>Events of the *Living Greyhawk* campaign.                                                                           |
+
+---
