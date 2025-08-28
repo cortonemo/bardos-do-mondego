@@ -1,42 +1,38 @@
-## Zeldris (anteriormente Varus)
-![Zeldris](pc_zeldris_varus_01.png)
+# Zeldris (anteriormente Varus)
 
-| Português                                                                    | English                                                            |
-| ---------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| **Jogador:** Ricardo Oliveira Ribeiro                                        | **Player:** Ricardo Oliveira Ribeiro                               |
-| **Ficha D&D Beyond:** [Link](https://www.dndbeyond.com/characters/143891578) | [D&D Beyond Sheet](https://www.dndbeyond.com/characters/143891578) |
-| **Sessões jogadas:** 7                                                       | **Sessions played:** 7                                             |
-| **Sessões DM:** 1                                                            | **DM Sessions:** 1                                                 |
-| **Contacto:** +351 925 717 520                                               | **Contact:** +351 925 717 520                                      |
-![Zeldris](pc_zeldris_varus_02.png)
+| <img src="pc_zeldris.png" height="200"/>|
+| --------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 | Português | English |
-|-----------|---------|
-| **Nome:** Zeldris (anteriormente Varus) | **Name:** Zeldris (formerly Varus) |
-| **Raça / Classe:** Não especificado (corpo alterado com traços demoníacos e aquáticos) | **Race / Class:** Not specified (body altered with demonic and aquatic traits) |
-| **Alinhamento:** Ético próprio, focado no equilíbrio entre bem e mal | **Alignment:** Self-imposed ethics, focused on balancing good and evil |
-| **Origem:** Vila remota cercada por floresta densa | **Origin:** Remote village surrounded by dense forest |
-| **Aparência:** Armadura que oculta corpo deformado, pele rija como escamas, guelras no pescoço, quilhas orgânicas nos braços | **Appearance:** Armor concealing deformed body, tough scale-like skin, gills on neck, organic fins on arms |
-| **Personalidade:** Protege os colegas a todo o custo, procura equilíbrio, busca imortalidade, tendência para o esquecimento pela bebida | **Personality:** Protects comrades at all costs, seeks balance, pursues immortality, tendency to drink to forget |
-| **Traços Notáveis:** Conflito interno entre sede de vingança e incapacidade de ferir mind flayers | **Notable Traits:** Inner conflict between thirst for vengeance and inability to harm mind flayers |
-| **Vínculos:** A taverna é a sua casa, sem mais ninguém a quem se voltar | **Bonds:** The tavern is his home, with no one else to turn to |
-| **Defeitos:** Busca constante de defesa e sobrevivência acima de riqueza | **Flaws:** Constantly seeks defense and survival over wealth |
-| **História (Zeldris):** Após a sua morte como Varus, renasceu num corpo alterado, perdeu fé em deuses e passou a viver pelo seu próprio julgamento. Conheceu um demónio e fez um acordo para saber a verdade, recuperando memórias da esposa e filha assassinadas. A transformação física tornou-o mais lento de raciocínio. | **Story (Zeldris):** After his death as Varus, he was reborn in an altered body, lost faith in gods, and began living by his own judgment. Met a demon and made a pact to learn the truth, regaining memories of his murdered wife and daughter. His physical transformation made him slower in thought. |
-| **História (Varus):** Nascido numa família modesta, era artesão. Casado e com três filhos, recorreu a pequenos furtos para alimentar a família num inverno severo. Um grupo de homens atacou a sua casa, matando esposa e duas filhas. Matou acidentalmente o filho sobrevivente, pensando ser um inimigo. A tragédia transformou-o num assassino errante em busca de vingança contra a milícia responsável. | **Story (Varus):** Born into a modest family, he was a craftsman. Married with three children, he resorted to petty theft to feed them during a harsh winter. A group of men attacked his home, killing his wife and two daughters. He accidentally killed his surviving son, mistaking him for an enemy. The tragedy turned him into a wandering assassin seeking revenge against the militia responsible. |
-| **Link HeroForge:** [Visualização 3D](https://www.heroforge.com/load_config%3D524043482/) | **HeroForge Link:** [3D View](https://www.heroforge.com/load_config%3D524043482/) |
-![Zeldris](pc_zeldris_varus_03.png)
-![Zeldris](pc_zeldris_varus_04.png)
-![Zeldris](pc_zeldris_varus_05.png)
-![Zeldris](pc_zeldris_varus_06.png)
-![Zeldris](pc_zeldris_varus_07.png)
-![Zeldris](pc_zeldris_varus_08.png)
+| --------- | ------- |
+| **Jogador:** Ricardo Oliveira Ribeiro | **Player:** Ricardo Oliveira Ribeiro |
+| **Idade:** 24 | **Age:** 24 |
+| **Género:** Masculino | **Gender:** Male |
+| **Espécie:** Humano (corpo alterado com traços demoníacos e aquáticos) | **Species:** Human (body altered with demonic and aquatic traits) |
+| **Olhos:** — | **Eyes:** — |
+| **Cabelo:** — | **Hair:** — |
+| **Pele:** Endurecida como escamas, com guelras e barbatanas | **Skin:** Hardened like scales, with gills and fins |
+| **Tamanho:** Médio | **Size:** Medium |
+| **Altura:** — | **Height:** — |
+| **Classe:** Guerreiro / Paladino caído (pacto demoníaco) | **Class:** Fighter / Fallen Paladin (demonic pact) |
+| **Antecedente:** Artesão / Assassino errante | **Background:** Craftsman / Wandering assassin |
+| **Alinhamento:** — | **Alignment:** — |
+| **Nível:** — | **Level:** — |
+| **Ficha D&D Beyond:** [Link](https://www.dndbeyond.com/characters/143891578/GTjlb2) | **D&D Beyond Sheet:** [Link](https://www.dndbeyond.com/characters/143891578/GTjlb2) |
+| **Contacto:** +351 925 717 520 | **Contact:** +351 925 717 520 |
+| **Instagram:** [@ricky_ribeiroo](https://www.instagram.com/ricky_ribeiroo) | **Instagram:** [@ricky_ribeiroo](https://www.instagram.com/ricky_ribeiroo) |
+| **Discord:** _bigrick | **Discord:** _bigrick |
+| **⚔️ Itens**<br>**Armadura/Escudo:** Plate + Shield<br>**Armas:** Longsword<br>**Items mágicos:** Cloak of Protection<br>**Items não mágicos:** (TBF)<br>**Ouro:** (TBF) | **⚔️ Items**<br>**Armor/Shield:** Plate + Shield<br>**Weapons:** Longsword<br>**Magical Items:** Cloak of Protection<br>**Non-magical Items:** (TBF)<br>**Gold:** (TBF) |
+| **📖 História – Antes da Taberna**<br>- Varus era um artesão tiefling, com esposa e três filhos numa aldeia isolada.<br>- Roubou para alimentar a família durante um inverno cruel.<br>- A sua casa foi incendiada e esposa + filhas assassinadas por homens que o julgaram.<br>- Ao regressar, matou o próprio filho por engano, pensando ser um inimigo.<br>- Quebrado, tornou-se assassino errante em busca de vingança.<br>- Fez pacto com a Taberna: memória apagada em troca de vingança e promessa de trazer o filho de volta. | **📖 Story – Before the Tavern**<br>- Varus was a tiefling craftsman, with wife and three children in a remote village.<br>- Stole to feed family during harsh winter.<br>- Home burned, wife and daughters murdered by men who judged him.<br>- Upon returning, accidentally killed his son, mistaking him for an enemy.<br>- Broken, became a wandering assassin seeking revenge.<br>- Made pact with the Tavern: memory erased in exchange for vengeance and promise of bringing his son back. |
+| **📖 História – Depois da Taberna**<br>- Varus aliou-se a várias parties em missões.<br>- Numa delas, morreu e os colegas colocaram-no numa máquina illithid criadora de guardas.<br>- Ressuscitou como Zeldris, envolvido numa armadura mágica que nunca pode remover, incapaz de atacar mind flayers.<br>- Recebeu o nome de uma entidade desconhecida: “Z̸͂̋̿̉̋́̀̑̚͘… Zeldris”.<br>- Continuou a servir o pacto com a Taberna.<br>- Conheceu um demónio que lhe mostrou rostos dos assassinos da família; corpo deformou-se ainda mais, ganhando guelras e barbatanas.<br>- Perdeu parte da inteligência (TBF). | **📖 Story – After the Tavern**<br>- Varus allied with parties on missions.<br>- In one, he died; comrades placed him in an illithid guard-making machine.<br>- Resurrected as Zeldris, bound to armor he can never remove, unable to attack mind flayers.<br>- Was given a new name by unknown entity: “Z̸͂̋̿̉̋́̀̑̚͘… Zeldris.”<br>- Continued to serve Tavern’s pact.<br>- Met a demon who revealed the faces of his family’s murderers; body warped further, gaining gills and fins.<br>- Lost some intelligence (TBF). |
+| **🎭 Dramatis Persona**<br>**NPCs de influência direta:** —<br>**Antagonistas:** 3 homens que destruíram a família (identidade revelada pelo demónio).<br>**Aliados:** — | **🎭 Dramatis Persona**<br>**Direct Influence NPCs:** —<br>**Antagonists:** 3 men who destroyed his family (revealed by demon).<br>**Allies:** — |
+| **🔮 OBS**<br>- *Cloak of Protection*: +1 AC & saves.<br>- Armadura illithid fundida ao corpo, não pode ser removida.<br>- Ordem mental impede-o de atacar mind flayers.<br>- Corpo deformado com guelras e barbatanas.<br>- (Mais efeitos TBF) | **🔮 Notes**<br>- *Cloak of Protection*: +1 AC & saves.<br>- Illithid armor fused to body, cannot be removed.<br>- Mental order prevents harming mind flayers.<br>- Body warped with gills and fins.<br>- (Further effects TBF) |
 
-| Português                                                                                                                                                                                                                                                           | English                                                                                                                                                                                                                                                          |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Depois de uma morte trágica e um novo corpo, Zeldris perdeu a fé e busca agora o equilíbrio entre o bem e o mal. Leal à Taberna, tem um conflito profundo: uma ordem embutida de não magoar mind flayers e uma sede de vingança contra quem destruiu a sua família. | After a tragic death and a new body, Zeldris lost his faith and now seeks balance between good and evil. Loyal to the Tavern, he’s torn: bound by an order never to harm mind flayers, and by a burning need for revenge against those who destroyed his family. |
-| **Descrição:** Antigo aventureiro ressuscitado, agora com o alter ego Zeldris, envolvido em magias Illithid e mistérios espaciais.                                                                                                                                  | **Description:** Former adventurer resurrected, now with the alter ego Zeldris, involved in Illithid magics and space mysteries.                                                                                                                                 |
-![Zeldris](pc_zeldris_varus_09.png)
+| <img src="pc_zeldris.png"/>|
+| --------------------------------------------------------------------------------------------------------------------------------------------------- |
 
+
+---
 
 
 
