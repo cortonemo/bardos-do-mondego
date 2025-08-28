@@ -17,7 +17,7 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-          cache: 'pip'                 # speeds up installs
+          cache: 'pip'
 
       - name: Install dependencies
         run: |
@@ -25,43 +25,44 @@ jobs:
           pip install -r requirements.txt
           mkdocs --version
 
-      # Your nav generator (kept)
       - name: Generate nav menu
         run: python scripts/gen_nav.py
 
       - name: Build MkDocs
         run: mkdocs build # add --strict if you want failures on broken links
 
-      # --- SSH setup + sanity check ---
-      - name: Start ssh-agent and add key
-        uses: webfactory/ssh-agent@v0.8.0
-        with:
-          ssh-private-key: ${{ secrets.OCI_SSH_KEY }}
-
-      - name: Trust host key + sanity ping
+      # --- SSH key (file-based) + trust host + sanity check ---
+      - name: Install SSH private key
         shell: bash
         run: |
           mkdir -p ~/.ssh && chmod 700 ~/.ssh
+          # OCI_SSH_KEY must be the FULL private key block with newlines
+          printf "%s\n" "${{ secrets.OCI_SSH_KEY }}" > ~/.ssh/id_deploy
+          chmod 600 ~/.ssh/id_deploy
           ssh-keyscan -H "${{ secrets.OCI_HOST }}" >> ~/.ssh/known_hosts
           chmod 600 ~/.ssh/known_hosts
-          ssh -o IdentitiesOnly=yes -o BatchMode=yes -o ConnectTimeout=10 \
-              ubuntu@${{ secrets.OCI_HOST }} "echo ok && uname -a"
 
       - name: Install rsync
         run: sudo apt-get update && sudo apt-get install -y rsync
 
+      - name: Sanity check SSH
+        shell: bash
+        run: |
+          ssh -i ~/.ssh/id_deploy -o IdentitiesOnly=yes -o BatchMode=yes -o ConnectTimeout=10 \
+            ubuntu@${{ secrets.OCI_HOST }} "echo ok && uname -a"
+
       - name: Deploy site with rsync
         shell: bash
         run: |
-          RSYNC_SSH='ssh -o IdentitiesOnly=yes -o BatchMode=yes -o ConnectTimeout=15'
+          RSYNC_SSH='ssh -i ~/.ssh/id_deploy -o IdentitiesOnly=yes -o BatchMode=yes -o ConnectTimeout=15'
           rsync -az --delete \
             -e "$RSYNC_SSH" \
             --rsync-path=/usr/bin/rsync \
             site/ ubuntu@${{ secrets.OCI_HOST }}:/var/www/bardos/
 
-      # Optional: verbose retry to capture SSH debug if deploy fails
+      # Optional verbose retry for diagnostics on failure
       - name: Debug rsync/ssh (verbose)
         if: failure()
         run: |
-          RSYNC_SSH='ssh -vvv -o IdentitiesOnly=yes -o BatchMode=yes -o ConnectTimeout=15'
+          RSYNC_SSH='ssh -vvv -i ~/.ssh/id_deploy -o IdentitiesOnly=yes -o BatchMode=yes -o ConnectTimeout=15'
           rsync -az --delete -e "$RSYNC_SSH" site/ ubuntu@${{ secrets.OCI_HOST }}:/var/www/bardos/
