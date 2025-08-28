@@ -2,28 +2,26 @@
 
 ## 998 CY, 15 de Patchwall
 
-| **Data Sessão** | 2025-01-02                                                                                                                                                                                                                                                                                                                                                    |
-| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **PCs**         | Dustin, Triss, Vaunia, Conan, Markus, Grix'Molah                                                                                                                                                                                                                                                                                                              |
-| **NPCs**        | Taverneiro, Borogrove (Treant)                                                                                                                                                                                                                                                                                                                                |
-| **Loot**        | Livro do druida (entregue ao taberneiro), Cajado das Flores (Markus), 10 moedas de ouro (Grix'Molah), 3 gemas (1 Conan, 2 Triss), Faca de prata (Triss), Bolota mágica (Vaunia)                                                                                                                                                                               |
-| **Missão**      | 5 Aventureiros acordam na Taberna. São os primeiros agentes da mesma.<br>- Dustin<br>- Triss<br>- Vaunia<br>- Conan<br>- Markus<br>- Grix'Molah                                                                                                                                                                                                               |
-| **Resumo**      | Recebem a missão de investigar um Riacho poluído perto de High Ery, por parte do Taberneiro.<br>- Conhecem Borogrove o Treant que lhes pede ajuda<br>- Descobrem que a Caverna está infectada por fungos<br>- Descobrem que é obra do Culto do Mal Elemental<br>- Matam Galin Fiduain o Druida (infetado pelos fungos)<br>- Markus recebe o Bastão das Flores |
+| **Data Sessão** | 2025-01-02                                                                                                                                                                                                                                                    |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **PCs**         | Dustin, Triss, Vaunia, Conan, Markus, Grix'Molah                                                                                                                                                                                                              |
+| **NPCs**        | Taverneiro, Borogrove (Treant)                                                                                                                                                                                                                                |
+| **Loot**        | Livro do druida (entregue ao taberneiro), Cajado das Flores (Markus), 10 moedas de ouro (Grix'Molah), 3 gemas (1 Conan, 2 Triss), Faca de prata (Triss), Bolota mágica (Vaunia)                                                                               |
+| **Missão**      | 5 Aventureiros acordam na Taberna. São os primeiros agentes da mesma.<br>Recebem a missão de investigar um Riacho poluído perto de High Ery, por parte do Taberneiro.<br>                                                                                     |
+| **Resumo**      | - Conhecem Borogrove o Treant que lhes pede ajuda<br>- Descobrem que a Caverna está infectada por fungos<br>- Descobrem que é obra do Culto do Mal Elemental<br>- Matam Galin Fiduain o Druida (infetado pelos fungos)<br>- Markus recebe o Bastão das Flores |
 
 ---
-
 ## 998 CY, 28 de Patchwall
 
-| **Data Sessão** | 2025-01-09                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **PCs**         | Dustin, Triss, Vaunia, Conan, Markus                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| **NPCs**        | Kristryd Splitanvil, Thargrin (anão morto), Hook Horror, Rust Monster, Giant Spider                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| **Loot**        | Dentes de Hook Horror, topázio (Triss), carta de Thargrin, promessa de ajuda futura de Kristryd, item mágico possível                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| **Missão**      | O taberneiro tem uma visão de um anão preso numa mina e recruta 5 aventureiros para o salvar.<br>- Dustin<br>- Triss<br>- Vaunia<br>- Conan<br>- Markus                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| **Resumo**      | - Anão é Christid Splitanvil, presidente de Blackstone  <br>  - Anão é Christid Splitanvil, presidente de Blackstone  <br>  - Foi atacado na mina por um Hook Horror  <br>  - Clérigo de Paelor  <br>  - Caso voltem às montanhas ele irá ajudar e recompensar os aventureiros  <br>- Encontram na mina uma carta num esqueleto de Thargrin que se despedia da família de forma muito emotiva, devolvem-na a Christid Splitanvil  <br>- Descobrem que estão no mundo de Greyhawk, o nome da vila (Blackstone) e as minas nas montanhas de Cairn  <br><br><br><br><br><br><br> |
+| **Data Sessão** | 2025-01-09                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **PCs**         | Dustin, Triss, Vaunia, Conan, Markus                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| **NPCs**        | Kristryd Splitanvil, Thargrin (anão morto), Hook Horror, Rust Monster, Giant Spider                                                                                                                                                                                                                                                                                                                                                                                                        |
+| **Loot**        | Dentes de Hook Horror, topázio (Triss), carta de Thargrin, promessa de ajuda futura de Kristryd, item mágico possível                                                                                                                                                                                                                                                                                                                                                                      |
+| **Missão**      | O taberneiro tem uma visão de um anão preso numa mina e recruta 5 aventureiros para o salvar.                                                                                                                                                                                                                                                                                                                                                                                              |
+| **Resumo**      | - Anão é Christid Splitanvil, presidente de Blackstone  <br>	- Foi atacado na mina por um Hook Horror  <br>	- - Cle é um clérigo de Paelor  <br>	- Caso voltem às montanhas ele irá ajudar e recompensar os aventureiros  <br>- Encontram na mina uma carta num esqueleto de Thargrin que se despedia da família de forma muito emotiva, devolvem-na a Christid Splitanvil  <br>- Descobrem que estão no mundo de Greyhawk, o nome da vila (Blackstone) e as minas nas montanhas de Cairn  |
 
 ---
-
 ## 998 CY, 01 de Ready'reat
 
 | **Data Sessão** | 2025-01-15                                                                                                                                                                                                                                                                                                     |
@@ -35,7 +33,6 @@
 | **Resumo**      | - 1 Mês atrás tinha existido lá uma calamidade.<br>- A vila Kobold local está infestada por fungos<br>- Encontram Klipz o Kobold, não infectado<br>- A infestação é causada pelo Culto do Mal elementar<br>  - Liderado por Vaelkor Ashbrand, "fungo purificará o mundo da fraqueza"<br>- Conseguem o derrotar |
 
 ---
-
 ## 998 CY, 01 de Ready'reat
 
 | **Data Sessão** | 2025-01-15                                                                                                                                                                                                                                                                                    |
@@ -43,11 +40,10 @@
 | **PCs**         | Endouvan, Orianna, Gauthak, Lone Straw, Arkos                                                                                                                                                                                                                                                 |
 | **NPCs**        | Kaldros Veynor, Kythria, goblins,  wolf, bugbear                                                                                                                                                                                                                                              |
 | **Loot**        | 50 GP (Kaldros), 25 GP (inimigos), pistas para o acampamento goblin                                                                                                                                                                                                                           |
-| **Missão**      | 5 Aventureiros recebem a missão de reconhecimento de terreno por parte da sobrinha (Kythria ) do Taberneiro, partem em busca do rio Neen<br>- Endouvan<br>- Orianna<br>- Gauthak<br>- Lone Straw<br>- Arkos                                                                                   |
+| **Missão**      | 5 Aventureiros recebem a missão de reconhecimento de terreno por parte da sobrinha (Kythria ) do Taberneiro, partem em busca do rio Neen                                                                                                                                                      |
 | **Resumo**      | - Encontram um mercador:<br>   - Kaldros <br>    - Comerciante sofisticado e bem-falante, que está viajando de Peculiar Manor** para Blackfair Manor<br>- Combatem goblins<br>  - Derrotam os Goblins e descobrem que foram contratados por Bandidos<br>- Retornam à taberna triunfantes.<br> |
 
 ---
-
 ## 998 CY, 07 de Ready'reat
 
 | **Data Sessão** | 2025-01-23                                                                                                              |
@@ -59,7 +55,6 @@
 | **Resumo**      | - Descobrem gravuras misteriosas nas paredes<br>- Significado desconhecido, parecem alienígenas<br>- Exploram a caverna |
 
 ---
-
 ## 998 CY, 08 de Ready'reat
 
 | **Data Sessão** | 2025-01-23                                                                                                                                                                                                                                                                                                                                                                                                                         |
@@ -71,7 +66,6 @@
 | **Resumo**      | - Grupo desenvolve telepatia limitada entre si<br>- Grix sonha com elfos  Eladrin e Titania<br>- Kobolds atacam os cultistas<br>- Encontram Clipse (kobold), que revela domínio do dragão Syzzin<br>- Markus é charmed por Syzzin; dragão hostil ao culto dos fungos<br>- Altar de Wee Jas (patrona de Markus )<br>- Conhecem Rix (kobold), falam sobre comércio e minas<br>- Floresta recupera, mas altar mantém influência fiend |
 
 ---
-
 ## 998 CY, 20 de Ready'reat
 
 | **Data Sessão** | 2025-01-29                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
@@ -94,7 +88,6 @@
 | **Resumo**      | - Grupo chega ao acampamento goblin<br>- Libertam prisioneiros (humanos, elfos, goblins submissos)<br>- Enfrentam Jogmaahx<br>	- Xamã goblin<br>	- A fazer um ritual para Nerull<br>- Descoberta de carta de Vaelkor Ashbrand<br>- Destruição do acampamento e retorno à taberna<br>- Recompensa e rumores de novos perigos. |
 
 ---
-
 ## 998 CY, 01 de Sunsebb
 
 | **Data Sessão** | 2025-01-30                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
@@ -108,7 +101,6 @@
 
 
 ---
-
 ## 998 CY, 01 de Sunsebb
 
 | **Data Sessão** | 2025-02-13                                                                                                                                                                                                                                                                                                                                                                                                                |
@@ -120,7 +112,6 @@
 | **Resumo**      | - conhecem Myria (anã) e Jeraldina (meio-orc)<br>- Ataque de kobolds e kobold alado<br>	- Seguidores de Nerzul!<br>- Kai reconhece um dos kobolds como Cavaleiro da Luz, tenta protegê-lo<br>	- Kobold suicida-se durante interrogatório<br>- Encontram  bilhete sobre o baile em Blackfair Manor,<br>- Encontram referência ao regresso da Dama Sombria, <br>- Encontram medalhões com moedas de bando rival de Greyhawk |
 
 ---
-
 ## 998 CY, 02 de Sunsebb
 
 | **Data Sessão** | 2025-02-20                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
@@ -132,7 +123,6 @@
 | **Resumo**      | - Grupo descansa em tenda emprestada por Myria e Jeraldina;<br>- Encontra Flynn, novo membro enviado pelo taberneiro<br>- Chegada a Eribend; Dolrea Vas recebe-os e pede ajuda para distúrbios e rotas comerciais<br>	 - Dolrea revela desaparecimentos de comerciantes/famílias, quadro de raptos diários<br>	- Taverneiro relata vítimas desaparecendo em casa ou no caminho, sem sinais de magia óbvia<br> - Seis encapuzados atacam o grupo na taberna; combate<br>	 - Nos corpos, lista de sete nomes: Dolrea Vas é o próximo alvo |
 
 ---
-
 ## 998 CY, 03 de Sunsebb
 
 | **Data Sessão** | 2025-02-13                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
@@ -143,9 +133,7 @@
 | **Missão**      | Um dos taberneiros mais velhos, que ainda trata a Taverna por a Companhia envia um grupo para explorar grutas a sul                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | **Resumo**      | - Encontram Baltigard (humano, conhecido de Brok) e Cocas (bullywug, amigo de infância de Conan)<br> - Lider da povoação, Mestre Yoda relata ataque de cria de basilisco<br>- Encontram uma pintura rupestre de nave a entregar pedras a três pessoas<br>- Encontram e derrotam um Basilisco<br>- Colocam as três pedras numa caixa sobre o altar<br>- Regressam à aldeia dos bullywugs,onde Conan encontra o amigo <br> - A aldeia prepara-se para mudanças após o ritual.<br>- Grupo viaja ao Lago Umbra, guiados por presságios do ritual<br> - Revelação sobre a ligação entre as pedras e o ciclo sombrio do lago<br>- encontram uma nava Ilithid que investiga,<br> - Thoren (mestre de Sage, Mal Elemental) ataca com lacaios<br> - Thoren rouba a caixa com as três pedras mágicas<br> - Descobrem missão de Thoren: dominar pântano, gruta, vingar-se de Baltigard<br> - Perseguem os lacaios e recuperam as pedras restantes. |
 
-
 ---
-
 ## 998 CY, 04 de Sunsebb
 
 | **Data Sessão** | 2025-03-06                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
@@ -157,7 +145,6 @@
 | **Resumo**      | - conhecem  criatura que só dizia a verdade, mas em troca de coisas<br>- Conheceram a Rainha e possiveis pretendentes<br>	 - Dustin foi logo ter com a Pryssana, com qual se começou logo<br> - O drayl e a Triss não estavam a ter muita sorte<br>- Após um combate Pryssana a tentar esgueirar-se e a colocar pózinhos nos pés de vários convidados<br>- Pryssana obrigada a raptar os nobres<br>- Salvam os nobres e soltam a Pryssana<br>- Dustin e Pryssana pelo que parece ficaram sobre uma profecia de "Fated Lovers" |
  
 ---
-
 ## 998 CY, 04 de Sunsebb
 
 | **Data Sessão** | 2025-03-06                                                                                 |
@@ -169,7 +156,6 @@
 | **Resumo**      | - Há uma emboscada<br>- Chegam à mansão Blackfair<br>- Receção pelo mordomo Alaric         |
 
 ---
-
 ## 998 CY, 10 de Sunsebb
 
 | **Data Sessão** | Não especificada                                                                       |
@@ -181,7 +167,6 @@
 | **Resumo**      | - Ataques são devido ao Mestre dos Ratos <br>- Conseguem impedir e frustar o seu plano |
 
 ---
-
 ## 998 CY, 17 de Sunsebb
 
 | **Data Sessão** | 2025-03-13                                                                                                                                               |
@@ -192,11 +177,7 @@
 | **Missão**      | <br>Grupo escoltado por Baltigard e mercenários da Companhia Sangue & Ouro com a missão de  abrir rota segura no pântano para caravanas                  |
 | **Resumo**      | - Negociação com tribo lizardfolk; <br>	- pelo momento paz ténue<br>		- Possível aliança ou conflito<br>- Baltigard oferece novo contrato e recompensas. |
 
-
-
-
 ---
-
 ## 999 CY, 03 de Fireseek
 
 | **Data Sessão** | 2025-03-13                                                                                                                                                                                 |
@@ -208,7 +189,6 @@
 | **Resumo**      | - Recebidos pelo Mordomo Visconde<br>	- relutante, recepção fria<br> - Confronto com espírito ancestral; <br>	- resolução do mistério<br>	- Libertação do fantasma, família recupera a paz |
  
 ---
-
 ## 999 CY, 07 de Fireseek
 
 | **Data Sessão** | 2025-03-13                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
@@ -220,7 +200,6 @@
 | **Resumo**      | - Kai recebe carta de chantagem: segredo prestes a ser revelado <br>- Nas ruínas da Casa Vanthir,um Drow, Raveth revela querer usar Kai para restaurar o prestígioda casa.<br>- Oferece à Triss informações sobre os drows em Greyhawk e ligações secretas de Iuz com o Subterrâneo.<br>- São interrompidos por Paladinos de Beltar<br>	- Inquisidor Vareth Lionmane (líder): Meio-elfo, frio e metódico. Mestre em rastreamento mágico. Vê Dustin como presságio divino.<br>	- Sybel Astren: Arqueira implacável, deseja eliminar Dustin.<br>	- Garruk Valstein: Meio-orc brutal, vê Dustin como impressionante, não ameaça.<br>	- Sir Brand Orvain: Anão devoto e rígido, considera Dustin uma afronta ao destino.<br>	- Luthor “Martelo da Fé” Greystone: Fanático e cruel, quer esmagar Raveth e matar Dustin.<br>- Dustin é Capturado<br>- Raveth foge combinando encontro em Greyhawk |
  
 ---
-
 ## 999 CY, 07 de Fireseek
 
 | **Data Sessão** | 2025-03-13                                                                                                                                                                                       |
@@ -232,7 +211,6 @@
 | **Resumo**      | - São emboscados por bandidos leais ao culto de Nerzul.<br>- Existem rumores de reuniões secretas e a cidade está em sitio<br>- Impedem o Ritual sombrio de Odrak (o lider deste braço do culto) |
  
 ---
-
 ## 999 CY, 08 de Fireseek
 
 | **Data Sessão** | 2025-03-20                                                                                                                                                            |
@@ -244,7 +222,6 @@
 | **Resumo**      |  Encontram o templo e confrontam Gogrom<br>- Libertam Krixis, lobo transforma-se em kobold.<br>- Retornam à taberna para celebrar, fortalecendo laços com os kobolds. |
 
 ---
-
 ## 999 CY, 08 de Fireseek
 
 | **Data Sessão** | 2025-03-20                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
@@ -256,7 +233,6 @@
 | **Resumo**      | - Dustin capturado por paladinos de Beltar, levado para o Castelo Ruína-de-Ébano.<br>	- É interrogado fisicamente e psicológicamente<br>- Dustin recebe ajuda de Prysanna (fey) que aparece e se junta aos aventureiros para o salvar.<br>- Confronto final com Alto-Inquisidor Malrik Dorn<br>- Impedem ritual divino.<br>- Prysanna não reconhece Triss<br>- Prysanna informa Dustin que estão permanentemente ligados, Dustin em dívida, ela irá cobrar no futuro<br>- Prysanna volta para a sua dimensão e abre portal de fuga<br>- Os Paladinos descobrem a localização da taberna<br>- Os Paladinos atacam a taberna<br>- A Taberna é teleportada para a cidade Livre de Greyhawk<br>- A Taberna está sob um feitiço forte que a máscara de estranhos <br>- Os aventureiros ficam com um anel mágico que os permite sempre encontrar a Taberna dentro da Cidade. Só assim a conseguem encontrar. |
 
 ---
-
 ## 999 CY, 08 de Fireseek
 
 | **Data Sessão** | 2025-03-20                                                                                                                                                                                                                                          |
@@ -267,9 +243,7 @@
 | **Missão**      | O taberneiro mais antigo, que se refere à taberna como a Companhia, pede à party para recuperar as três pedras mágicas.                                                                                                                             |
 | **Resumo**      | - Investigam um templo no pântano<br>- Dois mind flayers atacam: Baltigard e Varus morrem.<br>- Nave Illithid aparece e rapta a party.<br>- A bordo da nave o grupo consegue tomar conta da mesma<br>- Nave despenha-se na cidade livre de Greyhawk |
 
-
 ---
-
 ## 999 CY, 10 de Fireseek
 
 | **Data Sessão** | 2025-04-03                                                                                                                                                                                      |
@@ -280,11 +254,7 @@
 | **Missão**      | Um grupo de aventureiros é contratado por Dandan para resgatar uma família de kobolds.                                                                                                          |
 | **Resumo**      | - Enfrentam guardas humanos e bestas mecânicas nos esgotos.<br>- Libertam kobolds, escapam por passagens secretas.<br>- Ganham respeito dos kobolds locais e pistas sobre a guilda dos ladrões. |
 
-
-
-
 ---
-
 ## 999 CY, 15 de Fireseek
 
 | **Data Sessão** | 2025-04-03                                                                                           |
@@ -295,9 +265,7 @@
 | **Missão**      | Um grupo de aventureiros infiltra-se no covil da guilda dos ladrões.                                 |
 | **Resumo**      | - Descobrem um plano de tráfico de artefatos.<br>- Conseguem provas para as autoridades de Greyhawk. |
 
-
 ---
-
 ## 999 CY, 04 de Readying
 
 | **Data Sessão** | 2025-04-03                                                                                                                                                                                                                                                                                                                                                            |
@@ -309,7 +277,6 @@
 | **Resumo**      | - Sarvian conhece Trixie the Goblin, passando uma tarde louca de devassidão com ela<br>- Investigações levam a esconderijos subterrâneos e comerciantes suspeitos.<br>- Descobrem túnel secreto conectando a guilda dos ladrões ao porto.<br>- Descobrem um covil dos Piratas da Rosa Negra<br>- Sarvian descobre que a Irmã dele éa lider dos piratas (Kilmy Midlor) |
 
 ---
-
 ## 999 CY, 15 de Readying
 
 | **Data Sessão** | 2025-04-03                                                                                                                                                                                                                               |
@@ -321,7 +288,6 @@
 | **Resumo**      | - Party salva vítimas e enfrenta criaturas flamejantes.<br>- Investigação leva a rivalidades comerciais e magia proibida.<br>- Confrontam um mago incendiário, apagam o fogo e recolhem provas.<br>- Autoridades reconhecem bravura      |
  
 ---
-
 ## 999 CY, 27 de Readying
 
 | **Data Sessão** | 2025-04-03                                                                                                                 |
@@ -333,7 +299,6 @@
 | **Resumo**      | - Encontram resistência de moradores antigos e líderes de bairro.<br>- Desarmam a situação com carisma e perícias sociais. |
 
 ---
-
 ## 999 CY, 27 de Coldeven
 
 | **Data Sessão** | 2025-04-10                                                                                                                                                                                                                                                                                    |
@@ -344,9 +309,7 @@
 | **Missão**      | Grupo de aventureiros participa numa procissão religiosa pelas ruas.                                                                                                                                                                                                                          |
 | **Resumo**      | - É oferecido um ceptro ritual à cidade.<br>- Líder da Ordem Escarlate faz discurso;<br>- O objeto parece amaldiçoado e o evento é interrompido por aparição espectral e pânico.<br>- Party intervém para proteger civis e investigar o ceptro.<br>- Descobrem selo mágico na base do objeto. |
 
-
 ---
-
 ## 999 CY, 07 de Planting
 
 | **Data Sessão** | 2025-04-10                                                                                                                                                                                                                                                                                                                      |
@@ -358,7 +321,6 @@
 | **Resumo**      | - Este grupo recebe um anel mágico que os permite sempre encontrar a Taberna dentro da Cidade. Só assim a conseguem encontrar.<br>- Exploram diversos mercados<br>- Notam figuras suspeitas ligadas ao culto do mal elemental.<br>- Seguindo suspeitos, descobrem base secreta dos cultistas.<br>- Derrotam este capítulo local |
 
 ---
-
 ## 999 CY, 10 de Planting
 
 | **Data Sessão** | 2025-04-10                                                                                                    |
@@ -368,13 +330,8 @@
 | **Loot**        | Poção de restauração, espelho mágico, medalhão protetor                                                       |
 | **Missão**      | Um grupo de Aventureiros recebe um pedido de ajuda para resgatar Abigail, filha de camponeses de Pessegueiro. |
 | **Resumo**      | - Grupo investiga mansão abandonada <br>- Libertam Abigail e encontram vestígios de magia de outra dimensão.  |
-  
-
-
-
  
 ---
-
 ## 999 CY, 12 de Planting
 
 | **Data Sessão** | 2025-04-24                                                                                                                                                                                                                                                                                   |
@@ -386,7 +343,6 @@
 | **Resumo**      | - Investigação na casa da família revela pistas: diário, mapa, paixão por ruínas.<br>- Seguindo o diário, grupo evita perigos fora do caminho.<br>- Entrada armadilhada nas ruínas ao norte de Greyhawk.<br>- Aria é resgatada e Gema das Cinco Vozes é encontrada e entregue ao Taberneiro. |
 
 ---
-
 ## 999 CY, 12 de Planting
 
 | **Data Sessão** | 2025-04-24                                                                                                                                                                         |
@@ -397,9 +353,7 @@
 | **Missão**      | Grupo de aventureiros  descobre a cidade                                                                                                                                           |
 | **Resumo**      | - Guilda local de assassinos propõe uma missão de reconhecimento ao Culto do Mal Elemental<br>- Seguindo suspeitos, party encontra uma base secreta do culto.<br>- Destroem a base |
 
-
 ---
-
 ## 999 CY, 18 de Planting
 
 | **Data Sessão** | 2025-05-29                                                                                                                                                                                 |
@@ -412,7 +366,6 @@
 | **Resumo**      | - Entram no Armazém Hexagonal<br>- Infiltram cassino “O Quinto Jogo”<br>- Recebem carta de Lord Aleister Devraine com instruções secretas<br>- Entregam fragmento a Lord Aleister Devraine |
 
 ---
-
 ## 999 CY, 01 de Flocktime
 
 | **Data Sessão** | 2025-06-05                                                                                                                                         |
@@ -424,7 +377,6 @@
 | **Resumo**      | - Dustin recebe visão de Pryssana<br>- Grupo vai ao Vale de Lytharien, protegido por tribo de kobolds<br>- Dustin retira fluido do corno com êxito |
 
 ---
-
 ## 999 CY, 02 de Flocktime
 
 | **Data Sessão** | 2025-06-19                                                                                                                                                                                              |
@@ -436,7 +388,6 @@
 | **Resumo**      | - Descobrem laboratório arcano selado sob estrutura<br>- Ratos inteligentes em sociedade tribal com culto de sangue<br>- Colapso da caverna, cidade ignora eventos<br>	- Cidade ignora o que se passou. |
 
 ---
-
 ## 999 CY, 05 de Flocktime
 
 | **Data Sessão** | 2025-07-10                                                                                                                                                                                                                                                                   |
@@ -447,12 +398,7 @@
 | **Missão**      | Leo, Zahel e Ulma recebem bilhetes misteriosos para o Museu das Maravilhas Naturais e Arcanas de Greyhawk.                                                                                                                                                                   |
 | **Resumo**      | - Edifício degradado mas com detalhes renovados.<br>- Gnomo escondido revela plano mortal do curador Darsen: transformar visitantes em peças de exposição.<br>- Libertam Ketrich<br>- Darsen tenta ressuscitar esposa entregando almas a um demónio, mas é traído por Raelit |
 
-
-
-
-
 ---
-
 ## 999 CY, 05 de Flocktime
 
 | **Data Sessão** | 2025-07-17                                                                                                                                                                                                                                                  |
@@ -463,9 +409,7 @@
 | **Missão**      | Os aventureiros conhecem Lady Silvra, que possui um título de propriedade e uma carta enigmática.                                                                                                                                                           |
 | **Resumo**      | - No Solar de Lady Silvra recebem uma carta escrita em dracónico arcaico.<br>- Conhecem Wenla, uma livreira gnoma, <br>- Eldric marca aulas de Infernal com a curadora Lyra.<br>- O grupo parte da cidade em direção às terras altas.<br>- Derrotam Goblins |
 
-
 ---
-
 ## 999 CY, 05 de Flocktime
 
 | **Data Sessão** | 2025-07-24                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
@@ -477,7 +421,6 @@
 | **Resumo**      | - Possibilidade de ganhar prémios no Coliseu é mencionada.<br>- Grix embebeda-se, Eirwen desmaia de tão bêbada; Ulma cuida de Eirwen.<br>- Grupo segue para os esgotos a partir do Gardens Quarter.<br>- Tentativa de desvio ao templo do patrono de Grix, mas regressam. <br>- Encontram piratas Orquídeas Negras e o capitão Ralph; <br>- Ralph e tripulação são poupados após o combate.<br>- Levam Ralph inconsciente à guarda, descobrindo que ele é um nobre disfarçado e as Orquídeas são crianças de rua. |
 
 ---
-
 ## 999 CY, 06 de Flocktime
 
 | **Data Sessão** | 2025-07-24                                                                                                                                                  |
@@ -488,9 +431,7 @@
 | **Missão**      | Descobrir a localização da herança da Lady Silvra                                                                                                           |
 | **Resumo**      | - Grupo recruta Wandering Sage<br>- Eldric engana tribo com história dracónica<br>- Encontram ruínas submersas<br>- Derotam Esqueletos nas ruinas submersas |
 
-
 ---
-
 ## 999 CY, 07 de Flocktime
 | **Data Sessão** | 2025-07-31                                                                                                                                                                                                                                                          |
 | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -499,6 +440,5 @@
 | **Loot**        | gold                                                                                                                                                                                                                                                                |
 | **Missão**      | Descobrir a localização da herança da Lady Silvra                                                                                                                                                                                                                   |
 | **Resumo**      | - Grupo chega a estância controlada por kobolds.<br>- Recebem serviços do spa.<br>- Revelam que Lady Scale é fantasma.<br>- Kobolds acreditam ser deusa do barulho.<br>- Combate contra Lady Scale e fantasmas.<br>- Estância purificada, mas mistérios permanecem. |
-
 
 ---
