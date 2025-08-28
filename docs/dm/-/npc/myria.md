@@ -3,7 +3,7 @@
 
 Sessões: 4 | Datas: 2025-01-23 | Fontes: s04_-_2025-01-23.txt | Tags: npc, acampamento, informante
 
-![Myria](blank.png)
+![Myria](docs/dm/-/npc/blank.png)
 
 | Português | English |
 |-----------|---------|

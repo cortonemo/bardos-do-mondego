@@ -2,7 +2,7 @@
 
 Sessão: 1 | Data: 2025-08-02 | Fonte: s01.txt | Tags: localização, caverna, fungos, perigo
 
-![Caverna Infestada](blank.png)
+![Caverna Infestada](docs/dm/-/locations/blank.png)
 
 | English | Português |
 |---------|-----------|

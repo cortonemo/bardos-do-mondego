@@ -3,7 +3,7 @@
 
 Sessões: 13 | Datas: 2025-03-13 | Fontes: s13_-_2025-03-13.txt | Tags: localizacao, loja, magico
 
-![Loja Olho de Boccob](blank.png)
+![Loja Olho de Boccob](docs/dm/-/locations/blank.png)
 
 | Português | English |
 |-----------|---------|

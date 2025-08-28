@@ -3,7 +3,7 @@
 
 Sessão: 3 | Data: 2025-04-18 | Fonte: s03.txt | Tags: localização, ruína, fungo, combate, aldeia
 
-![Aldeia Abandonada do Vale](blank.png)
+![Aldeia Abandonada do Vale](docs/dm/-/locations/blank.png)
 
 | English | Português |
 |---------|-----------|

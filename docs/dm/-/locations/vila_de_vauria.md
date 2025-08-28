@@ -3,7 +3,7 @@
 
 Sessões: 9 | Datas: 2025-03-06 | Fontes: s09_-_2025-03-06.txt | Tags: localizacao, vila
 
-![Vila de Vauria](blank.png)
+![Vila de Vauria](docs/dm/-/locations/blank.png)
 
 | Português | English |
 |-----------|---------|

@@ -3,7 +3,7 @@
 
 Sessões: 29 | Datas: 2025-07-24 | Fontes: s29_-_2025-07-24.txt | Tags: localizacao, esgotos
 
-![Esgotos de Greyhawk](blank.png)
+![Esgotos de Greyhawk](docs/dm/-/locations/blank.png)
 
 | Português | English |
 |-----------|---------|

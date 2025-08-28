@@ -3,7 +3,7 @@
 
 Sessões: várias | Datas: várias | Fontes: vários | Tags: universidade, magia, greyhawk
 
-![Universidade de Artes Mágicas](blank.png)
+![Universidade de Artes Mágicas](docs/dm/-/locations/blank.png)
 
 | Português | English |
 |-----------|---------|

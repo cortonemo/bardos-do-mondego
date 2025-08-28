@@ -2,7 +2,7 @@
 
 Sessão: 3 | Data: 2025-04-18 | Fonte: s03.txt | Tags: pc | Jogador: Jota
 
-![Usopp](blank.png)
+![Usopp](docs/dm/-/pc/blank.png)
 
 | Português | English |
 |-----------|---------|

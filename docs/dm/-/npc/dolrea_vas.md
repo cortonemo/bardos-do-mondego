@@ -3,7 +3,7 @@
 
 Sessões: 9 | Datas: 2025-03-06 | Fontes: s09_-_2025-03-06.txt | Tags: npc, half-elf, recrutadora
 
-![Dolrea Vas](blank.png)
+![Dolrea Vas](docs/dm/-/npc/blank.png)
 
 | Português | English |
 |-----------|---------|

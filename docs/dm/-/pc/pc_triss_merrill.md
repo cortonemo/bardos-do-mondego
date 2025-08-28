@@ -4,7 +4,7 @@
 
 Sessões: 112, 14, 16, 22 | Datas: várias | Fontes: s01_-_2025-01-02.txt, ..., s22_-_2025-06-05.txt | Tags: pc, bruxa, drow | Jogadora: Cristiana Martinho
 
-![Triss](blank.png)
+![Triss](docs/dm/-/pc/blank.png)
 
 | Português | English |
 |-----------|---------|

@@ -7,7 +7,7 @@ Sessões:
 
 Tags: npc, gnomo, aliado
 
-![Zael](blank.png)
+![Zael](docs/dm/-/npc/blank.png)
 
 | English | Português |
 |---------|-----------|

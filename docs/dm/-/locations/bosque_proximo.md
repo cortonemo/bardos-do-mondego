@@ -2,7 +2,7 @@
 
 Sessão: 1 | Data: 2025-08-02 | Fonte: s01.txt | Tags: localização, floresta
 
-![Bosque Próximo](blank.png)
+![Bosque Próximo](docs/dm/-/locations/blank.png)
 
 | English | Português |
 |---------|-----------|

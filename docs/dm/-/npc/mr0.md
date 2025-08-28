@@ -3,7 +3,7 @@
 
 Sessões: 3, 13, 27 | Datas: 2025-01-15, 2025-03-13, 2025-07-10 | Fontes: s03_-_2025-01-15.txt, s13_-_2025-03-13.txt, s27_-_2025-07-10.txt | Tags: npc, guildmaster, greyhawk
 
-![Mr.0](blank.png)
+![Mr.0](docs/dm/-/npc/blank.png)
 
 | Português | English |
 |-----------|---------|

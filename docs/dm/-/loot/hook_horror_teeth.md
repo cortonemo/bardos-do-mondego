@@ -4,7 +4,7 @@
 
 Sessão: 2 | Data: (data não especificada) | Fonte: s02.txt | Tags: loot, trophy
 
-![Hook Horror Teeth](blank.png)
+![Hook Horror Teeth](docs/dm/-/loot/blank.png)
 
 | English | Português |
 |---------|-----------|

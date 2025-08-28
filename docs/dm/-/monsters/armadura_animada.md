@@ -3,7 +3,7 @@
 
 Sessões: 16 | Datas: 2025-04-24 | Fontes: extra_relato_crianca_perdida.txt | Tags: monstro, construto, cripta
 
-![Armadura Animada](blank.png)
+![Armadura Animada](docs/dm/-/monsters/blank.png)
 
 | Português | English |
 |-----------|---------|

@@ -3,7 +3,7 @@
 
 Sessões: várias | Datas: várias | Fontes: vários | Tags: mercado, greyhawk
 
-![Mercado de Greyhawk](blank.png)
+![Mercado de Greyhawk](docs/dm/-/locations/blank.png)
 
 | Português | English |
 |-----------|---------|

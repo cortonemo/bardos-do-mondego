@@ -4,7 +4,7 @@
 
 Sessão: 2 | Data: (data não especificada) | Fonte: s02.txt | Tags: localização, montanhas
 
-![Cairn Mountains](blank.png)
+![Cairn Mountains](docs/dm/-/locations/blank.png)
 
 | English | Português |
 |---------|-----------|

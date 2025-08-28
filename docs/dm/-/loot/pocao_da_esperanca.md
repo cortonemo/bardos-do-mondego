@@ -3,7 +3,7 @@
 
 Sessões: 1 | Datas: 2025-01-02 | Fontes: s01_-_2025-01-02.txt | Tags: loot, poção, mágico
 
-![Poção da Esperança](blank.png)
+![Poção da Esperança](docs/dm/-/loot/blank.png)
 
 | Português | English |
 |-----------|---------|

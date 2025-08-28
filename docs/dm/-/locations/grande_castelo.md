@@ -2,7 +2,7 @@
 
 Sessão: 1 | Data: 2025-08-02 | Fonte: s01.txt | Tags: localização, castelo, início
 
-![Grande Castelo](blank.png)
+![Grande Castelo](docs/dm/-/locations/blank.png)
 
 | English | Português |
 |---------|-----------|

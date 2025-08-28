@@ -6,7 +6,7 @@ Sessões:
 
 Tags: npc, paladino
 
-![Luthor](blank.png)
+![Luthor](docs/dm/-/npc/blank.png)
 
 | English | Português |
 |---------|-----------|

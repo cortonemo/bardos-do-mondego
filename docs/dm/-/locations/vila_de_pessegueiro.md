@@ -3,7 +3,7 @@
 
 Sessões: 14 | Datas: 2025-04-10 | Fontes: s14_-_2025-04-10.txt | Tags: localizacao, vila
 
-![Vila de Pessegueiro](blank.png)
+![Vila de Pessegueiro](docs/dm/-/locations/blank.png)
 
 | Português | English |
 |-----------|---------|

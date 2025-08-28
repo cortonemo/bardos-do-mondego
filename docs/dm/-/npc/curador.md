@@ -7,7 +7,7 @@ Sessões:
 
 Tags: npc, vilao, museu
 
-![Curador](blank.png)
+![Curador](docs/dm/-/npc/blank.png)
 
 | English | Português |
 |---------|-----------|

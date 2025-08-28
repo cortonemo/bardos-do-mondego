@@ -3,7 +3,7 @@
 
 Sessões: 16 | Datas: 2025-04-24 | Fontes: extra_relato_crianca_perdida.txt | Tags: localizacao, casa, greyhawk
 
-![Casa dos Greenbottle](blank.png)
+![Casa dos Greenbottle](docs/dm/-/locations/blank.png)
 
 | Português | English |
 |-----------|---------|

@@ -4,7 +4,7 @@
 
 Sessão: 2 | Data: (data não especificada) | Fonte: s02.txt | Tags: hazard, fungi
 
-![Yellow Mold](blank.png)
+![Yellow Mold](docs/dm/-/monsters/blank.png)
 
 | English | Português |
 |---------|-----------|

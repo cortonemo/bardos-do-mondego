@@ -7,7 +7,7 @@ Sessões:
 
 Tags: localizacao, fonte
 
-![Garden Quarter Fountain](blank.png)
+![Garden Quarter Fountain](docs/dm/-/locations/blank.png)
 
 | English | Português |
 |---------|-----------|

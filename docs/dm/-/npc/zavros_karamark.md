@@ -3,7 +3,7 @@
 
 Sessões: 6, 9 | Datas: 2025-02-13, 2025-03-06 | Fontes: s06_-_2025-02-13.txt, s09_-_2025-03-06.txt | Tags: npc, mago, torre_do_eclipse
 
-![Zavros Karamark](blank.png)
+![Zavros Karamark](docs/dm/-/npc/blank.png)
 
 | Português | English |
 |-----------|---------|

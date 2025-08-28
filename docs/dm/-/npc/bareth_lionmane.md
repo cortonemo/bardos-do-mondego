@@ -6,7 +6,7 @@ Sessões:
 
 Tags: npc, paladino
 
-![Bareth Lionmane](blank.png)
+![Bareth Lionmane](docs/dm/-/npc/blank.png)
 
 | English | Português |
 |---------|-----------|

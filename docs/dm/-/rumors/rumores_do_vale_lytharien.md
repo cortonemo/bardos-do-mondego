@@ -3,7 +3,7 @@
 
 Sessões: 22 | Datas: 2025-06-05 | Fontes: s22_-_2025-06-05.txt | Tags: rumor, vale, lenda, unicórnio
 
-![Rumores do Vale de Lytharien](blank.png)
+![Rumores do Vale de Lytharien](docs/dm/-/rumors/blank.png)
 
 | Português | English |
 |-----------|---------|

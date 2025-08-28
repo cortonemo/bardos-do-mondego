@@ -3,7 +3,7 @@
 
 Sessões: 6 | Datas: 2025-02-13 | Fontes: s06_-_2025-02-13.txt | Tags: monstro, nevoa, caverna
 
-![Criatura de Névoa](blank.png)
+![Criatura de Névoa](docs/dm/-/monsters/blank.png)
 
 | Português | English |
 |-----------|---------|

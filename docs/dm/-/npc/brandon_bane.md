@@ -6,7 +6,7 @@ Sessões:
 
 Tags: npc, paladino
 
-![Brandon Bane](blank.png)
+![Brandon Bane](docs/dm/-/npc/blank.png)
 
 | English | Português |
 |---------|-----------|

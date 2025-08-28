@@ -3,7 +3,7 @@
 
 Sessões: 27 | Datas: 2025-07-10 | Fontes: s27_-_2025-07-10.txt | Tags: localizacao, jardim, distrito
 
-![Jardim de Greyhawk](blank.png)
+![Jardim de Greyhawk](docs/dm/-/locations/blank.png)
 
 | Português | English |
 |-----------|---------|

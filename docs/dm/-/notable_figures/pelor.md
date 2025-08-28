@@ -4,7 +4,7 @@
 
 Sessão: 2 | Data: (data não especificada) | Fonte: s02.txt | Tags: religião, deidade
 
-![Pelor](blank.png)
+![Pelor](docs/dm/-/notable_figures/blank.png)
 
 | English | Português |
 |---------|-----------|
