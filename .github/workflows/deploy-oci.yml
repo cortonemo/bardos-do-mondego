@@ -2,7 +2,8 @@ name: Deploy MkDocs to OCI
 
 on:
   push:
-    branches: [main]
+    branches: [ main ]
+  workflow_dispatch:
 
 jobs:
   deploy:
@@ -15,7 +16,8 @@ jobs:
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'   # For mkdocs and plugins
+          python-version: '3.11'
+          cache: 'pip'                 # speeds up installs
 
       - name: Install dependencies
         run: |
@@ -23,31 +25,43 @@ jobs:
           pip install -r requirements.txt
           mkdocs --version
 
-      # --- Auto-generate nav from docs/ ---
+      # Your nav generator (kept)
       - name: Generate nav menu
         run: python scripts/gen_nav.py
-      # ------------------------------------
 
-      # Build MkDocs with strict mode to catch broken links
       - name: Build MkDocs
-        run: mkdocs build # --strict
+        run: mkdocs build # add --strict if you want failures on broken links
 
-      - name: Setup SSH key
+      # --- SSH setup + sanity check ---
+      - name: Start ssh-agent and add key
+        uses: webfactory/ssh-agent@v0.8.0
+        with:
+          ssh-private-key: ${{ secrets.OCI_SSH_KEY }}
+
+      - name: Trust host key + sanity ping
+        shell: bash
         run: |
-          mkdir -p ~/.ssh
-          printf "%s" "${{ secrets.OCI_SSH_KEY }}" > ~/.ssh/id_rsa
-          chmod 600 ~/.ssh/id_rsa
+          mkdir -p ~/.ssh && chmod 700 ~/.ssh
           ssh-keyscan -H "${{ secrets.OCI_HOST }}" >> ~/.ssh/known_hosts
+          chmod 600 ~/.ssh/known_hosts
+          ssh -o IdentitiesOnly=yes -o BatchMode=yes -o ConnectTimeout=10 \
+              ubuntu@${{ secrets.OCI_HOST }} "echo ok && uname -a"
 
       - name: Install rsync
         run: sudo apt-get update && sudo apt-get install -y rsync
 
-      - name: Check rsync path and version
-        run: |
-          which rsync
-          echo "$PATH"
-          rsync --version
-
       - name: Deploy site with rsync
+        shell: bash
         run: |
-          /usr/bin/rsync -avz --delete --rsync-path=/usr/bin/rsync site/ ubuntu@${{ secrets.OCI_HOST }}:/var/www/bardos/
+          RSYNC_SSH='ssh -o IdentitiesOnly=yes -o BatchMode=yes -o ConnectTimeout=15'
+          rsync -az --delete \
+            -e "$RSYNC_SSH" \
+            --rsync-path=/usr/bin/rsync \
+            site/ ubuntu@${{ secrets.OCI_HOST }}:/var/www/bardos/
+
+      # Optional: verbose retry to capture SSH debug if deploy fails
+      - name: Debug rsync/ssh (verbose)
+        if: failure()
+        run: |
+          RSYNC_SSH='ssh -vvv -o IdentitiesOnly=yes -o BatchMode=yes -o ConnectTimeout=15'
+          rsync -az --delete -e "$RSYNC_SSH" site/ ubuntu@${{ secrets.OCI_HOST }}:/var/www/bardos/
