@@ -1,35 +1,26 @@
-# Grix'molah
-![[pc_grix_molah.jpg|200]]
+# Grix’molah
+
+| <img src="pc_grix_molah.jpg" height="200"/>|
+| ------------------------------------------------------------------------------------------- |
 
 | Português | English |
-|-----------|---------|
+| --------- | ------- |
 | **Jogador:** Ricardo Guerra | **Player:** Ricardo Guerra |
-| **Espécie:** Goliath masculino / Guerreiro 1 / Bruxo 7 | **Species:** Male Goliath / Fighter 1 / Warlock 7 |
-| **Classe:** Warlock | **Class:** Warlock |
-| **Nível:** 8 | **Level:** 8 |
+| **Idade:** 31 | **Age:** 31 |
+| **Espécie:** Goliath (masculino) | **Species:** Male Goliath |
+| **Classe:** Bruxo (Pacto) / Guerreiro 1 | **Class:** Warlock / Fighter 1 |
+| **Antecedente:** — | **Background:** — |
+| **Alinhamento:** — | **Alignment:** — |
+| **Nível:** 8 (Warlock 7 / Fighter 1) | **Level:** 8 (Warlock 7 / Fighter 1) |
 | **Ficha D&D Beyond:** [Link](https://www.dndbeyond.com/characters/138750238) | **D&D Beyond Sheet:** [Link](https://www.dndbeyond.com/characters/138750238) |
-| **Sessões jogadas:** 6 | **Sessions played:** 6 |
-| **Sessões DM:** desconhecido | **DM Sessions:** unknown |
 | **Contacto:** +351 914 884 073 | **Contact:** +351 914 884 073 |
+| **⚔️ Itens**<br>**Armadura/Escudo:** Splint armor enspelled (shield)<br>**Armas:** Maul +1, Halberd (Vicious Maul em preparação)<br>**Items mágicos:** Staff of Titania; Cloak of Protection; Wand of the Pact Keeper +1; Flower Candle (Egalar); Monocle of Secrets; Potion of Eternal Life; 5 Minor Healing Potions; Pixie Dust; Anel da Taverna; Hat of Vermin; GlimmerWeave (em estudo)<br>**Items não mágicos:** Guilded Flower (300 gp); Cultist robe; 6 Antitoxins; 3 pistols dismantled; Guard Badge; Winter Clothes; Fine Clothes; crowbar, rope, rations; vários objetos para vender<br>**Ouro:** 694.88 gp | **⚔️ Items**<br>**Armor/Shield:** Splint armor enspelled (shield)<br>**Weapons:** Maul +1, Halberd (Vicious Maul in progress)<br>**Magical Items:** Staff of Titania; Cloak of Protection; Wand of the Pact Keeper +1; Flower Candle (Egalar); Monocle of Secrets; Potion of Eternal Life; 5 Minor Healing Potions; Pixie Dust; Tavern Ring; Hat of Vermin; GlimmerWeave (being studied)<br>**Non-magical Items:** Guilded Flower (300 gp); Cultist robe; 6 Antitoxins; 3 dismantled pistols; Guard Badge; Winter Clothes; Fine Clothes; crowbar, rope, rations; several objects to sell<br>**Gold:** 694.88 gp |
+| **📖 História – Antes da Taberna**<br>- Filho de Goliath e humana, nasceu com complicações.<br>- Criado para herdar responsabilidades familiares (casamento arranjado, negócios de mercadores).<br>- Revoltou-se contra os pais, foi ameaçado de deserdamento.<br>- Abandonou o nome Olmiki Chryspo e adotou Grix’molah.<br>- Dorsla, ferreiro e amigo, forneceu-lhe o equipamento inicial.<br>- Aventurou-se em busca de artefato mágico numa floresta.<br>- Guiado por um fey elegante, passou por testes estranhos.<br>- Todos os companheiros morreram no “jogo” do fey; Grix sobreviveu ao pedir ajuda a Titania.<br>- Fez contrato com Titania: investigar a Taverna, ser extradimensional misterioso. | **📖 Story – Before the Tavern**<br>- Son of a Goliath and human, born with complications.<br>- Raised to inherit family duties (arranged marriage, merchant business).<br>- Rebelled against parents, threatened with disinheritance.<br>- Abandoned the name Olmiki Chryspo and adopted Grix’molah.<br>- Dorsla, a dwarven smith, gave him his first gear.<br>- Ventured to seek a magical artifact in a forest.<br>- Guided by a refined fey, endured strange trials.<br>- All companions died in the fey’s “game”; Grix survived by calling Titania.<br>- Bound in contract with Titania: investigate the Tavern, a mysterious extradimensional being. |
+| **📖 História – Depois da Taberna**<br>- Primeira aventura: ajudou um velho Treant com infeção fúngica; ganhou o *Staff of Flowers*.<br>- Sonhos recorrentes com Titania e Egalar, o paladino.<br>- Purificou altares corrompidos de Nerull, erguendo-os para Titania.<br>- Em High Ery encontrou baús com corpos e fungos amarelos; reclamou o templo para Titania.<br>- Ajudou a aldeia dos ratos, salvando Ratu, aliado rato falante.<br>- Durante o incidente da nave em Greyhawk, recebeu a *Flower Candle* de Ustrax.<br>- Staff transformado em *Staff of Titania*, ganhou novos poderes.<br>- No templo de Titania: enfrentou Karag, recuperou o Coração de Cristal, reconstruiu o templo com Naivara Lys’Fenn.<br>- Libertou caveiras aprisionadas com Triss, recebendo inspiração de Titania.<br>- Desenvolveu relação com Triss, combinando ir ao baile juntos.<br>- Descobriu e usou um *Time Device*, viajando no tempo.<br>- Teve visões de planos e cidades élficas nas Feywilds.<br>- Salvou um unicórnio corrompido, ganhou favor com Titania.<br>- A sua relação com Titania e Egalar aprofunda-se. | **📖 Story – After the Tavern**<br>- First adventure: aided an old Treant with fungal infection; gained *Staff of Flowers*.<br>- Recurrent dreams of Titania and Egalar the paladin.<br>- Purified Nerull’s corrupted altars, reconsecrating them to Titania.<br>- In High Ery, found corpses with yellow fungus; reclaimed the temple.<br>- Helped the rat village, befriending Ratu the talking rat.<br>- During the crashed ship incident in Greyhawk, received *Flower Candle* from Ustrax.<br>- Staff transformed into *Staff of Titania*, gained new powers.<br>- At Titania’s temple: fought Karag, restored the Crystal Heart, rebuilt temple with Naivara Lys’Fenn.<br>- Freed tortured skulls with Triss, earning Titania’s inspiration.<br>- Developed relationship with Triss, arranged to attend the ball.<br>- Discovered and used a *Time Device*, briefly traveling through time.<br>- Glimpsed planes and elven cities in the Feywilds.<br>- Saved a corrupted unicorn, gained Titania’s favor.<br>- His bond with Titania and Egalar deepens. |
+| **🎭 Dramatis Persona**<br>**NPCs de influência direta:**<br>- Christid Splitanvil – dwarf from Blackstone Mountains, allied after being saved.<br>- Grav – merchant from High Ery.<br>- Valito – gnome trader, helped recover his shop.<br>- Regalis – innkeeper, informed about Titania/Tiamat.<br>- Kakashin & League of Adventurers – from another world/plane.<br>- Syzzin – dragon, left after kobold leader’s sacrifice.<br>**Antagonistas:**<br>- Fey who killed first group of allies.<br>- Cult of Tiamat; followers of Nerull & Elemental Evil.<br>**Aliados:**<br>- Favor with Titania (3 temples reconsecrated, unicorn saved).<br>- Egalar, Titania’s paladin.<br>- Naivara Lys’Fenn, acolyte of Titania’s temple.<br>- Funguys adventuring party.<br>- Triss, with whom he develops romance.<br>- Bastion & Ratu the rat. | **🎭 Dramatis Persona**<br>**Direct Influence NPCs:**<br>- Christid Splitanvil – dwarf from Blackstone Mountains, allied after being saved.<br>- Grav – merchant from High Ery.<br>- Valito – gnome trader, helped recover his shop.<br>- Regalis – innkeeper, informed about Titania/Tiamat.<br>- Kakashin & League of Adventurers – from another world/plane.<br>- Syzzin – dragon, left after kobold leader’s sacrifice.<br>**Antagonists:**<br>- Fey who killed first group of allies.<br>- Cult of Tiamat; followers of Nerull & Elemental Evil.<br>**Allies:**<br>- Favor with Titania (3 temples reconsecrated, unicorn saved).<br>- Egalar, Titania’s paladin.<br>- Naivara Lys’Fenn, acolyte of Titania’s temple.<br>- Funguys adventuring party.<br>- Triss, budding romance.<br>- Bastion & Ratu the rat. |
+| **🔮 OBS**<br>- *Staff of Titania*: destroys evil altars, raises altars to Titania; casts *Entangle* twice/day; calms lycanthropes.<br>- *Monocle of Secrets*: reveals true value of mundane objects, advantage on Investigation.<br>- *Flower Candle*: wish once, with a cost.<br>- *Potion of Eternal Life*: heals demons (2d6), grants that much max HP to mortals.<br>- *Time Device*: bonus action, return to start of turn; formerly full time travel; now drained, kept by Triss.<br>- *Pixie Dust*: invisibility for 1h; worth 100 gp.<br>- *Guard Badge*: deputy of Greyhawk, helps in investigations. | **🔮 Notes**<br>- *Staff of Titania*: destroys evil altars, raises altars to Titania; casts *Entangle* twice/day; calms lycanthropes.<br>- *Monocle of Secrets*: reveals true value of mundane objects, advantage on Investigation.<br>- *Flower Candle*: wish once, with a cost.<br>- *Potion of Eternal Life*: heals demons (2d6), grants that much max HP to mortals.<br>- *Time Device*: bonus action, return to start of turn; formerly full time travel; now drained, kept by Triss.<br>- *Pixie Dust*: invisibility for 1h; worth 100 gp.<br>- *Guard Badge*: deputy of Greyhawk, helps in investigations. |
 
-| Português | English |
-|-----------|---------|
-| **Resumo rápido:** Bruxo enigmático que serve Titania, a Rainha do Verão, embarcando em aventuras e missões sob a sua influência. | **Quick synopsis:** Enigmatic warlock serving Titania, the Summer Queen, embarking on adventures and quests under her influence. |
-| **História cuidadosamente fabricada (o que Grix'molah conta aos outros):** Começou a vida como comerciante responsável e dedicado, mas inspirado pelas histórias do amigo Dorsla, decidiu deixar tudo para trás e tornar-se aventureiro. | **Carefully Crafted Story (what Grix'molah tells others):** Started life as a responsible and dedicated merchant, but inspired by his friend Dorsla's tales, he left it all behind to become an adventurer. |
-| **Verdadeira história — Origens:** Criado para seguir as expectativas familiares, Grix'molah fugiu após confrontar o pai e recuperou um amuleto de Titania. Numa missão, tornou-se prisioneiro de um fey até implorar pela ajuda de Titania, que o libertou e lhe deu uma missão: investigar a misteriosa taberna, apagando-lhe as memórias desse pacto. | **True Backstory — Origins:** Raised to meet family expectations, Grix'molah fled after confronting his father and reclaimed an amulet of Titania. On a mission, he became a prisoner of a fey until begging Titania for help, who freed him and tasked him with investigating the mysterious tavern, erasing his memory of the pact. |
-
-
-
-
-
-
-
-
-
-
-
-
-
+---
 
 
 
