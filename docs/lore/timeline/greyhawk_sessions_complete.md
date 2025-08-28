@@ -1,5 +1,5 @@
-# 📜 Timeline da Campanha
-
+ 
+# 🗓️ Linha Temporal da Campanha Bardos do Mondego (West Marches)
 ## 998 CY, 15 de Patchwall
 
 | **Data Sessão** | 2025-01-02                                                                                                                                                                                                                                                    |
