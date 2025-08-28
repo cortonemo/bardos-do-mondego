@@ -2,79 +2,87 @@
 
 ## 998 CY, 15 de Patchwall
 
-| **Data Sessão** | 2025-01-02                                                                                                                                                                                                                                                                                                                                                                    |
-| --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **PCs**         | Dustin, Triss, Vaunia, Conan, Markus, Grix'Molah                                                                                                                                                                                                                                                                                                                              |
-| **NPCs**        | Taverneiro, Borogrove (Treant), Druida infetado                                                                                                                                                                                                                                                                                                                               |
-| **Loot**        | Cajado das Flores (Markus), Livro do druida (entregue), 10 PO (Grix), 3 gemas (1 Conan, 2 Triss), Faca de prata (Triss), Bolota mágica (Vaunia)                                                                                                                                                                                                                               |
-| **Resumo**      | - Os aventureiros acordam na Taberna como primeiros agentes.  <br>- Missão: investigar riacho poluído perto de High Ery (pedido do taberneiro).  <br>- Conhecem Borogrove, o Treant, que pede ajuda.  <br>- Descobrem caverna infestada por fungos, obra do Culto do Mal Elemental.  <br>- Matam Galin Fiduain (druida infetado).  <br>- Markus recebe o Bastão das Flores.   |
+| **Data Sessão** | 2025-01-02 |
+| --------------- | ---------- |
+| **PCs**         | Dustin, Triss, Vaunia, Conan, Markus, Grix'Molah |
+| **NPCs**        | Taverneiro, Borogrove (Treant) |
+| **Loot**        | Livro do druida (entregue ao taberneiro), Cajado das Flores (Markus), 10 moedas de ouro (Grix'Molah), 3 gemas (1 Conan, 2 Triss), Faca de prata (Triss), Bolota mágica (Vaunia) |
+| **Missão**      | 5 Aventureiros acordam na Taberna. São os primeiros agentes da mesma.<br>- Dustin<br>- Triss<br>- Vaunia<br>- Conan<br>- Markus<br>- Grix'Molah |
+| **Resumo**      | Recebem a missão de investigar um Riacho poluído perto de High Ery, por parte do Taberneiro.<br>- Conhecem Borogrove o Treant que lhes pede ajuda<br>- Descobrem que a Caverna está infectada por fungos<br>- Descobrem que é obra do Culto do Mal Elemental<br>- Matam Galin Fiduain, o Druida infetado<br>- Markus recebe o Bastão das Flores |
 
 ---
 
 ## 998 CY, 28 de Patchwall
 
-| **Data Sessão** | 2025-01-09                                                                                                                                                                                                                                                                                                                           |
-| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **PCs**         | Dustin, Triss, Vaunia, Conan, Markus                                                                                                                                                                                                                                                                                                 |
-| **NPCs**        | Kristryd Splitanvil, Thargrin (anão morto), Hook Horror, Rust Monster, Giant Spider                                                                                                                                                                                                                                                  |
-| **Loot**        | Dentes de Hook Horror, Topázio (Triss), Carta de Thargrin, promessa de ajuda futura de Kristryd                                                                                                                                                                                                                                      |
-| **Resumo**      | - Taverneiro tem visão de anão preso numa mina → missão de resgate.  <br>- Anão salvo: Kristryd Splitanvil, presidente de Blackstone, clérigo de Pelor.  <br>- Encontram carta de despedida de Thargrin e devolvem-na a Kristryd.  <br>- Descobrem que estão no mundo de Greyhawk → vila Blackstone, minas das montanhas de Cairn.   |
+| **Data Sessão** | 2025-01-09 |
+| --------------- | ---------- |
+| **PCs**         | Dustin, Triss, Vaunia, Conan, Markus |
+| **NPCs**        | Kristryd Splitanvil, Thargrin (anão morto), Hook Horror, Rust Monster, Giant Spider |
+| **Loot**        | Dentes de Hook Horror, topázio (Triss), carta de Thargrin, promessa de ajuda futura de Kristryd, item mágico possível |
+| **Missão**      | O taberneiro tem uma visão de um anão preso numa mina e recruta 5 aventureiros para o salvar.<br>- Dustin<br>- Triss<br>- Vaunia<br>- Conan<br>- Markus |
+| **Resumo**      | - Anão resgatado: Kristryd Splitanvil, presidente de Blackstone, clérigo de Pelor<br>- Foi atacado na mina por um Hook Horror<br>- Promete ajuda e recompensa futura caso retornem às montanhas<br>- Encontram a carta de Thargrin, despedindo-se da família<br>- Descobrem estar em Greyhawk, junto à vila de Blackstone e às minas das montanhas de Cairn |
 
 ---
 
-## 998 CY, 01 de Ready’reat
+## 998 CY, 01 de Ready'reat
 
-| **Data Sessão** | 2025-01-15                                                                                                                                                                                                                                                                               |
-| --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **PCs**         | Grix, Conan, Triss, Dustin, Usopp, Markus                                                                                                                                                                                                                                                |
-| **NPCs**        | Klikz, Vaelkor Ashbrand, cultistas, kobolds, elemental da terra                                                                                                                                                                                                                          |
-| **Loot**        | 50 GP, Poção de cura, Amuleto +1, Carta, 200 GP (taberneiro), refeições grátis (1 mês), armas/robes                                                                                                                                                                                      |
-| **Resumo**      | - Missão: investigar Vale do Vento Sombrio, rota comercial.  <br>- Vila kobold infestada por fungos → encontram Klikz (não infetado).  <br>- Causa: Culto do Mal Elemental, liderado por Vaelkor Ashbrand.  <br>- Vaelkor proclama “fungo purificará o mundo da fraqueza” → derrotado.   |
-
----
-
-## 998 CY, 01 de Ready’reat
-
-| **Data Sessão** | 2025-01-15                                                                                                                                                                                                                                                              |
-| --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **PCs**         | Endouvan, Orianna, Gauthak, Lone Straw, Arkos                                                                                                                                                                                                                           |
-| **NPCs**        | Kaldros Veynor, Kythria, goblins, lobo, bugbear                                                                                                                                                                                                                         |
-| **Loot**        | 50 GP (Kaldros), 25 GP (inimigos), pistas para o acampamento goblin                                                                                                                                                                                                     |
-| **Resumo**      | - Missão de reconhecimento do rio Neen (encomenda de Kythria, sobrinha do taberneiro).  <br>- Encontram mercador Kaldros (de Peculiar Manor para Blackfair Manor).  <br>- Combate contra goblins contratados por bandidos.  <br>- Grupo retorna triunfante à Taberna.   |
-
----
-## 998 CY, 07 de Ready’reat
-| **Data Sessão** | 2025-01-23                                                                                                                                         |
-| --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **PCs**         |                                                                                                                                                    |
-| **NPCs**        | Mago                                                                                                                                               |
-| **Loot**        |                                                                                                                                                    |
-| **Resumo**      | -  Grupo regressa à mina guiado por bússola mágica.  <br>- Descobrem gravuras alienígenas misteriosas nas paredes.  <br>- Exploração incompleta.   |
+| **Data Sessão** | 2025-01-15 |
+| --------------- | ---------- |
+| **PCs**         | Grix, Conan, Triss, Dustin, Usopp, Markus |
+| **NPCs**        | Klikz, Vaelkor Ashbrand, cultistas, kobolds, elemental da terra |
+| **Loot**        | 50 GP, poção de cura, amuleto +1, carta, 200 GP (taberneiro), refeições grátis (1 mês), armas e vestes de cultistas |
+| **Missão**      | 5 Aventureiros recebem missão do Taberneiro para investigar o Vale do Vento Sombrio, uma rota de comércio local. |
+| **Resumo**      | - Há 1 mês ocorreu uma calamidade no vale<br>- Vila kobold infestada por fungos<br>- Conhecem Klipz, um kobold não infetado<br>- Infestação causada pelo Culto do Mal Elemental<br>- Liderança de Vaelkor Ashbrand: “o fungo purificará o mundo da fraqueza”<br>- Derrotam Vaelkor Ashbrand |
 
 ---
 
-## 998 CY, 08 de Ready’reat
+## 998 CY, 01 de Ready'reat
 
-| **Data Sessão** | 2025-01-23                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **PCs**         | Triss, Markus, Conan, Vaunia, Dustin, Grix                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| **NPCs**        | Syzzin (dragão), Clipse (kobold), Rix (kobold), kobolds cultistas                                                                                                                                                                                                                                                                                                                                                                                               |
-| **Loot**        | 234GP, Pergaminhos (Alarm, Comprehend Languages), capas, espólios cultistas, rubi/esmeralda possível                                                                                                                                                                                                                                                                                                                                                            |
-| **Resumo**      | - Missão: voltar ao Vale Sombrio após estudo do fungo.  <br>- Grupo adquire telepatia limitada.  <br>- Grix sonha com elfos Eladrin e Titania.  <br>- Kobolds atacam cultistas → encontram Clipse (kobold aliado).  <br>- Conhecem Syzzin (dragão, hostil ao culto) → Markus é encantado.  <br>- Encontram altar de Wee Jas (patrona de Markus).  <br>- Conhecem Rix, discutem comércio/minas.  <br>- Floresta regenera, mas altar mantém influência sombria.   |
-
----
-
-## 998 CY, 20 de Ready’reat
-
-| **Data Sessão** | 2025-01-29                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **PCs**         | Orianna, Arkos, Lone, Wandering, Endor, Gaulutax                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| **NPCs**        | Kaldros, Geralt (taberneiro, filha doente), cultistas, fauna corrompida                                                                                                                                                                                                                                                                                                                                                                                                |
-| **Loot**        | Gemas (10 GP/cultista), poção de cura, cristal elemental corrompido                                                                                                                                                                                                                                                                                                                                                                                                    |
-| **Resumo**      | - Investigam rumores de doença em Two Fords.  <br>- Conhecem Kaldros (mercador) e Geralt (taberneiro, filha doente).  <br>- Descobrem ligação da doença à água do rio Ery.  <br>- Moinho abandonado coberto de fungos bioluminescentes → água contaminada.  <br>- Encontram símbolos elementais, anotações e recipientes de fungos alienígenas.  <br>- Descobrem plano do culto: expandir contaminação pelo rio.  <br>- Retornam com provas e potencial cura futura.   |
+| **Data Sessão** | 2025-01-15 |
+| --------------- | ---------- |
+| **PCs**         | Endouvan, Orianna, Gauthak, Lone Straw, Arkos |
+| **NPCs**        | Kaldros Veynor, Kythria, goblins, lobo, bugbear |
+| **Loot**        | 50 GP (Kaldros), 25 GP (inimigos), pistas para o acampamento goblin |
+| **Missão**      | Missão de reconhecimento ordenada por Kythria, sobrinha do Taberneiro, junto ao rio Neen. |
+| **Resumo**      | - Encontram mercador Kaldros, sofisticado e bem-falante, viajando de Peculiar Manor para Blackfair Manor<br>- Combatem goblins contratados por bandidos<br>- Derrotam-nos e regressam triunfantes à taberna |
 
 ---
 
+## 998 CY, 07 de Ready'reat
+
+| **Data Sessão** | 2025-01-23 |
+| --------------- | ---------- |
+| **PCs**         | Não especificado |
+| **NPCs**        | Mago |
+| **Loot**        | - |
+| **Missão**      | Grupo enviado de volta à mina guiado por bússola mágica. |
+| **Resumo**      | - Descobrem gravuras misteriosas nas paredes<br>- Significado desconhecido, parecem alienígenas<br>- Exploram a caverna |
+
+---
+
+## 998 CY, 08 de Ready'reat
+
+| **Data Sessão** | 2025-01-23 |
+| --------------- | ---------- |
+| **PCs**         | Triss, Markus, Conan, Vaunia, Dustin, Grix |
+| **NPCs**        | Syzzin (dragão), Clipse (kobold), Rix (kobold), kobolds cultistas |
+| **Loot**        | 234 GP, Pergaminho de Alarm, Pergaminho de Comprehend Languages, capas, saque dos cultistas, possível rubi/esmeralda |
+| **Missão**      | Missão do Taberneiro para voltar ao Vale Sombrio após estudo do fungo. |
+| **Resumo**      | - Grupo desenvolve telepatia limitada entre si<br>- Grix sonha com Eladrin e Titania<br>- Kobolds atacam os cultistas<br>- Conhecem Clipse (kobold), revelando dragão Syzzin<br>- Markus é encantado por Syzzin, dragão hostil ao culto<br>- Descobrem altar de Wee Jas (patrona de Markus)<br>- Conversam com Rix sobre comércio e minas<br>- Floresta recupera, mas altar mantém influência profana |
+
+---
+
+## 998 CY, 20 de Ready'reat
+
+| **Data Sessão** | 2025-01-29 |
+| --------------- | ---------- |
+| **PCs**         | Orianna, Arkos, Lone, Wandering, Endor, Gaulutax |
+| **NPCs**        | Kaldros, Geralt (taberneiro), cultistas, fauna corrompida |
+| **Loot**        | Gemas (10 GP/cultista), ervas e provas do moinho |
+| **Missão**      | Investigar rumores de doença em Two Fords. |
+| **Resumo**      | - Conhecem Kaldros (mercador) e Geralt (taberneiro com filha doente)<br>- Descobrem ligação da doença à água do rio Ery<br>- Investigam moinho abandonado coberto de cogumelos bioluminescentes<br>- Enfrentam fauna corrompida<br>- Descobrem símbolos elementais, anotações e recipientes de fungos alienígenas<br>- Concluem que o culto planeia atacar outras regiões via rio<br>- Retornam com provas e possível cura |
+
+---
 ## 998 CY, 22 de Ready’reat
 
 | **Data Sessão** | 2025-01-30                                                                                                                                                                                                                                                                                                                                                               |
@@ -395,11 +403,11 @@
 
 ## 998 CY, 31 de Reaping
 
-| **Data Sessão** | 2025-07-31 |
-|-----------------|------------|
-| **PCs**         | |
-| **NPCs**        | Kobolds do spa, Lady Scale (fantasma) |
-| **Loot**        | |
+| **Data Sessão** | 2025-07-31                                                                                                                                                                                                                                                          |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **PCs**         |                                                                                                                                                                                                                                                                     |
+| **NPCs**        | Kobolds do spa, Lady Scale (fantasma)                                                                                                                                                                                                                               |
+| **Loot**        |                                                                                                                                                                                                                                                                     |
 | **Resumo**      | - Grupo chega a estância controlada por kobolds.<br>- Recebem serviços do spa.<br>- Revelam que Lady Scale é fantasma.<br>- Kobolds acreditam ser deusa do barulho.<br>- Combate contra Lady Scale e fantasmas.<br>- Estância purificada, mas mistérios permanecem. |
 
 ---

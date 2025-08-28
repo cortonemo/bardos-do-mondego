@@ -5,7 +5,7 @@
 | Português                                                       | English                                                  |
 | --------------------------------------------------------------- | -------------------------------------------------------- |
 | - Encontram Wandering Sage e recrutam-no.                       | - Find Wandering Sage and recruit him.                   |
-| - Encontro diplomático com trogloditas entre ruínas.            | - Diplomatic encounter with lizardfolk in ruins.         |
+| - Encontro diplomático com lizardfolk entre ruínas.             | - Diplomatic encounter with lizardfolk in ruins.         |
 | - Eldric engana a tribo com história dracónica.                 | - Eldric bluffs tribe using Draconic tale.               |
 | - Troca cultural: culinária e adagas por membros da tribo.      | - Cultural exchange: cooking for daggers and people.     |
 | - Mencionadas ruínas submersas — possível ligação à lagoa azul. | - Submerged ruins mentioned — possible blue lagoon clue. |
