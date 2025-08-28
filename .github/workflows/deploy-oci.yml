@@ -25,44 +25,77 @@ jobs:
           pip install -r requirements.txt
           mkdocs --version
 
+      # Keep: your nav generator (it may change between updates)
       - name: Generate nav menu
         run: python scripts/gen_nav.py
 
       - name: Build MkDocs
-        run: mkdocs build # add --strict if you want failures on broken links
+        run: mkdocs build # add --strict to fail on broken links
 
-      # --- SSH key (file-based) + trust host + sanity check ---
+      # --- SSH key (file-based), normalize line endings, trust host ---
       - name: Install SSH private key
         shell: bash
         run: |
+          set -euo pipefail
           mkdir -p ~/.ssh && chmod 700 ~/.ssh
-          # OCI_SSH_KEY must be the FULL private key block with newlines
+
+          # OCI_SSH_KEY must be the FULL private key block (BEGIN/END + newlines)
           printf "%s\n" "${{ secrets.OCI_SSH_KEY }}" > ~/.ssh/id_deploy
+
+          # Normalize (fix CRLF if secret was pasted from Windows)
+          sed -i 's/\r$//' ~/.ssh/id_deploy
+
           chmod 600 ~/.ssh/id_deploy
+
+          # Validate the key parses (fails fast if malformed)
+          ssh-keygen -y -f ~/.ssh/id_deploy >/dev/null
+
+          # Pin host key to avoid interactive prompt
           ssh-keyscan -H "${{ secrets.OCI_HOST }}" >> ~/.ssh/known_hosts
           chmod 600 ~/.ssh/known_hosts
 
       - name: Install rsync
         run: sudo apt-get update && sudo apt-get install -y rsync
 
-      - name: Sanity check SSH
+      # Backoff handles "Exceeded MaxStartups" bursts on the server
+      - name: Sanity check SSH (with backoff)
         shell: bash
         run: |
-          ssh -i ~/.ssh/id_deploy -o IdentitiesOnly=yes -o BatchMode=yes -o ConnectTimeout=10 \
-            ubuntu@${{ secrets.OCI_HOST }} "echo ok && uname -a"
+          set -euo pipefail
+          SSH_OPTS="-i ~/.ssh/id_deploy -o IdentitiesOnly=yes -o BatchMode=yes -o ConnectTimeout=10"
+          # If your key is RSA and needed, uncomment next line in both SSH uses:
+          # SSH_OPTS="$SSH_OPTS -o PubkeyAcceptedAlgorithms=+ssh-rsa -o HostkeyAlgorithms=+ssh-rsa"
+
+          for s in 1 2 4 8 15; do
+            if ssh $SSH_OPTS ubuntu@${{ secrets.OCI_HOST }} "echo ok && uname -a"; then
+              exit 0
+            fi
+            echo "SSH not ready (possibly MaxStartups), retrying in ${s}s..."
+            sleep $s
+          done
+          echo "SSH sanity check failed"
+          exit 1
 
       - name: Deploy site with rsync
         shell: bash
         run: |
-          RSYNC_SSH='ssh -i ~/.ssh/id_deploy -o IdentitiesOnly=yes -o BatchMode=yes -o ConnectTimeout=15'
+          SSH_OPTS='-i ~/.ssh/id_deploy -o IdentitiesOnly=yes -o BatchMode=yes -o ConnectTimeout=15'
+          # If RSA needed, add the two -o options here too:
+          # SSH_OPTS="$SSH_OPTS -o PubkeyAcceptedAlgorithms=+ssh-rsa -o HostkeyAlgorithms=+ssh-rsa"
+
           rsync -az --delete \
-            -e "$RSYNC_SSH" \
+            -e "ssh $SSH_OPTS" \
             --rsync-path=/usr/bin/rsync \
             site/ ubuntu@${{ secrets.OCI_HOST }}:/var/www/bardos/
 
-      # Optional verbose retry for diagnostics on failure
+      # Optional: verbose retry for diagnostics on failure
       - name: Debug rsync/ssh (verbose)
         if: failure()
+        shell: bash
         run: |
-          RSYNC_SSH='ssh -vvv -i ~/.ssh/id_deploy -o IdentitiesOnly=yes -o BatchMode=yes -o ConnectTimeout=15'
-          rsync -az --delete -e "$RSYNC_SSH" site/ ubuntu@${{ secrets.OCI_HOST }}:/var/www/bardos/
+          SSH_OPTS='-vvv -i ~/.ssh/id_deploy -o IdentitiesOnly=yes -o BatchMode=yes -o ConnectTimeout=15'
+          # If RSA needed, mirror the options here too:
+          # SSH_OPTS="$SSH_OPTS -o PubkeyAcceptedAlgorithms=+ssh-rsa -o HostkeyAlgorithms=+ssh-rsa"
+
+          rsync -az --delete -e "ssh $SSH_OPTS" \
+            site/ ubuntu@${{ secrets.OCI_HOST }}:/var/www/bardos/
