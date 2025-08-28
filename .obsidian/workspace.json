@@ -61,14 +61,12 @@
             "id": "b53fbcb85f236878",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "docs/dm/-/pc/pc_zeldris_varus.md",
-                "mode": "source",
-                "source": false
+                "file": "docs/notable_figures/blank.png"
               },
-              "icon": "lucide-file",
-              "title": "pc_zeldris_varus"
+              "icon": "lucide-image",
+              "title": "blank"
             }
           }
         ],
@@ -217,8 +215,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b53fbcb85f236878",
+  "active": "8b60e7fd6b137849",
   "lastOpenFiles": [
+    "docs/dm/-/pc/pc_zeldris_varus.md",
     "docs/dm/-/pc/pc_zahel.md",
     "docs/dm/-/pc/pc_zeldris.png",
     "docs/dm/-/pc/pc_wagner.md",
