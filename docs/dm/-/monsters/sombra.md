@@ -3,7 +3,7 @@
 
 Sessões: 16 | Datas: 2025-04-24 | Fontes: extra_relato_crianca_perdida.txt | Tags: monstro, sombra, morto-vivo
 
-![Sombra](monster_blank.png)
+![Sombra](../../../assets/monsters/monster_blank.png)
 
 | Português | English |
 |-----------|---------|

@@ -8,7 +8,7 @@ Sessões:
 
 Tags: localizacao, altar
 
-![Altar de Celestia](..\..\..\assets\location\location_blank.png)
+![Altar de Celestia](../../../assets/location/location_blank.png)
 
 | English | Português |
 |---------|-----------|

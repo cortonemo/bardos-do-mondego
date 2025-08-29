@@ -3,7 +3,7 @@
 
 Sessões: 1, 7, 10 | Datas: 2025-01-02, 2025-02-20, 2025-03-13 | Fontes: s01_-_2025-01-02.txt, s07_-_2025-02-20.txt, s10_-_2025-03-13.txt | Tags: localizacao, cidade
 
-![Eribend](location_blank.png)
+![Eribend](../../../assets/location/location_blank.png)
 
 | Português | English |
 |-----------|---------|

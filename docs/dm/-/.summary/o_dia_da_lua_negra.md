@@ -3,7 +3,7 @@
 
 Sessão: 5 | Data: 2025-01-30 | Fontes: s05_-_2025-01-30.txt | Tags: aventura, eribend, ritual
 
-![O Dia da Lua Negra](blank.png)
+![O Dia da Lua Negra](../../../assets/location/location_blank.png)
 
 | Português | English |
 |-----------|---------|

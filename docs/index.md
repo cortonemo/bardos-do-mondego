@@ -1,7 +1,7 @@
 
 # ️West Marches  Wolrd of Greyhawk
 
-![Greyhawk](world_of_greyhawk.jpg)
+![Greyhawk](assets/location/world_of_greyhawk.jpg)
 
 Bem-vind@ à wiki da nossa campanha **West Marches**, com base na lendária **Free City of Greyhawk**.
 

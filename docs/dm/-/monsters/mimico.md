@@ -7,7 +7,7 @@ Sessões:
 
 Tags: npc, mimico, aliado
 
-![Mímico](monster_blank.png)
+![Mímico](../../../assets/monsters/monster_blank.png)
 
 | English | Português |
 |---------|-----------|

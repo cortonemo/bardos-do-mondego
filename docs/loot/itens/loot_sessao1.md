@@ -2,7 +2,7 @@
 
 Sessão: 1 | Data: 2025-08-02 | Fonte: s01.txt | Tags: loot
 
-![Loot da Sessão 1](object_blank.png)
+![Loot da Sessão 1](../../assets/loot/object_blank.png)
 
 | English | Português |
 |---------|-----------|

@@ -3,7 +3,7 @@
 
 Sessões: 6 | Datas: 2025-02-13 | Fontes: s06_-_2025-02-13.txt | Tags: monstro, elemental
 
-![Elemental de Fogo](monster_blank.png)
+![Elemental de Fogo](../../../assets/monsters/monster_blank.png)
 
 | Português | English |
 |-----------|---------|

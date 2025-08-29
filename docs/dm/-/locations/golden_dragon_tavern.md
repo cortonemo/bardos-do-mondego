@@ -9,7 +9,7 @@ Sessões:
 
 Tags: localizacao, taberna
 
-![Taberna do Dragão Dourado](location_blank.png)
+![Taberna do Dragão Dourado](../../../assets/location/location_blank.png)
 
 | English | Português |
 |---------|-----------|

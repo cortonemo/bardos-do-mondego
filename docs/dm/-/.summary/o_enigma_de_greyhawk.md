@@ -3,7 +3,7 @@
 
 Sessão: 3 | Data: 2025-01-15 | Fontes: s03_-_2025-01-15.txt | Tags: aventura, greyhawk, investigação
 
-![O Enigma de Greyhawk](blank.png)
+![O Enigma de Greyhawk](../../../assets/location/location_blank.png)
 
 | Português | English |
 |-----------|---------|

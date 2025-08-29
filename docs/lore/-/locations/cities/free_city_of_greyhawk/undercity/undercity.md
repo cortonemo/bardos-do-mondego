@@ -1,5 +1,5 @@
 # ️ Undercity of Greyhawk
-![Undercity](undercity.png)
+![Undercity](../../../../../../assets/location/undercity.png)
 
 | Português | English |
 |-----------|---------|

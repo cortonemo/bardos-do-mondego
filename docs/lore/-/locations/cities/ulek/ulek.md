@@ -1,7 +1,7 @@
 #  Duchy of Ulek "The Elven Duchy"
 *Duchado de Ulek "o Ducado Elvo"*
 ![coast_of_arms_ulek](../../../../../assets/location/coast_of_arms_ulek.png){width=150}
-![Ulek|400](ulek.png)
+![Ulek|400](../../../../../assets/location/ulek.png)
 
 | **Português (PT-PT)** | **English (EN-US)** |
 |----------------------|---------------------|

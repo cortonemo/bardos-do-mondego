@@ -3,7 +3,7 @@
 
 Sessões: 16 | Datas: 2025-04-24 | Fontes: extra_relato_crianca_perdida.txt | Tags: loot, relíquia, maldição, mágico
 
-![Relíquia Amaldiçoada](object_blank.png)
+![Relíquia Amaldiçoada](../../assets/loot/object_blank.png)
 
 | Português | English |
 |-----------|---------|

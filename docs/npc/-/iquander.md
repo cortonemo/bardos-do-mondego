@@ -1,4 +1,4 @@
-![Iquander](npc_blank.png)
+![Iquander](../../assets/npc/npc_blank.png)
 
 
 

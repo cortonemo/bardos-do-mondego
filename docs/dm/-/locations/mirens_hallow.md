@@ -3,7 +3,7 @@
 
 Sessões: 2, 8 | Datas: 2025-01-09, 2025-02-27 | Fontes: s02_-_2025-01-09.txt, s08_-_2025-02-27.txt | Tags: localizacao, vila
 
-![Mirens Hallow](location_blank.png)
+![Mirens Hallow](../../../assets/location/location_blank.png)
 
 | Português | English |
 |-----------|---------|

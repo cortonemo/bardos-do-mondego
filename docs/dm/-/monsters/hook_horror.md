@@ -4,7 +4,7 @@
 
 Sessão: 2 | Data: (data não especificada) | Fonte: s02.txt | Tags: monstro, underdark
 
-![Hook Horror](monster_blank.png)
+![Hook Horror](../../../assets/monsters/monster_blank.png)
 
 | English | Português |
 |---------|-----------|

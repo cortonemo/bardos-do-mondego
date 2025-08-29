@@ -4,7 +4,7 @@
 
 Sessão: 2 | Data: (data não especificada) | Fonte: s02.txt | Tags: localização, cidade
 
-![Greyhawk](location_blank.png)
+![Greyhawk](../../../assets/location/location_blank.png)
 
 | English | Português |
 |---------|-----------|

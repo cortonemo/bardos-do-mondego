@@ -1,4 +1,4 @@
-![Talandra Valaxar](npc_blank.png))
+![Talandra Valaxar](../../assets/npc/npc_blank.png))
 
 
 

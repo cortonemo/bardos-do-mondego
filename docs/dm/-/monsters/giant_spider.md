@@ -2,7 +2,7 @@
 
 Sessão: 2 | Data: (data não especificada) | Fonte: s02.txt | Tags: monstro, aracnídeo
 
-![Aranha Gigante](giant_spider.png)
+![Aranha Gigante](../../../assets/monsters/giant_spider.png)
 
 | **Português (PT-PT)** | **English (EN-US)** |
 |-----------------------|---------------------|

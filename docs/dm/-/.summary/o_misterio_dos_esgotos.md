@@ -3,7 +3,7 @@
 
 Sessão: 29 | Data: 2025-07-24 | Fontes: s29_-_2025-07-24.txt | Tags: aventura, greyhawk, esgotos, piratas
 
-![O Mistério dos Esgotos](blank.png)
+![O Mistério dos Esgotos](../../../assets/location/location_blank.png)
 
 | Português | English |
 |-----------|---------|

@@ -4,7 +4,7 @@
 
 Sessão: 2 | Data: (data não especificada) | Fonte: s02.txt | Tags: cidade, localização
 
-![Blackstone](location_blank.png)
+![Blackstone](../../../assets/location/location_blank.png)
 
 | English | Português |
 |---------|-----------|

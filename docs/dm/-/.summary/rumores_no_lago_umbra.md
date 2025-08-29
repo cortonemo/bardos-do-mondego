@@ -3,7 +3,7 @@
 
 Sessão: 6 | Data: 2025-02-13 | Fontes: s06_-_2025-02-13.txt | Tags: aventura, lago_umbra, mistério
 
-![Rumores no Lago Umbra](blank.png)
+![Rumores no Lago Umbra](../../../assets/location/location_blank.png)
 
 | Português | English |
 |-----------|---------|

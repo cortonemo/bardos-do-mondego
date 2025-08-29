@@ -3,7 +3,7 @@
 
 Sessões: 27, 28 | Datas: 2025-07-10, 2025-07-17 | Fontes: s27_-_2025-07-10.txt, s28_-_2025-07-17.txt | Tags: sala, museu, sub-location
 
-![Sala Subterrânea dos Frascos](object_blank.png)
+![Sala Subterrânea dos Frascos](../../assets/loot/object_blank.png)
 
 | Português | English |
 |-----------|---------|

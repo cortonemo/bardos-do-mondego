@@ -3,7 +3,7 @@
 
 Sessão: 2 | Data: 2025-01-09 | Fontes: s02_-_2025-01-09.txt | Tags: aventura, mirens_hallow, investigação
 
-![Mistérios de Mirens Hallow](blank.png)
+![Mistérios de Mirens Hallow](../../../assets/location/location_blank.png)
 
 | Português | English |
 |-----------|---------|

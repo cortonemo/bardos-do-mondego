@@ -1,7 +1,7 @@
 # Drayl Bharash
 
-| ![pc_drayl_bharash_00](../../../assets/pc/pc_drayl_bharash_00.png)|
-| ----------------------------------- |
+| ![pc_drayl_bharash_00](../../../assets/pc/pc_drayl_bharash_00.png){ width=200 } |
+| ------------------------------------------------------------------------------- |
 
 | Português | English |
 | --------- | ------- |

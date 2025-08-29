@@ -2,7 +2,7 @@
 
 Sessão: (não especificada) | Data: (não especificada) | Fonte: Greyhawk lore | Tags: localização, mansão, cavalaria, criador de cavalos
 
-![Blackfair Manor](location_blank.png)
+![Blackfair Manor](../../../assets/location/location_blank.png)
 
 | **Português (PT-PT)** | **English (EN-US)** |
 |-----------------------|--------------------|

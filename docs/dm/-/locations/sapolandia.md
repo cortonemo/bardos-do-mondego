@@ -3,7 +3,7 @@
 
 Sessões: 4, 8 | Datas: 2025-01-23, 2025-02-27 | Fontes: s04_-_2025-01-23.txt, s08_-_2025-02-27.txt | Tags: localizacao, aldeia, pântano
 
-![Sapolândia](location_blank.png)
+![Sapolândia](../../../assets/location/location_blank.png)
 
 | Português | English |
 |-----------|---------|

@@ -59,30 +59,18 @@
             "id": "3ea1a34bce3cc13d",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "docs/assets/location/free_city_of_irongate.jpg"
-              },
-              "icon": "lucide-image",
-              "title": "free_city_of_irongate"
-            }
-          },
-          {
-            "id": "27319c695fd1e9c1",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/dm/-/pc/pc_kai.md",
+                "file": "docs/dm/-/pc/pc_sarvian_midlor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "pc_kai"
+              "title": "pc_sarvian_midlor"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -227,53 +215,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8b60e7fd6b137849",
+  "active": "3ea1a34bce3cc13d",
   "lastOpenFiles": [
+    "docs/dm/-/pc/pc_raylahn.md",
+    "docs/dm/-/pc/pc_lucien.md",
+    "docs/dm/-/pc/pc_leo.md",
+    "docs/dm/-/pc/pc_ketrich_flavifer.md",
+    "docs/dm/-/pc/pc_kai.md",
+    "docs/dm/-/pc/pc_grix_molah.md",
+    "docs/dm/-/pc/pc_eirwen.md",
     "docs/dm/-/pc/pc_dustin_thorne.md",
     "docs/dm/-/pc/pc_drayl_bharash.md",
     "docs/dm/-/pc/pc_conan_barbaro_ra.md",
-    "docs/dm/-/pc/pc_kai.md",
-    "docs/lore/-/timeline/timelines/timeline_westmarches.md",
-    "Untitled.md",
-    "docs/lore/-/timeline/timelines/timeline_ancient.md",
-    "docs/lore/-/timeline/greyhawk_timeline_complete.md",
-    "docs/lore/-/timeline/greyhawk_sessions_complete.md",
-    "docs/index.md",
+    "docs/assets/pc/pc_eirwen_02.png",
+    "docs/dm/-/summary/s08_-_sombras_sobre_a_agua.md",
+    "docs/dm/-/summary/s08_-_sessoes_27_de_fevereiro.md",
+    "docs/dm/-/summary/s08_-_sessao_de_27_de_fevereiro_bardo_henrique.md",
+    "docs/dm/-/summary/s08_-_resumo_-_intriga_nas_ondas_de_lo_reltarma.md",
+    "docs/dm/-/summary/s08_-_intriga_nas_ondas_de_lo_reltarma.md",
+    "docs/dm/-/summary/s08_-_carta_gautak.md",
+    "docs/dm/-/summary/s07_-_sessoes_20_de_fevereiro.md",
+    "docs/dm/-/summary/s07_-_sessao_07_-_sessao_20_de_Fevereiro_com_a_dm_laura.md",
+    "docs/dm/-/summary/s06_-_sessoes_13_de_fevereiro.md",
+    "docs/dm/-/summary/s06_-_sessao_13_de_fevereiro_com_a_dm_laura.md",
+    "docs/dm/-/summary/s05_-_sessao_05_-_sessao_laura.md",
+    "docs/dm/-/summary/s05_-_sessao_05_-_sessao_de_30_de_janeiro_de_2025_andre.md",
+    "docs/dm/-/summary/s05_-_sessao_05_-_notas_laura.md",
+    "docs/dm/-/summary/s05_-_sessao_05_-_as_mascaras_da_morte.md",
+    "docs/dm/-/summary/s05_-_sessao_05_-_24o_dia_da_lua_negra.md",
+    "docs/dm/-/summary/s04_-_sessao_04_-_resumo_de_sessao_laura.md",
+    "docs/assets/location/location_blank.png",
+    "docs/dm/-/pc/a_atualizar/pc_markus_grimm_02.png",
+    "docs/dm/-/pc/a_atualizar/pc_wandering_sage.png",
+    "docs/dm/-/pc/a_atualizar/pc_silfir.png",
+    "docs/dm/-/pc/a_atualizar/pc_orianna.jpg",
+    "docs/dm/-/pc/a_atualizar/pc_markus_grimm_02 1.png",
+    "docs/dm/-/pc/a_atualizar/pc_markus_grimm_01 1.png",
+    "docs/dm/-/pc/a_atualizar/pc_markus_grimm_01.png",
+    "docs/dm/-/pc/a_atualizar/pc_frederick_freddy_02.png",
+    "docs/dm/-/pc/a_atualizar",
+    "docs/dm/-/summary",
     "docs/lore/-/timeline/timelines",
     "docs/lore/-/history",
-    "docs/loot/itens/topaz.md",
-    "docs/assets/loot/topaz.webp",
-    "docs/npc/-/lady_silvra_malren.md",
-    "docs/rumors/-/history_free_city_of_greyhawk.md",
-    "docs/organizations/-/the_company.md",
-    "docs/organizations/-/guildas_de_greyhawk.md",
-    "docs/npc/-/wenla_frott.md",
-    "docs/npc/-/tomtha_beaknose.md",
-    "portrait_tomtha_beaknose.png.md",
-    "docs/npc/-/talandra_valaxar.md",
-    "docs/npc/-/sister_blathine.md",
-    "docs/npc/-/o_taberneiro.md",
-    "docs/-/npc/-/o_taberneiro.png",
-    "docs/npc/-/neliara_de_oghma.md",
-    "docs/npc/-/mistress_lyra_quil.md",
-    "docs/npc/-/lord_aleister_devraine.md",
-    "docs/assets/npc/npc_blank.png",
-    "docs/-/npc/-/lady_silvra_malren.png",
-    "docs/npc/-/jandel_the_lintwatcher.md",
-    "docs/npc/-/iquander.md",
-    "docs/-/npc/-/IMG_0165.PNG",
-    "docs/-/npc/-/IMG_0162.PNG",
-    "docs/-/notable_figures/npc_blank.png",
-    "docs/-/lore/locations/cities/blank.png",
-    "docs/assets/location/free_city_of_irongate.jpg",
-    "docs/assets/location/free_city_of_irongate_coat_of_Arms.gif",
     "scripts/gen_nav.py",
     "scripts/gen_nav.py.bak",
     "docs/assets/rumor/ps89E1.tmp",
     "docs/assets/rumor",
     "docs/assets/New folder",
-    "docs/assets/organization/ps6A9E.tmp",
-    "docs/assets/organization",
-    "docs/assets/monster/ps8B6E.tmp"
+    "docs/assets/organization/ps6A9E.tmp"
   ]
 }

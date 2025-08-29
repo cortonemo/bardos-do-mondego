@@ -3,7 +3,7 @@
 
 Sessões: 14 | Datas: 2025-04-10 | Fontes: s14_-_2025-04-10.txt | Tags: monstro, guardião, caverna
 
-![Guardião da Caverna](monster_blank.png)
+![Guardião da Caverna](../../../assets/monsters/monster_blank.png)
 
 | Português | English |
 |-----------|---------|

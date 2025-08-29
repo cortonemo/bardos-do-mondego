@@ -4,7 +4,7 @@
 
 Sessão: 2 | Data: (data não especificada) | Fonte: s02.txt | Tags: monstro, fungi
 
-![Violet Fungi](monster_blank.png)
+![Violet Fungi](../../../assets/monsters/monster_blank.png)
 
 | English | Português |
 |---------|-----------|
