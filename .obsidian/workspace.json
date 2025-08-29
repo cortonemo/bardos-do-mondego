@@ -61,12 +61,14 @@
             "id": "b53fbcb85f236878",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "docs/notable_figures/blank.png"
+                "file": "docs/dm/-/pc/pc_kai.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "blank"
+              "icon": "lucide-file",
+              "title": "pc_kai"
             }
           }
         ],
@@ -215,8 +217,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8b60e7fd6b137849",
+  "active": "b53fbcb85f236878",
   "lastOpenFiles": [
+    "docs/notable_figures/blank.png",
     "docs/dm/-/pc/pc_zeldris_varus.md",
     "docs/dm/-/pc/pc_zahel.md",
     "docs/dm/-/pc/pc_zeldris.png",
@@ -252,7 +255,6 @@
     "docs/dm/-/pc/ficha não atual/pc_tabasco_de_lumeiros.md",
     "docs/dm/-/pc/ficha não atual/pc_silfir.md",
     "docs/dm/-/pc/ficha não atual/pc_orianna.md",
-    "docs/dm/-/pc/ficha não atual/pc_markus_grimm.md",
     "docs/dm/-/pc/ficha não atual",
     "docs/dm/-/pc/New folder",
     "docs/lore",
