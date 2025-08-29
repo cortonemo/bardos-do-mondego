@@ -73,12 +73,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/-/rumors/-/history_free_city_of_greyhawk.md",
+                "file": "docs/-/loot/itens/topaz.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "history_free_city_of_greyhawk"
+              "title": "topaz"
             }
           }
         ],
@@ -229,6 +229,10 @@
   },
   "active": "27319c695fd1e9c1",
   "lastOpenFiles": [
+    "docs/assets/loot/topaz.webp",
+    "docs/-/loot/itens/topaz.md",
+    "docs/-/npc/-/lady_silvra_malren.md",
+    "docs/-/rumors/-/history_free_city_of_greyhawk.md",
     "docs/-/organizations/-/the_company.md",
     "docs/-/organizations/-/guildas_de_greyhawk.md",
     "docs/-/npc/-/wenla_frott.md",
@@ -242,7 +246,6 @@
     "docs/-/npc/-/mistress_lyra_quil.md",
     "docs/-/npc/-/lord_aleister_devraine.md",
     "docs/assets/npc/npc_blank.png",
-    "docs/-/npc/-/lady_silvra_malren.md",
     "docs/-/npc/-/lady_silvra_malren.png",
     "docs/-/npc/-/jandel_the_lintwatcher.md",
     "docs/-/npc/-/iquander.md",
@@ -261,9 +264,6 @@
     "docs/assets/location/free_city_of_irongate_coat_of_Arms.gif",
     "docs/-/lore/locations/cities/free_city_of_greyhawk/artisans_quarter/guildhall_of_wizardry.md",
     "docs/-/lore/locations/cities/free_city_of_greyhawk/artisans_quarter/artisans_quarter.md",
-    "docs/-/lore/locations/cities/free_city_of_greyhawk/clerks_quarter/clerksburg.md",
-    "docs/-/lore/locations/cities/free_city_of_greyhawk/foreign_quarter/rua_do_dragao_enferrujado.md",
-    "docs/-/lore/locations/cities/free_city_of_greyhawk/foreign_quarter/foreign_quarter.md",
     "docs/assets/location/the_inn.jpeg",
     "scripts/gen_nav.py",
     "scripts/gen_nav.py.bak",

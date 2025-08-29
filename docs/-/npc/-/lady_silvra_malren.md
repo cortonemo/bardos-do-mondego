@@ -1,5 +1,5 @@
 # Lady Silvra Malren
-![[(npc_blank.png).png]]
+![[npc_blank.png]]
 
 | **Português (PT-PT)** | **English (EN-US)** |
 |-----------------------|---------------------|
