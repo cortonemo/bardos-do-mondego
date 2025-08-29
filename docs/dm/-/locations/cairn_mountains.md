@@ -1,10 +1,10 @@
-## Ficheiro: cairn_mountains.md
+﻿## Ficheiro: cairn_mountains.md
 
 #### Cairn Mountains
 
 Sessão: 2 | Data: (data não especificada) | Fonte: s02.txt | Tags: localização, montanhas
 
-![Cairn Mountains](../../../assets/location/location_blank.png)
+![Cairn Mountains](assets/location/location_blank.png)
 
 | English | Português |
 |---------|-----------|

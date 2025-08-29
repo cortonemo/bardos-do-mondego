@@ -1,10 +1,10 @@
-## Ficheiro: greyhawk.md
+﻿## Ficheiro: greyhawk.md
 
 #### Greyhawk
 
 Sessão: 2 | Data: (data não especificada) | Fonte: s02.txt | Tags: localização, cidade
 
-![Greyhawk](../../../assets/location/location_blank.png)
+![Greyhawk](assets/location/location_blank.png)
 
 | English | Português |
 |---------|-----------|

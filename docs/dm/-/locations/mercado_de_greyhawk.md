@@ -1,9 +1,9 @@
-
+﻿
 # Mercado de Greyhawk
 
 Sessões: várias | Datas: várias | Fontes: vários | Tags: mercado, greyhawk
 
-![Mercado de Greyhawk](../../../assets/location/location_blank.png)
+![Mercado de Greyhawk](assets/location/location_blank.png)
 
 | Português | English |
 |-----------|---------|

@@ -1,6 +1,6 @@
-# Vaunia Kolakiala
+﻿# Vaunia Kolakiala
 
-| ![pc_vaunia_kolakiala](../../../assets/pc/pc_vaunia_kolakiala.jpg){width=300} |
+| ![pc_vaunia_kolakiala](assets/pc/pc_vaunia_kolakiala.jpg){width=300} |
 | ------------------------ |
 
 | Português | English |

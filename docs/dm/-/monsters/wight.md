@@ -1,9 +1,9 @@
-
+﻿
 # Wight
 
 Sessões: 10, 11 | Datas: 2025-03-13, 2025-03-20 | Fontes: s10_-_2025-03-13.txt, s11_-_2025-03-20.txt | Tags: monstro, morto-vivo, forte
 
-![Wight](../../../assets/monsters/monster_blank.png)
+![Wight](assets/monsters/monster_blank.png)
 
 | Português | English |
 |-----------|---------|

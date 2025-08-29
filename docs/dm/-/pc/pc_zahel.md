@@ -1,6 +1,6 @@
-# Zahel
+﻿# Zahel
 
-| ![pc_zahel](../../../assets/pc/pc_zahel.png){width=300} |
+| ![pc_zahel](assets/pc/pc_zahel.png){width=300} |
 | ------------------------ |
 
 | Português | English |

@@ -1,4 +1,4 @@
-
+﻿
 #### Nave Espacial dos Illithids / Mind Flayer Spaceship
 
 Sessões:  
@@ -8,7 +8,7 @@ Sessões:
 
 Tags: localizacao, nave, illithid
 
-![Nave Espacial dos Illithids](../../../assets/location/location_blank.png)
+![Nave Espacial dos Illithids](assets/location/location_blank.png)
 
 | Português                                                                                                                                                                                                         | English                                                                                                                                                                                       |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

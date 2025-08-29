@@ -1,8 +1,8 @@
-# Conclave Anfíbio / Amphibian Conclave
+﻿# Conclave Anfíbio / Amphibian Conclave
 
 Sessões: 4, 8 | Datas: 2025-01-23, 2025-02-27 | Fontes: s04_-_2025-01-23.txt, s08_-_2025-02-27.txt | Tags: organização, aldeia, sapos
 
-![Conclave Anfíbio](../../../assets/organization/org_blank.png)
+![Conclave Anfíbio](assets/organization/org_blank.png)
 
 | Português | English |
 |-----------|---------|

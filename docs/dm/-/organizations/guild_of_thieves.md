@@ -1,8 +1,8 @@
-# Guilda dos Ladrões / Thieves Guild
+﻿# Guilda dos Ladrões / Thieves Guild
 
 Sessões: 3, 8, 13, 27 | Datas: 2025-01-15, 2025-02-27, 2025-03-13, 2025-07-10 | Fontes: s03_-_2025-01-15.txt, s08_-_2025-02-27.txt, s13_-_2025-03-13.txt, s27_-_2025-07-10.txt | Tags: organização, guilda, greyhawk
 
-![Guilda dos Ladrões](../../../assets/organization/org_blank.png)
+![Guilda dos Ladrões](assets/organization/org_blank.png)
 
 | Português | English |
 |-----------|---------|

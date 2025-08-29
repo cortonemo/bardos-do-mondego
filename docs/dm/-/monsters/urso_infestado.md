@@ -1,8 +1,8 @@
-### Urso Selvagem Infestado
+﻿### Urso Selvagem Infestado
 
 Sessão: 1 | Data: 2025-08-02 | Fonte: s01.txt | Tags: criatura, animal, infetado
 
-![Urso Selvagem Infestado](../../../assets/monsters/monster_blank.png)
+![Urso Selvagem Infestado](assets/monsters/monster_blank.png)
 
 | English | Português |
 |---------|-----------|

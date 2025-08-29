@@ -1,5 +1,5 @@
-# Taberneiro do Refúgio
-![npc_blank](../../assets/npc/npc_blank.png)
+﻿# Taberneiro do Refúgio
+![npc_blank](assets/npc/npc_blank.png)
 Sessão: 1 | Data: 2025-08-02 | Fonte: s01.txt | Tags: npc, taberna, mistério
 
 

@@ -1,9 +1,9 @@
-
+﻿
 # Assalto ao Museu de Greyhawk
 
 Sessão: 27 | Data: 2025-07-10 | Fontes: s27_-_2025-07-10.txt | Tags: aventura, greyhawk, museu, roubo
 
-![Assalto ao Museu de Greyhawk](../../../assets/location/location_blank.png)
+![Assalto ao Museu de Greyhawk](assets/location/location_blank.png)
 
 | Português | English |
 |-----------|---------|

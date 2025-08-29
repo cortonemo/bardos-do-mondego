@@ -1,9 +1,9 @@
-
+﻿
 # Caverna Submersa / Submerged Cave
 
 Sessões: 8 | Datas: 2025-02-27 | Fontes: s08_-_2025-02-27.txt | Tags: localizacao, caverna, submersa
 
-![Caverna Submersa](../../../assets/location/location_blank.png)
+![Caverna Submersa](assets/location/location_blank.png)
 
 | Português | English |
 |-----------|---------|

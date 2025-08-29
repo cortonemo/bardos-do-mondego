@@ -1,9 +1,9 @@
-
+﻿
 # Templo da Ordem de Scarlat / Temple of the Order of Scarlat
 
 Sessões: 14, 16 | Datas: 2025-04-10, 2025-04-24 | Fontes: s14_-_2025-04-10.txt, s16_-_2025-04-24.txt | Tags: localizacao, templo, culto
 
-![Templo da Ordem de Scarlat](../../../assets/location/location_blank.png)
+![Templo da Ordem de Scarlat](assets/location/location_blank.png)
 
 | Português | English |
 |-----------|---------|

@@ -1,6 +1,6 @@
-# Sarvian Midlor
+﻿# Sarvian Midlor
 
-| ![pc_sarvian_midlor](../../../assets/pc/pc_sarvian_midlor.png){width=300} |
+| ![pc_sarvian_midlor](assets/pc/pc_sarvian_midlor.png){width=300} |
 | ------------------------ |
 
 | Português                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | English                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |

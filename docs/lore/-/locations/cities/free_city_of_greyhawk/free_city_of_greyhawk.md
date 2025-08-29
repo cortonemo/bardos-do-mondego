@@ -1,10 +1,10 @@
-
+﻿
 
 # Free City of Greyhawk  "The Gem of the Flanaess" 
 *Cidade Livre de Greyhawk "A Jóia da Flanaess" *
 
-![Brasão|150](../../../../../assets/location/greyhawk_114x135.png)
-![free_city_of_greyhawk](../../../../../assets/location/free_city_of_greyhawk.jpg){width=400}
+![Brasão|150](assets/location/greyhawk_114x135.png)
+![free_city_of_greyhawk](assets/location/free_city_of_greyhawk.jpg){width=400}
 ---
 
 | **Português (PT-PT)**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | **English (EN-US)**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |

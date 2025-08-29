@@ -1,9 +1,9 @@
-
+﻿
 # Monstro da Lagoa / Lagoon Monster
 
 Sessões: 2, 8 | Datas: 2025-01-09, 2025-02-27 | Fontes: s02_-_2025-01-09.txt, s08_-_2025-02-27.txt | Tags: monstro, lago, anfíbio
 
-![Monstro da Lagoa](../../../assets/monsters/monster_blank.png)
+![Monstro da Lagoa](assets/monsters/monster_blank.png)
 
 | Português | English |
 |-----------|---------|

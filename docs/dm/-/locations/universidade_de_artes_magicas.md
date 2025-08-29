@@ -1,9 +1,9 @@
-
+﻿
 # Universidade de Artes Mágicas de Greyhawk
 
 Sessões: várias | Datas: várias | Fontes: vários | Tags: universidade, magia, greyhawk
 
-![Universidade de Artes Mágicas](../../../assets/location/location_blank.png)
+![Universidade de Artes Mágicas](assets/location/location_blank.png)
 
 | Português | English |
 |-----------|---------|

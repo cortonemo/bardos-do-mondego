@@ -1,10 +1,10 @@
-## Ficheiro: hook_horror_teeth.md
+﻿## Ficheiro: hook_horror_teeth.md
 
 #### Hook Horror Teeth
 
 Sessão: 2 | Data: (data não especificada) | Fonte: s02.txt | Tags: loot, trophy
 
-![Hook Horror Teeth](../../assets/loot/object_blank.png)
+![Hook Horror Teeth](assets/loot/object_blank.png)
 
 | English | Português |
 |---------|-----------|

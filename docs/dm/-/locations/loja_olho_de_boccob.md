@@ -1,9 +1,9 @@
-
+﻿
 # Loja Olho de Boccob / Eye of Boccob Shop
 
 Sessões: 13 | Datas: 2025-03-13 | Fontes: s13_-_2025-03-13.txt | Tags: localizacao, loja, magico
 
-![Loja Olho de Boccob](../../../assets/location/location_blank.png)
+![Loja Olho de Boccob](assets/location/location_blank.png)
 
 | Português | English |
 |-----------|---------|

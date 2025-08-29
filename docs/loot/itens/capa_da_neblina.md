@@ -1,9 +1,9 @@
-
+﻿
 # Capa da Neblina / Cloak of Mist
 
 Sessões: 6 | Datas: 2025-02-13 | Fontes: s06_-_2025-02-13.txt | Tags: loot, capa, mágico
 
-![Capa da Neblina](../../assets/loot/capa_da_neblina.png)
+![Capa da Neblina](assets/loot/capa_da_neblina.png)
 
 | Português | English |
 |-----------|---------|

@@ -1,5 +1,5 @@
-# Lady Silvra Malren
-![npc_blank](../../assets/npc/npc_blank.png)
+﻿# Lady Silvra Malren
+![npc_blank](assets/npc/npc_blank.png)
 
 | **Português (PT-PT)** | **English (EN-US)** |
 |-----------------------|---------------------|

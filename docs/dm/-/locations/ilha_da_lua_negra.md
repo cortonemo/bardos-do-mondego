@@ -1,9 +1,9 @@
-
+﻿
 # Ilha da Lua Negra / Black Moon Island
 
 Sessões: 5 | Datas: 2025-01-30 | Fontes: s05_-_2025-01-30.txt | Tags: localizacao, ilha, magia
 
-![Ilha da Lua Negra](../../../assets/location/location_blank.png)
+![Ilha da Lua Negra](assets/location/location_blank.png)
 
 | Português | English |
 |-----------|---------|

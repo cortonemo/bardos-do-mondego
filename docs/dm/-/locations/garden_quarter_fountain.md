@@ -1,4 +1,4 @@
-
+﻿
 #### Fonte do Garden Quarter / Garden Quarter Fountain
 
 Sessões:  
@@ -7,7 +7,7 @@ Sessões:
 
 Tags: localizacao, fonte
 
-![Garden Quarter Fountain](../../../assets/location/location_blank.png)
+![Garden Quarter Fountain](assets/location/location_blank.png)
 
 | English | Português |
 |---------|-----------|

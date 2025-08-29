@@ -1,8 +1,8 @@
-## 🕷️ Enxame de Aranhas | Swarm of Spiders
+﻿## 🕷️ Enxame de Aranhas | Swarm of Spiders
 
 Sessão: (não especificada) | Data: (não especificada) | Fonte: (não especificada) | Tags: monstro, aracnídeo, enxame
 
-![Enxame de Aranhas](../../../assets/monsters/swarm_of_spiders.png)
+![Enxame de Aranhas](assets/monsters/swarm_of_spiders.png)
 
 | **Português (PT-PT)** | **English (EN-US)** |
 |-----------------------|---------------------|

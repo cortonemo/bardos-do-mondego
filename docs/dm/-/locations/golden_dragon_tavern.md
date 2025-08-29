@@ -1,4 +1,4 @@
-
+﻿
 #### Taberna do Dragão Dourado / Golden Dragons Tavern
 
 Sessões:  
@@ -9,7 +9,7 @@ Sessões:
 
 Tags: localizacao, taberna
 
-![Taberna do Dragão Dourado](../../../assets/location/location_blank.png)
+![Taberna do Dragão Dourado](assets/location/location_blank.png)
 
 | English | Português |
 |---------|-----------|

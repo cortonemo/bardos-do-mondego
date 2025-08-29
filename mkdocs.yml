@@ -43,7 +43,6 @@ markdown_extensions:
 plugins:
   - search
   - embed_file               # from mkdocs-embed-file-plugins
-  - obsidian-bridge          # only keep if you still want it
 
 extra_css:
   - css/extra.css

@@ -1,10 +1,10 @@
-## Ficheiro: blackstone.md
+﻿## Ficheiro: blackstone.md
 
 #### Blackstone
 
 Sessão: 2 | Data: (data não especificada) | Fonte: s02.txt | Tags: cidade, localização
 
-![Blackstone](../../../assets/location/location_blank.png)
+![Blackstone](assets/location/location_blank.png)
 
 | English | Português |
 |---------|-----------|

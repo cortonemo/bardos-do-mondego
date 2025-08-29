@@ -1,9 +1,9 @@
-
+﻿
 # Zombie / Zumbi
 
 Sessões: 16 | Datas: 2025-04-24 | Fontes: extra_relato_crianca_perdida.txt | Tags: monstro, morto-vivo
 
-![Zombie|300](../../assets/monsters/zombie.jpeg)
+![Zombie|300](assets/monsters/zombie.jpeg)
 
 | Português | English |
 |-----------|---------|

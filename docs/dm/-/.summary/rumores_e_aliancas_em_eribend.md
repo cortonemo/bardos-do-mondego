@@ -1,9 +1,9 @@
-
+﻿
 # Rumores e Alianças em Eribend
 
 Sessão: 7 | Data: 2025-02-20 | Fontes: s07_-_2025-02-20.txt | Tags: aventura, eribend, alianças
 
-![Rumores e Alianças em Eribend](../../../assets/location/location_blank.png)
+![Rumores e Alianças em Eribend](assets/location/location_blank.png)
 
 | Português | English |
 |-----------|---------|

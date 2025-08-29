@@ -1,4 +1,4 @@
-
+﻿
 #### Outros Distritos de Greyhawk / Other Districts of Greyhawk
 
 Sessões:  
@@ -6,7 +6,7 @@ Sessões:
 
 Tags: localizacao, distrito
 
-![Outros Distritos de Greyhawk](../../../assets/location/location_blank.png)
+![Outros Distritos de Greyhawk](assets/location/location_blank.png)
 
 | Português                                                                                                                                                                                                           | English                                                                                                                                                                                   |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

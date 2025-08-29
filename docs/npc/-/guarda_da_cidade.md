@@ -1,4 +1,4 @@
-![City Guard Captain](../../assets/npc/npc_blank.png)
+﻿![City Guard Captain](assets/npc/npc_blank.png)
 
 
 

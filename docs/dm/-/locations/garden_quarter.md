@@ -1,4 +1,4 @@
-
+﻿
 #### Garden Quarter / Bairro dos Jardins
 
 Sessões:  
@@ -10,7 +10,7 @@ Sessões:
 
 Tags: localizacao, distrito, cidade
 
-![Garden Quarter](../../../assets/location/location_blank.png)
+![Garden Quarter](assets/location/location_blank.png)
 
 | English | Português |
 |---------|-----------|

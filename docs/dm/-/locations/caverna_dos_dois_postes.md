@@ -1,9 +1,9 @@
-
+﻿
 # Caverna dos Dois Postes / Two-Posts Cave
 
 Sessões: 14 | Datas: 2025-04-10 | Fontes: s14_-_2025-04-10.txt | Tags: localizacao, caverna
 
-![Caverna dos Dois Postes](../../../assets/location/location_blank.png)
+![Caverna dos Dois Postes](assets/location/location_blank.png)
 
 | Português | English |
 |-----------|---------|

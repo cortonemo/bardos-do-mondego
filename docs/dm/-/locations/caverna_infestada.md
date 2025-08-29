@@ -1,8 +1,8 @@
-### Caverna Infestada
+﻿### Caverna Infestada
 
 Sessão: 1 | Data: 2025-08-02 | Fonte: s01.txt | Tags: localização, caverna, fungos, perigo
 
-![Caverna Infestada](../../../assets/location/location_blank.png)
+![Caverna Infestada](assets/location/location_blank.png)
 
 | English | Português |
 |---------|-----------|

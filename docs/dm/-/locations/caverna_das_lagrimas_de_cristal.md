@@ -1,9 +1,9 @@
-
+﻿
 # Caverna das Lágrimas de Cristal / Crystal Tears Cave
 
 Sessões: 6, 9 | Datas: 2025-02-13, 2025-03-06 | Fontes: s06_-_2025-02-13.txt, s09_-_2025-03-06.txt | Tags: localizacao, caverna
 
-![Caverna das Lágrimas de Cristal](../../../assets/location/location_blank.png)
+![Caverna das Lágrimas de Cristal](assets/location/location_blank.png)
 
 | Português | English |
 |-----------|---------|

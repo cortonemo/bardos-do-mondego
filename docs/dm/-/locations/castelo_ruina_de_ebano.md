@@ -1,4 +1,4 @@
-
+﻿
 #### Castelo Ruina-de-Ebano / Ebony-Ruin Castle
 
 Sessões:  
@@ -8,7 +8,7 @@ Sessões:
 
 Tags: localizacao, castelo, dungeon
 
-![Castelo Ruina-de-Ebano](../../../assets/location/location_blank.png)
+![Castelo Ruina-de-Ebano](assets/location/location_blank.png)
 
 | English | Português |
 |---------|-----------|

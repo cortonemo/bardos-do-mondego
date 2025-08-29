@@ -1,8 +1,8 @@
-### Quest dos Fungos Alienígenas
+﻿### Quest dos Fungos Alienígenas
 
 Sessão: 1 | Data: 2025-08-02 | Fonte: s01.txt | Tags: aventura, fungi, corrupção
 
-![Quest dos Fungos Alienígenas](../../../assets/location/location_blank.png)
+![Quest dos Fungos Alienígenas](assets/location/location_blank.png)
 
 | English | Português |
 |---------|-----------|

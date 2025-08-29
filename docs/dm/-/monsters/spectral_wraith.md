@@ -1,9 +1,9 @@
-
+﻿
 # Espectro / Spectral Wraith
 
 Sessões: 16 | Datas: 2025-04-24 | Fontes: extra_relato_crianca_perdida.txt | Tags: monstro, espectro, boss
 
-![Espectro](../../../assets/monsters/monster_blank.png)
+![Espectro](assets/monsters/monster_blank.png)
 
 | Português | English |
 |-----------|---------|

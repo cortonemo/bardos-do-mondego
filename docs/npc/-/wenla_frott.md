@@ -1,8 +1,8 @@
-
+﻿
 # Wenla Frott
 
 **Race**: Gnome
-![Wenla Frott](../../assets/npc/npc_blank.png)
+![Wenla Frott](assets/npc/npc_blank.png)
 **Role**: Bookseller and spa-enthusiast
 
 **Location**: Old Bookstore  Lantern Lane, Greyhawk

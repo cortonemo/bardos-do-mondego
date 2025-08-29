@@ -1,9 +1,9 @@
-
+﻿
 #### Loot  Vale do Vento Sombrio
 
 Sessão: 3 | Data: 2025-04-18 | Fonte: s03.txt | Tags: loot, fungo, aventura
 
-![Loot  Vale do Vento Sombrio](../../assets/loot/object_blank.png)
+![Loot  Vale do Vento Sombrio](assets/loot/object_blank.png)
 
 | English | Português |
 |---------|-----------|

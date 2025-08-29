@@ -1,8 +1,8 @@
-# Sociedade dos Magos / Society of Magi
+﻿# Sociedade dos Magos / Society of Magi
 
 Sessões: 8, 13 | Datas: 2025-02-27, 2025-03-13 | Fontes: s08_-_2025-02-27.txt, s13_-_2025-03-13.txt | Tags: organização, magos, academia
 
-![Sociedade dos Magos](../../../assets/organization/org_blank.png)
+![Sociedade dos Magos](assets/organization/org_blank.png)
 
 | Português | English |
 |-----------|---------|

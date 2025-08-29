@@ -1,10 +1,10 @@
-## Ficheiro: topaz.md
+﻿## Ficheiro: topaz.md
 
 #### Large Topaz
 
 Sessão: 2 | Data: (data não especificada) | Fonte: s02.txt | Tags: loot, gem
 
-![topaz](../../assets/loot/topaz.webp)
+![topaz](assets/loot/topaz.webp)
 
 | English                                                                                                              | Português                                                                                                    |
 | -------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |

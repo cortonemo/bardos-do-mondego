@@ -1,6 +1,6 @@
-# Leo
+﻿# Leo
 
-| ![pc_leo](../../../assets/pc/pc_leo.jpeg){width=200} |
+| ![pc_leo](assets/pc/pc_leo.jpeg){width=200} |
 | --------------------- |
 
 

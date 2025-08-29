@@ -1,9 +1,9 @@
-
+﻿
 # Ruínas das Sombras / Shadow Ruins
 
 Sessões: 16 | Datas: 2025-04-24 | Fontes: extra_relato_crianca_perdida.txt | Tags: localizacao, ruinas, sombras
 
-![Ruínas das Sombras](../../../assets/location/location_blank.png)
+![Ruínas das Sombras](assets/location/location_blank.png)
 
 | Português | English |
 |-----------|---------|

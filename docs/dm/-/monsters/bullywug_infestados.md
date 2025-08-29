@@ -1,8 +1,8 @@
-### Bullywug Infestados
+﻿### Bullywug Infestados
 
 Sessão: 1 | Data: 2025-08-02 | Fonte: s01.txt | Tags: criatura, inimigo, infestação
 
-![Bullywug Infestados](../../../assets/monsters/monster_blank.png)
+![Bullywug Infestados](assets/monsters/monster_blank.png)
 
 | English | Português |
 |---------|-----------|

@@ -1,9 +1,9 @@
-
+﻿
 # Torre do Eclipse / Eclipse Tower
 
 Sessões: 6, 9 | Datas: 2025-02-13, 2025-03-06 | Fontes: s06_-_2025-02-13.txt, s09_-_2025-03-06.txt | Tags: localizacao, torre
 
-![Torre do Eclipse](../../../assets/location/location_blank.png)
+![Torre do Eclipse](assets/location/location_blank.png)
 
 | Português | English |
 |-----------|---------|

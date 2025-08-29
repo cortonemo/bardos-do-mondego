@@ -1,4 +1,4 @@
-
+﻿
 #### Templo Abandonado dos Kobolds / Abandoned Kobold Temple
 
 Sessões:  
@@ -7,7 +7,7 @@ Sessões:
 
 Tags: localizacao, templo, kobold
 
-![Templo Abandonado dos Kobolds](../../../assets/location/location_blank.png)
+![Templo Abandonado dos Kobolds](assets/location/location_blank.png)
 
 | Português                                                                                                                                                                       | English                                                                                                                                                              |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

@@ -1,6 +1,6 @@
-# Sister Blathine  Oghman Archivist
+﻿# Sister Blathine  Oghman Archivist
 
-![Sister Blathine](../../assets/npc/npc_blank.png)
+![Sister Blathine](assets/npc/npc_blank.png)
 
 **Location:** [Templo de Oghma](temple_of_oghma.md), [Free City of Greyhawk](free_city_of_greyhawk.md)  
 **Role:** Archive Mistress, Clerical Records Division  

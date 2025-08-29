@@ -1,9 +1,9 @@
-
+﻿
 # Museu das Maravilhas Naturais e Arcanas de Greyhawk / Museum of Natural & Arcane Wonders of Greyhawk
 
 Sessões: 27, 28 | Datas: 2025-07-10, 2025-07-17 | Fontes: s27_-_2025-07-10.txt, s28_-_2025-07-17.txt | Tags: localizacao, museu
 
-![Museu das Maravilhas Naturais e Arcanas de Greyhawk](../../../assets/location/location_blank.png)
+![Museu das Maravilhas Naturais e Arcanas de Greyhawk](assets/location/location_blank.png)
 
 | Português | English |
 |-----------|---------|

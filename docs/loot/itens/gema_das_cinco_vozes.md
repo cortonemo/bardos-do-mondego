@@ -1,10 +1,10 @@
-
+﻿
 # Gema das Cinco Vozes / Gem of Five Voices
 
 Sessões: 16 | Datas: 2025-04-24 | Fontes: extra_relato_crianca_perdida.txt | Tags: loot, artefato, mágico
 
 
-![gema_das_cinco_vozes](../../assets/loot/gema_das_cinco_vozes.webp)
+![gema_das_cinco_vozes](assets/loot/gema_das_cinco_vozes.webp)
 
 | Português | English |
 |-----------|---------|

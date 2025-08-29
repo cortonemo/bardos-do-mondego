@@ -3,4 +3,3 @@ mkdocs-material
 pymdown-extensions>=10.0
 mkdocs-gen-files
 mkdocs-embed-file-plugins
-mkdocs-obsidian-bridge

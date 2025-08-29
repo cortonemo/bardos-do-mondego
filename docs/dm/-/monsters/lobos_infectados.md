@@ -1,9 +1,9 @@
-
+﻿
 #### Lobos Infectados pelo Fungo
 
 Sessão: 3 | Data: 2025-04-18 | Fonte: s03.txt | Tags: monstro, lobo, fungo
 
-![Lobos Infectados pelo Fungo](../../../assets/monsters/monster_blank.png)
+![Lobos Infectados pelo Fungo](assets/monsters/monster_blank.png)
 
 | English | Português |
 |---------|-----------|

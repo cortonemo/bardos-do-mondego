@@ -1,4 +1,4 @@
-
+﻿
 #### Mímico / The Mimic Prince
 
 Sessões:  
@@ -7,7 +7,7 @@ Sessões:
 
 Tags: npc, mimico, aliado
 
-![Mímico](../../../assets/monsters/monster_blank.png)
+![Mímico](assets/monsters/monster_blank.png)
 
 | English | Português |
 |---------|-----------|

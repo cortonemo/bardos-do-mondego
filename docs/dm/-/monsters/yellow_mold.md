@@ -1,10 +1,10 @@
-## Ficheiro: yellow_mold.md
+﻿## Ficheiro: yellow_mold.md
 
 #### Yellow Mold
 
 Sessão: 2 | Data: (data não especificada) | Fonte: s02.txt | Tags: hazard, fungi
 
-![Yellow Mold](../../../assets/monsters/monster_blank.png)
+![Yellow Mold](assets/monsters/monster_blank.png)
 
 | English | Português |
 |---------|-----------|

@@ -1,8 +1,8 @@
-### Stirge
+﻿### Stirge
 
 Sessão: 1 | Data: 2025-08-02 | Fonte: s01.txt | Tags: criatura, monstro, predador
 
-![Stirge](../../../assets/monsters/monster_blank.png)
+![Stirge](assets/monsters/monster_blank.png)
 
 | English | Português |
 |---------|-----------|

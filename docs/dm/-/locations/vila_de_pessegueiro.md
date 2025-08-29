@@ -1,9 +1,9 @@
-
+﻿
 # Vila de Pessegueiro / Peach Village
 
 Sessões: 14 | Datas: 2025-04-10 | Fontes: s14_-_2025-04-10.txt | Tags: localizacao, vila
 
-![Vila de Pessegueiro](../../../assets/location/location_blank.png)
+![Vila de Pessegueiro](assets/location/location_blank.png)
 
 | Português | English |
 |-----------|---------|

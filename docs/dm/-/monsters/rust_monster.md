@@ -1,10 +1,10 @@
-## Ficheiro: rust_monster.md
+﻿## Ficheiro: rust_monster.md
 
 #### Rust Monster
 
 Sessão: 2 | Data: (data não especificada) | Fonte: s02.txt | Tags: monstro
 
-![Rust Monster](../../../assets/monsters/monster_blank.png)
+![Rust Monster](assets/monsters/monster_blank.png)
 
 | English | Português |
 |---------|-----------|

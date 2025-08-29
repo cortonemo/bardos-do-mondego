@@ -1,9 +1,9 @@
-
+﻿
 # Armadura Animada / Animated Armor
 
 Sessões: 16 | Datas: 2025-04-24 | Fontes: extra_relato_crianca_perdida.txt | Tags: monstro, construto, cripta
 
-![Armadura Animada](../../../assets/monsters/monster_blank.png)
+![Armadura Animada](assets/monsters/monster_blank.png)
 
 | Português | English |
 |-----------|---------|

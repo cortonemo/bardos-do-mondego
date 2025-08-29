@@ -1,6 +1,6 @@
-# Eirwen
+﻿# Eirwen
 
-| ![pc_eirwen_01](../../../assets/pc/pc_eirwen_01.png){width=200} | ![pc_eirwen_02](../../../assets/pc/pc_eirwen_02.png){width=200} | ![pc_eirwen_03](../../../assets/pc/pc_eirwen_03.png){width=200} |
+| ![pc_eirwen_01](assets/pc/pc_eirwen_01.png){width=200} | ![pc_eirwen_02](assets/pc/pc_eirwen_02.png){width=200} | ![pc_eirwen_03](assets/pc/pc_eirwen_03.png){width=200} |
 | --------------------------- | -------------------------- | ---------------------------- |
 
 | Português | English |

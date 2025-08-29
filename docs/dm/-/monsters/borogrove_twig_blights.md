@@ -1,8 +1,8 @@
-### Twig Blights
+﻿### Twig Blights
 
 Sessão: 1 | Data: 2025-08-02 | Fonte: s01.txt | Tags: criatura, planta, inimigo
 
-![Twig Blights](../../../assets/monsters/monster_blank.png)
+![Twig Blights](assets/monsters/monster_blank.png)
 
 | English | Português |
 |---------|-----------|
