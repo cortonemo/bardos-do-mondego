@@ -1,7 +1,7 @@
 # Usopp
 
 
-| ![[pc_blank.png\|300]] |
+| ![pc_blank](../../../assets/pc/pc_blank.png){width=300} |
 | ---------------------- |
 
 | Português | English |

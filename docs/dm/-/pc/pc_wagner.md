@@ -1,6 +1,6 @@
 # Wagner
 
-| ![[pc_wagner.png\|300]] |
+| ![pc_wagner](../../../assets/pc/pc_wagner.png){width=300} |
 | ------------------------ |
 
 | Português | English |

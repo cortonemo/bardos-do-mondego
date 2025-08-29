@@ -1,7 +1,7 @@
 # Grix’molah
 
 
-| ![[pc_grix_molah.jpg\|200 ]] |
+| ![pc_grix_molah](../../../assets/pc/pc_grix_molah.jpg){width=200} |
 | :--------------------------: |
 
 | Português | English |

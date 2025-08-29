@@ -1,6 +1,6 @@
 # Triss Merrill
 
-| ![[pc_triss_merrill_01.png\|300]] |![[pc_triss_merrill_02.png\|300]] |![[pc_triss_merrill_03.png\|300]] |
+| ![pc_triss_merrill_01](../../../assets/pc/pc_triss_merrill_01.png){width=300} |![pc_triss_merrill_02](../../../assets/pc/pc_triss_merrill_02.png){width=300} |![pc_triss_merrill_03](../../../assets/pc/pc_triss_merrill_03.png){width=300} |
 | ------------------------ | ------------------------ | ------------------------ |
 
 | Português | English |

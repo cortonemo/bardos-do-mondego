@@ -1,6 +1,6 @@
 # Ulma
 
-| ![[pc_ulma.png\|300]] |
+| ![pc_ulma](../../../assets/pc/pc_ulma.png){width=300} |
 | ------------------------ |
 
 | Português | English |
@@ -27,7 +27,7 @@
 | **🎭 Dramatis Persona**<br>**NPCs de influência direta:**<br>- Liwana – tiefling, amiga desaparecida.<br>- Zael – gnomo encontrado no museu.<br>- Mimic – aliado neutro, morto por Darsen.<br>**Antagonistas:**<br>- Cultistas de Loviatar.<br>- Darsen e esposa – taxidermistas enlouquecidos.<br>- Diabo que manipulou Darsen.<br>**Aliados:**<br>- Triss, Dustin, Nina, Kythria, Eirwen, Grix, Leo, Zahel, Ket, Ustrax, Asinius, Vaunia. | **🎭 Dramatis Persona**<br>**Direct Influence NPCs:**<br>- Liwana – tiefling, missing friend.<br>- Zael – gnome met in the museum.<br>- Mimic – neutral ally, slain by Darsen.<br>**Antagonists:**<br>- Loviatar cultists.<br>- Darsen and wife – deranged taxidermists.<br>- Devil who manipulated Darsen.<br>**Allies:**<br>- Triss, Dustin, Nina, Kythria, Eirwen, Grix, Leo, Zahel, Ket, Ustrax, Asinius, Vaunia. |
 | **🔮 OBS**<br>- *Anel da Taberna*: conduz sempre à Taberna de Greyhawk.<br>- Rage é silenciosa em vez de verbal.<br>- Teimosa, vingativa, mas empática e otimista.<br>- Talento natural para cantar ópera. | **🔮 Notes**<br>- *Tavern Ring*: always leads to Greyhawk’s Tavern.<br>- Rage is silent rather than verbal.<br>- Stubborn, vengeful, but empathetic and optimistic.<br>- Natural talent for opera singing. |
 
-![[pc_ulma_big.png]]
+![pc_ulma_big](../../../assets/pc/pc_ulma_big.png)
 
 ---
 

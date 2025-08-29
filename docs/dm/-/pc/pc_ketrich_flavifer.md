@@ -1,6 +1,6 @@
 # Ketrich Flavifer
 
-| ![[pc_ketrich_flavifer_01.png\|{ height=200 } ]] | ![[pc_ketrich_flavifer_02.jpg\|{ height=200 } ]] | ![[pc_ketrich_flavifer_03.jpg\|{ height=200 } ]] |
+| ![{ height=200 }](../../../assets/pc/pc_ketrich_flavifer_01.png) | ![{ height=200 }](../../../assets/pc/pc_ketrich_flavifer_02.jpg) | ![{ height=200 }](../../../assets/pc/pc_ketrich_flavifer_03.jpg) |
 | ------------------------------------------------ | ------------------------------------------------ | ------------------------------------------------ |
 
 | Português | English |

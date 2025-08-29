@@ -1,6 +1,6 @@
 # Raylahn
 
-| ![[pc_raylahn.jpg\|300]] |
+| ![pc_raylahn](../../../assets/pc/pc_raylahn.jpg){width=300} |
 | ------------------------ |
 
 | Português | English |

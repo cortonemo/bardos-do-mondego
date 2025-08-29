@@ -1,6 +1,6 @@
 # Veluna "The Archclericy of Veluna"
 *Veluna  O Arceclericato de Veluna*
-![[veluna_coat_of_arms.png|150]]
+![veluna_coat_of_arms](../../../../../assets/location/veluna_coat_of_arms.png){width=150}
 ![Veluna|400](veluna.jpeg)
 
 | **Português (PT-PT)** | **English (EN-US)** |

@@ -1,7 +1,6 @@
 # Drayl Bharash
 
-
-| ![[pc_drayl_bharash_00.png\|200  ]] |
+| ![pc_drayl_bharash_00](../../../assets/pc/pc_drayl_bharash_00.png)|
 | ----------------------------------- |
 
 | Português | English |

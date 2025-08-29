@@ -1,6 +1,6 @@
 # Lucien, o Imperador Renascido
 
-| ![[pc_lucien_01.png\|300]] | ![[pc_lucien_02.png\|200]] |
+| ![pc_lucien_01](../../../assets/pc/pc_lucien_01.png){width=300} | ![pc_lucien_02](../../../assets/pc/pc_lucien_02.png){width=200} |
 | -------------------------- | -------------------------- |
 
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |

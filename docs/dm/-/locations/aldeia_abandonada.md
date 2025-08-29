@@ -1,9 +1,8 @@
-
 #### Aldeia Abandonada do Vale
 
 Sessão: 3 | Data: 2025-04-18 | Fonte: s03.txt | Tags: localização, ruína, fungo, combate, aldeia
 
-![Aldeia Abandonada do Vale](location_blank.png)
+![Aldeia Abandonada do Vale](..\..\..\assets\location\location_blank.png)
 
 | English | Português |
 |---------|-----------|

@@ -1,7 +1,7 @@
 # Irongate "City of Stairs"  
 *Irongate — “Cidade das Escadas”*  
 
-![[free_city_of_irongate_coat_of_Arms.gif|150]]
+![free_city_of_irongate_coat_of_Arms](../../../../../assets/location/free_city_of_irongate_coat_of_Arms.gif){width=150}
 ![Irongate|400](free_city_of_irongate.jpg)  
 
 | Português                                                                                                                                                                                                                                                                                                                                                   | English                                                                                                                                                                                                                                                                                                                                           |

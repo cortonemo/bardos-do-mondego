@@ -1,6 +1,6 @@
 # Zeldris (anteriormente Varus)
 
-| ![[pc_zeldris.png\|300]] |
+| ![pc_zeldris](../../../assets/pc/pc_zeldris.png){width=300} |
 | ------------------------ |
 
 | Português | English |
