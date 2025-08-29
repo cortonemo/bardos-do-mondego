@@ -63,12 +63,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/lore/-/calendar.md",
+                "file": "docs/dm/-/pc/pc_kai.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "calendar"
+              "title": "pc_kai"
             }
           }
         ],
@@ -217,9 +217,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8b60e7fd6b137849",
+  "active": "b53fbcb85f236878",
   "lastOpenFiles": [
+    "docs/assets/pc/pc_kai_05.png",
     "docs/dm/-/pc/pc_kai.md",
+    "docs/assets/pc/pc_kai_01.png",
+    "docs/assets/pc/pc_kai_04.png",
+    "docs/assets/pc/pc_kai_03.png",
+    "docs/assets/pc/pc_kai_07.png",
+    "docs/assets/pc/blank.png",
+    "docs/assets/pc",
+    "docs/lore/-/calendar.md",
+    "docs/assets",
     "docs/lore/-",
     "docs/notable_figures/blank.png",
     "docs/dm/-/pc/pc_zeldris_varus.md",
@@ -227,42 +236,32 @@
     "docs/dm/-/pc/pc_zeldris.png",
     "docs/dm/-/pc/pc_wagner.md",
     "docs/dm/-/pc/pc_wagner.png",
-    "docs/dm/-/pc/pc_zahel.png",
     "docs/dm/-/pc/pc_usopp.md",
     "docs/dm/-/pc/pc_vaunia_kolakiala.md",
-    "docs/dm/-/pc/ficha não atual/pc_wandering_sage.png",
     "docs/dm/-/pc/ficha não atual/pc_wandering_sage.md",
     "docs/dm/-/pc/pc_ulma.md",
-    "docs/dm/-/pc/pc_ulma_big.png",
-    "docs/dm/-/pc/pc_lucien_02.png",
     "docs/dm/-/pc/pc_triss_merrill.md",
     "docs/dm/-/pc/pc_sarvian_midlor.md",
     "docs/dm/-/pc/pc_raylahn.md",
     "docs/dm/-/pc/pc_lucien.md",
     "docs/dm/-/pc/ficha não atual/pc_lucian_vyrolyn.md",
     "docs/dm/-/pc/pc_lone_straw.md",
-    "docs/dm/-/pc/ficha não atual/pc_lone_straw.png",
     "docs/dm/-/pc/ficha não atual/pc_lone_straw.md",
     "docs/dm/-/pc/pc_conan_barbaro_ra.md",
     "docs/dm/-/pc/pc_dustin_thorne.md",
     "docs/dm/-/pc/pc_leo.md",
     "docs/dm/-/pc/pc_ketrich_flavifer.md",
-    "docs/dm/-/pc/pc_ketrich_flavifer_01.png",
-    "docs/dm/-/pc/pc_ketrich_flavifer_02.jpg",
     "docs/dm/-/pc/pc_grix_molah.md",
     "docs/dm/-/organizations/guild_of_thieves.md",
     "docs/dm/-/pc/ficha não atual/pc_vaunia_kolakiala.md",
     "docs/dm/-/pc/ficha não atual/pc_tabasco_de_lumeiros.md",
     "docs/dm/-/pc/ficha não atual/pc_silfir.md",
-    "docs/dm/-/pc/ficha não atual/pc_orianna.md",
     "docs/dm/-/pc/ficha não atual",
     "docs/dm/-/pc/New folder",
     "docs/lore",
     "docs/lore/timeline",
     "docs/lore/locations/cities/irongate",
     "docs/locations/cities/ulek/ps1592.tmp",
-    "docs/lore/locations/cities/free_city_of_greyhawk/thieves_quarter",
-    "docs/lore/locations/cities/free_city_of_greyhawk/slum_quarter",
-    "docs/lore/locations/cities/free_city_of_greyhawk/undercity"
+    "docs/lore/locations/cities/free_city_of_greyhawk/thieves_quarter"
   ]
 }
