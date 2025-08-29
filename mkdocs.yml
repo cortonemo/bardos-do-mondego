@@ -44,7 +44,7 @@ plugins:
   - search
   - embed_file               # from mkdocs-embed-file-plugins
   - obsidian-bridge
-  
+
 extra_css:
   - css/extra.css
 
