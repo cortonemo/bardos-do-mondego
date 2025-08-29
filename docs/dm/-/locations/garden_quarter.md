@@ -10,11 +10,11 @@ Sessões:
 
 Tags: localizacao, distrito, cidade
 
-![Garden Quarter](docs/dm/-/locations/blank.png)
+![Garden Quarter](location_blank.png)
 
 | English | Português |
 |---------|-----------|
-| **Garden Quarter** is a leafy, peaceful district of [Greyhawk](docs/dm/-/locations/cidade_de_greyhawk.md), known for its public gardens, fountains, and proximity to the river. Important sites such as the [Museum of Natural & Arcane Wonders](museu_das_maravilhas.md) are located here. | **O Bairro dos Jardins** é um distrito verdejante e pacífico de [Greyhawk](docs/dm/-/locations/cidade_de_greyhawk.md), conhecido pelos seus jardins públicos, fontes e proximidade ao rio. Locais importantes como o [Museu das Maravilhas Naturais e Arcanas](museu_das_maravilhas.md) situam-se aqui. |
+| **Garden Quarter** is a leafy, peaceful district of [Greyhawk](cidade_de_greyhawk.md), known for its public gardens, fountains, and proximity to the river. Important sites such as the [Museum of Natural & Arcane Wonders](museu_das_maravilhas.md) are located here. | **O Bairro dos Jardins** é um distrito verdejante e pacífico de [Greyhawk](cidade_de_greyhawk.md), conhecido pelos seus jardins públicos, fontes e proximidade ao rio. Locais importantes como o [Museu das Maravilhas Naturais e Arcanas](museu_das_maravilhas.md) situam-se aqui. |
 
 
 

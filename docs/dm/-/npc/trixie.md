@@ -3,7 +3,7 @@
 
 Sessões: 3, 13 | Datas: 2025-01-15, 2025-03-13 | Fontes: s03_-_2025-01-15.txt, s13_-_2025-03-13.txt | Tags: npc, goblin, guilda
 
-![Trixie](docs/dm/-/npc/blank.png)
+![Trixie](docs/assets/npc/npc_blank.png)
 
 | Português | English |
 |-----------|---------|

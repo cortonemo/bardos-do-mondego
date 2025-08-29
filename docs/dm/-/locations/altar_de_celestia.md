@@ -8,7 +8,7 @@ Sessões:
 
 Tags: localizacao, altar
 
-![Altar de Celestia](docs/dm/-/locations/blank.png)
+![Altar de Celestia](location_blank.png)
 
 | English | Português |
 |---------|-----------|

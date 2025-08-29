@@ -6,9 +6,9 @@ Sessões:
 
 Tags: npc, paladino
 
-![Zeibranth](docs/dm/-/npc/blank.png)
+![Zeibranth](docs/assets/npc/npc_blank.png)
 
-| English | Português |
-|---------|-----------|
-| **Zeibranth** is a paladin member of the subterranean hunters, dedicated to the pursuit of fugitives. | **Zeibranth** é um paladino dos caçadores do subterrâneo, dedicado à perseguição de fugitivos. |
+| Português                                                                                      | English                                                                                               |
+| ---------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| **Zeibranth** é um paladino dos caçadores do subterrâneo, dedicado à perseguição de fugitivos. | **Zeibranth** is a paladin member of the subterranean hunters, dedicated to the pursuit of fugitives. |
 

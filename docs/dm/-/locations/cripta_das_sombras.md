@@ -3,7 +3,7 @@
 
 Sessões: 16 | Datas: 2025-04-24 | Fontes: extra_relato_crianca_perdida.txt | Tags: localizacao, cripta, dungeon, sombras
 
-![Cripta das Sombras](docs/dm/-/locations/blank.png)
+![Cripta das Sombras](location_blank.png)
 
 | Português | English |
 |-----------|---------|

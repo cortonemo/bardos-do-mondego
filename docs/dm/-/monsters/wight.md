@@ -3,7 +3,7 @@
 
 Sessões: 10, 11 | Datas: 2025-03-13, 2025-03-20 | Fontes: s10_-_2025-03-13.txt, s11_-_2025-03-20.txt | Tags: monstro, morto-vivo, forte
 
-![Wight](docs/dm/-/monsters/blank.png)
+![Wight](monster_blank.png)
 
 | Português | English |
 |-----------|---------|

@@ -3,7 +3,7 @@
 
 Sessões: 1, 7 | Datas: 2025-01-02, 2025-02-20 | Fontes: s01_-_2025-01-02.txt, s07_-_2025-02-20.txt | Tags: localizacao, parque
 
-![Parque da Cidade](docs/dm/-/locations/blank.png)
+![Parque da Cidade](location_blank.png)
 
 | Português | English |
 |-----------|---------|

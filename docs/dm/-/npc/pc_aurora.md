@@ -1,6 +1,6 @@
 # Aurora
 
-|![Aurora](docs/dm/-/npc/blank.png) 
+|![Aurora](docs/assets/npc/npc_blank.png) 
 
 
 | Português                                                                                                                                                   | English                                                                                                                                   |

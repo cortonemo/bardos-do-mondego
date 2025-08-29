@@ -3,11 +3,11 @@
 
 Sessão: 3 | Data: 2025-04-18 | Fonte: s03.txt | Tags: npc, vilão, mago, culto elemental
 
-![Vaelkor Ashbrand](docs/dm/-/npc/blank.png)
+![Vaelkor Ashbrand](docs/assets/npc/npc_blank.png)
 
-| English | Português |
-|---------|-----------|
-| **Description:** Cold and arrogant mage, leader of the elemental cult in the [Abandoned Village](aldeia_abandonada.md). Orchestrated the ritual to spread the yellow fungus, believing it to be a "blessing of the earth" that purifies the weak. Commands cultists and summons earth elementals. | **Descrição:** Mago frio e arrogante, líder do culto elemental na [Aldeia Abandonada](aldeia_abandonada.md). Orquestrou o ritual para espalhar o fungo amarelo, acreditando ser uma "bênção da terra" que purifica os fracos. Comanda cultistas e invoca elementais da terra. |
+| Português                                                                                                                                                                                                                                                                     | English                                                                                                                                                                                                                                                                                           |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Descrição:** Mago frio e arrogante, líder do culto elemental na [Aldeia Abandonada](aldeia_abandonada.md). Orquestrou o ritual para espalhar o fungo amarelo, acreditando ser uma "bênção da terra" que purifica os fracos. Comanda cultistas e invoca elementais da terra. | **Description:** Cold and arrogant mage, leader of the elemental cult in the [Abandoned Village](aldeia_abandonada.md). Orchestrated the ritual to spread the yellow fungus, believing it to be a "blessing of the earth" that purifies the weak. Commands cultists and summons earth elementals. |
 
 
 

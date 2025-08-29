@@ -1,6 +1,7 @@
 
 # Garruk Valstein
-![Garruk Valstein](docs/dm/-/npc/blank.png)
+
+![Garruk Valstein](docs/assets/npc/npc_blank.png)
 
 | Português | English |
 |-----------|---------|

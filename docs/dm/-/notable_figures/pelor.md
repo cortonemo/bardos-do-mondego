@@ -1,10 +1,8 @@
-## Ficheiro: pelor.md
-
-#### Pelor
+# Pelor
 
 Sessão: 2 | Data: (data não especificada) | Fonte: s02.txt | Tags: religião, deidade
 
-![Pelor](docs/dm/-/notable_figures/blank.png)
+![Pelor](npc_blank.png)
 
 | English | Português |
 |---------|-----------|

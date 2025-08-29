@@ -3,7 +3,7 @@
 
 Sessões: 16 | Datas: 2025-04-24 | Fontes: extra_relato_crianca_perdida.txt | Tags: loot, poção, mágico
 
-![Poção de Resistência a Necrótico](docs/dm/-/loot/blank.png)
+![Poção de Resistência a Necrótico](object_blank.png)
 
 | Português | English |
 |-----------|---------|

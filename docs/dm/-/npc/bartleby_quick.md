@@ -3,7 +3,7 @@
 
 Sessões: 13 | Datas: 2025-03-13 | Fontes: s13_-_2025-03-13.txt | Tags: npc, escriba, halfling, greyhawk
 
-![Bartleby Quick](docs/dm/-/npc/blank.png)
+![Bartleby Quick](docs/assets/npc/npc_blank.png)
 
 | Português | English |
 |-----------|---------|

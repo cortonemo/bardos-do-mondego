@@ -19,11 +19,11 @@
 
 ### 📷 Imagens & Mapas / Images & Maps
 
-- ![Cartaz de Pessoa Desaparecida](missing_person.png)
-- ![Alerta de Criança Desaparecida](child_alert.png)
-- ![Mapa desenhado por Aria (diário)](mapa_caminho.png)
-- ![Mapa da Cripta para jogadores](crypt_ruins.png)
-- ![Mapa DM com áreas, monstros e itens](mapDM.png)
+- ![Cartaz de Pessoa Desaparecida](npc_blank.png)
+- ![Alerta de Criança Desaparecida](npc_blank.png)
+- ![Mapa desenhado por Aria (diário)](npc_blank.png)
+- ![Mapa da Cripta para jogadores](npc_blank.png)
+- ![Mapa DM com áreas, monstros e itens](npc_blank.png)
 
 
 

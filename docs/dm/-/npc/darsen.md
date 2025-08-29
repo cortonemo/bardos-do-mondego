@@ -7,7 +7,7 @@ Sessões:
 
 Tags: npc, vilao, museu
 
-![Darsen](docs/dm/-/npc/blank.png)
+![Darsen](docs/assets/npc/npc_blank.png)
 
 | English | Português |
 |---------|-----------|

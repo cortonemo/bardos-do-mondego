@@ -2,7 +2,7 @@
 
 Sessão: 1 | Data: 2025-08-02 | Fonte: s01.txt | Tags: criatura, monstro, predador
 
-![Stirge](docs/dm/-/monsters/blank.png)
+![Stirge](monster_blank.png)
 
 | English | Português |
 |---------|-----------|

@@ -1,9 +1,9 @@
 
-#### Kobolds Infectados
+# Kobolds Infectados
 
 Sessão: 3 | Data: 2025-04-18 | Fonte: s03.txt | Tags: monstro, kobold, fungo
 
-![Kobolds Infectados](docs/dm/-/npc/blank.png)
+![Kobolds Infectados](docs/assets/npc/npc_blank.png)
 
 | English | Português |
 |---------|-----------|

@@ -3,7 +3,7 @@
 
 Sessões: 9 | Datas: 2025-03-06 | Fontes: s09_-_2025-03-06.txt | Tags: npc, sacerdotisa, vauria
 
-![Verena Kestrel](docs/dm/-/npc/blank.png)
+![Verena Kestrel](docs/assets/npc/npc_blank.png)
 
 | Português | English |
 |-----------|---------|

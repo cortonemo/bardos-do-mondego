@@ -3,7 +3,7 @@
 
 Sessões: 22 | Datas: 2025-06-05 | Fontes: s22_-_2025-06-05.txt | Tags: monstro, sagrado, vale
 
-![Unicórnio Lendário](docs/dm/-/monsters/blank.png)
+![Unicórnio Lendário](monster_blank.png)
 
 | Português | English |
 |-----------|---------|

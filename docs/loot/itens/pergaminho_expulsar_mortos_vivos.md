@@ -3,7 +3,7 @@
 
 Sessões: 16 | Datas: 2025-04-24 | Fontes: extra_relato_crianca_perdida.txt | Tags: loot, pergaminho, mágico
 
-![Pergaminho de Expulsar Mortos-Vivos](docs/dm/-/loot/blank.png)
+![Pergaminho de Expulsar Mortos-Vivos](object_blank.png)
 
 | Português | English |
 |-----------|---------|

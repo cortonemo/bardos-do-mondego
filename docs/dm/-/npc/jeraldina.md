@@ -3,7 +3,7 @@
 
 Sessões: 4 | Datas: 2025-01-23 | Fontes: s04_-_2025-01-23.txt | Tags: npc, comerciante, acampamento
 
-![Jeraldina](docs/dm/-/npc/blank.png)
+![Jeraldina](docs/assets/npc/npc_blank.png)
 
 | Português | English |
 |-----------|---------|

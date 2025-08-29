@@ -6,9 +6,9 @@ Sessões:
 
 Tags: npc, taverneiro
 
-![Taverneiro do Refúgio](docs/dm/-/npc/blank.png)
+![Taverneiro do Refúgio](docs/assets/npc/npc_blank.png)
 
-| English | Português |
-|---------|-----------|
-| **The Refuge Innkeeper** provides the party with shelter, information, and minor magical items. | **O Taverneiro do Refúgio** oferece abrigo, informações e objetos mágicos ao grupo. |
+| Português                                                                           | English                                                                                         |
+| ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| **O Taverneiro do Refúgio** oferece abrigo, informações e objetos mágicos ao grupo. | **The Refuge Innkeeper** provides the party with shelter, information, and minor magical items. |
 

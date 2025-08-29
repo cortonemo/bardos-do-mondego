@@ -3,7 +3,7 @@
 
 Sessão: 3 | Data: 2025-04-18 | Fonte: s03.txt | Tags: monstro, lobo, fungo
 
-![Lobos Infectados pelo Fungo](docs/dm/-/monsters/blank.png)
+![Lobos Infectados pelo Fungo](monster_blank.png)
 
 | English | Português |
 |---------|-----------|

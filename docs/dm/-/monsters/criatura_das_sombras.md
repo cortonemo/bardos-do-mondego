@@ -3,7 +3,7 @@
 
 Sessões: 16 | Datas: 2025-04-24 | Fontes: extra_relato_crianca_perdida.txt | Tags: monstro, sombra, boss
 
-![Criatura das Sombras](docs/dm/-/monsters/blank.png)
+![Criatura das Sombras](monster_blank.png)
 
 | Português | English |
 |-----------|---------|

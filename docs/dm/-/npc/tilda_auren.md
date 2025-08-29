@@ -3,7 +3,7 @@
 
 Sessões: 14, 16 | Datas: 2025-04-10, 2025-04-24 | Fontes: s14_-_2025-04-10.txt, s16_-_2025-04-24.txt | Tags: npc, acolita, ordem_de_scarlat
 
-![Tilda Auren](docs/dm/-/npc/blank.png)
+![Tilda Auren](docs/assets/npc/npc_blank.png)
 
 | Português | English |
 |-----------|---------|

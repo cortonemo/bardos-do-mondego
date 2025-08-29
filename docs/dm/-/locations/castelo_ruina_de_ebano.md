@@ -8,7 +8,7 @@ Sessões:
 
 Tags: localizacao, castelo, dungeon
 
-![Castelo Ruina-de-Ebano](docs/dm/-/locations/blank.png)
+![Castelo Ruina-de-Ebano](location_blank.png)
 
 | English | Português |
 |---------|-----------|

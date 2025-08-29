@@ -3,7 +3,7 @@
 
 Sessões: 2, 8 | Datas: 2025-01-09, 2025-02-27 | Fontes: s02_-_2025-01-09.txt, s08_-_2025-02-27.txt | Tags: npc, taberneira, mirens_hallow
 
-![Calra Brightwater](docs/dm/-/npc/blank.png)
+![Calra Brightwater](docs/assets/npc/npc_blank.png)
 
 | Português | English |
 |-----------|---------|

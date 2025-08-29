@@ -6,7 +6,7 @@ Sessões:
 
 Tags: npc, druida, vilao
 
-![Druida Infetado](docs/dm/-/npc/blank.png)
+![Druida Infetado](docs/assets/npc/npc_blank.png)
 
 | English | Português |
 |---------|-----------|

@@ -3,7 +3,7 @@
 
 Sessões: 8 | Datas: 2025-02-27 | Fontes: s08_-_2025-02-27.txt | Tags: pc, guerreiro
 
-![Baltigard](docs/dm/-/npc/blank.png)
+![Baltigard](docs/assets/npc/npc_blank.png)
 
 | Português | English |
 |-----------|---------|

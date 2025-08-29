@@ -3,7 +3,7 @@
 
 Sessões: Sessão Extra | Datas: 2025-04-24 | Fontes: extra_relato_crianca_perdida.txt | Tags: npc, comerciante, pai, greenbottle
 
-![Tobias Greenbottle](docs/dm/-/npc/blank.png)
+![Tobias Greenbottle](docs/assets/npc/npc_blank.png)
 
 | Português | English |
 |-----------|---------|

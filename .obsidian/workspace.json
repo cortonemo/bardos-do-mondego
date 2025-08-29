@@ -25,36 +25,36 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "docs/dm/-/pc/pc_dustin_thorne_01 1.jpg"
+                "file": "docs/assets/loot/espada_mais_um.png"
               },
               "icon": "lucide-image",
-              "title": "pc_dustin_thorne_01 1"
+              "title": "espada_mais_um"
             }
           },
           {
-            "id": "7ff3c92a6d4b5d26",
+            "id": "d774ef4a78317761",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "docs/dm/-/pc/pc_ketrich_flavifer_03.jpg"
+                "file": "docs/assets/loot/espada_luz_velada.png"
               },
               "icon": "lucide-image",
-              "title": "pc_ketrich_flavifer_03"
+              "title": "espada_luz_velada"
             }
           },
           {
-            "id": "6abb54b3bd3f73e7",
+            "id": "22321515a6159d46",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/dm/-/pc/pc_usopp.md",
+                "file": "docs/lore/-/calendar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "pc_usopp"
+              "title": "calendar"
             }
           }
         ],
@@ -205,51 +205,50 @@
   },
   "active": "8b60e7fd6b137849",
   "lastOpenFiles": [
-    "docs/dm/-/pc/pc_zeldris.md",
-    "docs/dm/-/pc/pc_zeldris.md",
-    "docs/assets/pc/pc_zeldris.png",
-    "docs/dm/-/pc/pc_zeldris_varus_01.png",
-    "docs/dm/-/pc/pc_zahel.md",
-    "docs/dm/-/pc/pc_wagner.md",
-    "docs/dm/-/pc/pc_grix_molah.md",
-    "docs/dm/-/pc/pc_vaunia_kolakiala.md",
-    "docs/assets/pc/pc_vaunia_kolakiala.jpg",
-    "docs/dm/-/pc/pc_usopp.md",
-    "docs/assets/pc/pc_ulma.png",
-    "docs/dm/-/pc/pc_ulma.md",
-    "docs/assets/pc/pc_triss_merrill_01.png",
-    "docs/dm/-/pc/pc_triss_merrill.md",
-    "docs/dm/-/pc/pc_sarvian_midlor.md",
+    "docs/loot/itens/loot.md",
+    "scripts/gen_nav.py",
+    "scripts/gen_nav.py.bak",
+    "docs/loot/itens/loot 1.md",
+    "docs/loot/itens/anel_magico_de_zorg.md",
+    "docs/loot/itens/acorn_borogrove.md",
+    "docs/loot/itens/topaz.md",
+    "docs/loot/itens/thargrin_letter.md",
+    "docs/loot/itens/staff_of_flowers.md",
+    "docs/loot/itens/sala_subterranea_frascos.md",
+    "docs/loot/itens/espada_mais_um.md",
+    "docs/assets/loot/espada_mais_um.png",
+    "docs/assets/loot/bracers_of_defense.jpeg",
+    "docs/assets/loot/object_blank.png",
+    "docs/assets/loot/object_blank.png",
+    "docs/assets/loot/capa_da_neblina.png",
+    "docs/assets/loot/espada_luz_velada.png",
+    "docs/dm/-/tables/pcs_por_aventura.md",
+    "docs/dm/-/tables/npcs_por_aventura.md",
+    "docs/dm/-/tables/monstros_por_aventura.md",
+    "docs/dm/-/tables/loot_por_aventura.md",
+    "docs/dm/-/tables/global_adventures_index.md",
+    "docs/dm/-/tables/global_adventures.md",
+    "docs/dm/-/tables/ganchos_por_aventura.md",
+    "docs/dm/-/tables/adventures_summary.md",
+    "docs/dm/-/rumors/rumores_sobre_illithids.md",
+    "docs/dm/-/rumors/rumores_do_vale_lytharien.md",
+    "docs/assets/rumor/ps89E1.tmp",
+    "docs/dm/-/rumors/rumores_da_mao_roubada.md",
+    "docs/dm/-/rumors/palavras_arcanas.md",
+    "docs/dm/-/rumors/lendas_das_ruinas_sombras.md",
+    "docs/dm/-/rumors/boatos_sobre_piratas.md",
+    "docs/assets/rumor/rumor_blank.png",
+    "docs/assets/rumor",
+    "docs/assets/New folder",
     "docs/dm/-/pc/pc_raylahn.md",
-    "docs/assets/pc/pc_raylahn.jpg",
     "docs/dm/-/pc/pc_lucien.md",
-    "docs/dm/-/pc/pc_leo.md",
-    "docs/assets/pc/pc_lucien_01.png",
-    "docs/dm/-/pc/pc_kai.md",
-    "docs/dm/-/pc/pc_eirwen.md",
-    "docs/dm/-/pc/pc_dustin_thorne.md",
-    "docs/dm/-/pc/pc_drayl_bharash.md",
-    "docs/dm/-/pc/pc_conan_barbaro_ra.md",
-    "docs/dm/-/pc/pc_ketrich_flavifer.md",
-    "docs/assets/pc/pc_ketrich_flavifer_01.png",
-    "docs/assets/pc/pc_eirwen_01.png",
-    "docs/assets/pc/pc_dustin_thorne_01.jpg",
-    "pc_conan_barbaro_ra_00.md",
-    "docs/assets/pc/ps71FE.tmp",
-    "docs/assets/pc/ps3C76.tmp",
-    "docs/assets/pc/psFEC0.tmp",
-    "docs/assets/pc/ps94D9.tmp",
-    "docs/assets/pc/ps8632.tmp",
-    "docs/assets/pc/ps54F6.tmp",
-    "docs/assets/pc",
-    "docs/lore/-/calendar.md",
-    "docs/assets",
-    "docs/lore/-",
-    "docs/dm/-/pc/ficha não atual/pc_wandering_sage.md",
-    "docs/dm/-/pc/ficha não atual/pc_lucian_vyrolyn.md",
-    "docs/dm/-/pc/pc_lone_straw.md",
-    "docs/dm/-/pc/ficha não atual/pc_lone_straw.md",
-    "docs/dm/-/organizations/guild_of_thieves.md",
-    "docs/dm/-/pc/ficha não atual"
+    "docs/assets/organization/org_blank.png",
+    "docs/assets/pc/pc_blank.png",
+    "docs/assets/organization/ps6A9E.tmp",
+    "docs/assets/organization",
+    "docs/dm/-/notable_figures/blank.png",
+    "docs/assets/monster/ps8B6E.tmp",
+    "docs/assets/monster",
+    "docs/assets/loot"
   ]
 }

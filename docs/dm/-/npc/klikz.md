@@ -1,9 +1,9 @@
 
-#### Klikz
+# Klikz
 
 Sessão: 3 | Data: 2025-04-18 | Fonte: s03.txt | Tags: npc, kobold, sobrevivente
 
-![Klikz](docs/dm/-/npc/blank.png)
+![Klikz](docs/assets/npc/npc_blank.png)
 
 | English | Português |
 |---------|-----------|

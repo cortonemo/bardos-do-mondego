@@ -3,7 +3,7 @@
 
 Sessões: 8 | Datas: 2025-02-27 | Fontes: s08_-_2025-02-27.txt | Tags: rumor, illithids, abdução
 
-![Rumores sobre Illithids](docs/dm/-/rumors/blank.png)
+![Rumores sobre Illithids](rumor_blank.png)
 
 | Português | English |
 |-----------|---------|

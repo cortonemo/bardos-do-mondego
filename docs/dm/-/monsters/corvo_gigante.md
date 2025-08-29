@@ -3,7 +3,7 @@
 
 Sessões: 10 | Datas: 2025-03-13 | Fontes: s10_-_2025-03-13.txt | Tags: monstro, animal, corvo
 
-![Corvo Gigante](docs/dm/-/monsters/blank.png)
+![Corvo Gigante](monster_blank.png)
 
 | Português | English |
 |-----------|---------|

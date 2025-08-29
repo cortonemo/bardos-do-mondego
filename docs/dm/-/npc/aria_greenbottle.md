@@ -3,7 +3,7 @@
 
 Sessões: Sessão Extra | Datas: 2025-04-24 | Fontes: extra_relato_crianca_perdida.txt | Tags: npc, criança, desaparecida, greenbottle
 
-![Aria Greenbottle](docs/dm/-/npc/blank.png)
+![Aria Greenbottle](docs/assets/npc/npc_blank.png)
 
 | Português | English |
 |-----------|---------|

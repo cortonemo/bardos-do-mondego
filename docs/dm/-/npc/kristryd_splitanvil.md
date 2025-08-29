@@ -1,10 +1,10 @@
 
 
-#### Kristryd Splitanvil
+#Kristryd Splitanvil
 
 Sessão: 2 | Data: (data não especificada) | Fonte: s02.txt | Tags: npc, prefeito, clérigo, Blackstone
 
-![Kristryd Splitanvil](docs/dm/-/npc/blank.png)
+![Kristryd Splitanvil](docs/assets/npc/npc_blank.png)
 
 | English | Português |
 |---------|-----------|

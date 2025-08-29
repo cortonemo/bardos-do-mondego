@@ -3,7 +3,7 @@
 
 Sessão: 3 | Data: 2025-04-18 | Fonte: s03.txt | Tags: loot, fungo, aventura
 
-![Loot  Vale do Vento Sombrio](docs/dm/-/loot/blank.png)
+![Loot  Vale do Vento Sombrio](object_blank.png)
 
 | English | Português |
 |---------|-----------|

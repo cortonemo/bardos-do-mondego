@@ -2,7 +2,7 @@
 
 Sessão: 3 | Data: 2025-04-18 | Fonte: s03.txt | Tags: organização, culto, vilão, vaelkor_ashbrand
 
-![Culto do Mal Elemental](docs/dm/-/organizations/blank.png)
+![Culto do Mal Elemental](org_blank.png)
 
 | English | Português |
 |---------|-----------|

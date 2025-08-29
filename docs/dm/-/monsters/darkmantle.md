@@ -4,7 +4,7 @@
 
 Sessão: 2 | Data: (data não especificada) | Fonte: s02.txt | Tags: monstro
 
-![Darkmantle](docs/dm/-/monsters/blank.png)
+![Darkmantle](monster_blank.png)
 
 | English | Português |
 |---------|-----------|
