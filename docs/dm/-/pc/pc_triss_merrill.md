@@ -1,7 +1,7 @@
 # Triss Merrill
 
-| <img src="pc_triss_merrill_01.png" height="200"/>  | <img src="pc_triss_merrill_02.png" height="200"/>  |<img src="pc_triss_merrill_03.png" height="200"/>  |
-| --------- | ------- |------- |
+| ![[pc_triss_merrill_01.png\|300]] |![[pc_triss_merrill_02.png\|300]] |![[pc_triss_merrill_03.png\|300]] |
+| ------------------------ | ------------------------ | ------------------------ |
 
 | Português | English |
 | --------- | ------- |
