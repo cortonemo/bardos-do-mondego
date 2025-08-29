@@ -18,8 +18,7 @@ TOP_LEVEL_ORDER = [
 # Prune anywhere
 PRUNE_DIRS = {
     ".obsidian", "assets", "images", "image", "img", "imgs",
-    "media", "static", "css",
-    "summary", "ready", ".summary", ".a_atualizar"
+    "media", "static", "css", ".summary", ".a_atualizar"
 }
 
 # Hide whole folder if one of these files exists inside it
