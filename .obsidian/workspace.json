@@ -49,30 +49,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/dm/-/pc/pc_usopp.md",
+                "file": "docs/dm/-/pc/pc_ketrich_flavifer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "pc_usopp"
-            }
-          },
-          {
-            "id": "b53fbcb85f236878",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/dm/-/pc/pc_conan_barbaro_ra.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "pc_conan_barbaro_ra"
+              "title": "pc_ketrich_flavifer"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -217,34 +203,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b53fbcb85f236878",
+  "active": "6abb54b3bd3f73e7",
   "lastOpenFiles": [
-    "docs/assets/pc/_.png",
-    "docs/dm/-/pc/pc_conan_barbaro_ra.md",
+    "docs/assets/pc/pc_ketrich_flavifer_01.png",
+    "docs/dm/-/pc/pc_ketrich_flavifer.md",
     "docs/dm/-/pc/pc_kai.md",
-    "docs/assets/pc/pc_kai_05.png",
-    "docs/assets/pc/pc_kai_01.png",
-    "docs/assets/pc/pc_kai_02.png",
-    "docs/assets/pc/pc_kai_03.png",
-    "docs/assets/pc/pc_kai_04.png",
+    "docs/dm/-/pc/pc_grix_molah.md",
+    "docs/assets/pc/pc_eirwen_01.png",
+    "docs/dm/-/pc/pc_eirwen.md",
+    "docs/dm/-/pc/pc_drayl_bharash.md",
+    "docs/dm/-/pc/pc_conan_barbaro_ra.md",
+    "docs/dm/-/pc/pc_dustin_thorne.md",
+    "docs/assets/pc/pc_dustin_thorne_01.jpg",
+    "docs/dm/-/pc/pc_dustin_thorne_06.jpg",
+    "docs/dm/-/pc/pc_dustin_thorne_05.jpg",
+    "docs/dm/-/pc/pc_dustin_thorne_04.jpg",
+    "docs/assets/pc/pc_dustin_thorne_03.jpg",
+    "docs/assets/pc/pc_dustin_thorne_02.jpg",
+    "docs/assets/pc/pc_drayl_bharash_00.png",
+    "docs/dm/-/pc/pc_drayl_bharash 1.png",
+    "docs/assets/pc/pc_conan_barbaro_ra_00.png",
+    "pc_conan_barbaro_ra_00.md",
     "docs/assets/pc/ps71FE.tmp",
     "docs/assets/pc/ps3C76.tmp",
     "docs/assets/pc/psFEC0.tmp",
     "docs/assets/pc/ps94D9.tmp",
     "docs/assets/pc/ps8632.tmp",
     "docs/assets/pc/ps54F6.tmp",
-    "docs/assets/pc/pc_kai_07.png",
-    "docs/assets/pc/blank.png",
     "docs/assets/pc",
     "docs/lore/-/calendar.md",
     "docs/assets",
     "docs/lore/-",
-    "docs/notable_figures/blank.png",
     "docs/dm/-/pc/pc_zeldris_varus.md",
     "docs/dm/-/pc/pc_zahel.md",
-    "docs/dm/-/pc/pc_zeldris.png",
     "docs/dm/-/pc/pc_wagner.md",
-    "docs/dm/-/pc/pc_wagner.png",
     "docs/dm/-/pc/pc_usopp.md",
     "docs/dm/-/pc/pc_vaunia_kolakiala.md",
     "docs/dm/-/pc/ficha não atual/pc_wandering_sage.md",
@@ -256,14 +248,8 @@
     "docs/dm/-/pc/ficha não atual/pc_lucian_vyrolyn.md",
     "docs/dm/-/pc/pc_lone_straw.md",
     "docs/dm/-/pc/ficha não atual/pc_lone_straw.md",
-    "docs/dm/-/pc/pc_dustin_thorne.md",
     "docs/dm/-/pc/pc_leo.md",
-    "docs/dm/-/pc/pc_ketrich_flavifer.md",
-    "docs/dm/-/pc/pc_grix_molah.md",
     "docs/dm/-/organizations/guild_of_thieves.md",
-    "docs/dm/-/pc/ficha não atual/pc_vaunia_kolakiala.md",
-    "docs/dm/-/pc/ficha não atual/pc_tabasco_de_lumeiros.md",
-    "docs/dm/-/pc/ficha não atual/pc_silfir.md",
     "docs/dm/-/pc/ficha não atual"
   ]
 }

@@ -1,7 +1,8 @@
 # Drayl Bharash
 
-| <img src="pc_drayl_bharash.png" height="200"/> |
-| ---------------------------------------------- |
+
+| ![[pc_drayl_bharash_00.png\|{ height=100 } ]] |
+| --------------------------------------------- |
 
 | Português | English |
 | --------- | ------- |
