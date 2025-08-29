@@ -73,12 +73,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
-                "mode": "source",
+                "file": "docs/lore/-/timeline/timelines/timeline_westmarches.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "timeline_westmarches"
             }
           }
         ],
@@ -227,8 +227,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8b60e7fd6b137849",
+  "active": "27319c695fd1e9c1",
   "lastOpenFiles": [
+    "docs/lore/-/timeline/timelines/timeline_ancient.md",
+    "docs/lore/-/timeline/greyhawk_timeline_complete.md",
+    "docs/lore/-/timeline/greyhawk_sessions_complete.md",
+    "docs/index.md",
+    "docs/lore/-/timeline/timelines",
+    "docs/lore/-/history",
     "docs/loot/itens/topaz.md",
     "docs/assets/loot/topaz.webp",
     "docs/npc/-/lady_silvra_malren.md",
@@ -256,14 +262,11 @@
     "docs/-/notable_figures/npc_blank.png",
     "docs/monsters/-/swarm_of_bats.md",
     "docs/monsters/-/swarm_of_rats.md",
-    "docs/lore/locations/geography.md",
-    "docs/lore/locations/cities/verbobonc/verbobonc.md",
+    "docs/lore/-/locations/geography.md",
+    "docs/lore/-/locations/cities/verbobonc/verbobonc.md",
     "docs/-/lore/locations/cities/blank.png",
-    "docs/lore/locations/cities/irongate/irongate.md",
     "docs/assets/location/free_city_of_irongate.jpg",
     "docs/assets/location/free_city_of_irongate_coat_of_Arms.gif",
-    "docs/lore/locations/cities/free_city_of_greyhawk/artisans_quarter/guildhall_of_wizardry.md",
-    "docs/lore/locations/cities/free_city_of_greyhawk/artisans_quarter/artisans_quarter.md",
     "scripts/gen_nav.py",
     "scripts/gen_nav.py.bak",
     "docs/assets/rumor/ps89E1.tmp",
@@ -271,8 +274,6 @@
     "docs/assets/New folder",
     "docs/assets/organization/ps6A9E.tmp",
     "docs/assets/organization",
-    "docs/assets/monster/ps8B6E.tmp",
-    "docs/assets/monster",
-    "docs/assets/loot"
+    "docs/assets/monster/ps8B6E.tmp"
   ]
 }

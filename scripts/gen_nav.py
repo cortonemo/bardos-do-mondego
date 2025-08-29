@@ -17,7 +17,7 @@ TOP_LEVEL_ORDER = [
 
 # Prune anywhere
 PRUNE_DIRS = {
-    ".obsidian", "assets", "images", "image", "img", "imgs",
+    ".obsidian", "assets", "images", "image", "img", "imgs", "timelines", 
     "media", "static", "css", ".summary", ".a_atualizar"
 }
 
