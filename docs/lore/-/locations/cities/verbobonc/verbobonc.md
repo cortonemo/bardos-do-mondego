@@ -1,4 +1,4 @@
-﻿
+
 # Verbobonc "Earth and stone, man and gnome"
 *Verbobonc — “Terra e pedra, homem e gnomo”*
 

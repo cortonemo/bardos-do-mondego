@@ -1,4 +1,4 @@
-﻿# Cidadela Antiga | Old Citadel
+# Cidadela Antiga | Old Citadel
 ![Old Citadel](assets/location/old_citadel.png)
 
 | **Português (PT-PT)**                                                                                                                              | **English (EN-US)**                                                                                                                    |

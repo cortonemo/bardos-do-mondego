@@ -10,11 +10,6 @@
 |-----------|---------|
 | - Local de encontros secretos<br>- Contratação de trabalhos obscuros<br>- Escapadela de patrulhas ou espiões | - Place for secret meetings<br>- Hiring for shady jobs<br>- Escape route from patrols or spies |
 
-## Presenças Conhecidas / Known Presences
-
-| Português                                    | English                                      |
-| -------------------------------------------- | -------------------------------------------- |
-| - [Tomtha Beaknose](tomtha_beaknose.md) <br> | - [Tomtha Beaknose](tomtha_beaknose.md) <br> |
 
 
 

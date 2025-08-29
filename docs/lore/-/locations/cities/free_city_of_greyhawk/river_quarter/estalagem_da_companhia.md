@@ -1,4 +1,4 @@
-﻿# A Estalagem da Companhia | The Company's Inn
+# A Estalagem da Companhia | The Company's Inn
 ![the_inn](assets/location/the_inn.jpeg)
 
 | **Português (PT-PT)**                                                                                                                                                                                                                                                                                                                                                                                                                                                      | **English (EN-US)**                                                                                                                                                                                                                                                                                                                                                                                                                |
