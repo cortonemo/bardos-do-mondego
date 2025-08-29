@@ -49,12 +49,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/lore/-/calendar.md",
+                "file": "docs/loot/itens/gema_das_cinco_vozes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "calendar"
+              "title": "gema_das_cinco_vozes"
             }
           }
         ],
@@ -203,13 +203,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8b60e7fd6b137849",
+  "active": "22321515a6159d46",
   "lastOpenFiles": [
+    "docs/assets/loot/gema_das_cinco_vozes.webp",
+    "docs/loot/itens/gema_das_cinco_vozes.md",
+    "docs/loot/itens/anel_magico_de_zorg.md",
+    "docs/lore/-/calendar.md",
     "docs/loot/itens/loot.md",
     "scripts/gen_nav.py",
     "scripts/gen_nav.py.bak",
     "docs/loot/itens/loot 1.md",
-    "docs/loot/itens/anel_magico_de_zorg.md",
     "docs/loot/itens/acorn_borogrove.md",
     "docs/loot/itens/topaz.md",
     "docs/loot/itens/thargrin_letter.md",
@@ -240,8 +243,6 @@
     "docs/assets/rumor/rumor_blank.png",
     "docs/assets/rumor",
     "docs/assets/New folder",
-    "docs/dm/-/pc/pc_raylahn.md",
-    "docs/dm/-/pc/pc_lucien.md",
     "docs/assets/organization/org_blank.png",
     "docs/assets/pc/pc_blank.png",
     "docs/assets/organization/ps6A9E.tmp",
