@@ -63,12 +63,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/dm/-/pc/pc_kai.md",
+                "file": "docs/dm/-/pc/pc_conan_barbaro_ra.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "pc_kai"
+              "title": "pc_conan_barbaro_ra"
             }
           }
         ],
@@ -219,11 +219,20 @@
   },
   "active": "b53fbcb85f236878",
   "lastOpenFiles": [
-    "docs/assets/pc/pc_kai_05.png",
+    "docs/assets/pc/_.png",
+    "docs/dm/-/pc/pc_conan_barbaro_ra.md",
     "docs/dm/-/pc/pc_kai.md",
+    "docs/assets/pc/pc_kai_05.png",
     "docs/assets/pc/pc_kai_01.png",
-    "docs/assets/pc/pc_kai_04.png",
+    "docs/assets/pc/pc_kai_02.png",
     "docs/assets/pc/pc_kai_03.png",
+    "docs/assets/pc/pc_kai_04.png",
+    "docs/assets/pc/ps71FE.tmp",
+    "docs/assets/pc/ps3C76.tmp",
+    "docs/assets/pc/psFEC0.tmp",
+    "docs/assets/pc/ps94D9.tmp",
+    "docs/assets/pc/ps8632.tmp",
+    "docs/assets/pc/ps54F6.tmp",
     "docs/assets/pc/pc_kai_07.png",
     "docs/assets/pc/blank.png",
     "docs/assets/pc",
@@ -247,7 +256,6 @@
     "docs/dm/-/pc/ficha não atual/pc_lucian_vyrolyn.md",
     "docs/dm/-/pc/pc_lone_straw.md",
     "docs/dm/-/pc/ficha não atual/pc_lone_straw.md",
-    "docs/dm/-/pc/pc_conan_barbaro_ra.md",
     "docs/dm/-/pc/pc_dustin_thorne.md",
     "docs/dm/-/pc/pc_leo.md",
     "docs/dm/-/pc/pc_ketrich_flavifer.md",
@@ -256,12 +264,6 @@
     "docs/dm/-/pc/ficha não atual/pc_vaunia_kolakiala.md",
     "docs/dm/-/pc/ficha não atual/pc_tabasco_de_lumeiros.md",
     "docs/dm/-/pc/ficha não atual/pc_silfir.md",
-    "docs/dm/-/pc/ficha não atual",
-    "docs/dm/-/pc/New folder",
-    "docs/lore",
-    "docs/lore/timeline",
-    "docs/lore/locations/cities/irongate",
-    "docs/locations/cities/ulek/ps1592.tmp",
-    "docs/lore/locations/cities/free_city_of_greyhawk/thieves_quarter"
+    "docs/dm/-/pc/ficha não atual"
   ]
 }
