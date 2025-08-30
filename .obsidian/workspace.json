@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/npc/-/jandel_the_lintwatcher.md",
+                "file": "docs/dm/-/npc/Free City of Grehawk/wenla_frott.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "jandel_the_lintwatcher"
+              "title": "wenla_frott"
+            }
+          },
+          {
+            "id": "35637d11b238b216",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/npc/Mirens Hallow/calra_brightwater.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "calra_brightwater"
             }
           },
           {
@@ -35,7 +49,8 @@
               "title": "guild_of_thieves"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,34 +195,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ea1a34bce3cc13d",
+  "active": "35637d11b238b216",
   "lastOpenFiles": [
-    "docs/npc/-/guarda_da_cidade.md",
-    "docs/npc/-/wenla_frott.md",
-    "docs/npc/-/tomtha_beaknose.md",
+    "docs/dm/-/npc/Mirens Hallow/calra_brightwater.md",
+    "docs/npc/Mirens Hallow/calra_brightwater.md",
+    "docs/npc/Mirens Hallow",
+    "docs/dm/-/npc/Unknown/brandon_bane.md",
+    "docs/dm/-/npc/Mirens Hallow",
+    "docs/dm/-/npc/Unknown/brand_orvain.md",
+    "docs/npc/Eribend/branwir.md",
+    "docs/dm/-/npc/Eribend/branwir.md",
+    "docs/dm/-/npc/Unknown/borogrove.md",
+    "docs/dm/-/npc/Unknown/berdan_barleybrow.md",
+    "docs/npc/Free City of Grehawk/bartleby_quick.md",
+    "docs/dm/-/npc/Free City of Grehawk/bartleby_quick.md",
+    "docs/dm/-/locations/mercado_de_greyhawk.md",
+    "docs/assets/location/peculiar_manor.png",
+    "docs/dm/-/npc/Unknown/talandra_valaxar.md",
+    "docs/npc/wild/bareth_lionmane.md",
+    "docs/npc/wild/baltigard.md",
+    "docs/npc/Eribend/mestre_tolinn.md",
+    "docs/dm/-/npc/Eribend",
+    "docs/npc/Eribend",
+    "docs/dm/-/npc/Eribend/mestre_tolinn.md",
+    "docs/dm/-/npc/Free City of Grehawk/lord_aleister_devraine.md",
+    "docs/npc/Free City of Grehawk/lord_aleister_devraine.md",
+    "docs/npc/Free City of Grehawk/lady_silvra_malren.md",
+    "docs/npc/Free City of Grehawk/jandel_the_lintwatcher.md",
+    "docs/npc/Free City of Grehawk/iquander_of_greyhawk.md",
+    "docs/npc/Free City of Grehawk/guarda_da_cidade.md",
+    "docs/npc/Free City of Grehawk/finn_greenbottle.md",
+    "docs/npc/Free City of Grehawk/eliza_greenbottle.md",
+    "docs/npc/Free City of Grehawk/aria_greenbottle.md",
+    "docs/dm/-/npc/Free City of Grehawk/lady_silvra_malren.md",
+    "docs/dm/-/npc/Unknown",
+    "docs/npc/wild",
+    "docs/dm/-/npc/wild",
+    "docs/dm/-/npc/Free City of Grehawk",
     "docs/assets/npc/npc_blank.png",
-    "docs/npc/-/talandra_valaxar.md",
-    "docs/npc/-/sister_blathine.md",
-    "docs/npc/-/o_taberneiro.md",
-    "docs/npc/-/neliara_de_oghma.md",
-    "docs/npc/-/mistress_lyra_quil.md",
-    "docs/npc/-/lord_aleister_devraine.md",
-    "docs/npc/-/lady_silvra_malren.md",
-    "docs/npc/-/jandel_the_lintwatcher.md",
-    "docs/npc/-/iquander.md",
-    "docs/dm/-/npc/darsen.md",
-    "docs/dm/-/npc/dandan.md",
-    "docs/dm/-/npc/curador.md",
-    "docs/dm/-/npc/cultista.md",
-    "docs/dm/-/npc/cleseur.md",
-    "docs/dm/-/npc/calra_brightwater.md",
-    "docs/dm/-/npc/branwir.md",
-    "docs/dm/-/npc/brandon_bane.md",
-    "docs/dm/-/npc/brand_orvain.md",
-    "docs/dm/-/npc/borogrove.md",
-    "docs/dm/-/npc/berdan_barleybrow.md",
-    "docs/dm/-/npc/bartleby_quick.md",
-    "docs/dm/-/npc/bareth_lionmane.md",
     "docs/assets/location/coat_of_arms_dyvers.jpeg",
     "docs/assets/loot/espada_luz_velada.png",
     "docs/assets/loot/espada_mais_um.png",
@@ -216,16 +241,7 @@
     "docs/dm/-/pc/a_atualizar/pc_markus_grimm_02.png",
     "docs/dm/-/pc/a_atualizar/pc_wandering_sage.png",
     "docs/dm/-/pc/a_atualizar/pc_silfir.png",
-    "docs/dm/-/pc/a_atualizar/pc_orianna.jpg",
     "docs/dm/-/pc/a_atualizar",
-    "docs/dm/-/summary",
-    "docs/lore/-/timeline/timelines",
-    "docs/lore/-/history",
-    "scripts/gen_nav.py",
-    "scripts/gen_nav.py.bak",
-    "docs/assets/rumor/ps89E1.tmp",
-    "docs/assets/rumor",
-    "docs/assets/New folder",
-    "docs/assets/organization/ps6A9E.tmp"
+    "docs/dm/-/summary"
   ]
 }

@@ -1,4 +1,4 @@
-﻿
+
 # Mercado de Greyhawk
 
 Sessões: várias | Datas: várias | Fontes: vários | Tags: mercado, greyhawk
