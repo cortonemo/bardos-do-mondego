@@ -1,0 +1,24 @@
+{
+  "rules": [
+    {
+      "regexp": "g:([a-zA-Z0-9.-]*)",
+      "link": "http://google.com/search?q=$1",
+      "cssclass": ""
+    },
+    {
+      "regexp": "gh:([a-zA-Z0-9./-]*)",
+      "link": "http://github.com/$1",
+      "cssclass": ""
+    },
+    {
+      "regexp": "@([a-zA-Z0-9]*)",
+      "link": "http://twitter.com/$1",
+      "cssclass": ""
+    },
+    {
+      "regexp": "g\\/([a-zA-Z.-]*)",
+      "link": "http://google.com/search?q=$1",
+      "cssclass": ""
+    }
+  ]
+}

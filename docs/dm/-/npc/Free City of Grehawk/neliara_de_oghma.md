@@ -4,11 +4,13 @@
 
 | **Português (PT-PT)** | **English (EN-US)** |
 | --------------------- | ------------------- |
-| **📍 Localização:**<br>- [Templo de Oghma](temple_of_oghma.md), Cidade Livre de Greyhawk | **📍 Location:**<br>- [Temple of Oghma](temple_of_oghma.md), Free City of Greyhawk |
-| **🏛 Papel / Função:**<br>- Sacerdotisa principal do templo<br>- Guardiã de textos sagrados e conselheira moral | **🏛 Role / Function:**<br>- Senior priestess of the temple<br>- Guardian of sacred texts and moral advisor |
-| **🧬 Raça:**<br>- Humana | **🧬 Race:**<br>- Human |
-| **⚔ Classe:**<br>- Clériga de Oghma | **⚔ Class:**<br>- Cleric of Oghma |
-| **⚖ Alinhamento:**<br>- Neutra e Boa | **⚖ Alignment:**<br>- Neutral Good |
+| **Nome:** Neliara de Oghma | **Name:** Neliara de Oghma |
+| **Raça:** Humana | **Race:** Human |
+| **Classe:** Clériga de Oghma (Domínio do Conhecimento) | **Class:** Cleric of Oghma (Knowledge Domain) |
+| **Alinhamento:** Neutra e Boa | **Alignment:** Neutral Good |
+| **Profissão:** Sacerdotisa principal do [Templo de Oghma](temple_of_oghma.md) em Greyhawk | **Profession:** Senior priestess of the [Temple of Oghma](temple_of_oghma.md) in Greyhawk |
+| **Função:** Guardiã de textos sagrados e conselheira moral | **Role:** Guardian of sacred texts and moral advisor |
+| **Localização:** Cidade Livre de Greyhawk | **Location:** Free City of Greyhawk |
 | **Pronomes:** Ela/Dela | **Pronouns:** She/Her |
 
 ---
@@ -18,36 +20,6 @@
 | **Português (PT-PT)** | **English (EN-US)** |
 | --------------------- | ------------------- |
 | Neliara serve no templo de Oghma em Greyhawk, dedicando-se à preservação do conhecimento e ao aconselhamento dos que buscam sabedoria. É conhecida pela sua serenidade e pela capacidade de ouvir antes de julgar. Ao contrário de Iquander ou Jandel, o seu foco não é o detalhe excêntrico, mas a visão ampla: como cada fragmento de verdade contribui para o todo. Vê os aventureiros como agentes do destino, cujas histórias devem ser recolhidas e preservadas. | Neliara serves at the temple of Oghma in Greyhawk, dedicating herself to the preservation of knowledge and to counseling those who seek wisdom. She is known for her serenity and her ability to listen before judging. Unlike Iquander or Jandel, her focus is not eccentric detail but the broader vision: how each fragment of truth contributes to the whole. She sees adventurers as agents of destiny, whose stories must be gathered and preserved. |
-
----
-
-## 🧩 Estatísticas / Stat Block (SRD-Compliant)
-
-**Neliara de Oghma (Human Cleric, Knowledge Domain, Level 5)**  
-*Medium humanoid, Neutral Good*
-
-- **Armor Class:** 16 (chain shirt, shield)  
-- **Hit Points:** 38 (5d8+10)  
-- **Speed:** 30 ft.  
-
-STR 10 (+0) DEX 12 (+1) CON 14 (+2) INT 14 (+2) WIS 16 (+3) CHA 13 (+1)  
-
-**Saving Throws** Wis +6, Cha +4  
-**Skills** Religion +6, Insight +6, History +5  
-**Senses** passive Perception 13  
-**Languages** Common, Celestial, Draconic  
-**Challenge** CR 3 (700 XP)  **Proficiency Bonus** +3  
-
-### Traits
-- **Channel Divinity (2/Rest).** Turn Undead or Knowledge of the Ages (gain proficiency in any skill/tool for 10 min).  
-- **Spellcasting.** Neliara is a 5th-level spellcaster (Wisdom, DC 14, +6 to hit).  
-**Cantrips:** *guidance, sacred flame, thaumaturgy, light*  
-**1st level (4 slots):** *bless, command, cure wounds, sanctuary*  
-**2nd level (3 slots):** *hold person, lesser restoration*  
-**3rd level (2 slots):** *dispel magic, prayer of healing*  
-
-### Actions
-- **Mace.** *Melee Weapon Attack:* +3 to hit, reach 5 ft., *Hit:* 4 (1d6+1) bludgeoning.  
 
 ---
 
@@ -62,7 +34,7 @@ STR 10 (+0) DEX 12 (+1) CON 14 (+2) INT 14 (+2) WIS 16 (+3) CHA 13 (+1)
 
 ---
 
-## ❤️ Ligações Pessoais / Personal Connections
+## 🔗 Ligações / Connections
 
 | **Português (PT-PT)** | **English (EN-US)** |
 | --------------------- | ------------------- |
@@ -70,7 +42,39 @@ STR 10 (+0) DEX 12 (+1) CON 14 (+2) INT 14 (+2) WIS 16 (+3) CHA 13 (+1)
 
 ---
 
-## 🗝 Ganchos / Hooks
+<!-- 🔒 DM-ONLY SECTION BELOW -->
+
+## 🧩 Estatísticas / Stat Block (SRD-Compliant)
+
+**Neliara de Oghma (Human Cleric, Knowledge Domain, Level 5)**  
+*Medium humanoid, Neutral Good*
+
+- **Armor Class:** 16 (chain shirt, shield)  
+- **Hit Points:** 38 (5d8+10)  
+- **Speed:** 30 ft.  
+
+**STR** 10 (+0) **DEX** 12 (+1) **CON** 14 (+2) **INT** 14 (+2) **WIS** 16 (+3) **CHA** 13 (+1)  
+
+**Saving Throws:** Wis +6, Cha +4  
+**Skills:** Religion +6, Insight +6, History +5  
+**Senses:** passive Perception 13  
+**Languages:** Common, Celestial, Draconic  
+**Challenge:** CR 3 (700 XP) **Proficiency Bonus:** +3  
+
+### Traits
+- **Channel Divinity (2/Rest).** Turn Undead ou Knowledge of the Ages (ganha proficiência em qualquer perícia ou ferramenta por 10 minutos).  
+- **Spellcasting.** Neliara é uma lançadora de feitiços de 5º nível (CD 14, +6 para atingir).  
+**Truques (à vontade):** *guidance, sacred flame, thaumaturgy, light*  
+**1º nível (4 slots):** *bless, command, cure wounds, sanctuary*  
+**2º nível (3 slots):** *hold person, lesser restoration*  
+**3º nível (2 slots):** *dispel magic, prayer of healing*  
+
+### Actions
+- **Mace.** *Melee Weapon Attack:* +3 para atingir, alcance 5 ft., *Dano:* 4 (1d6+1) contundente.  
+
+---
+
+## 🎲 Ganchos de Aventura / Adventure Hooks
 
 | **Português (PT-PT)** | **English (EN-US)** |
 | --------------------- | ------------------- |
@@ -80,7 +84,6 @@ STR 10 (+0) DEX 12 (+1) CON 14 (+2) INT 14 (+2) WIS 16 (+3) CHA 13 (+1)
 
 ## 🧑‍💻 DM Notes
 
-- Neliara is a **moral compass NPC**, grounding the party in questions of preservation and truth.  
-- Can serve as a **quest-giver** for artifact recovery or the protection of sacred texts.  
-- In *Idol of Lady Scale*, she can warn the party that **knowledge twisted by worship becomes poison**.  
-- In Foundry VTT, import as a **CR 3 Knowledge Cleric**, tuned for roleplay and supportive magic.  
+| **Português (PT-PT)** | **English (EN-US)** |
+| --------------------- | ------------------- |
+| Neliara é um **NPC bússola moral**, ancorando o grupo em questões de preservação e verdade. Pode servir como **dadora de missões** ligadas à recuperação de artefactos ou proteção de textos sagrados. No arco do *Ídolo da Lady Scale*, pode avisar os PCs de que **conhecimento distorcido pela adoração torna-se veneno**. Em Foundry VTT, importar como **Clériga CR 3 do Conhecimento**, focada em roleplay e magia de suporte. | Neliara is a **moral compass NPC**, grounding the party in questions of preservation and truth. Can serve as a **quest-giver** for artifact recovery or protection of sacred texts. In the *Idol of Lady Scale* arc, she can warn the PCs that **knowledge twisted by worship becomes poison**. In Foundry VTT, import as a **CR 3 Knowledge Cleric**, tuned for roleplay and supportive magic. |

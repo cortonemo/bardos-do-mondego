@@ -35,8 +35,9 @@
 
 ## 🔗 Ligações / Connections
 
-| **Português (PT-PT)** | **English (EN-US)** |
-| --------------------- | ------------------- |
+| **Português (PT-PT)**                                                                                                                                             | **English (EN-US)**                                                                                                                                                 |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Mantém contactos com mercadores, informadores e até ladrões de rua para recolher rumores. Respeita eruditos como Iquander, mas prefere a vida prática do mercado. | Keeps contacts with merchants, informants, and even street thieves to gather rumors. Respects scholars like Iquander, but prefers the practical life of the market. |
+
 
 ---

@@ -1,3 +1,7 @@
+---
+aliases: [Iquander]
+---
+
 # Iquander of Greyhawk
 
 ![Iquander](assets/npc/npc_blank.png)
@@ -14,8 +18,8 @@
 ---
 ## 📖 Sobre / About
 
-| **Português (PT-PT)** | **English (EN-US)** |
-| --------------------- | ------------------- |
+| **Português (PT-PT)**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | **English (EN-US)**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Iquander de Greyhawk é um mago erudito e cronista associado à Universidade de Artes Mágicas. É conhecido pelos seus estudos sobre a história, a magia e os fenómenos inexplicáveis do Flanaess. Além de académico, ganhou fama como compilador de crónicas e glossários, sendo frequentemente citado lado a lado com figuras como Pluffet Smedger. A sua reputação como historiador sério é, contudo, manchada por acusações de excentricidade, dado o seu hábito de cruzar lendas populares com factos históricos. | Iquander of Greyhawk is a scholarly wizard and chronicler tied to the University of Magical Arts. He is known for his studies of history, magic, and unexplained phenomena across the Flanaess. Beyond academia, he has gained renown as a compiler of chronicles and glossaries, often cited alongside figures like Pluffet Smedger. His reputation as a serious historian is somewhat marred by accusations of eccentricity, due to his habit of cross-referencing folk tales with historical fact. |
 
 ---

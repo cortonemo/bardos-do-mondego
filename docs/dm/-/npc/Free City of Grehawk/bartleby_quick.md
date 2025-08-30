@@ -1,6 +1,6 @@
 # Bartleby Quick
 
-![Bartleby Quick](docs/assets/npc/npc_blank.png)
+![[docs/assets/npc/npc_blank.png|Bartleby Quick]]
 
 | **Português (PT-PT)** | **English (EN-US)** |
 | --------------------- | ------------------- |
@@ -8,9 +8,9 @@
 | **Raça:** Halfling | **Race:** Halfling |
 | **Classe:** ??? | **Class:** ??? |
 | **Alinhamento:** ??? | **Alignment:** ??? |
-| **Profissão:** Escriba e cartógrafo do [Mercado de Greyhawk](mercado_de_greyhawk.md) | **Profession:** Scribe and cartographer of the [Greyhawk Market](mercado_de_greyhawk.md) |
+| **Profissão:** Escriba e cartógrafo do [[mercado_de_greyhawk.md|Mercado de Greyhawk]] | **Profession:** Scribe and cartographer of the [[mercado_de_greyhawk.md|Greyhawk Market]] |
 | **Função:** Especialista em mapas raros, colecionador de rumores urbanos e transcritor de aventuras. | **Role:** Specialist in rare maps, collector of urban rumors, and transcriber of adventures. |
-| **Localização:** [Mercado de Greyhawk](mercado_de_greyhawk.md) | **Location:** [Greyhawk Market](mercado_de_greyhawk.md) |
+| **Localização:** [[mercado_de_greyhawk.md|Mercado de Greyhawk]] | **Location:** [[mercado_de_greyhawk.md|Greyhawk Market]] |
 
 ---
 
@@ -35,8 +35,8 @@
 
 ## 🔗 Ligações / Connections
 
-| **Português (PT-PT)** | **English (EN-US)** |
-| --------------------- | ------------------- |
+| **Português (PT-PT)**                                                                                                                                             | **English (EN-US)**                                                                                                                                                 |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Mantém contactos com mercadores, informadores e até ladrões de rua para recolher rumores. Respeita eruditos como Iquander, mas prefere a vida prática do mercado. | Keeps contacts with merchants, informants, and even street thieves to gather rumors. Respects scholars like Iquander, but prefers the practical life of the market. |
 
 ---
