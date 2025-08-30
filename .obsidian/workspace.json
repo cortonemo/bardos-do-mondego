@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/npc/Free City of Grehawk/finn_greenbottle.md",
+                "file": "docs/lore/-/locations/cities/free_city_of_greyhawk/free_city_of_greyhawk.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -21,14 +21,14 @@
                   "collapseAll": false,
                   "extraContext": false,
                   "sortOrder": "alphabetical",
-                  "showSearch": false,
+                  "showSearch": true,
                   "searchQuery": "",
                   "backlinkCollapsed": false,
                   "unlinkedCollapsed": false
                 }
               },
               "icon": "lucide-file",
-              "title": "finn_greenbottle"
+              "title": "free_city_of_greyhawk"
             }
           }
         ]
@@ -178,6 +178,13 @@
   },
   "active": "564332973ade49f8",
   "lastOpenFiles": [
+    "docs/organizations/-/guildas_de_greyhawk.md",
+    "docs/npc/Free City of Grehawk/lord_aleister_devraine.md",
+    "docs/npc/Free City of Grehawk/lady_silvra_malren.md",
+    "docs/npc/Free City of Grehawk/jandel_the_lintwatcher.md",
+    "docs/npc/Free City of Grehawk/iquander_of_greyhawk.md",
+    "docs/npc/Free City of Grehawk/guarda_da_cidade.md",
+    "docs/npc/Free City of Grehawk/finn_greenbottle.md",
     "docs/npc/Free City of Grehawk/eliza_greenbottle.md",
     "docs/npc/Free City of Grehawk/cleseur.md",
     "docs/npc/Free City of Grehawk/bartleby_quick.md",
@@ -197,13 +204,6 @@
     "docs/dm/-/npc/Unknown/liwana.md",
     "docs/dm/-/npc/Unknown/lirael.md",
     "docs/dm/-/npc/Unknown/lia.md",
-    "docs/dm/-/npc/Unknown/kristryd_splitanvil.md",
-    "docs/dm/-/npc/Unknown/kobolds_infectados.md",
-    "docs/dm/-/npc/Unknown/klikz.md",
-    "docs/dm/-/npc/Unknown/kaldros_veynor.md",
-    "docs/dm/-/npc/Unknown/ketrich_flavifer.md",
-    "docs/dm/-/npc/Unknown/jeraldina.md",
-    "docs/dm/-/npc/Unknown/garrut_valstein.md",
     "docs/npc/Mirens Hallow",
     "docs/dm/-/npc/Mirens Hallow",
     "docs/assets/location/peculiar_manor.png",
