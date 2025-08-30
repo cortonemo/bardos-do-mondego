@@ -1,4 +1,4 @@
-﻿# Sister Blathine  Oghman Archivist
+# Sister Blathine  Oghman Archivist
 
 ![Sister Blathine](assets/npc/npc_blank.png)
 

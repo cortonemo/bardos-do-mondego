@@ -1,4 +1,4 @@
-﻿# Mistress Lyra Quil | Alta Curadora Lyra Quil
+# Mistress Lyra Quil | Alta Curadora Lyra Quil
 
 ![Mistress Lyra Quil](assets/npc/npc_blank.png)
 

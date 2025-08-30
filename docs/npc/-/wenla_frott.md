@@ -1,4 +1,4 @@
-﻿
+
 # Wenla Frott
 
 **Race**: Gnome
