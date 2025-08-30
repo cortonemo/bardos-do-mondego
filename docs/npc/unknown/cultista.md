@@ -40,26 +40,3 @@
 | Associados à [Ordem de Scarlat](ordem_de_scarlat.md) e a rituais proibidos. | Associated with the [Order of Scarlat](ordem_de_scarlat.md) and forbidden rituals. |
 
 ---
-
-<!-- 🔒 DM-ONLY SECTION BELOW -->
-
-## 🧩 Estatísticas / Stat Block
-
-*(Não disponível — informações insuficientes)*  
-*(Not available — insufficient information)*
-
----
-
-## 🎲 Ganchos de Aventura / Adventure Hooks
-
-| **Português (PT-PT)** | **English (EN-US)** |
-| --------------------- | ------------------- |
-| *(desconhecido)* | *(unknown)* |
-
----
-
-## 🧑‍💻 DM Notes
-
-| **Português (PT-PT)** | **English (EN-US)** |
-| --------------------- | ------------------- |
-| Nenhum detalhe adicional disponível neste momento. | No further details available at this time. |

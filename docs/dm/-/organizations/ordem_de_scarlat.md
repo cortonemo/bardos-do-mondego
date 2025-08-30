@@ -1,4 +1,4 @@
-﻿# Ordem de Scarlat / Order of Scarlat
+# Ordem de Scarlat / Order of Scarlat
 
 Sessões: 14, 16 | Datas: 2025-04-10, 2025-04-24 | Fontes: s14_-_2025-04-10.txt, s16_-_2025-04-24.txt | Tags: organização, culto, religioso
 

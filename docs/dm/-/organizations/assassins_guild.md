@@ -1,4 +1,4 @@
-﻿# Guilda dos Assassinos / Assassins Guild
+# Guilda dos Assassinos / Assassins Guild
 
 Sessões: 3, 13 | Datas: 2025-01-15, 2025-03-13 | Fontes: s03_-_2025-01-15.txt, s13_-_2025-03-13.txt | Tags: organização, guilda, assassinos, greyhawk
 

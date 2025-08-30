@@ -1,18 +1,18 @@
-# Garruk Valstein
+# Dandan
 
-![Garruk Valstein](docs/assets/npc/npc_blank.png)
+![Dandan](docs/assets/npc/npc_blank.png)
 
 | **Português (PT-PT)** | **English (EN-US)** |
 | --------------------- | ------------------- |
-| **Nome:** Garruk Valstein | **Name:** Garruk Valstein |
-| **Raça:** Meio-Orc | **Race:** Half-Orc |
-| **Classe:** Paladino | **Class:** Paladin |
+| **Nome:** Dandan | **Name:** Dandan |
+| **Raça:** Halfling | **Race:** Halfling |
+| **Classe:** Ladrão | **Class:** Rogue |
 | **Alinhamento:** *(desconhecido)* | **Alignment:** *(unknown)* |
-| **Profissão:** Membro dos Paladinos do Subterrâneo | **Profession:** Member of the Underdark Paladins |
-| **Função:** Guerreiro leal em combate subterrâneo | **Role:** Loyal warrior in subterranean combat |
-| **Localização:** Subterrâneo *(detalhes desconhecidos)* | **Location:** Underdark *(details unknown)* |
-| **Sessões:** 11 | **Sessions:** 11 |
-| **Fonte:** s11_-_2025-03-20.txt | **Source:** s11_-_2025-03-20.txt |
+| **Profissão:** Sobrevivente do submundo de Greyhawk | **Profession:** Survivor of Greyhawk’s underworld |
+| **Função:** Personagem ligada ao crime e a segredos ocultos | **Role:** Character tied to crime and hidden secrets |
+| **Localização:** Cidade Livre de Greyhawk *(detalhes desconhecidos)* | **Location:** Free City of Greyhawk *(details unknown)* |
+| **Jogador:** *(desconhecido)* | **Player:** *(unknown)* |
+| **Origem:** *(desconhecida)* | **Background:** *(unknown)* |
 
 ---
 
@@ -20,7 +20,7 @@
 
 | **Português (PT-PT)** | **English (EN-US)** |
 | --------------------- | ------------------- |
-| Garruk Valstein é um paladino meio-orc, leal aos caçadores do Subterrâneo. Atuou em combate direto contra os servos de Malrik Dorn e na defesa de prisioneiros. | Garruk Valstein is a half-orc paladin, loyal to the subterranean hunters. He took part in direct combat against Malrik Dorn’s servants and in the defense of prisoners. |
+| Dandan, halfling ladrão, é um sobrevivente astuto do submundo de Greyhawk. Tornou-se famoso ao enganar rivais maiores e escapar das garras dos poderosos. Sabe que a cidade esconde segredos ainda maiores e quer provar o seu valor. | Dandan, a halfling thief, is a clever survivor of Greyhawk’s underworld. He gained fame by outwitting larger rivals and escaping the clutches of the powerful. He knows the city hides even greater secrets and wants to prove his worth. |
 
 ---
 
@@ -39,7 +39,7 @@
 
 | **Português (PT-PT)** | **English (EN-US)** |
 | --------------------- | ------------------- |
-| Aliado dos caçadores do Subterrâneo. Lutou contra os servos de Malrik Dorn. | Ally of the subterranean hunters. Fought against Malrik Dorn’s servants. |
+| Associado ao submundo criminoso de Greyhawk. Rivaliza com figuras maiores e mais poderosas. | Connected to Greyhawk’s criminal underworld. Has rivalries with larger and more powerful figures. |
 
 ---
 
@@ -65,6 +65,3 @@
 | **Português (PT-PT)** | **English (EN-US)** |
 | --------------------- | ------------------- |
 | Nenhum detalhe adicional disponível neste momento. | No further details available at this time. |
-
-
-

@@ -42,29 +42,3 @@
 | Aliado dos caçadores do Subterrâneo. Lutou contra os servos de Malrik Dorn. | Ally of the subterranean hunters. Fought against Malrik Dorn’s servants. |
 
 ---
-
-<!-- 🔒 DM-ONLY SECTION BELOW -->
-
-## 🧩 Estatísticas / Stat Block
-
-*(Não disponível — informações insuficientes)*  
-*(Not available — insufficient information)*
-
----
-
-## 🎲 Ganchos de Aventura / Adventure Hooks
-
-| **Português (PT-PT)** | **English (EN-US)** |
-| --------------------- | ------------------- |
-| *(desconhecido)* | *(unknown)* |
-
----
-
-## 🧑‍💻 DM Notes
-
-| **Português (PT-PT)** | **English (EN-US)** |
-| --------------------- | ------------------- |
-| Nenhum detalhe adicional disponível neste momento. | No further details available at this time. |
-
-
-

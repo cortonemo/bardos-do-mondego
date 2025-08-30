@@ -1,18 +1,16 @@
-# Garruk Valstein
+# Curador / Curator
 
-![Garruk Valstein](docs/assets/npc/npc_blank.png)
+![Curador](docs/assets/npc/npc_blank.png)
 
 | **Português (PT-PT)** | **English (EN-US)** |
 | --------------------- | ------------------- |
-| **Nome:** Garruk Valstein | **Name:** Garruk Valstein |
-| **Raça:** Meio-Orc | **Race:** Half-Orc |
-| **Classe:** Paladino | **Class:** Paladin |
+| **Nome:** O Curador | **Name:** The Curator |
+| **Raça:** *(desconhecida)* | **Race:** *(unknown)* |
+| **Classe:** *(desconhecida)* | **Class:** *(unknown)* |
 | **Alinhamento:** *(desconhecido)* | **Alignment:** *(unknown)* |
-| **Profissão:** Membro dos Paladinos do Subterrâneo | **Profession:** Member of the Underdark Paladins |
-| **Função:** Guerreiro leal em combate subterrâneo | **Role:** Loyal warrior in subterranean combat |
-| **Localização:** Subterrâneo *(detalhes desconhecidos)* | **Location:** Underdark *(details unknown)* |
-| **Sessões:** 11 | **Sessions:** 11 |
-| **Fonte:** s11_-_2025-03-20.txt | **Source:** s11_-_2025-03-20.txt |
+| **Profissão:** Responsável pelo museu e pelos seus experimentos arcanos | **Profession:** Overseer of the museum and its arcane experiments |
+| **Função:** Vilão central ligado ao museu | **Role:** Central villain tied to the museum |
+| **Localização:** Museu *(detalhes desconhecidos)* | **Location:** Museum *(details unknown)* |
 
 ---
 
@@ -20,7 +18,7 @@
 
 | **Português (PT-PT)** | **English (EN-US)** |
 | --------------------- | ------------------- |
-| Garruk Valstein é um paladino meio-orc, leal aos caçadores do Subterrâneo. Atuou em combate direto contra os servos de Malrik Dorn e na defesa de prisioneiros. | Garruk Valstein is a half-orc paladin, loyal to the subterranean hunters. He took part in direct combat against Malrik Dorn’s servants and in the defense of prisoners. |
+| **O Curador** é o cérebro por trás dos experimentos arcanos do museu. Tenta transformar visitantes em exposições para salvar a sua esposa moribunda. | **The Curator** is the mastermind behind the museum’s arcane experiments. He attempts to turn visitors into exhibits to save his dying wife. |
 
 ---
 
@@ -30,8 +28,8 @@
 | --------------------- | ------------------- |
 | **Traços:** *(desconhecido)* | **Traits:** *(unknown)* |
 | **Ideais:** *(desconhecido)* | **Ideals:** *(unknown)* |
-| **Vínculos:** *(desconhecido)* | **Bonds:** *(unknown)* |
-| **Medos:** *(desconhecido)* | **Fears:** *(unknown)* |
+| **Vínculos:** A sua esposa moribunda. | **Bonds:** His dying wife. |
+| **Medos:** Perder a esposa para sempre. | **Fears:** Losing his wife forever. |
 
 ---
 
@@ -39,7 +37,7 @@
 
 | **Português (PT-PT)** | **English (EN-US)** |
 | --------------------- | ------------------- |
-| Aliado dos caçadores do Subterrâneo. Lutou contra os servos de Malrik Dorn. | Ally of the subterranean hunters. Fought against Malrik Dorn’s servants. |
+| Ligado ao museu e aos seus experimentos arcanos. | Connected to the museum and its arcane experiments. |
 
 ---
 
@@ -65,6 +63,3 @@
 | **Português (PT-PT)** | **English (EN-US)** |
 | --------------------- | ------------------- |
 | Nenhum detalhe adicional disponível neste momento. | No further details available at this time. |
-
-
-

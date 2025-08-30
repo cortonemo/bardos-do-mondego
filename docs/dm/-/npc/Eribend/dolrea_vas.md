@@ -1,18 +1,16 @@
-# Garruk Valstein
+# Dolrea Vas
 
-![Garruk Valstein](docs/assets/npc/npc_blank.png)
+![Dolrea Vas](docs/assets/npc/npc_blank.png)
 
 | **Português (PT-PT)** | **English (EN-US)** |
 | --------------------- | ------------------- |
-| **Nome:** Garruk Valstein | **Name:** Garruk Valstein |
-| **Raça:** Meio-Orc | **Race:** Half-Orc |
-| **Classe:** Paladino | **Class:** Paladin |
+| **Nome:** Dolrea Vas | **Name:** Dolrea Vas |
+| **Raça:** Meio-elfa | **Race:** Half-elf |
+| **Classe:** *(desconhecida)* | **Class:** *(unknown)* |
 | **Alinhamento:** *(desconhecido)* | **Alignment:** *(unknown)* |
-| **Profissão:** Membro dos Paladinos do Subterrâneo | **Profession:** Member of the Underdark Paladins |
-| **Função:** Guerreiro leal em combate subterrâneo | **Role:** Loyal warrior in subterranean combat |
-| **Localização:** Subterrâneo *(detalhes desconhecidos)* | **Location:** Underdark *(details unknown)* |
-| **Sessões:** 11 | **Sessions:** 11 |
-| **Fonte:** s11_-_2025-03-20.txt | **Source:** s11_-_2025-03-20.txt |
+| **Profissão:** Recrutadora de aventureiros | **Profession:** Adventurer recruiter |
+| **Função:** Ponte entre fações, portadora de missões e rumores | **Role:** Bridge between factions, bearer of quests and rumors |
+| **Localização:** [Eribend](eribend.md), [Vauria](vila_de_vauria.md) | **Location:** [Eribend](eribend.md), [Vauria](vila_de_vauria.md) |
 
 ---
 
@@ -20,7 +18,7 @@
 
 | **Português (PT-PT)** | **English (EN-US)** |
 | --------------------- | ------------------- |
-| Garruk Valstein é um paladino meio-orc, leal aos caçadores do Subterrâneo. Atuou em combate direto contra os servos de Malrik Dorn e na defesa de prisioneiros. | Garruk Valstein is a half-orc paladin, loyal to the subterranean hunters. He took part in direct combat against Malrik Dorn’s servants and in the defense of prisoners. |
+| Dolrea Vas é uma meio-elfa carismática, conhecida por recrutar aventureiros em [Eribend](eribend.md) e [Vauria](vila_de_vauria.md). Atua como ponte entre diferentes fações e traz ao grupo missões e rumores importantes. | Dolrea Vas is a charismatic half-elf, known for recruiting adventurers in [Eribend](eribend.md) and [Vauria](vila_de_vauria.md). She acts as a bridge between factions and provides the group with important quests and rumors. |
 
 ---
 
@@ -39,7 +37,7 @@
 
 | **Português (PT-PT)** | **English (EN-US)** |
 | --------------------- | ------------------- |
-| Aliado dos caçadores do Subterrâneo. Lutou contra os servos de Malrik Dorn. | Ally of the subterranean hunters. Fought against Malrik Dorn’s servants. |
+| Atua como intermediária entre fações locais e aventureiros. | Serves as an intermediary between local factions and adventurers. |
 
 ---
 
@@ -65,6 +63,3 @@
 | **Português (PT-PT)** | **English (EN-US)** |
 | --------------------- | ------------------- |
 | Nenhum detalhe adicional disponível neste momento. | No further details available at this time. |
-
-
-

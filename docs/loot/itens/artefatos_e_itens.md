@@ -1,7 +1,7 @@
  **7. Artefatos e Itens Especiais**
     Corno Sagrado do Unicórnio
 
-    Cajado de Borogrove
+    Cajado de [Borogrove](borogrove.md)
 
     Lingua de Iuz (Adaga)
 

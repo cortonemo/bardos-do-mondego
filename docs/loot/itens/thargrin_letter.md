@@ -8,7 +8,7 @@ Sessão: 2 | Data: (data não especificada) | Fonte: s02.txt | Tags: rumor, cart
 
 | English | Português |
 |---------|-----------|
-| **Description:** Emotional letter found on the remains of a dwarf miner (identified as Thargrin), bidding farewell to his family. Returned to [Kristryd Splitanvil](kristryd_splitanvil.md) for delivery to Thargrin's family. | **Descrição:** Carta emotiva encontrada nos restos de um anão mineiro (Thargrin), despedindo-se da família. Devolvida ao [Kristryd Splitanvil](kristryd_splitanvil.md) para ser entregue à família de Thargrin. |
+| **Description:** Emotional letter found on the remains of a dwarf miner (identified as Thargrin), bidding farewell to his family. Returned to[Kristryd Splitanvil](docs/dm/-/npc/´Blackstone/kristryd_splitanvil.md)) for delivery to Thargrin's family. | **Descrição:** Carta emotiva encontrada nos restos de um anão mineiro (Thargrin), despedindo-se da família. Devolvida ao[Kristryd Splitanvil](docs/dm/-/npc/´Blackstone/kristryd_splitanvil.md)) para ser entregue à família de Thargrin. |
 
 
 

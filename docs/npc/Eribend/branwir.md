@@ -2,15 +2,15 @@
 
 ![Branwir](docs/assets/npc/npc_blank.png)
 
-| **Português (PT-PT)** | **English (EN-US)** |
-| --------------------- | ------------------- |
-| **Nome:** Branwir | **Name:** Branwir |
-| **Raça:** ??? | **Race:** ??? |
-| **Classe:** ??? | **Class:** ??? |
-| **Alinhamento:** ??? | **Alignment:** ??? |
-| **Profissão:** Mendigo e contador de histórias | **Profession:** Beggar and storyteller |
+| **Português (PT-PT)**                                                             | **English (EN-US)**                                                             |
+| --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| **Nome:** Branwir                                                                 | **Name:** Branwir                                                               |
+| **Raça:** ???                                                                     | **Race:** ???                                                                   |
+| **Classe:** ???                                                                   | **Class:** ???                                                                  |
+| **Alinhamento:** ???                                                              | **Alignment:** ???                                                              |
+| **Profissão:** Mendigo e contador de histórias                                    | **Profession:** Beggar and storyteller                                          |
 | **Função:** Fonte de rumores e pistas iniciais sobre ruínas e perigos esquecidos. | **Role:** Source of rumors and initial clues about ruins and forgotten dangers. |
-| **Localização:** [Eribend](eribend.md) | **Location:** [Eribend](eribend.md) |
+| **Localização:** [Eribend](eribend.md)                                            | **Location:** [Eribend](eribend.md)                                             |
 
 ---
 

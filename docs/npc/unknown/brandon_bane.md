@@ -40,26 +40,3 @@
 | Ligado ao grupo de caçadores do Subterrâneo que persegue Dustin. | Connected to the group of subterranean hunters pursuing Dustin. |
 
 ---
-
-<!-- 🔒 DM-ONLY SECTION BELOW -->
-
-## 🧩 Estatísticas / Stat Block
-
-*(Não disponível — informações insuficientes)*  
-*(Not available — insufficient information)*
-
----
-
-## 🎲 Ganchos de Aventura / Adventure Hooks
-
-| **Português (PT-PT)** | **English (EN-US)** |
-| --------------------- | ------------------- |
-| *(desconhecido)* | *(unknown)* |
-
----
-
-## 🧑‍💻 DM Notes
-
-| **Português (PT-PT)** | **English (EN-US)** |
-| --------------------- | ------------------- |
-| Nenhum detalhe adicional disponível neste momento. | No further details available at this time. |

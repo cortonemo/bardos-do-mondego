@@ -40,26 +40,3 @@
 | Ligado ao museu e às suas experiências psíquicas e arcanas. | Connected to the museum and its psychic and arcane experiments. |
 
 ---
-
-<!-- 🔒 DM-ONLY SECTION BELOW -->
-
-## 🧩 Estatísticas / Stat Block
-
-*(Não disponível — informações insuficientes)*  
-*(Not available — insufficient information)*
-
----
-
-## 🎲 Ganchos de Aventura / Adventure Hooks
-
-| **Português (PT-PT)** | **English (EN-US)** |
-| --------------------- | ------------------- |
-| *(desconhecido)* | *(unknown)* |
-
----
-
-## 🧑‍💻 DM Notes
-
-| **Português (PT-PT)** | **English (EN-US)** |
-| --------------------- | ------------------- |
-| Nenhum detalhe adicional disponível neste momento. | No further details available at this time. |

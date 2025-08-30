@@ -41,26 +41,3 @@
 | Liga-se a quem for necessário para alcançar os seus objetivos. | Teams up with whoever it takes to achieve her goals. |
 
 ---
-
-<!-- 🔒 DM-ONLY SECTION BELOW -->
-
-## 🧩 Estatísticas / Stat Block
-
-*(Não disponível — informações insuficientes)*  
-*(Not available — insufficient information)*
-
----
-
-## 🎲 Ganchos de Aventura / Adventure Hooks
-
-| **Português (PT-PT)** | **English (EN-US)** |
-| --------------------- | ------------------- |
-| *(desconhecido)* | *(unknown)* |
-
----
-
-## 🧑‍💻 DM Notes
-
-| **Português (PT-PT)** | **English (EN-US)** |
-| --------------------- | ------------------- |
-| Nenhum detalhe adicional disponível neste momento. | No further details available at this time. |

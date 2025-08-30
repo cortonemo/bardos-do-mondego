@@ -1,17 +1,18 @@
-# Lirael
+# Jeraldina
 
-![Lirael](docs/assets/npc/npc_blank.png)
+![Jeraldina](docs/assets/npc/npc_blank.png)
 
 | **Português (PT-PT)** | **English (EN-US)** |
 | --------------------- | ------------------- |
-| **Nome:** Lirael | **Name:** Lirael |
-| **Raça:** Elfa | **Race:** Elf |
-| **Classe:** Feiticeira | **Class:** Sorcerer |
+| **Nome:** Jeraldina | **Name:** Jeraldina |
+| **Raça:** *(desconhecida)* | **Race:** *(unknown)* |
+| **Classe:** *(desconhecida)* | **Class:** *(unknown)* |
 | **Alinhamento:** *(desconhecido)* | **Alignment:** *(unknown)* |
-| **Profissão:** *(desconhecida)* | **Profession:** *(unknown)* |
-| **Função:** Estudiosa da magia e protetora do seu povo | **Role:** Student of magic and protector of her people |
-| **Localização:** *(desconhecida)* | **Location:** *(unknown)* |
-| **Origem:** *(desconhecida)* | **Background:** *(unknown)* |
+| **Profissão:** Comerciante viajante | **Profession:** Traveling merchant |
+| **Função:** Fornecedora de rumores e mercadorias raras | **Role:** Supplier of rumors and rare goods |
+| **Localização:** Barraca improvisada nos arredores de [Eribend](eribend.md) | **Location:** Improvised stall outside [Eribend](eribend.md) |
+| **Sessões:** 4 | **Sessions:** 4 |
+| **Fonte:** s04_-_2025-01-23.txt | **Source:** s04_-_2025-01-23.txt |
 
 ---
 
@@ -19,7 +20,7 @@
 
 | **Português (PT-PT)** | **English (EN-US)** |
 | --------------------- | ------------------- |
-| Lirael, uma feiticeira élfica de ar etéreo, cresceu rodeada por lendas antigas. Movida pela curiosidade e pelo desejo de proteger o seu povo, dedica-se ao estudo da magia e dos mistérios do mundo. | Lirael, an ethereal elven sorceress, grew up surrounded by ancient legends. Driven by curiosity and a desire to protect her people, she devotes herself to studying magic and the mysteries of the world. |
+| Jeraldina é uma comerciante viajante, dona de uma barraca improvisada nos arredores de [Eribend](eribend.md). É conhecida por partilhar rumores e mercadorias raras com aventureiros de passagem. | Jeraldina is a traveling merchant who runs an improvised stall outside [Eribend](eribend.md). She is known for sharing rumors and rare goods with passing adventurers. |
 
 ---
 
@@ -27,9 +28,9 @@
 
 | **Português (PT-PT)** | **English (EN-US)** |
 | --------------------- | ------------------- |
-| **Traços:** Curiosa, dedicada, espiritual. | **Traits:** Curious, devoted, spiritual. |
+| **Traços:** *(desconhecido)* | **Traits:** *(unknown)* |
 | **Ideais:** *(desconhecido)* | **Ideals:** *(unknown)* |
-| **Vínculos:** O seu povo e as lendas antigas. | **Bonds:** Her people and the ancient legends. |
+| **Vínculos:** *(desconhecido)* | **Bonds:** *(unknown)* |
 | **Medos:** *(desconhecido)* | **Fears:** *(unknown)* |
 
 ---
@@ -38,7 +39,7 @@
 
 | **Português (PT-PT)** | **English (EN-US)** |
 | --------------------- | ------------------- |
-| Associada às tradições e ao povo élfico. | Connected to elven traditions and her people. |
+| Associada a aventureiros de passagem por [Eribend](eribend.md). | Connected to adventurers passing through [Eribend](eribend.md). |
 
 ---
 
