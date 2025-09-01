@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/dm/-/locations/referenced_locations_greyhawk.md",
+                "file": "docs/dm/-/npc/referenced_npcs_greyhawk.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "referenced_locations_greyhawk"
+              "title": "referenced_npcs_greyhawk"
             }
           }
         ],
@@ -203,8 +203,9 @@
   },
   "active": "1a72cff24cd8cd9e",
   "lastOpenFiles": [
-    "docs/npc/Underdark Paladin/zeibranth.md",
     "docs/dm/-/locations/referenced_locations_greyhawk.md",
+    "docs/dm/-/npc/referenced_npcs_greyhawk.md",
+    "docs/npc/Underdark Paladin/zeibranth.md",
     "New folder",
     "docs/npc/Underdark Paladin/sybel_astren.md",
     "docs/npc/Underdark Paladin/garruk_valstein.md",

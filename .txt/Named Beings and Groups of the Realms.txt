@@ -1,273 +1,262 @@
-Named Individuals
-• Acólita Morvanya – Appears in the Praça Central in Mistwood, leading the Cult of Elemental Evil and transforming the village; she also wrote a journal detailing the cult's plans to spread the plague to Erybend, target Borogrove and a druid, and coordinate goblins near Two Fords and archaeological work in the northern mines, while expressing frustration with a noble and drow consort at Mansão Blackfrair
+The documents reference a wide array of Non-Player Characters (NPCs) across various locations and realms, primarily within the world of Greyhawk and the Feywild.
+Here is a comprehensive list of all referenced NPCs and their associated locations:
+• Aeltor: An individual who needs to clear the Shadow Valley and tame its powerful magic
 .
-• Aeltor – Needs to clear and tame the potent magic in the Dark Valley (Vale Sombrio)
+• Amelia: Ulma's human mother, who settled in Greyhawk with her husband and was killed by orcs there
 .
-• Alia – Daughter of Thalen Fernwell, last seen near a players' camp on the way to Grimm Wagon’s Rest, then went to Greyhawk
+• Arkos Vasell (Luis Faria): Orianna's childhood friend and adventuring companion, who lived a peaceful life as a guard in his home village and later studied in a temple
 .
-• Asdrobal Blackfair – A noble who invited Markus Grimm's troupe to a masquerade ball and secretly venerates Nerull
+• Asdrobal Blackfair: A noble who invited Markus's troupe to perform at a masked ball in Blackfrair Mansion, where he conducted a sacrifice ritual to Nerull
+. He is also referred to as "the fool of the noble" who occupies Blackfrair Mansion
 .
-• Aurkan – A former companion of Vaunia, whose fragmented memories appear in her mind during a ritual in a hidden clearing
+• Bandits ("A Sociedade da Compota"): A group of bandits who assaulted Friedrick Junsi on a trip, cursing him and competing with his honey business
+. Their specific location is not given beyond the context of Friedrick's farm.
+• Baron of the Boreal Ball: A minor noble who hosts an unending ball in his ice palace in the Feywild
 .
-• Baronesa Rose – Mentioned in Raylahn's Dramatis Persona
+• Baronesa Rose: An NPC for whom no location is specified, managed by DM Jota
 .
-• Bargrum Grimmhill – Owner of Grimm Wagon’s Rest, last seen there before its destruction, and is possibly deceased along with his family
+• Bargrum Grimmhill: The owner of Grimm Wagon’s Rest, last seen there before it was destroyed
+. His current location is unknown, and he is possibly deceased along with his family
 .
-• Borogrove – A kindly Treant who keeps watch over a wood on the river’s south side, upstream from High Ery, and knows about the corruption in a nearby cave
+• Beltar Paladins: A group of paladins who came to take Dustin
+. Their base or point of origin is not specified but they are referenced in the context of the greater campaign and the Cult of Elemental Evil
 .
-• Brandon Brayn – A Paladin of Beltar, made an enemy by Raylahn and allies during the rescue of Dustin from a castle
+• Bigby: A legendary wizard who supports Mordenkainen and maintains order in Greyhawk
 .
-• Brogy – A giant living on an island that Usopp once visited
+• Boccob: The God of Magic and Knowledge in Greyhawk
 .
-• Cannifer – A Satyr Revelmaster present at the Boreal Ball in the Baron's ice palace in the Feywild
+• Borogrove: A kindly Treant who watches over the wood near High Ery, and knows the source of the stream's pollution
+. He is targeted for elimination by the Cult of Elemental Evil
 .
-• Clementine Flavifer – Ketrich's younger sister, a healer in the church of Selûne
+• Brown Bear: A bear that became ill after drinking from the polluted stream in a side cave near High Ery
 .
-• Conan's adoptive father – Leader of the wise frog tribe in a magical forest and swamp, who was abducted by the Cult of Elemental Evil
+• Bullywug Warriors: Creatures with fungal growths found just inside the corrupted cave entrance near High Ery
 .
-• Conan's adoptive mother – An elder of the wise frog tribe in a magical forest
+• Cannifer: A Satyr Revelmaster present at the Boreal Ball in the Feywild
 .
-• Dark mage – Cursed Ketrich Flavifer's father, Rond Cornelius Flavifer
+• Consorte Drow: An occupant of Blackfrair Mansion, dedicated to Nerull and involved in the Cult of Elemental Evil's plans
 .
-• Darisis – A friendly Dryad at the Boreal Ball in the Baron's ice palace in the Feywild
+• Clementine Flavifer: Ketrich Flavifer's younger sister, who is a healer in the church of Selûne
 .
-• Dick Clark – Mentioned as a humorous, out-of-world reference
+• Conan's Adoptive Father: The leader of the frog tribe in a magical forest and swamp, who left to confront the cult and was later kidnapped
 .
-• Dorry – A giant living on an island that Usopp once visited
+• Conan's Adoptive Mother: An elder frog of the tribe who raised Conan in a magical forest
 .
-• Egalar – Eirwen's father, a paladin and chosen of Titania, who brought Eirwen to a forgotten clearing in the Feywild
-. He also appears to Grix in a dream-realm, representing Titania
+• Cult of Elemental Evil (Clérigo/Morvanya): A leader of this cult, later identified as Morvanya, who appears in the Central Plaza of Mistwood with a Bone Golem
+. Morvanya's journal also references their plans for Erybend, Two Fords, Northern Mines, Shadow Valley, Blackfrair Mansion, and goliath tribes in the north
 .
-• Eladrin (tall, white-haired, with bone-decorated armor) – Seen by Eirwen in a memory, teaching her to orient herself in streets
+• Cult of Vecna: A sect dedicated to spreading Vecna's dark secrets
 .
-• Fidget – A playful Pixie at the Boreal Ball in the Baron's ice palace in the Feywild
+• Darisis: A friendly Dryad who wants to dance with adventurers at the Boreal Ball in the Feywild
 .
-• Firemanor – Raylahn initiated trading conversations with this entity or individual
+• Dorry and Brogy: Two giants on an unspecified island that Usopp visited
 .
-• Fringilla Flavifer – Ketrich's older sister, an adventurer seeking the dark mage who cursed their father
+• Drayl Bharash: A companion of Wagner and Raylahn, who formed the "Dragon Arcana Co." Bastion, presumably operating from Greyhawk City
 .
-• Gogrom, o Cruel – An Orc Warrior who guards the Sword of Krixis in the Sala do Boss of the Templo Abandonado and was responsible for cursing Krixis
+• Dustin: A character rescued by Raylahn's group from a castle, who then convinced them to pursue the Great Inquisitor
+. He performs a ritual with Pryssana in a silent room
 .
-• Granny Snailtongue – A Green Hag at the Boreal Ball in the Baron's ice palace in the Feywild
+• Egalar: Eirwen's father, a Paladin and chosen of Titania, who took Eirwen to a forgotten clearing on the margins of the Feywild
+. He appears to Grix in an oníric realm
 .
-• Hagar Shieldrun – An Elder Dwarf from the Hammerrock noble family, responsible for exploring Orefield and hiring players there; last seen in Orefield
+• Ehlonna: The Goddess of Nature, protector of forests and animals in Greyhawk
 .
-• Jogmaahx – A Goblin shaman and acolyte of the Cult of Elemental Evil, who performs sacrifices at a rudimentary altar to Nerull in a goblin camp located northwest of the tavern
+• Eladrin (tall, white-haired, bone armor): An Eladrin who was seen with Titania and taught Eirwen orientation techniques, likely in the Feywild
 .
-• Kaelen, Master – A wizened human and elder monk at the Monastery of the Whispering Peaks, who taught Bok Thunderfist
+• Erythnul: The God of Carnage and Violence in Greyhawk
 .
-• Kaya – A rich girl who Usopp told stories to, was poisoned by her butler Kuro, and was saved by adventurers on an island
+• Fidget: A playful Pixie who pesters adventurers with pranks at the Boreal Ball in the Feywild
 .
-• Krixis, o Valente – A legendary kobold hero, ancestral protector of the Vermisombra clan, who was cursed and trapped as a wolf in the Templo Abandonado before being freed and transforming back into a kobold warrior
+• Fharlanghn: The God of Roads and Travel, patron of adventurers and merchants in Greyhawk
 .
-• Kristryd Splitanvil – The Lawful Good dwarf Tough mayor of Blackstone, who hires adventurers to deal with a Hook Horror in a local mine
+• Fringilla Flavifer: Ketrich Flavifer's older sister, an adventurer who seeks the dark mage who cursed their father. Her current location is not specified
 .
-• Kuro – Kaya's butler on an island, who poisoned her
+• Friedrick Junsi's Children: His sons who had other interests and studied far from his mountain farm in Zilargo, Eberron
 .
-• Liwana – A female tiefling bartender and friend of Ulma, who lost her lyre in the forest and was captured by Loviatans
+• Friedrick Junsi's Grandsons: His two grandsons, whom he has not seen in a long time
 .
-• Lia Viridis – Ketrich's mother and heiress of the family's spice/herb mercantile business
+• Friedrick Junsi's Wife: His wife, who cared for the farm with him and eventually died
 .
-• Manvea – A former companion of Vaunia, whose fragmented memories appear in her mind during a ritual in a hidden clearing
+• Goblins (guards/patrol/slaves): Found patrolling and enslaved in a goblin camp in a clearing
+. Also encountered as "Goblins Vigias" at the entrance of an ancient temple and as a patrol in its Offerings Room
 .
-• Melchis – An unassuming human merchant, secretly a Chaotic Evil Fiend Cultist devoted to Iuz, who hires characters for an expedition to an ancient temple lost in the Amedio Jungle. He attempts to seize the Horns of the Beast artifact in the ruins and transforms into a Hezrou
+• Gogrom, o Cruel: An Orc Warrior (boss) found guarding the Sword of Krixis in the ancient temple
+. He is later revealed to be a powerful orc sorcerer, cursed and trapped in a state of perpetual rage, also referred to as the Orc Massivo or Ogrillon Ogre in a secret room of the temple
 .
-• Mr.4 – A powerful mercenary with superhuman strength, fought against Usopp and Chopper in the kingdom of Alabasta
+• Goliath Tribes: Savage tribes in the north that the Cult of Elemental Evil aims to ally with
 .
-• Miss Merry Christmas – A mole woman mercenary, fought alongside Mr.4 against Usopp and Chopper in the kingdom of Alabasta
+• Granny Snailtongue: A hostile Green Hag present at the Boreal Ball in the Feywild
 .
-• Nondy Barducks – A Lawful Neutral gnome Commoner and merchant who hires characters to escort his wagon to the remote mining village of Diamond Lake
+• Great Inquisitor: An antagonist whom Dustin urged the party to stop, following their rescue from a castle
+. His location is not specified.
+• Grix: A warlock who encounters Egalar in an oníric realm in the context of the events in Mistwood
 .
-• Occera / Oceera – Raylahn's mother, a high-ranking warrior of the Zaraleth clan in Thalos, who secretly performed a curse ritual on Raylahn to conceal his gender
+• Hagar Shieldrun: An elder dwarf and right-hand man to the noble Hammerrock family, last seen in Orefield where he hired players to help with the mine
+. His current location is unknown
 .
-• Orianna's parents – Farmers in her village who incurred a debt after an fire
+• Heironeous: The God of Honor and Justice in Greyhawk
 .
-• Pryssana – An ethereal image that forms in Dustin's room during a ritual, providing guidance
-. She is also Dustin's ally/girlfriend, fighting alongside him during his rescue from a castle
+• Hill Giants: Allies of Zarvokir, their "who and how" is unknown
 .
-• Rãquel Sombria – Conan's former first love and second-in-command of the frog tribe, who betrayed his adoptive father and allied with the Cult of Elemental Evil, spreading corruption in the swamp
+• Hobgoblin Captain: Accompanies Varka and other hobgoblin warriors during an interruption at the Boreal Ball in the Feywild
 .
-• Raxas Albrethin – An arrogant, Chaotic Neutral drow Mage at the Boreal Ball in the Baron's ice palace in the Feywild
+• Hobgoblin Warriors: Accompany Varka at the Boreal Ball in the Feywild
 .
-• Rolger – A missing hobgoblin friend of Uteluk, found near Diamond Lake
+• Hook Horror: A monster trapped in the mine of Blackstone after digging into an Underdark tunnel
 .
-• Rond Cornelius Flavifer – Ketrich's father, a former adventurer who was cursed by a dark mage and retired from adventuring
+• Iuz: An evil demigod, who Melchis (a Fiend Cultist) is devoted to
+. He spreads chaos and destruction across Flanaess and seeks world domination
 .
-• Ross Reign – Meets Usopp and provides him with a new slingshot and mask
+• Jogmaahx: The Goblin Shaman in the goblin camp, an acolyte of the Cult of Elemental Evil who believes in Nerull and responds to Vaelkor Ashbrand
 .
-• Sapo Cocas – A Bullywug and long-time friend of Conan, found in a swamp and now lives in a Bullywug tribe near the tavern's first location
+• Kai: The leader of a party that Raylahn joined, who sought help to deal with a threat from his past
+. His base of operations or origin is not specified.
+• Kaelen (Master Kaelen): A wizened human elder who taught Bok at the Monastery of the Whispering Peaks
 .
-• Skarn – A Half-orc heavy crossbow expert and leader of the Redbrands, last seen fleeing Grimm Wagon’s Rest after attacking it
+• Kaya: A "sick" rich girl on Usopp's island whom Usopp told stories to, and who was being poisoned by her butler Kuro
 .
-• Snikil Pescabrasa – The leader of the Vermisombra kobold clan, who hired adventurers at the Taberna de Greyhawk to retrieve the Sword of Krixis
+• Krixis, o Valente (Krixis the Brave): A legendary kobold hero, protected his clan for generations, was cursed and trapped in the form of a wolf in an abandoned temple by Gogrom. Upon the curse's breaking, he returns to his kobold form
 .
-• Sylvan – A character whose cockiness and emptiness did not appeal to Raylahn during his exploration of Greyhawk City
+• Kuro: Kaya's butler on Usopp's island, who was poisoning her and was one of the pirates who eventually came to the island
 .
-• Taren – The young adult son of Thalen Fernwell, last seen near a players' camp on the way to Grimm Wagon’s Rest, then went to Greyhawk
+• Liwana: A female tiefling bartender and friend of Ulma in Greyhawk, who was captured by Loviatans in a forest
 .
-• Thalen Fernwell – A Half-elf widower who fled Orefield due to racism and animal disappearances, last seen near a players' camp on the way to Grimm Wagon’s Rest, and then headed to Greyhawk
+• Loviatans: A group who attacked Ulma and Liwana in a forest, seeking a powerful weapon
 .
-• Uteluk – A druid of the Circle of the Moon whom Raylahn gained favor from in Diamond Lake by helping find Rolger
+• Luffy: Usopp's captain and one of the adventurers who saved Usopp's island
 .
-• Vaelkor Ashbrand – A high-ranking member of the Cult of Elemental Evil, whom Jogmaahx reports to
+• Manvea & Aurkan: Vaunia's ancient companions, only remembered as fragments in her mind
 .
-• Varka – A Neutral Evil Hobgoblin Warlord who interrupts the Boreal Ball
+• Markus Grimm: A performer who was resurrected by Wee Jas after being sacrificed by Asdrobal Blackfair in Blackfrair Mansion. He awoke in the Tavern with partial memories
+. He later interacted with Wee Jas in the Chapel in Mistwood
 .
-• Varfu – Ulma's father, a mountain orc male, who was brutally beaten to death in Greyhawk
+• Melchis: An unassuming human merchant, secretly a Chaotic Evil Fiend Cultist devoted to Iuz, who hires characters for an expedition to an ancient temple in the Amedio Jungle. He transforms into a Hezrou in the ruins
 .
-• Wolf (chained) – Found in the Sala das Oferendas in the Templo Abandonado, and later transforms into Krixis, o Valente
+• Minotaurs of Baphomet: Creatures that prowl the Amedio Jungle looking for humanoids and dwell in the ancient temple where the Horns of the Beast are found
 .
-• Zilzo Orni – A charming gnome with whom Raylahn had a conversation in Hell’s Outcasts in Greyhawk City
+• Monks (of the Whispering Peaks): A serene band of monks who found and raised Bok Thunderfist on an abandoned battlefield and live in the Monastery of the Whispering Peaks
 .
-• Zarvokir – A Darkish High Elf warlock, leader of the Redbrands and Hill Giants, last seen fleeing Grimm Wagon’s Rest after attacking it
+• Mordenkainen: An archmage and founder of the Circle of Eight in Greyhawk
 .
-• Usopp's father (Yasopp) – A great pirate and sharpshooter, who left Usopp's mother for the sea
+• Morvanya: An Acolyte of Nerull and a leader of the Cult of Elemental Evil. She oversees the corruption of Mistwood and is planning to extend Nerull's influence to Erybend and other areas. She appears in the Central Plaza of Mistwood
 .
-• Usopp's mother – Died of illness while Usopp was young
+• Mr.4 & Miss Merry Christmas: Two powerful mercenaries fought by Usopp and Chopper in the kingdom of Alabasta
 .
-Deities and Divine Entities
-• Almira, the Shield Mother – A goddess whose faith is central to the Zaraleth warrior order in Thalos
+• Nami: Usopp's best friend and a member of his crew, one of the adventurers who saved Usopp's island
 .
-• Beory – The Goddess of Nature and Earth in Greyhawk
+• Nerull: The God of Death, secretly venerated by Asdrobal Blackfair
+. His altar is found in the goblin camp and the chapel in Mistwood
 .
-• Boccob – The God of Magic and Knowledge in Greyhawk
+• Nondy Barducks: A Lawful Neutral gnome Commoner and merchant who hires characters to escort his wagon to the remote mining village of Diamond Lake
 .
-• Ehlonna – The Goddess of Nature in Greyhawk
+• Nobre (Blackfrair Mansion): A noble in Blackfrair Mansion dedicated to Nerull, causing delays for the Cult of Elemental Evil
+. This is likely Asdrobal Blackfair
 .
-• Erythnul – The God of Carnage and Violence in Greyhawk
+• Oceera (Occera): Raylahn's mother, a high-ranking warrior of the Zaraleth clan in Thalos, who concealed his male identity
 .
-• Fharlanghn – The God of Roads and Travel in Greyhawk
+• Ogre (Vigia): A large ogre positioned as a guard next to the slave cells in the goblin camp
 .
-• Heironeous – The God of Honor and Justice in Greyhawk
+• Orc Warrior (slain): Bok's biological father, found dead on an abandoned battlefield
 .
-• Iuz – A demigod of evil, associated with the Fiend Cultist Melchis and known for spreading chaos and destruction across Flanaess
-. Raylahn also mentions rituals in the name of Iuz
+• Orcs (revenge): A group of orcs who attacked and killed Ulma's parents in Greyhawk
 .
-• Loviatar – A goddess to whom the powerful weapon "Extasis Cruciata" was offered; worshipped by the Loviatans
+• Orianna: A farmer who lived in her village with her parents, and decided to adventure with her childhood friend Arkos
 .
-• Nerull – A divinity worshipped by Asdrobal Blackfair, Jogmaahx, and Morvanya; associated with the profaned chapel in Mistwood and the goblin camp
+• Orianna's Parents: Farmers who lived with Orianna in her village
 .
-• Pelor – The God of the Sun and Healing, formerly worshipped in the chapel in Mistwood
+• Paladin Brandon Brayn: An antagonist paladin of Beltar, faced by Raylahn during the rescue of Dustin from a castle
 .
-• Titania – The Queen of the Feywild, associated with the unicorn in the Vale de Lytharien and represented by Egalar
+• Pelor: The God of the Sun and Healing in Greyhawk
+. His chapel in Mistwood was converted into an altar for Nerull
 .
-• Vecna – The God Lich of Secret, Dark Magic, and Ambition in Greyhawk
+• Pirates (from Usopp's past): A group of pirates, one of whom was a butler, who eventually came to Usopp's island
 .
-• Wee Jas – A divinity who brought Markus Grimm back to life after his death at Asdrobal Blackfair's ritual; she appears to Markus in the Capela Profanada in Mistwood
+• Pryssana: An ethereal figure who appears during a ritual with Dustin, asking for a unicorn horn
+. She is Dustin's ally/girlfriend
 .
-Generic Groups and Creatures
-• Allosauruses – Hunting in the Amedio Jungle
+• Rãquel Sombria: Conan's "first ex," an astute and ambitious frog who betrayed Conan's adoptive father and allied with the Elemental Evil Cult
+. Her current location is not specified, as Conan has not yet encountered her
 .
-• Ankylosauruses – Tromping through the Amedio Jungle
+• Raxas Albrethin: An arrogant, Chaotic Neutral drow Mage present at the Boreal Ball in the Feywild
 .
-• Bandits / "A Sociedade da Compota" – Competitors who assailed Friedrick Junsi in the Seawall Mountains in Zilargo, Eberron
+• Red Dragon Wyrmling: A young dragon that claimed a warren (Volcanic Caves map) as its lair after driving out kobolds, located near Diamond Lake
 .
-• Baron of the Boreal Ball – A minor noble of the Feywild who hosts an unending ball in his ice palace
+• Redbrands: A gang of rogues, allied with Zarvokir, who attacked Grimm Wagon’s Rest
 .
-• Bullywug Warriors – Found in the corrupted cave entrance near High Ery, infected with fungal growths
+• Robin: A member of Usopp's crew
 .
-• Caretaker (of Wandering Sage) – Possessed scrolls during Wandering Sage's early life
+• Rolger: Uteluk's missing hobgoblin friend, found at Diamond Lake
 .
-• Drow consort – A drow woman dedicated to Nerull, residing with an unnamed noble in Mansão Blackfrair
+• Rond Cornelius Flavifer: Ketrich Flavifer's father, a former adventurer who was cursed by a dark mage and now lives in his family home
 .
-• Eladrin (Queen's agents) - Unspecified location
+• Ross Reign: An individual Usopp met, who gave him a new slingshot and mask
+. His location is not specified.
+• Sahuagin Priests & Sahuagin Warriors: Creatures that attacked Melchis's ship as it crossed Jeklea Bay
 .
-• Fish-men – Attacked Nami on an island Usopp visited
+• Sanji: A member of Usopp's crew
 .
-• Gelatinous Cube – Encountered in the mine near Blackstone
+• Scarlet Brotherhood: A secret organization of assassins and spies with ambitions to dominate Flanaess
 .
-• Giant Ape – Protects its territory in the Amedio Jungle
+• Second-in-command of frog tribe: An astute and ambitious frog who betrayed Conan's adoptive father and allied with the cult. Implied to be in the swamp where the frog tribe lives
 .
-• Giant Crocodiles – Attack near the lake shore in coastal terrain during the journey through the Amedio Jungle
+• Shade (former priest of Pelor): A figure kneeling at the altar in the chapel in Mistwood, revealed to be the former priest of Pelor in the village, now a shade
 .
-• Giant Spider – Encountered in the mine near Blackstone
+• Skarn: A half-orc heavy crossbow expert and leader of the Redbrands, last seen fleeing Grimm Wagon’s Rest
+. His current location is unknown
 .
-• Gigante Bone Golem – A guard for Morvanya, constructed from the remains of villagers, appearing in the Praça Central in Mistwood
+• Snikil Pescabrasa: The leader of the Vermisombra kobold clan who appeared at the Tavern of Greyhawk to hire adventurers to help Krixis
 .
-• Gnomes – Worked near Thalos, teaching Raylahn arcane magic in secret
+• Sylvan: Mentioned in Hell's Outcasts (a bar in Greyhawk City), characterized by cockiness
 .
-• Goblin Captain – Accompanies Varka and other hobgoblins, interrupting the Boreal Ball
+• Taberneiro: The manager of the Great Tavern, preparing players for missions
 .
-• Goblin Guardião Ancião – The warrior leader of the kobold tribe protecting the unicorn in the Vale de Lytharien
+• Taren & Alia: Thalen Fernwell's young adult son and child daughter, respectively
 .
-• Goblin Shaman – An elder, scaly figure leading the kobold tribe in the Vale de Lytharien
+• Tenser: A heroic wizard known for his goodness and desire to protect the innocent in Greyhawk
 .
-• Goblins – Found as Goblins Vigias at the entrance of the Templo Abandonado
-, a patrol in its Sala das Oferendas, and as Goblins Soldados and Goblins Escravos in the goblin camp northwest of the tavern
+• Thalen Fernwell: A half-elf widower and goat herder who fled Orefield due to racism and animal disappearances. He was last seen going to Greyhawk
+. His current location is unknown
 .
-• Goliath tribes of the north – Mentioned as potential valuable additions to the Cult of Elemental Evil, located in the mountains
+• Titania: The Queen of the Feywild, Eirwen's queen and source of her mission
 .
-• Hobgoblin Warriors – Accompanies Varka and his captain, interrupting the Boreal Ball
+• Unicorn: A creature that lives in a sacred valley, Lytharien, south of Greyhawk, protected by kobolds
 .
-• Hook Horror – Trapped in the mine near Blackstone, trying to return to the Underdark
+• Usopp's Father (Yasopp): A great pirate and marksman, who left Usopp's unnamed pirate island for the sea
 .
-• Human Infantry Warriors – A band of humans watching the party in the Amedio Jungle
+• Usopp's Mother: A single mother who raised Usopp on his unnamed pirate island and died of illness
 .
-• Human Veteran Warrior – Leads a band of humans watching the party in the Amedio Jungle
+• Uteluk: A druid of the Circle of the Moon whom Raylahn gained favor from at Diamond Lake
 .
-• Kobold Bandits – Along the road to Diamond Lake in the Cairn Hills
+• Vaelkor Ashbrand: A high-ranking member of the Cult of Elemental Evil, to whom the goblin shaman Jogmaahx responds
+. His location is not specified.
+• Vaunia: A young ranger who performs a ritual in a clearing near Mistwood to summon an animal companion
 .
-• Kobolds – A group that hired adventurers in the Taberna de Greyhawk
-. They also protect the unicorn in the Vale de Lytharien south of Greyhawk. Other kobolds were driven from their warren by a red dragon wyrmling and caused trouble in the Cairn Hills
+• Varka: A Hobgoblin Warlord who interrupts the Boreal Ball in the Feywild
 .
-• Loviatans – Attacked Ulma and Liwana in a forest
+• Varfu: Ulma's mountain orc father, who fled his tribe with Amelia and was killed by orcs in Greyhawk
 .
-• Magma Mephits – Drawn to the dragon's lair (Volcanic Caves) in the Cairn Hills
+• Vecna: The Lich God of Secret, Dark Magic, and Ambition in Greyhawk
 .
-• Minotaurs of Baphomet – Prowl the Amedio Jungle and dwell in the ancient temple ruins
+• Villagers/Inhabitants (Mistwood): The residents of the commercial village of Mistwood, initially appearing normal but later revealed to be zombies under a necromantic illusion
 .
-• Noble (unnamed) – Dedicated to Nerull with his drow consort, residing in Mansão Blackfrair
+• Wagner (Fyerblitz): A Dragonborn Sorcerer who gained Raylahn's respect and formed a Bastion called "Dragon Arcana Co." with Drayl and Raylahn in Greyhawk City
+. He is constantly traveling the world in search of strength and answers about his scales
 .
-• Orc Massivo (Ogrillon Ogre) – A massive, enraged orc found in the Sala Secreta of the Templo Abandonado
+• Wandering Sage's Caretaker: An individual who possessed scrolls and cared for Wandering Sage in his tiny village
 .
-• Orcs – Attacked Ulma's parents in Greyhawk
+• Wee Jas: The Lady of Magic and Death, who resurrected Markus Grimm
+. She appears to Markus in the chapel in Mistwood
 .
-• Paladinos (generic) – An organization of paladins that attacked the Grande Taberna, forcing its relocation
+• Wolf (animal companion): An animal companion that appears to Vaunia during her ritual in a clearing near Mistwood
 .
-• Paladinos de Beltar – Captured Dustin and held him in a castle
+• Yasopp: Usopp's father, a great pirate and marksman
 .
-• Piercers – Encountered in the mine near Blackstone
+• Zarvokir: A Darkish High Elf, a high-level warlock, last seen fleeing Grimm Wagon’s Rest. His current location is unknown
 .
-• Pirates – Came to Usopp's island
+• Zilzo Orni: A charming gnome with whom Raylahn had a good conversation in Hell’s Outcasts in Greyhawk City
 .
-• Psychic Gray Ooze – Found at the north end of the stream in the corrupted cave near High Ery
+• Zombies: Infected villagers in Mistwood, initially hidden by illusion
 .
-• Red Dragon Wyrmling – Drove kobolds from their warren in the Cairn Hills and made it its lair (Volcanic Caves)
+• Zoro: A member of Usopp's crew
 .
-• Redbrands – A gang of rogues allied with Zarvokir and Skarn, who attacked Grimm Wagon’s Rest
-.
-• Rust Monster – Encountered in the mine near Blackstone
-.
-• Sahuagin Priests – Attacked a ship in Jeklea Bay
-.
-• Sahuagin Warriors – Attacked a ship in Jeklea Bay
-.
-• Scarlet Brotherhood – A secret organization of assassins and spies seeking to dominate Flanaess
-.
-• Shade (former priest of Pelor) – A figure kneeling at the altar in the Capela Profanada in Mistwood, appearing after the illusion in the village falls
-.
-• Shrieker Fungus – Located just inside the entrance of the corrupted cave near High Ery
-.
-• Smoke Mephits – Drawn to the dragon's lair (Volcanic Caves) in the Cairn Hills
-.
-• Stirges – Found at the north end of the stream in the corrupted cave near High Ery
-.
-• Swarms of Insects (spiders) – Encountered in the mine near Blackstone
-.
-• Taberneiros – The staff of the Grande Taberna, whose ultimate objective is unknown to them
-.
-• Twig Blights – Encountered just outside the corrupted cave near High Ery
-.
-• Tyrannosaurus Rex – On the hunt in the Amedio Jungle
-.
-• Unicorn – A creature that rests by a crystal lake in the sacred Vale de Lytharien south of Greyhawk, protected by kobolds
-.
-• Violet Fungi – Encountered in the mine near Blackstone
-.
-• Water Elemental – Attacked a ship in Jeklea Bay
-.
-• Winged Kobolds – Supplicants in the Cairn Hills
-.
-• Zumbis (aldeões infectados) – Appear in the Taverna "Última Folha" in Mistwood after the illusion breaks
-. Also invoked by the Goblin Shaman in the goblin camp
-.
+NotebookLM can be inaccurate; please double check its responses. 

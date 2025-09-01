@@ -1,115 +1,111 @@
-# Referenced Locations
+# Localizações Referenciadas
 
-## 🌍 World of Greyhawk
+## 🌍 Mundo de Greyhawk
 
-### Regions, Kingdoms, and Cities
-- **Flanaess** – The most detailed region of the Greyhawk setting, composed of kingdoms, city-states, and landscapes.  
-- **World of Greyhawk** – Overarching campaign setting created by Gary Gygax.  
-- **Cidade Livre de Greyhawk** – Vibrant hub of commerce, politics, and intrigue. Distinct from the broader World of Greyhawk.  
-- **Grande Castelo de Greyhawk** – Central mega-dungeon and namesake of the campaign.  
-- **Keoland** – Kingdom protected by the Knights of the Shield.  
-- **Dyvers** – City known for merchants and rivalry with Greyhawk.  
-- **Hardby** – Famous port city known for exotic goods.  
-- **Blackstone** – Village whose mayor hires adventurers to clear a Hook Horror.  
-- **Diamond Lake** – Mining village near a dragon’s lair, known for liquor fairs.  
-- **Clekburg** – Location with a Jewelers and Gemcutters Guildhall.  
-- **Erybend** – Target city of the Cult of Elemental Evil’s plague.  
-- **Thalos** – City tied to the Zaraleth clan, birthplace of Raylahn.  
+### Regiões, Reinos e Cidades
+- **Flanaess** – A região mais detalhada do cenário Greyhawk, composta por reinos, cidades-estado e várias paisagens.  
+- **Mundo de Greyhawk** – O cenário de campanha criado por Gary Gygax.  
+- **Cidade Livre de Greyhawk** – Centro vibrante de comércio, política e intriga. Distinta do Mundo de Greyhawk em geral.  
+- **Grande Castelo de Greyhawk** – Mega-dungeon central e homónimo da campanha.  
+- **Keoland** – Reino protegido pelos Cavaleiros do Escudo.  
+- **Dyvers** – Cidade mercantil, rival de Greyhawk.  
+- **Hardby** – Porto famoso pelas suas mercadorias exóticas.  
+- **Blackstone** – Aldeia cujo alcaide contrata aventureiros para lidar com um Hook Horror numa mina.  
+- **Diamond Lake** – Vila mineira próxima da toca de um dragão, conhecida pelas feiras de bebidas.  
+- **Clekburg** – Local com Guilda de Joalheiros e Lapidários.  
+- **Erybend** – Cidade alvo da praga do Culto do Mal Elemental.  
+- **Thalos** – Cidade associada ao clã Zaraleth, berço de Raylahn.  
 
-### Landscapes & Dangerous Zones
-- **Cairn Hills** – Kobolds displaced by a red dragon wyrmling.  
-- **Vale de Lytharien** – Sacred valley south of Greyhawk, unicorn protected by kobolds.  
-- **Vale Vesve** – Dangerous northern woodland.  
-- **Território Bandit** – Dangerous location in Flanaess.  
-- **Mar de Poeira (Sea of Dust)** – Treacherous desert, site of an ancient empire.  
+### Paisagens e Zonas Perigosas
+- **Colinas Cairn** – Kobolds desalojados por um dragão vermelho jovem.  
+- **Vale de Lytharien** – Vale sagrado a sul de Greyhawk, onde um unicórnio é protegido por kobolds.  
+- **Vale Vesve** – Floresta perigosa no norte.  
+- **Território Bandit** – Local de grande perigo em Flanaess.  
+- **Mar de Poeira (Sea of Dust)** – Deserto traiçoeiro, outrora um império antigo.  
 
-### Villages and Minor Features
-- **High Ery** – Village polluted by alien fungus.  
-- **Hills (a leste de Greyhawk)** – Region east of Greyhawk, where Orefield is located.  
-- **Orefield** – Abandoned mining camp corrupted by a portal to the Abyss.  
-
----
-
-## 🏙️ City of Greyhawk
-
-### Districts
-- **Artisan Quarter** – Hosts guildhalls and the current site of the Grande Taberna.  
-- **High Quarter** – Contains the Wizards’ Guildhall.  
-- **River Quarter** – Hosts multiple guildhalls and cartography offices.  
-- **Slum Quarter** – Contains Assassins’ Guildhall, Beggars’ Union, and Merchants’ guilds.  
-- **The Wharf** – Dockside district with Pilots’ & Seamen’s Guildhall and Free Traders office.  
-- **Thieves’ Quarter** – Contains the Great Hall of the Thieves Guild.  
-
-### Guildhalls
-- **Carpenters’ Guildhall** – Artisan Quarter.  
-- **Guildhall of Architects and Stonemasons** – Artisan Quarter.  
-- **Guildhall of Leatherworkers, Weavers, and Tailors** – Artisan Quarter.  
-- **Guildhall of the Performing Artistes** – Artisan Quarter.  
-- **Nine of Swords** – Artisan Quarter, blacksmith licensing.  
-- **Wizards’ Guildhall** – High Quarter, magic item licensing.  
-- **Cartographers’ Guildhall** – River Quarter.  
-- **Mercenaries’ Guildhall** – River Quarter.  
-- **Moneychangers’ Guildhall** – River Quarter.  
-- **Sages’ Guildhall** – River Quarter.  
-- **Translators’ Guildhall** – River Quarter.  
-- **Assassins’ Guildhall** – Slum Quarter.  
-- **Guildhall of the Beggars’ Union** – Slum Quarter.  
-- **Merchants and Traders Guildhall and Livery** – Slum Quarter.  
-- **Dockers’ and Wharfmen’s Union Hall** – Wharf.  
-
-### Taverns, Inns & Notable Sites
-- **Grande Taberna / Taberna de Greyhawk** – Multidimensional hub, currently in Artisan Quarter.  
-- **Hell’s Outcasts** – Tavern where Raylahn spoke with Zilzo Orni.  
-- **The Free Traders office & warehouse** – Wharf district.  
+### Aldeias e Elementos Menores
+- **High Ery** – Aldeia poluída por fungo alienígena.  
+- **Colinas (a leste de Greyhawk)** – Região onde se encontra Orefield.  
+- **Orefield** – Acampamento mineiro abandonado após a abertura de um portal para o Abismo.  
 
 ---
 
-## ✨ Other Planes & Realms
+## 🏙️ Cidade de Greyhawk
 
-- **Abyss** – Portal unleashed in Orefield mine.  
-- **Feywild** – Home of Titania, Eirwen’s childhood realm, and the Boreal Ball’s ice palace.  
-- **Underdark** – Realm beneath, connected to Blackstone mine.  
-- **Upper Planes** – Domain of the River Oceanus.  
-- **River Oceanus** – Celestial river where the Horns of the Beast can be destroyed.  
+### Distritos
+- **Bairro dos Artesãos** – Abriga várias guildas e a localização atual da Grande Taberna.  
+- **Bairro Alto (High Quarter)** – Contém a Guilda dos Magos.  
+- **Bairro do Rio (River Quarter)** – Reúne múltiplas guildas e o cartório dos cartógrafos.  
+- **Bairro das Favelas (Slum Quarter)** – Contém a Guilda dos Assassinos, a União dos Mendigos e mercadores.  
+- **Bairro do Cais (Wharf)** – Zona portuária com guildas de marinheiros e armazéns comerciais.  
+- **Bairro dos Ladrões (Thieves’ Quarter)** – Contém o Grande Salão da Guilda dos Ladrões.  
+
+### Guildas
+- **Guilda dos Carpinteiros** – Bairro dos Artesãos.  
+- **Guilda dos Arquitetos e Pedreiros** – Bairro dos Artesãos.  
+- **Guilda dos Tecelões, Curtidores e Alfaiates** – Bairro dos Artesãos.  
+- **Guilda dos Artistas de Espetáculo** – Bairro dos Artesãos.  
+- **Nove Espadas (Nine of Swords)** – Bairro dos Artesãos, licenciamento de ferreiros.  
+- **Guilda dos Magos** – Bairro Alto, licenciamento de itens mágicos.  
+- **Guilda dos Cartógrafos** – Bairro do Rio.  
+- **Guilda dos Mercenários** – Bairro do Rio.  
+- **Guilda dos Cambistas** – Bairro do Rio.  
+- **Guilda dos Sábios** – Bairro do Rio.  
+- **Guilda dos Tradutores** – Bairro do Rio.  
+- **Guilda dos Assassinos** – Bairro das Favelas.  
+- **União dos Mendigos** – Bairro das Favelas.  
+- **Guilda dos Mercadores e Comerciantes** – Bairro das Favelas.  
+- **União dos Estivadores e Homens do Cais** – Bairro do Cais.  
+
+### Tabernas, Estalagens e Locais Notáveis
+- **Grande Taberna / Taberna de Greyhawk** – Entidade multidimensional, atualmente no Bairro dos Artesãos.  
+- **Hell’s Outcasts** – Taberna onde Raylahn falou com Zilzo Orni.  
+- **Armazém & Escritório dos Comerciantes Livres** – Bairro do Cais.  
 
 ---
 
-## 🌐 Other Campaign Worlds
+## ✨ Outros Planos e Reinos
 
-- **Eberron** – Includes Zilargo and the Seawall Mountains (Friedrick Junsi’s farm).  
-- **Zilargo** – Region in Eberron with Seawall Mountains.  
-- **Alabasta** – Exotic desert kingdom (non-Greyhawk).  
-- **Ilha do céu** – “Sky island” visited by Usopp.  
-- **East coast of the United States** – Real-world location of Teri Ninetails.  
-- **Second Life (SL)** – Virtual world where Teri Ninetails is active.  
-- **House Ninetails** – SL “family” group.  
-- **Velvet** – Virtual DJ venue.  
-- **Whiskey SMASH** – Virtual DJ venue.  
+- **Abismo** – Portal aberto na mina de Orefield.  
+- **Feéria (Feywild)** – Lar de Titânia, da infância de Eirwen e do Palácio Boreal.  
+- **Subterrâneo (Underdark)** – Reino abaixo da superfície, ligado à mina de Blackstone.  
+- **Planos Superiores** – Domínio do Rio Oceanus.  
+- **Rio Oceanus** – Rio celestial onde os Chifres da Besta podem ser destruídos.  
 
 ---
 
-## 🌲 Local & Adventure-Specific Sites
+## 🌐 Outros Mundos de Campanha
 
-- **Capela Profanada** – Chapel in Mistwood, defiled to Nerull.  
-- **Mistwood** – Village under necromantic control.  
-  - **Praça Central** – Where Morvanya, cleric of Nerull, appears.  
-  - **Taberna "Última Folha"** – Local tavern.  
-- **Mansão Blackfrair** – Mansion of Nerull worshippers, delaying Cult of Elemental Evil.  
-- **Cursed Museum** – Site where Ketrich Flavifer was rescued.  
-- **Goblin Camp** – Northwest of tavern, with prisoners and Nerull altar.  
-- **Two Fords** – Mentioned in goblin shaman’s letter.  
-- **Mine** – Near Blackstone, where Hook Horror lurked.  
-- **Minas do norte** – Archeological mines claimed by Cult of Elemental Evil.  
-- **Cave** – Source of pollution in *The Fouled Stream*.  
-- **Clareira Oculta** – Ritual clearing for Vaunia.  
-- **Sala das Oferendas** – Room in *O Legado de Krixis*.  
-- **Sala do Boss** – Guarded by Gogrom, holds Sword of Krixis.  
-- **Sala Secreta** – Hidden chamber with enraged orc.  
-- **Templo Abandonado** – Dungeon tied to Sword of Krixis.  
-- **Templo em ruínas** – Forbidden sanctuary in Vale de Lytharien.  
-- **Grimm Wagon’s Rest** – Abandoned warehouse attacked by giants.  
-- **Wood** – Forest south of High Ery, home of Borogrove the Treant.  
-- **Pântano** – Swamp home of Conan’s frog tribe.  
-- **Floresta Mágica** – Where Conan the Frog-Barbarian was raised.  
+- **Eberron** – Inclui Zilargo e as Montanhas Seawall (quinta de Friedrick Junsi).  
+- **Zilargo** – Região de Eberron com as Montanhas Seawall.  
+- **Alabasta** – Reino desértico exótico (não Greyhawk).  
+- **Ilha do Céu** – Ilha flutuante visitada por Usopp.  
+- **Costa Leste dos Estados Unidos** – Localização real de Teri Ninetails.  
+
+---
+
+## 🌲 Locais de Aventura e Específicos
+
+- **Capela Profanada** – Capela em Mistwood, dedicada a Nerull.  
+- **Mistwood** – Vila sob influência necromântica.  
+  - **Praça Central** – Onde aparece Morvanya, clériga de Nerull.  
+  - **Taberna "Última Folha"** – Taberna local.  
+- **Mansão Blackfrair** – Mansão de nobre e drow devotos de Nerull.  
+- **Museu Amaldiçoado** – Local onde Ketrich Flavifer foi salvo.  
+- **Acampamento Goblin** – Noroeste da taberna, com prisioneiros e altar a Nerull.  
+- **Two Fords** – Local referido em carta de xamã goblin.  
+- **Mina** – Perto de Blackstone, onde se encontrava o Hook Horror.  
+- **Minas do Norte** – Minas reclamadas pelo Culto do Mal Elemental.  
+- **Caverna** – Fonte de poluição em *O Rio Poluído*.  
+- **Clareira Oculta** – Clareira ritual usada por Vaunia.  
+- **Sala das Oferendas** – Sala em *O Legado de Krixis*.  
+- **Sala do Boss** – Guardada por Gogrom, contém a Espada de Krixis.  
+- **Sala Secreta** – Câmara escondida com orc enfurecido.  
+- **Templo Abandonado** – Local da Espada de Krixis.  
+- **Templo em Ruínas** – Santuário proibido no Vale de Lytharien.  
+- **Grimm Wagon’s Rest** – Armazém abandonado, destruído por gigantes.  
+- **Bosque** – A sul de High Ery, lar do ent Borogrove.  
+- **Pântano** – Lar da tribo de sapos de Conan.  
+- **Floresta Mágica** – Onde Conan, o Bárbaro-Rã, foi criado.  
 
 ---
