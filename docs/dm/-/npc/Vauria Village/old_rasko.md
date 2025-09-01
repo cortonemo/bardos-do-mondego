@@ -2,14 +2,14 @@
 
 ![Old Rasko](docs/assets/npc/npc_blank.png)
 
-| **Português (PT-PT)** | **English (EN-US)** |
-| --------------------- | ------------------- |
-| **Nome:** Old Rasko | **Name:** Old Rasko |
-| **Raça:** ??? | **Race:** ??? |
-| **Classe:** ??? | **Class:** ??? |
-| **Alinhamento:** ??? | **Alignment:** ??? |
+| **Português (PT-PT)**                                                                             | **English (EN-US)**                                                                     |
+| ------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| **Nome:** Old Rasko                                                                               | **Name:** Old Rasko                                                                     |
+| **Raça:** ???                                                                                     | **Race:** ???                                                                           |
+| **Classe:** ???                                                                                   | **Class:** ???                                                                          |
+| **Alinhamento:** ???                                                                              | **Alignment:** ???                                                                      |
 | **Profissão / Função:** Proprietário da loja de bugigangas em [Vila de Vauria](vila_de_vauria.md) | **Profession / Role:** Owner of the trinket shop in [Vauria Village](vila_de_vauria.md) |
-| **Localização:** [Vila de Vauria](vila_de_vauria.md) | **Location:** [Vauria Village](vila_de_vauria.md) |
+| **Localização:** [Vila de Vauria](vila_de_vauria.md)                                              | **Location:** [Vauria Village](vila_de_vauria.md)                                       |
 
 ---
 

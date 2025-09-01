@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/npc/Free City of Grehawk/trixie.md",
+                "file": "docs/npc/Ruins of House Vanthir/vareth_lionmane.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "trixie"
+              "title": "vareth_lionmane"
             }
           },
           {
-            "id": "52d3a178974c7919",
+            "id": "1a72cff24cd8cd9e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/dm/-/pc/pc_dustin_thorne.md",
+                "file": "docs/dm/-/locations/referenced_locations_greyhawk.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -47,15 +47,16 @@
                   "sortOrder": "alphabetical",
                   "showSearch": false,
                   "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                  "backlinkCollapsed": true,
+                  "unlinkedCollapsed": false
                 }
               },
               "icon": "lucide-file",
-              "title": "pc_dustin_thorne"
+              "title": "referenced_locations_greyhawk"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -200,48 +201,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c334f2552873dd72",
+  "active": "1a72cff24cd8cd9e",
   "lastOpenFiles": [
-    "docs/dm/-/npc/Free City of Grehawk/trixie.md",
-    "docs/npc/Free City of Grehawk/trixie.md",
-    "docs/npc/wild/thoren.md",
-    "docs/dm/-/npc/wild/thoren.md",
-    "docs/npc/Mirens Hallow/thamior.md",
-    "docs/dm/-/npc/Mirens Hallow/thamior.md",
-    "docs/npc/unknown/sybel_astren.md",
-    "docs/dm/-/npc/talandra_valaxar.md",
-    "docs/dm/-/npc/Unknown/sybel_astren.md",
-    "docs/dm/-/locations/templo_ordem_de_scarlat.md",
-    "docs/dm/-/pc/pc_dustin_thorne.md",
-    "docs/npc/Order of Scarlat/tilda_auren.md",
-    "docs/dm/-/npc/Order of Scarlat/tilda_auren.md",
-    "docs/npc/Order of Scarlat/soren_vest.md",
-    "docs/dm/-/npc/Order of Scarlat/soren_vest.md",
-    "docs/npc/Order of Scarlat",
-    "docs/dm/-/npc/Order of Scarlat",
-    "docs/npc/unknown/snikil_pescabrasa.md",
+    "docs/npc/Underdark Paladin/zeibranth.md",
+    "docs/dm/-/locations/referenced_locations_greyhawk.md",
+    "New folder",
+    "docs/npc/Underdark Paladin/sybel_astren.md",
+    "docs/npc/Underdark Paladin/garruk_valstein.md",
+    "docs/npc/Underdark Paladin/brandon_bane.md",
+    "docs/npc/Underdark Paladin/brand_orvain.md",
+    "docs/dm/-/npc/Underdark Paladin/garruk_valstein.md",
+    "docs/npc/Underdark Paladin",
+    "docs/dm/-/npc/Underdark Paladin/sybel_astren.md",
+    "docs/dm/-/npc/Underdark Paladin/zeibranth.md",
+    "docs/dm/-/npc/Underdark Paladin/brandon_bane.md",
+    "docs/dm/-/npc/Underdark Paladin/brand_orvain.md",
+    "docs/dm/-/organizations/underdark_paladins.md",
     "docs/dm/-/npc/Unknown/snikil_pescabrasa.md",
-    "docs/npc/Peachgrove Village/sir_gregor.md",
-    "docs/dm/-/npc/Peachgrove Village/sir_gregor.md",
-    "docs/npc/Peachgrove Village",
-    "docs/dm/-/npc/Peachgrove Village",
-    "docs/npc/Eribend/senhor_rodrik.md",
-    "docs/dm/-/npc/Eribend/senhor_rodrik.md",
-    "docs/npc/unknown/selene.md",
     "docs/dm/-/npc/Unknown/selene.md",
-    "docs/npc/unknown/raveth_xil_zyrl.md",
     "docs/dm/-/npc/Unknown/raveth_xil_zyrl.md",
-    "docs/npc/Fey/pryssana.md",
-    "docs/npc/Fey",
-    "docs/dm/-/npc/Fey",
-    "docs/npc/Vauria Village",
-    "docs/dm/-/npc/Vauria Village",
+    "docs/dm/-/npc/Unknown/liwana.md",
+    "docs/dm/-/npc/Unknown/lirael.md",
+    "docs/dm/-/npc/Unknown/lia.md",
+    "docs/dm/-/npc/Unknown/druida_infestado.md",
+    "docs/dm/-/npc/Unknown/berdan_barleybrow.md",
+    "docs/dm/-/npc/Ruined castle/major-domo_castelo.md",
+    "docs/npc/Ruined castle",
+    "docs/dm/-/npc/Ruined castle",
+    "docs/dm/-/npc/Unknown/draven.md",
+    "docs/dm/-/npc/Unknown/darsen.md",
+    "docs/dm/-/npc/Unknown/cultista.md",
+    "docs/npc/unknown/berdan_barleybrow.md",
+    "docs/npc/Underdark Paladin",
+    "docs/dm/-/npc/Underdark Paladin",
+    "docs/npc/Eclipse Tower",
+    "docs/dm/-/npc/Eclipse Tower",
+    "docs/npc/Ruins of House Vanthir",
+    "docs/dm/-/npc/Ruins of House Vanthir",
     "docs/assets/pc/pc_kai_04.png",
     "docs/assets/pc/pc_kai_03.png",
     "docs/assets/pc/pc_kai_02.png",
     "docs/assets/pc/pc_kai_01.png",
-    "docs/npc/´Blackstone",
-    "docs/dm/-/npc/´Blackstone",
     "docs/assets/location/peculiar_manor.png",
     "docs/assets/npc/npc_blank.png",
     "docs/assets/location/coat_of_arms_dyvers.jpeg",

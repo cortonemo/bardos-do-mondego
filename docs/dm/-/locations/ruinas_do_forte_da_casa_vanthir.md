@@ -1,4 +1,4 @@
-﻿
+
 # Ruínas do Forte da Casa Vanthir / Ruins of House Vanthir
 
 Sessões: 10, 11, 12 | Datas: 2025-03-13, 2025-03-20, 2025-03-27 | Fontes: s10_-_2025-03-13.txt, s11_-_2025-03-20.txt, s12_-_2025-03-27.txt | Tags: localizacao, ruinas, fortaleza
