@@ -1,15 +1,15 @@
-# Bareth Lionmane
+# Old Rasko
 
-![Bareth Lionmane](docs/assets/npc/npc_blank.png)
+![Old Rasko](docs/assets/npc/npc_blank.png)
 
 | **Português (PT-PT)** | **English (EN-US)** |
 | --------------------- | ------------------- |
-| **Nome:** Bareth Lionmane | **Name:** Bareth Lionmane |
+| **Nome:** Old Rasko | **Name:** Old Rasko |
 | **Raça:** ??? | **Race:** ??? |
-| **Classe:** Paladino ??? | **Class:** Paladin ??? |
+| **Classe:** ??? | **Class:** ??? |
 | **Alinhamento:** ??? | **Alignment:** ??? |
-| **Profissão / Função:** Caçador do subterrâneo, membro da equipa que persegue Dustin e o grupo | **Profession / Role:** Subterranean hunter, member of the squad tracking Dustin and the party |
-| **Localização:** ??? | **Location:** ??? |
+| **Profissão / Função:** Proprietário da loja de bugigangas em [Vila de Vauria](vila_de_vauria.md) | **Profession / Role:** Owner of the trinket shop in [Vauria Village](vila_de_vauria.md) |
+| **Localização:** [Vila de Vauria](vila_de_vauria.md) | **Location:** [Vauria Village](vila_de_vauria.md) |
 
 ---
 
@@ -17,7 +17,7 @@
 
 | **Português (PT-PT)** | **English (EN-US)** |
 | --------------------- | ------------------- |
-| Bareth Lionmane é um paladino dos caçadores do subterrâneo, membro da equipa que persegue Dustin e o grupo. <br><br>??? Texto adicional a preencher. | Bareth Lionmane is a paladin of the subterranean hunters, part of the squad tracking Dustin and the party. <br><br>??? Additional text to be filled. |
+| Proprietário da loja de bugigangas em [Vila de Vauria](vila_de_vauria.md), fonte de itens raros e informações sobre segredos da montanha. | Owner of the trinket shop in [Vauria Village](vila_de_vauria.md), source of rare items and information about mountain secrets. |
 
 ---
 

@@ -1,15 +1,15 @@
-# Baltigard
+# Mr.0
 
-![Baltigard](docs/assets/npc/npc_blank.png)
+![Mr.0](docs/assets/npc/npc_blank.png)
 
 | **Português (PT-PT)** | **English (EN-US)** |
 | --------------------- | ------------------- |
-| **Nome:** Baltigard | **Name:** Baltigard |
+| **Nome:** Mr.0 | **Name:** Mr.0 |
 | **Raça:** ??? | **Race:** ??? |
-| **Classe:** Guerreiro ??? | **Class:** Fighter ??? |
+| **Classe:** ??? | **Class:** ??? |
 | **Alinhamento:** ??? | **Alignment:** ??? |
-| **Profissão / Função:** ??? | **Profession / Role:** ??? |
-| **Localização:** ??? | **Location:** ??? |
+| **Profissão / Função:** Mestre da [Guilda dos Ladrões de Greyhawk](guild_of_thieves.md) | **Profession / Role:** Master of the [Thieves Guild of Greyhawk](guild_of_thieves.md) |
+| **Localização:** [Cidade de Greyhawk](cidade_de_greyhawk.md) | **Location:** [Free City of Greyhawk](cidade_de_greyhawk.md) |
 
 ---
 
@@ -17,7 +17,7 @@
 
 | **Português (PT-PT)** | **English (EN-US)** |
 | --------------------- | ------------------- |
-| Guerreiro que cai em combate contra os mind flayers durante o arco da nave espacial. <br><br>??? Texto adicional a preencher. | Warrior who falls in battle against the mind flayers during the spaceship arc. <br><br>??? Additional text to be filled. |
+| Mestre da [Guilda dos Ladrões de Greyhawk](guild_of_thieves.md), figura misteriosa que manipula eventos subterrâneos e controla parte do submundo criminoso da cidade. | Master of the [Thieves Guild of Greyhawk](guild_of_thieves.md), mysterious figure manipulating underground events and controlling part of the city’s criminal underworld. |
 
 ---
 
@@ -44,7 +44,7 @@
 
 ## 🧩 Estatísticas / Stat Block (SRD-Compliant)
 
-**Baltigard (???)**  
+**Mr.0 (???)**  
 *Medium humanoid, ??? alignment*
 
 - **Armor Class:** ???  
@@ -53,9 +53,9 @@
 
 **STR** ??? **DEX** ??? **CON** ??? **INT** ??? **WIS** ??? **CHA** ???  
 **Saving Throws:** ???  
-**Skills:** ???  
+**Skills:** Stealth +???, Deception +???, Persuasion +???  
 **Senses:** passive Perception ???  
-**Languages:** ???  
+**Languages:** Common, ???  
 **Challenge:** ???  
 
 ### Traits

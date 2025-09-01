@@ -41,6 +41,8 @@
 | Trabalha diretamente com o Conselho da Cidade de Greyhawk. Tem respeito por aventureiros, mas mantém vigilância sobre eles. Em conflito com nobres como Lorde Aleister Devraine quando interesses privados desafiam a lei. | Works directly with Greyhawk’s City Council. Respects adventurers but keeps a close eye on them. Often in conflict with nobles such as Lord Aleister Devraine when private interests challenge the law. |
 
 ---
+
+<!-- 🔒 DM-ONLY SECTION BELOW -->
 ## 🧩 Estatísticas / Stat Block (SRD-Compliant)
 
 **Captain of the Guard (Human Veteran)**  

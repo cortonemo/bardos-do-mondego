@@ -1,15 +1,15 @@
-# Bareth Lionmane
+# Myria
 
-![Bareth Lionmane](docs/assets/npc/npc_blank.png)
+![Myria](docs/assets/npc/npc_blank.png)
 
 | **Português (PT-PT)** | **English (EN-US)** |
 | --------------------- | ------------------- |
-| **Nome:** Bareth Lionmane | **Name:** Bareth Lionmane |
+| **Nome:** Myria | **Name:** Myria |
 | **Raça:** ??? | **Race:** ??? |
-| **Classe:** Paladino ??? | **Class:** Paladin ??? |
+| **Classe:** ??? | **Class:** ??? |
 | **Alinhamento:** ??? | **Alignment:** ??? |
-| **Profissão / Função:** Caçador do subterrâneo, membro da equipa que persegue Dustin e o grupo | **Profession / Role:** Subterranean hunter, member of the squad tracking Dustin and the party |
-| **Localização:** ??? | **Location:** ??? |
+| **Profissão / Função:** Fornecedora de informações e tarefas menores em [Eribend](eribend.md) | **Profession / Role:** Information provider and minor task-giver in [Eribend](eribend.md) |
+| **Localização:** Acampamento nómada perto de [Eribend](eribend.md) | **Location:** Nomad camp near [Eribend](eribend.md) |
 
 ---
 
@@ -17,7 +17,7 @@
 
 | **Português (PT-PT)** | **English (EN-US)** |
 | --------------------- | ------------------- |
-| Bareth Lionmane é um paladino dos caçadores do subterrâneo, membro da equipa que persegue Dustin e o grupo. <br><br>??? Texto adicional a preencher. | Bareth Lionmane is a paladin of the subterranean hunters, part of the squad tracking Dustin and the party. <br><br>??? Additional text to be filled. |
+| Habitante do acampamento nómada junto a [Eribend](eribend.md), fornecedora de informações e pequenas tarefas aos aventureiros, especialista em rumores locais. | Resident of the nomad camp near [Eribend](eribend.md), information provider and task-giver to adventurers, specialist in local rumors. |
 
 ---
 

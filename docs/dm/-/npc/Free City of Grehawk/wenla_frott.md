@@ -4,11 +4,13 @@
 
 | **Português (PT-PT)** | **English (EN-US)** |
 | --------------------- | ------------------- |
-| **📍 Localização:**<br>- Velha Livraria em Lantern Lane, Cidade Livre de Greyhawk | **📍 Location:**<br>- Old Bookstore in Lantern Lane, Free City of Greyhawk |
-| **🏛 Papel / Função:**<br>- Vendedora de livros<br>- Entusiasta de spas | **🏛 Role / Function:**<br>- Bookseller<br>- Spa enthusiast |
-| **🧬 Raça:**<br>- Gnomo | **🧬 Race:**<br>- Gnome |
-| **⚔ Classe:**<br>- Comum (não-combatente) | **⚔ Class:**<br>- Commoner (noncombatant) |
-| **⚖ Alinhamento:**<br>- Caótica Boa | **⚖ Alignment:**<br>- Chaotic Good |
+| **Nome:** Wenla Frott | **Name:** Wenla Frott |
+| **Raça:** Gnomo | **Race:** Gnome |
+| **Classe:** Comum (não-combatente) | **Class:** Commoner (noncombatant) |
+| **Alinhamento:** Caótica Boa | **Alignment:** Chaotic Good |
+| **Profissão:** Livreira excêntrica e entusiasta de spas | **Profession:** Eccentric bookseller and spa enthusiast |
+| **Função:** Fonte caótica de informação e rumores | **Role:** Chaotic source of information and rumors |
+| **Localização:** Velha Livraria em Lantern Lane, Cidade Livre de Greyhawk | **Location:** Old Bookstore in Lantern Lane, Free City of Greyhawk |
 | **Pronomes:** Ela/Dela | **Pronouns:** She/Her |
 
 ---
@@ -34,11 +36,14 @@
 
 ## 🔗 Ligações / Connections
 
-| **Português (PT-PT)** | **English (EN-US)** |
-| --------------------- | ------------------- |
-| Cliente ocasional de Iquander e Neliara, que toleram as suas histórias. Já foi expulsa por Blathine por tentar “catalogar vibrações de chá” nos arquivos. | Occasional client of Iquander and Neliara, who tolerate her stories. Was once thrown out by Blathine for trying to “catalogue tea vibrations” in the archives. |
+| **Português (PT-PT)**                                                                                                                                                                                                             | **English (EN-US)**                                                                                                                                                                                             |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Cliente ocasional de [Iquander](iquander_of_greyhawk.md) e [Neliara](neliara_de_oghma.md), que toleram as suas histórias. Já foi expulsa por [Blathine](sister_blathine.md) por tentar “catalogar vibrações de chá” nos arquivos. | Occasional client of [Iquander](iquander_of_greyhawk.md) and Neliara, who tolerate her stories. Was once thrown out by [Blathine](sister_blathine.md) for trying to “catalogue tea vibrations” in the archives. |
 
 ---
+
+<!-- 🔒 DM-ONLY SECTION BELOW -->
+
 ## 🧩 Estatísticas / Stat Block (SRD-Compliant)
 
 **Wenla Frott (Gnome Commoner, Noncombatant)**  
@@ -52,14 +57,14 @@
 **Skills:** Insight +3, Persuasion +4, History +3  
 **Senses:** darkvision 60 ft., passive Perception 11  
 **Languages:** Common, Gnomish  
-**Challenge:** CR 0 (10 XP) **Proficiency Bonus:** +2
+**Challenge:** CR 0 (10 XP) **Proficiency Bonus:** +2  
 
 ### Traits
 - **Spa Nostalgia.** Once per day, Wenla can recall a quirky or oddly useful fact about the spa (*Idol of Lady Scale*) — accuracy 50%.  
-- **Tea Drinker.** Drinking her “haunted spa tea” grants a PC advantage on one Insight check in the next hour, but DC 10 Con save or suffer the *Poisoned* condition for 10 minutes.
+- **Tea Drinker.** Drinking her “haunted spa tea” grants a PC advantage on one Insight check in the next hour, but DC 10 Con save or suffer the *Poisoned* condition for 10 minutes.  
 
 ### Actions
-- **Book Toss.** *Ranged Weapon Attack:* +2 to hit, range 10 ft., *Hit:* 1 (1d4−1) bludgeoning.
+- **Book Toss.** *Ranged Weapon Attack:* +2 to hit, range 10 ft., *Hit:* 1 (1d4−1) bludgeoning.  
 
 ---
 
@@ -76,15 +81,3 @@
 | **Português (PT-PT)** | **English (EN-US)** |
 | --------------------- | ------------------- |
 | Wenla é melhor usada como uma **NPC gancho de alívio cómico**. Fornece informações caóticas mas úteis sobre o *Ídolo da Lady Scale* através de panfletos e anedotas. O seu **gato pode servir como piada recorrente** — miando no momento certo como se estivesse a ler. Em Foundry VTT, importar como **Comum CR 0**, com traços personalizados. | Wenla is best used as a **comic-relief hook NPC**. Provides chaotic but useful information about *Idol of Lady Scale* through flyers and anecdotes. Her **cat can serve as a running gag** — meowing at the right moment as if reading. In Foundry VTT, import as a **CR 0 commoner**, with added quirks. |
-
-
-
-
-
-
-
-
-
-
-
-

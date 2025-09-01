@@ -1,15 +1,15 @@
-# Baltigard
+# Old Rasko
 
-![Baltigard](docs/assets/npc/npc_blank.png)
+![Old Rasko](docs/assets/npc/npc_blank.png)
 
 | **Português (PT-PT)** | **English (EN-US)** |
 | --------------------- | ------------------- |
-| **Nome:** Baltigard | **Name:** Baltigard |
+| **Nome:** Old Rasko | **Name:** Old Rasko |
 | **Raça:** ??? | **Race:** ??? |
-| **Classe:** Guerreiro ??? | **Class:** Fighter ??? |
+| **Classe:** ??? | **Class:** ??? |
 | **Alinhamento:** ??? | **Alignment:** ??? |
-| **Profissão / Função:** ??? | **Profession / Role:** ??? |
-| **Localização:** ??? | **Location:** ??? |
+| **Profissão / Função:** Proprietário da loja de bugigangas em [Vila de Vauria](vila_de_vauria.md) | **Profession / Role:** Owner of the trinket shop in [Vauria Village](vila_de_vauria.md) |
+| **Localização:** [Vila de Vauria](vila_de_vauria.md) | **Location:** [Vauria Village](vila_de_vauria.md) |
 
 ---
 
@@ -17,7 +17,7 @@
 
 | **Português (PT-PT)** | **English (EN-US)** |
 | --------------------- | ------------------- |
-| Guerreiro que cai em combate contra os mind flayers durante o arco da nave espacial. <br><br>??? Texto adicional a preencher. | Warrior who falls in battle against the mind flayers during the spaceship arc. <br><br>??? Additional text to be filled. |
+| Proprietário da loja de bugigangas em [Vila de Vauria](vila_de_vauria.md), fonte de itens raros e informações sobre segredos da montanha. | Owner of the trinket shop in [Vauria Village](vila_de_vauria.md), source of rare items and information about mountain secrets. |
 
 ---
 
@@ -44,7 +44,7 @@
 
 ## 🧩 Estatísticas / Stat Block (SRD-Compliant)
 
-**Baltigard (???)**  
+**Old Rasko (???)**  
 *Medium humanoid, ??? alignment*
 
 - **Armor Class:** ???  
@@ -53,9 +53,9 @@
 
 **STR** ??? **DEX** ??? **CON** ??? **INT** ??? **WIS** ??? **CHA** ???  
 **Saving Throws:** ???  
-**Skills:** ???  
+**Skills:** Insight +???, Investigation +???, Persuasion +???  
 **Senses:** passive Perception ???  
-**Languages:** ???  
+**Languages:** Common, ???  
 **Challenge:** ???  
 
 ### Traits

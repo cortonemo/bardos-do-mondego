@@ -4,11 +4,13 @@
 
 | **Português (PT-PT)** | **English (EN-US)** |
 | --------------------- | ------------------- |
-| **📍 Localização:**<br>- Velha Livraria em Lantern Lane, Cidade Livre de Greyhawk | **📍 Location:**<br>- Old Bookstore in Lantern Lane, Free City of Greyhawk |
-| **🏛 Papel / Função:**<br>- Vendedora de livros<br>- Entusiasta de spas | **🏛 Role / Function:**<br>- Bookseller<br>- Spa enthusiast |
-| **🧬 Raça:**<br>- Gnomo | **🧬 Race:**<br>- Gnome |
-| **⚔ Classe:**<br>- Comum (não-combatente) | **⚔ Class:**<br>- Commoner (noncombatant) |
-| **⚖ Alinhamento:**<br>- Caótica Boa | **⚖ Alignment:**<br>- Chaotic Good |
+| **Nome:** Wenla Frott | **Name:** Wenla Frott |
+| **Raça:** Gnomo | **Race:** Gnome |
+| **Classe:** Comum (não-combatente) | **Class:** Commoner (noncombatant) |
+| **Alinhamento:** Caótica Boa | **Alignment:** Chaotic Good |
+| **Profissão:** Livreira excêntrica e entusiasta de spas | **Profession:** Eccentric bookseller and spa enthusiast |
+| **Função:** Fonte caótica de informação e rumores | **Role:** Chaotic source of information and rumors |
+| **Localização:** Velha Livraria em Lantern Lane, Cidade Livre de Greyhawk | **Location:** Old Bookstore in Lantern Lane, Free City of Greyhawk |
 | **Pronomes:** Ela/Dela | **Pronouns:** She/Her |
 
 ---
@@ -34,19 +36,8 @@
 
 ## 🔗 Ligações / Connections
 
-| **Português (PT-PT)** | **English (EN-US)** |
-| --------------------- | ------------------- |
-| Cliente ocasional de Iquander e Neliara, que toleram as suas histórias. Já foi expulsa por Blathine por tentar “catalogar vibrações de chá” nos arquivos. | Occasional client of Iquander and Neliara, who tolerate her stories. Was once thrown out by Blathine for trying to “catalogue tea vibrations” in the archives. |
+| **Português (PT-PT)**                                                                                                                                                                                                             | **English (EN-US)**                                                                                                                                                                                             |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Cliente ocasional de [Iquander](iquander_of_greyhawk.md) e [Neliara](neliara_de_oghma.md), que toleram as suas histórias. Já foi expulsa por [Blathine](sister_blathine.md) por tentar “catalogar vibrações de chá” nos arquivos. | Occasional client of [Iquander](iquander_of_greyhawk.md) and Neliara, who tolerate her stories. Was once thrown out by [Blathine](sister_blathine.md) for trying to “catalogue tea vibrations” in the archives. |
 
 ---
-
-
-
-
-
-
-
-
-
-
-

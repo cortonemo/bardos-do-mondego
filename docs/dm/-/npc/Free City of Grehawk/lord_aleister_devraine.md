@@ -38,13 +38,8 @@
 
 ---
 
-## 🎲 Ganchos de Aventura / Adventure Hooks
 
-| **Português (PT-PT)** | **English (EN-US)** |
-| --------------------- | ------------------- |
-| - Contrata os PCs para recuperar um fragmento roubado.<br>- Solicita avaliação de um ídolo suspeito (como o da Lady Scale).<br>- Oferece conhecimento proibido em troca de favores.<br>- Pode manipular os jogadores em direção a um ritual de convergência. | - Hires the PCs to recover a stolen fragment.<br>- Requests evaluation of a suspicious idol (such as Lady Scale’s).<br>- Offers forbidden knowledge in exchange for favors.<br>- May manipulate the party towards a convergence ritual. |
-
----
+<!-- 🔒 DM-ONLY SECTION BELOW -->
 ## 🧩 Estatísticas / Stat Blocks
 
 ### Base Form — “O Sigilista Silencioso” / “The Silent Sigilist”
@@ -115,8 +110,18 @@ Notables: *Hex, Counterspell, Greater Invisibility, Synaptic Static, Modify Memo
 
 ---
 
+
+## 🎲 Ganchos de Aventura / Adventure Hooks
+
+| **Português (PT-PT)** | **English (EN-US)** |
+| --------------------- | ------------------- |
+| - Contrata os PCs para recuperar um fragmento roubado.<br>- Solicita avaliação de um ídolo suspeito (como o da Lady Scale).<br>- Oferece conhecimento proibido em troca de favores.<br>- Pode manipular os jogadores em direção a um ritual de convergência. | - Hires the PCs to recover a stolen fragment.<br>- Requests evaluation of a suspicious idol (such as Lady Scale’s).<br>- Offers forbidden knowledge in exchange for favors.<br>- May manipulate the party towards a convergence ritual. |
+
+---
 ## 🧑‍💻 DM Notes
 
 | **Português (PT-PT)** | **English (EN-US)** |
 | --------------------- | ------------------- |
 | Devraine deve ser interpretado como **magnético mas ambíguo**. Em forma base é um patrono manipulador, mas limitado. Se reunir fragmentos, pode emergir como o Véu Ressonante — uma entidade lendária obcecada com padrões de destino e ressonância dracónica. É um catalisador narrativo, não apenas um vilão. | Devraine should be played as **magnetic but ambiguous**. In base form he is a manipulative patron, but limited. If he gathers fragments, he may emerge as the Resonant Veil — a legendary entity obsessed with patterns of fate and draconic resonance. He is a narrative catalyst, not merely a villain. |
+
+---

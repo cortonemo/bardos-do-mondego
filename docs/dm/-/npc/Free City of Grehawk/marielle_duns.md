@@ -1,15 +1,15 @@
-# Baltigard
+# Marielle Duns
 
-![Baltigard](docs/assets/npc/npc_blank.png)
+![Marielle Duns](docs/assets/npc/npc_blank.png)
 
 | **Português (PT-PT)** | **English (EN-US)** |
 | --------------------- | ------------------- |
-| **Nome:** Baltigard | **Name:** Baltigard |
+| **Nome:** Marielle Duns | **Name:** Marielle Duns |
 | **Raça:** ??? | **Race:** ??? |
-| **Classe:** Guerreiro ??? | **Class:** Fighter ??? |
+| **Classe:** Curandeira (não-combatente) | **Class:** Healer (noncombatant) |
 | **Alinhamento:** ??? | **Alignment:** ??? |
-| **Profissão / Função:** ??? | **Profession / Role:** ??? |
-| **Localização:** ??? | **Location:** ??? |
+| **Profissão / Função:** Curandeira do Jardim de Greyhawk | **Profession / Role:** Healer from Greyhawk Garden |
+| **Localização:** [Jardim de Greyhawk](jardim_greyhawk.md) | **Location:** [Greyhawk Garden](jardim_greyhawk.md) |
 
 ---
 
@@ -17,7 +17,7 @@
 
 | **Português (PT-PT)** | **English (EN-US)** |
 | --------------------- | ------------------- |
-| Guerreiro que cai em combate contra os mind flayers durante o arco da nave espacial. <br><br>??? Texto adicional a preencher. | Warrior who falls in battle against the mind flayers during the spaceship arc. <br><br>??? Additional text to be filled. |
+| Curandeira famosa do [Jardim de Greyhawk](jardim_greyhawk.md), conhecida pelo seu conhecimento em ervas e poções, e por tratar aventureiros feridos após confrontos no [Museu das Maravilhas](museu_das_maravilhas_naturais_e_arcanas_de_greyhawk.md). | Renowned healer from the [Greyhawk Garden](jardim_greyhawk.md), known for her expertise in herbs and potions, and for treating wounded adventurers after conflicts at the [Museum of Wonders](museu_das_maravilhas_naturais_e_arcanas_de_greyhawk.md). |
 
 ---
 
@@ -44,7 +44,7 @@
 
 ## 🧩 Estatísticas / Stat Block (SRD-Compliant)
 
-**Baltigard (???)**  
+**Marielle Duns (???)**  
 *Medium humanoid, ??? alignment*
 
 - **Armor Class:** ???  
@@ -53,9 +53,9 @@
 
 **STR** ??? **DEX** ??? **CON** ??? **INT** ??? **WIS** ??? **CHA** ???  
 **Saving Throws:** ???  
-**Skills:** ???  
+**Skills:** Medicine +???, Nature +???  
 **Senses:** passive Perception ???  
-**Languages:** ???  
+**Languages:** Common, ???  
 **Challenge:** ???  
 
 ### Traits

@@ -39,6 +39,9 @@
 | - Vive com os pais no **Greenbottle Emporium** em Greyhawk.<br>- Tem tendência a seguir aventureiros como se fossem personagens de uma história.<br>- Parece ter contacto com pessoas pouco recomendáveis, mas mantém isso em segredo. | - Lives with her parents at the **Greenbottle Emporium** in Greyhawk.<br>- Tends to follow adventurers around as if they were storybook characters.<br>- Seems to have some contact with questionable people, but keeps it secret. |
 
 ---
+
+<!-- 🔒 DM-ONLY SECTION BELOW -->
+
 ## 🧩 Estatísticas / Stat Block (SRD-Compliant)
 
 **Aria Greenbottle (Halfling Child, Junior Detective)**  

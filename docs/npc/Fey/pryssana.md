@@ -1,14 +1,14 @@
-# Bareth Lionmane
+Pryssana
 
-![Bareth Lionmane](docs/assets/npc/npc_blank.png)
+![Pryssana](docs/assets/npc/npc_blank.png)
 
 | **Português (PT-PT)** | **English (EN-US)** |
 | --------------------- | ------------------- |
-| **Nome:** Bareth Lionmane | **Name:** Bareth Lionmane |
-| **Raça:** ??? | **Race:** ??? |
-| **Classe:** Paladino ??? | **Class:** Paladin ??? |
+| **Nome:** Pryssana | **Name:** Pryssana |
+| **Raça:** Feérico | **Race:** Fey |
+| **Classe:** ??? | **Class:** ??? |
 | **Alinhamento:** ??? | **Alignment:** ??? |
-| **Profissão / Função:** Caçador do subterrâneo, membro da equipa que persegue Dustin e o grupo | **Profession / Role:** Subterranean hunter, member of the squad tracking Dustin and the party |
+| **Profissão / Função:** Guardiã e instigadora de pactos | **Profession / Role:** Guardian and instigator of pacts |
 | **Localização:** ??? | **Location:** ??? |
 
 ---
@@ -17,7 +17,7 @@
 
 | **Português (PT-PT)** | **English (EN-US)** |
 | --------------------- | ------------------- |
-| Bareth Lionmane é um paladino dos caçadores do subterrâneo, membro da equipa que persegue Dustin e o grupo. <br><br>??? Texto adicional a preencher. | Bareth Lionmane is a paladin of the subterranean hunters, part of the squad tracking Dustin and the party. <br><br>??? Additional text to be filled. |
+| Ser feérico enigmático, protetora e, por vezes, antagonista de [Dustin](pc_dustin_thorne.md). Tem papel fundamental na libertação do protagonista e em eventos sobrenaturais envolvendo magia das fadas e pactos antigos. | Enigmatic fey, both protector and sometimes antagonist of [Dustin](pc_dustin_thorne.md). Plays a crucial role in the protagonist’s liberation and in supernatural events involving faerie magic and ancient pacts. |
 
 ---
 

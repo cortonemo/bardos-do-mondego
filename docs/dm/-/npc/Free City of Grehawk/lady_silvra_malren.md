@@ -1,6 +1,6 @@
 # Lady Silvra Malren
 
-![npc_blank](assets/npc/npc_blank.png)
+![Lady Silvra Malren](assets/npc/npc_blank.png)
 
 | **Português (PT-PT)** | **English (EN-US)** |
 | --------------------- | ------------------- |
@@ -23,6 +23,27 @@
 
 ---
 
+## 🎭 Personalidade / Personality
+
+| **Português (PT-PT)** | **English (EN-US)** |
+| --------------------- | ------------------- |
+| **Etiquetas:** Postura impecável, ar etéreo, imprevisível.<br>Diz “purificar” em vez de “consertar”.<br>Vê rituais de spa como ritos religiosos. | **Tags:** Poised, airy, unpredictable.<br>Says “cleansing” instead of “fixing.”<br>Sees spa rituals as religious rites. |
+| **Ideais:** O conhecimento deve servir o bem comum. | **Ideals:** Knowledge should serve the common good. |
+| **Vínculos:** A sua casa nobre e a Universidade de Artes Mágicas. | **Bonds:** Her noble house and the University of Magical Arts. |
+| **Medos:** Que o nome Malren seja manchado por corrupção ou guerra. | **Fears:** That the Malren name be stained by corruption or war. |
+
+---
+
+## 🔗 Ligações / Connections
+
+| **Português (PT-PT)** | **English (EN-US)** |
+| --------------------- | ------------------- |
+| Mantém boas relações com Iquander e Neliara de Oghma, sendo mecenas de alguns dos seus trabalhos. Rivaliza politicamente com Lorde Aleister Devraine, preferindo soluções diplomáticas a demonstrações de força. Conheceu Devraine nos seus tempos de golpes e, por ele, soube onde contratar aventureiros para investigar o spa herdado. | Maintains good relations with Iquander and Neliara de Oghma, patron of some of their work. Politically rivals Lord Aleister Devraine, preferring diplomacy over shows of force. She knew Devraine in his younger heist days and learned from him where to hire adventurers to investigate her inherited spa. |
+
+---
+
+<!-- 🔒 DM-ONLY SECTION BELOW -->
+
 ## 🧩 Estatísticas / Stat Block (SRD-Compliant)
 
 **Lady Silvra Malren (High Elf Diviner, Aristocrat)**  
@@ -32,12 +53,12 @@
 - **Hit Points:** 27 (6d8)  
 - **Speed:** 30 ft.  
 
-STR 9 (−1) DEX 13 (+1) CON 12 (+1) INT 14 (+2) WIS 11 (+0) CHA 16 (+3)  
+**STR** 9 (−1) **DEX** 13 (+1) **CON** 12 (+1) **INT** 14 (+2) **WIS** 11 (+0) **CHA** 16 (+3)  
 
-**Skills** Persuasion +5, Arcana +4, Insight +2  
-**Senses** darkvision 60 ft., passive Perception 10  
-**Languages** Common, Elvish, Draconic  
-**Challenge** CR 1 (200 XP)  **Proficiency Bonus** +2  
+**Skills:** Persuasion +5, Arcana +4, Insight +2  
+**Senses:** darkvision 60 ft., passive Perception 10  
+**Languages:** Common, Elvish, Draconic  
+**Challenge:** CR 1 (200 XP) **Proficiency Bonus:** +2  
 
 ### Traits
 - **Noble Bearing.** Advantage on Charisma (Persuasion) checks in courtly settings.  
@@ -48,17 +69,6 @@ STR 9 (−1) DEX 13 (+1) CON 12 (+1) INT 14 (+2) WIS 11 (+0) CHA 16 (+3)
 
 ### Actions
 - **Dagger.** *Melee or Ranged Weapon Attack:* +3 to hit, reach 5 ft. or range 20/60 ft., *Hit:* 3 (1d4+1) piercing.
-
----
-
-## 🎭 Personalidade / Personality
-
-| **Português (PT-PT)** | **English (EN-US)** |
-| --------------------- | ------------------- |
-| **Etiquetas:** Postura impecável, ar etéreo, imprevisível.<br>Diz “purificar” em vez de “consertar”.<br>Vê rituais de spa como ritos religiosos. | **Tags:** Poised, airy, unpredictable.<br>Says “cleansing” instead of “fixing.”<br>Sees spa rituals as religious rites. |
-| **Ideais:** O conhecimento deve servir o bem comum. | **Ideals:** Knowledge should serve the common good. |
-| **Vínculos:** A sua casa nobre e a Universidade de Artes Mágicas. | **Bonds:** Her noble house and the University of Magical Arts. |
-| **Medos:** Que o nome Malren seja manchado por corrupção ou guerra. | **Fears:** That the Malren name be stained by corruption or war. |
 
 ---
 
@@ -79,14 +89,6 @@ STR 9 (−1) DEX 13 (+1) CON 12 (+1) INT 14 (+2) WIS 11 (+0) CHA 16 (+3)
 
 ---
 
-## 🔗 Ligações / Connections
-
-| **Português (PT-PT)** | **English (EN-US)** |
-| --------------------- | ------------------- |
-| Mantém boas relações com Iquander e Neliara de Oghma, sendo mecenas de alguns dos seus trabalhos. Rivaliza politicamente com Lorde Aleister Devraine, preferindo soluções diplomáticas a demonstrações de força. Conheceu Devraine nos seus tempos de golpes e, por ele, soube onde contratar aventureiros para investigar o spa herdado. | Maintains good relations with Iquander and Neliara de Oghma, patron of some of their work. Politically rivals Lord Aleister Devraine, preferring diplomacy over shows of force. She knew Devraine in his younger heist days and learned from him where to hire adventurers to investigate her inherited spa. |
-
----
-
 ## 🎲 Ganchos de Aventura / Adventure Hooks
 
 | **Português (PT-PT)** | **English (EN-US)** |
@@ -97,8 +99,8 @@ STR 9 (−1) DEX 13 (+1) CON 12 (+1) INT 14 (+2) WIS 11 (+0) CHA 16 (+3)
 
 ## 🧑‍💻 DM Notes
 
-- Silvra is an **entry-hook NPC** for *Idol of Lady Scale* — she hires the party to investigate “her” inherited spa.  
-- Lean into her **eccentric mysticism**: she treats spa rituals as sacred rites and steam as divine omens.  
-- Works as a **foil to Aleister Devraine** (her diplomacy vs. his pragmatism).  
-- Not built for combat — best used as **quest giver, eccentric roleplay foil, and source of cryptic foreshadowing**.  
-- In Foundry VTT, import as a **CR 1 noncombatant Diviner/Aristocrat**.  
+| **Português (PT-PT)** | **English (EN-US)** |
+| --------------------- | ------------------- |
+| Silvra é um **NPC de entrada** para o arco do *Ídolo da Lady Scale* — é ela quem contrata o grupo para investigar o spa herdado. Deve ser interpretada com **misticismo excêntrico**, tratando rituais de spa como ritos sagrados e o vapor como presságio divino. Funciona como **contraponto a Aleister Devraine** (a sua diplomacia contra o pragmatismo dele). Não é construída para combate — usar como **quest giver, excêntrica para roleplay e fonte de presságios crípticos**. Em Foundry VTT, importar como **CR 1 não-combatente, Diviner/Aristocrata**. | Silvra is an **entry-hook NPC** for the *Idol of Lady Scale* arc — she hires the party to investigate the spa she inherited. Play up her **eccentric mysticism**, treating spa rituals as sacred rites and steam as divine omens. Serves as a **foil to Aleister Devraine** (her diplomacy vs. his pragmatism). Not built for combat — best used as a **quest giver, eccentric roleplay foil, and source of cryptic foreshadowing**. In Foundry VTT, import as a **CR 1 noncombatant Diviner/Aristocrat**. |
+
+---

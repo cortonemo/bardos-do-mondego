@@ -1,14 +1,14 @@
-# Baltigard
+# Pryssana
 
-![Baltigard](docs/assets/npc/npc_blank.png)
+![Pryssana](docs/assets/npc/npc_blank.png)
 
 | **Português (PT-PT)** | **English (EN-US)** |
 | --------------------- | ------------------- |
-| **Nome:** Baltigard | **Name:** Baltigard |
-| **Raça:** ??? | **Race:** ??? |
-| **Classe:** Guerreiro ??? | **Class:** Fighter ??? |
+| **Nome:** Pryssana | **Name:** Pryssana |
+| **Raça:** Feérico | **Race:** Fey |
+| **Classe:** ??? | **Class:** ??? |
 | **Alinhamento:** ??? | **Alignment:** ??? |
-| **Profissão / Função:** ??? | **Profession / Role:** ??? |
+| **Profissão / Função:** Guardiã e instigadora de pactos | **Profession / Role:** Guardian and instigator of pacts |
 | **Localização:** ??? | **Location:** ??? |
 
 ---
@@ -17,7 +17,7 @@
 
 | **Português (PT-PT)** | **English (EN-US)** |
 | --------------------- | ------------------- |
-| Guerreiro que cai em combate contra os mind flayers durante o arco da nave espacial. <br><br>??? Texto adicional a preencher. | Warrior who falls in battle against the mind flayers during the spaceship arc. <br><br>??? Additional text to be filled. |
+| Ser feérico enigmático, protetora e, por vezes, antagonista de [Dustin](pc_dustin_thorne.md). Tem papel fundamental na libertação do protagonista e em eventos sobrenaturais envolvendo magia das fadas e pactos antigos. | Enigmatic fey, both protector and sometimes antagonist of [Dustin](pc_dustin_thorne.md). Plays a crucial role in the protagonist’s liberation and in supernatural events involving faerie magic and ancient pacts. |
 
 ---
 
@@ -44,18 +44,18 @@
 
 ## 🧩 Estatísticas / Stat Block (SRD-Compliant)
 
-**Baltigard (???)**  
-*Medium humanoid, ??? alignment*
+**Pryssana (Fey ???)**  
+*Medium fey, ??? alignment*
 
 - **Armor Class:** ???  
 - **Hit Points:** ???  
-- **Speed:** 30 ft.  
+- **Speed:** 30 ft., fly ??? ft.  
 
 **STR** ??? **DEX** ??? **CON** ??? **INT** ??? **WIS** ??? **CHA** ???  
 **Saving Throws:** ???  
-**Skills:** ???  
-**Senses:** passive Perception ???  
-**Languages:** ???  
+**Skills:** Arcana +???, Insight +???, Deception +???  
+**Senses:** darkvision ??? ft., passive Perception ???  
+**Languages:** Sylvan, Common, ???  
 **Challenge:** ???  
 
 ### Traits
