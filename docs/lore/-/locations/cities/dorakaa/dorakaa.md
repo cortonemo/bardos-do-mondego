@@ -1,4 +1,4 @@
-﻿# Dorakaa "The City of Skulls"
+# Dorakaa "The City of Skulls"
 *Dorakaa "A Cidade das Caveiras"*
 
 *![Dorakaa|150](assets/location/coat_of_arms_dorakaa.jpeg)

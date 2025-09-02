@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/pc/-/fichas icompletas/pc_wandering_sage.md",
+                "file": "docs/lore/-/locations/cities/dorakaa/dorakaa.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -23,12 +23,12 @@
                   "sortOrder": "alphabetical",
                   "showSearch": false,
                   "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": false
+                  "backlinkCollapsed": true,
+                  "unlinkedCollapsed": true
                 }
               },
               "icon": "lucide-file",
-              "title": "pc_wandering_sage"
+              "title": "dorakaa"
             }
           }
         ]
@@ -178,6 +178,15 @@
   },
   "active": "c334f2552873dd72",
   "lastOpenFiles": [
+    "docs/pc/-/pc_kai.md",
+    "docs/lore/-/locations/cities/dorakaa/dorakaa.md",
+    "docs/lore/-/locations/cities/Iuz/iuz.md",
+    "docs/lore/-/locations/cities/Iuz",
+    "docs/pc/-/pc_eirwen.md",
+    "docs/pc/-/pc_dustin_thorne.md",
+    "docs/pc/-/pc_drayl_bharash.md",
+    "docs/pc/-/pc_conan_barbaro_ra.md",
+    "docs/pc/-/fichas icompletas/pc_wandering_sage.md",
     "docs/pc/-/fichas icompletas/pc_tabasco_de_lumeiros.md",
     "docs/pc/-/fichas icompletas/pc_silfir.md",
     "docs/pc/-/fichas icompletas/pc_orianna.md",
@@ -185,26 +194,18 @@
     "docs/pc/-/fichas icompletas/pc_lucian_vyrolyn.md",
     "docs/pc/-/fichas icompletas/pc_gauthak_vunakamune.md",
     "docs/pc/-/fichas icompletas/pc_friedrick_junsi.md",
-    "docs/pc/-/pc_kai.md",
     "docs/pc/-/fichas icompletas/pc_flynn.md",
     "docs/pc/-/fichas icompletas/pc_endovan_bomsossego.md",
     "docs/pc/-/fichas icompletas/pc_bok_thunderfist.md",
     "docs/pc/-/fichas icompletas/pc_asinius.md",
     "docs/pc/-/fichas icompletas/pc_arkos_vasell.md",
     "docs/pc/-/pc_silfir.md",
-    "docs/pc/-/fichas icompletas/pc_wandering_sage.md",
     "docs/pc/-/fichas icompletas 1/pc_markus_grimm 1.md",
     "docs/pc/-/fichas icompletas 1/pc_markus_grimm.md",
     "docs/pc/-/fichas icompletas 1/pc_eldric_silvanus.md",
-    "docs/pc/-/pc_conan_barbaro_ra.md",
     "docs/pc/-/pc_zeldris.md",
     "docs/pc/-/fichas icompletas",
     "docs/dm/-/pc/fichas icompletas/pc_wandering_sage.md",
-    "docs/dm/-/pc/fichas icompletas/pc_tabasco_de_lumeiros.md",
-    "docs/dm/-/pc/fichas icompletas/pc_silfir.md",
-    "docs/dm/-/pc/fichas icompletas/pc_orianna.md",
-    "docs/dm/-/pc/fichas icompletas/pc_markus_grimm.md",
-    "docs/dm/-/pc/fichas icompletas/pc_markus_grimm 1.md",
     "docs/dm/-/pc/fichas icompletas",
     "docs/assets/pc/pc_wandering_sage.png",
     "docs/assets/pc/pc_silfir.png",
@@ -222,7 +223,6 @@
     "docs/npc/Ruined castle",
     "docs/dm/-/npc/Ruined castle",
     "docs/npc/Underdark Paladin",
-    "docs/dm/-/npc/Underdark Paladin",
-    "docs/npc/Eclipse Tower"
+    "docs/dm/-/npc/Underdark Paladin"
   ]
 }
