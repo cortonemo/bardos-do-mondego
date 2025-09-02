@@ -1,0 +1,154 @@
+1
+One-Shot: As Máscaras da Morte
+
+Intro
+Taberneiro:
+Tivemos noticias que a norte este daqui existe uma vila comercial, Mistwood.
+É uma das peças finais do puzzle,com esta informação poderemos finalmente triangular onde estamos neste mundo e tomar as medidas necessárias para abrir comércio com outros locais e recrutar aliados e parcerias mais poderosas.
+
+2 dias de viagem, encontram uma clareira.noite.turno vaunia
+O Primeiro Chamado
+Na clareira oculta onde as árvores se entrelaçam como uma catedral natural, Vaunia, a jovem ranger, ajoelhava-se sobre o musgo úmido. A luz da lua cheia escorre pelas folhas, pintando padrões prateados ao seu redor. A brisa carrega  aromas de pinho e terra fresca, mas em no teu coração existe uma sensação de vazio, um peso que não consegues sacudir, mesmo neste momento de concentração.
+Há algo nos cantos mais profundos da tua mente que insiste em sussurrar. Rostos, vozes, fragmentos de emoções que não consegues recordar totalmente. Os nomes de Manvea e Aurkan aparecem como ecos longínquos de um passado que parece feito de névoa. Por mais que tentes, Vaunia não consegues visualizar claramente as feições dos seus antigos companheiros, nem lembrar os momentos que viveram juntos
+Mas a sensação de perda é inconfundível — um buraco na tua alma, onde uma parte dela mesma parecia ter sido arrancada.
+O pior de tudo no entanto é que  às vezes parecia que algo os chama, ou algo que os representa vagueia pelas sombras, silencioso, indescritível. Essa presença deixa uma inquietação persistente no teu  peito, como se um fio invisível te puxa para lugares que nuca visitas te 
+
+Nas mãos de Vaunia, um pedaço de madeira entalhado com runas rústicas — o único presente que tens do teu pai. Recordas que uma vez ele disse que  o vínculo com um companheiro animal era tanto uma necessidade quanto uma escolha para aqueles que seguiam o Caminho da Naturez.Recordas, dias antes, como ver o Kobold se sacrificar te recordou que és forte, mas até mesmo tu precisas de de algo mais. Um aliado. Um laço inquebrável.
+Concentras te. Em que forma te concentras?
+Guiada por um instinto ancestral, Vaunia começou a recitar palavras em um idioma antigo, mal compreendido. A floresta parece reagir. As folhas deixam de murmurar, o vento estagna, e até os insetos silenciam , como se algo maior estivesse prestes a acontecer.
+Subitamente, uma brisa levanta folhas e poeira ao teu  redor. As sombras das árvores pareceram se estender, e o amuleto no círculo rústico começa a brilhar com uma luz suave. No centro do círculo, um pequeno redemoinho de energia forma-se, carregado com partículas de luz dourada e esmeralda, dançando como uma chama calma.
+A sensação no peito de Vaunia  torna-se ainda mais intensa. Não é apenas o ritual. Aquele buraco, aquela falta que carregas há tanto tempo, parece arder mais forte do que nunca, como se algo — ou alguém — finalmente estivesse a se mover para preenchê-lo.
+Do redemoinho, uma forma começa a surgir. Gradualmente, os contornos de um animal toma forma: um lobo de pelagem espessa e cinzenta, maior do que um lobo comum, os seus olhos a brilhar com uma luz inteligente e selvagem. Ao revelar-se completamente, ele avançou lentamente em direção a Vaunia, parando a poucos passos de distância.
+Olhas nos olhos do lobo, e naquele momento, uma conexão forma-se — uma ponte silenciosa que une os seus corações e mentes. Dentro daquele vínculo, sentes algo inexplicável: não apenas o poder de um novo aliado, mas um eco distante, uma reminiscência perdida que ela não podia alcançar completamente.
+o que queres dizer?
+O lobo inclina a cabeça ligeiramente, como se entendesse cada palavra. Então, solta um uivo baixo, que ecoa pela clareira como um canto antigo. Vaunia sente o vazio na sua mente pulsar, não preenchido, mas menos pesado, menos solitário.
+ele aninha se aos teus pés.a noite fica menos fria.
+
+Chegada a Mistwood
+Descrição da Vila:
+A vila parece intacta à primeira vista.
+
+
+Pessoas estão nas ruas, trabalhando em bancas de mercado ou a arrumar ferramentas.
+Há risadas e conversas vindas da taverna local.
+Percepção (CD 14):
+
+
+Os moradores agem de forma robótica e repetitiva, como se seguissem um script.
+Arcanismo ou Religião (CD 13):
+
+
+Uma sensação pesada de necromancia permeia o ar, embora nada seja imediatamente visível.
+
+Primeira Interação
+Os habitantes da vila são amigáveis ao primeiro contato, mas evitam responder perguntas sobre acontecimentos recentes ou estranhezas.
+Qualquer tentativa de interagir com mais profundidade (Persuasão ou Intimidação, CD 15) falha, pois os aldeões começam a agir de forma estranha, desviando ou rindo sem motivo.
+Teste de Sabedoria (CD 13):
+Um personagem percebe que algo não está certo – não há sons naturais (insetos, pássaros) na vila.
+
+Encontros na Vila
+1. A Ilusão Começa a Cair
+Local: A Taverna "Última Folha"
+Dentro, jogadores encontram habitantes bebendo e conversando, mas Percepção (CD 15) revela:
+
+
+As canecas nunca chegam aos lábios, os gestos são vazios, como atores em uma peça mal ensaiada.
+Um habitante se descontrola subitamente, revelando sua verdadeira forma: um zumbi com carne pútrida e um olho faltando. Outros aldeões logo perdem a ilusão e atacam.
+
+
+Combate:
+5 Zumbis (aldeões infectados).
+
+
+2. A Capela Profanada
+Ao sair da taberna conseguem ver uma luz vinda da pequena capela local.
+a praça está vazia e um nevoeiro raso agarra se aos vossos pes.
+Local: Uma pequena capela, outrora dedicada a Pelor, foi convertida em um altar para Nerull.
+Investigação ou Religião (CD 13): Evidências de sacrifícios macabros – sangue seco e símbolos esculpidos no chão.
+mais de 15, simbolo de wee jas
+O altar a Nerull, o Deus da Morte, apresenta uma aura sombria. numa plataforma elevada de pedra negra desgastada, o altar é adornado com símbolos de caveiras entrelaçadas e foices, representando o domínio de Nerull sobre o fim da vida.
+No topo,podem ver que a estatua que em tempos seria a pelor, agora foi profanada ate ser uma  estátua de Nerull, um esqueleto envolto em um manto escuro e gasto, segurando uma foice cujas lâminas brilham fracamente com uma luz vermelha sinistra. A figura parece quase viva, como se os olhos ocos seguissem cada movimento de quem se aproxima.
+Velas de cera preta, algumas parcialmente derretidas, cercam o altar, exalando um odor estranho de ervas queimadas. Entre elas, tigelas ritualísticas contêm cinzas e restos de ossos carbonizados, testemunhas de sacrifícios antigos realizados em homenagem ao deus. 
+Pequenos pergaminhos de orações, com textos num  idioma antigo e ilegível para muitos, repousam ao lado de punhais rituais e colares de caveiras humanas e animais.
+Atrás do altar, uma tapeçaria desgastada retrata uma paisagem desolada e morta, com figuras rastejando em direção a uma sombra encapuzada com uma foice, simbolizando a inevitabilidade da morte que Nerull personifica.
+ O ar ao redor do altar é denso, frio, e parece carregar um peso quase palpável, 
+Uma figura está ajoelhada no altar, de costas viradas para vocês.
+Um teste de Sabedoria (CD 14) evita ser enganado.
+Se falharem, os jogadores sofrem uma emboscada de 6 Esqueletos escondidos.
+A figura é uma shade, que está presa a este local enquanto o altar tiver funcional.mal seja destruido ela desaparece 
+a figura conta como primeiro o rio ficou com uma cor e sabor estranho e depois como fungos começaram a aparecer e aos poucos a vial inteira sucumbiu para a loucura e morte. 
+este era o antigo padre de pelor da vila. já não se lembra do seu nome.
+
+
+
+A Interação entre Wee Jas e seu Warlock
+Ali, em meio à quietude espectral, markus tu ponderas sobre a Senhora da Magia e da Morte, Wee Jas.
+Recordaste do que aprendeste na biblioteca, a muito custo.
+todos voces mal se lembram de o ter visto nessa semana..sempre a volta dos liros, sempre a estudar.
+De repente  uma névoa rubra começa a surgir, envolvendo a sala com um brilho pálido e frio.
+Uma mulher de beleza imponente e aterradora, com cabelos negros que fluíam como um rio noturno e olhos ardentes de um vermelho profundo, brilhando como brasas, está á tua frente,  trajando um manto cerimonial adornado com runas arcanas pulsantes, e um broche com a forma de uma caveira coroada prendia o tecido sobre o peito.
+"Meu fiel, Markus," diz ela, a sua voz rica e melódica, mas permeada por uma frieza distante. "Chamas por mim com fervor e curiosidade, buscando os segredos que envolvem minha essência. Não é algo comum, vindo de ti, que não és nem estudioso, nem dedicado aos estudos profundos da magia."
+
+Wee Jas inclina a cabeça, os olhos fixos no mortal. "Curioso que busques a minha orientação, especialmente para algo tão mundano quanto um templo a Pelor. Mas vejo em ti um brilho raro: uma determinação sem ego, um fervor genuíno. Muitos desejam meus segredos para poder, mas tu os desejas porque ansiavas compreender o que é incompreensível. E é por isso que te ouço."
+Dando um passo em direção a ele, a atmosfera torna-se ainda mais pesada, mas não opressora. Uma corrente de energia percorreu o ar, como se as palavras dela fossem gravadas na própria realidade ao redor.
+"A corrupção no templo de Pelor é uma afronta às forças que equilibram este mundo. Não porque o Sol merece salvação, mas porque a desordem bruta do culto do Mal Elemental perturba as correntes do equilíbrio que mantenho." Ela ergue a mão e pequenos símbolos arcanos começaram a flutuar no ar, rodopiando ao redor do warlock.
+"Usarás isso a teu favor," ela continuou. "Canaliza minha força sobre os focos do culto. Desfaze os altares, e onde encontraste abismo, plantas minha runa. Com isso, restaurarás a ordem àquela terra, não em nome de Pelor, mas em nome do ciclo correto que deve prevalecer."
+Wee Jas sorriu levemente, um gesto enigmático, e abaixou-se até ficar no nível do warlock, seus olhos vermelhos ardendo enquanto ela tocava a fronte dele.
+"Nunca te esqueças, mortal: aprender sobre mim é como contemplar a morte e a magia em si mesma. Um caminho sem fim, uma dança eterna entre o controle e o desconhecido. Mas aqueles que ousam explorar esse domínio raramente saem do mesmo jeito que entraram. Esta será a tua prova, meu pupilo. Faças bom uso do conhecimento que te concedo."
+E com isso, a deusa desfaz se em milhares de motes de luz escarlate, cada um iluminando por um momento a mente de markus com novos vislumbres dos mistérios arcanos e sombrios da Senhora do Ciclo. 
+3. Enfrentando o Clérigo de Nerull
+Local: A Praça Central
+O Clérigo, um líder do Culto do Mal Elemental, aparece junto a seu guarda-costas, um Gigante Bone Golem construído com os restos mortais dos aldeões.
+hahaha, diz uma figura saindo das sombras…
+Bem vindos ao meu pequeno..feudo.
+Esta aldeia fofinha que transformei no meu recreio e laboratório vivo…
+Á vossa frente está uma humanoide alta, com uma estatura poderosa,apoiada numa foice, cara coberta por uma mascara de morte prateada.Uum vestido vermelho e rasgado agarra se a sua forma enquanto os seus cabelos voam num vento que so a ela afeta.
+Aos seus pes ossos,que voces deduzem serem de duzias de criaturas, começam a se acumular ea formar uma criatura gigante e monstruosa ffeita das partes de antigos cidadãos desta vila..das sombras, de tras das bancadas de comida putrefacta saem zombies e criaturas varias, umas a rastejar outras a andar
+Nome:
+Morvanya (do élfico fictício, significa "sombra negra").
+
+70 vida
+sem 3 level spells
+dc 14
+ac 16
+
+Monólogos sobre como Mistwood se tornou um experimento perfeito: transformar sofrimento em poder para Nerull.
+golen de osso
+https://www.5esrd.com/database/creature/golem-bone/
+
+
+
+O Encontro no Reino Onírico - 2 turno
+Grix uma pressão na tua cabeça ameaça te deixar inconsciente.
+Rola constituição saving trow:
+- dc 15 - nao desmaia, menos desmaia - ate falhar, round seguinte?
+Grix, o warlock, encontra-se num vasto campo ondulante, coberto por um tapete de ervas brilhantes e flores que pareciam feitas de luz líquida. Árvores translúcidas com folhas cintilantes como cristais balançam sem vento, as suas copas emitindo um murmúrio suave, como se sussurrassem segredos milenares. O céu acima é um caleidoscópio de cores vivas em constante movimento, pinceladas de dourado, roxo e prateado que se entrlaçam, numa dança eterna.
+. Pássaros de asas etéreas e criaturas míticas fazem as suas danças silenciosas nos céus.
+Ao longe, uma ponte feita de névoa sólida leva a um pavilhão flutuante de mármore, cercado por vinhas floridas e banhado por uma luz dourada que parece emanar da própria alma do lugar.
+ Sob esta estrutura imponente, Egalar, o paladino de Titania, espera.
+Egalar brilhava como um farol na paisagem onírica, o seu semblante uma mistura de seriedade e compaixão. Veste uma armadura prateada que reflete o céu iridescente, e as suas vestes exalam um perfume fresco de primavera. Na sua mão esquerda, segura um cajado esculpido em madeira viva, de onde Brotam flores selvagens que desabrocham e murcham num ciclo eterno.
+“Saudações, Grix,” disse Egalar, sua voz tão suave quanto um riacho sussurrante,  “Finalmente, nossos destinos se cruzam sob o olhar benevolente de Titania.”
+diz nesse tom cheio da força autoritária de quem fala em nome de uma soberana suprema.
+
+
+Egalar esboçou um leve sorriso e ergue o cajado de flores, que brilha intensamente por um momento. “A Rainha das Fadas, em sua infinita sabedoria e graça, escolheu olhar para ti, Grix. Embora teu caminho tenha estado sob sombras, Titania reconhece a chama vacilante da redenção dentro de ti.”
+Dando passo à frente, encarando Grix com olhos profundos e verdes como um bosque inexplorado. “A missão é simples, mas o desafio será teu: com este cajado, serás capaz de transformar o altar de Nerull em um altar sagrado à Rainha Titania. A terra infectada será purificada. Onde a morte se enraizou, vinhas e flores brotarão, prendendo os mortos em correntes de vida renovada.A cada vinhedo e flor que se erguer, a mensagem será clara: onde a luz da primavera toca, nem mesmo a sombra da morte prospera.”
+E acordas.
+
+
+
+Entrada de Diário de uma Acólita de Nerull
+24º Dia da Lua Negra
+A glória de Nerull se aproxima, mas nosso trabalho ainda é longo e exigirá sacrifícios. A praga fúngica em Mistwood foi apenas o começo de uma campanha maior. 
+A nossa missão é clara: levar a dádiva de Nerull a Erybend e às cidades próximas. O caos será a nossa ferramenta, e a morte, nosso triunfo.
+O sucesso deste fungo que encontrámos na nave das estrelas prova que estamos no bom caminho e a justeza das nossas acções.
+Borogrove, o maldito treant, será um obstáculo que não podemos ignorar. Ele deve cair. Antes, porém, é necessário eliminar o druida que o protege. Sem aquele tolo, o treant será vulnerável. Apenas então avançaremos com força total.
+Os goblins já estão prontos para iniciar os preparativos nas terras próximas a Two Fords. Eles aguardam a minha palavra.
+As minas do norte precisarão ser purificadas para que nossos trabalhos de arqueologia sejam concluídos. Contudo, precisamos ser astutos. 
+Não devemos atrair a ira dos seguidores de Beltar. Apesar da nossa frágil aliança, eles continuam sendo peças úteis no jogo maior.
+Aeltor... o tolo, mais uma vez, representa um desafio. Precisamos que ele cumpra sua parte, limpando o Vale Sombrio e domando as potentes magias que de lá emanam. Se ele falhar, todo o cronograma será prejudicado.
+A minha paciência com o casal na Mansão Blackfrair está no limite. O tolo do nobre e a sua  consorte drow dedicam-se a Nerull, mas sua lentidão atrasa nos de maneira insuportável. Se não acelerarem os preparativos, serei forçada a intervir, mesmo que isso cause rupturas internas. A grandeza de Nerull não pode ser adiada por vaidades mesquinhas ou incompetência.
+Falta selar ainda a alinaça com os selvagens goliath do norte..as tribos da montanha serão uma adição valiosa ao Culto do Mal elemental.
+No entanto terei de eliminar a resistencia interna que alguns apresenta,.
+Quando esses desafios forem superados, nada impedirá o avanço da morte divina de Nerull sobre este mundo. Que ele guie nossos passos nas sombras e nos conceda a força para ceifar todos aqueles que resistirem.
+— Acólita Morvanya, Serva da Foice Eterna.

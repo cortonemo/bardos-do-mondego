@@ -1,0 +1,91 @@
+Os aventureiros são chamados à vila de High Ery, para resolver um mistério: todas as semanas, vagas de aldeões e trabalhadores de todos os sítios, dão entrada na enfermaria, inconscientes. Foram mandados lá para descobrir o que se passa e o que está a causar este desaforo. Há suspeitas do hidromel da taberna local (Taberna do Sô Paulo) estar envenenado ou impróprio para consumo, pois a maioria dos afetados, vêm de lá.
+
+1ª sessão: a caminho de High Ery
+Às portas da vila, os aventureiros encontram um acampamento de mercadores viajantes (maioria deles, de queijo e laticínios). Reportam que, apesar de não terem conseguido oficializar nenhuma venda de produto (devido à monopolização do mercado por parte do Sr. Henrique), têm de regressar às suas terras, pois perderam toda ou quase toda a sua mercadoria.
+Investigation checks para perceber o que fez o queijo desaparecer:
+Menos de 10 - nada
+10 a 15 - migalhas de queijo e pegadas pequeninas
+15 e acima - migalhas de queijo mordiscadas e múltiplas pegadas pequeninas de ratos
+
+Combate com Swarm of Rats, durante o anoitecer. Todos aqueles que não têm resistência a sleep magic, adormecem.
+Sleep
+Level 1 Enchantment (Bard, Sorcerer, Wizard)
+Casting Time: Action
+Range: 60 feet
+Components: V, S, M (a pinch of sand or rose petals)
+Duration: Concentration, up to 1 minute
+Each creature of your choice in a 5-foot-radius Sphere centered on a point within range must succeed on a Wisdom saving throw or have the Incapacitated condition until the end of its next turn, at which point it must repeat the save. If the target fails the second save, the target has the Unconscious condition for the duration. The spell ends on a target if it takes damage or someone within 5 feet of it takes an action to shake it out of the spell’s effect.
+Creatures that don’t sleep, such as elves, or that have Immunity to the Exhaustion condition automatically succeed on saves against this spell.
+
+
+Incapacitated [Condition]
+While you have the Incapacitated condition, you experience the following effects.
+Inactive. You can’t take any action, Bonus Action, or Reaction.
+No Concentration. Your Concentration is broken.
+Speechless. You can’t speak.
+Surprised. If you’re Incapacitated when you roll Initiative, you have Disadvantage on the roll.
+
+Unconscious [Condition]
+While you have the Unconscious condition, you experience the following effects.
+Inert. You have the Incapacitated and Prone conditions, and you drop whatever you’re holding. When this condition ends, you remain Prone.
+Speed 0. Your Speed is 0 and can’t increase.
+Attacks Affected. Attack rolls against you have Advantage.
+Saving Throws Affected. You automatically fail Strength and Dexterity saving throws.
+Automatic Critical Hits. Any attack roll that hits you is a Critical Hit if the attacker is within 5 feet of you.
+Unaware. You’re unaware of your surroundings.
+
+Swarm of Rats
+Medium Swarm of Tiny Beasts, Unaligned
+AC 10 Initiative +0 (10)
+HP 14 (4d8 − 4)
+Speed 30 ft., Climb 30 ft.
+
+
+
+
+Mod
+Save
+Str
+9
+−1
+−1
+Dex
+11
++0
++2
+Con
+9
+−1
+−1
+
+
+
+
+
+
+Mod
+Save
+Int
+2
+−4
+−4
+Wis
+10
++0
++0
+Cha
+3
+−4
+−4
+
+Resistances Bludgeoning, Piercing, Slashing
+Immunities Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned
+Senses Darkvision 30 ft.; Passive Perception 10
+Languages None
+CR 1/4 (XP 50; PB +2)
+Traits
+Swarm. The swarm can occupy another creature’s space and vice versa, and the swarm can move through any opening large enough for a Tiny rat. The swarm can’t regain Hit Points or gain Temporary Hit Points.
+Actions
+Bites. Melee Attack Roll: +2, reach 5 ft. Hit: 5 (2d4) Piercing damage, or 2 (1d4) Piercing damage if the swarm is Bloodied.
+Bloodied
+A creature is Bloodied while it has half its Hit Points or fewer remaining.

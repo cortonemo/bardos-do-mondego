@@ -18,7 +18,7 @@
 
 | **Português (PT-PT)** | **English (EN-US)** |
 | --------------------- | ------------------- |
-| **Descrição:** Alto-Inquisidor e principal antagonista no arco do cativeiro de [Dustin](pc_dustin_thorne.md) na [Câmara dos Caídos](ruinas_do_forte_da_casa_vanthir.md). Notório pelo fanatismo, crueldade e habilidades de tortura e manipulação mental. | **Description:** High Inquisitor and main antagonist in the [Dustin](pc_dustin_thorne.md) captivity arc at the [Chamber of the Fallen](ruinas_do_forte_da_casa_vanthir.md). Known for fanaticism, cruelty, and skills in torture and mental manipulation. |
+| **Descrição:** Alto-Inquisidor e principal antagonista no arco do cativeiro de [Dustin](docs/dm/-/pc/pc_dustin_thorne.md) na [Câmara dos Caídos](ruinas_do_forte_da_casa_vanthir.md). Notório pelo fanatismo, crueldade e habilidades de tortura e manipulação mental. | **Description:** High Inquisitor and main antagonist in the [Dustin](docs/dm/-/pc/pc_dustin_thorne.md) captivity arc at the [Chamber of the Fallen](ruinas_do_forte_da_casa_vanthir.md). Known for fanaticism, cruelty, and skills in torture and mental manipulation. |
 
 ---
 

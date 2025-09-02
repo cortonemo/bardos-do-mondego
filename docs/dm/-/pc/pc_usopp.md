@@ -1,4 +1,4 @@
-﻿# Usopp
+# Usopp
 
 
 | ![pc_blank](assets/pc/pc_blank.png){width=300} |

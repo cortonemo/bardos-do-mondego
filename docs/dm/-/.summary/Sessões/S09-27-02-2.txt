@@ -1,0 +1,70 @@
+One Shot: Sombras Sobre a Água
+Nível: 3
+ Jogadores: 5 (incluindo Gauthak)
+ Duração: 3-4 horas
+
+Introdução: A Carta Misteriosa
+A aventura começa na Grande Taberna de Greyhawk, onde Gauthak recebe uma carta entregue pelo taberneiro. A carta foi encontrada escondida num carregamento de frutas e alimentos. Esta carta, escrita por Darvek, revela que Lorde Vaeltherin Duskbane se aliou ao Culto do Mal Elemental e procura relíquias antigas para aumentar o seu poder. Darvek teme pela sua vida e marca um encontro “ ao cair da noite, onde a sombra toca a água”.
+
+Descrição de Darvek
+Darvek é um homem de aparência cansada, com olhos fundos e uma barba desalinhada. Suas roupas estão sujas de poeira e lama, evidenciando as viagens perigosas que fez para escapar dos seus perseguidores. Ele carrega um amuleto simples de madeira, que constantemente aperta quando está nervoso. Conhecedor de segredos antigos, Darvek é um espião e informante que se move nas sombras, temendo constantemente pela sua vida.
+
+O Local do Encontro
+O encontro ocorrerá na aldeia de Miren's Hollow, situada junto ao Lago Sombrio, nas planícies de Greyhawk, a oeste de Erybend e a nordeste de Saltmarsh. O lago é conhecido pelas águas calmas que refletem as montanhas ao pôr do sol, criando sombras profundas na superfície.
+
+Capítulo 1: Rumo a Miren's Hollow
+Os jogadores viajam até Miren's Hollow. Pelo caminho:
+Encontro Opcional: Um grupo de 3 Elementais Menores de Terra (usar estatísticas do Monster Manual 2024) bloqueia o caminho. São lacaios do culto enviados para vigiar a área.
+Teste de Percepção (CD 12): Nota-se que o solo ao redor tem marcas de magia elemental.
+
+Capítulo 2: A Aldeia de Miren's Hollow
+Ao chegar à aldeia, os jogadores encontram um lugar pacífico, mas inquietantemente silencioso.
+Investigações na aldeia (CD 14): Revelam que vários habitantes desapareceram nas últimas noites.
+A taverna local, A Sombra e a Água, é o ponto de encontro. O taberneiro Brennan menciona ter visto Darvek, que estava nervoso e falou de sombras que o perseguiam.
+
+Capítulo 3: O Encontro à Beira do Lago
+Ao cair da noite, o grupo dirige-se ao Lago Sombrio. A cena é tranquila, com o pôr do sol criando sombras profundas na água. Darvek aparece, visivelmente exausto e paranóico.
+Interação com Darvek: Ele revela que Vaeltherin procura uma Relíquia Elemental escondida na região. Antes de revelar mais, sombras se erguem da água e o atacam.
+Combate:
+2 Sombras Corruptas (usar estatísticas do Monster Manual 2024) + 1 Aparição Sombria emergem da água para atacar. Elas tentam arrastar Darvek para o lago.
+Se os jogadores não o protegerem, Darvek é levado, gritando para que destruam a relíquia antes de Vaeltherin.
+
+Capítulo 4: A Gruta das Sombras
+Seguindo as pistas deixadas por Darvek, o grupo descobre uma entrada secreta numa gruta próxima ao lago. Lá dentro:
+3 Corações de Sombra (usar estatísticas de Mephits das Sombras do Monster Manual 2024) guardam o caminho.
+Armadilhas elementais protegem a entrada da câmara principal.
+
+Capítulo 5: O Confronto com Pravi Smjer
+Na câmara final, a Relíquia Elemental está num pedestal, emanando uma energia sombria.
+O Tenente de Vaeltherin, Pravi Smjer, aguarda. Ele é um guerreiro corrompido pela magia elemental, com armadura negra que parece absorver a luz ao seu redor.
+Pravi Smjer é um humano cruel e leal a Vaeltherin, conhecido pela sua habilidade de manipular sombras em combate.
+Combate Final:
+Pravi Smjer (usar estatísticas de Cavaleiro Sombrio do Monster Manual 2024)
+2 Sombras Corruptas como lacaios.
+Durante o combate, Pravi revela:
+Vaeltherin planeia usar a relíquia para abrir um portal para o Plano Elemental da Terra.
+Ele despreza Gauthak, chamando-o de "inseto insignificante" que ousa desafiar o lorde.
+Mecânica Especial:
+A Relíquia Elemental corrompe o terreno ao redor. Cada turno, uma criatura num raio de 10 pés do pedestal faz um teste de Salvamento de Destreza (CD 13) ou fica Agarrada por sombras emergentes do chão.
+
+Desfecho e Conclusão
+Ao derrotar Pravi Smjer, a relíquia começa a vibrar instavelmente.
+Destruí-la: Um teste combinado de Arcano (CD 14) e Ataque Mágico (CA 15) destrói a relíquia, libertando uma onda de energia que limpa as sombras do lago.
+Mantê-la: Os jogadores podem tentar guardar a relíquia, mas ela emite uma aura maligna que pode corromper quem a segurar por muito tempo.
+Conclusão:
+Se Darvek sobreviveu, ele agradece e promete procurar mais informações sobre os planos de Vaeltherin.
+Se não, os jogadores encontram uma nota na sua bolsa com informações sobre o culto.
+Ao voltarem para Greyhawk, as palavras de Darvek ecoam nas suas mentes: "Vaeltherin não vai parar... e vocês agora estão no seu caminho."
+
+Recompensas e Pontos de Experiência
+XP por Combate e Exploração: O suficiente para aproximá-los do nível 4.
+Tesouro:
+600 Moedas de Ouro divididas entre o tesouro de Pravi Smjer e as oferendas ao redor da relíquia.
+Diversos itens de valor da aldeia, incluindo joias e artefatos menores.
+
+Ganchos para Aventuras Futuras
+Gauthak agora está marcado por Vaeltherin. Ele não descansará até eliminá-lo.
+O Culto do Mal Elemental continua a procurar outras relíquias na região.
+Darvek pode voltar, trazendo mais informações ou até mesmo precisando de ser resgatado.
+
+Este one shot prepara o palco para futuras aventuras contra o Lorde Vaeltherin Duskbane e o Culto do Mal Elemental, enquanto permite aos jogadores explorarem a misteriosa e perigosa região de Greyhawk.

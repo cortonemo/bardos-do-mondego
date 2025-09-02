@@ -9,7 +9,7 @@
 | **Classe:** Paladino | **Class:** Paladin |
 | **Alinhamento:** *(desconhecido)* | **Alignment:** *(unknown)* |
 | **Profissão:** Paladino dos Caçadores do Subterrâneo | **Profession:** Paladin of the Underdark Paladins/Hunters |
-| **Função:** Membro do grupo que persegue [Dustin Thorne](pc_dustin_thorne.md) | **Role:** Member of the group hunting [Dustin Thorne](pc_dustin_thorne.md) |
+| **Função:** Membro do grupo que persegue [Dustin Thorne](docs/dm/-/pc/pc_dustin_thorne.md) | **Role:** Member of the group hunting [Dustin Thorne](docs/dm/-/pc/pc_dustin_thorne.md) |
 | **Localização:** Subterrâneo *(detalhes desconhecidos)* | **Location:** Underdark *(details unknown)* |
 
 ---
@@ -18,7 +18,7 @@
 
 | **Português (PT-PT)**                                                                                                                                                                   | **English (EN-US)**                                                                                                                                                                                             |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Brandon Bane** é um paladino dos [Caçadores do Subterrâneo](underdark_paladins.md), atualmente envolvido na perseguição de [Dustin Thorne](pc_dustin_thorne.md). Outras informações permanecem desconhecidas. | **Brandon Bane** is a paladin of the [Underdark Paladins/Hunters](underdark_paladins.md), currently involved in the pursuit of [Dustin Thorne](pc_dustin_thorne.md). Other details remain unknown. |
+| **Brandon Bane** é um paladino dos [Caçadores do Subterrâneo](underdark_paladins.md), atualmente envolvido na perseguição de [Dustin Thorne](docs/dm/-/pc/pc_dustin_thorne.md). Outras informações permanecem desconhecidas. | **Brandon Bane** is a paladin of the [Underdark Paladins/Hunters](underdark_paladins.md), currently involved in the pursuit of [Dustin Thorne](docs/dm/-/pc/pc_dustin_thorne.md). Other details remain unknown. |
 
 ---
 

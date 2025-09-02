@@ -1,0 +1,84 @@
+Aqui está a estrutura básica da aventura para quatro sessões. Vou criar um esqueleto detalhado e, se quiser, podemos expandir ou ajustar conforme necessário.
+
+Aventura: "O Eclipse de Vauria"
+Nível 4 | 5 Jogadores | 4 Sessões
+Premissa:
+A vila de Vauria sofre há décadas com um estranho fenômeno: uma vez a cada 50 anos, um eclipse solar dura um dia inteiro, mergulhando a vila em trevas. Dessa vez, no entanto, o eclipse não desapareceu ao final do dia—ele persiste, e a escuridão crescente começa a enlouquecer os habitantes. Monstros das sombras emergem à noite, e algo antigo desperta nos subterrâneos.
+Os jogadores são contratados pela Baronesa de Vauria para investigar e resolver a situação antes que a vila sucumba à escuridão eterna.
+
+Sessão 1: O Eclipse e o Chamado
+Gancho:
+Os jogadores chegam à vila de Vauria e percebem que o sol está oculto há mais tempo que o normal. O povo teme que a escuridão nunca mais se dissipe.
+Estranhas criaturas sombrias espreitam as ruas à noite.
+A baronesa,Selene D’Arvoire, desesperada, os contrata para investigar as ruínas do Monastério dos Picos Sussurrantes, onde acredita-se estar a chave para o mistério.
+Civis:
+Edric Valmor – Determinado e protetor, nunca abandona aqueles que ama.
+Darian Holt – Reservado e observador, prefere ouvir antes de falar.
+Matthos Grenn – Carismático e brincalhão, sempre vê o lado bom das coisas.
+Veylan Dusk – Misterioso e melancólico, parece carregar segredos do passado.
+Gregor Faelan – Impulsivo e corajoso, enfrenta qualquer desafio sem hesitação.
+Eldora Vexley – Sábia e intuitiva, enxerga além do que é dito.
+Mariel Thorne – Astuta e ambiciosa, sempre busca novas oportunidades.
+Lisbet Alvaren – Gentil e sonhadora, acredita que todos têm algo de bom.
+Seraphine Vael – Serena e misteriosa, parece sempre saber mais do que diz.
+Ravena Morwyn – Intensa e perspicaz, nada escapa ao seu olhar atento.
+
+
+Desafios:
+Investigar a vila: descobrir que algumas crianças tiveram pesadelos sobre um “olho na escuridão”.
+Ezren – Um menino reservado que vê mais do que aparenta.
+Sylva – Uma garota que parece ter uma conexão com a natureza.
+Cassiel – Uma criança de olhar intenso e sabedoria precoce.
+Vaelis – Um órfão com um destino desconhecido.
+Nyxen – Um pequeno sonhador que adora as estrelas.
+Lutar contra Sombras que surgem à noite e atacam os aldeões.
+4 shadows
+Viajar até o monastério, que está semi-destruído e infestado por cultistas que adoram a escuridão.
+à porta do monastério está um spectator( o olho na escuridão)
+dentro está cheio de cultist em grupos de 3 com ou sem um fanatico
+Clímax:
+Os jogadores encontram uma biblioteca escondida no monastério, onde aprendem que há um artefato antigo—O Prisma Celestial—que pode restaurar o sol.
+Um Sacerdote das Sombras surge para destruí-los e impedir seu avanço.
+um bearded devil com 3 cultistas(ou um mage aprendice)
+Monstros:
+
+
+
+
+Sessão 2: O Segredo no Subterrâneo
+Gancho:
+Os escritos na biblioteca indicam que o Prisma Celestial foi escondido no Santuário dos Olhos Eternos, uma cripta subterrânea selada há séculos.
+Os jogadores precisam encontrar a entrada secreta no subsolo da vila.
+Desafios:
+Resolver um enigma na c xxapela da vila para revelar a passagem oculta.
+“O caminho do sol se mostra esperançoso como um filho a olhar para seu pai”
+ rExplorar catacumbas repletas de mortos-vivos corrompidos pela escuridão.(1/0Ghoul, 1/0spector e 2 zombie)
+Enfrentar um Golem de Obsidiana que guarda a entrada do santuário.(Helmed Horror)
+Clímax:
+Dentro do santuário, os jogadores descobrem que o Prisma foi partido em três fragmentos, cada um escondido em locais diferentes.
+Antes que possam sair, uma criatura sombria chamada O Vigia Noturno(Shadow Demon) os ataca.
+
+Sessão 3: A Caçada pelos Fragmentos
+Gancho:	
+Os jogadores precisam recuperar os três fragmentos do Prisma.
+Cada fragmento está em um local diferente, cada um representando um desafio único.
+Locais e desafios:
+A Cripta do Rei Sombrio – O espírito de um antigo rei protege um dos fragmentos. Para obtê-lo, os jogadores devem derrotá-lo ou convencê-lo a entregá-lo.
+A Caverna das Lágrimas de Cristal – Um lago subterrâneo guarda o segundo fragmento. No entanto, um sea-hag protege o prisma.
+A Torre do Eclipse – O fragmento final está no topo de uma torre abandonada, guardado por 1 grifo e 2 Harpia Sanguinária
+Clímax:
+Com os três fragmentos reunidos, os jogadores precisam retornar ao Santuário dos Olhos Eternos para restaurar o Prisma.
+
+Sessão 4: O Ritual e o Horror Final
+Gancho:
+Ao restaurarem o Prisma Celestial, os jogadores ativam um portal sombrio.
+O verdadeiro responsável pelo eclipse aparece: Nyx'Zul, O Olho na Escuridão, um antigo ser que deseja consumir o sol.
+Desafios:
+Defender a vila enquanto Nyx’Zul tenta manifestar sua forma completa.
+Enfrentar o culto remanescente, que tenta sabotar o ritual.
+Usar o Prisma Celestial para banir Nyx’Zul ou destruí-lo em combate.
+Clímax:
+Após a batalha final, a escuridão desaparece e o sol retorna.
+A vila celebra os heróis, mas ecos da escuridão sugerem que Nyx’Zul pode não ter sido completamente destruído…
+
+Isso parece algo que funcionaria para a tua mesa? Quer adicionar algum detalhe ou modificar algo?

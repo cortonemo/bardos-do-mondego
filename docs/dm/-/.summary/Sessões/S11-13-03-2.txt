@@ -1,0 +1,118 @@
+
+Arco Narrativo: "Sombras de Iuz"
+
+Sessão 1 - Segredos na Escuridão
+📍 Objetivo: Apresentar o conflito de Kai, introduzir a ameaça drow e a captura de Dustin.
+1. Introdução
+A party recebe a missão do taberneiro para mostrar o campo aos novos membros.
+Kai recebe uma carta misteriosa, endereçada a ele (o que não deveria ser possível).
+A carta contém uma ameaça: se Kai não for ao encontro marcado, seu segredo será revelado.
+2. Jornada até o local de encontro
+Obstáculos no caminho:
+Um grupo de bandidos tentam emboscá-los.
+Um pequeno enigma ambiental (uma ponte quebrada sobre um rio, cavernas instáveis, etc.).
+3. Encontro com o Drow Chantagista
+Local: Ruínas de um antigo forte da Casa Vanthir.
+Diálogo:
+Raveth revela que a Casa Vanthir caiu em desgraça e quer usar Kai para restaurá-la.
+Para Triss, oferece informações sobre os drows em Greyhawk e como Iuz mantém ligações secretas com o Subterrâneo.
+4. Primeiro Combate - Interrupção dos Paladinos
+Evento: Os paladinos chegam para capturar Raveth, acompanhados por cães demoníacos.
+Objetivo da Party: Ajudar Raveth a escapar ou pelo menos sobreviver ao ataque.
+Combate:
+Primeira fase: Os cães demoníacos são os primeiros a atacar, farejando Raveth e impedindo sua fuga.
+Meio do combate: Raveth invoca uma magia que obscurece a área e foge, deixando para trás um pequeno artefato sombrio.
+Mudança de foco: Os paladinos percebem Dustin e o reconhecem.
+5. Segundo Combate - Sobrevivência e Captura de Dustin
+Evento: Os paladinos redirecionam sua atenção para Dustin.
+Objetivo da Party: Sobreviver e impedir a captura de Dustin.
+Combate:
+Os paladinos avançam: Sybel e Vareth mantêm a pressão com ataques à distância, enquanto Brand e Luthor bloqueiam a saída.
+Momento crítico: Os paladinos usam magias para atordoar ou desacelerar a party, conseguindo capturar Dustin.
+Fuga: A party é obrigada a recuar.
+6. Gancho para a próxima sessão
+O drow fugiu, mas deixou pistas sobre sua presença na cidade de Greyhawk.
+A party precisa decidir como resgatar Dustin.
+Membros do Esquadrão
+🔥 Inquisidor Vareth Lionmane (Paladino Oath of Vengeance / Feiticeiro - Líder)
+Descrição: Um meio-elfo de cabelos dourados e olhos brancos como brasas, carrega uma túnica ornamentada sob sua armadura de batalha.
+Personalidade: Implacável, metódico e completamente devotado à missão. Acredita que a sobrevivência de Dustin é um sinal divino, mas não sabe se é um bom ou mau presságio.
+Habilidades: Mestre em rastreamento mágico, conjura magias ofensivas à distância e pode detectar criaturas do Subterrâneo.
+Motivação: Destruir qualquer um que ameace expor segredos do Underdark, especialmente agora que Raveth tenta vender informações proibidas.
+
+🏹 Caçadora Sybel Astren (Paladina Oath of the Watchers / Arqueira)
+Descrição: Humana de pele pálida e olhos azuis cortantes. Usa uma armadura leve e carrega um arco prateado encantado.
+Personalidade: Calculista, pragmática e impiedosa. Acredita que Dustin pode ser um risco e que sua morte deveria ter sido definitiva.
+Habilidades: Especializada em eliminar alvos à distância com precisão sobrenatural. Pode conjurar magias de detecção e banimento.
+Motivação: Garante que o drow não escape e que nenhuma das informações que ele detém sobre o Underdark seja usada contra o mundo da superfície.
+
+⚔️ Garruk Valstein (Paladino Oath of Glory / Guerreiro de Duas Armas)
+Descrição: Meio-orc de pele cinza e porte musculoso, sempre com um sorriso predatório no rosto. Usa duas espadas longas e se move com rapidez letal.
+Personalidade: Confiante, brutal e ávido por combate. Gosta de testar sua força e é um dos poucos que vê a volta de Dustin como algo impressionante, e não como uma ameaça.
+Habilidades: Combate ágil, acrobático e ofensivo, sendo capaz de desferir múltiplos ataques letais.
+Motivação: Desfruta da caçada e da glória que vem ao eliminar um alvo tão perigoso quanto Raveth.
+
+🛡️ Sir Brand Orvain (Paladino Oath of Devotion / Tanque)
+Descrição: Anão de barba trançada e olhos severos, coberto por uma armadura brilhante de adamantina. Segura um enorme escudo e uma espada longa.
+Personalidade: Rígido, tradicionalista e inabalável em sua fé. Enxerga o retorno de Dustin como uma afronta ao destino.
+Habilidades: Defesa impenetrável, proteção dos aliados e magias que fortalecem a resistência do grupo.
+Motivação: Manter a integridade da missão e garantir que Raveth não escape da justiça de Beltar.
+
+🔨 Luthor "Martelo da Fé" Greystone (Paladino Oath of Conquest / Arma de Duas Mãos)
+Descrição: Um humano de cabelos grisalhos e cicatrizes que cobrem todo o rosto. Empunha um martelo de guerra massivo.
+Personalidade: Intimidante, fanático e sádico. Acredita que qualquer um que desafie os desígnios de Beltar deve ser esmagado sem piedade.
+Habilidades: Golpes esmagadores, magias de medo e aura de opressão.
+Motivação: Destruir Raveth e qualquer um que se interponha entre ele e a missão. Considera Dustin um traidor.
+
+Motivação da Caçada ao Drow
+Raveth Xil’Zyrl descobriu uma antiga rede de túneis secretos no Underdark, conectando Greyhawk às terras de Iuz. Ele percebeu que poderia vender essa informação para mercadores, nobres corruptos e até mesmo criminosos que quisessem explorar o tráfico de bens e pessoas entre os dois territórios.
+No entanto, algumas casas drow e certas facções de Iuz não gostaram da ideia, pois esses caminhos eram valiosos e estratégicos. A Casa Azh’Thalith (uma casa drow influente no Underdark) e o Clã Ferrúgio (uma seita de necromantes leais a Iuz) contrataram os Caçadores do Subterrâneo para eliminar Raveth antes que ele comprometesse seus interesses.
+Para a esquadra de paladinos, Raveth é um traidor do Subterrâneo que merece ser purgado. Mas quando encontram Dustin vivo e ao lado do drow, a missão torna-se muito mais pessoal
+Esquadrão de Paladinos de Beltar - "Caçadores do Subterrâneo"
+A Ordem de Beltar tem como missão erradicar as ameaças do Subterrâneo, incluindo drows, aberrações e cultistas. Os Caçadores do Subterrâneo são um esquadrão de elite especializado em missões no Underdark, lidando com inimigos que a maioria dos mortais jamais verá.
+Ligação com Dustin
+Dustin foi, em tempos, um membro valioso do esquadrão. Contudo, sua lealdade foi quebrada quando desobedeceu uma ordem direta. Durante uma patrulha nos túneis, o grupo encontrou uma família de kobolds — pais, crianças e recém-nascidos — que haviam se perdido no Subterrâneo. Eles não representavam ameaça alguma e poderiam ser convencidos a esquecer o encontro, mas os paladinos, por malícia e avareza, decidiram exterminá-los.
+Dustin recusou-se a cometer o massacre. Vareth Lionmane declarou-o traidor ali mesmo. A decisão foi rápida e brutal: seus próprios companheiros o atacaram e deixaram-no para morrer nas profundezas escuras. Para eles, ele estava morto e esquecido.
+Agora, ao vê-lo vivo e ao lado de um drow, a reação do esquadrão varia entre choque, culpa e a necessidade de finalizar o que começaram.
+Casa Nobre e Personagens Relacionados
+Casa Vanthir - Antiga casa nobre de Greyhawk, conhecida por suas tradições militares e sua brutalidade tática. Seu prestígio veio da criação de mercenários de elite e sua influência sobre a segurança da cidade.
+Lorde Dain Vanthir - Pai do nobre original, era um homem implacável, cruel e estrategista militar. Capturou muitos escravos do Subterrâneo, incluindo o drow da história.
+Eltharion Vanthir - O verdadeiro nobre que Kai está fingindo ser. Morto há anos em uma guerra obscura, mas poucos sabem detalhes exatos de seu desaparecimento.
+Raveth Xil’Zyrl (O Drow Chantagista) - Antigamente um escravo da Casa Vanthir, foi capturado por Dain Vanthir no Subterrâneo. Sua inteligência e habilidade para manipulação o tornaram útil, e ele eventualmente escapou e prosperou sob o regime de Iuz, onde a sociedade brutal era semelhante à dos drow. Tornou-se um nobre dentro das forças de Iuz, mas agora vê uma oportunidade de restaurar seu poder em Greyhawk usando Kai como marionete.
+Aqui está a versão ajustada com os novos nomes:
+
+Raveth Xil’Zyrl – O Drow Exilado e Ambicioso
+Raça: Drow
+ Idade: 145 anos
+ Classe: Rogue (Mastermind) / Warlock (The Fathomless – uma entidade dos abismos subterrâneos)
+ Aparência: Magro, esguio e de presença intimidadora, Raveth veste túnicas negras reforçadas com couro escamado e detalhes em prata. Seus olhos violeta brilham no escuro como lâminas afiadas, e sua pele azul-escura carrega cicatrizes finas, memórias de sua ascensão e traições no submundo. O cabelo branco, sempre bem preso, revela um rosto anguloso e uma mente afiada.
+
+📜 História
+Raveth nasceu na Casa Xil’Zyrl, uma casa drow menor no Underdark, situada abaixo da região de Greyhawk. Desde cedo, mostrou um intelecto acima da média, preferindo manipulação e estratégia a combates diretos. Seu talento chamou a atenção de nobres rivais, e em uma jogada política, ele foi capturado e entregue como prisioneiro a um cruel nobre humano: Lorde Dain Vanthir.
+Lorde Dain Vanthir – o pai do nobre que Kai está fingindo ser – era um tirano obcecado por capturar e estudar criaturas do Subterrâneo. Raveth tornou-se um de seus “exemplares”, vivendo como prisioneiro por anos na corte sombria dos Vanthir. Mas diferente de outros cativos, Raveth não se curvou: observou, aprendeu e, eventualmente, manipulou sua própria liberdade.
+Quando a casa Vanthir começou a ruir, Raveth fugiu e encontrou refúgio nas terras de Iuz, onde percebeu que a sociedade brutal e perversa do tirano-demônio era incrivelmente semelhante à de seu povo. Usando seu intelecto e habilidades de negociação, ascendeu rapidamente, tornando-se um informante e negociador de grande influência. Seu nome tornou-se respeitado entre espiões, cultistas e nobres inescrupulosos que precisavam de alguém para "resolver" problemas de forma discreta.
+Porém, sua ambição foi longe demais. Ao descobrir antigos túneis do Underdark que conectavam Iuz a Greyhawk, viu a oportunidade de transformar isso em ouro e influência. No entanto, ao tentar vender essas informações para mercadores e criminosos, despertou a ira de algumas casas drow e de poderosas facções de Iuz, incluindo a Casa Azh’Thalith e o Clã Ferrúgio.
+Agora, caçado por todos os lados, Raveth precisa de um novo trunfo… e é aí que entra Eltharion Vanthir, ou melhor, Kai, que está fingindo ser o herdeiro da casa caída.
+
+🕸️ Personalidade e Motivações
+🔹 Calculista e carismático: Nunca levanta a voz, nunca perde a paciência. Prefere vencer pela mente do que pela espada.
+ 🔹 Ambicioso e traiçoeiro: Ele não é leal a ninguém além de si mesmo. Se aliar-se a Kai, Triss ou outro jogador for vantajoso, ele o fará – até o momento certo para traí-los.
+ 🔹 Respeita a inteligência: Se alguém demonstrar sagacidade ou astúcia, Raveth se lembrará disso e talvez ofereça oportunidades. Mas se for subestimado, será a última coisa que a vítima fará.
+ 🔹 Despreza os fanáticos: Ele vê os paladinos de Beltar como brutamontes cegos pela fé e rancor.
+
+⚔️ Habilidades Notáveis
+🔺 Mestre da manipulação e infiltração, sempre tem uma saída alternativa.
+ 🔺 Pode conjurar tentáculos sombrios para segurar inimigos momentaneamente.
+ 🔺 Carrega uma adaga encantada, "Língua de Iuz", que envenena a mente de suas vítimas com sussurros e ilusões.
+ 🔺 Usa uma rede de informantes e assassinos no Underdark.
+
+🎭 Relação com os Jogadores
+Kai (Eltharion Vanthir): Raveth sabe que Kai está fingindo ser um nobre caído da casa Vanthir e quer explorá-lo como um fantoche para restaurar a casa ao poder – apenas para depois usá-la como um veículo de influência.
+Triss: Como drow, Raveth vê em Triss uma aliada em potencial e pode tentar recrutá-la oferecendo informações sobre os drows em Greyhawk e sua conexão com Iuz.
+Dustin: Um paladino caçado por sua própria ordem pode ser um peão útil. Raveth pode tentar persuadi-lo a abandonar sua fé, argumentando que os paladinos de Beltar são apenas assassinos seletivos.
+O resto da party: Ele analisará cada um friamente, esperando entender o que pode ganhar com cada um.
+
+🕷️ Citação Marcante
+"Eu não sou um monstro, Kai. Eu sou um sobrevivente. A diferença? Eu não finjo ser algo que não sou."
+
+

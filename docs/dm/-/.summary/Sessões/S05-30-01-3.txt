@@ -1,0 +1,72 @@
+intro
+adicionar o que um taberneiro ou a miúda diz aos jogadores para os preparar para missão.
+missão e de reconhecimento de novo, noroeste em cima a direita.
+Detalhes do Campo Goblin
+Visão Geral
+O campo está localizado dentro de uma clareira cercada por árvores densas e um pequeno riacho.
+Guardas goblins patrulham a área.
+Várias tendas estão montadas, incluindo barracas que servem como cela para escravos.
+No centro, há um altar rudimentar feito de pedra ensanguentada, dedicado a Nerull.
+
+Exploração e Reconhecimento
+Teste de Percepção (CD 14)
+Os jogadores podem observar os guardas goblins (2 patrulhas de 2 goblins).
+Um ogro está posicionado ao lado da cela dos escravos como vigia.
+Teste de Furtividade (CD 15) - rever regras de stealth de 2024 pf
+Permite se aproximar sem alertar os guardas.
+Informações Descobertas (para quem observar ou invadir o campo):
+Prisioneiros:
+
+
+Goblins submissos (escravizados pelos mais fortes do bando).
+Outras raças (meio-elfos, halflings, humanos) presos para rituais ou trabalho forçado.
+se interregados podem dizer que sao de uma caravana comercial que vinha de two fords para Erybend no norte
+Altar de Nerull:
+
+
+Repleto de inscrições em sangue e ossos.
+Teste de Religião (CD 12): os jogadores reconhecem que os rituais invocam a favor do deus Nerull.
+https://greyhawk.fandom.com/wiki/Nerull
+O xamã goblin realiza sacrifícios diários, acreditando receber poder em troca.
+xama é um acólito do culto do mal elemental
+acredita em nerull e que o culto ira libertar esta terra.
+nao e coerente e um zealot religioso
+responde a Vaelkor Ashbrand um menbro de rank alto no culto
+nome Jogmaahx
+Indicação de futuros ataques a caravanas maiores numa carta.
+Combate Principal
+Caso os jogadores sejam descobertos ou decidam atacar:
+ Os guardas alertam todo o campo.
+Inimigos no Campo:
+Xamã Goblin (Cultista, ajustado para refletir sua conexão com Nerull)
+
+
+Usa magias de necromancia (como Raio de Enfraquecimento e Comandar Mortos).
+5 Goblins Soldados (lutam em grupos organizados).
+
+
+1 Ogro Vigia (usa força bruta para proteger os prisioneiros).
+
+
+Goblins Escravos (4)
+
+
+Podem ser libertados com um teste de Persuasão (CD 13) para lutarem contra seus opressores.
+Estratégia do Xamã Goblin:
+Ele usará o altar para invocar mortos-vivos (zumbis improvisados) com um ritual que demora 2 rodadas.
+Se os jogadores desativarem ou destruírem o altar antes do fim do ritual (teste de Arcanismo ou Religião CD 15), ele não consegue concluir o feitiço.
+
+Complicações e Escolhas Morais
+Os jogadores podem:
+Libertar os escravos (há o risco de serem perseguidos pelos goblins enquanto fogem).
+Decidir se destroem ou preservam as evidências no altar (algumas peças podem interessar estudiosos ou sacerdotes locais).
+Levar a carta para expor as ações do Culto do Mal Elemental, aumentando a tensão política.
+
+Recompensas e Conclusão
+Recompensas dos Prisioneiros:
+
+
+Relatório Completo:
+
+
+Retornar com o mapa, o relatório sobre o altar e as atividades dos goblins recompensa os jogadores com um total de 250 moedas de ouro.

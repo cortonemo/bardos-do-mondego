@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/npc/Ruins of House Vanthir/vareth_lionmane.md",
+                "file": "docs/pc/-/fichas icompletas/pc_wandering_sage.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -24,39 +24,14 @@
                   "showSearch": false,
                   "searchQuery": "",
                   "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "vareth_lionmane"
-            }
-          },
-          {
-            "id": "1a72cff24cd8cd9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/dm/-/npc/referenced_npcs_greyhawk.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": true,
                   "unlinkedCollapsed": false
                 }
               },
               "icon": "lucide-file",
-              "title": "referenced_npcs_greyhawk"
+              "title": "pc_wandering_sage"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "iquander",
+                "query": "tag:#Kai",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -201,53 +176,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1a72cff24cd8cd9e",
+  "active": "c334f2552873dd72",
   "lastOpenFiles": [
-    "docs/dm/-/locations/referenced_locations_greyhawk.md",
-    "docs/dm/-/npc/referenced_npcs_greyhawk.md",
-    "docs/npc/Underdark Paladin/zeibranth.md",
+    "docs/pc/-/fichas icompletas/pc_tabasco_de_lumeiros.md",
+    "docs/pc/-/fichas icompletas/pc_silfir.md",
+    "docs/pc/-/fichas icompletas/pc_orianna.md",
+    "docs/pc/-/fichas icompletas/pc_lone_straw.md",
+    "docs/pc/-/fichas icompletas/pc_lucian_vyrolyn.md",
+    "docs/pc/-/fichas icompletas/pc_gauthak_vunakamune.md",
+    "docs/pc/-/fichas icompletas/pc_friedrick_junsi.md",
+    "docs/pc/-/pc_kai.md",
+    "docs/pc/-/fichas icompletas/pc_flynn.md",
+    "docs/pc/-/fichas icompletas/pc_endovan_bomsossego.md",
+    "docs/pc/-/fichas icompletas/pc_bok_thunderfist.md",
+    "docs/pc/-/fichas icompletas/pc_asinius.md",
+    "docs/pc/-/fichas icompletas/pc_arkos_vasell.md",
+    "docs/pc/-/pc_silfir.md",
+    "docs/pc/-/fichas icompletas/pc_wandering_sage.md",
+    "docs/pc/-/fichas icompletas 1/pc_markus_grimm 1.md",
+    "docs/pc/-/fichas icompletas 1/pc_markus_grimm.md",
+    "docs/pc/-/fichas icompletas 1/pc_eldric_silvanus.md",
+    "docs/pc/-/pc_conan_barbaro_ra.md",
+    "docs/pc/-/pc_zeldris.md",
+    "docs/pc/-/fichas icompletas",
+    "docs/dm/-/pc/fichas icompletas/pc_wandering_sage.md",
+    "docs/dm/-/pc/fichas icompletas/pc_tabasco_de_lumeiros.md",
+    "docs/dm/-/pc/fichas icompletas/pc_silfir.md",
+    "docs/dm/-/pc/fichas icompletas/pc_orianna.md",
+    "docs/dm/-/pc/fichas icompletas/pc_markus_grimm.md",
+    "docs/dm/-/pc/fichas icompletas/pc_markus_grimm 1.md",
+    "docs/dm/-/pc/fichas icompletas",
+    "docs/assets/pc/pc_wandering_sage.png",
+    "docs/assets/pc/pc_silfir.png",
+    "docs/assets/pc/pc_markus_grimm_02 1.png",
+    "docs/assets/pc/pc_markus_grimm_01.png",
+    "docs/assets/pc/pc_markus_grimm_01 1.png",
+    "docs/assets/pc/pc_lone_straw.png",
+    "docs/assets/pc/pc_frederick_freddy_02.png",
+    "docs/assets/pc/pc_frederick_freddy_01.png",
+    "docs/assets/pc/pc_bok_thunderfist.png",
+    "docs/assets/pc/pc_arkos_vasell.png",
+    "docs/pc/-/pc 1",
     "New folder",
-    "docs/npc/Underdark Paladin/sybel_astren.md",
-    "docs/npc/Underdark Paladin/garruk_valstein.md",
-    "docs/npc/Underdark Paladin/brandon_bane.md",
-    "docs/npc/Underdark Paladin/brand_orvain.md",
-    "docs/dm/-/npc/Underdark Paladin/garruk_valstein.md",
     "docs/npc/Underdark Paladin",
-    "docs/dm/-/npc/Underdark Paladin/sybel_astren.md",
-    "docs/dm/-/npc/Underdark Paladin/zeibranth.md",
-    "docs/dm/-/npc/Underdark Paladin/brandon_bane.md",
-    "docs/dm/-/npc/Underdark Paladin/brand_orvain.md",
-    "docs/dm/-/organizations/underdark_paladins.md",
-    "docs/dm/-/npc/Unknown/snikil_pescabrasa.md",
-    "docs/dm/-/npc/Unknown/selene.md",
-    "docs/dm/-/npc/Unknown/raveth_xil_zyrl.md",
-    "docs/dm/-/npc/Unknown/liwana.md",
-    "docs/dm/-/npc/Unknown/lirael.md",
-    "docs/dm/-/npc/Unknown/lia.md",
-    "docs/dm/-/npc/Unknown/druida_infestado.md",
-    "docs/dm/-/npc/Unknown/berdan_barleybrow.md",
-    "docs/dm/-/npc/Ruined castle/major-domo_castelo.md",
     "docs/npc/Ruined castle",
     "docs/dm/-/npc/Ruined castle",
-    "docs/dm/-/npc/Unknown/draven.md",
-    "docs/dm/-/npc/Unknown/darsen.md",
-    "docs/dm/-/npc/Unknown/cultista.md",
-    "docs/npc/unknown/berdan_barleybrow.md",
     "docs/npc/Underdark Paladin",
     "docs/dm/-/npc/Underdark Paladin",
-    "docs/npc/Eclipse Tower",
-    "docs/dm/-/npc/Eclipse Tower",
-    "docs/npc/Ruins of House Vanthir",
-    "docs/dm/-/npc/Ruins of House Vanthir",
-    "docs/assets/pc/pc_kai_04.png",
-    "docs/assets/pc/pc_kai_03.png",
-    "docs/assets/pc/pc_kai_02.png",
-    "docs/assets/pc/pc_kai_01.png",
-    "docs/assets/location/peculiar_manor.png",
-    "docs/assets/npc/npc_blank.png",
-    "docs/assets/location/coat_of_arms_dyvers.jpeg",
-    "docs/assets/loot/espada_luz_velada.png",
-    "docs/assets/loot/espada_mais_um.png",
-    "docs/assets/pc/pc_eirwen_02.png"
+    "docs/npc/Eclipse Tower"
   ]
 }

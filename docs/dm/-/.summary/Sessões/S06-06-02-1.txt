@@ -1,0 +1,94 @@
+
+3. **Inimigos:** 
+   - **Primeira onda:** 6 goblins (usar estatísticas básicas de goblins do Livro do Jogador ou do SRD).
+   - **Segunda onda:** 4 goblins e 2 orcs (usar estatísticas básicas de orcs do Livro do Jogador ou do SRD).
+4. **Carroça:** A carroça tem 15 pontos de vida (AC 10). Se a carroça for reduzida a 0 pontos de vida, ela é destruída e os bens são perdidos.
+
+
+Intro
+
+no meio da taberna, o taberneiro vira se e pergunta, a uma mesa de eventureiros:
+podem descrever entao as vossas personagens que estão ao redor da mesa?
+ Preciso de um grupo confiável para levar uma carroça cheia de bens preciosos para Blackfair Manor. O caminho é perigoso, mas podemos pagar bem!
+ 50 peças de ouro para cada um, e mais 50 se a carroça chegar intacta. O que dizem?"*
+
+Estaestrada é conhecida recentemente ser atacada por goblins e orcs, mas acredito que consigam proteger a carga
+
+. Ele entrega a carroça, puxada por dois cavalos, e os bens estão cobertos por uma lona grossa.
+
+viagem
+
+. A estrada é tranquila no início,bucolica e campestre, no entanto bifurca para  uma área mais densa, com árvores altas e arbustos selvagens. veem uma placa a dizer blackfair manor.
+A estrada que leva a Blackfair Manor corta para uma densa floresta de árvores altas e antigas, cujos galhos se entrelaçam acima, criando um tecto natural que bloqueia parte da luz do sol. 
+O chão é coberto por folhas secas e ramagem partida , e o ar é fresco, com cheiro de terra molhada.
+ À esquerda da estrada, há uma colina íngreme coberta de arbustos espinhosos, enquanto à direita, a floresta se abre para um pequeno vale com um riacho que corre suavemente. A estrada é estreita, com espaço suficiente para a carroça e pouco mais
+
+Após cerca de uma hora de viagem, os jogadores percebem que estão sendo observados. Eles podem fazer testes de **Percepção** (CD 12) para notar os goblins se escondendo nos arbustos.
+
+---
+
+### **A Emboscada**
+**Primeira Onda: Goblins**
+Pequenos e esguios, os goblins têm pele verde-acinzentada e olhos amarelados que brilham com malícia. 
+usam armaduras improvisadas feitas de couro e pedaços de metal, e carregam arcos enferrujados e adagas curtas. os Seus movimentos são rápidos e traiçoeiros
+
+**Goblins (entre si, sussurrando em Goblin):**  
+- *"Shhh! Eles estão chegando... Esperem o sinal do chefe!"*  
+- *"Eu quero a comida que está na carroça! E as coisas brilhantes também!"*  
+- *"Cuidado com o grande com armadura! Ele parece forte!"*  
+
+
+
+**Segunda Onda: Goblins e Orcs**
+
+**Orcs:**  
+Os orcs são criaturas grandes e musculosas, com pele verde-escura e presas afiadas que sobressaem de suas bocas. Eles usam armaduras de couro reforçado e carregam machados ou clavas pesadas. Seus olhos vermelhos brilham com fúria, e eles avançam sem medo, rugindo e gritando para intimidar seus inimigos.
+
+**Orcs (gritando em Orc):**  
+- *"Matem todos! A carroça é nossa!"*  
+- *"Nenhum humano vai nos impedir desta vez!"*  
+- *"Vocês, goblins, ataquem pela esquerda! Nós vamos pelo meio!"* 
+**Chefe Orc (Gorath, o Esmagador):**  
+Gorath é um orc imponente, quase um cabeça mais alto que os outros orcs. Ele usa uma armadura feita de placas de metal enferrujado e carrega um machado de guerra enorme, com lâminas duplas que parecem ter sido forjadas de forma grosseira, mas são letais. Seu rosto é marcado por cicatrizes de batalhas passadas, e ele usa um colar de dentes de criaturas desconhecidas. Gorath é claramente o líder, dando ordens com uma voz rouca e gutural, e seu olhar é de pura determinação. Ele não recua, lutando até o fim.
+ 
+
+**Chefe Orc (gritando em Comum, para intimidar os jogadores):**  
+- *"Parecem fracos! Vocês não vão proteger nada hoje!"*  
+- *"A carroça vai ser nossa, e suas cabeças vão decorar nossas lanças!"*  
+- *"Goblins, parem de fugir e lutem como verdadeiros guerreiros!"*  
+
+
+---
+
+### **Recompensas**
+
+- **Se a carroça chegar intacta:** 50 peças de ouro para cada jogador + 50 peças de ouro de bônus.
+- **Se a carroça for destruída:** 25 peças de ouro para cada jogador.
+- **Itens encontrados:** Os goblins e orcs podem ter alguns itens roubados, como poções de cura menores ou algumas moedas de cobre.
+
+
+
+#### **Descrição da Mansão Blackfair**
+
+A Mansão Blackfair é uma estrutura imponente, construída em pedra escura que parece absorver a luz ao seu redor. Ela fica no topo de uma colina, cercada por altos muros de pedra cobertos de hera. A mansão tem várias torres pontiagudas e janelas altas e estreitas, dando-lhe um ar sombrio e misterioso. A entrada principal é uma grande porta de madeira reforçada com ferro, decorada com símbolos antigos que parecem sussurrar histórias de um passado distante.
+
+**Jardins da Mansão:**  
+Antes de chegar à mansão, os jogadores passam por jardins bem cuidados, mas que têm uma atmosfera um tanto melancólica. Há roseiras com flores vermelhas escuras, árvores podadas em formas geométricas e estátuas de figuras humanoides com expressões sérias. Um caminho de pedra leva até a entrada da mansão, ladeado por lanternas de ferro que emitem uma luz suave e constante.
+
+---
+
+#### **Descrição do Mordomo (Alaric)**
+
+Alaric é um homem alto e magro, com cabelos grisalhos penteados para trás e um rosto austero. Ele veste um traje escuro e impecável, com luvas brancas e um colarinho alto que parece apertado demais. Seus olhos são penetrantes, e ele fala com uma voz suave, mas firme. Ele é o epítome da eficiência e da formalidade, tratando os jogadores com cortesia, mas sem afeto.
+
+---
+
+#### **Discurso do Mordomo**
+
+**Missão Bem-Sucedida (Carroça Intacta):**  
+*"Ah, vejo que vocês chegaram sem incidentes. Excelente. O senhor de Blackfair ficará satisfeito em saber que sua carga está segura. Gareth falou bem de vocês, e parece que ele não exagerou. Aqui está a recompensa prometida. Se precisarem de mais trabalho no futuro, não hesitem em voltar. A Mansão Blackfair sempre tem uso para... indivíduos competentes."*
+
+**Missão Mal-Sucedida (Carroça Destruída):**  
+*"Hmm... vejo que a viagem não foi tão tranquila quanto o esperado. Uma pena. O senhor de Blackfair não ficará contente em saber que parte de sua carga foi perdida. No entanto, agradeço por trazerem o que restou. Aqui está a recompensa, embora reduzida, como combinado. Espero que, na próxima vez, vocês possam ser mais... cuidadosos."*
+
+

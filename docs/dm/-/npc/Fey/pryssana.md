@@ -17,7 +17,7 @@
 
 | **Português (PT-PT)** | **English (EN-US)** |
 | --------------------- | ------------------- |
-| Ser feérico enigmático, protetora e, por vezes, antagonista de [Dustin](pc_dustin_thorne.md). Tem papel fundamental na libertação do protagonista e em eventos sobrenaturais envolvendo magia das fadas e pactos antigos. | Enigmatic fey, both protector and sometimes antagonist of [Dustin](pc_dustin_thorne.md). Plays a crucial role in the protagonist’s liberation and in supernatural events involving faerie magic and ancient pacts. |
+| Ser feérico enigmático, protetora e, por vezes, antagonista de [Dustin](docs/dm/-/pc/pc_dustin_thorne.md). Tem papel fundamental na libertação do protagonista e em eventos sobrenaturais envolvendo magia das fadas e pactos antigos. | Enigmatic fey, both protector and sometimes antagonist of [Dustin](docs/dm/-/pc/pc_dustin_thorne.md). Plays a crucial role in the protagonist’s liberation and in supernatural events involving faerie magic and ancient pacts. |
 
 ---
 

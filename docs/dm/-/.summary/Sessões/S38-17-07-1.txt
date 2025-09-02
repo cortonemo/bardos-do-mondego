@@ -1,0 +1,30 @@
+Resumo de Sessão: André Maia, 17-07-2025
+Indicação para o jogador, como preencher:
+Data: Coloca a data do dia da sessão.
+
+
+DM: Coloca nome do Dm
+
+
+Players: Coloca o nome, nivel e classe dos jogadores.
+
+
+O nome do ficheiro deve ter este formato:Resumo Sessão, Nome do DM, Data
+
+
+Sê conciso, claro e usa bullet points. a Ideia é um resumo fácil de entender por todos..
+
+
+
+DATA: 17-07-2025
+
+DM: André Maia
+
+Players:
+Eirwen (Lvl3, Ranger)
+Leo (Lvl4, Druid)
+Ketrich Flavifer (Lvl1, Warlock)
+Ulma (Lvl3, Barbarian)
+
+
+

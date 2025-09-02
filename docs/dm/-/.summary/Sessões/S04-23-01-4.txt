@@ -1,0 +1,59 @@
+### *Introdução*
+- *Gatilho: Os personagens estão numa missão genérica de reconhecimento (podes adaptar ao contexto do teu mundo), e acabam por cruzar a cidade de Two Fords, um pequeno vilarejo conhecido por sua ponte dupla que atravessa o rio Ery.
+- Ao chegarem, notam sinais de decadência: as plantações estão murchando, e os habitantes parecem preocupados e doentes.
+
+---
+
+### *Cena 1: O Mercador Amigo*
+- *Encontro: Os jogadores encontram Kaldros, um mercador viajante que já conhecem de interações passadas (ou que podem encontrar pela primeira vez). Ele é amistoso e conta que o vilarejo está enfrentando problemas com a qualidade da água do rio.
+- *Gatilho: Kaldros sugere que eles falem com Geralt, o dono da taberna local, que está especialmente aflito porque sua filha, Lila, ficou gravemente doente após beber da água.
+
+#### *Roleplay na Taberna*
+- Geralt explica que não sabe o que está acontecendo, mas que os sintomas começaram há duas semanas. Ele acredita que a água do rio está contaminada, mas ainda não sabe como ou por quê.
+- Ele implora para que os jogadores ajudem a encontrar a origem do problema. Como incentivo, oferece um mapa da região com uma marcação: *um velho moinho abandonado rio acima*, onde os rumores dizem que coisas estranhas acontecem.
+
+---
+
+### *Cena 2: A Fauna Possuída*
+- *Caminho até o moinho*: Enquanto seguem o rio Ery, os jogadores notam sinais de corrupção:
+  - Plantas com cogumelos de cores incomuns.
+  - Animais agindo de forma agressiva.
+- *Combate: Os jogadores são emboscados por **fauna possuída pelo fungo*. Exemplos:
+  - 1d4 lobos infectados (estatísticas de Lobos + habilidade de cuspir esporos venenosos).
+  - 1 Urso Corrompido (estatísticas de Urso-Cinzento + resistência a dano físico não mágico).
+
+---
+
+### *Cena 3: O Moinho Abandonado*
+- *Ambiente*: O moinho está coberto de fungos bioluminescentes, e um cheiro ácido permeia o ar. A água do rio passa por baixo do moinho, turva e escura.
+- *Exploração*:
+  - No interior, os jogadores encontram sinais de atividade recente: símbolos elementais esculpidos nas paredes e recipientes contendo o fungo alienígena.
+  - Um pergaminho com anotações fala sobre um plano do Culto do Mal Elemental para enfraquecer as regiões ao longo do rio, preparando o terreno para um ataque maior.
+
+---
+
+### *Cena 4: A Célula do Culto*
+- *Confronto*: Os jogadores encontram 3 cultistas e 1 acólito no moinho. Eles estão a trabalhar num ritual para lançar mais esporos no rio.
+  - *Cultistas*: Usam estatísticas de Cultistas padrão.
+  - *Acólito: Pode conjurar feitiços para proteger os aliados (ex.: *Cure Wounds, Sanctuary).
+  - Adicional: 1d2 "Servos Fúngicos" (símiles de zumbis, com resistência a dano cortante e imunidade a venenos).
+- Durante o combate, há o risco de esporos se espalharem, forçando os jogadores a fazerem testes de resistência a Constituição contra envenenamento.
+
+
+
+### *Recompensas*
+- Tesouro: Cada cultista carrega pequenas joias (10 gp cada), e o Acólito possui uma poção de cura.
+- *Item Especial*: Cristal Elemental Corrompido – um item mágico que pode ser estudado para obter mais informações sobre o Culto.
+
+
+https://www.aidedd.org/dnd/monstres.php?vo=acolyte
+
+Com eldrichj blast
+
+Zombies
+
+
+
+https://roll20.net/compendium/dnd5e/Dimension%20Door#content
+
+    Soren Barclay  

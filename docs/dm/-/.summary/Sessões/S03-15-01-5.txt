@@ -1,0 +1,176 @@
+Localizações
+A emboscada  fica no L, no neen river cerca de 30 km de distancia da taberna.
+
+A taberna é o 0
+
+Coisas k tem de ser ditas&/verdades:
+
+A missão principal deles é fazer reconhecimento do terreno.
+Foram transportados para a taberna e não sabem muito bem como, há buracos nas memórias
+Este mundo tem 2 luas
+Ou seja, não se puxa muito nas backstories agora..é seguir e andar.
+Os dms são taberneiros. Cada um pode ser o seu com o seu nome,.convém e apontar para ficar registado e coerente
+Designa 1 jogador para fazer notas das sessões e para  te enviar ok=? Assim depois trato da história - IMPORTANTE
+Vais ter as folhas impressas na 
+
+
+### **A Emboscada nas Margens do Rio Neem**
+
+**Ambientação:**  
+Nas vastas planícies de Greyhawk, ao longo das margens do rio Neem, uma estrada comercial movimentada serpenteia ao lado da água. Apesar de ser uma rota crucial para mercadores, a região é conhecida por ataques de tribos goblins, que se aproveitam do terreno e da vegetação densa para emboscar viajantes.
+
+---
+
+### **Introdução**  
+Os aventureiros estão viajando por esta rota quando ouvem gritos vindos de uma clareira próxima ao rio. Ao se aproximarem, veem um mercador tiefling chamado **Kaldros Veynor**, ao lado de sua carroça, cercado por goblins que o atacam enquanto saqueiam suas mercadorias.  
+
+Kaldros é um comerciante sofisticado e bem-falante, que está viajando de **Peculiar Manor** para **Blackfair Manor**, transportando uma carga valiosa de tecidos exóticos, especiarias e gemas menores. Sua carroça é puxada por dois cavalos brancos bem treinados, que estão visivelmente assustados com o ataque.  
+
+**Gatilho da Aventura:** Assim que os jogadores percebem a situação, peça para realizarem um **teste de Percepção (DC 13)**.  
+- **Sucesso:** Eles identificam mais goblins escondidos na vegetação ao redor, preparando uma segunda onda de ataque.  
+- **Falha:** Eles não percebem os goblins escondidos, e a segunda onda chega com vantagem na iniciativa mais tarde.  
+
+---
+
+### **A Emboscada**  
+Os goblins já estão atacando Kaldros e saqueando sua carroça quando os aventureiros chegam. O combate ocorre em **duas ondas** de inimigos, exigindo estratégia e trabalho em equipe dos jogadores para proteger o mercador e seus bens.
+
+**Primeira Onda:**  
+- **4 Goblins:** Estão atacando Kaldros e saqueando a carroça. Eles estão posicionados próximos à estrada e ao rio.  
+- **1 Lobo Domesticado:** Mantido como companheiro por um dos goblins, o lobo avança contra qualquer aventureiro que se aproximar.  
+
+**Segunda Onda (chega no final da 2ª rodada):**  
+- **3 Goblins:** Surgem da vegetação densa, tentando flanquear os aventureiros.  
+- **1 Bugbear Líder:** Comanda a emboscada de longe e só entra no combate quando a segunda onda chega. Ele carrega uma lança e tenta alvejar os alvos mais vulneráveis.  
+
+**Teste de Investigação ou Sobrevivência (DC 15):** Antes de se aproximarem, os jogadores podem procurar por sinais de armadilhas.  
+- **Sucesso:** Eles descobrem que os goblins colocaram uma armadilha de corda na trilha que leva à clareira.  
+- **Falha:** O primeiro personagem a passar pela área desencadeia a armadilha. Faça um teste de Destreza (DC 14). Em caso de falha, o personagem fica preso e incapacitado até ser libertado.  
+
+---
+
+### **Combate**  
+**Terreno:**  
+- **Margem do Rio:** O terreno próximo ao rio é escorregadio. Qualquer personagem que tente correr ou lutar na margem deve fazer um teste de Acrobacia (DC 12) para evitar cair na água.  
+- **Vegetação Densa:** Oferece cobertura leve (+2 CA) para os goblins que se escondem nela.  
+
+**Estratégias dos Inimigos:**  
+- Os goblins da primeira onda tentam manter distância, atacando com arcos curtos, enquanto o lobo avança para travar os aventureiros no corpo a corpo.  
+- A segunda onda tenta flanquear o grupo, enquanto o Bugbear usa sua força para focar em um único alvo. Ele pode tentar intimidar os aventureiros para forçá-los a recuar.  
+
+**Teste de Intimidação ou Persuasão (DC 15):** Durante o combate, os jogadores podem tentar convencer Kaldros a se juntar à luta.  
+- **Sucesso:** Kaldros usa uma besta leve que guarda na carroça para ajudar os aventureiros.  
+- **Falha:** Ele permanece escondido, assustado demais para reagir.  
+
+---
+
+### **Clímax:**  
+Quando a segunda onda for reduzida à metade, o Bugbear tenta negociar sua liberdade. Ele oferece informações sobre um acampamento goblin e revela que os goblins estão sendo pagos por uma gangue de bandidos para atacar mercadores.  
+
+---
+
+### **Conclusão:**  
+Os aventureiros podem:  
+1. **Salvar Kaldros:** Caso ele sobreviva, ele oferece uma recompensa de 50 PO e promete recomendar os aventureiros para os nobres de Blackfair Manor, abrindo portas para futuras oportunidades.  
+2. **Explorar o Acampamento Goblin:** Com as informações do Bugbear, o grupo pode rastrear o esconderijo dos goblins, onde encontram mais saque e pistas sobre os bandidos.  
+3. **Seguir as Pistas Sobre os Bandidos:** Isso pode levar a uma aventura maior, enfrentando a gangue que controla o comércio ilegal na região.  
+
+**Recompensas:**  
+- 25 PO em moedas e joias encontradas nos corpos dos inimigos.  
+
+
+Goblin
+Beyond 20
+Goblin
+Small Humanoid (Goblinoid), Neutral Evil
+Armor Class 15 (leather armor, shield)
+Hit Points 7 (2d6) 
+Speed 30 ft.
+Roll Initiative! +2
+STR
+8 (-1)
+DEX
+14 (+2)
+CON
+10 (+0)
+INT
+10 (+0)
+WIS
+8 (-1)
+CHA
+8 (-1)
+Skills Stealth +6 
+Senses Darkvision 60 ft., Passive Perception 9
+Languages Common, Goblin
+Challenge 1/4 (50 XP)
+Proficiency Bonus +2
+Traits
+Nimble Escape. The goblin can take the Disengage or Hide action as a bonus action on each of its turns.
+Actions
+Scimitar. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage.
+Shortbow. Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
+
+Beyond 20
+Bugbear
+Medium Humanoid (Goblinoid), Chaotic Evil
+Armor Class 16 (hide armor, shield)
+Hit Points 27 (5d8 + 5) 
+Speed 30 ft.
+Roll Initiative! +2
+STR
+15 (+2)
+DEX
+14 (+2)
+CON
+13 (+1)
+INT
+8 (-1)
+WIS
+11 (+0)
+CHA
+9 (-1)
+Skills Stealth +6, Survival +2 
+Senses Darkvision 60 ft., Passive Perception 10
+Languages Common, Goblin
+Challenge 1 (200 XP)
+Proficiency Bonus +2
+Traits
+Brute. A melee weapon deals one extra die of its damage when the bugbear hits with it (included in the attack).
+Surprise Attack. If the bugbear surprises a creature and hits it with an attack during the first round of combat, the target takes an extra 7 (2d6) damage from the attack.
+Actions
+Morningstar. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 11 (2d8 + 2) piercing damage.
+Javelin. Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 9 (2d6 + 2) piercing damage in melee or 5 (1d6 + 2) piercing damage at range.
+
+
+
+Beyond 20
+Wolf
+Medium Beast, Unaligned
+Armor Class 13 (natural armor)
+Hit Points 11 (2d8 + 2) 
+Speed 40 ft.
+Roll Initiative! +2
+
+
+STR
+12 (+1)
+DEX
+15 (+2)
+CON
+12 (+1)
+INT
+3 (-4)
+WIS
+12 (+1)
+CHA
+6 (-2)
+Skills Perception +3, Stealth +4 
+Senses Passive Perception 13
+Languages --
+Challenge 1/4 (50 XP)
+Proficiency Bonus +2
+Traits
+Keen Hearing and Smell. The wolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+Pack Tactics. The wolf has advantage on attack rolls against a creature if at least one of the wolf's allies is within 5 feet of the creature and the ally isn’t incapacitated.
+Actions
+Bite. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) piercing damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone.
