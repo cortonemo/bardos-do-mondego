@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/dm/-/npc/Orefield/bargrum_grimmhill.md",
+                "file": "docs/dm/-/npc/referenced_npcs_greyhawk.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "bargrum_grimmhill"
+              "title": "referenced_npcs_greyhawk"
             }
           },
           {
@@ -202,10 +202,18 @@
   },
   "active": "c334f2552873dd72",
   "lastOpenFiles": [
-    "docs/dm/-/npc/Free City of Grehawk/sanji.md",
-    "docs/dm/-/npc/Orefield/bargrum_grimmhill.md",
     "docs/dm/-/npc/Orefield/zarvokir.md",
+    "docs/dm/-/npc/referenced_npcs_greyhawk.md",
+    "docs/dm/-/organizations/culto_elemental.md",
     "docs/dm/-/npc/Orefield/thalen_fernwell.md",
+    "docs/dm/-/npc/Orefield/zarkovir.md",
+    "docs/dm/-/npc/Orefiled/zarkovir.md",
+    "docs/dm/-/npc/Orefiled",
+    "docs/dm/-/npc/zarkovir.md",
+    "zarkovir.md",
+    "docs/pc/-/pc_eldric_silvanos.md",
+    "docs/dm/-/npc/Orefield/bargrum_grimmhill.md",
+    "docs/dm/-/npc/Free City of Grehawk/sanji.md",
     "docs/dm/-/npc/Orefield/skarn.md",
     "docs/dm/-/npc/Orefield/hagar_shieldrun.md",
     "docs/npc/Orefield/hagar_shieldrun.md",
@@ -214,7 +222,6 @@
     "docs/npc/Orefield/thalen_fernwell.md",
     "docs/npc/Orefield/skarn.md",
     "docs/npc/Orefield",
-    "docs/dm/-/npc/referenced_npcs_greyhawk.md",
     "docs/dm/-/adventures/bullet/s30_idolo_de_lady_scale_bullet.md",
     "docs/dm/-/npc/Orefield",
     "docs/dm/-/adventures/bullet/sessões - Bullet Points.md",
@@ -224,12 +231,6 @@
     "docs/dm/-/adventures/bullet/s07_eribend_raptos_cultistas_odrak_bullet.md",
     "docs/dm/-/adventures/ready/s01_os_fungos_do_bosque_ready.md",
     "docs/dm/-/adventures/ready/s02_dificuldades_na_mina_de_obsidiana_ready.md",
-    "docs/adventures/-/s04_two_fords_doenca_moinho_summary.md",
-    "docs/adventures/-/s01_os_fungos_do_bosque_summary.md",
-    "docs/adventures/-/s30_idolo_de_lady_scale_summary.md",
-    "README.md",
-    "docs/npc/Abandoned Village/vaelkor_ashbrand.md",
-    "docs/dm/-/organizations/culto_elemental.md",
     "docs/assets/pc/pc_kai_01.png",
     "docs/assets/pc/pc_kai_02.png",
     "docs/lore/-/locations/cities/Iuz",
@@ -246,7 +247,6 @@
     "docs/pc/-/pc 1",
     "New folder",
     "docs/npc/Underdark Paladin",
-    "docs/npc/Ruined castle",
-    "docs/dm/-/npc/Ruined castle"
+    "docs/npc/Ruined castle"
   ]
 }
