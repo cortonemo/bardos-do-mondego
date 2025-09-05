@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/npc/Abandoned Village/vaelkor_ashbrand.md",
+                "file": "docs/dm/-/npc/Orefield/bargrum_grimmhill.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "vaelkor_ashbrand"
+              "title": "bargrum_grimmhill"
             }
           },
           {
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Kai",
+                "query": "sanji",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +95,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Procurar"
             }
           },
           {
@@ -202,35 +202,37 @@
   },
   "active": "c334f2552873dd72",
   "lastOpenFiles": [
-    "docs/dm/-/organizations/culto_elemental.md",
-    "docs/npc/Abandoned Village/vaelkor_ashbrand.md",
-    "docs/adventures/-/s29_a_expedicao_aos_esgotos_de_greyhawk_summary.md",
-    "docs/adventures/-/s29_idolo_de_lady_scale_summary.md",
-    "docs/adventures/-/s30_idolo_de_lady_scale_summary.md",
-    "docs/pc/-/pc_usopp.md",
-    "docs/pc/-/pc_kai.md",
-    "docs/pc/-/pc_conan_barbaro_ra.md",
     "docs/dm/-/npc/Free City of Grehawk/sanji.md",
-    "docs/dm/-/npc/Free City of Grehawk/blank_npc.md",
+    "docs/dm/-/npc/Orefield/bargrum_grimmhill.md",
+    "docs/dm/-/npc/Orefield/zarvokir.md",
+    "docs/dm/-/npc/Orefield/thalen_fernwell.md",
+    "docs/dm/-/npc/Orefield/skarn.md",
+    "docs/dm/-/npc/Orefield/hagar_shieldrun.md",
+    "docs/npc/Orefield/hagar_shieldrun.md",
+    "docs/npc/Orefield/bargrum_grimmhill.md",
+    "docs/npc/Orefield/zarvokir.md",
+    "docs/npc/Orefield/thalen_fernwell.md",
+    "docs/npc/Orefield/skarn.md",
+    "docs/npc/Orefield",
+    "docs/dm/-/npc/referenced_npcs_greyhawk.md",
+    "docs/dm/-/adventures/bullet/s30_idolo_de_lady_scale_bullet.md",
+    "docs/dm/-/npc/Orefield",
+    "docs/dm/-/adventures/bullet/sessões - Bullet Points.md",
+    "docs/dm/-/adventures/bullet/s28_o_museu_das_maravilhas_sombras_bullet.md",
+    "docs/dm/-/adventures/bullet/s10_o_segredo_de_peculiar_manor_bullet.md",
+    "docs/dm/-/adventures/bullet/s09_baile_dos_high_fae_bullet.md",
+    "docs/dm/-/adventures/bullet/s07_eribend_raptos_cultistas_odrak_bullet.md",
+    "docs/dm/-/adventures/ready/s01_os_fungos_do_bosque_ready.md",
+    "docs/dm/-/adventures/ready/s02_dificuldades_na_mina_de_obsidiana_ready.md",
+    "docs/adventures/-/s04_two_fords_doenca_moinho_summary.md",
+    "docs/adventures/-/s01_os_fungos_do_bosque_summary.md",
+    "docs/adventures/-/s30_idolo_de_lady_scale_summary.md",
+    "README.md",
+    "docs/npc/Abandoned Village/vaelkor_ashbrand.md",
+    "docs/dm/-/organizations/culto_elemental.md",
     "docs/assets/pc/pc_kai_01.png",
     "docs/assets/pc/pc_kai_02.png",
-    "docs/dm/-/pc/pc_kai.md",
-    "docs/dm/-/npc/Free City of Grehawk/aria_greenbottle.md",
-    "docs/dm/-/npc/Abandoned Village/vaelkor_ashbrand.md",
-    "docs/lore/-/locations/cities/dorakaa/dorakaa.md",
-    "docs/lore/-/locations/cities/Iuz/iuz.md",
     "docs/lore/-/locations/cities/Iuz",
-    "docs/pc/-/pc_eirwen.md",
-    "docs/pc/-/pc_dustin_thorne.md",
-    "docs/pc/-/pc_drayl_bharash.md",
-    "docs/pc/-/fichas icompletas/pc_wandering_sage.md",
-    "docs/pc/-/fichas icompletas/pc_tabasco_de_lumeiros.md",
-    "docs/pc/-/fichas icompletas/pc_silfir.md",
-    "docs/pc/-/fichas icompletas/pc_orianna.md",
-    "docs/pc/-/fichas icompletas/pc_lone_straw.md",
-    "docs/pc/-/fichas icompletas/pc_lucian_vyrolyn.md",
-    "docs/pc/-/fichas icompletas/pc_gauthak_vunakamune.md",
-    "docs/pc/-/fichas icompletas/pc_friedrick_junsi.md",
     "docs/pc/-/fichas icompletas",
     "docs/dm/-/pc/fichas icompletas",
     "docs/assets/pc/pc_wandering_sage.png",
@@ -245,8 +247,6 @@
     "New folder",
     "docs/npc/Underdark Paladin",
     "docs/npc/Ruined castle",
-    "docs/dm/-/npc/Ruined castle",
-    "docs/npc/Underdark Paladin",
-    "docs/dm/-/npc/Underdark Paladin"
+    "docs/dm/-/npc/Ruined castle"
   ]
 }
