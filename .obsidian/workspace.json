@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/lore/-/locations/cities/dorakaa/dorakaa.md",
+                "file": "docs/dm/-/npc/Free City of Grehawk/blank_npc.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "dorakaa"
+              "title": "blank_npc"
             }
           }
         ]
@@ -178,8 +178,11 @@
   },
   "active": "c334f2552873dd72",
   "lastOpenFiles": [
-    "docs/pc/-/pc_kai.md",
+    "docs/dm/-/npc/Free City of Grehawk/aria_greenbottle.md",
+    "docs/dm/-/npc/Free City of Grehawk/blank_npc.md",
+    "docs/dm/-/npc/Abandoned Village/vaelkor_ashbrand.md",
     "docs/lore/-/locations/cities/dorakaa/dorakaa.md",
+    "docs/pc/-/pc_kai.md",
     "docs/lore/-/locations/cities/Iuz/iuz.md",
     "docs/lore/-/locations/cities/Iuz",
     "docs/pc/-/pc_eirwen.md",
@@ -202,10 +205,7 @@
     "docs/pc/-/pc_silfir.md",
     "docs/pc/-/fichas icompletas 1/pc_markus_grimm 1.md",
     "docs/pc/-/fichas icompletas 1/pc_markus_grimm.md",
-    "docs/pc/-/fichas icompletas 1/pc_eldric_silvanus.md",
-    "docs/pc/-/pc_zeldris.md",
     "docs/pc/-/fichas icompletas",
-    "docs/dm/-/pc/fichas icompletas/pc_wandering_sage.md",
     "docs/dm/-/pc/fichas icompletas",
     "docs/assets/pc/pc_wandering_sage.png",
     "docs/assets/pc/pc_silfir.png",
