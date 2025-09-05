@@ -2,17 +2,17 @@
 
 ![Vaelkor Ashbrand](docs/assets/npc/npc_blank.png)
 
-| **Português (PT-PT)** | **English (EN-US)** |
-| --------------------- | ------------------- |
-| **Nome:** Vaelkor Ashbrand | **Name:** Vaelkor Ashbrand |
-| **Raça:** ??? | **Race:** ??? |
-| **Classe:** Mago | **Class:** Wizard |
-| **Alinhamento:** ??? | **Alignment:** ??? |
-| **Profissão / Função:** Líder do culto elemental | **Profession / Role:** Leader of the elemental cult |
-| **Localização:** [Aldeia Abandonada](aldeia_abandonada.md) | **Location:** [Abandoned Village](aldeia_abandonada.md) |
-| **Sessão:** 3 | **Session:** 3 |
-| **Data:** 2025-04-18 | **Date:** 2025-04-18 |
-| **Fonte:** s03.txt | **Source:** s03.txt |
+| **Português (PT-PT)**                                                  | **English (EN-US)**                                                       |
+| ---------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| **Nome:** Vaelkor Ashbrand                                             | **Name:** Vaelkor Ashbrand                                                |
+| **Raça:** ???                                                          | **Race:** ???                                                             |
+| **Classe:** Mago                                                       | **Class:** Wizard                                                         |
+| **Alinhamento:** ???                                                   | **Alignment:** ???                                                        |
+| **Profissão / Função:** Líder do [culto elemental](culto_elemental.md) | **Profession / Role:** Leader of the [elemental cult](culto_elemental.md) |
+| **Localização:** [Aldeia Abandonada](aldeia_abandonada.md)             | **Location:** [Abandoned Village](aldeia_abandonada.md)                   |
+| **Sessão:** 3                                                          | **Session:** 3                                                            |
+| **Data:** 2025-04-18                                                   | **Date:** 2025-04-18                                                      |
+| **Fonte:** s03.txt                                                     | **Source:** s03.txt                                                       |
 
 ---
 
