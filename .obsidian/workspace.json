@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c334f2552873dd72",
+            "id": "b51cf2b134853e9e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/dm/-/npc/referenced_npcs_greyhawk.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": false
-                }
-              },
-              "icon": "lucide-file",
-              "title": "referenced_npcs_greyhawk"
-            }
-          },
-          {
-            "id": "0dae97dc08265c3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/dm/-/organizations/culto_elemental.md",
+                "file": "docs/dm/-/pc/pc_orianna.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +28,17 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "culto_elemental"
+              "title": "pc_orianna"
+            }
+          },
+          {
+            "id": "0dae97dc08265c3e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -78,7 +64,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de ficheiros"
+              "title": "Files"
             }
           },
           {
@@ -112,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 328.5
+    "width": 515.5
   },
   "right": {
     "id": "91e5495a9d011ac2",
@@ -191,51 +177,54 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir Quick Switcher": false,
-      "graph:Abrir Visualização de diagrama de grafo": false,
-      "daily-notes:Abrir nota de hoje": false,
-      "templates:Inserir templates": false,
-      "command-palette:Abrir paleta de comando": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "canvas:Create new canvas": false
     }
   },
-  "active": "c334f2552873dd72",
+  "active": "b51cf2b134853e9e",
   "lastOpenFiles": [
-    "docs/dm/-/npc/Orefield/zarvokir.md",
-    "docs/dm/-/npc/referenced_npcs_greyhawk.md",
-    "docs/dm/-/organizations/culto_elemental.md",
-    "docs/dm/-/npc/Orefield/thalen_fernwell.md",
-    "docs/dm/-/npc/Orefield/zarkovir.md",
-    "docs/dm/-/npc/Orefiled/zarkovir.md",
-    "docs/dm/-/npc/Orefiled",
-    "docs/dm/-/npc/zarkovir.md",
-    "zarkovir.md",
-    "docs/pc/-/pc_eldric_silvanos.md",
-    "docs/dm/-/npc/Orefield/bargrum_grimmhill.md",
-    "docs/dm/-/npc/Free City of Grehawk/sanji.md",
-    "docs/dm/-/npc/Orefield/skarn.md",
-    "docs/dm/-/npc/Orefield/hagar_shieldrun.md",
-    "docs/npc/Orefield/hagar_shieldrun.md",
-    "docs/npc/Orefield/bargrum_grimmhill.md",
-    "docs/npc/Orefield/zarvokir.md",
-    "docs/npc/Orefield/thalen_fernwell.md",
-    "docs/npc/Orefield/skarn.md",
-    "docs/npc/Orefield",
-    "docs/dm/-/adventures/bullet/s30_idolo_de_lady_scale_bullet.md",
-    "docs/dm/-/npc/Orefield",
-    "docs/dm/-/adventures/bullet/sessões - Bullet Points.md",
-    "docs/dm/-/adventures/bullet/s28_o_museu_das_maravilhas_sombras_bullet.md",
-    "docs/dm/-/adventures/bullet/s10_o_segredo_de_peculiar_manor_bullet.md",
-    "docs/dm/-/adventures/bullet/s09_baile_dos_high_fae_bullet.md",
-    "docs/dm/-/adventures/bullet/s07_eribend_raptos_cultistas_odrak_bullet.md",
-    "docs/dm/-/adventures/ready/s01_os_fungos_do_bosque_ready.md",
-    "docs/dm/-/adventures/ready/s02_dificuldades_na_mina_de_obsidiana_ready.md",
+    "docs/dm/-/pc/pc_arkos_vasell.md",
+    "docs/dm/-/pc/pc_orianna.md",
+    "docs/dm/-/pc/fichas icompletas/pc_bok_thunderfist.md",
+    "docs/dm/-/pc/fichas icompletas/pc_asinius.md",
+    "docs/dm/-/pc/pc_conan_barbaro_ra.md",
+    "docs/pc/-/pc_arkos_vasell.md",
+    "docs/pc/-/pc_conan_barbaro_ra.md",
+    "docs/index.md",
+    "tools/docs_structure.txt",
+    "docs/organizations/AllOrganizations.txt",
+    "tools/merge_texts_gui_folders.py",
+    "tools/fix_mojibake (2).py",
+    "tools/rename_and_fix_links.py",
+    "tools/print_folder_structure.py",
+    "tools/obsidian_to_plain_gui_updated.py",
+    "tools/obsidian_to_plain_gui_final3.py",
+    "tools/obsidian_to_plain_gui_final2.py",
+    "tools/merge.py",
+    "docs/lore/-/timeline/greyhawk_sessions_complete.md",
+    "docs/s28_idolo_de_lady_scale.md",
+    "docs/dm/-/s30_idolo_de_lady_scale_bullet.md",
+    "docs/dm/-/s29_idolo_de_lady_scale_bullet.md",
+    "docs/dm/-/s28_idolo_de_lady_scale_bullet.md",
+    "docs/dm/-/s21_s22_casino_heist_bullet.md",
+    "docs/dm/-/s16_a_crianca_perdida_bullet.md",
+    "docs/dm/-/adventures/ready/s30_idolo_de_lady_scale_ready 1.md",
+    "docs/dm/-/adventures/ready/s30_idolo_de_lady_scale_ready.md",
+    "docs/dm/-/adventures/ready/s29_idolo_de_lady_scale_ready 1.md",
+    "docs/dm/-/adventures/ready/s29_idolo_de_lady_scale_ready.md",
+    "docs/dm/-/adventures/ready/s28_idolo_de_lady_scale_ready 1.md",
+    "docs/dm/-/adventures/ready/s21_s22_casino_heist_ready 1.md",
+    "docs/dm/-/adventures/ready/s16_a_crianca_perdida_ready 1.md",
+    "docs/dm/-/adventures/bullet/s30_idolo_de_lady_scale_bullet 1.md",
+    "docs/dm/-/adventures/bullet/s29_idolo_de_lady_scale_bullet 1.md",
+    "docs/dm/-/adventures/bullet/s28_idolo_de_lady_scale_bullet 1.md",
     "docs/assets/pc/pc_kai_01.png",
     "docs/assets/pc/pc_kai_02.png",
-    "docs/lore/-/locations/cities/Iuz",
-    "docs/pc/-/fichas icompletas",
-    "docs/dm/-/pc/fichas icompletas",
     "docs/assets/pc/pc_wandering_sage.png",
     "docs/assets/pc/pc_silfir.png",
     "docs/assets/pc/pc_markus_grimm_02 1.png",
@@ -243,10 +232,6 @@
     "docs/assets/pc/pc_markus_grimm_01 1.png",
     "docs/assets/pc/pc_lone_straw.png",
     "docs/assets/pc/pc_frederick_freddy_02.png",
-    "docs/assets/pc/pc_frederick_freddy_01.png",
-    "docs/pc/-/pc 1",
-    "New folder",
-    "docs/npc/Underdark Paladin",
-    "docs/npc/Ruined castle"
+    "docs/assets/pc/pc_frederick_freddy_01.png"
   ]
 }

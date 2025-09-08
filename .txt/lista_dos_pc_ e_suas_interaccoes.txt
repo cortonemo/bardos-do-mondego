@@ -1,0 +1,970 @@
+Aqui está um jornal de bordo estruturado para a campanha West Marches em Greyhawk para o ano de 2025, organizado por Personagem Jogador (PC), conforme solicitado.
+--------------------------------------------------------------------------------
+Jornal de Bordo — 2025
+Este jornal de bordo detalha as aventuras em que cada Personagem Jogador (PC) participou ao longo do ano de 2025, de acordo com a linha temporal fornecida e os ficheiros de sessões.
+Arkos (PC)
+• Sessões:
+    ◦ S03B: Emboscada nas Margens do Rio Neem (998 CY, 01 de Ready'reat / 2025-01-15)
+        ▪ NPCs: Kaldros Veynor (Tiefling Mercador) (NPC), Kythria (NPC), Goblins (NPC), Lobo (Animal) (NPC), Bugbear Líder (NPC).
+        ▪ Localizações: Rio Neem (rio), Peculiar Manor (mansão) [inferido], Blackfair Manor (mansão) [inferido].
+        ▪ Loot: 50 GP (de Kaldros, se for salvo)
+, 25 GP (dos inimigos), Pistas para acampamento goblin
+.
+    ◦ S06A: Mistério da Doença em Two Fords (998 CY, 20 de Ready'reat / 2025-01-29)
+        ▪ NPCs: Kaldros (Mercador) (NPC), Geralt (Taverneiro) (NPC), Cultistas (NPC), Fauna Corrompida (Monstro) (NPC).
+        ▪ Localizações: Two Fords (vila), Rio Ery (rio), Moinho Abandonado (moinho).
+        ▪ Loot: Gemas (10 GP por cultista)
+, Ervas e provas do moinho
+.
+Asinius (PC)
+• Sessões:
+    ◦ S31A: Mapeamento dos Esgotos de Greyhawk e Piratas das Orquídeas Negras (999 CY, 05 de Flocktime / 2025-07-24)
+        ▪ NPCs: Taverneiro (NPC), Guardas (NPC), Ralph (Capitão Pirata, Filho de Nobre) (NPC), Tripulação Orquídeas Negras (Crianças de Rua) (NPC).
+        ▪ Localizações: Taberna (base), Esgotos de Greyhawk (esgotos), Gardens Quarter (bairro).
+        ▪ Loot: 33 GP (cada um, da polícia)
+, 200 GP (cada um, do Taverneiro), Anel (vendido +10 GP cada)
+.
+Bok Thunderfist (PC)
+• Sessões:
+    ◦ S11A: O Pântano Místico e as Pedras Mágicas (998 CY, 03 de Sunsebb / 2025-02-13)
+        ▪ NPCs: Baltigard (Humano) (NPC), Cocas (Bullywug) (NPC), Mestre Yoda (Chefe Bullywug) (NPC), Basilisco Progenitor (Monstro) (NPC), Thoren (Mestre de Kung Fu) (NPC).
+        ▪ Localizações: Pântano Místico (pântano), Aldeia Bullywug (aldeia), Grutas (grutas), Ruínas (ruínas), Terceiro Templo (templo).
+        ▪ Loot: Boots of Blinding Speed (Bok Thunderfist)
+, Basilisk eye, três pedras mágicas, pergaminho de ritual elemental, ouro, anel de chamada
+.
+    ◦ S25A: O Resgate da Criança Perdida (Aria Greenbottle) (999 CY, 12 de Planting / 2025-04-24)
+        ▪ NPCs: Aria Greenbottle (Halfling) (NPC), Tobias Greenbottle (Pai) (NPC), Eliza Greenbottle (Mãe) (NPC), Finn Greenbottle (Irmão gémeo) (NPC), Guarda da Cidade (NPC), Taverneiro (NPC), Armadura Animada (Monstro) (NPC), Ghast (Monstro) (NPC), Ghouls (Monstro) (NPC), Zombies (Monstro) (NPC), Enxame de Morcegos (Monstro) (NPC), Criatura das Sombras (Monstro) (NPC), Espectro (Boss) (NPC), Enxame de Ratos (Monstro) (NPC).
+        ▪ Localizações: Casa dos Greenbottle (Greyhawk) (casa), Ruínas das Sombras (ruínas), Cripta das Sombras (cripta).
+        ▪ Loot: 100 PO
+, Poções, Gema das Cinco Vozes (misteriosa), Diário
+.
+    ◦ S26A: O Golpe dos Dados Rubi (Parte 1) (999 CY, 18 de Planting / 2025-05-29)
+        ▪ NPCs: Drennar Solace (“A Aranha Dourada”) (NPC), Sirona da Agulha Velada (Ilusionista Élfica) (NPC), Velric “Veludo” Dazzlehand (Chefe de Piso Halfling) (NPC), Big Lou (Porteiro Meio-Ogro) (NPC), Lorde Aleister Devraine (Nobre Arrogante) (NPC), Luckkeepers (Autómatos Arcanos) (NPC), Espírito da Câmara Silenciosa (NPC), Mestres do Duelo Falso (NPC), Pintura Vigilante (NPC), Dançarina dos Espelhos (NPC), Espírito do Juramento (NPC), Leiloeiro da Troca Rubi (NPC).
+        ▪ Localizações: Armazém Hexagonal (armazém), Casino “O Quinto Jogo” (cassino, Bairro do Rio, Greyhawk).
+        ▪ Loot: Fragmento arcano (entregue a Lord Aleister Devraine)
+.
+    ◦ S27A: O Golpe dos Dados Rubi (Parte 2) (999 CY, 01 de Flocktime / 2025-06-05)
+        ▪ NPCs: Drennar Solace (“A Aranha Dourada”) (NPC), Sirona da Agulha Velada (Ilusionista Élfica) (NPC), Velric “Veludo” Dazzlehand (Chefe de Piso Halfling) (NPC), Big Lou (Porteiro Meio-Ogro) (NPC), Lorde Aleister Devraine (Nobre Arrogante) (NPC), Luckkeepers (Autómatos Arcanos) (NPC).
+        ▪ Localizações: Casino “O Quinto Jogo” (cassino), Sala do Cavaleiro (sala), Sala do Cofre (sala).
+        ▪ Loot: Dados Rubi da Fortuna (para o contratante)
+, Fragmento arcano (entregue a Lorde Aleister Devraine)
+.
+    ◦ S30A: O Ídolo de Lady Scale (Sessão 28) (999 CY, 05 de Flocktime / 2025-07-17)
+        ▪ NPCs: Lady Silvra Malren (Nobre Excêntrica) (NPC), Wenla Frott (Livreira Gnoma) (NPC), Mistress Lyral Quil (Curadora, Grande Biblioteca) (NPC), Gangue de Goblins (NPC), Chefe Goblin (NPC).
+        ▪ Localizações: Solar de Lady Silvra (Greyhawk) (mansão), Livraria de Wenla (livraria), Grande Biblioteca (biblioteca), Estrada para as Terras Altas (estrada).
+        ▪ Loot: Carta do Legado (objeto narrativo)
+, Direções vagas (objeto narrativo)
+.
+    ◦ S31B: O Ídolo de Lady Scale (Sessão 29) (999 CY, 06 de Flocktime / 2025-07-24)
+        ▪ NPCs: Wandering Sage (PC), Sacerdotisa Lizardfolk (NPC), Acólitos Lizardfolk (NPC), Esqueletos (Monstro) (NPC).
+        ▪ Localizações: Acampamento de Wandering Sage (acampamento) [inferido], Ruínas Antigas (ruínas), Ruínas Submersas (ruínas).
+        ▪ Loot: Adagas (recebidas na troca cultural)
+, Ouro
+.
+    ◦ S32A: O Ídolo de Lady Scale (Sessão 30) (999 CY, 07 de Flocktime / 2025-07-31)
+        ▪ NPCs: Eirwen (PC), Lady Scale (Fantasma) (NPC), Snert/Pufftail (Sacerdote Kobold) (NPC), Kobolds Cromáticos (The Scale-Flock) (NPC).
+        ▪ Localizações: Estância Kobold (spa), Sala Silenciosa (sala).
+        ▪ Loot: Ouro
+.
+Conan (PC)
+• Sessões:
+    ◦ S01A: Riacho Poluído e o Fungo Elemental (998 CY, 15 de Patchwall / 2025-01-02)
+        ▪ NPCs: Taverneiro (NPC), Borogrove (Treant) (NPC), Galin Fiduain (Druida) (NPC).
+        ▪ Localizações: Taberna (base), High Ery (vila) [inferido], Riacho (rio), Caverna (gruta).
+        ▪ Loot: 1 gema (Conan)
+.
+    ◦ S02A: Resgate na Mina de Obsidiana (998 CY, 28 de Patchwall / 2025-01-09)
+        ▪ NPCs: Taverneiro (NPC), Kristryd Splitanvil (Anão) (NPC), Thargrin (Anão morto) (NPC), Hook Horror (Monstro) (NPC), Cubo Gelatinoso (Monstro) (NPC).
+        ▪ Localizações: Mina de Obsidiana (mina), Blackstone (vila) [inferido], Montanhas Cairn (montanhas) [inferido].
+        ▪ Loot: [Nenhum loot explícito nos extratos de fontes].
+    ◦ S03A: A Calamidade do Vale do Vento Sombrio (1) (998 CY, 01 de Ready'reat / 2025-01-15)
+        ▪ NPCs: Klipz (Kobold) (NPC), Vaelkor Ashbrand (Cultista) (NPC), Cultistas (NPC), Kobolds (NPC), Elemental da Terra (Monstro) (NPC).
+        ▪ Localizações: Vale do Vento Sombrio (vale), Vila Kobold (vila).
+        ▪ Loot: Bastão com uso limitado (Conan)
+, Poção de Cura, Amuleto +1, Carta, Refeições grátis por 1 mês, Armas/robes, 200GP (Taverneiro)
+.
+    ◦ S05A: Retorno ao Vale do Vento Sombrio e o Dragão Syzzin (998 CY, 08 de Ready'reat / 2025-01-23)
+        ▪ NPCs: Syzzin (Dragão) (NPC), Clipse (Kobold) (NPC) [sacrificou-se], Rix (Kobold criança) (NPC), Kobolds cultistas (NPC).
+        ▪ Localizações: Vale do Vento Sombrio (vale), Acampamento Kobold (acampamento), Toca do Dragão (gruta), Altar de Wee Jas (altar).
+        ▪ Loot: 39 GP (Conan)
+, Bastão com uso limitado (Conan), Mão cheia de dedos, Pergaminho de feitiço de Alarm (Vaunia), Pergaminho de feitiço de Comprehend Languages (Triss), 2 capas de cultista novato (Triss e Dustin), 1 capa de cultista tenente (Grix'Molah)
+.
+    ◦ S11A: O Pântano Místico e as Pedras Mágicas (998 CY, 03 de Sunsebb / 2025-02-13)
+        ▪ NPCs: Baltigard (Humano) (NPC), Cocas (Bullywug) (NPC), Mestre Yoda (Chefe Bullywug) (NPC), Basilisco Progenitor (Monstro) (NPC), Thoren (Mestre de Kung Fu) (NPC), XP T O (Illithid/Mind Flayer) (NPC).
+        ▪ Localizações: Pântano Místico (pântano), Aldeia Bullywug (aldeia), Grutas (grutas), Ruínas (ruínas), Terceiro Templo (templo).
+        ▪ Loot: Gaita de Foles da Invisibilidade (Conan)
+, Basilisk eye, três pedras mágicas, pergaminho de ritual elemental, ouro, anel de chamada
+.
+    ◦ S12A: Baile na Blackfair Manor e o Lorde Coriver (998 CY, 04 de Sunsebb / 2025-03-06)
+        ▪ NPCs: Rainha Caecena (Rainha dos High Fae) (NPC), Lord Coriver (Inimigo da Rainha) (NPC), Prysanna (Fey) (NPC), Vesta (NPC), Arriya (NPC), Fifaera (NPC), Zenvis (NPC), Whisperer (NPC), Homens-Serpente (NPC), Minhoca Gigante (Monstro) (NPC).
+        ▪ Localizações: Castelo (castelo), Covil de Lord Coriver (covil).
+        ▪ Loot: [Nenhum loot explícito nos extratos de fontes].
+    ◦ S14A: Rota da Companhia: Sangue e Ouro no Pântano (998 CY, 17 de Sunsebb / 2025-03-13)
+        ▪ NPCs: Contratantes da Companhia (NPC), Antiga Namorada de Conan (Sacerdotisa do Culto) (NPC), Bullywugs (NPC), Basilisco da Lama (Monstro) (NPC), Obelisco Negro (Artefacto) (NPC), Beltar (Deusa) (NPC), Nerull (Deus) (NPC), Gladiadores (NPC), Mestre Kaeelen (NPC).
+        ▪ Localizações: Mistmarsh (pântano), Aldeia Bullywug (aldeia), Mina-Gladiadora (mina), Ruínas de Templo Elemental (ruínas).
+        ▪ Loot: Ouro da Companhia (600/700 gold)
+, Equipamentos raros do arsenal da mina
+.
+    ◦ S24A: O Desaparecimento de Abigail e a Prefeita Shapeshifter (999 CY, 10 de Planting / 2025-04-10)
+        ▪ NPCs: Dama Abril (Halfling Prefeita, Shapeshifter) (NPC), Abigail (Filha, Shapeshifter) (NPC), Guarda Pero (NPC), Roger (Dono de Loja de Brinquedos) (NPC), Lyra (Corpo da raposa) (NPC), Mimics (Monstro) (NPC), Shapeshifters (Monstro) (NPC), BBEG (Monstro) (NPC).
+        ▪ Localizações: Pessegueiro (vila), Prefeitura (edifício), Casa de Abigail (casa), Caverna dos Dois Postes (caverna), Gruta (gruta), Loja de Brinquedos (loja), Esgoto de Pessegueiro (esgoto), Mansão de Espelhos (mansão/dimensão alternativa).
+        ▪ Loot: 160 GP (cada um, pela resgate de Abigail)
+, Colar de rubis e esmeraldas, 360 GP
+.
+    ◦ S26A: O Golpe dos Dados Rubi (Parte 1) (999 CY, 18 de Planting / 2025-05-29)
+        ▪ NPCs: Drennar Solace (“A Aranha Dourada”) (NPC), Sirona da Agulha Velada (Ilusionista Élfica) (NPC), Velric “Veludo” Dazzlehand (Chefe de Piso Halfling) (NPC), Big Lou (Porteiro Meio-Ogro) (NPC), Lorde Aleister Devraine (Nobre Arrogante) (NPC), Luckkeepers (Autómatos Arcanos) (NPC), Espírito da Câmara Silenciosa (NPC), Mestres do Duelo Falso (NPC), Pintura Vigilante (NPC), Dançarina dos Espelhos (NPC), Espírito do Juramento (NPC), Leiloeiro da Troca Rubi (NPC).
+        ▪ Localizações: Armazém Hexagonal (armazém), Casino “O Quinto Jogo” (cassino, Bairro do Rio, Greyhawk).
+        ▪ Loot: Fragmento arcano (entregue a Lord Aleister Devraine)
+.
+    ◦ S27A: O Golpe dos Dados Rubi (Parte 2) (999 CY, 01 de Flocktime / 2025-06-05)
+        ▪ NPCs: Drennar Solace (“A Aranha Dourada”) (NPC), Sirona da Agulha Velada (Ilusionista Élfica) (NPC), Velric “Veludo” Dazzlehand (Chefe de Piso Halfling) (NPC), Big Lou (Porteiro Meio-Ogro) (NPC), Lorde Aleister Devraine (Nobre Arrogante) (NPC), Luckkeepers (Autómatos Arcanos) (NPC).
+        ▪ Localizações: Casino “O Quinto Jogo” (cassino), Sala do Cavaleiro (sala), Sala do Cofre (sala).
+        ▪ Loot: Dados Rubi da Fortuna (para o contratante)
+, Fragmento arcano (entregue a Lorde Aleister Devraine)
+.
+Dustin (PC)
+• Sessões:
+    ◦ S01A: Riacho Poluído e o Fungo Elemental (998 CY, 15 de Patchwall / 2025-01-02)
+        ▪ NPCs: Taverneiro (NPC), Borogrove (Treant) (NPC), Galin Fiduain (Druida) (NPC).
+        ▪ Localizações: Taberna (base), High Ery (vila) [inferido], Riacho (rio), Caverna (gruta).
+        ▪ Loot: Livro do druida (entregue ao Taverneiro)
+, Crânio de lobo (Dustin), Tíbias de lobo (Dustin), Fémur de lobo (Dustin), Inchada (Dustin), 1 capa de cultista novato (Dustin)
+.
+    ◦ S02A: Resgate na Mina de Obsidiana (998 CY, 28 de Patchwall / 2025-01-09)
+        ▪ NPCs: Taverneiro (NPC), Kristryd Splitanvil (Anão) (NPC), Thargrin (Anão morto) (NPC), Hook Horror (Monstro) (NPC), Cubo Gelatinoso (Monstro) (NPC).
+        ▪ Localizações: Mina de Obsidiana (mina), Blackstone (vila) [inferido], Montanhas Cairn (montanhas) [inferido].
+        ▪ Loot: 6 Dentes de Hook Horror (Dustin)
+, Topázio (Triss)
+.
+    ◦ S03A: A Calamidade do Vale do Vento Sombrio (1) (998 CY, 01 de Ready'reat / 2025-01-15)
+        ▪ NPCs: Klipz (Kobold) (NPC), Vaelkor Ashbrand (Cultista) (NPC), Cultistas (NPC), Kobolds (NPC), Elemental da Terra (Monstro) (NPC).
+        ▪ Localizações: Vale do Vento Sombrio (vale), Vila Kobold (vila).
+        ▪ Loot: Poção de Cura
+, Amuleto +1, Carta, Refeições grátis por 1 mês, Armas/robes, 200GP (Taverneiro)
+.
+    ◦ S05A: Retorno ao Vale do Vento Sombrio e o Dragão Syzzin (998 CY, 08 de Ready'reat / 2025-01-23)
+        ▪ NPCs: Syzzin (Dragão) (NPC), Clipse (Kobold) (NPC) [sacrificou-se], Rix (Kobold criança) (NPC), Kobolds cultistas (NPC).
+        ▪ Localizações: Vale do Vento Sombrio (vale), Acampamento Kobold (acampamento), Toca do Dragão (gruta), Altar de Wee Jas (altar).
+        ▪ Loot: 39 GP (Dustin)
+, Mão cheia de dedos, Pergaminho de feitiço de Alarm (Vaunia), Pergaminho de feitiço de Comprehend Languages (Triss), 2 capas de cultista novato (Dustin), 1 capa de cultista tenente (Grix'Molah)
+.
+    ◦ S08A: Mistwood e a Acólita Morvanya (998 CY, 01 de Sunsebb / 2025-01-30)
+        ▪ NPCs: Morvanya (Manvea) (Acólita de Nerull) (NPC), Egalar (Paladino de Titania) (NPC), Padre de Pelor (Sombra) (NPC), Aldeões Mortos-Vivos (NPC), Wee Jas (Deusa) (NPC).
+        ▪ Localizações: Mistwood (vila), Taberna "Última Folha" (taberna), Capela Profanada (capela), Altar de Nerull (altar), Altar de Titania (altar).
+        ▪ Loot: Escudo (Dustin)
+, 50 GP (cada um), 1 capa feita da tapeçaria de Nerull (Dustin)
+.
+    ◦ S12A: Baile na Blackfair Manor e o Lorde Coriver (998 CY, 04 de Sunsebb / 2025-03-06)
+        ▪ NPCs: Rainha Caecena (Rainha dos High Fae) (NPC), Lord Coriver (Inimigo da Rainha) (NPC), Prysanna (Fey) (NPC), Vesta (NPC), Arriya (NPC), Fifaera (NPC), Zenvis (NPC), Whisperer (NPC), Homens-Serpente (NPC), Minhoca Gigante (Monstro) (NPC).
+        ▪ Localizações: Castelo (castelo), Covil de Lord Coriver (covil).
+        ▪ Loot: [Nenhum loot explícito nos extratos de fontes].
+    ◦ S14A: Rota da Companhia: Sangue e Ouro no Pântano (998 CY, 17 de Sunsebb / 2025-03-13)
+        ▪ NPCs: Contratantes da Companhia (NPC), Antiga Namorada de Conan (Sacerdotisa do Culto) (NPC), Bullywugs (NPC), Basilisco da Lama (Monstro) (NPC), Obelisco Negro (Artefacto) (NPC), Beltar (Deusa) (NPC), Nerull (Deus) (NPC), Gladiadores (NPC), Mestre Kaeelen (NPC).
+        ▪ Localizações: Mistmarsh (pântano), Aldeia Bullywug (aldeia), Mina-Gladiadora (mina), Ruínas de Templo Elemental (ruínas).
+        ▪ Loot: Ouro da Companhia (600/700 gold)
+, Equipamentos raros do arsenal da mina
+.
+    ◦ S16A: A Chantagem de Kai e a Captura de Dustin (999 CY, 07 de Fireseek / 2025-03-13)
+        ▪ NPCs: Raveth Xil'Zyrl (Drow Chantagista) (NPC), Vareth Lionmane (Inquisidor, Paladino de Beltar) (NPC), Sybel Astren (Caçadora, Paladina de Beltar) (NPC), Garruk Valstein (Paladino de Beltar) (NPC), Sir Brand Orvain (Paladino de Beltar) (NPC), Luthor “Martelo da Fé” Greystone (Paladino de Beltar) (NPC), Cães Demoníacos (Monstro) (NPC), Bandidos (NPC).
+        ▪ Localizações: Taberna (base), Ruínas da Casa Vanthir (ruínas), Altar a Celestia (altar).
+        ▪ Loot: Artefato sombrio (deixado por Raveth)
+, Crânio de lobo (reforça a conexão de Dustin com um grande lobo enviado por Beltar)
+.
+    ◦ S17B: Resgate de Dustin e Teleporte da Taberna (999 CY, 08 de Fireseek / 2025-03-20)
+        ▪ NPCs: Malrik Dorn (Alto-Inquisidor, Paladino de Beltar) (NPC) [personalidade Hector Scornsbane]
+, Spectator (Monstro) (NPC), Golem de Ossos (Monstro) (NPC), Prysanna (Fey) (NPC), Paladinos de Beltar (NPC).
+        ▪ Localizações: Castelo Ruína-de-Ébano (castelo), Taberna (base), Cidade Livre de Greyhawk (cidade).
+        ▪ Loot: Arma mágica temporária (de energia fey, dada a Dustin por Prysanna)
+, 2 peitorais, 3 lanças, 1 lança mágica, 1 braçadeira de defesa, 2 machados grandes, 2 poções de cura, 1 tomo mágico, 500 gold, Anel mágico (permite encontrar a taberna na cidade)
+.
+    ◦ S22A: Procissão da Ordem Escarlate e o Cetro Amaldiçoado (999 CY, 27 de Coldeven / 2025-04-10)
+        ▪ NPCs: Líder da Ordem Escarlate (NPC), Clérigos (NPC), Civis (NPC), Aparição Espectral (NPC), Zan (Deus da Ordem Escarlate) (NPC), Anão Blacksmith (NPC).
+        ▪ Localizações: Greyhawk (cidade), Templo Destruído (templo), Biblioteca Arcana (biblioteca), Templo Atual da Ordem de Scarlat (templo).
+        ▪ Loot: Cetro de False Life (amaldiçoado) (Dustin)
+, Mão mumificada (de Zan), Pedra verde fluorescente
+.
+    ◦ S27B: A Visão de Pryssana e o Chifre de Unicórnio (999 CY, 01 de Flocktime / 2025-06-05)
+        ▪ NPCs: Pryssana (Fey) (NPC), Unicórnio Sagrado (Criatura Mágica) (NPC), Kobolds Tribais (NPC), Kobold Shaman (NPC), Guardião Ancião (Líder Guerreiro Kobold) (NPC), Titania (Deusa) (NPC).
+        ▪ Localizações: Vale de Lytharien (vale).
+        ▪ Loot: Corno sagrado do unicórnio (forjável numa espada mágica +2)
+, Bênção de Titania (vantagem em testes de Carisma com fey e animais por 30 dias), Artefatos tribais, Oferendas do vale
+.
+Drayl (PC)
+• Sessões:
+    ◦ S07A: O Acampamento Goblin e o Ritual de Nerull (998 CY, 22 de Ready'reat / 2025-01-30)
+        ▪ NPCs: Taverneiro (NPC), Kythria (NPC), Jogmaahx (Goblin Xamã) (NPC), Ogre (NPC), Vaelkor Ashbrand (Cultista) (NPC) [mencionado], Prisioneiros (humanos/élficos/goblins) (NPC).
+        ▪ Localizações: Acampamento Goblin (acampamento), Rio (rio), Altar (altar).
+        ▪ Loot: 50 GP (cada um)
+, Carta de Vaelkor Ashbrand, Armas goblin
+.
+    ◦ S12A: Baile na Blackfair Manor e o Lorde Coriver (998 CY, 04 de Sunsebb / 2025-03-06)
+        ▪ NPCs: Rainha Caecena (Rainha dos High Fae) (NPC), Lord Coriver (Inimigo da Rainha) (NPC), Prysanna (Fey) (NPC), Vesta (NPC), Arriya (NPC), Fifaera (NPC), Zenvis (NPC), Whisperer (NPC), Homens-Serpente (NPC), Minhoca Gigante (Monstro) (NPC).
+        ▪ Localizações: Castelo (castelo), Covil de Lord Coriver (covil).
+        ▪ Loot: [Nenhum loot explícito nos extratos de fontes].
+    ◦ S25A: O Resgate da Criança Perdida (Aria Greenbottle) (999 CY, 12 de Planting / 2025-04-24)
+        ▪ NPCs: Aria Greenbottle (Halfling) (NPC), Tobias Greenbottle (Pai) (NPC), Eliza Greenbottle (Mãe) (NPC), Finn Greenbottle (Irmão gémeo) (NPC), Guarda da Cidade (NPC), Taverneiro (NPC), Armadura Animada (Monstro) (NPC), Ghast (Monstro) (NPC), Ghouls (Monstro) (NPC), Zombies (Monstro) (NPC), Enxame de Morcegos (Monstro) (NPC), Criatura das Sombras (Monstro) (NPC), Espectro (Boss) (NPC), Enxame de Ratos (Monstro) (NPC).
+        ▪ Localizações: Casa dos Greenbottle (Greyhawk) (casa), Ruínas das Sombras (ruínas), Cripta das Sombras (cripta).
+        ▪ Loot: 100 PO
+, Poções, Gema das Cinco Vozes (misteriosa), Diário
+.
+    ◦ S35A: Sombras Sobre a Água (2025-07-24) [inferido]
+        ▪ NPCs: Darvek (Espião/Informante) (NPC), Lorde Vaeltherin Duskbane (Cultista) (NPC), Elementais Menores de Terra (Monstro) (NPC), Brennan (Taverneiro) (NPC), Sombras Corruptas (Monstro) (NPC), Aparição Sombria (Monstro) (NPC), Corações de Sombra (Monstro) (NPC), Pravi Smjer (Tenente de Vaeltherin) (NPC), Warg (Monstro) (NPC).
+        ▪ Localizações: Grande Taberna de Greyhawk (base), Miren's Hollow (aldeia), Lago Sombrio (lago), Taberna "A Sombra e a Água" (taberna), Gruta das Sombras (gruta).
+        ▪ Loot: 500 GP (dividido por todos)
+, Medalhão (corrompe quem o usa) (Gauthak)
+.
+Eirwen (PC)
+• Sessões:
+    ◦ S29A: O Museu das Maravilhas Sombras (999 CY, 05 de Flocktime / 2025-07-10)
+        ▪ NPCs: Curador Darsen (Mago Ilusionista) (NPC), Yzr'alith (Espírito do Medo e Curiosidade) (NPC), Raelith (Demónio) (NPC), Zael (Gnomo Sobrevivente) (NPC), Autómatos/Robôs do Museu (NPC), Mimic (Príncipe) (NPC), Esposa de Darsen (NPC), Liwana (Amiga de Ulma) (NPC).
+        ▪ Localizações: Museu das Maravilhas Naturais e Arcanas de Greyhawk (museu), Vias de Ventilação (local), Salas Secretas (salas), Laboratório (laboratório), Loja de Presentes (loja).
+        ▪ Loot: Máscara de Observação (Detect Magic 1/dia)
+, Miniatura de Gárgula Viva (Find Familiar), Livro da Curiosidade Proibida (vantagem History/Arcana 7 dias, exaustão depois), 100 GP (cada PC, da loja de presentes), 1 Gema (cada PC, 30 GP, da loja de presentes)
+.
+    ◦ S31A: Mapeamento dos Esgotos de Greyhawk e Piratas das Orquídeas Negras (999 CY, 05 de Flocktime / 2025-07-24)
+        ▪ NPCs: Taverneiro (NPC), Guardas (NPC), Ralph (Capitão Pirata, Filho de Nobre) (NPC), Tripulação Orquídeas Negras (Crianças de Rua) (NPC).
+        ▪ Localizações: Taberna (base), Esgotos de Greyhawk (esgotos), Gardens Quarter (bairro).
+        ▪ Loot: 33 GP (cada um, da polícia)
+, 200 GP (cada um, do Taverneiro), Anel (vendido +10 GP cada), Roupas de pirata (de Ralph, Ulma), Garrafa da bebida alcoólica mais forte (Ulma)
+.
+    ◦ S32A: O Ídolo de Lady Scale (Sessão 30) (999 CY, 07 de Flocktime / 2025-07-31)
+        ▪ NPCs: Lady Scale (Fantasma) (NPC), Snert/Pufftail (Sacerdote Kobold) (NPC), Kobolds Cromáticos (The Scale-Flock) (NPC).
+        ▪ Localizações: Estância Kobold (spa), Sala Silenciosa (sala).
+        ▪ Loot: Ouro
+.
+Eldric Silvanus (PC)
+• Sessões:
+    ◦ S24A: O Desaparecimento de Abigail e a Prefeita Shapeshifter (999 CY, 10 de Planting / 2025-04-10)
+        ▪ NPCs: Dama Abril (Halfling Prefeita, Shapeshifter) (NPC), Abigail (Filha, Shapeshifter) (NPC), Guarda Pero (NPC), Roger (Dono de Loja de Brinquedos) (NPC), Lyra (Corpo da raposa) (NPC), Mimics (Monstro) (NPC), Shapeshifters (Monstro) (NPC), BBEG (Monstro) (NPC).
+        ▪ Localizações: Pessegueiro (vila), Prefeitura (edifício), Casa de Abigail (casa), Caverna dos Dois Postes (caverna), Gruta (gruta), Loja de Brinquedos (loja), Esgoto de Pessegueiro (esgoto), Mansão de Espelhos (mansão/dimensão alternativa).
+        ▪ Loot: 160 GP (cada um, pela resgate de Abigail)
+, Colar de rubis e esmeraldas, 360 GP
+.
+    ◦ S28A: Laboratório Arcana Subterrâneo e Culto de Sangue (999 CY, 02 de Flocktime / 2025-06-19)
+        ▪ NPCs: Vidente Escarlate (NPC), Rato-Escriba (NPC), Rato-Coral (NPC), Ratos de Sangue (NPC).
+        ▪ Localizações: Taberna Abandonada (taberna), Laboratório Arcana (laboratório), Caverna (caverna).
+        ▪ Loot: Ouro escondido
+.
+    ◦ S30A: O Ídolo de Lady Scale (Sessão 28) (999 CY, 05 de Flocktime / 2025-07-17)
+        ▪ NPCs: Lady Silvra Malren (Nobre Excêntrica) (NPC), Wenla Frott (Livreira Gnoma) (NPC), Mistress Lyral Quil (Curadora, Grande Biblioteca) (NPC), Gangue de Goblins (NPC), Chefe Goblin (NPC).
+        ▪ Localizações: Solar de Lady Silvra (Greyhawk) (mansão), Livraria de Wenla (livraria), Grande Biblioteca (biblioteca), Estrada para as Terras Altas (estrada).
+        ▪ Loot: Carta do Legado (objeto narrativo)
+, Direções vagas (objeto narrativo)
+.
+    ◦ S31B: O Ídolo de Lady Scale (Sessão 29) (999 CY, 06 de Flocktime / 2025-07-24)
+        ▪ NPCs: Wandering Sage (PC), Sacerdotisa Lizardfolk (NPC), Acólitos Lizardfolk (NPC), Esqueletos (Monstro) (NPC).
+        ▪ Localizações: Acampamento de Wandering Sage (acampamento) [inferido], Ruínas Antigas (ruínas), Ruínas Submersas (ruínas).
+        ▪ Loot: Adagas (recebidas na troca cultural)
+, Ouro
+.
+    ◦ S32A: O Ídolo de Lady Scale (Sessão 30) (999 CY, 07 de Flocktime / 2025-07-31)
+        ▪ NPCs: Eirwen (PC), Lady Scale (Fantasma) (NPC), Snert/Pufftail (Sacerdote Kobold) (NPC), Kobolds Cromáticos (The Scale-Flock) (NPC).
+        ▪ Localizações: Estância Kobold (spa), Sala Silenciosa (sala).
+        ▪ Loot: Ouro
+.
+Endouvan (PC)
+• Sessões:
+    ◦ S03B: Emboscada nas Margens do Rio Neem (998 CY, 01 de Ready'reat / 2025-01-15)
+        ▪ NPCs: Kaldros Veynor (Tiefling Mercador) (NPC), Kythria (NPC), Goblins (NPC), Lobo (Animal) (NPC), Bugbear Líder (NPC).
+        ▪ Localizações: Rio Neem (rio), Peculiar Manor (mansão) [inferido], Blackfair Manor (mansão) [inferido].
+        ▪ Loot: 50 GP (de Kaldros, se for salvo)
+, 25 GP (dos inimigos), Pistas para acampamento goblin
+.
+    ◦ S06A: Mistério da Doença em Two Fords (998 CY, 20 de Ready'reat / 2025-01-29)
+        ▪ NPCs: Kaldros (Mercador) (NPC), Geralt (Taverneiro) (NPC), Cultistas (NPC), Fauna Corrompida (Monstro) (NPC).
+        ▪ Localizações: Two Fords (vila), Rio Ery (rio), Moinho Abandonado (moinho).
+        ▪ Loot: Gemas (10 GP por cultista)
+, Ervas e provas do moinho
+.
+Flynn (PC)
+• Sessões:
+    ◦ S10A: Distúrbios em Erybend e a Lista de Nomes (998 CY, 02 de Sunsebb / 2025-02-20)
+        ▪ NPCs: Dolrea Vas (Meio-elfo mercador) (NPC), Myria (Anã mercadora) (NPC), Jeraldina (Meia-orc mercadora) (NPC), Taverneiro do Machado Quebrado (NPC), Cultistas de Odrak (NPC), Figuras Encapuzadas (NPC).
+        ▪ Localizações: Erybend (cidade), Taberna "Machado Quebrado" (taberna), Parque (parque), Templo na periferia (templo).
+        ▪ Loot: Lista de 7 nomes (Dolrea Vas é o próximo alvo)
+, 7 GP, Empadas, Meias, Mapa
+.
+    ◦ S24A: O Desaparecimento de Abigail e a Prefeita Shapeshifter (999 CY, 10 de Planting / 2025-04-10)
+        ▪ NPCs: Dama Abril (Halfling Prefeita, Shapeshifter) (NPC), Abigail (Filha, Shapeshifter) (NPC), Guarda Pero (NPC), Roger (Dono de Loja de Brinquedos) (NPC), Lyra (Corpo da raposa) (NPC), Mimics (Monstro) (NPC), Shapeshifters (Monstro) (NPC), BBEG (Monstro) (NPC).
+        ▪ Localizações: Pessegueiro (vila), Prefeitura (edifício), Casa de Abigail (casa), Caverna dos Dois Postes (caverna), Gruta (gruta), Loja de Brinquedos (loja), Esgoto de Pessegueiro (esgoto), Mansão de Espelhos (mansão/dimensão alternativa).
+        ▪ Loot: 160 GP (cada um, pela resgate de Abigail)
+, Colar de rubis e esmeraldas, 360 GP
+.
+Frederick Freddy (PC)
+• Sessões:
+    ◦ S13A: O Mistério dos Desmaios em High Ery (998 CY, 10 de Sunsebb / 2025-03-06) [data inferida]
+        ▪ NPCs: Sr. Henrique (Queijeiro) (NPC), Ratú (Rato) (NPC), Mestre dos Ratos (NPC), Sr. Abílio (Mercador) (NPC), Maria Hortênsia (Vendedora de Queijo) (NPC), Zé do Pinto (Vendedor de Pintainhos) (NPC), Teotónio (Ferreiro) (NPC), Sr. Abelha (Cidadão) (NPC), Enfermeira (NPC), Médico (NPC), Sô Paulo (Taberneiro) (NPC), Elfo Inconsciente (NPC).
+        ▪ Localizações: High Ery (vila), Ferraria (local), Enfermaria (local), Taberna do Sô Paulo (taberna), Acampamento de Mercadores (acampamento), Teatro (teatro).
+        ▪ Loot: 5 GP, 5 SP e 30 P (roubados do ferreiro por Freddy)
+.
+    ◦ S17A: O Legado de Krixis, o Valente (999 CY, 08 de Fireseek / 2025-03-20)
+        ▪ NPCs: Snikil Pescabrasa (Líder Kobold) (NPC), Gogrom (Chefe Orc) (NPC), Krixis (Kobold/Lobo) (NPC), Goblins Vigias (NPC), Greta (Kobold) (NPC), Veltrix (Lobo/Homem Nu) (NPC) [mesmo que Krixis], Dandan (Kobold Alado) (NPC).
+        ▪ Localizações: Templo Abandonado (templo), Sala das Oferendas (sala), Sala do Boss (sala), Sala Secreta (sala).
+        ▪ Loot: Espada de Krixis (recuperada)
+, Mapa (projeto para renovar vila da superfície, no corpo de Dandan)
+.
+    ◦ S24A: O Desaparecimento de Abigail e a Prefeita Shapeshifter (999 CY, 10 de Planting / 2025-04-10)
+        ▪ NPCs: Dama Abril (Halfling Prefeita, Shapeshifter) (NPC), Abigail (Filha, Shapeshifter) (NPC), Guarda Pero (NPC), Roger (Dono de Loja de Brinquedos) (NPC), Lyra (Corpo da raposa) (NPC), Mimics (Monstro) (NPC), Shapeshifters (Monstro) (NPC), BBEG (Monstro) (NPC).
+        ▪ Localizações: Pessegueiro (vila), Prefeitura (edifício), Casa de Abigail (casa), Caverna dos Dois Postes (caverna), Gruta (gruta), Loja de Brinquedos (loja), Esgoto de Pessegueiro (esgoto), Mansão de Espelhos (mansão/dimensão alternativa).
+        ▪ Loot: 160 GP (cada um, pela resgate de Abigail)
+, Colar de rubis e esmeraldas, 360 GP
+.
+Gauthak (PC)
+• Sessões:
+    ◦ S03B: Emboscada nas Margens do Rio Neem (998 CY, 01 de Ready'reat / 2025-01-15)
+        ▪ NPCs: Kaldros Veynor (Tiefling Mercador) (NPC), Kythria (NPC), Goblins (NPC), Lobo (Animal) (NPC), Bugbear Líder (NPC).
+        ▪ Localizações: Rio Neem (rio), Peculiar Manor (mansão) [inferido], Blackfair Manor (mansão) [inferido].
+        ▪ Loot: 50 GP (de Kaldros, se for salvo)
+, 25 GP (dos inimigos), Pistas para acampamento goblin
+.
+    ◦ S06A: Mistério da Doença em Two Fords (998 CY, 20 de Ready'reat / 2025-01-29)
+        ▪ NPCs: Kaldros (Mercador) (NPC), Geralt (Taverneiro) (NPC), Cultistas (NPC), Fauna Corrompida (Monstro) (NPC).
+        ▪ Localizações: Two Fords (vila), Rio Ery (rio), Moinho Abandonado (moinho).
+        ▪ Loot: Gemas (10 GP por cultista)
+, Ervas e provas do moinho
+.
+    ◦ S13A: O Mistério dos Desmaios em High Ery (998 CY, 10 de Sunsebb / 2025-03-06) [data inferida]
+        ▪ NPCs: Sr. Henrique (Queijeiro) (NPC), Ratú (Rato) (NPC), Mestre dos Ratos (NPC), Sr. Abílio (Mercador) (NPC), Maria Hortênsia (Vendedora de Queijo) (NPC), Zé do Pinto (Vendedor de Pintainhos) (NPC), Teotónio (Ferreiro) (NPC), Sr. Abelha (Cidadão) (NPC), Enfermeira (NPC), Médico (NPC), Sô Paulo (Taberneiro) (NPC), Elfo Inconsciente (NPC).
+        ▪ Localizações: High Ery (vila), Ferraria (local), Enfermaria (local), Taberna do Sô Paulo (taberna), Acampamento de Mercadores (acampamento), Teatro (teatro).
+        ▪ Loot: [Nenhum loot explícito para Gauthak, Freddy roubou moedas]
+.
+    ◦ S17A: O Legado de Krixis, o Valente (999 CY, 08 de Fireseek / 2025-03-20)
+        ▪ NPCs: Snikil Pescabrasa (Líder Kobold) (NPC), Gogrom (Chefe Orc) (NPC), Krixis (Kobold/Lobo) (NPC), Goblins Vigias (NPC), Greta (Kobold) (NPC), Veltrix (Lobo/Homem Nu) (NPC) [mesmo que Krixis], Dandan (Kobold Alado) (NPC).
+        ▪ Localizações: Templo Abandonado (templo), Sala das Oferendas (sala), Sala do Boss (sala), Sala Secreta (sala).
+        ▪ Loot: Espada de Krixis (recuperada)
+, Mapa (projeto para renovar vila da superfície, no corpo de Dandan), Faca de ferro negro com runas (Greta)
+.
+    ◦ S24A: O Desaparecimento de Abigail e a Prefeita Shapeshifter (999 CY, 10 de Planting / 2025-04-10)
+        ▪ NPCs: Dama Abril (Halfling Prefeita, Shapeshifter) (NPC), Abigail (Filha, Shapeshifter) (NPC), Guarda Pero (NPC), Roger (Dono de Loja de Brinquedos) (NPC), Lyra (Corpo da raposa) (NPC), Mimics (Monstro) (NPC), Shapeshifters (Monstro) (NPC), BBEG (Monstro) (NPC).
+        ▪ Localizações: Pessegueiro (vila), Prefeitura (edifício), Casa de Abigail (casa), Caverna dos Dois Postes (caverna), Gruta (gruta), Loja de Brinquedos (loja), Esgoto de Pessegueiro (esgoto), Mansão de Espelhos (mansão/dimensão alternativa).
+        ▪ Loot: 160 GP (cada um, pela resgate de Abigail)
+, Colar de rubis e esmeraldas, 360 GP, Folhas de chá e raízes endurecidas (Gauthak, da árvore viva), Cristais de quartzo (Gauthak, do monstro de pedras)
+.
+    ◦ S35A: Sombras Sobre a Água (2025-07-24) [inferido]
+        ▪ NPCs: Darvek (Espião/Informante) (NPC), Lorde Vaeltherin Duskbane (Cultista) (NPC), Elementais Menores de Terra (Monstro) (NPC), Brennan (Taverneiro) (NPC), Sombras Corruptas (Monstro) (NPC), Aparição Sombria (Monstro) (NPC), Corações de Sombra (Monstro) (NPC), Pravi Smjer (Tenente de Vaeltherin) (NPC), Warg (Monstro) (NPC).
+        ▪ Localizações: Grande Taberna de Greyhawk (base), Miren's Hollow (aldeia), Lago Sombrio (lago), Taberna "A Sombra e a Água" (taberna), Gruta das Sombras (gruta).
+        ▪ Loot: 500 GP (dividido por todos)
+, Medalhão (corrompe quem o usa, Gauthak)
+.
+Grix'Molah (PC)
+• Sessões:
+    ◦ S01A: Riacho Poluído e o Fungo Elemental (998 CY, 15 de Patchwall / 2025-01-02)
+        ▪ NPCs: Taverneiro (NPC), Borogrove (Treant) (NPC), Galin Fiduain (Druida) (NPC).
+        ▪ Localizações: Taberna (base), High Ery (vila) [inferido], Riacho (rio), Caverna (gruta).
+        ▪ Loot: 10 moedas de ouro (Grix'Molah)
+.
+    ◦ S03A: A Calamidade do Vale do Vento Sombrio (1) (998 CY, 01 de Ready'reat / 2025-01-15)
+        ▪ NPCs: Klipz (Kobold) (NPC), Vaelkor Ashbrand (Cultista) (NPC), Cultistas (NPC), Kobolds (NPC), Elemental da Terra (Monstro) (NPC).
+        ▪ Localizações: Vale do Vento Sombrio (vale), Vila Kobold (vila).
+        ▪ Loot: Poção de Cura
+, Amuleto +1, Carta, Refeições grátis por 1 mês, Armas/robes, 200GP (Taverneiro)
+.
+    ◦ S05A: Retorno ao Vale do Vento Sombrio e o Dragão Syzzin (998 CY, 08 de Ready'reat / 2025-01-23)
+        ▪ NPCs: Syzzin (Dragão) (NPC), Clipse (Kobold) (NPC) [sacrificou-se], Rix (Kobold criança) (NPC), Kobolds cultistas (NPC), Eladrin Elfo (NPC) [em sonho], Titania (Deusa) (NPC) [em sonho], Egalar (Paladino de Titania) (NPC) [em sonho].
+        ▪ Localizações: Vale do Vento Sombrio (vale), Acampamento Kobold (acampamento), Toca do Dragão (gruta), Altar de Wee Jas (altar).
+        ▪ Loot: 39 GP (Grix'Molah)
+, Mão cheia de dedos, Pergaminho de feitiço de Alarm (Vaunia), Pergaminho de feitiço de Comprehend Languages (Triss), 2 capas de cultista novato (Triss e Dustin), 1 capa de cultista tenente (Grix'Molah), Medalhão (Grix'Molah, que brilha em sonho)
+.
+    ◦ S08A: Mistwood e a Acólita Morvanya (998 CY, 01 de Sunsebb / 2025-01-30)
+        ▪ NPCs: Morvanya (Manvea) (Acólita de Nerull) (NPC), Egalar (Paladino de Titania) (NPC), Padre de Pelor (Sombra) (NPC), Aldeões Mortos-Vivos (NPC), Titania (Deusa) (NPC).
+        ▪ Localizações: Mistwood (vila), Taberna "Última Folha" (taberna), Capela Profanada (capela), Altar de Nerull (altar), Altar de Titania (altar).
+        ▪ Loot: 50 GP (cada um)
+, 1 capa feita da tapeçaria de Nerull (Grix'Molah)
+.
+    ◦ S09A: Contactos Comerciais em Erybend e o Bilhete do Baile (998 CY, 01 de Sunsebb / 2025-02-13)
+        ▪ NPCs: Kythria (NPC), Taverneiro (NPC), Myria (Anã mercadora) (NPC), Jeraldina (Meia-orc mercadora) (NPC), Cavaleiro da Luz (Kobold) (NPC), Torzac (Líder Kobold) (NPC), Dama Sombria (NPC) [referência].
+        ▪ Localizações: Erybend (cidade), Blackfair Manor (mansão) [inferido], Two Fords (vila) [inferido].
+        ▪ Loot: Bilhete do baile em Blackfair Manor
+, Medalhões com moedas de um bando rival de Greyhawk, Pistas de conspiração
+.
+    ◦ S10A: Distúrbios em Erybend e a Lista de Nomes (998 CY, 02 de Sunsebb / 2025-02-20)
+        ▪ NPCs: Dolrea Vas (Meio-elfo mercador) (NPC), Myria (Anã mercadora) (NPC), Jeraldina (Meia-orc mercadora) (NPC), Taverneiro do Machado Quebrado (NPC), Cultistas de Odrak (NPC), Figuras Encapuzadas (NPC).
+        ▪ Localizações: Erybend (cidade), Taberna "Machado Quebrado" (taberna), Parque (parque), Templo na periferia (templo).
+        ▪ Loot: Lista de 7 nomes (Dolrea Vas é o próximo alvo)
+, 7 GP, Empadas, Mais de 85 pares de meias, Mapa
+.
+    ◦ S17A: O Legado de Krixis, o Valente (999 CY, 08 de Fireseek / 2025-03-20)
+        ▪ NPCs: Snikil Pescabrasa (Líder Kobold) (NPC), Gogrom (Chefe Orc) (NPC), Krixis (Kobold/Lobo) (NPC), Goblins Vigias (NPC), Greta (Kobold) (NPC), Veltrix (Lobo/Homem Nu) (NPC) [mesmo que Krixis], Dandan (Kobold Alado) (NPC).
+        ▪ Localizações: Templo Abandonado (templo), Sala das Oferendas (sala), Sala do Boss (sala), Sala Secreta (sala).
+        ▪ Loot: Espada de Krixis (recuperada)
+, Mapa (projeto para renovar vila da superfície, no corpo de Dandan)
+.
+    ◦ S16B: Negociações Comerciais em Erybend e o Culto de Nerzul (999 CY, 07 de Fireseek / 2025-03-13)
+        ▪ NPCs: Dolren Vas (NPC), Odrak (Líder do Culto) (NPC), Cultistas de Nerull (NPC), Bandidos (NPC), Elementais (Monstro) (NPC), Torzak (Fanático do Culto) (NPC).
+        ▪ Localizações: Erybend (cidade), Templo de Nerzul (templo).
+        ▪ Loot: Recompensas comerciais
+, Moedas sombrias, Convite para baile
+.
+    ◦ S31A: Mapeamento dos Esgotos de Greyhawk e Piratas das Orquídeas Negras (999 CY, 05 de Flocktime / 2025-07-24)
+        ▪ NPCs: Taverneiro (NPC), Guardas (NPC), Ralph (Capitão Pirata, Filho de Nobre) (NPC), Tripulação Orquídeas Negras (Crianças de Rua) (NPC).
+        ▪ Localizações: Taberna (base), Esgotos de Greyhawk (esgotos), Gardens Quarter (bairro), Guilda dos Ladrões (referência), Templo do Patrono de Grix (referência).
+        ▪ Loot: 33 GP (cada um, da polícia)
+, 200 GP (cada um, do Taverneiro), Anel (vendido +10 GP cada)
+.
+Jojo (PC)
+• Sessões:
+    ◦ S33A: A Luta na Taberna e a Bruxa do Mar (2025-07-24) [data inferida]
+        ▪ NPCs: Kas Kardwall (Chef/Dono da Taberna) (NPC), Tritão (NPC), Cozinheiro Goblin (NPC), Mulher (Bruxa do Mar) (NPC), Ghouls (Monstro) (NPC), Elementais da Água (Monstro) (NPC), Empregada do Restaurante (NPC).
+        ▪ Localizações: Taberna (base), River Quarter (bairro), Restaurante de Peixe (restaurante), Porto (porto), Barco Suspeito (covil da bruxa).
+        ▪ Loot: [Nenhum loot explícito nos extratos de fontes].
+Kai (PC)
+• Sessões:
+    ◦ S09A: Contactos Comerciais em Erybend e o Bilhete do Baile (998 CY, 01 de Sunsebb / 2025-02-13)
+        ▪ NPCs: Kythria (NPC), Taverneiro (NPC), Myria (Anã mercadora) (NPC), Jeraldina (Meia-orc mercadora) (NPC), Cavaleiro da Luz (Kobold) (NPC), Torzac (Líder Kobold) (NPC), Dama Sombria (NPC) [referência].
+        ▪ Localizações: Erybend (cidade), Blackfair Manor (mansão) [inferido], Two Fords (vila) [inferido].
+        ▪ Loot: Bilhete do baile em Blackfair Manor
+, Medalhões com moedas de um bando rival de Greyhawk, Pistas de conspiração
+.
+    ◦ S10A: Distúrbios em Erybend e a Lista de Nomes (998 CY, 02 de Sunsebb / 2025-02-20)
+        ▪ NPCs: Dolrea Vas (Meio-elfo mercador) (NPC), Myria (Anã mercadora) (NPC), Jeraldina (Meia-orc mercadora) (NPC), Taverneiro do Machado Quebrado (NPC), Cultistas de Odrak (NPC), Figuras Encapuzadas (NPC).
+        ▪ Localizações: Erybend (cidade), Taberna "Machado Quebrado" (taberna), Parque (parque), Templo na periferia (templo).
+        ▪ Loot: Lista de 7 nomes (Dolrea Vas é o próximo alvo)
+, 7 GP, Empadas, Meias, Mapa
+.
+    ◦ S12A: Baile na Blackfair Manor e o Lorde Coriver (998 CY, 04 de Sunsebb / 2025-03-06)
+        ▪ NPCs: Rainha Caecena (Rainha dos High Fae) (NPC), Lord Coriver (Inimigo da Rainha) (NPC), Prysanna (Fey) (NPC), Vesta (NPC), Arriya (NPC), Fifaera (NPC), Zenvis (NPC), Whisperer (NPC), Homens-Serpente (NPC), Minhoca Gigante (Monstro) (NPC).
+        ▪ Localizações: Castelo (castelo), Covil de Lord Coriver (covil).
+        ▪ Loot: Bênção da Rainha (Kai, duração de 1 ano, permite rolar novamente um dado por long rest)
+, 500 GP (Kai)
+.
+    ◦ S16A: A Chantagem de Kai e a Captura de Dustin (999 CY, 07 de Fireseek / 2025-03-13)
+        ▪ NPCs: Raveth Xil'Zyrl (Drow Chantagista) (NPC), Vareth Lionmane (Inquisidor, Paladino de Beltar) (NPC), Sybel Astren (Caçadora, Paladina de Beltar) (NPC), Garruk Valstein (Paladino de Beltar) (NPC), Sir Brand Orvain (Paladino de Beltar) (NPC), Luthor “Martelo da Fé” Greystone (Paladino de Beltar) (NPC), Cães Demoníacos (Monstro) (NPC), Bandidos (NPC), Lorde Dain Vanthir (NPC), Eltharion Vanthir (NPC).
+        ▪ Localizações: Taberna (base), Ruínas da Casa Vanthir (ruínas), Altar a Celestia (altar).
+        ▪ Loot: Carta de Chantagem (para Kai)
+, Artefato sombrio (deixado por Raveth)
+.
+    ◦ S16B: Negociações Comerciais em Erybend e o Culto de Nerzul (999 CY, 07 de Fireseek / 2025-03-13)
+        ▪ NPCs: Dolren Vas (NPC), Odrak (Líder do Culto) (NPC), Cultistas de Nerull (NPC), Bandidos (NPC), Elementais (Monstro) (NPC), Torzak (Fanático do Culto) (NPC).
+        ▪ Localizações: Erybend (cidade), Templo de Nerzul (templo).
+        ▪ Loot: Recompensas comerciais
+, Moedas sombrias, Convite para baile
+.
+    ◦ S17B: Resgate de Dustin e Teleporte da Taberna (999 CY, 08 de Fireseek / 2025-03-20)
+        ▪ NPCs: Malrik Dorn (Alto-Inquisidor, Paladino de Beltar) (NPC) [personalidade Hector Scornsbane]
+, Spectator (Monstro) (NPC), Golem de Ossos (Monstro) (NPC), Prysanna (Fey) (NPC), Paladinos de Beltar (NPC).
+        ▪ Localizações: Castelo Ruína-de-Ébano (castelo), Taberna (base), Cidade Livre de Greyhawk (cidade).
+        ▪ Loot: Arma mágica temporária (de energia fey, dada a Dustin por Prysanna)
+, 2 peitorais, 3 lanças, 1 lança mágica, 1 braçadeira de defesa, 2 machados grandes, 2 poções de cura, 1 tomo mágico, 500 gold, Anel mágico (permite encontrar a taberna na cidade)
+.
+Ketrich Flavifer (PC)
+• Sessões:
+    ◦ S29A: O Museu das Maravilhas Sombras (999 CY, 05 de Flocktime / 2025-07-10)
+        ▪ NPCs: Curador Darsen (Mago Ilusionista) (NPC), Yzr'alith (Espírito do Medo e Curiosidade) (NPC), Raelith (Demónio) (NPC), Zael (Gnomo Sobrevivente) (NPC), Autómatos/Robôs do Museu (NPC), Mimic (Príncipe) (NPC), Esposa de Darsen (NPC), Liwana (Amiga de Ulma) (NPC).
+        ▪ Localizações: Museu das Maravilhas Naturais e Arcanas de Greyhawk (museu), Vias de Ventilação (local), Salas Secretas (salas), Laboratório (laboratório), Loja de Presentes (loja).
+        ▪ Loot: Máscara de Observação (Detect Magic 1/dia)
+, Miniatura de Gárgula Viva (Find Familiar), Livro da Curiosidade Proibida (vantagem History/Arcana 7 dias, exaustão depois), 100 GP (cada PC, da loja de presentes), 1 Gema (cada PC, 30 GP, da loja de presentes)
+.
+    ◦ S33A: A Luta na Taberna e a Bruxa do Mar (2025-07-24) [data inferida]
+        ▪ NPCs: Kas Kardwall (Chef/Dono da Taberna) (NPC), Tritão (NPC), Cozinheiro Goblin (NPC), Mulher (Bruxa do Mar) (NPC), Ghouls (Monstro) (NPC), Elementais da Água (Monstro) (NPC), Empregada do Restaurante (NPC).
+        ▪ Localizações: Taberna (base), River Quarter (bairro), Restaurante de Peixe (restaurante), Porto (porto), Barco Suspeito (covil da bruxa).
+        ▪ Loot: [Nenhum loot explícito nos extratos de fontes].
+Leo (PC)
+• Sessões:
+    ◦ S29A: O Museu das Maravilhas Sombras (999 CY, 05 de Flocktime / 2025-07-10)
+        ▪ NPCs: Curador Darsen (Mago Ilusionista) (NPC), Yzr'alith (Espírito do Medo e Curiosidade) (NPC), Raelith (Demónio) (NPC), Zael (Gnomo Sobrevivente) (NPC), Autómatos/Robôs do Museu (NPC), Mimic (Príncipe) (NPC), Esposa de Darsen (NPC), Liwana (Amiga de Ulma) (NPC).
+        ▪ Localizações: Museu das Maravilhas Naturais e Arcanas de Greyhawk (museu), Vias de Ventilação (local), Salas Secretas (salas), Laboratório (laboratório), Loja de Presentes (loja).
+        ▪ Loot: Máscara de Observação (Detect Magic 1/dia)
+, Miniatura de Gárgula Viva (Find Familiar), Livro da Curiosidade Proibida (vantagem History/Arcana 7 dias, exaustão depois), 100 GP (cada PC, da loja de presentes), 1 Gema (cada PC, 30 GP, da loja de presentes)
+.
+Lone Straw (PC)
+• Sessões:
+    ◦ S03B: Emboscada nas Margens do Rio Neem (998 CY, 01 de Ready'reat / 2025-01-15)
+        ▪ NPCs: Kaldros Veynor (Tiefling Mercador) (NPC), Kythria (NPC), Goblins (NPC), Lobo (Animal) (NPC), Bugbear Líder (NPC).
+        ▪ Localizações: Rio Neem (rio), Peculiar Manor (mansão) [inferido], Blackfair Manor (mansão) [inferido].
+        ▪ Loot: 50 GP (de Kaldros, se for salvo)
+, 25 GP (dos inimigos), Pistas para acampamento goblin
+.
+    ◦ S06A: Mistério da Doença em Two Fords (998 CY, 20 de Ready'reat / 2025-01-29)
+        ▪ NPCs: Kaldros (Mercador) (NPC), Geralt (Taverneiro) (NPC), Cultistas (NPC), Fauna Corrompida (Monstro) (NPC).
+        ▪ Localizações: Two Fords (vila), Rio Ery (rio), Moinho Abandonado (moinho).
+        ▪ Loot: Gemas (10 GP por cultista)
+, Ervas e provas do moinho
+.
+    ◦ S07A: O Acampamento Goblin e o Ritual de Nerull (998 CY, 22 de Ready'reat / 2025-01-30)
+        ▪ NPCs: Taverneiro (NPC), Kythria (NPC), Jogmaahx (Goblin Xamã) (NPC), Ogre (NPC), Vaelkor Ashbrand (Cultista) (NPC) [mencionado], Prisioneiros (humanos/élficos/goblins) (NPC).
+        ▪ Localizações: Acampamento Goblin (acampamento), Rio (rio), Altar (altar).
+        ▪ Loot: 50 GP (cada um)
+, Carta de Vaelkor Ashbrand, Armas goblin
+.
+Markus Grimm (PC)
+• Sessões:
+    ◦ S01A: Riacho Poluído e o Fungo Elemental (998 CY, 15 de Patchwall / 2025-01-02)
+        ▪ NPCs: Taverneiro (NPC), Borogrove (Treant) (NPC), Galin Fiduain (Druida) (NPC).
+        ▪ Localizações: Taberna (base), High Ery (vila) [inferido], Riacho (rio), Caverna (gruta).
+        ▪ Loot: Cajado das Flores (Markus)
+.
+    ◦ S02A: Resgate na Mina de Obsidiana (998 CY, 28 de Patchwall / 2025-01-09)
+        ▪ NPCs: Taverneiro (NPC), Kristryd Splitanvil (Anão) (NPC), Thargrin (Anão morto) (NPC), Hook Horror (Monstro) (NPC), Cubo Gelatinoso (Monstro) (NPC).
+        ▪ Localizações: Mina de Obsidiana (mina), Blackstone (vila) [inferido], Montanhas Cairn (montanhas) [inferido].
+        ▪ Loot: [Nenhum loot explícito nos extratos de fontes].
+    ◦ S03A: A Calamidade do Vale do Vento Sombrio (1) (998 CY, 01 de Ready'reat / 2025-01-15)
+        ▪ NPCs: Klipz (Kobold) (NPC), Vaelkor Ashbrand (Cultista) (NPC), Cultistas (NPC), Kobolds (NPC), Elemental da Terra (Monstro) (NPC).
+        ▪ Localizações: Vale do Vento Sombrio (vale), Vila Kobold (vila).
+        ▪ Loot: Poção de Cura
+, Amuleto +1, Carta, Refeições grátis por 1 mês, Armas/robes, 200GP (Taverneiro)
+.
+    ◦ S05A: Retorno ao Vale do Vento Sombrio e o Dragão Syzzin (998 CY, 08 de Ready'reat / 2025-01-23)
+        ▪ NPCs: Syzzin (Dragão) (NPC), Clipse (Kobold) (NPC) [sacrificou-se], Rix (Kobold criança) (NPC), Kobolds cultistas (NPC), Wee Jas (Deusa) (NPC).
+        ▪ Localizações: Vale do Vento Sombrio (vale), Acampamento Kobold (acampamento), Toca do Dragão (gruta), Altar de Wee Jas (altar).
+        ▪ Loot: Rubi (Markus Grimm, na sua pact blade, ele vê esmeralda)
+, 39 GP (Markus Grimm), Mão cheia de dedos, Pergaminho de feitiço de Alarm (Vaunia), Pergaminho de feitiço de Comprehend Languages (Triss), 2 capas de cultista novato (Triss e Dustin), 1 capa de cultista tenente (Grix'Molah)
+.
+    ◦ S08A: Mistwood e a Acólita Morvanya (998 CY, 01 de Sunsebb / 2025-01-30)
+        ▪ NPCs: Morvanya (Manvea) (Acólita de Nerull) (NPC), Egalar (Paladino de Titania) (NPC), Padre de Pelor (Sombra) (NPC), Aldeões Mortos-Vivos (NPC), Wee Jas (Deusa) (NPC).
+        ▪ Localizações: Mistwood (vila), Taberna "Última Folha" (taberna), Capela Profanada (capela), Altar de Nerull (altar), Altar de Titania (altar).
+        ▪ Loot: Carimbo com símbolo de Wee Jas (Markus Grimm)
+, 50 GP (cada um), 1 capa feita da tapeçaria de Nerull (Markus Grimm)
+.
+    ◦ S25A: O Resgate da Criança Perdida (Aria Greenbottle) (999 CY, 12 de Planting / 2025-04-24)
+        ▪ NPCs: Aria Greenbottle (Halfling) (NPC), Tobias Greenbottle (Pai) (NPC), Eliza Greenbottle (Mãe) (NPC), Finn Greenbottle (Irmão gémeo) (NPC), Guarda da Cidade (NPC), Taverneiro (NPC), Armadura Animada (Monstro) (NPC), Ghast (Monstro) (NPC), Ghouls (Monstro) (NPC), Zombies (Monstro) (NPC), Enxame de Morcegos (Monstro) (NPC), Criatura das Sombras (Monstro) (NPC), Espectro (Boss) (NPC), Enxame de Ratos (Monstro) (NPC).
+        ▪ Localizações: Casa dos Greenbottle (Greyhawk) (casa), Ruínas das Sombras (ruínas), Cripta das Sombras (cripta).
+        ▪ Loot: 100 PO
+, Poções, Gema das Cinco Vozes (misteriosa), Diário
+.
+    ◦ S26A: O Golpe dos Dados Rubi (Parte 1) (999 CY, 18 de Planting / 2025-05-29)
+        ▪ NPCs: Drennar Solace (“A Aranha Dourada”) (NPC), Sirona da Agulha Velada (Ilusionista Élfica) (NPC), Velric “Veludo” Dazzlehand (Chefe de Piso Halfling) (NPC), Big Lou (Porteiro Meio-Ogro) (NPC), Lorde Aleister Devraine (Nobre Arrogante) (NPC), Luckkeepers (Autómatos Arcanos) (NPC), Espírito da Câmara Silenciosa (NPC), Mestres do Duelo Falso (NPC), Pintura Vigilante (NPC), Dançarina dos Espelhos (NPC), Espírito do Juramento (NPC), Leiloeiro da Troca Rubi (NPC).
+        ▪ Localizações: Armazém Hexagonal (armazém), Casino “O Quinto Jogo” (cassino, Bairro do Rio, Greyhawk).
+        ▪ Loot: Fragmento arcano (entregue a Lord Aleister Devraine)
+.
+    ◦ S27A: O Golpe dos Dados Rubi (Parte 2) (999 CY, 01 de Flocktime / 2025-06-05)
+        ▪ NPCs: Drennar Solace (“A Aranha Dourada”) (NPC), Sirona da Agulha Velada (Ilusionista Élfica) (NPC), Velric “Veludo” Dazzlehand (Chefe de Piso Halfling) (NPC), Big Lou (Porteiro Meio-Ogro) (NPC), Lorde Aleister Devraine (Nobre Arrogante) (NPC), Luckkeepers (Autómatos Arcanos) (NPC).
+        ▪ Localizações: Casino “O Quinto Jogo” (cassino), Sala do Cavaleiro (sala), Sala do Cofre (sala).
+        ▪ Loot: Dados Rubi da Fortuna (para o contratante)
+, Fragmento arcano (entregue a Lorde Aleister Devraine)
+.
+Nina (PC)
+• Sessões:
+    ◦ S33A: A Luta na Taberna e a Bruxa do Mar (2025-07-24) [data inferida]
+        ▪ NPCs: Kas Kardwall (Chef/Dono da Taberna) (NPC), Tritão (NPC), Cozinheiro Goblin (NPC), Mulher (Bruxa do Mar) (NPC), Ghouls (Monstro) (NPC), Elementais da Água (Monstro) (NPC), Empregada do Restaurante (NPC).
+        ▪ Localizações: Taberna (base), River Quarter (bairro), Restaurante de Peixe (restaurante), Porto (porto), Barco Suspeito (covil da bruxa).
+        ▪ Loot: [Nenhum loot explícito nos extratos de fontes].
+Orianna (PC)
+• Sessões:
+    ◦ S03B: Emboscada nas Margens do Rio Neem (998 CY, 01 de Ready'reat / 2025-01-15)
+        ▪ NPCs: Kaldros Veynor (Tiefling Mercador) (NPC), Kythria (NPC), Goblins (NPC), Lobo (Animal) (NPC), Bugbear Líder (NPC).
+        ▪ Localizações: Rio Neem (rio), Peculiar Manor (mansão) [inferido], Blackfair Manor (mansão) [inferido].
+        ▪ Loot: 50 GP (de Kaldros, se for salvo)
+, 25 GP (dos inimigos), Pistas para acampamento goblin
+.
+    ◦ S06A: Mistério da Doença em Two Fords (998 CY, 20 de Ready'reat / 2025-01-29)
+        ▪ NPCs: Kaldros (Mercador) (NPC), Geralt (Taverneiro) (NPC), Cultistas (NPC), Fauna Corrompida (Monstro) (NPC).
+        ▪ Localizações: Two Fords (vila), Rio Ery (rio), Moinho Abandonado (moinho).
+        ▪ Loot: Gemas (10 GP por cultista)
+, Ervas e provas do moinho
+.
+Poto (PC)
+• Sessões:
+    ◦ S33A: A Luta na Taberna e a Bruxa do Mar (2025-07-24) [data inferida]
+        ▪ NPCs: Kas Kardwall (Chef/Dono da Taberna) (NPC), Tritão (NPC), Cozinheiro Goblin (NPC), Mulher (Bruxa do Mar) (NPC), Ghouls (Monstro) (NPC), Elementais da Água (Monstro) (NPC), Empregada do Restaurante (NPC).
+        ▪ Localizações: Taberna (base), River Quarter (bairro), Restaurante de Peixe (restaurante), Porto (porto), Barco Suspeito (covil da bruxa).
+        ▪ Loot: [Nenhum loot explícito nos extratos de fontes].
+Primrose (PC)
+• Sessões:
+    ◦ S33A: A Luta na Taberna e a Bruxa do Mar (2025-07-24) [data inferida]
+        ▪ NPCs: Kas Kardwall (Chef/Dono da Taberna) (NPC), Tritão (NPC), Cozinheiro Goblin (NPC), Mulher (Bruxa do Mar) (NPC), Ghouls (Monstro) (NPC), Elementais da Água (Monstro) (NPC), Empregada do Restaurante (NPC).
+        ▪ Localizações: Taberna (base), River Quarter (bairro), Restaurante de Peixe (restaurante), Porto (porto), Barco Suspeito (covil da bruxa).
+        ▪ Loot: [Nenhum loot explícito nos extratos de fontes].
+Raylahn (PC)
+• Sessões:
+    ◦ S16A: A Chantagem de Kai e a Captura de Dustin (999 CY, 07 de Fireseek / 2025-03-13)
+        ▪ NPCs: Raveth Xil'Zyrl (Drow Chantagista) (NPC), Vareth Lionmane (Inquisidor, Paladino de Beltar) (NPC), Sybel Astren (Caçadora, Paladina de Beltar) (NPC), Garruk Valstein (Paladino de Beltar) (NPC), Sir Brand Orvain (Paladino de Beltar) (NPC), Luthor “Martelo da Fé” Greystone (Paladino de Beltar) (NPC), Cães Demoníacos (Monstro) (NPC), Bandidos (NPC).
+        ▪ Localizações: Taberna (base), Ruínas da Casa Vanthir (ruínas), Altar a Celestia (altar).
+        ▪ Loot: Artefato sombrio (deixado por Raveth)
+.
+    ◦ S17B: Resgate de Dustin e Teleporte da Taberna (999 CY, 08 de Fireseek / 2025-03-20)
+        ▪ NPCs: Malrik Dorn (Alto-Inquisidor, Paladino de Beltar) (NPC) [personalidade Hector Scornsbane]
+, Spectator (Monstro) (NPC), Golem de Ossos (Monstro) (NPC), Prysanna (Fey) (NPC), Paladinos de Beltar (NPC).
+        ▪ Localizações: Castelo Ruína-de-Ébano (castelo), Taberna (base), Cidade Livre de Greyhawk (cidade).
+        ▪ Loot: Arma mágica temporária (de energia fey, dada a Dustin por Prysanna)
+, 2 peitorais, 3 lanças, 1 lança mágica, 1 braçadeira de defesa, 2 machados grandes, 2 poções de cura, 1 tomo mágico, 500 gold, Anel mágico (permite encontrar a taberna na cidade)
+.
+    ◦ S25A: O Resgate da Criança Perdida (Aria Greenbottle) (999 CY, 12 de Planting / 2025-04-24)
+        ▪ NPCs: Aria Greenbottle (Halfling) (NPC), Tobias Greenbottle (Pai) (NPC), Eliza Greenbottle (Mãe) (NPC), Finn Greenbottle (Irmão gémeo) (NPC), Guarda da Cidade (NPC), Taverneiro (NPC), Armadura Animada (Monstro) (NPC), Ghast (Monstro) (NPC), Ghouls (Monstro) (NPC), Zombies (Monstro) (NPC), Enxame de Morcegos (Monstro) (NPC), Criatura das Sombras (Monstro) (NPC), Espectro (Boss) (NPC), Enxame de Ratos (Monstro) (NPC).
+        ▪ Localizações: Casa dos Greenbottle (Greyhawk) (casa), Ruínas das Sombras (ruínas), Cripta das Sombras (cripta).
+        ▪ Loot: 100 PO
+, Poções, Gema das Cinco Vozes (misteriosa), Diário
+.
+Sanji (PC)
+• Sessões:
+    ◦ S33A: A Luta na Taberna e a Bruxa do Mar (2025-07-24) [data inferida]
+        ▪ NPCs: Kas Kardwall (Chef/Dono da Taberna) (NPC), Tritão (NPC), Cozinheiro Goblin (NPC), Mulher (Bruxa do Mar) (NPC), Ghouls (Monstro) (NPC), Elementais da Água (Monstro) (NPC), Empregada do Restaurante (NPC).
+        ▪ Localizações: Taberna (base), River Quarter (bairro), Restaurante de Peixe (restaurante), Porto (porto), Barco Suspeito (covil da bruxa).
+        ▪ Loot: [Nenhum loot explícito nos extratos de fontes].
+Sarvian Midlor (PC)
+• Sessões:
+    ◦ S07A: O Acampamento Goblin e o Ritual de Nerull (998 CY, 22 de Ready'reat / 2025-01-30)
+        ▪ NPCs: Taverneiro (NPC), Kythria (NPC), Jogmaahx (Goblin Xamã) (NPC), Ogre (NPC), Vaelkor Ashbrand (Cultista) (NPC) [mencionado], Prisioneiros (humanos/élficos/goblins) (NPC).
+        ▪ Localizações: Acampamento Goblin (acampamento), Rio (rio), Altar (altar).
+        ▪ Loot: 50 GP (cada um)
+, Carta de Vaelkor Ashbrand, Armas goblin
+.
+    ◦ S17C: Abdução Illithid e o Crash da Nave (999 CY, 08 de Fireseek / 2025-03-20)
+        ▪ NPCs: Companhia das Três Pedras (NPC), Baltigard (Humano) (NPC), Varus (PC), Mind Flayers (Monstro) (NPC), Endo Bom Sossego (NPC), Zorg (Illithid Comandante) (NPC), Blob (NPC).
+        ▪ Localizações: Templo no Pântano (templo), Sapolândia (aldeia), Nave Illithid (nave espacial), Nave-mãe Illithid (nave espacial), Bairro de Luxo (bairro em Greyhawk).
+        ▪ Loot: 10 GP (Sarvian)
+, 1 anel para chamar a comitiva de Zorg (Sarvian)
+.
+    ◦ S19A: Atividades Estranhas no Sul da Cidade e os Piratas da Rosa Negra (999 CY, 04 de Readying / 2025-04-03)
+        ▪ NPCs: Comerciantes Suspeitos (NPC), Contrabandistas (NPC), Feiticeiro (NPC), Guardas da Cidade (NPC), Trixie the Goblin (NPC), Kilmy Midlor (Irmã de Sarvian, Líder Pirata) (NPC).
+        ▪ Localizações: Sul da Cidade de Greyhawk (bairro), Doca Baixa (bairro), Taberna de Trixie (taberna), Porto (porto), Covil dos Piratas da Rosa Negra (esconderijo).
+        ▪ Loot: Caixa com selos mágicos
+, Mapa ilícito, Moedas, Poção menor
+.
+    ◦ S25A: O Resgate da Criança Perdida (Aria Greenbottle) (999 CY, 12 de Planting / 2025-04-24)
+        ▪ NPCs: Aria Greenbottle (Halfling) (NPC), Tobias Greenbottle (Pai) (NPC), Eliza Greenbottle (Mãe) (NPC), Finn Greenbottle (Irmão gémeo) (NPC), Guarda da Cidade (NPC), Taverneiro (NPC), Armadura Animada (Monstro) (NPC), Ghast (Monstro) (NPC), Ghouls (Monstro) (NPC), Zombies (Monstro) (NPC), Enxame de Morcegos (Monstro) (NPC), Criatura das Sombras (Monstro) (NPC), Espectro (Boss) (NPC), Enxame de Ratos (Monstro) (NPC).
+        ▪ Localizações: Casa dos Greenbottle (Greyhawk) (casa), Ruínas das Sombras (ruínas), Cripta das Sombras (cripta).
+        ▪ Loot: 100 PO
+, Poções, Gema das Cinco Vozes (misteriosa), Diário
+.
+Silfir (PC)
+• Sessões:
+    ◦ S24A: O Desaparecimento de Abigail e a Prefeita Shapeshifter (999 CY, 10 de Planting / 2025-04-10)
+        ▪ NPCs: Dama Abril (Halfling Prefeita, Shapeshifter) (NPC), Abigail (Filha, Shapeshifter) (NPC), Guarda Pero (NPC), Roger (Dono de Loja de Brinquedos) (NPC), Lyra (Corpo da raposa) (NPC), Mimics (Monstro) (NPC), Shapeshifters (Monstro) (NPC), BBEG (Monstro) (NPC).
+        ▪ Localizações: Pessegueiro (vila), Prefeitura (edifício), Casa de Abigail (casa), Caverna dos Dois Postes (caverna), Gruta (gruta), Loja de Brinquedos (loja), Esgoto de Pessegueiro (esgoto), Mansão de Espelhos (mansão/dimensão alternativa).
+        ▪ Loot: 160 GP (cada um, pela resgate de Abigail)
+, Colar de rubis e esmeraldas, 360 GP
+.
+    ◦ S30A: O Ídolo de Lady Scale (Sessão 28) (999 CY, 05 de Flocktime / 2025-07-17)
+        ▪ NPCs: Lady Silvra Malren (Nobre Excêntrica) (NPC), Wenla Frott (Livreira Gnoma) (NPC), Mistress Lyral Quil (Curadora, Grande Biblioteca) (NPC), Gangue de Goblins (NPC), Chefe Goblin (NPC).
+        ▪ Localizações: Solar de Lady Silvra (Greyhawk) (mansão), Livraria de Wenla (livraria), Grande Biblioteca (biblioteca), Estrada para as Terras Altas (estrada).
+        ▪ Loot: Carta do Legado (objeto narrativo)
+, Direções vagas (objeto narrativo)
+.
+    ◦ S31B: O Ídolo de Lady Scale (Sessão 29) (999 CY, 06 de Flocktime / 2025-07-24)
+        ▪ NPCs: Wandering Sage (PC), Sacerdotisa Lizardfolk (NPC), Acólitos Lizardfolk (NPC), Esqueletos (Monstro) (NPC).
+        ▪ Localizações: Acampamento de Wandering Sage (acampamento) [inferido], Ruínas Antigas (ruínas), Ruínas Submersas (ruínas).
+        ▪ Loot: Adagas (recebidas na troca cultural)
+, Ouro
+.
+    ◦ S32A: O Ídolo de Lady Scale (Sessão 30) (999 CY, 07 de Flocktime / 2025-07-31)
+        ▪ NPCs: Eirwen (PC), Lady Scale (Fantasma) (NPC), Snert/Pufftail (Sacerdote Kobold) (NPC), Kobolds Cromáticos (The Scale-Flock) (NPC).
+        ▪ Localizações: Estância Kobold (spa), Sala Silenciosa (sala).
+        ▪ Loot: Ouro
+.
+Talya (PC)
+• Sessões:
+    ◦ S35A: Sombras Sobre a Água (2025-07-24) [inferido]
+        ▪ NPCs: Darvek (Espião/Informante) (NPC), Lorde Vaeltherin Duskbane (Cultista) (NPC), Elementais Menores de Terra (Monstro) (NPC), Brennan (Taverneiro) (NPC), Sombras Corruptas (Monstro) (NPC), Aparição Sombria (Monstro) (NPC), Corações de Sombra (Monstro) (NPC), Pravi Smjer (Tenente de Vaeltherin) (NPC), Warg (Monstro) (NPC).
+        ▪ Localizações: Grande Taberna de Greyhawk (base), Miren's Hollow (aldeia), Lago Sombrio (lago), Taberna "A Sombra e a Água" (taberna), Gruta das Sombras (gruta).
+        ▪ Loot: 500 GP (dividido por todos)
+, Medalhão (corrompe quem o usa, Gauthak)
+.
+Triss (PC)
+• Sessões:
+    ◦ S01A: Riacho Poluído e o Fungo Elemental (998 CY, 15 de Patchwall / 2025-01-02)
+        ▪ NPCs: Taverneiro (NPC), Borogrove (Treant) (NPC), Galin Fiduain (Druida) (NPC).
+        ▪ Localizações: Taberna (base), High Ery (vila) [inferido], Riacho (rio), Caverna (gruta).
+        ▪ Loot: Faca de prata (Triss)
+, 2 gemas (Triss)
+.
+    ◦ S02A: Resgate na Mina de Obsidiana (998 CY, 28 de Patchwall / 2025-01-09)
+        ▪ NPCs: Taverneiro (NPC), Kristryd Splitanvil (Anão) (NPC), Thargrin (Anão morto) (NPC), Hook Horror (Monstro) (NPC), Cubo Gelatinoso (Monstro) (NPC).
+        ▪ Localizações: Mina de Obsidiana (mina), Blackstone (vila) [inferido], Montanhas Cairn (montanhas) [inferido].
+        ▪ Loot: Topázio (Triss)
+.
+    ◦ S03A: A Calamidade do Vale do Vento Sombrio (1) (998 CY, 01 de Ready'reat / 2025-01-15)
+        ▪ NPCs: Klipz (Kobold) (NPC), Vaelkor Ashbrand (Cultista) (NPC), Cultistas (NPC), Kobolds (NPC), Elemental da Terra (Monstro) (NPC).
+        ▪ Localizações: Vale do Vento Sombrio (vale), Vila Kobold (vila).
+        ▪ Loot: Poção de Cura
+, Amuleto +1, Carta, Refeições grátis por 1 mês, Armas/robes, 200GP (Taverneiro)
+.
+    ◦ S05A: Retorno ao Vale do Vento Sombrio e o Dragão Syzzin (998 CY, 08 de Ready'reat / 2025-01-23)
+        ▪ NPCs: Syzzin (Dragão) (NPC), Clipse (Kobold) (NPC) [sacrificou-se], Rix (Kobold criança) (NPC), Kobolds cultistas (NPC).
+        ▪ Localizações: Vale do Vento Sombrio (vale), Acampamento Kobold (acampamento), Toca do Dragão (gruta), Altar de Wee Jas (altar).
+        ▪ Loot: Pergaminho de feitiço de Comprehend Languages (Triss)
+, 39 GP (Triss), Mão cheia de dedos, Pergaminho de feitiço de Alarm (Vaunia), 2 capas de cultista novato (Triss), 1 capa de cultista tenente (Grix'Molah)
+.
+    ◦ S08A: Mistwood e a Acólita Morvanya (998 CY, 01 de Sunsebb / 2025-01-30)
+        ▪ NPCs: Morvanya (Manvea) (Acólita de Nerull) (NPC), Egalar (Paladino de Titania) (NPC), Padre de Pelor (Sombra) (NPC), Aldeões Mortos-Vivos (NPC).
+        ▪ Localizações: Mistwood (vila), Taberna "Última Folha" (taberna), Capela Profanada (capela), Altar de Nerull (altar), Altar de Titania (altar).
+        ▪ Loot: Orquídea mágica (Triss)
+, 50 GP (cada um), 1 capa feita da tapeçaria de Nerull (Triss)
+.
+    ◦ S09A: Contactos Comerciais em Erybend e o Bilhete do Baile (998 CY, 01 de Sunsebb / 2025-02-13)
+        ▪ NPCs: Kythria (NPC), Taverneiro (NPC), Myria (Anã mercadora) (NPC), Jeraldina (Meia-orc mercadora) (NPC), Cavaleiro da Luz (Kobold) (NPC), Torzac (Líder Kobold) (NPC), Dama Sombria (NPC) [referência].
+        ▪ Localizações: Erybend (cidade), Blackfair Manor (mansão) [inferido], Two Fords (vila) [inferido].
+        ▪ Loot: Bilhete do baile em Blackfair Manor
+, Medalhões com moedas de um bando rival de Greyhawk, Pistas de conspiração
+.
+    ◦ S10A: Distúrbios em Erybend e a Lista de Nomes (998 CY, 02 de Sunsebb / 2025-02-20)
+        ▪ NPCs: Dolrea Vas (Meio-elfo mercador) (NPC), Myria (Anã mercadora) (NPC), Jeraldina (Meia-orc mercadora) (NPC), Taverneiro do Machado Quebrado (NPC), Cultistas de Odrak (NPC), Figuras Encapuzadas (NPC).
+        ▪ Localizações: Erybend (cidade), Taberna "Machado Quebrado" (taberna), Parque (parque), Templo na periferia (templo).
+        ▪ Loot: Lista de 7 nomes (Dolrea Vas é o próximo alvo)
+, 7 GP, Empadas, Meias, Mapa
+.
+    ◦ S12A: Baile na Blackfair Manor e o Lorde Coriver (998 CY, 04 de Sunsebb / 2025-03-06)
+        ▪ NPCs: Rainha Caecena (Rainha dos High Fae) (NPC), Lord Coriver (Inimigo da Rainha) (NPC), Prysanna (Fey) (NPC), Vesta (NPC), Arriya (NPC), Fifaera (NPC), Zenvis (NPC), Whisperer (NPC), Homens-Serpente (NPC), Minhoca Gigante (Monstro) (NPC).
+        ▪ Localizações: Castelo (castelo), Covil de Lord Coriver (covil).
+        ▪ Loot: [Nenhum loot explícito nos extratos de fontes].
+    ◦ S16A: A Chantagem de Kai e a Captura de Dustin (999 CY, 07 de Fireseek / 2025-03-13)
+        ▪ NPCs: Raveth Xil'Zyrl (Drow Chantagista) (NPC), Vareth Lionmane (Inquisidor, Paladino de Beltar) (NPC), Sybel Astren (Caçadora, Paladina de Beltar) (NPC), Garruk Valstein (Paladino de Beltar) (NPC), Sir Brand Orvain (Paladino de Beltar) (NPC), Luthor “Martelo da Fé” Greystone (Paladino de Beltar) (NPC), Cães Demoníacos (Monstro) (NPC), Bandidos (NPC).
+        ▪ Localizações: Taberna (base), Ruínas da Casa Vanthir (ruínas), Altar a Celestia (altar).
+        ▪ Loot: Artefato sombrio (deixado por Raveth)
+.
+    ◦ S16B: Negociações Comerciais em Erybend e o Culto de Nerzul (999 CY, 07 de Fireseek / 2025-03-13)
+        ▪ NPCs: Dolren Vas (NPC), Odrak (Líder do Culto) (NPC), Cultistas de Nerull (NPC), Bandidos (NPC), Elementais (Monstro) (NPC), Torzak (Fanático do Culto) (NPC).
+        ▪ Localizações: Erybend (cidade), Templo de Nerzul (templo).
+        ▪ Loot: Recompensas comerciais
+, Moedas sombrias, Convite para baile
+.
+    ◦ S17B: Resgate de Dustin e Teleporte da Taberna (999 CY, 08 de Fireseek / 2025-03-20)
+        ▪ NPCs: Malrik Dorn (Alto-Inquisidor, Paladino de Beltar) (NPC) [personalidade Hector Scornsbane]
+, Spectator (Monstro) (NPC), Golem de Ossos (Monstro) (NPC), Prysanna (Fey) (NPC), Paladinos de Beltar (NPC).
+        ▪ Localizações: Castelo Ruína-de-Ébano (castelo), Taberna (base), Cidade Livre de Greyhawk (cidade).
+        ▪ Loot: Arma mágica temporária (de energia fey, dada a Dustin por Prysanna)
+, 2 peitorais, 3 lanças, 1 lança mágica, 1 braçadeira de defesa, 2 machados grandes, 2 poções de cura, 1 tomo mágico, 500 gold, Anel mágico (permite encontrar a taberna na cidade)
+.
+    ◦ S22A: Procissão da Ordem Escarlate e o Cetro Amaldiçoado (999 CY, 27 de Coldeven / 2025-04-10)
+        ▪ NPCs: Líder da Ordem Escarlate (NPC), Clérigos (NPC), Civis (NPC), Aparição Espectral (NPC), Zan (Deus da Ordem Escarlate) (NPC), Anão Blacksmith (NPC).
+        ▪ Localizações: Greyhawk (cidade), Templo Destruído (templo), Biblioteca Arcana (biblioteca), Templo Atual da Ordem de Scarlat (templo).
+        ▪ Loot: Coroa (Triss, vendida por 100GP, 25GP para cada um)
+, Pedra verde fluorescente, Cetro de False Life (amaldiçoado) (Dustin), Mão mumificada (de Zan)
+.
+Ulma (PC)
+• Sessões:
+    ◦ S29A: O Museu das Maravilhas Sombras (999 CY, 05 de Flocktime / 2025-07-10)
+        ▪ NPCs: Curador Darsen (Mago Ilusionista) (NPC), Yzr'alith (Espírito do Medo e Curiosidade) (NPC), Raelith (Demónio) (NPC), Zael (Gnomo Sobrevivente) (NPC), Autómatos/Robôs do Museu (NPC), Mimic (Príncipe) (NPC), Esposa de Darsen (NPC), Liwana (Amiga de Ulma) (NPC).
+        ▪ Localizações: Museu das Maravilhas Naturais e Arcanas de Greyhawk (museu), Vias de Ventilação (local), Salas Secretas (salas), Laboratório (laboratório), Loja de Presentes (loja).
+        ▪ Loot: Máscara de Observação (Detect Magic 1/dia)
+, Miniatura de Gárgula Viva (Find Familiar), Livro da Curiosidade Proibida (vantagem History/Arcana 7 dias, exaustão depois), Capa preta com rebordos vermelhos (brasão da Casa Darman) (Ulma), 100 GP (cada PC, da loja de presentes), 1 Gema (cada PC, 30 GP, da loja de presentes)
+.
+    ◦ S31A: Mapeamento dos Esgotos de Greyhawk e Piratas das Orquídeas Negras (999 CY, 05 de Flocktime / 2025-07-24)
+        ▪ NPCs: Taverneiro (NPC), Guardas (NPC), Ralph (Capitão Pirata, Filho de Nobre) (NPC), Tripulação Orquídeas Negras (Crianças de Rua) (NPC).
+        ▪ Localizações: Taberna (base), Esgotos de Greyhawk (esgotos), Gardens Quarter (bairro).
+        ▪ Loot: 33 GP (cada um, da polícia)
+, 200 GP (cada um, do Taverneiro), Anel (vendido +10 GP cada), Roupas de pirata (de Ralph, Ulma), Garrafa da bebida alcoólica mais forte (Ulma)
+.
+Usopp (PC)
+• Sessões:
+    ◦ S03A: A Calamidade do Vale do Vento Sombrio (1) (998 CY, 01 de Ready'reat / 2025-01-15)
+        ▪ NPCs: Klipz (Kobold) (NPC), Vaelkor Ashbrand (Cultista) (NPC), Cultistas (NPC), Kobolds (NPC), Elemental da Terra (Monstro) (NPC).
+        ▪ Localizações: Vale do Vento Sombrio (vale), Vila Kobold (vila).
+        ▪ Loot: Poção de Cura
+, Amuleto +1, Carta, Refeições grátis por 1 mês, Armas/robes, 200GP (Taverneiro)
+.
+    ◦ S07A: O Acampamento Goblin e o Ritual de Nerull (998 CY, 22 de Ready'reat / 2025-01-30)
+        ▪ NPCs: Taverneiro (NPC), Kythria (NPC), Jogmaahx (Goblin Xamã) (NPC), Ogre (NPC), Vaelkor Ashbrand (Cultista) (NPC) [mencionado], Prisioneiros (humanos/élficos/goblins) (NPC).
+        ▪ Localizações: Acampamento Goblin (acampamento), Rio (rio), Altar (altar).
+        ▪ Loot: 50 GP (cada um)
+, Carta de Vaelkor Ashbrand, Armas goblin
+.
+Ustrax (PC)
+• Sessões:
+    ◦ S13A: O Mistério dos Desmaios em High Ery (998 CY, 10 de Sunsebb / 2025-03-06) [data inferida]
+        ▪ NPCs: Sr. Henrique (Queijeiro) (NPC), Ratú (Rato) (NPC), Mestre dos Ratos (NPC), Sr. Abílio (Mercador) (NPC), Maria Hortênsia (Vendedora de Queijo) (NPC), Zé do Pinto (Vendedor de Pintainhos) (NPC), Teotónio (Ferreiro) (NPC), Sr. Abelha (Cidadão) (NPC), Enfermeira (NPC), Médico (NPC), Sô Paulo (Taberneiro) (NPC), Elfo Inconsciente (NPC).
+        ▪ Localizações: High Ery (vila), Ferraria (local), Enfermaria (local), Taberna do Sô Paulo (taberna), Acampamento de Mercadores (acampamento), Teatro (teatro).
+        ▪ Loot: [Nenhum loot explícito para Ustrax, Freddy roubou moedas]
+.
+    ◦ S17A: O Legado de Krixis, o Valente (999 CY, 08 de Fireseek / 2025-03-20)
+        ▪ NPCs: Snikil Pescabrasa (Líder Kobold) (NPC), Gogrom (Chefe Orc) (NPC), Krixis (Kobold/Lobo) (NPC), Goblins Vigias (NPC), Greta (Kobold) (NPC), Veltrix (Lobo/Homem Nu) (NPC) [mesmo que Krixis], Dandan (Kobold Alado) (NPC).
+        ▪ Localizações: Templo Abandonado (templo), Sala das Oferendas (sala), Sala do Boss (sala), Sala Secreta (sala).
+        ▪ Loot: Espada de Krixis (recuperada)
+, Mapa (projeto para renovar vila da superfície, no corpo de Dandan)
+.
+    ◦ S26A: O Golpe dos Dados Rubi (Parte 1) (999 CY, 18 de Planting / 2025-05-29)
+        ▪ NPCs: Drennar Solace (“A Aranha Dourada”) (NPC), Sirona da Agulha Velada (Ilusionista Élfica) (NPC), Velric “Veludo” Dazzlehand (Chefe de Piso Halfling) (NPC), Big Lou (Porteiro Meio-Ogro) (NPC), Lorde Aleister Devraine (Nobre Arrogante) (NPC), Luckkeepers (Autómatos Arcanos) (NPC), Espírito da Câmara Silenciosa (NPC), Mestres do Duelo Falso (NPC), Pintura Vigilante (NPC), Dançarina dos Espelhos (NPC), Espírito do Juramento (NPC), Leiloeiro da Troca Rubi (NPC).
+        ▪ Localizações: Armazém Hexagonal (armazém), Casino “O Quinto Jogo” (cassino, Bairro do Rio, Greyhawk).
+        ▪ Loot: Fragmento arcano (entregue a Lord Aleister Devraine)
+.
+    ◦ S27A: O Golpe dos Dados Rubi (Parte 2) (999 CY, 01 de Flocktime / 2025-06-05)
+        ▪ NPCs: Drennar Solace (“A Aranha Dourada”) (NPC), Sirona da Agulha Velada (Ilusionista Élfica) (NPC), Velric “Veludo” Dazzlehand (Chefe de Piso Halfling) (NPC), Big Lou (Porteiro Meio-Ogro) (NPC), Lorde Aleister Devraine (Nobre Arrogante) (NPC), Luckkeepers (Autómatos Arcanos) (NPC).
+        ▪ Localizações: Casino “O Quinto Jogo” (cassino), Sala do Cavaleiro (sala), Sala do Cofre (sala).
+        ▪ Loot: Dados Rubi da Fortuna (para o contratante)
+, Fragmento arcano (entregue a Lorde Aleister Devraine)
+.
+    ◦ S31A: Mapeamento dos Esgotos de Greyhawk e Piratas das Orquídeas Negras (999 CY, 05 de Flocktime / 2025-07-24)
+        ▪ NPCs: Taverneiro (NPC), Guardas (NPC), Ralph (Capitão Pirata, Filho de Nobre) (NPC), Tripulação Orquídeas Negras (Crianças de Rua) (NPC).
+        ▪ Localizações: Taberna (base), Esgotos de Greyhawk (esgotos), Gardens Quarter (bairro).
+        ▪ Loot: 33 GP (cada um, da polícia)
+, 200 GP (cada um, do Taverneiro), Anel (vendido +10 GP cada)
+.
+Valto (PC)
+• Sessões:
+    ◦ S26A: O Golpe dos Dados Rubi (Parte 1) (999 CY, 18 de Planting / 2025-05-29)
+        ▪ NPCs: Drennar Solace (“A Aranha Dourada”) (NPC), Sirona da Agulha Velada (Ilusionista Élfica) (NPC), Velric “Veludo” Dazzlehand (Chefe de Piso Halfling) (NPC), Big Lou (Porteiro Meio-Ogro) (NPC), Lorde Aleister Devraine (Nobre Arrogante) (NPC), Luckkeepers (Autómatos Arcanos) (NPC), Espírito da Câmara Silenciosa (NPC), Mestres do Duelo Falso (NPC), Pintura Vigilante (NPC), Dançarina dos Espelhos (NPC), Espírito do Juramento (NPC), Leiloeiro da Troca Rubi (NPC).
+        ▪ Localizações: Armazém Hexagonal (armazém), Casino “O Quinto Jogo” (cassino, Bairro do Rio, Greyhawk).
+        ▪ Loot: Fragmento arcano (entregue a Lord Aleister Devraine)
+.
+    ◦ S27A: O Golpe dos Dados Rubi (Parte 2) (999 CY, 01 de Flocktime / 2025-06-05)
+        ▪ NPCs: Drennar Solace (“A Aranha Dourada”) (NPC), Sirona da Agulha Velada (Ilusionista Élfica) (NPC), Velric “Veludo” Dazzlehand (Chefe de Piso Halfling) (NPC), Big Lou (Porteiro Meio-Ogro) (NPC), Lorde Aleister Devraine (Nobre Arrogante) (NPC), Luckkeepers (Autómatos Arcanos) (NPC).
+        ▪ Localizações: Casino “O Quinto Jogo” (cassino), Sala do Cavaleiro (sala), Sala do Cofre (sala).
+        ▪ Loot: Dados Rubi da Fortuna (para o contratante)
+, Fragmento arcano (entregue a Lorde Aleister Devraine)
+.
+Varus (PC)
+• Sessões:
+    ◦ S09A: Contactos Comerciais em Erybend e o Bilhete do Baile (998 CY, 01 de Sunsebb / 2025-02-13)
+        ▪ NPCs: Kythria (NPC), Taverneiro (NPC), Myria (Anã mercadora) (NPC), Jeraldina (Meia-orc mercadora) (NPC), Cavaleiro da Luz (Kobold) (NPC), Torzac (Líder Kobold) (NPC), Dama Sombria (NPC) [referência].
+        ▪ Localizações: Erybend (cidade), Blackfair Manor (mansão) [inferido], Two Fords (vila) [inferido].
+        ▪ Loot: Bilhete do baile em Blackfair Manor
+, Medalhões com moedas de um bando rival de Greyhawk, Pistas de conspiração
+.
+    ◦ S10A: Distúrbios em Erybend e a Lista de Nomes (998 CY, 02 de Sunsebb / 2025-02-20)
+        ▪ NPCs: Dolrea Vas (Meio-elfo mercador) (NPC), Myria (Anã mercadora) (NPC), Jeraldina (Meia-orc mercadora) (NPC), Taverneiro do Machado Quebrado (NPC), Cultistas de Odrak (NPC), Figuras Encapuzadas (NPC).
+        ▪ Localizações: Erybend (cidade), Taberna "Machado Quebrado" (taberna), Parque (parque), Templo na periferia (templo).
+        ▪ Loot: Lista de 7 nomes (Dolrea Vas é o próximo alvo)
+, 7 GP, Empadas, Meias, Mapa
+.
+    ◦ S16B: Negociações Comerciais em Erybend e o Culto de Nerzul (999 CY, 07 de Fireseek / 2025-03-13)
+        ▪ NPCs: Dolren Vas (NPC), Odrak (Líder do Culto) (NPC), Cultistas de Nerull (NPC), Bandidos (NPC), Elementais (Monstro) (NPC), Torzak (Fanático do Culto) (NPC).
+        ▪ Localizações: Erybend (cidade), Templo de Nerzul (templo).
+        ▪ Loot: Recompensas comerciais
+, Moedas sombrias, Convite para baile
+.
+    ◦ S17C: Abdução Illithid e o Crash da Nave (999 CY, 08 de Fireseek / 2025-03-20)
+        ▪ NPCs: Companhia das Três Pedras (NPC), Baltigard (Humano) (NPC), Mind Flayers (Monstro) (NPC), Endo Bom Sossego (NPC), Zorg (Illithid Comandante) (NPC), Blob (NPC).
+        ▪ Localizações: Templo no Pântano (templo), Sapolândia (aldeia), Nave Illithid (nave espacial), Nave-mãe Illithid (nave espacial), Bairro de Luxo (bairro em Greyhawk).
+        ▪ Loot: 25 GP 75 SP e 538 CP (Varus)
+, 10 GP (Sarvian), 1 anel para chamar a comitiva de Zorg (Sarvian), Scroll de teleportation, Scroll de fireball
+.
+Vaunia (PC)
+• Sessões:
+    ◦ S01A: Riacho Poluído e o Fungo Elemental (998 CY, 15 de Patchwall / 2025-01-02)
+        ▪ NPCs: Taverneiro (NPC), Borogrove (Treant) (NPC), Galin Fiduain (Druida) (NPC).
+        ▪ Localizações: Taberna (base), High Ery (vila) [inferido], Riacho (rio), Caverna (gruta).
+        ▪ Loot: Bolota mágica (Vaunia)
+.
+    ◦ S02A: Resgate na Mina de Obsidiana (998 CY, 28 de Patchwall / 2025-01-09)
+        ▪ NPCs: Taverneiro (NPC), Kristryd Splitanvil (Anão) (NPC), Thargrin (Anão morto) (NPC), Hook Horror (Monstro) (NPC), Cubo Gelatinoso (Monstro) (NPC).
+        ▪ Localizações: Mina de Obsidiana (mina), Blackstone (vila) [inferido], Montanhas Cairn (montanhas) [inferido].
+        ▪ Loot: [Nenhum loot explícito nos extratos de fontes].
+    ◦ S03A: A Calamidade do Vale do Vento Sombrio (1) (998 CY, 01 de Ready'reat / 2025-01-15)
+        ▪ NPCs: Klipz (Kobold) (NPC), Vaelkor Ashbrand (Cultista) (NPC), Cultistas (NPC), Kobolds (NPC), Elemental da Terra (Monstro) (NPC).
+        ▪ Localizações: Vale do Vento Sombrio (vale), Vila Kobold (vila).
+        ▪ Loot: Poção de Cura
+, Amuleto +1, Carta, Refeições grátis por 1 mês, Armas/robes, 200GP (Taverneiro)
+.
+    ◦ S05A: Retorno ao Vale do Vento Sombrio e o Dragão Syzzin (998 CY, 08 de Ready'reat / 2025-01-23)
+        ▪ NPCs: Syzzin (Dragão) (NPC), Clipse (Kobold) (NPC) [sacrificou-se], Rix (Kobold criança) (NPC), Kobolds cultistas (NPC).
+        ▪ Localizações: Vale do Vento Sombrio (vale), Acampamento Kobold (acampamento), Toca do Dragão (gruta), Altar de Wee Jas (altar).
+        ▪ Loot: Pergaminho de feitiço de Alarm (Vaunia)
+, 39 GP (Vaunia), Mão cheia de dedos, Pergaminho de feitiço de Comprehend Languages (Triss), 2 capas de cultista novato (Triss e Dustin), 1 capa de cultista tenente (Grix'Molah)
+.
+    ◦ S08A: Mistwood e a Acólita Morvanya (998 CY, 01 de Sunsebb / 2025-01-30)
+        ▪ NPCs: Morvanya (Manvea) (Acólita de Nerull) (NPC), Egalar (Paladino de Titania) (NPC), Padre de Pelor (Sombra) (NPC), Aldeões Mortos-Vivos (NPC).
+        ▪ Localizações: Mistwood (vila), Taberna "Última Folha" (taberna), Capela Profanada (capela), Altar de Nerull (altar), Altar de Titania (altar).
+        ▪ Loot: Diário de Morvanya (Vaunia)
+, Máscara de morte prateada (de porcelana, partida) (Vaunia), 50 GP (cada um), 1 capa feita da tapeçaria de Nerull (Vaunia)
+.
+    ◦ S11A: O Pântano Místico e as Pedras Mágicas (998 CY, 03 de Sunsebb / 2025-02-13)
+        ▪ NPCs: Baltigard (Humano) (NPC), Cocas (Bullywug) (NPC), Mestre Yoda (Chefe Bullywug) (NPC), Basilisco Progenitor (Monstro) (NPC), Thoren (Mestre de Kung Fu) (NPC), XP T O (Illithid/Mind Flayer) (NPC).
+        ▪ Localizações: Pântano Místico (pântano), Aldeia Bullywug (aldeia), Grutas (grutas), Ruínas (ruínas), Terceiro Templo (templo).
+        ▪ Loot: Chicote de Transporte (Vaunia)
+, Colher Vorpal (Vaunia), Basilisk eye, três pedras mágicas, pergaminho de ritual elemental, ouro, anel de chamada
+.
+    ◦ S13A: O Mistério dos Desmaios em High Ery (998 CY, 10 de Sunsebb / 2025-03-06) [data inferida]
+        ▪ NPCs: Sr. Henrique (Queijeiro) (NPC), Ratú (Rato) (NPC), Mestre dos Ratos (NPC), Sr. Abílio (Mercador) (NPC), Maria Hortênsia (Vendedora de Queijo) (NPC), Zé do Pinto (Vendedor de Pintainhos) (NPC), Teotónio (Ferreiro) (NPC), Sr. Abelha (Cidadão) (NPC), Enfermeira (NPC), Médico (NPC), Sô Paulo (Taberneiro) (NPC), Elfo Inconsciente (NPC).
+        ▪ Localizações: High Ery (vila), Ferraria (local), Enfermaria (local), Taberna do Sô Paulo (taberna), Acampamento de Mercadores (acampamento), Teatro (teatro).
+        ▪ Loot: [Nenhum loot explícito nos extratos de fontes].
+    ◦ S17A: O Legado de Krixis, o Valente (999 CY, 08 de Fireseek / 2025-03-20)
+        ▪ NPCs: Snikil Pescabrasa (Líder Kobold) (NPC), Gogrom (Chefe Orc) (NPC), Krixis (Kobold/Lobo) (NPC), Goblins Vigias (NPC), Greta (Kobold) (NPC), Veltrix (Lobo/Homem Nu) (NPC) [mesmo que Krixis], Dandan (Kobold Alado) (NPC).
+        ▪ Localizações: Templo Abandonado (templo), Sala das Oferendas (sala), Sala do Boss (sala), Sala Secreta (sala).
+        ▪ Loot: Espada de Krixis (recuperada)
+, Mapa (projeto para renovar vila da superfície, no corpo de Dandan)
+.
+    ◦ S31A: Mapeamento dos Esgotos de Greyhawk e Piratas das Orquídeas Negras (999 CY, 05 de Flocktime / 2025-07-24)
+        ▪ NPCs: Taverneiro (NPC), Guardas (NPC), Ralph (Capitão Pirata, Filho de Nobre) (NPC), Tripulação Orquídeas Negras (Crianças de Rua) (NPC).
+        ▪ Localizações: Taberna (base), Esgotos de Greyhawk (esgotos), Gardens Quarter (bairro).
+        ▪ Loot: 33 GP (cada um, da polícia)
+, 200 GP (cada um, do Taverneiro), Anel (vendido +10 GP cada)
+.
+Wagner (PC)
+• Sessões:
+    ◦ S25A: O Resgate da Criança Perdida (Aria Greenbottle) (999 CY, 12 de Planting / 2025-04-24)
+        ▪ NPCs: Aria Greenbottle (Halfling) (NPC), Tobias Greenbottle (Pai) (NPC), Eliza Greenbottle (Mãe) (NPC), Finn Greenbottle (Irmão gémeo) (NPC), Guarda da Cidade (NPC), Taverneiro (NPC), Armadura Animada (Monstro) (NPC), Ghast (Monstro) (NPC), Ghouls (Monstro) (NPC), Zombies (Monstro) (NPC), Enxame de Morcegos (Monstro) (NPC), Criatura das Sombras (Monstro) (NPC), Espectro (Boss) (NPC), Enxame de Ratos (Monstro) (NPC).
+        ▪ Localizações: Casa dos Greenbottle (Greyhawk) (casa), Ruínas das Sombras (ruínas), Cripta das Sombras (cripta).
+        ▪ Loot: 100 PO
+, Poções, Gema das Cinco Vozes (misteriosa), Diário
+.
+Wandering Sage (PC)
+• Sessões:
+    ◦ S06A: Mistério da Doença em Two Fords (998 CY, 20 de Ready'reat / 2025-01-29)
+        ▪ NPCs: Kaldros (Mercador) (NPC), Geralt (Taverneiro) (NPC), Cultistas (NPC), Fauna Corrompida (Monstro) (NPC).
+        ▪ Localizações: Two Fords (vila), Rio Ery (rio), Moinho Abandonado (moinho).
+        ▪ Loot: Gemas (10 GP por cultista)
+, Ervas e provas do moinho
+.
+    ◦ S07A: O Acampamento Goblin e o Ritual de Nerull (998 CY, 22 de Ready'reat / 2025-01-30)
+        ▪ NPCs: Taverneiro (NPC), Kythria (NPC), Jogmaahx (Goblin Xamã) (NPC), Ogre (NPC), Vaelkor Ashbrand (Cultista) (NPC) [mencionado], Prisioneiros (humanos/élficos/goblins) (NPC).
+        ▪ Localizações: Acampamento Goblin (acampamento), Rio (rio), Altar (altar).
+        ▪ Loot: 50 GP (cada um)
+, Carta de Vaelkor Ashbrand, Armas goblin
+.
+    ◦ S11A: O Pântano Místico e as Pedras Mágicas (998 CY, 03 de Sunsebb / 2025-02-13)
+        ▪ NPCs: Baltigard (Humano) (NPC), Cocas (Bullywug) (NPC), Mestre Yoda (Chefe Bullywug) (NPC), Basilisco Progenitor (Monstro) (NPC), Thoren (Mestre de Kung Fu) (NPC), XP T O (Illithid/Mind Flayer) (NPC).
+        ▪ Localizações: Pântano Místico (pântano), Aldeia Bullywug (aldeia), Grutas (grutas), Ruínas (ruínas), Terceiro Templo (templo).
+        ▪ Loot: Anel da Pena Caída (Wandering Sage)
+, Basilisk eye, três pedras mágicas, pergaminho de ritual elemental, ouro, anel de chamada
+.
+    ◦ S24A: O Desaparecimento de Abigail e a Prefeita Shapeshifter (999 CY, 10 de Planting / 2025-04-10)
+        ▪ NPCs: Dama Abril (Halfling Prefeita, Shapeshifter) (NPC), Abigail (Filha, Shapeshifter) (NPC), Guarda Pero (NPC), Roger (Dono de Loja de Brinquedos) (NPC), Lyra (Corpo da raposa) (NPC), Mimics (Monstro) (NPC), Shapeshifters (Monstro) (NPC), BBEG (Monstro) (NPC).
+        ▪ Localizações: Pessegueiro (vila), Prefeitura (edifício), Casa de Abigail (casa), Caverna dos Dois Postes (caverna), Gruta (gruta), Loja de Brinquedos (loja), Esgoto de Pessegueiro (esgoto), Mansão de Espelhos (mansão/dimensão alternativa).
+        ▪ Loot: 160 GP (cada um, pela resgate de Abigail)
+, Colar de rubis e esmeraldas, 360 GP
+.
+    ◦ S26A: O Golpe dos Dados Rubi (Parte 1) (999 CY, 18 de Planting / 2025-05-29)
+        ▪ NPCs: Drennar Solace (“A Aranha Dourada”) (NPC), Sirona da Agulha Velada (Ilusionista Élfica) (NPC), Velric “Veludo” Dazzlehand (Chefe de Piso Halfling) (NPC), Big Lou (Porteiro Meio-Ogro) (NPC), Lorde Aleister Devraine (Nobre Arrogante) (NPC), Luckkeepers (Autómatos Arcanos) (NPC), Espírito da Câmara Silenciosa (NPC), Mestres do Duelo Falso (NPC), Pintura Vigilante (NPC), Dançarina dos Espelhos (NPC), Espírito do Juramento (NPC), Leiloeiro da Troca Rubi (NPC).
+        ▪ Localizações: Armazém Hexagonal (armazém), Casino “O Quinto Jogo” (cassino, Bairro do Rio, Greyhawk).
+        ▪ Loot: Fragmento arcano (entregue a Lord Aleister Devraine)
+.
+    ◦ S27A: O Golpe dos Dados Rubi (Parte 2) (999 CY, 01 de Flocktime / 2025-06-05)
+        ▪ NPCs: Drennar Solace (“A Aranha Dourada”) (NPC), Sirona da Agulha Velada (Ilusionista Élfica) (NPC), Velric “Veludo” Dazzlehand (Chefe de Piso Halfling) (NPC), Big Lou (Porteiro Meio-Ogro) (NPC), Lorde Aleister Devraine (Nobre Arrogante) (NPC), Luckkeepers (Autómatos Arcanos) (NPC).
+        ▪ Localizações: Casino “O Quinto Jogo” (cassino), Sala do Cavaleiro (sala), Sala do Cofre (sala).
+        ▪ Loot: Dados Rubi da Fortuna (para o contratante)
+, Fragmento arcano (entregue a Lorde Aleister Devraine)
+.
+    ◦ S31B: O Ídolo de Lady Scale (Sessão 29) (999 CY, 06 de Flocktime / 2025-07-24)
+        ▪ NPCs: Sacerdotisa Lizardfolk (NPC), Acólitos Lizardfolk (NPC), Esqueletos (Monstro) (NPC).
+        ▪ Localizações: Acampamento de Wandering Sage (acampamento) [inferido], Ruínas Antigas (ruínas), Ruínas Submersas (ruínas).
+        ▪ Loot: Adagas (recebidas na troca cultural)
+, Ouro
+.
+    ◦ S32A: O Ídolo de Lady Scale (Sessão 30) (999 CY, 07 de Flocktime / 2025-07-31)
+        ▪ NPCs: Eirwen (PC), Lady Scale (Fantasma) (NPC), Snert/Pufftail (Sacerdote Kobold) (NPC), Kobolds Cromáticos (The Scale-Flock) (NPC).
+        ▪ Localizações: Estância Kobold (spa), Sala Silenciosa (sala).
+        ▪ Loot: Ouro
+.
+Whisper (PC)
+• Sessões:
+    ◦ S35A: Sombras Sobre a Água (2025-07-24) [inferido]
+        ▪ NPCs: Darvek (Espião/Informante) (NPC), Lorde Vaeltherin Duskbane (Cultista) (NPC), Elementais Menores de Terra (Monstro) (NPC), Brennan (Taverneiro) (NPC), Sombras Corruptas (Monstro) (NPC), Aparição Sombria (Monstro) (NPC), Corações de Sombra (Monstro) (NPC), Pravi Smjer (Tenente de Vaeltherin) (NPC), Warg (Monstro) (NPC).
+        ▪ Localizações: Grande Taberna de Greyhawk (base), Miren's Hollow (aldeia), Lago Sombrio (lago), Taberna "A Sombra e a Água" (taberna), Gruta das Sombras (gruta).
+        ▪ Loot: 500 GP (dividido por todos)
+, Medalhão (corrompe quem o usa, Gauthak)
+.
+Zahel (PC)
+• Sessões:
+    ◦ S29A: O Museu das Maravilhas Sombras (999 CY, 05 de Flocktime / 2025-07-10)
+        ▪ NPCs: Curador Darsen (Mago Ilusionista) (NPC), Yzr'alith (Espírito do Medo e Curiosidade) (NPC), Raelith (Demónio) (NPC), Zael (Gnomo Sobrevivente) (NPC), Autómatos/Robôs do Museu (NPC), Mimic (Príncipe) (NPC), Esposa de Darsen (NPC), Liwana (Amiga de Ulma) (NPC).
+        ▪ Localizações: Museu das Maravilhas Naturais e Arcanas de Greyhawk (museu), Vias de Ventilação (local), Salas Secretas (salas), Laboratório (laboratório), Loja de Presentes (loja).
+        ▪ Loot: Máscara de Observação (Detect Magic 1/dia)
+, Miniatura de Gárgula Viva (Find Familiar), Livro da Curiosidade Proibida (vantagem History/Arcana 7 dias, exaustão depois), Capacete da armadura (Zahel), 100 GP (cada PC, da loja de presentes), 1 Gema (cada PC, 30 GP, da loja de presentes)
+.
+--------------------------------------------------------------------------------
+Notas Finais:
+• As sessões foram ordenadas cronologicamente com base nas datas CY (calendário de Greyhawk) e, quando necessário, pelas datas reais de 2025 fornecidas na greyhawk_sessions_complete.md e em outros resumos.
+• Contradição de Datas:
+    ◦ S12A (Baile Faey) e S13A (Mestre dos Ratos) são listadas com datas CY distintas (04 e 10 de Sunsebb, respetivamente), mas ambos os resumos detalhados (06_03_Resumo_sessão_com_Barda_Pipa_6_Março.md
+e Resumo_sessão_de_6_de_Março.docx.md
+) referem-se à mesma data real: "6 de Março de 2025". Assumiu-se que são sessões separadas realizadas no mesmo dia real, mas distintas na cronologia do jogo (CY).
+    ◦ S16A (Chantagem de Kai e Captura de Dustin) é listada como 999 CY, 07 de Fireseek / 2025-03-13
+, mas o ficheiro Sessão_20_de_março.pdf.md
+indica a data real de "20 de março".
+    ◦ S17B (Resgate de Dustin e Teleporte da Taberna) é listada como 999 CY, 08 de Fireseek / 2025-03-20
+, mas o ficheiro Sessão_27_de_março.pdf.md
+indica a data real de "27 de março".
+    ◦ As sessões S31A (Mapeamento Esgotos/Piratas), S31B (Lady Scale, Sessão 29), S33A (Luta Taberna/Bruxa do Mar) e S35A (Sombras Sobre a Água) todas ocorreram na data real de 2025-07-24. Foram tratadas como sessões distintas devido aos diferentes conteúdos e PCs envolvidos.
+• Contradição de NPCs/Nomes:
+    ◦ O nome "Zael" (gnomo sobrevivente do museu)
+parece ser o mesmo que "Zahel" (PC Verdan)
+. No contexto do Museu das Maravilhas Sombras, Zahel é um PC, mas Zael é descrito como um gnomo. Para este jornal de bordo, assumimos que Zahel PC é o personagem a quem se refere no contexto de jogador, mas mantivemos a referência a Zael (NPC) para a descrição do gnomo no museu, onde o PC Zahel o encontrou.
+    ◦ "Dandan" aparece em dois contextos diferentes: como um "kobold alado" boss que é morto em S17A
+, e como um kobold que "contrata" o grupo em S18A
+. Dada a natureza da campanha West Marches, estes são tratados como NPCs distintos com o mesmo nome.
+    ◦ A liderança dos piratas "Black Orchids" / "Piratas da Rosa Negra" é contraditória. Em S19A, a irmã de Sarvian, Kilmy Midlor, é a líder dos "Piratas da Rosa Negra"
+. Em S31A, o Capitão Ralph (filho de nobre disfarçado, com tripulação de crianças de rua) lidera os "Piratas das Orquídeas Negras"
+. Esta inconsistência é notada.
+• Os NPCs não especificados em greyhawk_sessions_complete.md foram inferidos a partir dos detalhes dos resumos de sessão quando a informação estava disponível.
+• Alguns PCs (como Jojo, Nina, Primrose, Sanji, Poto, Talya, Whisper, Wagner) aparecem em sessões que não foram detalhadas na linha temporal principal do greyhawk_sessions_complete.md, mas sim em resumos mais específicos com datas reais (ex: Sessão Hugo.txt, Resumo_de_Sessao_Jota_23-07-2025.docx.md, sessao_maia.md, eclipse_de_vauria_-_jota.md, sessao_jota.md). Essas sessões foram incluídas e datadas com [data inferida] para a linha temporal do jogo (CY) quando a data real era posterior às últimas datas CY fornecidas, mantendo a ordem cronológica real.
+• A sessão S34A: O Eclipse de Vauria (S1) não teve PCs especificados nos excertos fornecidos e, portanto, não foi adicionada a nenhum log de PC individual, mas foi considerada na linha temporal geral.
+• O resultado final visa proporcionar uma visão abrangente das atividades de cada PC, auxiliando no planeamento futuro e na atualização da wiki da campanha.

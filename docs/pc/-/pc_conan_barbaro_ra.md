@@ -1,7 +1,7 @@
 # Conan, o Bárbaro-Rã
 
-| ![pc_conan_barbaro_ra_00](assets/pc/pc_conan_barbaro_ra_00.png){ width=200 } |
-| ------------------------------------------------------------------------------------- |
+| ![pc_conan_barbaro_ra_00](assets/pc/pc_conan_barbaro_ra_00.png){ width=200 } |     |
+| ---------------------------------------------------------------------------- | --- |
 
 
 
