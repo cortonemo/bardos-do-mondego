@@ -37,7 +37,7 @@
 
 | **Português (PT-PT)** | **English (EN-US)** |
 | --------------------- | ------------------- |
-| Conhece e coopera com outros membros dos [Caçadores do Subterrâneo](underdark_paladins.md): [Brandon Bane](docs/npc/Underdark%20Paladin/brandon_bane.md), [Garruk Valstein](docs/npc/Underdark%20Paladin/garruk_valstein.md), [Sybel Astren](docs/npc/Underdark%20Paladin/sybel_astren.md) e [Zeibranth](docs/npc/Underdark%20Paladin/zeibranth.md). | Knows and cooperates with other members of the [Underdark Paladins/Hunters](underdark_paladins.md): [Brandon Bane](docs/npc/Underdark%20Paladin/brandon_bane.md), [Garruk Valstein](docs/npc/Underdark%20Paladin/garruk_valstein.md), [Sybel Astren](docs/npc/Underdark%20Paladin/sybel_astren.md), and [Zeibranth](docs/npc/Underdark%20Paladin/zeibranth.md). |
+| Conhece e coopera com outros membros dos [Caçadores do Subterrâneo](underdark_paladins.md): [Brandon Bane](docs/npc/-/Underdark%20Paladin/brandon_bane.md), [Garruk Valstein](docs/npc/-/Underdark%20Paladin/garruk_valstein.md), [Sybel Astren](docs/npc/-/Underdark%20Paladin/sybel_astren.md) e [Zeibranth](docs/npc/-/Underdark%20Paladin/zeibranth.md). | Knows and cooperates with other members of the [Underdark Paladins/Hunters](underdark_paladins.md): [Brandon Bane](docs/npc/-/Underdark%20Paladin/brandon_bane.md), [Garruk Valstein](docs/npc/-/Underdark%20Paladin/garruk_valstein.md), [Sybel Astren](docs/npc/-/Underdark%20Paladin/sybel_astren.md), and [Zeibranth](docs/npc/-/Underdark%20Paladin/zeibranth.md). |
 
 
 ---

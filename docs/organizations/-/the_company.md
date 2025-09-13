@@ -7,7 +7,7 @@ A Estalagem da Companhia é uma taverna mágica e itinerante que aparece em dife
 - Capaz de se deslocar magicamente (sem que ninguém saiba como)
 - Quartos personalizados para cada membro do grupo
 - Um quadro de contratos fixado junto à lareira
-- Presença constante do enigmático [O Taberneiro](docs/npc/Free%20City%20of%20Grehawk/taverneiro_refugio.md)
+- Presença constante do enigmático [O Taberneiro](docs/npc/-/Free%20City%20of%20Grehawk/taverneiro_refugio.md)
 
 ## 🧩 Mistérios
 

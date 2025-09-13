@@ -6,7 +6,7 @@ Sessão: 1 | Data: 2025-08-02 | Fonte: s01.txt | Tags: localização, floresta
 
 | English                                                                                                                                                                  | Português                                                                                                                                                                        |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Description:** Forest near the tavern, source of the stream. Site of the first quest, where the adventurers meet [Borogrove](borogrove.md) and find the cave entrance. | **Descrição:** Floresta próxima da taberna, fonte do riacho. Local da primeira missão, onde os aventureiros conhecem [Borogrove](borogrove.md) e encontram a entrada da caverna. |
+| **Description:** Forest near the tavern, source of the stream. Site of the first quest, where the adventurers meet [Borogrove](docs/npc/-/wild/borogrove.md) and find the cave entrance. | **Descrição:** Floresta próxima da taberna, fonte do riacho. Local da primeira missão, onde os aventureiros conhecem [Borogrove](docs/npc/-/wild/borogrove.md) e encontram a entrada da caverna. |
 
 
 

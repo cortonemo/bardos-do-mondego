@@ -11,7 +11,7 @@
 | **Profissão:** Mercador de Greyhawk | **Profession:** Greyhawk merchant |
 | **Função:** Pai devastado, cliente e potencial patrono dos PCs | **Role:** Devastated father, client, and potential patron of PCs |
 | **Localização:** Cidade Livre de Greyhawk | **Location:** Free City of Greyhawk |
-| **Família:** Casado com [Eliza Greenbottle](eliza_greenbottle.md); pai de [Aria](docs/dm/-/npc/Free%20City%20of%20Grehawk/aria_greenbottle.md) e [Finn](docs/dm/-/npc/Free%20City%20of%20Grehawk/finn_greenbottle.md) | **Family:** Married to [Eliza Greenbottle](eliza_greenbottle.md); father of [Aria](docs/dm/-/npc/Free%20City%20of%20Grehawk/aria_greenbottle.md) and [Finn](docs/dm/-/npc/Free%20City%20of%20Grehawk/finn_greenbottle.md) |
+| **Família:** Casado com [Eliza Greenbottle](docs/dm/-/npc/Free%20City%20of%20Grehawk/eliza_greenbottle.md); pai de [Aria](docs/dm/-/npc/Free%20City%20of%20Grehawk/aria_greenbottle.md) e [Finn](docs/dm/-/npc/Free%20City%20of%20Grehawk/finn_greenbottle.md) | **Family:** Married to [Eliza Greenbottle](docs/dm/-/npc/Free%20City%20of%20Grehawk/eliza_greenbottle.md); father of [Aria](docs/dm/-/npc/Free%20City%20of%20Grehawk/aria_greenbottle.md) and [Finn](docs/dm/-/npc/Free%20City%20of%20Grehawk/finn_greenbottle.md) |
 
 ---
 
