@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/dm/-/pc/pc_kai.md",
+                "file": "docs/pc/-/pc_kai.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -188,6 +188,7 @@
   },
   "active": "b51cf2b134853e9e",
   "lastOpenFiles": [
+    "docs/dm/-/pc/pc_kai.md",
     "docs/assets/pc/pc_kai_01.png",
     "docs/assets/pc/pc_kai_0.png",
     "docs/assets/pc/pc_kai_00.png",
@@ -232,7 +233,6 @@
     "docs/assets/pc/pc_kai_02.png",
     "docs/assets/pc/pc_wandering_sage.png",
     "docs/assets/pc/pc_silfir.png",
-    "docs/assets/pc/pc_markus_grimm_02 1.png",
-    "docs/assets/pc/pc_markus_grimm_01.png"
+    "docs/assets/pc/pc_markus_grimm_02 1.png"
   ]
 }
