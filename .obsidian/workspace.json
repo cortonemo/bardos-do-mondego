@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/dm/-/pc/pc_orianna.md",
+                "file": "docs/dm/-/npc/Free City of Grehawk/lord_aleister_devraine.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "pc_orianna"
+              "title": "lord_aleister_devraine"
             }
           },
           {
@@ -186,11 +186,11 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "8b60e7fd6b137849",
+  "active": "b51cf2b134853e9e",
   "lastOpenFiles": [
+    "docs/dm/-/pc/pc_orianna.md",
     "docs/npc/-",
     "docs/dm/-/pc/pc_arkos_vasell.md",
-    "docs/dm/-/pc/pc_orianna.md",
     "docs/dm/-/pc/fichas icompletas/pc_bok_thunderfist.md",
     "docs/dm/-/pc/fichas icompletas/pc_asinius.md",
     "docs/dm/-/pc/pc_conan_barbaro_ra.md",
@@ -206,7 +206,6 @@
     "tools/obsidian_to_plain_gui_updated.py",
     "tools/obsidian_to_plain_gui_final3.py",
     "tools/obsidian_to_plain_gui_final2.py",
-    "tools/merge.py",
     "docs/lore/-/timeline/greyhawk_sessions_complete.md",
     "docs/s28_idolo_de_lady_scale.md",
     "docs/dm/-/s30_idolo_de_lady_scale_bullet.md",
