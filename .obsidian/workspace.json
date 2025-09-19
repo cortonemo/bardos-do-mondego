@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/dm/-/npc/Free City of Grehawk/lord_aleister_devraine.md",
+                "file": "docs/dm/-/pc/pc_kai.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "lord_aleister_devraine"
+              "title": "pc_kai"
             }
           },
           {
@@ -188,6 +188,13 @@
   },
   "active": "b51cf2b134853e9e",
   "lastOpenFiles": [
+    "docs/assets/pc/pc_kai_01.png",
+    "docs/assets/pc/pc_kai_0.png",
+    "docs/assets/pc/pc_kai_00.png",
+    "docs/assets/pc/kai_close_up_2.png",
+    "docs/assets/pc/pc_kai.png",
+    "docs/assets/pc/Kai_2.png",
+    "docs/dm/-/npc/Free City of Grehawk/lord_aleister_devraine.md",
     "docs/dm/-/pc/pc_orianna.md",
     "docs/npc/-",
     "docs/dm/-/pc/pc_arkos_vasell.md",
@@ -222,16 +229,10 @@
     "docs/dm/-/adventures/ready/s16_a_crianca_perdida_ready 1.md",
     "docs/dm/-/adventures/bullet/s30_idolo_de_lady_scale_bullet 1.md",
     "docs/dm/-/adventures/bullet/s29_idolo_de_lady_scale_bullet 1.md",
-    "docs/dm/-/adventures/bullet/s28_idolo_de_lady_scale_bullet 1.md",
-    "docs/assets/pc/pc_kai_01.png",
     "docs/assets/pc/pc_kai_02.png",
     "docs/assets/pc/pc_wandering_sage.png",
     "docs/assets/pc/pc_silfir.png",
     "docs/assets/pc/pc_markus_grimm_02 1.png",
-    "docs/assets/pc/pc_markus_grimm_01.png",
-    "docs/assets/pc/pc_markus_grimm_01 1.png",
-    "docs/assets/pc/pc_lone_straw.png",
-    "docs/assets/pc/pc_frederick_freddy_02.png",
-    "docs/assets/pc/pc_frederick_freddy_01.png"
+    "docs/assets/pc/pc_markus_grimm_01.png"
   ]
 }
