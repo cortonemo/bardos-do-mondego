@@ -1,4 +1,4 @@
-﻿## Ficheiro: blackstone.md
+## Ficheiro: blackstone.md
 
 #### Blackstone
 

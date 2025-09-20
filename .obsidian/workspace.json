@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/pc/-/pc_kai.md",
+                "file": "docs/pc/-/pc_arkos_vasell.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "pc_kai"
+              "title": "pc_arkos_vasell"
             }
           },
           {
@@ -188,6 +188,13 @@
   },
   "active": "b51cf2b134853e9e",
   "lastOpenFiles": [
+    "docs/assets/pc/pc_blank.png",
+    "docs/dm/-/locations/blackstone.md",
+    "docs/assets/location/location_blank.png",
+    "docs/dm/-/locations/blackfair_manor.md",
+    "docs/dm/-/locations/altar_de_celestia.md",
+    "docs/dm/-/locations/aldeia_abandonada.md",
+    "docs/pc/-/pc_kai.md",
     "docs/dm/-/pc/pc_kai.md",
     "docs/assets/pc/pc_kai_01.png",
     "docs/assets/pc/pc_kai_0.png",
@@ -224,15 +231,8 @@
     "docs/dm/-/adventures/ready/s30_idolo_de_lady_scale_ready 1.md",
     "docs/dm/-/adventures/ready/s30_idolo_de_lady_scale_ready.md",
     "docs/dm/-/adventures/ready/s29_idolo_de_lady_scale_ready 1.md",
-    "docs/dm/-/adventures/ready/s29_idolo_de_lady_scale_ready.md",
-    "docs/dm/-/adventures/ready/s28_idolo_de_lady_scale_ready 1.md",
-    "docs/dm/-/adventures/ready/s21_s22_casino_heist_ready 1.md",
-    "docs/dm/-/adventures/ready/s16_a_crianca_perdida_ready 1.md",
-    "docs/dm/-/adventures/bullet/s30_idolo_de_lady_scale_bullet 1.md",
-    "docs/dm/-/adventures/bullet/s29_idolo_de_lady_scale_bullet 1.md",
     "docs/assets/pc/pc_kai_02.png",
     "docs/assets/pc/pc_wandering_sage.png",
-    "docs/assets/pc/pc_silfir.png",
-    "docs/assets/pc/pc_markus_grimm_02 1.png"
+    "docs/assets/pc/pc_silfir.png"
   ]
 }

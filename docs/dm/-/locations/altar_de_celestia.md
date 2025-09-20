@@ -1,4 +1,4 @@
-﻿
+
 #### Altar de Celestia / Altar of Celestia
 
 Sessões:  
