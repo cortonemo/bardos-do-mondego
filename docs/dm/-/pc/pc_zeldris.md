@@ -1,4 +1,4 @@
-﻿# Zeldris (anteriormente Varus)
+# Zeldris (anteriormente Varus)
 
 | ![pc_zeldris](assets/pc/pc_zeldris.png){width=300} |
 | ------------------------ |

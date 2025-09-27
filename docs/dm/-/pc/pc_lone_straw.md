@@ -1,6 +1,10 @@
-﻿# Lone Straw
+# Lone Straw
 
-![pc_lone_straw](pc_lone_straw.png)
+| ![pc_lone_straw](pc_lone_straw.png)**{width=200} ** |
+| --------------------------------------------------- |
+
+
+
 
 | Português (PT-PT) | English (EN-US) |
 |-------------------|-----------------|

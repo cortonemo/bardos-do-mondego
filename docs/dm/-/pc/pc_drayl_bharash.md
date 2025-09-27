@@ -1,22 +1,63 @@
-﻿# Drayl Bharash
+# # Drayl Bharash
 
 | ![pc_drayl_bharash_00](assets/pc/pc_drayl_bharash_00.png){ width=200 } |
-| ------------------------------------------------------------------------------- |
+| ---------------------------------------------------------------------- |
 
-| Português | English |
-| --------- | ------- |
-| **Jogador:** Rafael Mesquita | **Player:** Rafael Mesquita |
-| **Idade:** 31 | **Age:** 31 |
-| **Género:** Masculino | **Gender:** Male |
-| **Espécie:** Dragonborn (Escamas de Bronze) | **Species:** Bronze Dragonborn |
-| **Olhos:** Azuis | **Eyes:** Blue |
-| **Tamanho:** Médio (1,82 m) | **Size:** Medium (6 ft) |
-| **Classe:** Mago (Adivinhação) | **Class:** Wizard (Divination) |
-| **Alinhamento:** Neutro Bom | **Alignment:** Neutral Good |
+---
+
+**[DM-ONLY – Não incluir na Wiki]**  
+
+| Português                                                                    | English                                                                      |
+| ---------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| **Jogador:** Rafael Mesquita                                                 | **Player:** Rafael Mesquita                                                  |
+| **Idade:** 31                                                                | **Age:** 31                                                                  |
+| **Contacto:** +351 966 964 325                                               | **Contact:** +351 966 964 325                                                |
+| **Instagram:** [por preencher]                                               | **Instagram:** [por preencher]                                               |
+| **Discord:** [por preencher]                                                 | **Discord:** [por preencher]                                                 |
 | **Ficha D&D Beyond:** [Link](https://www.dndbeyond.com/characters/139926806) | **D&D Beyond Sheet:** [Link](https://www.dndbeyond.com/characters/139926806) |
-| **Contacto:** 966 964 325 | **Contact:** 966 964 325 |
-| **⚔️ Itens**<br>**Armadura/Escudo:** Robe (sem armadura)<br>**Armas:** Haunted Staff; 2 Daggers<br>**Items mágicos:** Cloak of Protection (A); Pearl of Power (A); Hat of Wizardry (unattuned); Gema das 5 Promessas (unattuned, atualmente com o Taverneiro)<br>**Items não mágicos:** Spellbook; Backpack; Basic Poison; Antitoxin; Smoke Grenade (2); Book; Bathhouse Robe; Ink + Pen; Lamp Oil; Parchment; Tinderbox; Sorcerer’s Spellbook; Spell Components; Gemstone com Runa de Adivinhação (25); Diamond; Caligrapher’s Supplies; Magic Item Craft License<br>**Ouro:** 1927G 20S | **⚔️ Items**<br>**Armor/Shield:** Robe (no armor)<br>**Weapons:** Haunted Staff; 2 Daggers<br>**Magical Items:** Cloak of Protection (A); Pearl of Power (A); Hat of Wizardry (unattuned); Gem of the Five Promises (unattuned, currently with Innkeeper)<br>**Non-magical Items:** Spellbook; Backpack; Basic Poison; Antitoxin; Smoke Grenade (2); Book; Bathhouse Robe; Ink + Pen; Lamp Oil; Parchment; Tinderbox; Sorcerer’s Spellbook; Spell Components; Gemstone with Divination Rune (25); Diamond; Calligrapher’s Supplies; Magic Item Craft License<br>**Gold:** 1927G 20S |
-| **📖 História – Antes da Taberna**<br>- Nascido numa cidade costeira de dragonborns de bronze, guardiões dos mares.<br>- Enquanto os pares seguiam caminho marcial, Drayl foi atraído pelo conhecimento arcano.<br>- Teve uma visão lúcida de um labirinto impossível, onde tocou num artefacto sombrio que quase lhe fragmentou a mente.<br>- Desde então, foi perseguido por sombras, reflexos estranhos e sussurros.<br>- Enviado pelo seu mentor Rhogar a procurar respostas em bibliotecas e ruínas antigas.<br>- Descobriu símbolos e profecias que confirmavam as visões. | **📖 Story – Before the Tavern**<br>- Born in a coastal Bronze Dragonborn city, guardians of the seas.<br>- While his peers followed martial paths, Drayl was drawn to arcane knowledge.<br>- Had a lucid vision of an impossible labyrinth, where he touched a dark artifact that nearly shattered his mind.<br>- Since then, haunted by shadows, warped reflections, and whispers.<br>- Sent by his mentor Rhogar to seek answers in libraries and ancient ruins.<br>- Discovered symbols and prophecies that matched his visions. |
-| **📖 História – Depois da Taberna**<br>- Ajudou a tornar uma estrada segura de goblins e ogres; enfrentou o xamã Jogmaahx, servo do Mal Elemental.<br>- Explorou uma mina infestada de monstros, encontrou um Hook Horror e passagem para o Underdark.<br>- Participou no baile da Rainha Caecena no Feywild; enfrentou um ministro exilado que raptou a corte; libertou-os e terminou a dançar com Zenvis.<br>- Resgatou Anna Greenbottle nas criptas a leste; foi atraído por um colar amaldiçoado da Senhora de Branco, entregue depois ao taverneiro.<br>- Presenciou a libertação de um deus Yu-ti. | **📖 Story – After the Tavern**<br>- Helped secure a road plagued by goblins and ogres; faced shaman Jogmaahx, servant of Elemental Evil.<br>- Explored a monster-infested mine, found a Hook Horror and passage to the Underdark.<br>- Attended Queen Caecena’s ball in the Feywild; faced an exiled minister who kidnapped the court; freed them and ended dancing with Zenvis.<br>- Rescued Anna Greenbottle in eastern crypts; drawn to a cursed amulet of the Lady in White, later given to the innkeeper.<br>- Witnessed the release of a Yu-ti god. |
-| **🎭 Dramatis Persona**<br>**NPCs de influência direta:**<br>- Thava Bharash (mãe, Dragonborn bronze, tenente da guarda costeira)<br>- Ajra Bharash (pai, Dragonborn bronze, navegador/cartógrafo)<br>- Nari Bharash (irmã, Dragonborn bronze, ferreira)<br>- Rhogar Morgul (mentor, Dragonborn bronze, mago e professor, membro fundador da academia de magia da vila)<br>**Antagonistas:** —<br>**Aliados:** — | **🎭 Dramatis Persona**<br>**Direct Influence NPCs:**<br>- Thava Bharash (mother, Bronze Dragonborn, coastal guard lieutenant)<br>- Ajra Bharash (father, Bronze Dragonborn, navigator/cartographer)<br>- Nari Bharash (sister, Bronze Dragonborn, blacksmith)<br>- Rhogar Morgul (mentor, Bronze Dragonborn, wizard and teacher, early member of village’s arcane academy)<br>**Antagonists:** —<br>**Allies:** — |
-| **🔮 OBS**<br>- *Haunted Staff*: stores one 2nd-level or lower spell, cast once per long rest, using own spellcasting ability.<br>- *Gem of the Five Promises*: attunement; random damage resistance (1d10 table), +1 Persuasion/Intimidation, -2 Perception/Insight, cursed whispers in Draconic, obsession effects after 3 days, radiant vulnerability after 7 days, requires high-level Remove Curse or ritual.<br>- *Cloak of Protection*: +1 AC and saving throws.<br>- *Pearl of Power*: recover 1 spell slot ≤3rd level once/day.<br>- *Hat of Wizardry*: focus; once/day try to cast unknown cantrip (Arcana DC 10). | **🔮 Notes**<br>- *Haunted Staff*: stores one 2nd-level or lower spell, cast once per long rest, using own spellcasting ability.<br>- *Gem of the Five Promises*: attunement; random damage resistance (1d10 table), +1 Persuasion/Intimidation, -2 Perception/Insight, cursed whispers in Draconic, obsession effects after 3 days, radiant vulnerability after 7 days, requires high-level Remove Curse or ritual.<br>- *Cloak of Protection*: +1 AC and saving throws.<br>- *Pearl of Power*: recover 1 spell slot ≤3rd level once/day.<br>- *Hat of Wizardry*: focus; once/day try to cast unknown cantrip (Arcana DC 10). |
+
+**[DM-ONLY – Não incluir na Wiki]**  
+
+---
+
+| **🧙 Personagem**            | **🧙 Character**           |
+| ---------------------------- | -------------------------- |
+| Nome: Drayl Bharash          | Name: Drayl Bharash        |
+| Espécie: Dragonborn          | Species: Dragonborn        |
+| Classe: Wizard               | Class: Wizard              |
+| Alinhamento: [por preencher] | Alignment: [to be filled]  |
+| Background: [por preencher]  | Background: [to be filled] |
+
+---
+
+| **⚔️ Itens**                                                                                                                                                                                                                         | **⚔️ Items**                                                                                                                                                        |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Armadura/Escudo:** Studded Leather <br>**Armas:** Longbow, Shortsword, Scimitar <br>**Items mágicos:** [Gema das Cinco Vozes](../items/gema_cinco_vozes.md) (misteriosa), [Medalhão Corruptor](../items/medalhao_corruptor.md) (*pertenceu ao grupo, origem em S35A*) <br>**Potions:** Poções diversas (S25A) <br>**Items não mágicos:** Carta de Vaelkor Ashbrand, Diário, Armas goblin <br>**Ouro:** ~972 GP (822 inicial + 50 GP S07A + 100 GP S25A; sem contar 500 GP de grupo em S35A) | **Armor/Shield:** Studded Leather <br>**Weapons:** Longbow, Shortsword, Scimitar <br>**Magical Items:** [Five Voices Gem](../items/gema_cinco_vozes.md) (mysterious), [Corrupting Medallion](../items/medalhao_corruptor.md) (*party-held, S35A*) <br>**Potions:** Various potions (S25A) <br>**Non-magical Items:** Vaelkor Ashbrand’s Letter, Diary, Goblin Weapons <br>**Gold:** ~972 GP (822 base + 50 GP S07A + 100 GP S25A; not counting 500 GP shared in S35A) |
+
+---
+
+| **📖 História – Antes da Taberna** | **📖 Story – Before the Tavern** |
+| ---------------------------------- | -------------------------------- |
+| Filho de uma linhagem bronzeada, cresceu com dons proféticos e uma curiosidade insaciável. Estudou magia da adivinhação para compreender o destino. | Born of a bronze lineage, grew with prophetic gifts and insatiable curiosity. Studied divination magic to understand fate. |
+
+---
+
+| **📖 História – Depois da Taberna** | **📖 Story – After the Tavern** |
+| ----------------------------------- | -------------------------------- |
+| (Inferido com base nas sessões) Drayl explorou Greyhawk em busca de presságios e conhecimento arcano. Participou no **Baile dos High Fae** (S09A, 998 CY, 13 de Sunsebb / 2025-02-13), onde fez par com **Zenvis** na dança final. Testemunhou o ataque de Lord Coriver com homens-serpente e uma minhoca gigante, lutando ao lado de Dustin, Triss e Kai. Voltou ao baile após a vitória e assistiu à bênção dada pela Rainha Caecena a Kai.<br><br>Mais tarde, participou em **S07A** contra Jogmaahx e cultistas de Nerull, recebendo 50 GP e cartas de Vaelkor Ashbrand. Em **S25A**, ajudou no resgate de Aria Greenbottle, obtendo ouro, poções e a [Gema das Cinco Vozes](../items/gema_cinco_vozes.md). Em **S35A**, enfrentou Vaeltherin Duskbane e criaturas sombrias em Miren's Hollow, onde encontrou o [Medalhão Corruptor](../items/medalhao_corruptor.md). | (Inferred from sessions) Drayl explored Greyhawk in search of omens and arcane knowledge. He joined the **High Fae Ball** (S09A, 998 CY, 13 Sunsebb / 2025-02-13), where he partnered with **Zenvis** in the final dance. Witnessed Lord Coriver’s attack with serpent-men and a giant worm, fighting alongside Dustin, Triss, and Kai. Returned to the ball after victory and witnessed Queen Caecena’s blessing of Kai.<br><br>Later, in **S07A**, he fought Jogmaahx and Nerull cultists, gaining 50 GP and letters from Vaelkor Ashbrand. In **S25A**, he helped rescue Aria Greenbottle, obtaining gold, potions, and the [Five Voices Gem](../items/gema_cinco_vozes.md). In **S35A**, he faced Vaeltherin Duskbane and shadow creatures in Miren's Hollow, where he encountered the [Corrupting Medallion](../items/medalhao_corruptor.md). |
+
+---
+
+| **🎭 Dramatis Persona**                                                                                                                 | **🎭 Dramatis Persona**                                                                                                           |
+| --------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| **NPCs de influência direta:**  <br>- [Queen Caecena](../npc/queen_caecena.md) <br>- [Zenvis](../npc/zenvis.md) <br>- [Lord Coriver](../npc/lord_coriver.md) <br>- [Egalar](../npc/egalar.md) <br>- [Titânia](../npc/titania.md) | **Direct Influence NPCs:**  <br>- [Queen Caecena](../npc/queen_caecena.md) <br>- [Zenvis](../npc/zenvis.md) <br>- [Lord Coriver](../npc/lord_coriver.md) <br>- [Egalar](../npc/egalar.md) <br>- [Titania](../npc/titania.md) |
+| **Antagonistas:**  <br>- [Lord Coriver](../npc/lord_coriver.md) e seus homens-serpente <br>- [Vaelkor Ashbrand](../npc/vaelkor_ashbrand.md) <br>- [Vaeltherin Duskbane](../npc/vaeltherin_duskbane.md) | **Antagonists:**  <br>- [Lord Coriver](../npc/lord_coriver.md) and his serpent-men <br>- [Vaelkor Ashbrand](../npc/vaelkor_ashbrand.md) <br>- [Vaeltherin Duskbane](../npc/vaeltherin_duskbane.md) |
+| **Aliados:**  <br>- [Dustin](../pc/pc_dustin.md)<br>- [Triss](../pc/pc_triss.md)<br>- [Kai](../pc/pc_kai.md)<br>- [Aria Greenbottle](../npc/aria_greenbottle.md) | **Allies:**  <br>- [Dustin](../pc/pc_dustin.md)<br>- [Triss](../pc/pc_triss.md)<br>- [Kai](../pc/pc_kai.md)<br>- [Aria Greenbottle](../npc/aria_greenbottle.md) |
+
+---
+
+| **🔮 OBS** | **🔮 Notes** |
+| ---------- | ------------ |
+| - Profecias ligadas à sua linhagem bronzeada.<br>- Bênção temporária de Titania (vantagem em Carisma com fey/animais, 30 dias).<br>- Possível risco com [Medalhão Corruptor](../items/medalhao_corruptor.md) de S35A.<br>- Recolheu a [Gema das Cinco Vozes](../items/gema_cinco_vozes.md), ainda misteriosa. | - Prophecies tied to bronze lineage.<br>- Temporary blessing from Titania (advantage on Charisma with fey/animals, 30 days).<br>- Possible risk from [Corrupting Medallion](../items/medalhao_corruptor.md) (S35A).<br>- Holds the mysterious [Five Voices Gem](../items/gema_cinco_vozes.md). |
+
+---

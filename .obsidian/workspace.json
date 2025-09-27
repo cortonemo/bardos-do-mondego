@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/pc/-/pc_arkos_vasell.md",
+                "file": "docs/dm/-/pc/pc_friedrick_junsi.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,17 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "pc_arkos_vasell"
-            }
-          },
-          {
-            "id": "0dae97dc08265c3e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "pc_friedrick_junsi"
             }
           }
         ]
@@ -188,30 +178,40 @@
   },
   "active": "b51cf2b134853e9e",
   "lastOpenFiles": [
-    "docs/assets/pc/pc_blank.png",
-    "docs/dm/-/locations/blackstone.md",
-    "docs/assets/location/location_blank.png",
-    "docs/dm/-/locations/blackfair_manor.md",
-    "docs/dm/-/locations/altar_de_celestia.md",
-    "docs/dm/-/locations/aldeia_abandonada.md",
-    "docs/pc/-/pc_kai.md",
+    "docs/dm/-/pc/pc_flynn.md",
+    "docs/dm/-/pc/pc_endouven_bomsossego.md",
+    "docs/dm/-/pc/pc_eldric_silvanos.md",
+    "docs/dm/-/pc/pc_eirwen.md",
+    "docs/dm/-/pc/pc_dustin_thorne.md",
+    "docs/dm/-/pc/pc_drayl_bharash.md",
+    "docs/dm/-/pc/pc_conan_barbaro_ra.md",
+    "docs/dm/-/pc/pc_bok_thunderfist.md",
+    "docs/dm/-/pc/pc_asinius.md",
+    "docs/dm/-/pc/pc_arkos_vasell.md",
     "docs/dm/-/pc/pc_kai.md",
     "docs/assets/pc/pc_kai_01.png",
+    "docs/dm/-/npc/Free City of Grehawk/mistress_lyra_quil.md",
+    "docs/dm/-/pc/Untitled.md",
+    "docs/dm/-/pc/pc_zahel.md",
+    "docs/dm/-/pc/pc_ketrich_flavifer.md",
+    "docs/dm/-/pc/pc_ulma.md",
+    "docs/dm/-/pc/pc_leo.md",
+    "docs/pc/-/pc_asinius.md",
+    "docs/dm/-/pc/pc_empty.md",
+    "docs/dm/-/locations/aldeia_abandonada.md",
+    "docs/dm/-/locations/taverna.md",
+    "docs/dm/-/pc/pc_zeldris.md",
+    "docs/dm/-/pc/pc_wandering_sage.md",
+    "docs/dm/-/pc/pc_wagner.md",
+    "docs/dm/-/pc/pc_vaunia_kolakiala.md",
+    "docs/assets/pc/pc_blank.png",
+    "docs/assets/location/location_blank.png",
     "docs/assets/pc/pc_kai_0.png",
     "docs/assets/pc/pc_kai_00.png",
     "docs/assets/pc/kai_close_up_2.png",
     "docs/assets/pc/pc_kai.png",
     "docs/assets/pc/Kai_2.png",
-    "docs/dm/-/npc/Free City of Grehawk/lord_aleister_devraine.md",
-    "docs/dm/-/pc/pc_orianna.md",
     "docs/npc/-",
-    "docs/dm/-/pc/pc_arkos_vasell.md",
-    "docs/dm/-/pc/fichas icompletas/pc_bok_thunderfist.md",
-    "docs/dm/-/pc/fichas icompletas/pc_asinius.md",
-    "docs/dm/-/pc/pc_conan_barbaro_ra.md",
-    "docs/pc/-/pc_arkos_vasell.md",
-    "docs/pc/-/pc_conan_barbaro_ra.md",
-    "docs/index.md",
     "tools/docs_structure.txt",
     "docs/organizations/AllOrganizations.txt",
     "tools/merge_texts_gui_folders.py",
@@ -221,18 +221,7 @@
     "tools/obsidian_to_plain_gui_updated.py",
     "tools/obsidian_to_plain_gui_final3.py",
     "tools/obsidian_to_plain_gui_final2.py",
-    "docs/lore/-/timeline/greyhawk_sessions_complete.md",
-    "docs/s28_idolo_de_lady_scale.md",
-    "docs/dm/-/s30_idolo_de_lady_scale_bullet.md",
-    "docs/dm/-/s29_idolo_de_lady_scale_bullet.md",
-    "docs/dm/-/s28_idolo_de_lady_scale_bullet.md",
-    "docs/dm/-/s21_s22_casino_heist_bullet.md",
-    "docs/dm/-/s16_a_crianca_perdida_bullet.md",
-    "docs/dm/-/adventures/ready/s30_idolo_de_lady_scale_ready 1.md",
-    "docs/dm/-/adventures/ready/s30_idolo_de_lady_scale_ready.md",
-    "docs/dm/-/adventures/ready/s29_idolo_de_lady_scale_ready 1.md",
     "docs/assets/pc/pc_kai_02.png",
-    "docs/assets/pc/pc_wandering_sage.png",
-    "docs/assets/pc/pc_silfir.png"
+    "docs/assets/pc/pc_wandering_sage.png"
   ]
 }

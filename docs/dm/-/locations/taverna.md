@@ -1,4 +1,4 @@
-﻿
+
 #### Taverna / The Tavern
 
 Sessões:

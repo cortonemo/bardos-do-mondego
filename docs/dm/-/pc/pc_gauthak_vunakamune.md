@@ -1,6 +1,9 @@
 # Gauthak Vunakamune
 
-![pc_gauthak_vunakamune](pc_gauthak_vunakamune.jpeg){width=250}
+
+| ![pc_gauthak_vunakamune](pc_gauthak_vunakamune.jpeg){width=250} |
+| --------------------------------------------------------------- |
+
 
 | **Português (PT-PT)** | **English (EN-US)** |
 |---|---|

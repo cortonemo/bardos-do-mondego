@@ -1,4 +1,4 @@
-﻿# Triss Merrill
+# Triss Merrill
 
 | ![pc_triss_merrill_01](assets/pc/pc_triss_merrill_01.png){width=300} |![pc_triss_merrill_02](assets/pc/pc_triss_merrill_02.png){width=300} |![pc_triss_merrill_03](assets/pc/pc_triss_merrill_03.png){width=300} |
 | ------------------------ | ------------------------ | ------------------------ |
@@ -27,22 +27,3 @@
 | **🔮 OBS**<br>- *Ring of Spell Storing*: pode guardar até 5 níveis de magias.<br>- *Staff of Flowers*: faz brotar flores à vontade.<br>- *Feywild Brooch*: foco arcano, afinidade com planos feéricos.<br>- *Tavern Ring*: conduz à Taverna mais próxima. | **🔮 Notes**<br>- *Ring of Spell Storing*: can store up to 5 levels of spells.<br>- *Staff of Flowers*: creates flowers at will.<br>- *Feywild Brooch*: arcane focus, feywild attunement.<br>- *Tavern Ring*: leads to the nearest Tavern. |
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

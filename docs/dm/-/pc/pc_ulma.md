@@ -1,4 +1,4 @@
-﻿# Ulma
+# Ulma
 
 | ![pc_ulma](assets/pc/pc_ulma.png){width=300} |
 | ------------------------ |
@@ -30,20 +30,3 @@
 ![pc_ulma_big](assets/pc/pc_ulma_big.png)
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

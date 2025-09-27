@@ -1,4 +1,4 @@
-﻿# Wagner
+# Wagner
 
 | ![pc_wagner](assets/pc/pc_wagner.png){width=300} |
 | ------------------------ |

@@ -4,58 +4,58 @@
 | -------------------------------------------------------------- |
 
 ---
+**[DM-ONLY – Não incluir na Wiki]**  
 
-## 👤 Jogador / Player
-
-| **Português (PT-PT)** | **English (EN-US)** |
-|------------------------|---------------------|
-| **Nome do Jogador:** Luís Faria | **Player Name:** Luís Faria |
-| **Contacto:** 📞 +351 912 455 898 | **Contact:** 📞 +351 912 455 898 |
+| Português                                                                    | English                                                                      |
+| ---------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| **Jogador:** Luis Faria                                                      | **Player:** Luis Faria                                                       |
+| **Idade:** [por preencher]                                                   | **Age:** [por preencher]                                                     |
+| **Contacto:** +351 912 455 898                                               | **Contact:** +351 912 455 898                                                |
+| **Instagram:** [por preencher]                                               | **Instagram:** [por preencher]                                               |
+| **Discord:** [por preencher]                                                 | **Discord:** [por preencher]                                                 |
 | **Ficha D&D Beyond:** [Link](https://www.dndbeyond.com/characters/139712043) | **D&D Beyond Sheet:** [Link](https://www.dndbeyond.com/characters/139712043) |
+**[DM-ONLY – Não incluir na Wiki]**  
 
 ---
 
-## 🧙 Personagem / Character
-
-| **Português (PT-PT)** | **English (EN-US)** |
-|------------------------|---------------------|
-| **Espécie:** Humano | **Species:** Human |
-| **Classe:** Clérigo (nível 3) | **Class:** Cleric (level 3) |
-| **Antecedente:** Ex-guarda, aventureiro | **Background:** Former guard, adventurer |
-| **Alinhamento:** — | **Alignment:** — |
-| **Género:** Masculino | **Gender:** Male |
-| **Tamanho:** Médio | **Size:** Medium |
+| **🧙 Personagem**            | **🧙 Character**           |
+| ---------------------------- | -------------------------- |
+| Nome: Arkos Vasell           | Name: Arkos Vasell         |
+| Espécie: Humano              | Species: Human             |
+| Classe: Clérigo<br>          | Class: Cleric              |
+| Alinhamento: [por preencher] | Alignment: [to be filled]  |
+| Background: [por preencher]  | Background: [to be filled] |
 
 ---
 
-## 📖 História
-
-| **Português (PT-PT)** | **English (EN-US)** |
-|------------------------|---------------------|
-| **Antes da Taberna:** Amigo de infância de [Orianna](pc_orianna.md). Cresceu na mesma comunidade rural e partilhou a vida simples até ambos decidirem aventurar-se no mundo para conhecer as divindades e ganhar sustento. | **Before the Tavern:** Childhood friend of [Orianna](pc_orianna.md). Grew up in the same rural community and shared a simple life until they both chose to adventure in the world, seeking knowledge of the gods and a living. |
-| **Depois da Taberna:** Participou em várias expedições, incluindo a investigação da doença em [Two Fords](../adventures/s04_two_fords_doenca_moinho_summary.md), ao lado de Orianna, Lone Straw, Wandering Sage, Endor e Gaulutax. Enfrentou cultistas e fauna corrompida, ajudando a descobrir a ligação entre a água contaminada e o [Culto do Mal Elemental](../organizations/culto_elemental.md). | **After the Tavern:** Took part in several expeditions, including the investigation of the disease in [Two Fords](../adventures/s04_two_fords_doenca_moinho_summary.md), alongside Orianna, Lone Straw, Wandering Sage, Endor, and Gaulutax. Fought cultists and corrupted fauna, helping uncover the link between the tainted river water and the [Cult of Elemental Evil](../organizations/culto_elemental.md). |
+| **⚔️ Itens**                                                                                                                                  | **⚔️ Items**                                                                                                                                    |
+| --------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Armadura/Escudo:** [por preencher]<br>**Armas:** [por preencher]<br>**Items mágicos:** [por preencher]<br>**Potions:** [por preencher]<br>**Items não mágicos:** [por preencher]<br>**Ouro:** [por preencher] | **Armor/Shield:** [to be filled]<br>**Weapons:** [to be filled]<br>**Magical Items:** [to be filled]<br>**Potions:** [to be filled]<br>**Non-magical Items:** [to be filled]<br>**Gold:** [to be filled] |
 
 ---
 
-## 🎭 Dramatis Persona
-
-| **Português (PT-PT)** | **English (EN-US)** |
-|------------------------|---------------------|
-| **NPCs de influência direta:**<br>- [Orianna](pc_orianna.md) – amiga de infância, parceira de viagem.<br>- [Kaldros Veynor](../npc/kaldros_veynor.md) – mercador tiefling encontrado junto ao Rio Neen.<br>- [Geralt](../npc/geralt.md) – taberneiro de Two Fords, cuja filha estava doente. | **Direct Influence NPCs:**<br>- [Orianna](pc_orianna.md) – childhood friend, travel companion.<br>- [Kaldros Veynor](../npc/kaldros_veynor.md) – tiefling merchant met near the Neen River.<br>- [Geralt](../npc/geralt.md) – innkeeper of Two Fords, whose daughter was ill. |
-| **Antagonistas:** Cultistas e agentes do [Culto do Mal Elemental](../organizations/culto_elemental.md). | **Antagonists:** Cultists and agents of the [Cult of Elemental Evil](../organizations/culto_elemental.md). |
-| **Aliados:** Companheiros de missão em [Two Fords](../adventures/s04_two_fords_doenca_moinho_summary.md): Orianna, Lone Straw, Wandering Sage, Endor, Gaulutax. | **Allies:** Fellow adventurers in [Two Fords](../adventures/s04_two_fords_doenca_moinho_summary.md): Orianna, Lone Straw, Wandering Sage, Endor, Gaulutax. |
+| **📖 História – Antes da Taberna** | **📖 Story – Before the Tavern** |
+| ---------------------------------- | -------------------------------- |
+| - Amigo de infância de [Orianna](pc_orianna.md). <br>- Cresceu na mesma comunidade rural, partilhando uma vida simples até ambos partirem em viagem para compreender os deuses e ganhar sustento. <br>- **(Inferido com base nos registos de lore e NPCs: trabalhou como guarda da aldeia e estudou num templo antes de se tornar aventureiro)**  | - Childhood friend of [Orianna](pc_orianna.md). <br>- Grew up in the same rural community, sharing a simple life until they set out to understand the gods and seek a living. <br>- **(Inferred from lore and NPC records: worked as a village guard and studied at a temple before adventuring)**  |
 
 ---
 
-## 🔗 Ligações de Sessões
-
-- [S03B – Emboscada nas Margens do Rio Neen](../adventures/s03_emboscada_nas_margens_do_rio_neem_resumo.md) — Arkos com Orianna, Endouvan, Gauthak, Lone Straw.  
-- [S04B – Doença em Two Fords](../adventures/s04_two_fords_doenca_moinho_summary.md) — Arkos com Orianna, Lone, Wandering Sage, Endor, Gaulutax.  
+| **📖 História – Depois da Taberna** | **📖 Story – After the Tavern** |
+| ----------------------------------- | -------------------------------- |
+| - **[Rio Neen](../adventures/s03_emboscada_nas_margens_do_rio_neem_resumo.md):** combateu numa emboscada goblin ao lado de Orianna, Endouvan, Gauthak e Lone Straw; salvaram [Kaldros Veynor](../npc/kaldros_veynor.md). <br>- **[Two Fords](../adventures/s04_two_fords_doenca_moinho_summary.md):** investigou a doença na vila, encontrou [Geralt](../npc/geralt.md) e ajudou a salvar a filha Lila; expôs a ligação com o [Culto do Mal Elemental](../organizations/culto_elemental.md). <br>- Permaneceu em missões conjuntas com Orianna, Lone Straw, Wandering Sage, Endo Bom Sossego e Gaulutax. | - **[Neen River](../adventures/s03_emboscada_nas_margens_do_rio_neem_resumo.md):** fought in a goblin ambush alongside Orianna, Endouvan, Gauthak, and Lone Straw; rescued [Kaldros Veynor](../npc/kaldros_veynor.md). <br>- **[Two Fords](../adventures/s04_two_fords_doenca_moinho_summary.md):** investigated the village plague, met [Geralt](../npc/geralt.md) and helped save his daughter Lila; uncovered ties to the [Cult of Elemental Evil](../organizations/culto_elemental.md). <br>- Continued joint missions with Orianna, Lone Straw, Wandering Sage, Endo Bom Sossego, and Gaulutax. |
 
 ---
 
-## 🔮 OBS
+| **🎭 Dramatis Persona**                                                                                                                | **🎭 Dramatis Persona**                                                                                                         |
+| -------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| **NPCs de influência direta:** <br>- [Orianna](pc_orianna.md) (amiga de infância, parceira de fé) <br>- [Kaldros Veynor](../npc/kaldros_veynor.md) (mercador resgatado) <br>- [Geralt](../npc/geralt.md) (taberneiro de Two Fords) <br>- Lila (filha de Geralt, vítima da doença) | **Direct Influence NPCs:** <br>- [Orianna](pc_orianna.md) (childhood friend, faith companion) <br>- [Kaldros Veynor](../npc/kaldros_veynor.md) (rescued merchant) <br>- [Geralt](../npc/geralt.md) (innkeeper of Two Fords) <br>- Lila (Geralt’s daughter, victim of the disease) |
+| **Antagonistas:** <br>- [Culto do Mal Elemental](../organizations/culto_elemental.md) e seus agentes                                    | **Antagonists:** <br>- [Cult of Elemental Evil](../organizations/culto_elemental.md) and its agents                                                                  |
+| **Aliados:** <br>- Orianna, Lone Straw, Wandering Sage, Endo Bom Sossego, Gaulutax, Endouvan, Gauthak                                  | **Allies:** <br>- Orianna, Lone Straw, Wandering Sage, Endo Bom Sossego, Gaulutax, Endouvan, Gauthak                                                                 |
 
-| **Português (PT-PT)** | **English (EN-US)** |
-|------------------------|---------------------|
-| - Personagem apresentada como **explorador de fé**: busca compreender os deuses através da prática e convivência.<br>- A ligação com Orianna é central: ambos funcionam como “par” de crescimento mútuo. | - Character framed as a **faith explorer**: seeks to understand gods through practice and experience.<br>- Bond with Orianna is central: they function as a pair, growing together. |
+---
+
+| **🔮 OBS** | **🔮 Notes** |
+| ---------- | ------------ |
+| - Busca compreender os deuses através da prática e fé. <br>- Relação com [Orianna](pc_orianna.md) é central: ela funciona como espelho moral, mais ligada à vida comum do que à fé.   <br>- Participou nas primeiras sessões da campanha como contrapeso espiritual, trazendo a perspetiva clerical às aventuras. | - Seeks to understand the gods through practice and faith. <br>- Relationship with [Orianna](pc_orianna.md) is central: she acts as his moral mirror, tied more to common life than faith.   <br>- Took part in the earliest sessions as a spiritual counterbalance, bringing clerical perspective to the party’s choices. |
+
+---

@@ -1,0 +1,65 @@
+# Frederick "Freddy" Junsi
+
+
+| ![Frederick Freddy](assets/pc/pc_frederick_freddy_01.png){ width=200 } | ![Frederick Freddy](assets/pc/pc_frederick_freddy_02.png){ width=200 } |
+| ---------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+
+---
+
+**[DM-ONLY – Não incluir na Wiki]**  
+
+| Português                                                                    | English                                                                       |
+| ---------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| **Jogador:** Alexandre Júlio                                                 | **Player:**  Alexandre Júlio                                                  |
+| **Idade:** [por preencher]                                                   | **Age:**   [to be filled]                                                     |
+| **Contacto:** +351 910 367 002                                               | **Contact:**  +351 910 367 002                                                |
+| **Instagram:** [por preencher]                                               | **Instagram:**  [to be filled]                                                |
+| **Discord:** [por preencher]                                                 | **Discord:**  [to be filled]                                                  |
+| **Ficha D&D Beyond:** [Link](https://www.dndbeyond.com/characters/140697485) | **D&D Beyond Sheet:**  [Link](https://www.dndbeyond.com/characters/140697485) |
+
+**[DM-ONLY – Não incluir na Wiki]**  
+
+---
+
+| **🧙 Personagem**              | **🧙 Character**                |
+| ------------------------------ | ------------------------------- |
+| Nome: Frederick "Freddy" Junsi | Name:  Frederick "Freddy" Junsi |
+| Espécie:  Halfling             | Species:  Halfling              |
+| Idade: 272                     | Age:   272                      |
+| Classe:  Ladino                | Class:  Rogue                   |
+| Alinhamento: Neutro            | Alignment: Neutral              |
+| Background: Criminoso          | Background: Criminal            |
+
+---
+
+| **⚔️ Itens**             | **⚔️ Items**                         |
+| ---------------------- | ------------------------------ |
+| **Armadura/Escudo:** Leather Armor <br>**Armas:** Rapier, 2 daggers <br>**Items mágicos:** [por preencher] <br>**Potions:** [por preencher] <br>**Items não mágicos:** Backpack, Herbalism Kit, Paper and Ink, Chalk, Candles, Bedroll, Fine Clothes, Adventurer’s Clothes <br>**Ouro:** ~200 gp + 5 GP, 5 SP, 30 CP (roubado ao ferreiro em missão)  | **Armor/Shield:** Leather Armor <br>**Weapons:** Rapier, 2 daggers <br>**Magical Items:** [to be filled] <br>**Potions:** [to be filled] <br>**Non-magical Items:** Backpack, Herbalism Kit, Paper and Ink, Chalk, Candles, Bedroll, Fine Clothes, Adventurer’s Clothes <br>**Gold:** ~200 gp + 5 GP, 5 SP, 30 CP (stolen from blacksmith during mission)  |
+
+---
+
+| **📖 História – Antes da Taberna** | **📖 Story – Before the Tavern** |
+| ---------------------------------- | -------------------------------- |
+| Friedrick era apicultor nas Montanhas Seawall, em [Zilargo](../locations/zilargo.md) (Eberron), até ser amaldiçoado pelos rivais da [Sociedade da Compota](../organizations/sociedade_da_compota.md). A maldição prolongou a sua vida para cerca de 500 anos e fez com que envelhecesse lentamente, mas levou-o a perder tudo — família, reputação e o seu famoso mel. Com o negócio destruído e apenas dois netos que não vê há anos, jurou vingança e entrou no submundo do crime. Apesar do caminho sombrio, mantém o amor pela apicultura  . | Friedrick was a beekeeper in the Seawall Mountains of [Zilargo](../locations/zilargo.md) (Eberron) until he was cursed by rivals from the [Compote Society](../organizations/sociedade_da_compota.md). The curse extended his lifespan to about 500 years and slowed his aging, but cost him everything — family, reputation, and his famous honey. With his business ruined and only two grandchildren he hasn’t seen in years, he swore vengeance and entered the criminal underworld. Despite the dark path, he never lost his love for beekeeping  . |
+
+---
+
+| **📖 História – Depois da Taberna** | **📖 Story – After the Tavern** |
+| ----------------------------------- | -------------------------------- |
+| Freddy participou em várias missões com destaque para **“Dandan e os 40 Kobolds”**, onde se infiltrou desajeitadamente com Gauthak para enganar os kobolds, tendo descoberto pistas sobre a espada de Viltrix, o Justo, roubada em [Bernagrade](../locations/bernagrade.md) . <br><br>Durante a missão, enfrentou Dandan, um kobold alado, e sobreviveu com a ajuda do grupo. <br><br>Foi também chamado por [Kythria](../npc/kythria.md) para missões comerciais em [Erybend](../locations/erybend.md), estabelecendo contactos com as mercadoras Myria e Jeraldina . <br><br>Na missão em Pessegueiro, destacou-se pela sua astúcia no resgate de Abigail:contentReference[oaicite:0]{index=0}. | Freddy took part in several missions, most notably **“Dandan and the 40 Kobolds”**, where he and Gauthak clumsily attempted to infiltrate kobolds, discovering clues about the stolen sword of Viltrix the Just in [Bernagrade](../locations/bernagrade.md) . <br><br>During the mission, he faced Dandan, a winged kobold, surviving thanks to his party. <br><br>He was also recruited by [Kythria](../npc/kythria.md) for trade missions in [Erybend](../locations/erybend.md), establishing contacts with merchants Myria and Jeraldina . <br><br>In the mission at Pessegueiro, he stood out for his cunning during Abigail’s rescue【39†pc_friedrick_junsi.md】. |
+
+---
+
+| **🎭 Dramatis Persona**                                                                                                                                                                                                                                                                                                                                      | **🎭 Dramatis Persona**                                                                                                                                                                                                                                                                                                                   |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **NPCs de influência direta:**  <br>- [Kythria](../npc/kythria.md) (sobrinha do taberneiro, contacto de missões) <br>- [Myria](../npc/myria.md) (mercadora anã) <br>- [Jeraldina](../npc/jeraldina.md) (mercadora meio-orc) <br>- Eliria de [Bernagrade](../locations/bernagrade.md) (apresentou o roubo da espada) <br>- Abigail (resgatada em Pessegueiro) | **Direct Influence NPCs:**  <br>- [Kythria](../npc/kythria.md) (innkeeper’s niece, mission contact) <br>- [Myria](../npc/myria.md) (dwarf merchant) <br>- [Jeraldina](../npc/jeraldina.md) (half-orc merchant) <br>- Eliria of [Bernagrade](../locations/bernagrade.md) (reported the sword theft) <br>- Abigail (rescued in Pessegueiro) |
+| **Antagonistas:**  <br>- [Sociedade da Compota](../organizations/sociedade_da_compota.md) (responsáveis pela sua maldição) <br>- Kobolds liderados por Dandan                                                                                                                                                                                                | **Antagonists:**  <br>- [Compote Society](../organizations/sociedade_da_compota.md) (responsible for his curse) <br>- Kobolds led by Dandan                                                                                                                                                                                               |
+| **Aliados:**  <br>- [Grix’Molah](../pc/pc_grixmolah.md) <br>- [Vaunia](../pc/pc_vaunia.md) <br>- [Gauthak](../pc/pc_gauthak_vunakamune.md) <br>- [Ustrax](../pc/pc_ustrax.md) <br>- Outros membros da Taberna                                                                                                                                                | **Allies:**  <br>- [Grix’Molah](../pc/pc_grixmolah.md) <br>- [Vaunia](../pc/pc_vaunia.md) <br>- [Gauthak](../pc/pc_gauthak_vunakamune.md) <br>- [Ustrax](../pc/pc_ustrax.md) <br>- Other Tavern members                                                                                                                                   |
+
+---
+
+| **🔮 OBS** | **🔮 Notes** |
+| ---------- | ------------ |
+| A maldição da [Sociedade da Compota](../organizations/sociedade_da_compota.md) prolonga a sua vida em até 500 anos, envelhecendo lentamente. <br>Apesar de se ter tornado criminoso, mantém práticas de apicultura, sugerindo possível papel futuro ligado a mel mágico. | The curse from the [Compote Society](../organizations/sociedade_da_compota.md) extends his lifespan up to 500 years, causing slow aging. <br>Despite turning to crime, he maintains beekeeping practices, hinting at a possible future role tied to magical honey. |
+
+---

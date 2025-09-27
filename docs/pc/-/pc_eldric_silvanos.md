@@ -1,6 +1,6 @@
 # Eldric Silvanos
 
-| ![pc_eldric_silvanus](assets/pc/pc_eldric_silvanus.png){ width=300 } |
+| ![pc_eldric_silvanus](pc_eldric_silvanos.png){ width=300 } |
 | -------------------------------------------------------------------- |
 
 | **🧙 Eldric Silvanos**                                 | **🧙 Eldric Silvanos**              |

@@ -1,4 +1,4 @@
-﻿# Zahel
+# Zahel
 
 | ![pc_zahel](assets/pc/pc_zahel.png){width=300} |
 | ------------------------ |
