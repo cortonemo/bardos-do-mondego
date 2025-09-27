@@ -1,36 +1,70 @@
 # Gauthak Vunakamune
 
 
-| ![pc_gauthak_vunakamune](pc_gauthak_vunakamune.jpeg){width=250} |
-| --------------------------------------------------------------- |
-
-
-| **Português (PT-PT)** | **English (EN-US)** |
-|---|---|
-| **Jogador:** Japs Carvalho | **Player:** Japs Carvalho |
-| **Espécie:** Goliath | **Species:** Goliath |
-| **Classe:** Monge | **Class:** Monk |
-| **Origem:** [por preencher] | **Background:** [to fill] |
-| **Alinhamento:** [por preencher] | **Alignment:** [to fill] |
-| **Nível:** 7 | **Level:** 7 |
-| **Sessões:** 14 | **Sessions:** 14 |
-| **Presenças:** 1 | **Attendance:** 1 |
-| **Fonte:** s14_-_2025-04-10.txt | **Source:** s14_-_2025-04-10.txt |
-| **Ficha DnD Beyond:** [Link](https://www.dndbeyond.com/characters/138748528) | **DnD Beyond Sheet:** [Link](https://www.dndbeyond.com/characters/138748528) |
-| **Contacto:** +351 926 395 900 | **Contact:** +351 926 395 900 |
+| ![pc_gauthak_vunakamune](assets/pc/pc_gauthak_vunakamune.jpeg){ width=200 } |
+| --------------------------------------------------------------------------- |
 
 ---
 
-| **Português (PT-PT)** | **English (EN-US)** |
-|---|---|
-| **Descrição:** Monge goliath de força impressionante, marcado por um pacto ancestral com um Efreeti e por uma vida entre forjas, batalhas e recomeços. Destaca-se no combate corpo a corpo e participou na missão de Pessegueiro. | **Description:** Goliath monk of impressive strength, marked by an ancestral pact with an Efreeti and a life between forges, battles, and new beginnings. Excels in melee combat and took part in the Pessegueiro mission. |
-|História | Backstory|
-| **Origem no Vulcão:** Nascido na Tribo do Vulcão Sombrio, Gauthak cresceu entre a lava e o ferro, fascinado pela forja e pelo calor. Num encontro profundo no interior do vulcão, foi marcado por Akharn, o Efreeti da Fornalha Eterna, que lhe conferiu poder e responsabilidade. | **Volcano Origins:** Born in the Tribe of the Dark Volcano, Gauthak grew up surrounded by lava and iron, fascinated by the forge and heat. In a deep encounter within the volcano, he was marked by Akharn, the Efreeti of the Eternal Furnace, granting him power and responsibility. |
-| **Tragédia no Templo Perdido:** Contratado por Lorde Vaeltherin Duskbane para guiar uma expedição, alertou para os perigos do templo. Uma armadilha matou quase todos, e Vaeltherin foi dado como morto. Anos depois, descobriu que o nobre sobrevivera e queria eliminá-lo para proteger segredos obscuros. | **Tragedy at the Lost Temple:** Hired by Lord Vaeltherin Duskbane to guide an expedition, he warned of the temple’s dangers. A trap killed nearly everyone, and Vaeltherin was presumed dead. Years later, Gauthak learned the noble had survived and sought to eliminate him to protect dark secrets. |
-| **Monastério das Cinzas:** Gravemente ferido por mercenários de Vaeltherin, foi salvo pelo Mestre Kaelith Emberwhisper. Aprendeu disciplina e velocidade, transformando-se num monge ágil e preciso. | **Monastery of Ashes:** Gravely wounded by Vaeltherin’s mercenaries, he was rescued by Master Kaelith Emberwhisper. He learned discipline and speed, becoming an agile and precise monk. |
-| **Encontros e Missões:** - **Lago Sombrio:** Resgatou Darvek de um cavaleiro das sombras leal a Vaeltherin, obtendo um amuleto maligno.<br>- **Dandan e os 40 Kobolds:** Liderou infiltração disfarçada, conheceu Greta e trouxe-a para a taverna.<br>- **Interrogatório de Pravisamjar:** Descobriu detalhes sobre os planos e a ascensão de Vaeltherin no culto do mal elemental.<br>- **Loucura de Darvek:** Ofereceu abrigo e cuidados ao amigo perturbado, enquanto se preparava para a guerra futura. | **Encounters and Missions:** - **Dark Lake:** Rescued Darvek from a shadow knight loyal to Vaeltherin, obtaining an evil amulet.<br>- **Dandan and the 40 Kobolds:** Led a disguised infiltration, met Greta, and brought her to the tavern.<br>- **Interrogation of Pravisamjar:** Uncovered details about Vaeltherin’s plans and rise in the elemental evil cult.<br>- **Darvek’s Madness:** Offered shelter and care to his troubled friend, while preparing for future war. |
-|Temas Centrais | Core Themes |
-| Pacto de fogo e forja com Akharn | Pact of fire and forge with Akharn |
-| Conflito contínuo com Vaeltherin Duskbane | Ongoing conflict with Vaeltherin Duskbane |
-| Equilíbrio entre força bruta e disciplina monástica | Balance between brute strength and monastic discipline |
-| Laços forjados na taverna e nas missões | Bonds forged in the tavern and through missions |
+**[DM-ONLY – Não incluir na Wiki]**  
+
+| Português                                                                    | English                                                |
+| --------------------------------------------------------- | ---------------------------------------- |
+| **Jogador:** Japs Carvalho                                      | **Player:**  Japs Carvalho                      |
+| **Idade:** [por preencher]                                          | **Age:**   [to be filled]                        |
+| **Contacto:** +351 926 395 900                                    | **Contact:**  +351 926 395 900                   |
+| **Instagram:** [por preencher]                                   | **Instagram:**  [to be filled]               |
+| **Discord:** [por preencher]                                       | **Discord:**  [to be filled]                   |
+| **Ficha D&D Beyond:** [Link](https://www.dndbeyond.com/characters/138748528)                     | **D&D Beyond Sheet:**  [Link](https://www.dndbeyond.com/characters/138748528) |
+
+**[DM-ONLY – Não incluir na Wiki]**  
+
+---
+
+| **🧙 Personagem**            | **🧙 Character**           |
+| ---------------------------- | -------------------------- |
+| Nome: Gauthak Vunakamune     | Name:  Gauthak Vunakamune  |
+| Espécie:  Goliath            | Species:  Goliath          |
+| Classe:  Monge               | Class:  Monk               |
+| Alinhamento: [por preencher] | Alignment: [to be filled]  |
+| Background: [por preencher]  | Background: [to be filled] |
+| Idade: [por preencher]       | Age: [to be filled]        |
+| Altura: [por preencher]      | Height: [to be filled]     |
+| Olhos: [por preencher]       | Eyes: [to be filled]       |
+| Cabelo: [por preencher]      | Hair: [to be filled]       |
+| Pele: [por preencher]        | Skin: [to be filled]       |
+| Tamanho:  [por preencher]    | Size:  [to be filled]      |
+
+---
+
+| **⚔️ Itens**             | **⚔️ Items**                         |
+| ---------------------- | ------------------------------ |
+| **Armadura/Escudo:** Nenhum <br>**Armas:** Punhos, ocasionalmente armas improvisadas <br>**Items mágicos:** Medalhão corrompido (Lago Sombrio, marcado por Vaeltherin)  <br>**Potions:** [por preencher] <br>**Items não mágicos:** Cristais de quartzo (loot narrativo)  <br>**Ouro:** 500 GP (dividido em Sombras Sobre a Água)  | **Armor/Shield:** None <br>**Weapons:** Fists, occasionally improvised weapons <br>**Magical Items:** Corrupted Medallion (Dark Lake, marked by Vaeltherin)  <br>**Potions:** [to be filled] <br>**Non-magical Items:** Quartz Crystals (narrative loot)  <br>**Gold:** 500 GP (shared from Shadows Over Water)  |
+
+---
+
+| **📖 História – Antes da Taberna** | **📖 Story – Before the Tavern** |
+| ---------------------------------- | -------------------------------- |
+| **Origem no Vulcão:** Cresceu na Tribo do Vulcão Sombrio, fascinado pela forja. Foi marcado por **Akharn**, o Efreeti da Fornalha Eterna, recebendo poder e responsabilidade. <br><br>**Tragédia no Templo Perdido:** Contratado por **Lorde Vaeltherin Duskbane**, sobreviveu a uma armadilha que matou quase todos. Mais tarde descobriu que Vaeltherin sobrevivera e queria eliminá-lo. <br><br>**Monastério das Cinzas:** Salvo por **Mestre Kaelith Emberwhisper**, aprendeu disciplina e tornou-se monge  . | **Volcano Origins:** Raised in the Tribe of the Dark Volcano, fascinated by the forge. Marked by **Akharn**, the Efreeti of the Eternal Furnace, who granted him power and responsibility. <br><br>**Tragedy at the Lost Temple:** Hired by **Lord Vaeltherin Duskbane**, he survived a deadly trap. Later discovered Vaeltherin had survived and sought to eliminate him. <br><br>**Monastery of Ashes:** Saved by **Master Kaelith Emberwhisper**, he learned discipline and became a monk  . |
+
+---
+
+| **📖 História – Depois da Taberna** | **📖 Story – After the Tavern** |
+| ----------------------------------- | -------------------------------- |
+| - **Lago Sombrio:** Resgatou **Darvek** de um cavaleiro das sombras, obtendo um amuleto maligno. <br>- **Dandan e os 40 Kobolds:** Liderou infiltração, conheceu **Greta** e levou-a para a Taberna. <br>- **Interrogatório de Pravisamjar:** Descobriu os planos de **Vaeltherin** no culto do Mal Elemental. <br>- **Sombras Sobre a Água:** Recebeu medalhão corrompido, marcado pelo poder de Vaeltherin. <br>- **Missão em Pessegueiro:** Atuou no resgate de Abigail, enfrentando mimics e doppelgangers   . | - **Dark Lake:** Rescued **Darvek** from a shadow knight, gaining a dark amulet. <br>- **Dandan and the 40 Kobolds:** Led an infiltration, met **Greta** and brought her to the Tavern. <br>- **Interrogation of Pravisamjar:** Learned of **Vaeltherin’s** rise in the Elemental Evil cult. <br>- **Shadows Over Water:** Received a corrupted medallion, marked by Vaeltherin’s power. <br>- **Mission at Pessegueiro:** Took part in Abigail’s rescue, facing mimics and doppelgangers   . |
+
+---
+
+| **🎭 Dramatis Persona**                                                                                                                 | **🎭 Dramatis Persona**                                                                                                           |
+| --------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| **NPCs de influência direta:**  <br>- [Akharn](../npc/akharn.md) (Efreeti da Fornalha Eterna) <br>- [Mestre Kaelith Emberwhisper](../npc/kaelith_emberwhisper.md) <br>- [Darvek](../npc/darvek.md) (Espião perturbado) <br>- [Greta](../npc/greta.md) (Kobold resgatada) <br>- [Pravisamjar](../npc/pravisamjar.md) (informante interrogado) | **Direct Influence NPCs:**  <br>- [Akharn](../npc/akharn.md) (Efreeti of the Eternal Furnace) <br>- [Master Kaelith Emberwhisper](../npc/kaelith_emberwhisper.md) <br>- [Darvek](../npc/darvek.md) (Troubled spy) <br>- [Greta](../npc/greta.md) (Rescued kobold) <br>- [Pravisamjar](../npc/pravisamjar.md) (interrogated informant) |
+| **Antagonistas:**  <br>- [Lorde Vaeltherin Duskbane](../npc/vaeltherin_duskbane.md) <br>- Cavaleiros das Sombras <br>- Culto do Mal Elemental | **Antagonists:**  <br>- [Lord Vaeltherin Duskbane](../npc/vaeltherin_duskbane.md) <br>- Shadow Knights <br>- Elemental Evil Cult |
+| **Aliados:**  <br>- [Frederick Junsi](../pc/pc_friedrick_junsi.md) <br>- [Vaunia](../pc/pc_vaunia.md) <br>- [Ustrax](../pc/pc_ustrax.md) <br>- [Grix’Molah](../pc/pc_grixmolah.md) <br>- [Conan](docs/dm/-/pc/pc_conan_barbaro_ra.md) <br>- Outros membros da Taberna | **Allies:**  <br>- [Frederick Junsi](../pc/pc_friedrick_junsi.md) <br>- [Vaunia](../pc/pc_vaunia.md) <br>- [Ustrax](../pc/pc_ustrax.md) <br>- [Grix’Molah](../pc/pc_grixmolah.md) <br>- [Conan](docs/dm/-/pc/pc_conan_barbaro_ra.md) <br>- Other Tavern members |
+
+---
+
+| **🔮 OBS** | **🔮 Notes** |
+| ---------- | ------------ |
+| O **pacto com Akharn** define os seus poderes. <br>Marcado pelo **medalhão corrompido** ligado a Vaeltherin. <br>Equilíbrio entre brutalidade goliath e disciplina monástica. | His **pact with Akharn** defines his powers. <br>Marked by the **corrupted medallion** tied to Vaeltherin. <br>Balances goliath brutality with monastic discipline. |
+
+---

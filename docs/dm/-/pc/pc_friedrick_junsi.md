@@ -25,10 +25,15 @@
 | ------------------------------ | ------------------------------- |
 | Nome: Frederick "Freddy" Junsi | Name:  Frederick "Freddy" Junsi |
 | Espécie:  Halfling             | Species:  Halfling              |
-| Idade: 272                     | Age:   272                      |
 | Classe:  Ladino                | Class:  Rogue                   |
 | Alinhamento: Neutro            | Alignment: Neutral              |
 | Background: Criminoso          | Background: Criminal            |
+| Idade: 272                     | Age:   272                      |
+| Altura: [por preencher]        | Height: [to be filled]          |
+| Olhos: [por preencher]         | Eyes: [to be filled]            |
+| Cabelo: [por preencher]        | Hair: [to be filled]            |
+| Pele: [por preencher]          | Skin: [to be filled]            |
+| Tamanho:  [por preencher]      | Size:  [to be filled]           |
 
 ---
 

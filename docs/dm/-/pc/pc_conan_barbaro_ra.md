@@ -27,6 +27,12 @@
 | Classe: Barbarian / Fighter  | Class: Barbarian / Fighter |
 | Alinhamento: [por preencher] | Alignment: [to be filled]  |
 | Background: [por preencher]  | Background: [to be filled] |
+| Idade: [por preencher]       | Age: [to be filled]        |
+| Altura: [por preencher]      | Height: [to be filled]     |
+| Olhos: [por preencher]       | Eyes: [to be filled]       |
+| Cabelo: [por preencher]      | Hair: [to be filled]       |
+| Pele: [por preencher]        | Skin: [to be filled]       |
+| Tamanho:  [por preencher]    | Size:  [to be filled]      |
 
 ---
 
@@ -52,7 +58,7 @@
 | ------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
 | **NPCs de influência direta:**  <br>- Pai adotivo (chefe da tribo de rãs)<br>- Mãe adotiva (anciã da tribo)<br>- [Kristryd Splitanvil](../npc/kristryd_splitanvil.md)<br>- Baltigard<br>- Cocas<br>- Mestre Yoda | **Direct Influence NPCs:**  <br>- Adoptive father (frog tribe chief)<br>- Adoptive mother (frog tribe elder)<br>- [Kristryd Splitanvil](../npc/kristryd_splitanvil.md)<br>- Baltigard<br>- Cocas<br>- Master Yoda |
 | **Antagonistas:**  <br>- [Culto do Mal Elemental](../organizations/culto_elemental.md)<br>- Vaelkor Ashbrand<br>- Galin Fiduain<br>- Basilisco | **Antagonists:**  <br>- [Cult of Elemental Evil](../organizations/culto_elemental.md)<br>- Vaelkor Ashbrand<br>- Galin Fiduain<br>- Basilisk |
-| **Aliados:**  <br>- [Dustin](../pc/pc_dustin.md)<br>- [Triss](../pc/pc_triss.md)<br>- [Markus Grimm](../pc/pc_markus_grimm.md)<br>- [Vaunia](../pc/pc_vaunia.md)<br>- [Grix’Molah](../pc/pc_grixmolah.md)<br>- [Usopp](../pc/pc_usopp.md)<br>- [Raylahn](../pc/pc_raylahn.md)<br>- [Flynn](../pc/pc_flynn.md)<br>- [Wandering Sage](../pc/pc_wandering_sage.md)<br>- [Freddy](../pc/pc_freddy.md)<br>- [Gauthak](../pc/pc_gauthak.md)<br>- [Eldric](../pc/pc_eldric.md)<br>- [Silfir](../pc/pc_silfir.md)<br>- [Zeldris](../pc/pc_zeldris.md) | **Allies:**  <br>- [Dustin](../pc/pc_dustin.md)<br>- [Triss](../pc/pc_triss.md)<br>- [Markus Grimm](../pc/pc_markus_grimm.md)<br>- [Vaunia](../pc/pc_vaunia.md)<br>- [Grix’Molah](../pc/pc_grixmolah.md)<br>- [Usopp](../pc/pc_usopp.md)<br>- [Raylahn](../pc/pc_raylahn.md)<br>- [Flynn](../pc/pc_flynn.md)<br>- [Wandering Sage](../pc/pc_wandering_sage.md)<br>- [Freddy](../pc/pc_freddy.md)<br>- [Gauthak](../pc/pc_gauthak.md)<br>- [Eldric](../pc/pc_eldric.md)<br>- [Silfir](../pc/pc_silfir.md)<br>- [Zeldris](../pc/pc_zeldris.md) |
+| **Aliados:**  <br>- [Dustin](docs/dm/-/pc/pc_dustin_thorne.md)<br>- [Triss](../pc/pc_triss.md)<br>- [Markus Grimm](../pc/pc_markus_grimm.md)<br>- [Vaunia](../pc/pc_vaunia.md)<br>- [Grix’Molah](../pc/pc_grixmolah.md)<br>- [Usopp](../pc/pc_usopp.md)<br>- [Raylahn](../pc/pc_raylahn.md)<br>- [Flynn](../pc/pc_flynn.md)<br>- [Wandering Sage](../pc/pc_wandering_sage.md)<br>- [Freddy](../pc/pc_freddy.md)<br>- [Gauthak](../pc/pc_gauthak.md)<br>- [Eldric](../pc/pc_eldric.md)<br>- [Silfir](../pc/pc_silfir.md)<br>- [Zeldris](../pc/pc_zeldris.md) | **Allies:**  <br>- [Dustin](docs/dm/-/pc/pc_dustin_thorne.md)<br>- [Triss](../pc/pc_triss.md)<br>- [Markus Grimm](../pc/pc_markus_grimm.md)<br>- [Vaunia](../pc/pc_vaunia.md)<br>- [Grix’Molah](../pc/pc_grixmolah.md)<br>- [Usopp](../pc/pc_usopp.md)<br>- [Raylahn](../pc/pc_raylahn.md)<br>- [Flynn](../pc/pc_flynn.md)<br>- [Wandering Sage](../pc/pc_wandering_sage.md)<br>- [Freddy](../pc/pc_freddy.md)<br>- [Gauthak](../pc/pc_gauthak.md)<br>- [Eldric](../pc/pc_eldric.md)<br>- [Silfir](../pc/pc_silfir.md)<br>- [Zeldris](../pc/pc_zeldris.md) |
 
 ---
 

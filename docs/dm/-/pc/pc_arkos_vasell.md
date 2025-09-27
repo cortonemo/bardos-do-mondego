@@ -25,6 +25,12 @@
 | Classe: Clérigo<br>          | Class: Cleric              |
 | Alinhamento: [por preencher] | Alignment: [to be filled]  |
 | Background: [por preencher]  | Background: [to be filled] |
+| Idade: [por preencher]       | Age: [to be filled]        |
+| Altura: [por preencher]      | Height: [to be filled]     |
+| Olhos: [por preencher]       | Eyes: [to be filled]       |
+| Cabelo: [por preencher]      | Hair: [to be filled]       |
+| Pele: [por preencher]        | Skin: [to be filled]       |
+| Tamanho:  [por preencher]    | Size:  [to be filled]      |
 
 ---
 

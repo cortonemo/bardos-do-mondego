@@ -27,6 +27,12 @@
 | Classe: Ranger               | Class: Ranger              |
 | Alinhamento: [por preencher] | Alignment: [to be filled]  |
 | Background: [por preencher]  | Background: [to be filled] |
+| Idade: [por preencher]       | Age: [to be filled]        |
+| Altura: [por preencher]      | Height: [to be filled]     |
+| Olhos: [por preencher]       | Eyes: [to be filled]       |
+| Cabelo: [por preencher]      | Hair: [to be filled]       |
+| Pele: [por preencher]        | Skin: [to be filled]       |
+| Tamanho:  [por preencher]    | Size:  [to be filled]      |
 
 ---
 
@@ -50,7 +56,7 @@
 
 | **🎭 Dramatis Persona**                                                                                                                   | **🎭 Dramatis Persona**                                                                                                   |
 | ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| **NPCs de influência direta:**<br>- [Titânia](../npc/titania.md)<br>- [Egalar](../npc/egalar.md)<br>**Antagonistas:**<br>- [por preencher]<br>**Aliados:**<br>- [Arkos Vasell](../pc/pc_arkos_vasell.md)<br>- [Orianna](../pc/pc_orianna.md)<br>- [Conan, o Bárbaro-Rã](../pc/pc_conan_barbaro_ra.md)<br>- [Bok Thunderfist](../pc/pc_bok_thunderfist.md)<br>- [Drayl Bharash](../pc/pc_drayl_bharash.md) | **Direct Influence NPCs:**<br>- [Titania](../npc/titania.md)<br>- [Egalar](../npc/egalar.md)<br>**Antagonists:**<br>- [to be filled]<br>**Allies:**<br>- [Arkos Vasell](../pc/pc_arkos_vasell.md)<br>- [Orianna](../pc/pc_orianna.md)<br>- [Conan, the Frog-Barbarian](../pc/pc_conan_barbaro_ra.md)<br>- [Bok Thunderfist](../pc/pc_bok_thunderfist.md)<br>- [Drayl Bharash](../pc/pc_drayl_bharash.md) |
+| **NPCs de influência direta:**<br>- [Titânia](../npc/titania.md)<br>- [Egalar](../npc/egalar.md)<br>**Antagonistas:**<br>- [por preencher]<br>**Aliados:**<br>- [Arkos Vasell](../pc/pc_arkos_vasell.md)<br>- [Orianna](../pc/pc_orianna.md)<br>- [Conan, o Bárbaro-Rã](docs/dm/-/pc/pc_conan_barbaro_ra.md)<br>- [Bok Thunderfist](../pc/pc_bok_thunderfist.md)<br>- [Drayl Bharash](../pc/pc_drayl_bharash.md) | **Direct Influence NPCs:**<br>- [Titania](../npc/titania.md)<br>- [Egalar](../npc/egalar.md)<br>**Antagonists:**<br>- [to be filled]<br>**Allies:**<br>- [Arkos Vasell](../pc/pc_arkos_vasell.md)<br>- [Orianna](../pc/pc_orianna.md)<br>- [Conan, the Frog-Barbarian](docs/dm/-/pc/pc_conan_barbaro_ra.md)<br>- [Bok Thunderfist](../pc/pc_bok_thunderfist.md)<br>- [Drayl Bharash](../pc/pc_drayl_bharash.md) |
 
 ---
 

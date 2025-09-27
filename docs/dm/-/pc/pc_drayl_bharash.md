@@ -27,6 +27,12 @@
 | Classe: Wizard               | Class: Wizard              |
 | Alinhamento: [por preencher] | Alignment: [to be filled]  |
 | Background: [por preencher]  | Background: [to be filled] |
+| Idade: [por preencher]       | Age: [to be filled]        |
+| Altura: [por preencher]      | Height: [to be filled]     |
+| Olhos: [por preencher]       | Eyes: [to be filled]       |
+| Cabelo: [por preencher]      | Hair: [to be filled]       |
+| Pele: [por preencher]        | Skin: [to be filled]       |
+| Tamanho:  [por preencher]    | Size:  [to be filled]      |
 
 ---
 
@@ -52,7 +58,7 @@
 | --------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
 | **NPCs de influência direta:**  <br>- [Queen Caecena](../npc/queen_caecena.md) <br>- [Zenvis](../npc/zenvis.md) <br>- [Lord Coriver](../npc/lord_coriver.md) <br>- [Egalar](../npc/egalar.md) <br>- [Titânia](../npc/titania.md) | **Direct Influence NPCs:**  <br>- [Queen Caecena](../npc/queen_caecena.md) <br>- [Zenvis](../npc/zenvis.md) <br>- [Lord Coriver](../npc/lord_coriver.md) <br>- [Egalar](../npc/egalar.md) <br>- [Titania](../npc/titania.md) |
 | **Antagonistas:**  <br>- [Lord Coriver](../npc/lord_coriver.md) e seus homens-serpente <br>- [Vaelkor Ashbrand](../npc/vaelkor_ashbrand.md) <br>- [Vaeltherin Duskbane](../npc/vaeltherin_duskbane.md) | **Antagonists:**  <br>- [Lord Coriver](../npc/lord_coriver.md) and his serpent-men <br>- [Vaelkor Ashbrand](../npc/vaelkor_ashbrand.md) <br>- [Vaeltherin Duskbane](../npc/vaeltherin_duskbane.md) |
-| **Aliados:**  <br>- [Dustin](../pc/pc_dustin.md)<br>- [Triss](../pc/pc_triss.md)<br>- [Kai](../pc/pc_kai.md)<br>- [Aria Greenbottle](../npc/aria_greenbottle.md) | **Allies:**  <br>- [Dustin](../pc/pc_dustin.md)<br>- [Triss](../pc/pc_triss.md)<br>- [Kai](../pc/pc_kai.md)<br>- [Aria Greenbottle](../npc/aria_greenbottle.md) |
+| **Aliados:**  <br>- [Dustin](docs/dm/-/pc/pc_dustin_thorne.md)<br>- [Triss](../pc/pc_triss.md)<br>- [Kai](../pc/pc_kai.md)<br>- [Aria Greenbottle](../npc/aria_greenbottle.md) | **Allies:**  <br>- [Dustin](docs/dm/-/pc/pc_dustin_thorne.md)<br>- [Triss](../pc/pc_triss.md)<br>- [Kai](../pc/pc_kai.md)<br>- [Aria Greenbottle](../npc/aria_greenbottle.md) |
 
 ---
 

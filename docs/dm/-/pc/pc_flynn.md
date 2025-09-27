@@ -21,13 +21,19 @@
 
 ---
 
-| **🧙 Personagem**            | **🧙 Character**           |
-| ---------------------------- | -------------------------- |
-| Nome: Flynn           | Name:  Flynn        |
-| Espécie:  Halfling | Species:  Halfling|
-| Classe:  Druida (Círculo do Sol) **(Inferido com base nas sessões)**          | Class:  Druid (Circle of the Sun) **(Inferred from sessions)** |
-| Alinhamento: [por preencher] | Alignment: [to be filled]  |
-| Background: [por preencher]  | Background: [to be filled] |
+| **🧙 Personagem**                                                    | **🧙 Character**                                               |
+| -------------------------------------------------------------------- | -------------------------------------------------------------- |
+| Nome: Flynn                                                          | Name:  Flynn                                                   |
+| Espécie:  Halfling                                                   | Species:  Halfling                                             |
+| Classe:  Druida (Círculo do Sol) **(Inferido com base nas sessões)** | Class:  Druid (Circle of the Sun) **(Inferred from sessions)** |
+| Alinhamento: [por preencher]                                         | Alignment: [to be filled]                                      |
+| Background: [por preencher]                                          | Background: [to be filled]                                     |
+| Idade: [por preencher]                                               | Age: [to be filled]                                            |
+| Altura: [por preencher]                                              | Height: [to be filled]                                         |
+| Olhos: [por preencher]                                               | Eyes: [to be filled]                                           |
+| Cabelo: [por preencher]                                              | Hair: [to be filled]                                           |
+| Pele: [por preencher]                                                | Skin: [to be filled]                                           |
+| Tamanho:  [por preencher]                                            | Size:  [to be filled]                                          |
 
 ---
 
@@ -53,7 +59,7 @@
 | --------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
 | **NPCs de influência direta:**  <br>- [Uteluk](../npc/uteluk.md) (Vedalken, Círculo da Lua) <br>- [Rolger](../npc/rolger.md) (Hobgoblin resgatado) <br> | **Direct Influence NPCs:**  <br>- [Uteluk](../npc/uteluk.md) (Vedalken, Circle of the Moon) <br>- [Rolger](../npc/rolger.md) (Rescued Hobgoblin) <br> |
 | **Antagonistas:**  <br>- Mimics do Lago dos Diamantes <br>- Doppelgangers metamórficos <br> | **Antagonists:**  <br>- Mimics of Diamond Lake <br>- Shapeshifting Doppelgangers <br> |
-| **Aliados:**  <br>- [Conan](../pc/pc_conan.md) <br>- [Raylahn](../pc/pc_raylahn.md) <br>- [Varus](../pc/pc_varus.md) <br>- Wandering Sage (PC) | **Allies:**  <br>- [Conan](../pc/pc_conan.md) <br>- [Raylahn](../pc/pc_raylahn.md) <br>- [Varus](../pc/pc_varus.md) <br>- Wandering Sage (PC) |
+| **Aliados:**  <br>- [Conan](docs/dm/-/pc/pc_conan_barbaro_ra.md) <br>- [Raylahn](../pc/pc_raylahn.md) <br>- [Varus](../pc/pc_varus.md) <br>- Wandering Sage (PC) | **Allies:**  <br>- [Conan](docs/dm/-/pc/pc_conan_barbaro_ra.md) <br>- [Raylahn](../pc/pc_raylahn.md) <br>- [Varus](../pc/pc_varus.md) <br>- Wandering Sage (PC) |
 
 ---
 

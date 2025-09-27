@@ -20,6 +20,20 @@
 
 ---
 
+| **🧙 Personagem**            | **🧙 Character**           |
+| ---------------------------- | -------------------------- |
+| Nome: Asinius                | Name: Asinius              |
+| Espécie: por preencher]      | Species:  [to be filled]   |
+| Classe: por preencher]<br>   | Class:  [to be filled]     |
+| Alinhamento: [por preencher] | Alignment: [to be filled]  |
+| Background: [por preencher]  | Background: [to be filled] |
+| Idade: [por preencher]       | Age: [to be filled]        |
+| Altura: [por preencher]      | Height: [to be filled]     |
+| Olhos: [por preencher]       | Eyes: [to be filled]       |
+| Cabelo: [por preencher]      | Hair: [to be filled]       |
+| Pele: [por preencher]        | Skin: [to be filled]       |
+| Tamanho:  [por preencher]    | Size:  [to be filled]      |
+
 | **⚔️ Itens**                                                                                                                                                        | **⚔️ Items**                                                                                                                                             |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Armadura/Escudo:** [por preencher] <br>**Armas:** [por preencher]<br>**Items mágicos:** [por preencher]<br>**Potions:** [por preencher]<br>**Items não mágicos:** Anel (vendido, +10 GP)<br>**Ouro:** 243 GP (33 GP polícia + 200 GP taverneiro + 10 GP venda do anel):contentReference[oaicite:0]{index=0} | **Armor/Shield:** [por preencher]  <br>**Weapons:** [por preencher]<br>**Magical Items:** [por preencher]<br>**Potions:** [por preencher]<br>**Non-magical Items:** Ring (sold, +10 GP)<br>**Gold:** 243 GP (33 GP guards + 200 GP tavernkeeper + 10 GP ring sale):contentReference[oaicite:1]{index=1} |

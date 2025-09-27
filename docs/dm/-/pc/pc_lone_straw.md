@@ -1,12 +1,69 @@
 # Lone Straw
 
-| ![pc_lone_straw](pc_lone_straw.png)**{width=200} ** |
-| --------------------------------------------------- |
+| ![pc_lone_straw](assets/pc/pc_lone_straw.png){width=200} |
+| -------------------------------------------------------- |
 
+---
 
+**[DM-ONLY – Não incluir na Wiki]**  
 
+| Português                                                                    | English                                                |
+| --------------------------------------------------------- | ---------------------------------------- |
+| **Jogador:** Francisco Pronto                                      | **Player:**  Francisco Pronto                      |
+| **Idade:** [por preencher]                                          | **Age:**   [to be filled]                        |
+| **Contacto:** +351 916 024 593                                    | **Contact:**  +351 916 024 593                   |
+| **Instagram:** [por preencher]                                   | **Instagram:**  [to be filled]               |
+| **Discord:** [por preencher]                                       | **Discord:**  [to be filled]                   |
+| **Ficha D&D Beyond:** [por preencher]                     | **D&D Beyond Sheet:**  [to be filled] |
 
-| Português (PT-PT) | English (EN-US) |
-|-------------------|-----------------|
-| **Jogador:** Francisco Pronto<br>**Raça:** Humano<br>**Classe:** Monk<br>**Antecedente:** Nobre<br>**Alinhamento:** Lawful Good<br>**Género:** Masculino<br>**Olhos:** Brancos<br>**Tamanho:** Médio<br>**Altura:** 1,79 m<br>**Cabelo:** Careca<br>**Barba:** Branca e longa, com duas tranças<br>**Pele:** Caucasiano<br>**Idade:** 72<br>**Nível:** 4<br>**Sessões:** 1<br>**Contacto:** +351 916 024 593<br><br>**Traços de Personalidade:** Carismático, sente-se como representante legítimo de qualquer cargo que ocupe. Procura sempre retirar o melhor das pessoas com quem interage. As suas palavras são frequentemente ouvidas e apreciadas por serem sábias.<br><br>**Ideais:** Justiça e lealdade inabalável para com os seus soberanos.<br><br>**Vínculos:** Extremamente leal, nada o fará questionar a autoridade que serve.<br><br>**Defeitos:** Perde facilmente a compostura perante injustiças ou quando se sente incompreendido. Vingativo se o seu nome ou corpo forem atacados.<br><br>**História:** Descendente de uma linhagem nobre, Lone Straw é respeitado pela sua postura e pelo seu carisma. Sempre trajado com as melhores sedas, mantém o capuz para proteger os pensamentos e nunca sai sem as suas peculiares chinelas de unicórnio. Apesar da sua prática constante de meditação, a sua calma desmorona quando confrontado com injustiça, respondendo com determinação e, por vezes, vingança. | **Player:** Francisco Pronto<br>**Race:** Human<br>**Class:** Monk<br>**Background:** Noble<br>**Alignment:** Lawful Good<br>**Gender:** Male<br>**Eyes:** White<br>**Size:** Medium<br>**Height:** 1.79 m<br>**Hair:** Bald<br>**Beard:** White and long, with two braids<br>**Skin:** Caucasian<br>**Age:** 72<br>**Level:** 4<br>**Sessions:** 1<br>**Contact:** +351 916 024 593<br><br>**Personality Traits:** Charismatic, feels fit to represent any position he holds. Always seeks to bring out the best in those he meets. His words are often heard and valued for their wisdom.<br><br>**Ideals:** Justice and unshakable loyalty to his sovereigns.<br><br>**Bonds:** Deeply loyal, nothing will make him question the authority he serves.<br><br>**Flaws:** Easily loses composure in the face of injustice or when feeling misunderstood. Vengeful if his name or body are attacked.<br><br>**Backstory:** Descendant of a noble lineage, Lone Straw is respected for his demeanor and charisma. Always dressed in the finest silks, he keeps his hood on to protect his thoughts and never leaves home without his peculiar unicorn slippers. Though he practices meditation to maintain balance, his calm quickly crumbles when confronted with injustice, responding with determination and, at times, vengeance. |
+**[DM-ONLY – Não incluir na Wiki]**  
 
+---
+
+| **🧙 Personagem**            | **🧙 Character**           |
+| ---------------------------- | -------------------------- |
+| Nome: Lone Straw           | Name:  Lone Straw        |
+| Espécie:  Humano | Species:  Human |
+| Classe:  Monge | Class:  Monk |
+| Alinhamento: Lawful Good | Alignment: Lawful Good |
+| Background: Nobre  | Background: Noble |
+| Idade: 72 | Age: 72 |
+| Altura: 1,79 m | Height: 1.79 m |
+| Olhos: Brancos | Eyes: White |
+| Cabelo: Careca | Hair: Bald |
+| Barba: Branca e longa, com duas tranças | Beard: White and long, with two braids |
+| Pele: Caucasiano | Skin: Caucasian |
+
+---
+
+| **⚔️ Itens**             | **⚔️ Items**                         |
+| ---------------------- | ------------------------------ |
+| **Armadura/Escudo:** [por preencher] <br>**Armas:** [por preencher] <br>**Items mágicos:** [por preencher] <br>**Potions:** [por preencher] <br>**Items não mágicos:** Peculiares chinelas de unicórnio; vestes de seda <br>**Ouro:** [por preencher] | **Armor/Shield:** [to be filled] <br>**Weapons:** [to be filled] <br>**Magical Items:** [to be filled] <br>**Potions:** [to be filled] <br>**Non-magical Items:** Peculiar unicorn slippers; silk robes <br>**Gold:** [to be filled] |
+
+---
+
+| **📖 História – Antes da Taberna** | **📖 Story – Before the Tavern** |
+| ---------------------------------- | -------------------------------- |
+| Descendente de linhagem nobre, respeitado pelo carisma e postura. Sempre trajado com as melhores sedas, mantém um capuz para proteger os pensamentos e usa peculiares chinelas de unicórnio. A prática de meditação guia-o, mas a sua calma desmorona diante de injustiças, respondendo com determinação e vingança. | Descendant of a noble lineage, respected for charisma and demeanor. Always dressed in the finest silks, keeps a hood to guard his thoughts and wears peculiar unicorn slippers. Though he practices meditation for balance, his calm crumbles before injustice, answering with determination and vengeance. |
+
+---
+
+| **📖 História – Depois da Taberna** | **📖 Story – After the Tavern** |
+| ----------------------------------- | -------------------------------- |
+| Participou em apenas uma sessão documentada, onde se apresentou como figura sábia e carismática. Não há registos de grandes aventuras ou loot. **(Inferido com base nas sessões)** | Took part in only one documented session, where he presented himself as a wise and charismatic figure. No records of major adventures or loot. **(Inferred from sessions)** |
+
+---
+
+| **🎭 Dramatis Persona**                                                                                                                 | **🎭 Dramatis Persona**                                                                                                           |
+| --------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| **NPCs de influência direta:**  <br>- [por preencher] | **Direct Influence NPCs:**  <br>- [to be filled] |
+| **Antagonistas:**  <br>- [por preencher] | **Antagonists:**  <br>- [to be filled] |
+| **Aliados:**  <br>- [por preencher] | **Allies:**  <br>- [to be filled] |
+
+---
+
+| **🔮 OBS** | **🔮 Notes** |
+| ---------- | ------------ |
+| Lone Straw mantém uma imagem de nobreza mesmo em combate, e as suas chinelas de unicórnio tornaram-se um símbolo peculiar. <br>Registada apenas uma sessão, pelo que o desenvolvimento posterior é desconhecido. | Lone Straw maintains a noble image even in battle, and his unicorn slippers have become a peculiar symbol. <br>Only one session recorded, further development unknown. |
+
+---
