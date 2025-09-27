@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/dm/-/pc/pc_zeldris.md",
+                "file": "docs/dm/-/pc/pc_arkos_vasell.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "pc_zeldris"
+              "title": "pc_arkos_vasell"
             }
           }
         ]
@@ -178,6 +178,9 @@
   },
   "active": "b51cf2b134853e9e",
   "lastOpenFiles": [
+    "docs/dm/-/pc/pc_orianna.md",
+    "docs/dm/-/pc/pc_arkos_vasell.md",
+    "docs/dm/-/pc/pc_zeldris.md",
     "docs/dm/-/pc/pc_zahel.md",
     "docs/dm/-/pc/pc_wandering_sage.md",
     "docs/dm/-/pc/pc_wagner.md",
@@ -196,14 +199,11 @@
     "docs/dm/-/pc/pc_leo.md",
     "docs/dm/-/pc/pc_raylahn.md",
     "docs/dm/-/pc/pc_kai.md",
-    "docs/dm/-/pc/pc_orianna.md",
     "docs/dm/-/pc/pc_markus_grimm.md",
     "docs/dm/-/pc/pc_lucien.md",
     "docs/dm/-/pc/pc_lone_straw.md",
     "docs/dm/-/pc/pc_ketrich_flavifer.md",
     "docs/dm/-/pc/pc_grix_molah.md",
-    "docs/dm/-/pc/pc_gauthak_vunakamune.md",
-    "docs/dm/-/pc/pc_flynn.md",
     "docs/assets/pc/pc_kai_05.png",
     "assets/pc",
     "assets",

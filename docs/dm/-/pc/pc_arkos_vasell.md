@@ -1,67 +1,76 @@
 # Arkos Vasell
 
-| ![pc_arkos_vasell](assets/pc/pc_arkos_vasell.png){ width=200 } |
-| -------------------------------------------------------------- |
+| ![pc_arkos_vasell](assets/pc/pc_arkos_vasell.png){width=300} |
+| ------------------------------------------------------------ |
 
 ---
-**[DM-ONLY – Não incluir na Wiki]**  
 
-| Português                                                                    | English                                                                      |
-| ---------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
-| **Jogador:** Luis Faria                                                      | **Player:** Luis Faria                                                       |
-| **Idade:** [por preencher]                                                   | **Age:** [por preencher]                                                     |
-| **Contacto:** +351 912 455 898                                               | **Contact:** +351 912 455 898                                                |
-| **Instagram:** [por preencher]                                               | **Instagram:** [por preencher]                                               |
-| **Discord:** [por preencher]                                                 | **Discord:** [por preencher]                                                 |
+**[DM-ONLY – Não incluir na Wiki]**
+
+| Português | English |
+| ---------- | ------- |
+| **Jogador:** Luís Faria | **Player:** Luís Faria |
+| **Idade:** [por preencher] | **Age:** [to be filled] |
+| **Contacto:** +351 912 455 898 | **Contact:** +351 912 455 898 |
+| **Instagram:** [por preencher] | **Instagram:** [to be filled] |
+| **Discord:** [por preencher] | **Discord:** [to be filled] |
 | **Ficha D&D Beyond:** [Link](https://www.dndbeyond.com/characters/139712043) | **D&D Beyond Sheet:** [Link](https://www.dndbeyond.com/characters/139712043) |
-**[DM-ONLY – Não incluir na Wiki]**  
 
 ---
 
-| **🧙 Personagem**            | **🧙 Character**           |
-| ---------------------------- | -------------------------- |
-| Nome: Arkos Vasell           | Name: Arkos Vasell         |
-| Espécie: Humano              | Species: Human             |
-| Classe: Clérigo<br>          | Class: Cleric              |
-| Alinhamento: [por preencher] | Alignment: [to be filled]  |
-| Background: [por preencher]  | Background: [to be filled] |
-| Idade: [por preencher]       | Age: [to be filled]        |
-| Altura: [por preencher]      | Height: [to be filled]     |
-| Olhos: [por preencher]       | Eyes: [to be filled]       |
-| Cabelo: [por preencher]      | Hair: [to be filled]       |
-| Pele: [por preencher]        | Skin: [to be filled]       |
-| Tamanho:  [por preencher]    | Size:  [to be filled]      |
+| **🧙 Personagem** | **🧙 Character** |
+| ---------------- | ---------------- |
+| **Nome:** Arkos Vasell | **Name:** Arkos Vasell |
+| **Espécie:** Humano | **Species:** Human |
+| **Classe:** Clérigo (Nível 3) | **Class:** Cleric (Level 3) |
+| **Alinhamento:** [por preencher] | **Alignment:** [to be filled] |
+| **Background:** Ex-guarda, aventureiro | **Background:** Former guard, adventurer |
+| **Idade:** [por preencher] | **Age:** [to be filled] |
+| **Altura:** [por preencher] | **Height:** [to be filled] |
+| **Olhos:** Castanhos escuros | **Eyes:** Dark brown |
+| **Cabelo:** Castanho curto | **Hair:** Short brown |
+| **Pele:** Clara bronzeada | **Skin:** Light tan |
+| **Tamanho:** Médio | **Size:** Medium |
 
 ---
 
-| **⚔️ Itens**                                                                                                                                  | **⚔️ Items**                                                                                                                                    |
-| --------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Armadura/Escudo:** [por preencher]<br>**Armas:** [por preencher]<br>**Items mágicos:** [por preencher]<br>**Potions:** [por preencher]<br>**Items não mágicos:** [por preencher]<br>**Ouro:** [por preencher] | **Armor/Shield:** [to be filled]<br>**Weapons:** [to be filled]<br>**Magical Items:** [to be filled]<br>**Potions:** [to be filled]<br>**Non-magical Items:** [to be filled]<br>**Gold:** [to be filled] |
+| **📜 Descrição Física** | **📜 Physical Description** |
+| ----------------------- | --------------------------- |
+| Arkos é um humano de porte robusto, com cerca de trinta anos, olhar firme e traços marcados pelo treino militar. Os olhos castanhos escuros transmitem determinação e fé, enquanto o cabelo castanho curto é mantido simples e prático. A pele clara bronzeada mostra sinais de longas viagens ao sol. Na imagem surge trajando armadura leve com detalhes discretos, sobre a qual carrega um manto simples de viajante. Porta um escudo de madeira reforçada e um símbolo sagrado bem visível preso ao peito. A postura é ereta e vigilante, refletindo a disciplina de um ex-guarda. | Arkos is a sturdy human, around thirty years old, with a steady gaze and features marked by military training. His dark brown eyes convey determination and faith, while his short brown hair is kept simple and practical. His light tan skin shows signs of long journeys under the sun. In the image he wears light armor with modest details, over which he dons a simple traveler’s cloak. He carries a reinforced wooden shield and a clearly displayed holy symbol on his chest. His stance is upright and watchful, reflecting the discipline of a former guard. |
 
 ---
 
-| **📖 História – Antes da Taberna** | **📖 Story – Before the Tavern** |
-| ---------------------------------- | -------------------------------- |
-| - Amigo de infância de [Orianna](pc_orianna.md). <br>- Cresceu na mesma comunidade rural, partilhando uma vida simples até ambos partirem em viagem para compreender os deuses e ganhar sustento. <br>- **(Inferido com base nos registos de lore e NPCs: trabalhou como guarda da aldeia e estudou num templo antes de se tornar aventureiro)**  | - Childhood friend of [Orianna](pc_orianna.md). <br>- Grew up in the same rural community, sharing a simple life until they set out to understand the gods and seek a living. <br>- **(Inferred from lore and NPC records: worked as a village guard and studied at a temple before adventuring)**  |
+| **⚔️ Itens** | **⚔️ Items** |
+| ------------ | ------------ |
+| **Armadura/Escudo:** Armadura leve, Escudo de madeira reforçada | **Armor/Shield:** Light armor, Reinforced wooden shield |
+| **Armas:** Maça de guerra | **Weapons:** War mace |
+| **Items mágicos:** Nenhum conhecido | **Magical Items:** None known |
+| **Poções:** Nenhuma conhecida | **Potions:** None known |
+| **Items não mágicos:** Símbolo sagrado, manto de viajante, ervas e provas do moinho (Two Fords) | **Non-magical Items:** Holy symbol, traveler’s cloak, herbs and evidence from the mill (Two Fords) |
+| **Ouro:** 75 PO (aprox., obtido em loot de S03B e S06A) | **Gold:** ~75 GP (approx., from S03B and S06A loot) |
+
+---
+
+| **📖 História – Antes da Taberna**                                                                                                                                                                                                                                                                                                                           | **📖 Story – Before the Tavern**                                                                                                                                                                                                                                                                                                                        |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Amigo de infância de [Orianna](docs/dm/-/pc/pc_orianna.md), Arkos cresceu numa comunidade rural simples. Serviu como guarda, vivendo uma rotina de disciplina e dever, até que ambos decidiram abandonar a vida estática para explorar o mundo. Motivado pela fé e pela curiosidade em conhecer as divindades, partiu em busca de sustento e respostas espirituais. | Childhood friend of [Orianna](docs/dm/-/pc/pc_orianna.md), Arkos grew up in a simple rural community. He served as a guard, living a life of duty and discipline, until both decided to leave behind their quiet life to explore the world. Motivated by faith and a desire to learn about the gods, he set out seeking both livelihood and spiritual answers. |
 
 ---
 
 | **📖 História – Depois da Taberna** | **📖 Story – After the Tavern** |
 | ----------------------------------- | -------------------------------- |
-| - **[Rio Neen](../adventures/s03_emboscada_nas_margens_do_rio_neem_resumo.md):** combateu numa emboscada goblin ao lado de Orianna, Endouvan, Gauthak e Lone Straw; salvaram [Kaldros Veynor](../npc/kaldros_veynor.md). <br>- **[Two Fords](../adventures/s04_two_fords_doenca_moinho_summary.md):** investigou a doença na vila, encontrou [Geralt](../npc/geralt.md) e ajudou a salvar a filha Lila; expôs a ligação com o [Culto do Mal Elemental](../organizations/culto_elemental.md). <br>- Permaneceu em missões conjuntas com Orianna, Lone Straw, Wandering Sage, Endo Bom Sossego e Gaulutax. | - **[Neen River](../adventures/s03_emboscada_nas_margens_do_rio_neem_resumo.md):** fought in a goblin ambush alongside Orianna, Endouvan, Gauthak, and Lone Straw; rescued [Kaldros Veynor](../npc/kaldros_veynor.md). <br>- **[Two Fords](../adventures/s04_two_fords_doenca_moinho_summary.md):** investigated the village plague, met [Geralt](../npc/geralt.md) and helped save his daughter Lila; uncovered ties to the [Cult of Elemental Evil](../organizations/culto_elemental.md). <br>- Continued joint missions with Orianna, Lone Straw, Wandering Sage, Endo Bom Sossego, and Gaulutax. |
+| **998 CY, 01 de Ready’reat (2025-01-15) — Emboscada no Rio Neen (S03B):** Ao lado de [Orianna](docs/dm/-/pc/pc_orianna.md), Lone Straw, Endouvan e Gauthak, Arkos enfrentou goblins e um bugbear líder numa emboscada. Conheceu [Kaldros Veynor](../npc/kaldros_veynor.md), um mercador tiefling, e salvou-o, recebendo 50 PO de recompensa. Ganhou pistas sobre um acampamento goblin próximo de [Blackfair Manor](../locations/blackfair_manor.md).<br>**998 CY, 20 de Ready’reat (2025-01-29) — Doença em Two Fords (S06A):** Com Orianna, Lone Straw, Wandering Sage, Endor e Gaulutax, investigou a praga em [Two Fords](../locations/two_fords.md). Ajudou [Geralt](../npc/geralt.md), o taberneiro local, cuja filha estava doente. Descobriram que a contaminação da água estava ligada ao [Culto do Mal Elemental](../organizations/culto_elemental.md). Combateu cultistas e fauna corrompida, recolhendo provas no moinho abandonado e recebendo gemas como loot. | **998 CY, 01 Ready’reat (2025-01-15) — Ambush at the Neen River (S03B):** Alongside [Orianna](docs/dm/-/pc/pc_orianna.md), Lone Straw, Endouvan, and Gauthak, Arkos fought goblins and a bugbear leader in an ambush. He met [Kaldros Veynor](../npc/kaldros_veynor.md), a tiefling merchant, saving him and receiving 50 GP as reward. Gained clues about a nearby goblin camp near [Blackfair Manor](../locations/blackfair_manor.md).<br>**998 CY, 20 Ready’reat (2025-01-29) — Disease in Two Fords (S06A):** With Orianna, Lone Straw, Wandering Sage, Endor, and Gaulutax, he investigated the plague in [Two Fords](../locations/two_fords.md). He helped [Geralt](../npc/geralt.md), the local innkeeper, whose daughter was ill. They uncovered that the tainted water was linked to the [Cult of Elemental Evil](../organizations/culto_elemental.md). He fought cultists and corrupted wildlife, gathering evidence at the abandoned mill and receiving gems as loot. |
 
 ---
 
-| **🎭 Dramatis Persona**                                                                                                                | **🎭 Dramatis Persona**                                                                                                         |
-| -------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| **NPCs de influência direta:** <br>- [Orianna](pc_orianna.md) (amiga de infância, parceira de fé) <br>- [Kaldros Veynor](../npc/kaldros_veynor.md) (mercador resgatado) <br>- [Geralt](../npc/geralt.md) (taberneiro de Two Fords) <br>- Lila (filha de Geralt, vítima da doença) | **Direct Influence NPCs:** <br>- [Orianna](pc_orianna.md) (childhood friend, faith companion) <br>- [Kaldros Veynor](../npc/kaldros_veynor.md) (rescued merchant) <br>- [Geralt](../npc/geralt.md) (innkeeper of Two Fords) <br>- Lila (Geralt’s daughter, victim of the disease) |
-| **Antagonistas:** <br>- [Culto do Mal Elemental](../organizations/culto_elemental.md) e seus agentes                                    | **Antagonists:** <br>- [Cult of Elemental Evil](../organizations/culto_elemental.md) and its agents                                                                  |
-| **Aliados:** <br>- Orianna, Lone Straw, Wandering Sage, Endo Bom Sossego, Gaulutax, Endouvan, Gauthak                                  | **Allies:** <br>- Orianna, Lone Straw, Wandering Sage, Endo Bom Sossego, Gaulutax, Endouvan, Gauthak                                                                 |
+| **🎭 Dramatis Persona** | **🎭 Dramatis Persona** |
+| ------------------------ | ----------------------- |
+| **NPCs de influência direta:**<br>- [Orianna](docs/dm/-/pc/pc_orianna.md), amiga de infância e companheira de viagem.<br>- [Kaldros Veynor](../npc/kaldros_veynor.md), mercador tiefling salvo no Rio Neen.<br>- [Geralt](../npc/geralt.md), taberneiro de Two Fords, cuja filha estava doente. | **Direct Influence NPCs:**<br>- [Orianna](docs/dm/-/pc/pc_orianna.md), childhood friend and travel companion.<br>- [Kaldros Veynor](../npc/kaldros_veynor.md), tiefling merchant saved at the Neen River.<br>- [Geralt](../npc/geralt.md), innkeeper of Two Fords, whose daughter was ill. |
+| **Antagonistas:**<br>- Cultistas e agentes do [Culto do Mal Elemental](../organizations/culto_elemental.md). | **Antagonists:**<br>- Cultists and agents of the [Cult of Elemental Evil](../organizations/culto_elemental.md). |
+| **Aliados:**<br>- Companheiros de missão em [Two Fords](../locations/two_fords.md): Orianna, Lone Straw, Wandering Sage, Endor, Gaulutax. | **Allies:**<br>- Fellow adventurers in [Two Fords](../locations/two_fords.md): Orianna, Lone Straw, Wandering Sage, Endor, Gaulutax. |
 
 ---
 
 | **🔮 OBS** | **🔮 Notes** |
 | ---------- | ------------ |
-| - Busca compreender os deuses através da prática e fé. <br>- Relação com [Orianna](pc_orianna.md) é central: ela funciona como espelho moral, mais ligada à vida comum do que à fé.   <br>- Participou nas primeiras sessões da campanha como contrapeso espiritual, trazendo a perspetiva clerical às aventuras. | - Seeks to understand the gods through practice and faith. <br>- Relationship with [Orianna](pc_orianna.md) is central: she acts as his moral mirror, tied more to common life than faith.   <br>- Took part in the earliest sessions as a spiritual counterbalance, bringing clerical perspective to the party’s choices. |
-
----
+| - Apresentado como **explorador de fé**, viajando para conhecer e compreender os deuses na prática.<br>- A ligação com [Orianna](docs/dm/-/pc/pc_orianna.md) é central: funcionam como par de crescimento mútuo.<br>- Carrega o peso da disciplina de um ex-guarda, refletida na sua postura e escolhas. | - Framed as a **faith explorer**, traveling to learn and understand the gods through practice.<br>- Bond with [Orianna](docs/dm/-/pc/pc_orianna.md) is central: they function as a pair, growing together.<br>- Bears the weight of his past discipline as a former guard, reflected in his stance and decisions. |
