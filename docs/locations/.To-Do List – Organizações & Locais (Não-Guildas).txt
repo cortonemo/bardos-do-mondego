@@ -1,0 +1,116 @@
+# 📌 To-Do List – Organizações & Locais (Não-Guildas)
+
+## 🏛️ Institutions (Governo, Defesa, Ensino)
+
+📂 /docs/organizations/-/institutions/
+✅ City Watch / Nightwatchmen / Black Watch (**lore**)
+✅ Directing Oligarchy (Oligarchic Council) (**lore**)
+✅ Merchant Assembly (Dyvers) (**lore**)
+✅ Irongate Navy (**lore**)
+✅ University of Magical Arts (**lore**)
+✅ Great Library (**lore**)
+
+---
+
+## 🔮 Arcane Orders
+
+📂 /docs/organizations/-/arcane_orders/
+✅ Circle of Eight (**lore**)
+✅ Society of Magi (**lore**)
+✅ Circle of Coin Mages (**lore**)
+✅ Shiverglass Lodge (Dyvers) (**lore**)
+✅ Order of the Keepers (**lore**, [Wandering Sage](../pc/pc_wandering_sage.md))
+
+---
+
+## ⛪ Religious Orders & Cults
+
+📂 /docs/organizations/-/cults/
+✅ Cult of Elemental Evil (**sessões**)
+✅ Order of Scarlat (**sessões**)
+✅ Cult of Nerull (**sessões**)
+✅ Cult of the Drowned Star (**sessões**)
+✅ Iridescent Temple (**lore**)
+✅ Loviatans (**sessões**)
+✅ Followers of Titania (**sessões**)
+
+---
+
+## ⚔️ Military & Criminal Factions
+
+📂 /docs/organizations/-/factions/
+✅ Order of Beltar (Underdark Paladins) (**sessões**)
+✅ Redbrands (**sessões**)
+✅ Ditch Rats (Dyvers) (**sessões**)
+✅ Black Orchids (Captain Ralph) (**sessões**)
+✅ Crimson Oath (Dyvers) (**lore**)
+✅ Merchants Consortium (**lore**)
+✅ House Vanthir (**sessões, backstory Kai**)
+✅ House Azh’Thalith (drow) (**sessões**)
+✅ Clan Ferrugio (Iuz necromancers) (**sessões**)
+❌ House Malren (**backstory, falta fazer**)
+❌ House Marowind (**backstory, falta fazer**)
+✅ Scale-Flock (**sessões, destruído**)
+
+---
+
+## 👹 Iuz Factions
+
+📂 /docs/organizations/-/iuz/
+✅ Greater Boneheart (**lore**)
+✅ Lesser Boneheart (**lore**)
+✅ Cult of the Fiendfather (**lore**)
+✅ Ritekeepers (**lore**)
+✅ Fiendish Envoys (**lore**)
+❌ Red Chains (**lore, falta fazer**)
+❌ Broken Flame (**lore, falta fazer**)
+❌ Bone Guard (**lore, falta fazer**)
+
+---
+
+## 🤝 Adventuring & Allied Groups
+
+📂 /docs/organizations/-/allies/
+✅ The Company (Taberna) (**sessões**)
+✅ Dragon Arcana Co. (**sessões**)
+✅ Funguys (**sessões, Sapolândia**)
+✅ Amphibian Conclave (**sessões, Sapolândia**)
+✅ Ratus Workshop (**sessões, Gauthak**)
+
+---
+
+## 🌍 Locations (diretamente ligadas às sessões)
+
+📂 /docs/locations/
+✅ High Ery (**sessões – fungo, Galin Fiduain, Borogrove, Sô Paulo’s Inn, Scale-Flock**)
+❌ Sub-localizações de High Ery (opcionais, se quisermos detalhar):
+
+* Sô Paulo’s Inn
+* Feira do Queijo
+* Ribeira Poluída
+* Bosque de Borogrove
+
+---
+
+# ✅ Estado Atual Final (Hoje)
+
+* **Total concluído:** 44 entradas principais
+* **Por fazer:** 8 (5 organizações + 3 sub-localizações opcionais de High Ery)
+
+### ❌ Organizações em falta
+
+1. House Malren (**sessões/backstory**)
+2. House Marowind (**sessões/backstory**)
+3. Red Chains (**lore**)
+4. Broken Flame (**lore**)
+5. Bone Guard (**lore**)
+
+### ❌ Locais opcionais em falta
+
+6. Sô Paulo’s Inn (**sessões**)
+7. Feira do Queijo de High Ery (**sessões**)
+8. Bosque/Ribeira de Borogrove (**sessões**)
+
+---
+
+👉 Queres que o próximo foco seja **terminar já as duas casas nobres (Malren e Marowind)** — que são parte de sessões — antes de voltarmos a mexer nas facções de Iuz (que são só lore)?
