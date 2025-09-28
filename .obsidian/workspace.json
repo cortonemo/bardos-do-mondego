@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/organizations/-/factions/house_azhthalith.md",
+                "file": "docs/organizations/-/factions/house_vanthir.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "house_azhthalith"
+              "title": "house_vanthir"
             }
           }
         ],
@@ -227,10 +227,24 @@
   },
   "active": "c40e81f91e5876b6",
   "lastOpenFiles": [
-    "docs/organizations/-/arcane orders/order_of_the_keepers.md",
-    "docs/organizations/-/factions/house_azhthalith.md",
-    "docs/organizations/-/factions/noble_houses.md",
+    "docs/pc/-/pc_arkos_vasell.md",
+    "docs/organizations/-/factions/house_vanthir.md",
     "docs/organizations/-/factions/merchants_consortium.md",
+    "docs/assets/organization/house_vanthir.png",
+    "docs/assets/organization/org_blank - Copy.png",
+    "docs/assets/pc/pc_kai_02.png",
+    "docs/assets/pc/pc_kai_05.png",
+    "docs/assets/pc/pc_kai_03.png",
+    "docs/assets/pc/pc_kai_01.png",
+    "docs/assets/pc/pc_kai_00.png",
+    "docs/dm/-/pc/pc_kai.md",
+    "docs/pc/-/pc_kai.md",
+    "docs/organizations/-/iuz/greater_boneheart.md",
+    "docs/organizations/-/factions/clan_ferrugio.md",
+    "docs/organizations/-/iuz",
+    "docs/organizations/-/factions/house_azhthalith.md",
+    "docs/organizations/-/arcane orders/order_of_the_keepers.md",
+    "docs/organizations/-/factions/noble_houses.md",
     "docs/organizations/-/the_company.md",
     "docs/organizations/-/institutions/university_of_magical_arts.md",
     "docs/organizations/-/institutions/merchant_assembly.md",
@@ -247,12 +261,6 @@
     "docs/organizations/-/guilds/guild_of_performance_artists.md",
     "docs/organizations/-/guilds/guild_of_free_merchants.md",
     "docs/organizations/-/guilds/guild_of_carpenters.md",
-    "docs/organizations/-/guilds/guild_of_architects_and_mason.md",
-    "docs/organizations/-/guilds/assassins_guild.md",
-    "docs/organizations/-/factions/redbrands.md",
-    "docs/organizations/-/factions/order_of_beltar.md",
-    "docs/organizations/-/factions/ditch_rats.md",
-    "docs/organizations/-/factions/crimson_oath.md",
     "docs/locations/realms",
     "Untitled.canvas",
     "docs/locations/regions",
@@ -263,16 +271,8 @@
     "docs/organizations/-/cults",
     "docs/organizations/-/institutions",
     "docs/organizations/-/orders",
-    "docs/organizations/-/secret societies",
-    "docs/assets/pc/pc_kai_05.png",
-    "docs/assets/pc/pc_kai_01.png",
-    "docs/assets/pc/pc_kai_03.png",
-    "docs/assets/pc/pc_kai_02.png",
-    "docs/assets/pc/pc_kai_00.png",
     "docs/assets/pc/pc_blank.png",
     "docs/assets/location/location_blank.png",
-    "docs/assets/pc/pc_kai_0.png",
-    "docs/assets/pc/kai_close_up_2.png",
-    "docs/assets/pc/pc_kai.png"
+    "docs/assets/pc/pc_kai_0.png"
   ]
 }
