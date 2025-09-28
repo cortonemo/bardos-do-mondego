@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/locations/regions/high_ery.md",
+                "file": "docs/dm/-/adventures/timeline_season_01.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "high_ery"
+              "title": "timeline_season_01"
             }
           }
         ],
@@ -225,12 +225,19 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "8b60e7fd6b137849",
+  "active": "c40e81f91e5876b6",
   "lastOpenFiles": [
+    "docs/adventures/-/s04_regresso_mina_gravuras_summary.md",
+    "docs/dm/-/adventures/timeline_season_01.md",
+    "sessões.txt",
+    "docs/adventures/-/s03_vale_do_vento_sombrio_summary.md",
+    "docs/adventures/-/s03_emboscada_nas_margens_do_rio_neem_resumo.md",
+    "docs/adventures/-/s02_dificuldades_na_mina_de_obsidiana_summary.md",
+    "docs/adventures/-/s01_os_fungos_do_bosque_summary.md",
+    "docs/locations/regions/high_ery.md",
     "docs/locations/To-Do List – Organizações & Locais (Não-Guildas).txt",
     "docs/locations/New Documento de Texto.txt",
     "docs/locations/loja_olho_de_boccob.md",
-    "docs/locations/regions/high_ery.md",
     "docs/locations/locais_notaveis.md",
     "docs/dm/-/npc/Unknown/aurora.md",
     "docs/organizations/-/arcane orders/order_of_the_keepers.md",
@@ -258,19 +265,12 @@
     "docs/assets/pc/pc_kai_03.png",
     "docs/assets/pc/pc_kai_01.png",
     "docs/assets/pc/pc_kai_00.png",
-    "docs/dm/-/pc/pc_kai.md",
-    "docs/organizations/-/iuz/greater_boneheart.md",
-    "docs/organizations/-/factions/clan_ferrugio.md",
     "docs/organizations/-/iuz",
-    "docs/organizations/-/factions/house_azhthalith.md",
-    "docs/organizations/-/factions/noble_houses.md",
     "docs/locations/realms",
     "Untitled.canvas",
     "docs/locations/regions",
     "Untitled.base",
     "tools/locations_structure.txt",
-    "docs/locations/locations_structure.txt",
-    "docs/organizations/-/factions",
     "docs/assets/pc/pc_blank.png",
     "docs/assets/location/location_blank.png",
     "docs/assets/pc/pc_kai_0.png"
