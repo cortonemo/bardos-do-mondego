@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/organizations/-/arcane orders/order_of_the_keepers.md",
+                "file": "docs/locations/regions/high_ery.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "order_of_the_keepers"
+              "title": "high_ery"
             }
           }
         ],
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mistwood",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -227,8 +227,12 @@
   },
   "active": "c40e81f91e5876b6",
   "lastOpenFiles": [
-    "docs/pc/-/pc_wandering_sage.md",
+    "docs/locations/loja_olho_de_boccob.md",
+    "docs/locations/regions/high_ery.md",
+    "docs/locations/locais_notaveis.md",
+    "docs/dm/-/npc/Unknown/aurora.md",
     "docs/organizations/-/arcane orders/order_of_the_keepers.md",
+    "docs/pc/-/pc_wandering_sage.md",
     "docs/organizations/-/factions/scale_flock.md",
     "docs/organizations/-/allies/ratus_workshop.md",
     "docs/organizations/-/allies/amphibian_conclave.md",
@@ -259,10 +263,6 @@
     "docs/organizations/-/factions/house_azhthalith.md",
     "docs/organizations/-/factions/noble_houses.md",
     "docs/organizations/-/institutions/university_of_magical_arts.md",
-    "docs/organizations/-/institutions/merchant_assembly.md",
-    "docs/organizations/-/institutions/irongate_navy.md",
-    "docs/organizations/-/institutions/great_library.md",
-    "docs/organizations/-/institutions/directing_oligarchy.md",
     "docs/locations/realms",
     "Untitled.canvas",
     "docs/locations/regions",
