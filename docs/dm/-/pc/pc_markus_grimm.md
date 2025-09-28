@@ -37,6 +37,12 @@
 
 ---
 
+| **📜 Descrição Física** | **📜 Physical Description** |
+| ----------------------- | --------------------------- |
+| Markus é um tiefling de aspeto imponente e sombrio. A pele azulada é marcada por veios escuros, que realçam os traços fortes do rosto. Os olhos brilham em vermelho intenso, transmitindo tanto poder quanto inquietação. O cabelo vermelho vivo e a barba cerrada reforçam a sua presença marcante. Os chifres negros, curvados para trás, dão-lhe uma silhueta demoníaca, em contraste com o porte humanoide robusto. Nas imagens surge tanto com a sua armadura negra e a grande espada envolta em tentáculos de energia, como em trajes mais simples que ainda transmitem a influência do pacto com Wee Jas. A sua postura é rígida e solene, refletindo a vida de alguém ressuscitado pela deusa para cumprir um propósito sombrio. | Markus is a tiefling of imposing and ominous appearance. His bluish skin is streaked with dark veins that emphasize his sharp features. His eyes glow a deep crimson, radiating both power and unease. His vivid red hair and thick beard enhance his striking presence. His black horns curve backward, giving him a demonic silhouette that contrasts with his sturdy humanoid build. The images show him both clad in dark armor, wielding a greatsword wrapped in writhing energy, and in simpler garb that still reflects the influence of his pact with Wee Jas. His bearing is rigid and solemn, embodying the existence of one resurrected by the goddess to fulfill a grim purpose. |
+
+---
+
 | **⚔️ Itens**             | **⚔️ Items**                         |
 | ---------------------- | ------------------------------ |
 | **Armadura/Escudo:** Não usa <br>**Armas:** Pact Greatsword <br>**Items mágicos:** Mask of the Pact Bearer; Dread Helm; Anel da Taberna <br>**Potions:** Potion of Healing (Greater); 2× Potion of Healing <br>**Items não mágicos:** Pulseira de dente de Hook Horror; Estatueta de Wee Jas <br>**Ouro:** 2,762 gp 19 sp | **Armor/Shield:** None <br>**Weapons:** Pact Greatsword <br>**Magical Items:** Mask of the Pact Bearer; Dread Helm; Tavern Ring <br>**Potions:** Potion of Healing (Greater); 2× Potion of Healing <br>**Non-magical Items:** Hook Horror tooth bracelet; Statuette of Wee Jas <br>**Gold:** 2,762 gp 19 sp |

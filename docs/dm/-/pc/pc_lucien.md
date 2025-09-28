@@ -35,6 +35,11 @@
 | Género: Masculino (ele/dele)                      | Gender: Male (he/him)                   |
 | Tamanho: Médio                                    | Size: Medium                            |
 
+---
+
+| **📜 Descrição Física** | **📜 Physical Description** |
+| ----------------------- | --------------------------- |
+| Lucien é um humano de porte régio e físico atlético, destacando-se pela imponência natural e pela aura de autoridade. Tem pele morena clara e olhos castanho-dourados que brilham com intensidade e carisma. O cabelo loiro ondulado reforça a sua imagem de herdeiro nobre, associado à Casa Drakonis. Nas imagens surge em duas facetas: como cavaleiro resplandecente, trajando armadura dourada ricamente ornamentada que simboliza a sua ligação à ordem e ao poder militar; e como figura quase angelical, de expressão severa e asas douradas, que refletem a sua faceta renascida e marcada pela luz e pela justiça própria. A postura é sempre ereta e dominadora, transmitindo a confiança de alguém que acredita estar destinado a reformar o mundo. | Lucien is a human of regal bearing and athletic build, standing out for his natural presence and aura of authority. His light tan skin and golden-brown eyes shine with charisma and intensity. His wavy blond hair reinforces his image as a noble heir of House Drakonis. In the images, he appears in two facets: as a resplendent knight, clad in richly adorned golden armor symbolizing his ties to order and military power; and as an almost angelic figure, with stern expression and golden wings, reflecting his reborn nature and self-defined sense of justice. His stance is always upright and commanding, exuding the confidence of one who believes himself destined to reshape the world. |
 
 ---
 

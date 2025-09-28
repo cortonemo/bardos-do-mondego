@@ -37,6 +37,12 @@
 
 ---
 
+| **📜 Descrição Física** | **📜 Physical Description** |
+| ----------------------- | --------------------------- |
+| Orianna é uma tiefling de aparência marcante e jovial. A pele azul-acinzentada contrasta com as sardas escuras que cobrem o rosto, reforçando o seu ar expressivo. Os olhos são claros e brilhantes, irradiando energia e entusiasmo. Os cabelos são longos e castanhos, geralmente apanhados de forma prática, mas com algumas madeixas soltas que emolduram o rosto. Os chifres curvados, robustos e bem formados, acentuam a sua herança infernal sem lhe retirar charme. Usa armadura leve de couro, adornada com pequenas placas metálicas, e carrega duas espadas longas cruzadas nas costas, sinal da sua perícia marcial. O sorriso aberto e a postura descontraída revelam tanto coragem como otimismo, transmitindo a sensação de alguém que encara o mundo com confiança e alegria. | Orianna is a tiefling of striking and youthful appearance. Her bluish-gray skin contrasts with the dark freckles scattered across her face, enhancing her expressive look. Her eyes are bright and clear, radiating energy and cheerfulness. She has long brown hair, usually tied back in a practical way, though some loose strands frame her face. Her horns are curved, sturdy, and well-formed, emphasizing her infernal heritage without diminishing her charm. She wears light leather armor adorned with small metal plates and carries two longswords crossed on her back, showcasing her martial skill. Her open smile and relaxed posture convey both bravery and optimism, giving the impression of someone who faces the world with confidence and joy. |
+
+---
+
 | **⚔️ Itens**             | **⚔️ Items**                         |
 | ---------------------- | ------------------------------ |
 | **Armadura/Escudo:** [por preencher] <br>**Armas:** [por preencher] <br>**Items mágicos:** [por preencher] <br>**Potions:** [por preencher] <br>**Items não mágicos:** [por preencher] <br>**Ouro:** [por preencher] | **Armor/Shield:** [to be filled] <br>**Weapons:** [to be filled] <br>**Magical Items:** [to be filled] <br>**Potions:** [to be filled] <br>**Non-magical Items:** [to be filled] <br>**Gold:** [to be filled] |

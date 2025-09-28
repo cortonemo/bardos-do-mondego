@@ -26,7 +26,6 @@
 
 ---
 
-
 | **🧙 Personagem**            | **🧙 Character**           |
 | ---------------------------- | -------------------------- |
 | Nome: Eldric Silvanos        | Name: Eldric Silvanos      |
@@ -40,6 +39,14 @@
 | Cabelo: [por preencher]      | Hair: [to be filled]       |
 | Pele: [por preencher]        | Skin: [to be filled]       |
 | Tamanho:  [por preencher]    | Size:  [to be filled]      |
+
+---
+
+| **📜 Descrição Física** | **📜 Physical Description** |
+| ----------------------- | --------------------------- |
+| Eldric é um aasimar de beleza sobrenatural, de porte atlético e imponente. A pele clara está marcada por linhas luminescentes que brilham com energia celestial. Os olhos dourados, intensos e quase incandescentes, revelam a herança divina que carrega. O cabelo prateado e longo flui solto como se estivesse sempre sob o vento de planos superiores. As asas angelicais, de plumagem branca e dourada, abrem-se majestosas atrás de si, irradiando luz. Usa calças simples de couro reforçado e cintos de combate, mas o destaque vai para as duas espadas longas que empunha, símbolos tanto de disciplina guerreira como da sua luta contra as trevas. A sua postura reflete confiança, força e a aura profética de alguém marcado pelo destino. | Eldric is an aasimar of otherworldly beauty, with an athletic and imposing build. His fair skin is traced with glowing luminescent lines that shine with celestial energy. His golden eyes, intense and nearly incandescent, reveal the divine heritage he bears. His long silver hair flows freely as if always stirred by winds from higher planes. His angelic wings, white and gold-feathered, spread majestically behind him, radiating light. He wears simple reinforced leather trousers and combat straps, but the true focus is on the twin longswords he wields — symbols of both martial discipline and his struggle against darkness. His stance reflects confidence, strength, and the prophetic aura of one marked by destiny. |
+
+---
 
 | **⚔️ Itens**                                                                                                                                                                                                                                                                                                                                                      | **⚔️ Items**                                                                                                                                                                                                                                                                                                                                                       |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

@@ -35,6 +35,11 @@
 | Tamanho: Médio                                                                                 | Size: Medium                                                                                 |
 | Aparência: Traços andróginos, expressão calma e neutra, movimentos graciosos e deliberados     | Appearance: Androgynous features, calm and neutral expression, graceful deliberate movements |
 
+---
+
+| **📜 Descrição Física** | **📜 Physical Description** |
+| ----------------------- | --------------------------- |
+| Kai é um jovem humano de constituição ágil e porte discreto, mas marcado pela disciplina do treino monástico. Tem cerca de 1m67, pele clara e olhos cinzentos penetrantes, que observam o mundo com intensidade e desconfiança. O cabelo é escuro, cortado de forma irregular e prática, reforçando o ar de sobrevivente de rua. As roupas são simples e funcionais, compostas por túnicas em tons de bege e castanho, com ligaduras nos pulsos e pernas que revelam o estilo de luta corpo a corpo. A arma mais comum é o bastão ou a lança curta, sempre à mão. Usa um anel-sinete de madeira com símbolo solar, vestígio da sua identidade roubada como Eltharion Vanthir. Os traços andróginos e a postura controlada transmitem neutralidade e mistério, enquanto a sua presença evoca tanto humildade como perigo latente. | Kai is a young human of agile build and discreet bearing, yet marked by the discipline of monastic training. He stands about 5'6'', with light skin and piercing gray eyes that scrutinize the world with intensity and mistrust. His dark hair is cropped unevenly in a practical cut, reinforcing the look of a street survivor. His clothes are simple and functional, beige and brown robes with wrappings around wrists and legs, showing his preference for unarmed combat. His most common weapon is the staff or short spear, always at hand. He wears a wooden signet ring with a solar crest, a remnant of his stolen identity as Eltharion Vanthir. His androgynous features and composed posture project both neutrality and mystery, while his presence conveys humility as well as latent danger. |
 
 ---
 

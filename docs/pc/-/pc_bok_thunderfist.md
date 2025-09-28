@@ -5,21 +5,6 @@
 
 ---
 
-**[DM-ONLY – Não incluir na Wiki]**  
-
-| Português                                                                    | English                              |
-| ---------------------------------------------------------------------------- | ------------------------------------ |
-| **Jogador:** Luis                                                            | **Player:** Luis                     |
-| **Idade:** [por preencher]                                                   | **Age:** [por preencher]             |
-| **Contacto:** +351 915 495 031                                               | **Contact:** +351 915 495 031        |
-| **Instagram:** [por preencher]                                               | **Instagram:** [por preencher]       |
-| **Discord:** [por preencher]                                                 | **Discord:** [por preencher]         |
-| **Ficha D&D Beyond:** [Link](https://www.dndbeyond.com/characters/138745784) | **D&D Beyond Sheet:** [Link](https://www.dndbeyond.com/characters/138745784) |
-
-**[DM-ONLY – Não incluir na Wiki]**  
-
----
-
 | **🧙 Personagem**            | **🧙 Character**           |
 | ---------------------------- | -------------------------- |
 | Nome: Bok Thunderfist        | Name:  Bok Thunderfist     |

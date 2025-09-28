@@ -6,21 +6,6 @@
 
 ---
 
-**[DM-ONLY – Não incluir na Wiki]**  
-
-| Português                                                                    | English                                                |
-| --------------------------------------------------------- | ---------------------------------------- |
-| **Jogador:** Japs Carvalho                                      | **Player:**  Japs Carvalho                      |
-| **Idade:** [por preencher]                                          | **Age:**   [to be filled]                        |
-| **Contacto:** +351 926 395 900                                    | **Contact:**  +351 926 395 900                   |
-| **Instagram:** [por preencher]                                   | **Instagram:**  [to be filled]               |
-| **Discord:** [por preencher]                                       | **Discord:**  [to be filled]                   |
-| **Ficha D&D Beyond:** [Link](https://www.dndbeyond.com/characters/138748528)                     | **D&D Beyond Sheet:**  [Link](https://www.dndbeyond.com/characters/138748528) |
-
-**[DM-ONLY – Não incluir na Wiki]**  
-
----
-
 | **🧙 Personagem**            | **🧙 Character**           |
 | ---------------------------- | -------------------------- |
 | Nome: Gauthak Vunakamune     | Name:  Gauthak Vunakamune  |

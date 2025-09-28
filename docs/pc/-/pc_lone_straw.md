@@ -5,21 +5,6 @@
 
 ---
 
-**[DM-ONLY – Não incluir na Wiki]**  
-
-| Português                                                                    | English                                                |
-| --------------------------------------------------------- | ---------------------------------------- |
-| **Jogador:** Francisco Pronto                                      | **Player:**  Francisco Pronto                      |
-| **Idade:** [por preencher]                                          | **Age:**   [to be filled]                        |
-| **Contacto:** +351 916 024 593                                    | **Contact:**  +351 916 024 593                   |
-| **Instagram:** [por preencher]                                   | **Instagram:**  [to be filled]               |
-| **Discord:** [por preencher]                                       | **Discord:**  [to be filled]                   |
-| **Ficha D&D Beyond:** [por preencher]                     | **D&D Beyond Sheet:**  [to be filled] |
-
-**[DM-ONLY – Não incluir na Wiki]**  
-
----
-
 | **🧙 Personagem**            | **🧙 Character**           |
 | ---------------------------- | -------------------------- |
 | Nome: Lone Straw           | Name:  Lone Straw        |

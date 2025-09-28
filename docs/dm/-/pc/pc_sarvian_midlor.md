@@ -34,7 +34,13 @@
 | Pele: Azul-marinho clara, com brilho aquático perolado | Skin: Light navy-blue with a pearly aquatic sheen |
 | Género: Não-binário (elu/delu) | Gender: Non-binary (they/them) |
 | Tamanho: Médio             | Size: Medium           |
-| Aparência: Figura excêntrica e teatral, veste casaco chamativo com padrões florais laranja, pose sempre dinâmica como artista em palco. | Appearance: Eccentric and theatrical figure, wears a flamboyant coat with orange floral patterns, always striking a dynamic stage-like pose. |
+| Aparência: Figura excêntrica e teatral, trajando roupas extravagantes e chamativas. | Appearance: Eccentric and theatrical figure, clad in flamboyant and eye-catching clothing. |
+
+---
+
+| **📜 Descrição Física** | **📜 Physical Description** |
+| ------------------------ | --------------------------- |
+| Sarvian apresenta uma presença magnética e excêntrica, típica de artista e criador de moda. A pele azul-marinho clara reflete discretamente a luz como se fosse perolada, evocando as profundezas do oceano. O cabelo é a sua marca mais chamativa: metade vermelho-escarlate em caracóis rebeldes, metade verde-água ondulado, lembrando tanto fogo quanto mar. Os olhos azul-celeste brilham de forma intensa e expressiva, transmitindo emoção e curiosidade constantes. As roupas são extravagantes, em especial o casaco decorado com padrões florais alaranjados, que esvoaça em movimentos dramáticos. A sua postura é ágil e teatral, como se cada gesto fosse pensado para cativar a atenção de uma plateia invisível. | Sarvian radiates a magnetic and eccentric presence, typical of an artist and fashion creator. Their light navy-blue skin subtly reflects light with a pearly sheen, evoking the depths of the sea. The hair is their most striking feature: half scarlet red in rebellious curls, half sea-green in gentle waves, evoking both fire and water. Their sky-blue eyes shine brightly, full of expression and constant curiosity. Their clothing is flamboyant, especially the coat decorated with orange floral patterns, which billows with dramatic flair. Their posture is agile and theatrical, as if every movement were meant to captivate an invisible audience. |
 
 ---
 

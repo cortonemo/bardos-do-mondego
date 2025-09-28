@@ -15,6 +15,7 @@
 | **Instagram:** [por preencher] | **Instagram:** [to be filled] |
 | **Discord:** [por preencher] | **Discord:** [to be filled] |
 | **Ficha D&D Beyond:** [Link](https://www.dndbeyond.com/characters/139712043) | **D&D Beyond Sheet:** [Link](https://www.dndbeyond.com/characters/139712043) |
+**[DM-ONLY – Não incluir na Wiki]**
 
 ---
 

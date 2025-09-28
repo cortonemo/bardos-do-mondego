@@ -6,21 +6,6 @@
 
 ---
 
-**[DM-ONLY – Não incluir na Wiki]**  
-
-| Português                                                                    | English                                                                       |
-| ---------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| **Jogador:** Alexandre Júlio                                                 | **Player:**  Alexandre Júlio                                                  |
-| **Idade:** [por preencher]                                                   | **Age:**   [to be filled]                                                     |
-| **Contacto:** +351 910 367 002                                               | **Contact:**  +351 910 367 002                                                |
-| **Instagram:** [por preencher]                                               | **Instagram:**  [to be filled]                                                |
-| **Discord:** [por preencher]                                                 | **Discord:**  [to be filled]                                                  |
-| **Ficha D&D Beyond:** [Link](https://www.dndbeyond.com/characters/140697485) | **D&D Beyond Sheet:**  [Link](https://www.dndbeyond.com/characters/140697485) |
-
-**[DM-ONLY – Não incluir na Wiki]**  
-
----
-
 | **🧙 Personagem**              | **🧙 Character**                |
 | ------------------------------ | ------------------------------- |
 | Nome: Frederick "Freddy" Junsi | Name:  Frederick "Freddy" Junsi |

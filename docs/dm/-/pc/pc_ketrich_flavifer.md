@@ -37,6 +37,12 @@
 
 ---
 
+| **📜 Descrição Física** | **📜 Physical Description** |
+| ----------------------- | --------------------------- |
+| Ketrich é um humano de estatura média-alta e constituição esguia, de porte ereto e expressão austera. Tem pele clara e olhos escuros e penetrantes, que revelam tanto disciplina quanto um peso de segredos. O cabelo é negro, ligeiramente ondulado, caindo até aos ombros, conferindo-lhe um ar aristocrático. Usa túnicas longas de tons azul-escuros, reforçadas por detalhes dourados discretos, que transmitem sobriedade e sofisticação. Ao cinto, mantém a sua lâmina, símbolo do pacto que o liga ao poder além do véu. O medalhão familiar — herança dos Flavifer — é um elemento constante, lembrando-lhe a maldição que o pai carrega e a sua missão pessoal. A sua postura transmite tanto confiança como introspeção, típica de alguém dividido entre dever familiar e revelações cósmicas. | Ketrich is a human of medium-tall stature and lean build, standing with an erect posture and austere expression. His skin is fair and his dark, piercing eyes reveal both discipline and the burden of secrets. His black, slightly wavy hair falls to his shoulders, giving him an aristocratic air. He wears long robes in deep blue tones, adorned with discreet golden details that convey sobriety and sophistication. At his belt rests his rapier, symbol of the pact that binds him to powers beyond the veil. The Flavifer family medallion — a constant keepsake — reminds him of his father’s curse and his personal quest. His stance conveys both confidence and introspection, typical of one torn between family duty and cosmic revelations. |
+
+---
+
 | **⚔️ Itens**             | **⚔️ Items**                         |
 | ---------------------- | ------------------------------ |
 | **Armadura/Escudo:** Leather Armor <br>**Armas:** Rapier (pact weapon); 2 Daggers <br>**Items mágicos:** [por preencher] <br>**Potions:** [por preencher] <br>**Items não mágicos:** Backpack; Herbalism Kit; Paper and Ink; Chalk; Candles; Bedroll; Fine Clothes; Adventurer’s Clothes  <br>**Ouro:** 200 gp | **Armor/Shield:** Leather Armor <br>**Weapons:** Rapier (pact weapon); 2 Daggers <br>**Magical Items:** [to be filled] <br>**Potions:** [to be filled] <br>**Non-magical Items:** Backpack; Herbalism Kit; Paper and Ink; Chalk; Candles; Bedroll; Fine Clothes; Adventurer’s Clothes <br>**Gold:** 200 gp |
