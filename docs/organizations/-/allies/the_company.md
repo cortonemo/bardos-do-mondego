@@ -1,8 +1,10 @@
 # A Estalagem da Companhia / The Company’s Inn
 
-Sessões: múltiplas | Datas: desde 2024-12-14 | Fontes: Tales from the Great Tavern.txt, greyhawk_sessions_complete.md | Tags: organização, taberna, magia, greyhawk
-
 ![Great Tavern](assets/organization/org_blank.png)
+
+---
+
+## 📖 Descrição / Description
 
 | **Português (PT-PT)** | **English (EN-US)** |
 |-----------------------|---------------------|
@@ -14,7 +16,7 @@ Sessões: múltiplas | Datas: desde 2024-12-14 | Fontes: Tales from the Great Ta
 
 | **Português (PT-PT)** | **English (EN-US)** |
 |-----------------------|---------------------|
-| - Capaz de se deslocar magicamente (sem que ninguém saiba como).<br>- Quartos personalizados para cada membro do grupo.<br>- Um quadro de contratos fixado junto à lareira.<br>- Presença constante do enigmático [O Taberneiro](../npc/taverneiro_refugio.md). | - Capable of moving magically (with no one knowing how).<br>- Personalized rooms for each party member.<br>- A contract board fixed by the fireplace.<br>- Constant presence of the enigmatic [The Tavernkeeper](../npc/taverneiro_refugio.md). |
+| - Capaz de se deslocar magicamente (sem que ninguém saiba como).<br>- Quartos personalizados para cada membro do grupo.<br>- Um quadro de contratos fixado junto à lareira.<br>- Presença constante do enigmático [O Taberneiro](../../npc/taverneiro_refugio.md). | - Capable of moving magically (with no one knowing how).<br>- Personalized rooms for each party member.<br>- A contract board fixed by the fireplace.<br>- Constant presence of the enigmatic [The Tavernkeeper](../../npc/taverneiro_refugio.md). |
 
 ---
 
@@ -71,5 +73,16 @@ Sessões: múltiplas | Datas: desde 2024-12-14 | Fontes: Tales from the Great Ta
 | **Português (PT-PT)** | **English (EN-US)** |
 |-----------------------|---------------------|
 | - Um **tavern ring** é roubado, permitindo a entrada de um inimigo.<br>- Novas salas secretas aparecem durante um eclipse.<br>- As âncoras mágicas da taberna começam a falhar, ameaçando arrastá-la para outro plano. | - A **tavern ring** is stolen, allowing an enemy inside.<br>- New secret halls appear during an eclipse.<br>- The tavern’s magical anchors begin to fail, threatening to drag it into another plane. |
+
+---
+
+## 🏷️ Tags, Fontes e Sessões / Tags, Sources & Sessions
+
+| **Português (PT-PT)** | **English (EN-US)** |
+|-----------------------|---------------------|
+| **Tags:** organização, taberna, magia, Greyhawk | **Tags:** organization, tavern, magic, Greyhawk |
+| **Fontes:** Tales from the Great Tavern.txt, greyhawk_sessions_complete.md | **Sources:** Tales from the Great Tavern.txt, greyhawk_sessions_complete.md |
+| **Sessões:** múltiplas | **Sessions:** multiple |
+| **Datas:** desde 2024-12-14 | **Dates:** since 2024-12-14 |
 
 ---
