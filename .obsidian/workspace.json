@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b4d648a2db357971",
+        "id": "d10cee67517ace1e",
         "type": "tabs",
         "children": [
           {
-            "id": "b51cf2b134853e9e",
+            "id": "df0cab912ff9f5c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/pc/-/pc_zeldris.md",
+                "file": "docs/locations/regions/bosque_proximo.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "pc_zeldris"
+              "title": "bosque_proximo"
+            }
+          },
+          {
+            "id": "135b28b7b140e0a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/locations/cities/free_city_of_greyhawk/greyhawk.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "greyhawk"
+            }
+          },
+          {
+            "id": "c40e81f91e5876b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/organizations/-/factions/house_azhthalith.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "house_azhthalith"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -63,15 +112,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sanji",
-                "matchingCase": false,
+                "query": "mistwood",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Procurar"
+              "title": "Search"
             }
           },
           {
@@ -176,37 +225,46 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "b51cf2b134853e9e",
+  "active": "c40e81f91e5876b6",
   "lastOpenFiles": [
-    "docs/pc/-/pc_zahel.md",
-    "docs/pc/-/pc_wandering_sage.md",
-    "docs/pc/-/pc_wagner.md",
-    "docs/pc/-/pc_vaunia_kolakiala.md",
-    "docs/pc/-/pc_ustrax.md",
-    "docs/pc/-/pc_usopp.md",
-    "docs/pc/-/pc_ulma.md",
-    "docs/pc/-/pc_triss_merrill.md",
-    "docs/pc/-/pc_tabasco_de_lumeiros.md",
-    "docs/pc/-/pc_silfir.md",
-    "docs/pc/-/pc_sarvian_midlor.md",
-    "docs/pc/-/pc_raylahn.md",
-    "docs/pc/-/pc_orianna.md",
-    "docs/pc/-/pc_markus_grimm.md",
-    "docs/pc/-/pc_lucien.md",
-    "docs/pc/-/pc_lone_straw.md",
-    "docs/pc/-/pc_leo.md",
-    "docs/pc/-/pc_ketrich_flavifer.md",
-    "docs/pc/-/pc_kai.md",
-    "docs/pc/-/pc_grix_molah.md",
-    "docs/pc/-/pc_gauthak_vunakamune.md",
-    "docs/pc/-/pc_friedrick_junsi.md",
-    "docs/pc/-/pc_flynn.md",
-    "docs/pc/-/pc_endouven_bomsossego.md",
-    "docs/pc/-/pc_eldric_silvanos.md",
-    "docs/pc/-/pc_eirwen.md",
+    "docs/organizations/-/arcane orders/order_of_the_keepers.md",
+    "docs/organizations/-/factions/house_azhthalith.md",
+    "docs/organizations/-/factions/noble_houses.md",
+    "docs/organizations/-/factions/merchants_consortium.md",
+    "docs/organizations/-/the_company.md",
+    "docs/organizations/-/institutions/university_of_magical_arts.md",
+    "docs/organizations/-/institutions/merchant_assembly.md",
+    "docs/organizations/-/institutions/irongate_navy.md",
+    "docs/organizations/-/institutions/great_library.md",
+    "docs/organizations/-/institutions/directing_oligarchy.md",
+    "docs/organizations/-/institutions/city_watch.md",
+    "docs/organizations/-/guilds/sailwrights_guild.md",
+    "docs/organizations/-/guilds/order_of_scribes_and_notarie.md",
+    "docs/organizations/-/guilds/nine_of_swords.md",
+    "docs/organizations/-/guilds/guildas_de_greyhawk.md",
+    "docs/organizations/-/guilds/guild_of_weavers_tanners_tailors.md",
+    "docs/organizations/-/guilds/guild_of_thieves.md",
+    "docs/organizations/-/guilds/guild_of_performance_artists.md",
+    "docs/organizations/-/guilds/guild_of_free_merchants.md",
+    "docs/organizations/-/guilds/guild_of_carpenters.md",
+    "docs/organizations/-/guilds/guild_of_architects_and_mason.md",
+    "docs/organizations/-/guilds/assassins_guild.md",
+    "docs/organizations/-/factions/redbrands.md",
+    "docs/organizations/-/factions/order_of_beltar.md",
+    "docs/organizations/-/factions/ditch_rats.md",
+    "docs/organizations/-/factions/crimson_oath.md",
+    "docs/locations/realms",
+    "Untitled.canvas",
+    "docs/locations/regions",
+    "Untitled.base",
+    "tools/locations_structure.txt",
+    "docs/locations/locations_structure.txt",
+    "docs/organizations/-/factions",
+    "docs/organizations/-/cults",
+    "docs/organizations/-/institutions",
+    "docs/organizations/-/orders",
+    "docs/organizations/-/secret societies",
     "docs/assets/pc/pc_kai_05.png",
-    "assets/pc",
-    "assets",
     "docs/assets/pc/pc_kai_01.png",
     "docs/assets/pc/pc_kai_03.png",
     "docs/assets/pc/pc_kai_02.png",
@@ -215,14 +273,6 @@
     "docs/assets/location/location_blank.png",
     "docs/assets/pc/pc_kai_0.png",
     "docs/assets/pc/kai_close_up_2.png",
-    "docs/assets/pc/pc_kai.png",
-    "docs/npc/-",
-    "tools/docs_structure.txt",
-    "docs/organizations/AllOrganizations.txt",
-    "tools/merge_texts_gui_folders.py",
-    "tools/fix_mojibake (2).py",
-    "tools/rename_and_fix_links.py",
-    "tools/print_folder_structure.py",
-    "tools/obsidian_to_plain_gui_updated.py"
+    "docs/assets/pc/pc_kai.png"
   ]
 }

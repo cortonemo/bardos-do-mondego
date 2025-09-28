@@ -1,0 +1,19 @@
+{
+  "editor:open-search": [],
+  "find-and-replace-in-selection:find-and-replace-in-selection": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "ArrowRight"
+    }
+  ],
+  "global-search-and-replace:search-and-replace": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "ArrowRight"
+    }
+  ]
+}

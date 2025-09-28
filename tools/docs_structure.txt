@@ -115,15 +115,15 @@
 │   │   ├── 📄 pc_eirwen_01.png
 │   │   ├── 📄 pc_eirwen_02.png
 │   │   ├── 📄 pc_eirwen_03.png
-│   │   ├── 📄 pc_eldric_silvanus.png
+│   │   ├── 📄 pc_eldric_silvanos.png
 │   │   ├── 📄 pc_frederick_freddy_01.png
 │   │   ├── 📄 pc_frederick_freddy_02.png
 │   │   ├── 📄 pc_gauthak_vunakamune.jpeg
 │   │   ├── 📄 pc_grix_molah.jpg
+│   │   ├── 📄 pc_kai_00.png
 │   │   ├── 📄 pc_kai_01.png
 │   │   ├── 📄 pc_kai_02.png
 │   │   ├── 📄 pc_kai_03.png
-│   │   ├── 📄 pc_kai_04.png
 │   │   ├── 📄 pc_kai_05.png
 │   │   ├── 📄 pc_ketrich_flavifer_01.png
 │   │   ├── 📄 pc_ketrich_flavifer_02.jpg
@@ -609,7 +609,6 @@
 │   │   │   ├── 📄 mojibake_fix_log.txt
 │   │   │   └── 📄 referenced_npcs_greyhawk.md
 │   │   ├── 📂 organizations/
-│   │   │   ├── 📄 assassins_guild.md
 │   │   │   ├── 📄 conclave_anfibio.md
 │   │   │   ├── 📄 culto_elemental.md
 │   │   │   ├── 📄 faccoes_e_cultos.md
@@ -618,43 +617,37 @@
 │   │   │   ├── 📄 sociedade_dos_magos.md
 │   │   │   └── 📄 underdark_paladins.md
 │   │   ├── 📂 pc/
-│   │   │   ├── 📂 fichas icompletas/
-│   │   │   │   ├── 📄 pc_arkos_vasell.md
-│   │   │   │   ├── 📄 pc_asinius.md
-│   │   │   │   ├── 📄 pc_bok_thunderfist.md
-│   │   │   │   ├── 📄 pc_eldric_silvanus.md
-│   │   │   │   ├── 📄 pc_endovan_bomsossego.md
-│   │   │   │   ├── 📄 pc_flynn.md
-│   │   │   │   ├── 📄 pc_friedrick_junsi.md
-│   │   │   │   ├── 📄 pc_gauthak_vunakamune.md
-│   │   │   │   ├── 📄 pc_lone_straw.md
-│   │   │   │   ├── 📄 pc_lucian_vyrolyn.md
-│   │   │   │   ├── 📄 pc_markus_grimm 1.md
-│   │   │   │   ├── 📄 pc_markus_grimm.md
-│   │   │   │   ├── 📄 pc_orianna.md
-│   │   │   │   ├── 📄 pc_silfir.md
-│   │   │   │   ├── 📄 pc_tabasco_de_lumeiros.md
-│   │   │   │   └── 📄 pc_wandering_sage.md
+│   │   │   ├── 📄 pc_arkos_vasell.md
+│   │   │   ├── 📄 pc_asinius.md
+│   │   │   ├── 📄 pc_bok_thunderfist.md
 │   │   │   ├── 📄 pc_conan_barbaro_ra.md
 │   │   │   ├── 📄 pc_drayl_bharash.md
 │   │   │   ├── 📄 pc_dustin_thorne.md
 │   │   │   ├── 📄 pc_eirwen.md
-│   │   │   ├── 📄 pc_eldric_silvanus.md
+│   │   │   ├── 📄 pc_eldric_silvanos.md
+│   │   │   ├── 📄 pc_endouven_bomsossego.md
+│   │   │   ├── 📄 pc_flynn.md
+│   │   │   ├── 📄 pc_friedrick_junsi.md
+│   │   │   ├── 📄 pc_gauthak_vunakamune.md
 │   │   │   ├── 📄 pc_grix_molah.md
 │   │   │   ├── 📄 pc_kai.md
 │   │   │   ├── 📄 pc_ketrich_flavifer.md
 │   │   │   ├── 📄 pc_leo.md
+│   │   │   ├── 📄 pc_lone_straw.md
 │   │   │   ├── 📄 pc_lucien.md
 │   │   │   ├── 📄 pc_markus_grimm.md
+│   │   │   ├── 📄 pc_orianna.md
 │   │   │   ├── 📄 pc_raylahn.md
 │   │   │   ├── 📄 pc_sarvian_midlor.md
 │   │   │   ├── 📄 pc_silfir.md
+│   │   │   ├── 📄 pc_tabasco_de_lumeiros.md
 │   │   │   ├── 📄 pc_triss_merrill.md
 │   │   │   ├── 📄 pc_ulma.md
 │   │   │   ├── 📄 pc_usopp.md
 │   │   │   ├── 📄 pc_ustrax.md
 │   │   │   ├── 📄 pc_vaunia_kolakiala.md
 │   │   │   ├── 📄 pc_wagner.md
+│   │   │   ├── 📄 pc_wandering_sage.md
 │   │   │   ├── 📄 pc_zahel.md
 │   │   │   └── 📄 pc_zeldris.md
 │   │   ├── 📂 rumors/
@@ -780,885 +773,171 @@
 ├── 📂 notable_figures/
 │   └── 📂 -/
 ├── 📂 npc/
-│   ├── 📂 Abandoned Village/
-│   │   └── 📄 vaelkor_ashbrand.md
-│   ├── 📂 Blackstone/
-│   │   └── 📄 kristryd_splitanvil.md
-│   ├── 📂 Eclipse Tower/
-│   │   └── 📄 zavros_karamark.md
-│   ├── 📂 Eribend/
-│   │   ├── 📄 branwir.md
-│   │   ├── 📄 dolrea_vas.md
-│   │   ├── 📄 jeraldina.md
-│   │   ├── 📄 mestre_tolinn.md
-│   │   ├── 📄 myria.md
-│   │   └── 📄 senhor_rodrik.md
-│   ├── 📂 Fey/
-│   │   └── 📄 pryssana.md
-│   ├── 📂 Free City of Grehawk/
-│   │   ├── 📄 aria_greenbottle.md
-│   │   ├── 📄 bartleby_quick.md
-│   │   ├── 📄 cleseur.md
-│   │   ├── 📄 curador.md
-│   │   ├── 📄 dandan.md
-│   │   ├── 📄 eliza_greenbottle.md
-│   │   ├── 📄 finn_greenbottle.md
-│   │   ├── 📄 guarda_da_cidade.md
-│   │   ├── 📄 iquander_of_greyhawk.md
-│   │   ├── 📄 jandel_the_lintwatcher.md
-│   │   ├── 📄 lady_silvra_malren.md
-│   │   ├── 📄 lord_aleister_devraine.md
-│   │   ├── 📄 marielle_duns.md
-│   │   ├── 📄 mestre_donlan.md
-│   │   ├── 📄 mistress_lyra_quil.md
-│   │   ├── 📄 mr0.md
-│   │   ├── 📄 mr_mustard.md
-│   │   ├── 📄 neliara_de_oghma.md
-│   │   ├── 📄 sister_blathine.md
-│   │   ├── 📄 taverneiro_refugio.md
-│   │   ├── 📄 tobias_greenbottle.md
-│   │   ├── 📄 tomtha_beaknose.md
-│   │   ├── 📄 trixie.md
-│   │   └── 📄 wenla_frott.md
-│   ├── 📂 Mirens Hallow/
-│   │   ├── 📄 calra_brightwater.md
-│   │   └── 📄 thamior.md
-│   ├── 📂 Order of Scarlat/
-│   │   ├── 📄 soren_vest.md
-│   │   └── 📄 tilda_auren.md
-│   ├── 📂 Orefield/
-│   │   ├── 📄 bargrum_grimmhill.md
-│   │   ├── 📄 hagar_shieldrun.md
-│   │   ├── 📄 skarn.md
-│   │   ├── 📄 thalen_fernwell.md
-│   │   └── 📄 zarvokir.md
-│   ├── 📂 Peachgrove Village/
-│   │   └── 📄 sir_gregor.md
-│   ├── 📂 Peculiar Manor/
-│   │   └── 📄 kaldros_veynor.md
-│   ├── 📂 Ruined castle/
-│   │   └── 📄 major-domo_castelo.md
-│   ├── 📂 Ruins of House Vanthir/
-│   │   ├── 📄 luthor_greystone.md
-│   │   ├── 📄 malrik_dorn.md
-│   │   └── 📄 vareth_lionmane.md
-│   ├── 📂 Underdark Paladin/
-│   │   ├── 📄 brand_orvain.md
-│   │   ├── 📄 brandon_bane.md
-│   │   ├── 📄 garruk_valstein.md
-│   │   ├── 📄 sybel_astren.md
-│   │   └── 📄 zeibranth.md
-│   ├── 📂 unknown/
-│   │   ├── 📄 aurora.md
-│   │   ├── 📄 berdan_barleybrow.md
-│   │   ├── 📄 cultista.md
-│   │   ├── 📄 darsen.md
-│   │   ├── 📄 draven.md
-│   │   ├── 📄 druida_infestado.md
-│   │   ├── 📄 lia.md
-│   │   ├── 📄 lirael.md
-│   │   ├── 📄 liwana.md
-│   │   ├── 📄 raveth_xil_zyrl.md
-│   │   ├── 📄 selene.md
-│   │   └── 📄 snikil_pescabrasa.md
-│   ├── 📂 Vauria Village/
-│   │   ├── 📄 old_rasko.md
-│   │   └── 📄 verena_kestrel.md
-│   └── 📂 wild/
-│       ├── 📄 baltigard.md
-│       ├── 📄 bareth_lionmane.md
-│       ├── 📄 borogrove.md
-│       ├── 📄 klikz.md
-│       ├── 📄 kobolds_infectados.md
-│       └── 📄 thoren.md
+│   └── 📂 -/
+│       ├── 📂 Abandoned Village/
+│       │   └── 📄 vaelkor_ashbrand.md
+│       ├── 📂 Blackstone/
+│       │   └── 📄 kristryd_splitanvil.md
+│       ├── 📂 Eclipse Tower/
+│       │   └── 📄 zavros_karamark.md
+│       ├── 📂 Eribend/
+│       │   ├── 📄 branwir.md
+│       │   ├── 📄 dolrea_vas.md
+│       │   ├── 📄 jeraldina.md
+│       │   ├── 📄 mestre_tolinn.md
+│       │   ├── 📄 myria.md
+│       │   └── 📄 senhor_rodrik.md
+│       ├── 📂 Fey/
+│       │   └── 📄 pryssana.md
+│       ├── 📂 Free City of Grehawk/
+│       │   ├── 📄 aria_greenbottle.md
+│       │   ├── 📄 bartleby_quick.md
+│       │   ├── 📄 cleseur.md
+│       │   ├── 📄 curador.md
+│       │   ├── 📄 dandan.md
+│       │   ├── 📄 eliza_greenbottle.md
+│       │   ├── 📄 finn_greenbottle.md
+│       │   ├── 📄 guarda_da_cidade.md
+│       │   ├── 📄 iquander_of_greyhawk.md
+│       │   ├── 📄 jandel_the_lintwatcher.md
+│       │   ├── 📄 lady_silvra_malren.md
+│       │   ├── 📄 lord_aleister_devraine.md
+│       │   ├── 📄 marielle_duns.md
+│       │   ├── 📄 mestre_donlan.md
+│       │   ├── 📄 mistress_lyra_quil.md
+│       │   ├── 📄 mr0.md
+│       │   ├── 📄 mr_mustard.md
+│       │   ├── 📄 neliara_de_oghma.md
+│       │   ├── 📄 sister_blathine.md
+│       │   ├── 📄 taverneiro_refugio.md
+│       │   ├── 📄 tobias_greenbottle.md
+│       │   ├── 📄 tomtha_beaknose.md
+│       │   ├── 📄 trixie.md
+│       │   └── 📄 wenla_frott.md
+│       ├── 📂 Mirens Hallow/
+│       │   ├── 📄 calra_brightwater.md
+│       │   └── 📄 thamior.md
+│       ├── 📂 Order of Scarlat/
+│       │   ├── 📄 soren_vest.md
+│       │   └── 📄 tilda_auren.md
+│       ├── 📂 Orefield/
+│       │   ├── 📄 bargrum_grimmhill.md
+│       │   ├── 📄 hagar_shieldrun.md
+│       │   ├── 📄 skarn.md
+│       │   ├── 📄 thalen_fernwell.md
+│       │   └── 📄 zarvokir.md
+│       ├── 📂 Peachgrove Village/
+│       │   └── 📄 sir_gregor.md
+│       ├── 📂 Peculiar Manor/
+│       │   └── 📄 kaldros_veynor.md
+│       ├── 📂 Ruined castle/
+│       │   └── 📄 major-domo_castelo.md
+│       ├── 📂 Ruins of House Vanthir/
+│       │   ├── 📄 luthor_greystone.md
+│       │   ├── 📄 malrik_dorn.md
+│       │   └── 📄 vareth_lionmane.md
+│       ├── 📂 Underdark Paladin/
+│       │   ├── 📄 brand_orvain.md
+│       │   ├── 📄 brandon_bane.md
+│       │   ├── 📄 garruk_valstein.md
+│       │   ├── 📄 sybel_astren.md
+│       │   └── 📄 zeibranth.md
+│       ├── 📂 unknown/
+│       │   ├── 📄 aurora.md
+│       │   ├── 📄 berdan_barleybrow.md
+│       │   ├── 📄 cultista.md
+│       │   ├── 📄 darsen.md
+│       │   ├── 📄 draven.md
+│       │   ├── 📄 druida_infestado.md
+│       │   ├── 📄 lia.md
+│       │   ├── 📄 lirael.md
+│       │   ├── 📄 liwana.md
+│       │   ├── 📄 raveth_xil_zyrl.md
+│       │   ├── 📄 selene.md
+│       │   └── 📄 snikil_pescabrasa.md
+│       ├── 📂 Vauria Village/
+│       │   ├── 📄 old_rasko.md
+│       │   └── 📄 verena_kestrel.md
+│       └── 📂 wild/
+│           ├── 📄 baltigard.md
+│           ├── 📄 bareth_lionmane.md
+│           ├── 📄 borogrove.md
+│           ├── 📄 klikz.md
+│           ├── 📄 kobolds_infectados.md
+│           └── 📄 thoren.md
 ├── 📂 organizations/
 │   └── 📂 -/
-│       ├── 📄 guildas_de_greyhawk.md
+│       ├── 📂 arcane orders/
+│       │   ├── 📄 circle_of_coin_mages.md
+│       │   ├── 📄 circle_of_eight.md
+│       │   ├── 📄 mages_guild.md
+│       │   └── 📄 society_of_magi.md
+│       ├── 📂 cults/
+│       │   ├── 📄 cult_of_elemental_evil.md
+│       │   ├── 📄 cult_of_nerull.md
+│       │   ├── 📄 cult_of_the_drowned_star.md
+│       │   ├── 📄 followers_of_titania.md
+│       │   ├── 📄 iridescent_temple.md
+│       │   ├── 📄 loviatans.md
+│       │   └── 📄 order_of_scarlat.md
+│       ├── 📂 guilds/
+│       │   ├── 📄 assassins_guild.md
+│       │   ├── 📄 guild_of_architects_and_mason.md
+│       │   ├── 📄 guild_of_carpenters.md
+│       │   ├── 📄 guild_of_free_merchants.md
+│       │   ├── 📄 guild_of_performance_artists.md
+│       │   ├── 📄 guild_of_thieves.md
+│       │   ├── 📄 guild_of_weavers_tanners_tailors.md
+│       │   ├── 📄 guildas_de_greyhawk.md
+│       │   ├── 📄 nine_of_swords.md
+│       │   ├── 📄 order_of_scribes_and_notarie.md
+│       │   └── 📄 sailwrights_guild.md
+│       ├── 📂 institutions/
+│       │   ├── 📄 city_watch.md
+│       │   ├── 📄 directing_oligarchy.md
+│       │   ├── 📄 great_library.md
+│       │   ├── 📄 irongate_navy.md
+│       │   ├── 📄 merchant_assembly.md
+│       │   └── 📄 university_of_magical_arts.md
+│       ├── 📂 orders/
+│       ├── 📂 secret societies/
 │       └── 📄 the_company.md
 ├── 📂 pc/
 │   └── 📂 -/
-│       ├── 📂 fichas icompletas/
-│       │   ├── 📄 pc_arkos_vasell.md
-│       │   ├── 📄 pc_asinius.md
-│       │   ├── 📄 pc_bok_thunderfist.md
-│       │   ├── 📄 pc_endovan_bomsossego.md
-│       │   ├── 📄 pc_flynn.md
-│       │   ├── 📄 pc_friedrick_junsi.md
-│       │   ├── 📄 pc_gauthak_vunakamune.md
-│       │   ├── 📄 pc_lone_straw.md
-│       │   ├── 📄 pc_orianna.md
-│       │   ├── 📄 pc_silfir.md
-│       │   ├── 📄 pc_tabasco_de_lumeiros.md
-│       │   └── 📄 pc_wandering_sage.md
+│       ├── 📄 pc_arkos_vasell.md
+│       ├── 📄 pc_asinius.md
+│       ├── 📄 pc_bok_thunderfist.md
 │       ├── 📄 pc_conan_barbaro_ra.md
 │       ├── 📄 pc_drayl_bharash.md
 │       ├── 📄 pc_dustin_thorne.md
 │       ├── 📄 pc_eirwen.md
 │       ├── 📄 pc_eldric_silvanos.md
+│       ├── 📄 pc_endouven_bomsossego.md
+│       ├── 📄 pc_flynn.md
+│       ├── 📄 pc_friedrick_junsi.md
+│       ├── 📄 pc_gauthak_vunakamune.md
 │       ├── 📄 pc_grix_molah.md
 │       ├── 📄 pc_kai.md
 │       ├── 📄 pc_ketrich_flavifer.md
 │       ├── 📄 pc_leo.md
+│       ├── 📄 pc_lone_straw.md
 │       ├── 📄 pc_lucien.md
 │       ├── 📄 pc_markus_grimm.md
+│       ├── 📄 pc_orianna.md
 │       ├── 📄 pc_raylahn.md
 │       ├── 📄 pc_sarvian_midlor.md
+│       ├── 📄 pc_silfir.md
+│       ├── 📄 pc_tabasco_de_lumeiros.md
 │       ├── 📄 pc_triss_merrill.md
 │       ├── 📄 pc_ulma.md
 │       ├── 📄 pc_usopp.md
 │       ├── 📄 pc_ustrax.md
 │       ├── 📄 pc_vaunia_kolakiala.md
 │       ├── 📄 pc_wagner.md
+│       ├── 📄 pc_wandering_sage.md
 │       ├── 📄 pc_zahel.md
 │       └── 📄 pc_zeldris.md
 ├── 📂 rumors/
 │   └── 📂 -/
 │       └── 📄 history_free_city_of_greyhawk.md
 └── 📄 index.md
-
-
-=== Scanning directory structure ===
-[warn] Repo mode requested, but .git/mkdocs.yml not found. Falling back to full scan.
-Root: G:\Git\bardos-do-mondego\docs
-Repo mode: OFF
-docs/
-    index.md  (439 bytes)
-adventures/
-adventures\-/
-    s01_os_fungos_do_bosque_summary.md  (8011 bytes)
-    s02_dificuldades_na_mina_de_obsidiana_summary.md  (2135 bytes)
-    s03_emboscada_nas_margens_do_rio_neem_resumo.md  (1299 bytes)
-    s03_vale_do_vento_sombrio_summary.md  (1498 bytes)
-    s04_regresso_mina_gravuras_summary.md  (883 bytes)
-    s04_two_fords_doenca_moinho_summary.md  (1393 bytes)
-    s04_vale_do_vento_sombrio_dragao_summary.md  (1516 bytes)
-    s05_as_mascaras_da_morte_mistwood_summary.md  (1162 bytes)
-    s05_diario_acolita_morvanya_summary.md  (1066 bytes)
-    s05_o_altar_de_sangue_no_campo_goblin_summary.md  (2406 bytes)
-    s06_eribend_kobolds_baile_blackfair_summary.md  (1874 bytes)
-    s06_grutas_pantano_bullywugs_basilisco_summary.md  (1756 bytes)
-    s07_eribend_raptos_cultistas_odrak_summary.md  (1317 bytes)
-    s08!!!!roubo_e_perseguicao_das_pedras_summary.md  (518 bytes)
-    s08_as_tres_pedras_e_o_ritual_summary.md  (1121 bytes)
-    s08_bullywugs_e_basilisco_summary.md  (1162 bytes)
-    s08_lago_umbra_cavaleiro_sombras_summary.md  (1176 bytes)
-    s08_nave_illithid_e_entrega_de_thoren_summary.md  (1446 bytes)
-    s09_baile_dos_high_fae_summary.md  (1631 bytes)
-    s09_entrega_para_blackfair_manor_summary.md  (1236 bytes)
-    s09_misterio_de_high_ery_summary.md  (1356 bytes)
-    s10_a_rota_da_cia_sangue_e_ouro_no_pantano_summary.md  (1457 bytes)
-    s10_o_segredo_de_peculiar_manor_summary.md  (1517 bytes)
-    s10_sombras_de_iuz_summary.md  (9136 bytes)
-    s10_sombras_sobre_erybend_summary.md  (1666 bytes)
-    s11_o_legado_de_krixis_summary.md  (1238 bytes)
-    s11_prisao_e_redencao_summary.md  (1480 bytes)
-    s11_trilogia_tres_pedras_mindflayer_summary.md  (1221 bytes)
-    s12_prisao_e_resgate_de_dustin_summary.md  (12891 bytes)
-    s13_dandan_e_os_40_kobolds_summary.md  (1497 bytes)
-    s13_enfrentando_a_guilda_dos_ladroes_summary.md  (1348 bytes)
-    s13_investigar_o_sul_da_cidade_de_greyhawk_summary.md  (1365 bytes)
-    s13_o_incendio_misterioso_summary.md  (830 bytes)
-    s13_o_que_nos_espera_a_nova_cidade_summary.md  (1244 bytes)
-    s14_mao_de_zan_cetro_ordem_escarlate_summary.md  (1337 bytes)
-    s14_o_que_nos_espera_a_nova_cidade_summary.md  (1289 bytes)
-    s14_resgate_abigail_pessegueiro_espelhos_summary.md  (1254 bytes)
-    s16_a_crianca_perdida_summary.md  (17012 bytes)
-    s16_o_que_nos_espera_a_nova_cidade_summary.md  (1465 bytes)
-    s21_s22_casino_heist_summary.md  (11259 bytes)
-    s22_a_sombra_do_tempo_perdido_summary.md  (1961 bytes)
-    s24_sociedade_dos_ratos_sedentos_summary.md  (12012 bytes)
-    s27_o_museu_das_maravilhas_sombras_summary.md  (3029 bytes)
-    s28_idolo_de_lady_scale_summary.md  (11502 bytes)
-    s28_o_museu_das_maravilhas_sombras_summary.md  (2254 bytes)
-    s29_a_expedicao_aos_esgotos_de_greyhawk_summary.md  (1955 bytes)
-    s29_idolo_de_lady_scale_summary.md  (13002 bytes)
-    s30_idolo_de_lady_scale_summary.md  (12542 bytes)
-assets/
-assets\location/
-    city_of_dorakaa.png  (454963 bytes)
-    coast_of_arms_ulek.png  (64746 bytes)
-    coat_of_arms_dorakaa.jpeg  (9344 bytes)
-    coat_of_arms_dyvers.jpeg  (9851 bytes)
-    coat_of_arms_verbobonc.jpeg  (10543 bytes)
-    dyvers.jpg  (156821 bytes)
-    free_city_of_greyhawk.jpg  (357243 bytes)
-    free_city_of_irongate.jpg  (165741 bytes)
-    free_city_of_irongate_coat_of_Arms.gif  (21518 bytes)
-    free_city_of_verbobonc.png  (1209006 bytes)
-    greyhawk_114x135.png  (73414 bytes)
-    location_blank.png  (5390 bytes)
-    old_citadel.png  (654679 bytes)
-    peculiar_manor.png  (523713 bytes)
-    the_inn.jpeg  (475530 bytes)
-    ulek.png  (209788 bytes)
-    undercity.png  (4370292 bytes)
-    veluna.jpeg  (189538 bytes)
-    veluna_coat_of_arms.png  (9327 bytes)
-    world_of_greyhawk.jpg  (149662 bytes)
-assets\loot/
-    acorn_borogrove.jpg  (37547 bytes)
-    bracers_of_defense.jpeg  (53449 bytes)
-    capa_da_neblina.png  (110017 bytes)
-    espada_luz_velada.png  (129330 bytes)
-    espada_mais_um.png  (42580 bytes)
-    gema_das_cinco_vozes.webp  (15226 bytes)
-    livro_druida.jpg  (22895 bytes)
-    object_blank.png  (96465 bytes)
-    topaz.webp  (67534 bytes)
-assets\monsters/
-    giant_spider.png  (130610 bytes)
-    monster_blank.png  (72510 bytes)
-    swarm_of_bats.png  (302643 bytes)
-    swarm_of_rats.jpeg  (409207 bytes)
-    swarm_of_spiders.png  (61754 bytes)
-    zombie.jpeg  (266156 bytes)
-assets\npc/
-    npc_blank.png  (4480 bytes)
-assets\organization/
-    org_blank.png  (29033 bytes)
-assets\pc/
-    pc_arkos_vasell.png  (547849 bytes)
-    pc_blank.png  (4480 bytes)
-    pc_bok_thunderfist.png  (1547266 bytes)
-    pc_conan_barbaro_ra_00.png  (1289295 bytes)
-    pc_drayl_bharash_00.png  (2144215 bytes)
-    pc_dustin_thorne_01.jpg  (708302 bytes)
-    pc_dustin_thorne_02.jpg  (103118 bytes)
-    pc_dustin_thorne_03.jpg  (446237 bytes)
-    pc_eirwen_01.png  (4008346 bytes)
-    pc_eirwen_02.png  (4726392 bytes)
-    pc_eirwen_03.png  (3958315 bytes)
-    pc_eldric_silvanus.png  (2654239 bytes)
-    pc_frederick_freddy_01.png  (432390 bytes)
-    pc_frederick_freddy_02.png  (1710557 bytes)
-    pc_gauthak_vunakamune.jpeg  (113124 bytes)
-    pc_grix_molah.jpg  (16463 bytes)
-    pc_kai_01.png  (96769 bytes)
-    pc_kai_02.png  (29421 bytes)
-    pc_kai_03.png  (421299 bytes)
-    pc_kai_04.png  (585068 bytes)
-    pc_kai_05.png  (364673 bytes)
-    pc_ketrich_flavifer_01.png  (3653654 bytes)
-    pc_ketrich_flavifer_02.jpg  (16317 bytes)
-    pc_ketrich_flavifer_03.jpg  (86959 bytes)
-    pc_leo.jpeg  (6603 bytes)
-    pc_lone_straw.png  (1777510 bytes)
-    pc_lucien_01.png  (313096 bytes)
-    pc_lucien_02.png  (404023 bytes)
-    pc_markus_grimm_01 1.png  (1676088 bytes)
-    pc_markus_grimm_01.jpg  (74275 bytes)
-    pc_markus_grimm_01.png  (1676088 bytes)
-    pc_markus_grimm_02 1.png  (1148931 bytes)
-    pc_markus_grimm_02.png  (1755326 bytes)
-    pc_orianna.jpg  (104608 bytes)
-    pc_raylahn.jpg  (340195 bytes)
-    pc_sarvian_midlor.png  (1839614 bytes)
-    pc_silfir.png  (3576874 bytes)
-    pc_triss_merrill_01.png  (1762325 bytes)
-    pc_triss_merrill_02.png  (162229 bytes)
-    pc_triss_merrill_03.png  (848798 bytes)
-    pc_ulma.png  (69288 bytes)
-    pc_ulma_big.png  (4767640 bytes)
-    pc_vaunia_kolakiala.jpg  (67468 bytes)
-    pc_wagner.png  (2217916 bytes)
-    pc_wandering_sage.png  (2019213 bytes)
-    pc_zahel.png  (273191 bytes)
-    pc_zeldris.png  (4191666 bytes)
-assets\rumor/
-    rumor_blank.png  (9245 bytes)
-css/
-    image-sizing.css  (420 bytes)
-dm/
-dm\-/
-dm\-\adventures/
-dm\-\adventures\bullet/
-    s01_os_fungos_do_bosque_bullet.md  (13938 bytes)
-    s02_dificuldades_na_mina_de_obsidiana_bullet.md  (12657 bytes)
-    s03_emboscada_nas_margens_do_rio_neem_bullet.md  (9665 bytes)
-    s03_vale_do_vento_sombrio_bullet.md  (8613 bytes)
-    s04_regresso_mina_gravuras_bullet.md  (3681 bytes)
-    s04_two_fords_doenca_moinho_bullet.md  (12006 bytes)
-    s04_vale_do_vento_sombrio_dragao_bullet.md  (9659 bytes)
-    s05_acampamento_goblin_caravana_resgate_bullet.md  (6297 bytes)
-    s05_as_mascaras_da_morte_mistwood_bullet.md  (3619 bytes)
-    s05_diario_acolita_morvanya_bullet.md  (2530 bytes)
-    s06_eribend_kobolds_baile_blackfair_bullet.md  (12103 bytes)
-    s06_grutas_pantano_bullywugs_basilisco_bullet.md  (7647 bytes)
-    s07_eribend_raptos_cultistas_odrak_bullet.md  (9241 bytes)
-    s07_terceiro_templo_basilisco_pedras_luz_bullet.md  (5382 bytes)
-    s08!!!!roubo_e_perseguicao_das_pedras_bullet.md  (2647 bytes)
-    s08_as_tres_pedras_e_o_ritual_bullet.md  (4633 bytes)
-    s08_bullywugs_e_basilisco_bullet.md  (4072 bytes)
-    s08_lago_umbra_cavaleiro_sombras_bullet.md  (4520 bytes)
-    s08_nave_illithid_e_entrega_de_thoren_bullet.md  (5825 bytes)
-    s09_baile_dos_high_fae_bullet.md  (6025 bytes)
-    s09_entrega_para_blackfair_manor_bullet.md  (4981 bytes)
-    s09_misterio_de_high_ery_bullet.md  (6440 bytes)
-    s10_a_rota_da_cia_sangue_e_ouro_no_pantano_bullet.md  (5874 bytes)
-    s10_o_segredo_de_peculiar_manor_bullet.md  (5975 bytes)
-    s10_sombras_de_iuz_bullet.md  (6255 bytes)
-    s10_sombras_sobre_erybend_bullet.md  (7315 bytes)
-    s11_o_legado_de_krixis_bullet.md  (7024 bytes)
-    s11_prisao_e_redencao_bullet.md  (8728 bytes)
-    s11_trilogia_tres_pedras_mindflayer_bullet.md  (5004 bytes)
-    s12_prisao_e_resgate_de_dustin_bullet.md  (7695 bytes)
-    s13_dandan_e_os_40_kobolds_bullet.md  (5176 bytes)
-    s13_enfrentando_a_guilda_dos_ladroes_bullet.md  (4583 bytes)
-    s13_investigar_o_sul_da_cidade_de_greyhawk_bullet.md  (5534 bytes)
-    s13_o_incendio_misterioso_bullet.md  (4951 bytes)
-    s13_o_que_nos_espera_a_nova_cidade_bullet.md  (5817 bytes)
-    s14_mao_de_zan_cetro_ordem_escarlate_bullet.md  (5155 bytes)
-    s14_o_que_nos_espera_a_nova_cidade_bullet.md  (5338 bytes)
-    s14_resgate_abigail_pessegueiro_espelhos_bullet.md  (5741 bytes)
-    s16_a_crianca_perdida_bullet.md  (6409 bytes)
-    s16_o_que_nos_espera_a_nova_cidade_bullet.md  (4454 bytes)
-    s21_s22_casino_heist_bullet.md  (1639 bytes)
-    s22_a_sombra_do_tempo_perdido_bullet.md  (10154 bytes)
-    s24_sociedade_dos_ratos_sedentos_bullet.md  (6587 bytes)
-    s27_o_museu_das_maravilhas_sombras_bullet.md  (12502 bytes)
-    s28_idolo_de_lady_scale_bullet.md  (3531 bytes)
-    s28_o_museu_das_maravilhas_sombras_bullet.md  (18846 bytes)
-    s29_a_expedicao_aos_esgotos_de_greyhawk_bullet.md  (23223 bytes)
-    s29_idolo_de_lady_scale_bullet.md  (1293 bytes)
-    s30_idolo_de_lady_scale_bullet.md  (1468 bytes)
-    sessões - Bullet Points.md  (180016 bytes)
-dm\-\adventures\ready/
-    s01_os_fungos_do_bosque_ready.md  (22894 bytes)
-    s02_dificuldades_na_mina_de_obsidiana_ready.md  (20263 bytes)
-    s03_emboscada_nas_margens_do_rio_neem_ready.md  (11295 bytes)
-    s03_vale_do_vento_sombrio_ready.md  (10458 bytes)
-    s04_regresso_mina_gravuras_ready.md  (4666 bytes)
-    s04_two_fords_doenca_moinho_ready.md  (2259 bytes)
-    s04_vale_do_vento_sombrio_dragao_ready.md  (8566 bytes)
-    s05_as_mascaras_da_morte_mistwood_ready.md  (3338 bytes)
-    s05_diario_acolita_morvanya_ready.md  (9269 bytes)
-    s05_o_altar_de_sangue_no_campo_goblin_ready.md  (11402 bytes)
-    s06_eribend_kobolds_baile_blackfair_ready.md  (2322 bytes)
-    s06_grutas_pantano_bullywugs_basilisco_ready.md  (8940 bytes)
-    s07_eribend_raptos_cultistas_odrak_ready.md  (9065 bytes)
-    s07_terceiro_templo_basilisco_pedras_luz_ready.md  (6539 bytes)
-    s08!!!!roubo_e_perseguicao_das_pedras_ready.md  (1325 bytes)
-    s08_as_tres_pedras_e_o_ritual_ready.md  (5481 bytes)
-    s08_bullywugs_e_basilisco_ready.md  (5879 bytes)
-    s08_lago_umbra_cavaleiro_sombras_ready.md  (6068 bytes)
-    s08_nave_illithid_e_entrega_de_thoren_ready.md  (7837 bytes)
-    s09_baile_dos_high_fae_ready.md  (8831 bytes)
-    s09_entrega_para_blackfair_manor_ready.md  (7030 bytes)
-    s09_misterio_de_high_ery_ready.md  (7623 bytes)
-    s10_a_rota_da_cia_sangue_e_ouro_no_pantano_ready.md  (7555 bytes)
-    s10_o_segredo_de_peculiar_manor_ready.md  (8193 bytes)
-    s10_sombras_de_iuz_ready.md  (9035 bytes)
-    s10_sombras_sobre_erybend_ready.md  (9551 bytes)
-    s11_o_legado_de_krixis_ready.md  (8988 bytes)
-    s11_prisao_e_redencao_ready.md  (8711 bytes)
-    s11_trilogia_tres_pedras_mindflayer_ready.md  (6953 bytes)
-    s12_prisao_e_resgate_de_dustin_ready.md  (2616 bytes)
-    s13_dandan_e_os_40_kobolds_ready.md  (1528 bytes)
-    s13_enfrentando_a_guilda_dos_ladroes_ready.md  (1693 bytes)
-    s13_investigar_o_sul_da_cidade_de_greyhawk_ready.md  (7046 bytes)
-    s13_o_incendio_misterioso_ready.md  (1355 bytes)
-    s13_o_que_nos_espera_a_nova_cidade_ready.md  (1461 bytes)
-    s14_mao_de_zan_cetro_ordem_escarlate_ready.md  (1613 bytes)
-    s14_o_que_nos_espera_a_nova_cidade_ready.md  (1390 bytes)
-    s14_resgate_abigail_pessegueiro_espelhos_ready.md  (1406 bytes)
-    s16_a_crianca_perdida_ready.md  (9176 bytes)
-    s16_o_que_nos_espera_a_nova_cidade_ready.md  (1680 bytes)
-    s21_s22_casino_heist_ready.md  (4058 bytes)
-    s22_a_sombra_do_tempo_perdido_ready.md  (2199 bytes)
-    s24_sociedade_dos_ratos_sedentos_ready.md  (2158 bytes)
-    s27_o_museu_das_maravilhas_sombras_ready.md  (3439 bytes)
-    s28_idolo_de_lady_scale_ready.md  (3277 bytes)
-    s28_o_museu_das_maravilhas_sombras_ready.md  (9444 bytes)
-    s29_a_expedicao_aos_esgotos_de_greyhawk_ready.md  (2134 bytes)
-    s29_idolo_de_lady_scale_ready.md  (2943 bytes)
-    s30_idolo_de_lady_scale_ready.md  (1736 bytes)
-dm\-\adventures\summary/
-dm\-\locations/
-    aldeia_abandonada.md  (841 bytes)
-    altar_de_celestia.md  (760 bytes)
-    blackfair_manor.md  (1645 bytes)
-    blackstone.md  (674 bytes)
-    bosque_proximo.md  (1236 bytes)
-    cairn_mountains.md  (575 bytes)
-    casa_dos_greenbottle.md  (1236 bytes)
-    castelo_ruina_de_ebano.md  (836 bytes)
-    caverna_das_lagrimas_de_cristal.md  (642 bytes)
-    caverna_dos_dois_postes.md  (517 bytes)
-    caverna_infestada.md  (694 bytes)
-    caverna_submersa.md  (504 bytes)
-    cidade_de_greyhawk.md  (1384 bytes)
-    cripta_das_sombras.md  (1073 bytes)
-    eribend.md  (986 bytes)
-    esgotos_de_greyhawk.md  (655 bytes)
-    galeria_das_bestas.md  (473 bytes)
-    galeria_dos_lamentos.md  (528 bytes)
-    garden_quarter.md  (963 bytes)
-    garden_quarter_fountain.md  (769 bytes)
-    golden_dragon_tavern.md  (799 bytes)
-    grande_castelo.md  (651 bytes)
-    greyhawk.md  (444 bytes)
-    ilha_da_lua_negra.md  (526 bytes)
-    jardim_greyhawk.md  (766 bytes)
-    laboratorio_do_curador.md  (543 bytes)
-    lago_umbra.md  (557 bytes)
-    locais_notaveis.md  (262 bytes)
-    loja_olho_de_boccob.md  (608 bytes)
-    mercado_de_greyhawk.md  (398 bytes)
-    mina_de_obsidiana.md  (2692 bytes)
-    mirens_hallow.md  (711 bytes)
-    museu_das_maravilhas.md  (2864 bytes)
-    museu_das_maravilhas_naturais_e_arcanas_de_greyhawk.md  (850 bytes)
-    nave_illithid.md  (1514 bytes)
-    nave_mae_illithid.md  (1506 bytes)
-    outros_distritos_greyhawk.md  (1450 bytes)
-    parque_da_cidade.md  (598 bytes)
-    peculiar_manor.md  (4321 bytes)
-    referenced_locations_greyhawk.md  (5954 bytes)
-    refugio_do_errante.md  (1525 bytes)
-    riacho_subterraneo.md  (1265 bytes)
-    ruinas_das_sombras.md  (770 bytes)
-    ruinas_do_forte_da_casa_vanthir.md  (570 bytes)
-    sapolandia.md  (590 bytes)
-    taberna_da_trixie.md  (1464 bytes)
-    taberna_golden_dragon.md  (601 bytes)
-    taberna_machado_quebrado.md  (703 bytes)
-    taberna_sombra_de_agua.md  (668 bytes)
-    taverna.md  (2670 bytes)
-    templo_abandonado_kobold.md  (1309 bytes)
-    templo_ordem_de_scarlat.md  (648 bytes)
-    torre_do_eclipse.md  (567 bytes)
-    universidade_de_artes_magicas.md  (447 bytes)
-    vale_de_lytharien.md  (637 bytes)
-    vale_do_vento_sombrio.md  (2131 bytes)
-    vila_de_pessegueiro.md  (457 bytes)
-    vila_de_vauria.md  (468 bytes)
-dm\-\monsters/
-    armadura_animada.md  (652 bytes)
-    borogrove_twig_blights.md  (536 bytes)
-    bullywug_infestados.md  (622 bytes)
-    corvo_gigante.md  (551 bytes)
-    criatura_das_sombras.md  (677 bytes)
-    criatura_de_nevoa.md  (579 bytes)
-    darkmantle.md  (549 bytes)
-    elemental_de_fogo.md  (625 bytes)
-    fungos_parasitas_alienigenas.md  (677 bytes)
-    gelatinous_cube.md  (1910 bytes)
-    ghast.md  (539 bytes)
-    ghoul.md  (512 bytes)
-    giant_spider.md  (1103 bytes)
-    guardian_da_caverna.md  (668 bytes)
-    hook_horror.md  (948 bytes)
-    lobos_infectados.md  (695 bytes)
-    mimico.md  (568 bytes)
-    monstro_da_lagoa.md  (703 bytes)
-    psiquic_ooze.md  (542 bytes)
-    rust_monster.md  (561 bytes)
-    serpente_gigante.md  (568 bytes)
-    shrieker_fungus.md  (604 bytes)
-    sombra.md  (680 bytes)
-    spectral_wraith.md  (588 bytes)
-    stirge.md  (516 bytes)
-    swarm_of_spiders.md  (1264 bytes)
-    unicórnio_lendario.md  (575 bytes)
-    urso_infestado.md  (612 bytes)
-    violet_fungi.md  (602 bytes)
-    wight.md  (573 bytes)
-    yellow_mold.md  (611 bytes)
-dm\-\notable_figures/
-    pelor.md  (476 bytes)
-dm\-\npc/
-    mojibake_fix_log.txt  (8621 bytes)
-    referenced_npcs_greyhawk.md  (9498 bytes)
-dm\-\npc\Abandoned Village/
-    vaelkor_ashbrand.md  (3621 bytes)
-dm\-\npc\Blackstone/
-    kristryd_splitanvil.md  (3377 bytes)
-dm\-\npc\Eclipse Tower/
-    zavros_karamark.md  (2695 bytes)
-dm\-\npc\Eribend/
-    branwir.md  (4812 bytes)
-    dolrea_vas.md  (2565 bytes)
-    jeraldina.md  (2559 bytes)
-    mestre_tolinn.md  (4561 bytes)
-    myria.md  (2321 bytes)
-    senhor_rodrik.md  (2357 bytes)
-dm\-\npc\Fey/
-    pryssana.md  (2383 bytes)
-dm\-\npc\Free City of Grehawk/
-    aria_greenbottle.md  (6412 bytes)
-    bartleby_quick.md  (5445 bytes)
-    blank_npc.md  (7963 bytes)
-    cleseur.md  (5073 bytes)
-    curador.md  (2412 bytes)
-    dandan.md  (2739 bytes)
-    eliza_greenbottle.md  (3001 bytes)
-    finn_greenbottle.md  (2843 bytes)
-    guarda_da_cidade.md  (7042 bytes)
-    iquander_of_greyhawk.md  (7701 bytes)
-    jandel_the_lintwatcher.md  (6134 bytes)
-    lady_silvra_malren.md  (8441 bytes)
-    lord_aleister_devraine.md  (7820 bytes)
-    marielle_duns.md  (2493 bytes)
-    mestre_donlan.md  (2563 bytes)
-    mistress_lyra_quil.md  (6171 bytes)
-    mr0.md  (2347 bytes)
-    mr_mustard.md  (4776 bytes)
-    neliara_de_oghma.md  (6086 bytes)
-    sister_blathine.md  (9449 bytes)
-    taverneiro_refugio.md  (4023 bytes)
-    tobias_greenbottle.md  (5598 bytes)
-    tomtha_beaknose.md  (4533 bytes)
-    trixie.md  (2640 bytes)
-    wenla_frott.md  (6565 bytes)
-dm\-\npc\Mirens Hallow/
-    calra_brightwater.md  (6693 bytes)
-    thamior.md  (2382 bytes)
-dm\-\npc\Order of Scarlat/
-    soren_vest.md  (2660 bytes)
-    tilda_auren.md  (2596 bytes)
-dm\-\npc\Orefield/
-    bargrum_grimmhill.md  (3826 bytes)
-    hagar_shieldrun.md  (3811 bytes)
-    skarn.md  (3828 bytes)
-    thalen_fernwell.md  (3860 bytes)
-    zarvokir.md  (4190 bytes)
-dm\-\npc\Peachgrove Village/
-    sir_gregor.md  (3131 bytes)
-dm\-\npc\Peculiar Manor/
-    kaldros_veynor.md  (3086 bytes)
-dm\-\npc\Ruined castle/
-    major-domo_castelo.md  (4477 bytes)
-dm\-\npc\Ruins of House Vanthir/
-    luthor_greystone.md  (3919 bytes)
-    malrik_dorn.md  (4216 bytes)
-    vareth_lionmane.md  (2731 bytes)
-dm\-\npc\Underdark Paladin/
-    brand_orvain.md  (4208 bytes)
-    brandon_bane.md  (4773 bytes)
-    garruk_valstein.md  (4253 bytes)
-    sybel_astren.md  (4197 bytes)
-    zeibranth.md  (4836 bytes)
-dm\-\npc\Unknown/
-    aurora.md  (2604 bytes)
-    berdan_barleybrow.md  (5307 bytes)
-    cultista.md  (2628 bytes)
-    darsen.md  (2419 bytes)
-    draven.md  (2454 bytes)
-    druida_infestado.md  (2258 bytes)
-    lia.md  (2370 bytes)
-    lirael.md  (2467 bytes)
-    liwana.md  (3390 bytes)
-    raveth_xil_zyrl.md  (2452 bytes)
-    selene.md  (2407 bytes)
-    snikil_pescabrasa.md  (2229 bytes)
-dm\-\npc\Vauria Village/
-    old_rasko.md  (3272 bytes)
-    verena_kestrel.md  (3566 bytes)
-dm\-\npc\wild/
-    baltigard.md  (2043 bytes)
-    bareth_lionmane.md  (2262 bytes)
-    borogrove.md  (5775 bytes)
-    klikz.md  (2891 bytes)
-    kobolds_infectados.md  (2955 bytes)
-    thoren.md  (2171 bytes)
-dm\-\organizations/
-    assassins_guild.md  (815 bytes)
-    conclave_anfibio.md  (724 bytes)
-    culto_elemental.md  (805 bytes)
-    faccoes_e_cultos.md  (292 bytes)
-    guild_of_thieves.md  (908 bytes)
-    ordem_de_scarlat.md  (854 bytes)
-    sociedade_dos_magos.md  (739 bytes)
-    underdark_paladins.md  (20 bytes)
-dm\-\pc/
-    pc_conan_barbaro_ra.md  (24383 bytes)
-    pc_drayl_bharash.md  (6362 bytes)
-    pc_dustin_thorne.md  (39528 bytes)
-    pc_eirwen.md  (4714 bytes)
-    pc_eldric_silvanus.md  (16188 bytes)
-    pc_grix_molah.md  (8364 bytes)
-    pc_kai.md  (13131 bytes)
-    pc_ketrich_flavifer.md  (4216 bytes)
-    pc_leo.md  (4437 bytes)
-    pc_lucien.md  (7008 bytes)
-    pc_markus_grimm.md  (5795 bytes)
-    pc_raylahn.md  (5749 bytes)
-    pc_sarvian_midlor.md  (25460 bytes)
-    pc_silfir.md  (6 bytes)
-    pc_triss_merrill.md  (4204 bytes)
-    pc_ulma.md  (5900 bytes)
-    pc_usopp.md  (5377 bytes)
-    pc_ustrax.md  (5502 bytes)
-    pc_vaunia_kolakiala.md  (7416 bytes)
-    pc_wagner.md  (4919 bytes)
-    pc_zahel.md  (6646 bytes)
-    pc_zeldris.md  (5101 bytes)
-dm\-\pc\fichas icompletas/
-    pc_arkos_vasell.md  (2082 bytes)
-    pc_asinius.md  (1456 bytes)
-    pc_bok_thunderfist.md  (2421 bytes)
-    pc_eldric_silvanus.md  (2575 bytes)
-    pc_endovan_bomsossego.md  (3807 bytes)
-    pc_flynn.md  (1122 bytes)
-    pc_friedrick_junsi.md  (2360 bytes)
-    pc_gauthak_vunakamune.md  (4354 bytes)
-    pc_lone_straw.md  (2839 bytes)
-    pc_lucian_vyrolyn.md  (2842 bytes)
-    pc_markus_grimm 1.md  (2499 bytes)
-    pc_markus_grimm.md  (2491 bytes)
-    pc_orianna.md  (2892 bytes)
-    pc_silfir.md  (2101 bytes)
-    pc_tabasco_de_lumeiros.md  (8496 bytes)
-    pc_wandering_sage.md  (10064 bytes)
-dm\-\rumors/
-    boatos_sobre_piratas.md  (786 bytes)
-    lendas_das_ruinas_sombras.md  (839 bytes)
-    palavras_arcanas.md  (532 bytes)
-    rumores_da_mao_roubada.md  (851 bytes)
-    rumores_do_vale_lytharien.md  (677 bytes)
-    rumores_sobre_illithids.md  (700 bytes)
-dm\-\tables/
-    adventures_summary.md  (2148 bytes)
-    ganchos_por_aventura.md  (2175 bytes)
-    global_adventures.md  (13421 bytes)
-    global_adventures_index.md  (7379 bytes)
-    loot_por_aventura.md  (2218 bytes)
-    monstros_por_aventura.md  (2141 bytes)
-    npcs_por_aventura.md  (2107 bytes)
-    pcs_por_aventura.md  (1892 bytes)
-loot/
-loot\itens/
-    acorn_borogrove.md  (1201 bytes)
-    anel_magico_de_zorg.md  (668 bytes)
-    artefatos_e_itens.md  (220 bytes)
-    bracers_of_defense.md  (1683 bytes)
-    capa_da_neblina.md  (629 bytes)
-    espada_luz_velada.md  (723 bytes)
-    espada_mais_um.md  (1696 bytes)
-    gema_das_cinco_vozes.md  (793 bytes)
-    hook_horror_teeth.md  (594 bytes)
-    livro_druida.md  (522 bytes)
-    loot.md  (308 bytes)
-    loot_sessao1.md  (625 bytes)
-    loot_vento_sombrio.md  (846 bytes)
-    manto_sombra_viva.md  (693 bytes)
-    medalhao_do_sussurro.md  (638 bytes)
-    pergaminho_expulsar_mortos_vivos.md  (618 bytes)
-    pocao_da_esperanca.md  (609 bytes)
-    pocao_resistencia_necrotico.md  (640 bytes)
-    reliquia_amaldicoada.md  (622 bytes)
-    sala_subterranea_frascos.md  (490 bytes)
-    staff_of_flowers.md  (760 bytes)
-    thargrin_letter.md  (813 bytes)
-    topaz.md  (1167 bytes)
-lore/
-lore\-/
-lore\-\history/
-    calendar.md  (3164 bytes)
-    factions.md  (2365 bytes)
-    heroes.md  (1591 bytes)
-    pantheon.md  (4069 bytes)
-    villains.md  (1780 bytes)
-lore\-\locations/
-    geography.md  (2521 bytes)
-lore\-\locations\cities/
-lore\-\locations\cities\dorakaa/
-    dorakaa.md  (6122 bytes)
-lore\-\locations\cities\dyvers/
-    dyvers.md  (7414 bytes)
-lore\-\locations\cities\free_city_of_greyhawk/
-    free_city_of_greyhawk.md  (32008 bytes)
-    mapa_cidade_de_greyhawk.md  (58 bytes)
-lore\-\locations\cities\free_city_of_greyhawk\artisans_quarter/
-    artisans_quarter.md  (4304 bytes)
-    guildhall_of_wizardry.md  (1480 bytes)
-lore\-\locations\cities\free_city_of_greyhawk\bazaar/
-    bazaar_district.md  (2670 bytes)
-    city_market.md  (3757 bytes)
-lore\-\locations\cities\free_city_of_greyhawk\clerks_quarter/
-    clerksburg.md  (1899 bytes)
-lore\-\locations\cities\free_city_of_greyhawk\foreign_quarter/
-    foreign_quarter.md  (4122 bytes)
-    rua_do_dragao_enferrujado.md  (910 bytes)
-lore\-\locations\cities\free_city_of_greyhawk\garden_quarter/
-    garden_quarter.md  (4234 bytes)
-    great_library.md  (6008 bytes)
-lore\-\locations\cities\free_city_of_greyhawk\high_quarter/
-    castle_greyhawk_ruins.md  (1899 bytes)
-    high_quarter.md  (4101 bytes)
-    old_citadel.md  (2093 bytes)
-lore\-\locations\cities\free_city_of_greyhawk\river_quarter/
-    estalagem_da_companhia.md  (4614 bytes)
-    river_quarter.md  (3858 bytes)
-    the_narrows.md  (4252 bytes)
-lore\-\locations\cities\free_city_of_greyhawk\slum_quarter/
-    slum_quarter.md  (3426 bytes)
-lore\-\locations\cities\free_city_of_greyhawk\temple_row/
-    temple_of_oghma.md  (2943 bytes)
-    temple_row.md  (1590 bytes)
-lore\-\locations\cities\free_city_of_greyhawk\thieves_quarter/
-    thieves_quarter.md  (2687 bytes)
-lore\-\locations\cities\free_city_of_greyhawk\undercity/
-    undercity.md  (2950 bytes)
-lore\-\locations\cities\free_city_of_greyhawk\university_quarter/
-    universidade_arcana.md  (5627 bytes)
-    university_quarter.md  (5535 bytes)
-lore\-\locations\cities\irongate/
-    irongate.md  (5880 bytes)
-lore\-\locations\cities\ulek/
-    ulek.md  (3256 bytes)
-lore\-\locations\cities\veluna/
-    veluna.md  (2851 bytes)
-lore\-\locations\cities\verbobonc/
-    verbobonc.md  (5832 bytes)
-lore\-\timeline/
-    greyhawk_sessions_complete.md  (109718 bytes)
-    greyhawk_timeline_complete.md  (15905 bytes)
-lore\-\timeline\timelines/
-    timeline_ancient.md  (4737 bytes)
-    timeline_chroniclers.md  (1836 bytes)
-    timeline_greatkingdom.md  (3984 bytes)
-    timeline_greyhawkwars.md  (2586 bytes)
-    timeline_westmarches.md  (2707 bytes)
-monsters/
-monsters\-/
-    swarm_of_bats.md  (12067 bytes)
-    swarm_of_rats.md  (10290 bytes)
-    zombie.md  (579 bytes)
-notable_figures/
-notable_figures\-/
-npc/
-npc\Abandoned Village/
-    vaelkor_ashbrand.md  (3871 bytes)
-npc\Blackstone/
-    kristryd_splitanvil.md  (2782 bytes)
-npc\Eclipse Tower/
-    zavros_karamark.md  (1874 bytes)
-npc\Eribend/
-    branwir.md  (3408 bytes)
-    dolrea_vas.md  (1975 bytes)
-    jeraldina.md  (1969 bytes)
-    mestre_tolinn.md  (2754 bytes)
-    myria.md  (1504 bytes)
-    senhor_rodrik.md  (1536 bytes)
-npc\Fey/
-    pryssana.md  (1529 bytes)
-npc\Free City of Grehawk/
-    aria_greenbottle.md  (3277 bytes)
-    bartleby_quick.md  (3338 bytes)
-    cleseur.md  (2737 bytes)
-    curador.md  (1822 bytes)
-    dandan.md  (2149 bytes)
-    eliza_greenbottle.md  (2511 bytes)
-    finn_greenbottle.md  (2385 bytes)
-    guarda_da_cidade.md  (4588 bytes)
-    iquander_of_greyhawk.md  (4296 bytes)
-    jandel_the_lintwatcher.md  (3509 bytes)
-    lady_silvra_malren.md  (6198 bytes)
-    lord_aleister_devraine.md  (3412 bytes)
-    marielle_duns.md  (1691 bytes)
-    mestre_donlan.md  (1729 bytes)
-    mistress_lyra_quil.md  (3277 bytes)
-    mr0.md  (1535 bytes)
-    mr_mustard.md  (2592 bytes)
-    neliara_de_oghma.md  (4019 bytes)
-    sister_blathine.md  (5078 bytes)
-    taverneiro_refugio.md  (1904 bytes)
-    tobias_greenbottle.md  (3251 bytes)
-    tomtha_beaknose.md  (2914 bytes)
-    trixie.md  (1835 bytes)
-    wenla_frott.md  (4021 bytes)
-npc\Mirens Hallow/
-    calra_brightwater.md  (4349 bytes)
-    thamior.md  (1536 bytes)
-npc\Order of Scarlat/
-    soren_vest.md  (1834 bytes)
-    tilda_auren.md  (1770 bytes)
-npc\Orefield/
-    bargrum_grimmhill.md  (2744 bytes)
-    hagar_shieldrun.md  (2652 bytes)
-    skarn.md  (2892 bytes)
-    thalen_fernwell.md  (2748 bytes)
-    zarvokir.md  (2901 bytes)
-npc\Peachgrove Village/
-    sir_gregor.md  (2320 bytes)
-npc\Peculiar Manor/
-    kaldros_veynor.md  (2496 bytes)
-npc\Ruined castle/
-    major-domo_castelo.md  (3047 bytes)
-npc\Ruins of House Vanthir/
-    luthor_greystone.md  (2197 bytes)
-    malrik_dorn.md  (2305 bytes)
-    vareth_lionmane.md  (1909 bytes)
-npc\Underdark Paladin/
-    brand_orvain.md  (3578 bytes)
-    brandon_bane.md  (4143 bytes)
-    garruk_valstein.md  (3623 bytes)
-    sybel_astren.md  (3330 bytes)
-    zeibranth.md  (3980 bytes)
-npc\unknown/
-    aurora.md  (1743 bytes)
-    berdan_barleybrow.md  (2961 bytes)
-    cultista.md  (2038 bytes)
-    darsen.md  (1829 bytes)
-    draven.md  (1864 bytes)
-    druida_infestado.md  (1668 bytes)
-    lia.md  (1780 bytes)
-    lirael.md  (1877 bytes)
-    liwana.md  (1723 bytes)
-    raveth_xil_zyrl.md  (1564 bytes)
-    selene.md  (1542 bytes)
-    snikil_pescabrasa.md  (1365 bytes)
-npc\Vauria Village/
-    old_rasko.md  (1475 bytes)
-    verena_kestrel.md  (2743 bytes)
-npc\wild/
-    baltigard.md  (1276 bytes)
-    bareth_lionmane.md  (1489 bytes)
-    borogrove.md  (3148 bytes)
-    klikz.md  (2301 bytes)
-    kobolds_infectados.md  (2365 bytes)
-    thoren.md  (1363 bytes)
-organizations/
-organizations\-/
-    guildas_de_greyhawk.md  (3122 bytes)
-    the_company.md  (773 bytes)
-pc/
-pc\-/
-    pc_conan_barbaro_ra.md  (14808 bytes)
-    pc_drayl_bharash.md  (14863 bytes)
-    pc_dustin_thorne.md  (27450 bytes)
-    pc_eirwen.md  (18121 bytes)
-    pc_eldric_silvanos.md  (8456 bytes)
-    pc_grix_molah.md  (23441 bytes)
-    pc_kai.md  (9354 bytes)
-    pc_ketrich_flavifer.md  (12290 bytes)
-    pc_leo.md  (20837 bytes)
-    pc_lucien.md  (18994 bytes)
-    pc_markus_grimm.md  (7823 bytes)
-    pc_raylahn.md  (23155 bytes)
-    pc_sarvian_midlor.md  (17768 bytes)
-    pc_triss_merrill.md  (13062 bytes)
-    pc_ulma.md  (21387 bytes)
-    pc_usopp.md  (32516 bytes)
-    pc_ustrax.md  (7745 bytes)
-    pc_vaunia_kolakiala.md  (25592 bytes)
-    pc_wagner.md  (14997 bytes)
-    pc_zahel.md  (32220 bytes)
-    pc_zeldris.md  (19287 bytes)
-pc\-\fichas icompletas/
-    pc_arkos_vasell.md  (1899 bytes)
-    pc_asinius.md  (1297 bytes)
-    pc_bok_thunderfist.md  (2592 bytes)
-    pc_endovan_bomsossego.md  (4812 bytes)
-    pc_flynn.md  (1859 bytes)
-    pc_friedrick_junsi.md  (3346 bytes)
-    pc_gauthak_vunakamune.md  (17448 bytes)
-    pc_lone_straw.md  (7815 bytes)
-    pc_orianna.md  (7643 bytes)
-    pc_silfir.md  (1651 bytes)
-    pc_tabasco_de_lumeiros.md  (26773 bytes)
-    pc_wandering_sage.md  (28030 bytes)
-rumors/
-rumors\-/
-    history_free_city_of_greyhawk.md  (4455 bytes)

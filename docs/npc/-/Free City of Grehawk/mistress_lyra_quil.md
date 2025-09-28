@@ -4,7 +4,7 @@
 
 | **Português (PT-PT)** | **English (EN-US)** |
 | --------------------- | ------------------- |
-| **📍 Localização:**<br>- [Grande Biblioteca](great_library.md), Cidade Livre de Greyhawk | **📍 Location:**<br>- [Great Library](great_library.md), Free City of Greyhawk |
+| **📍 Localização:**<br>- [Grande Biblioteca](docs/locations/cities/free_city_of_greyhawk/garden_quarter/great_library.md), Cidade Livre de Greyhawk | **📍 Location:**<br>- [Great Library](docs/locations/cities/free_city_of_greyhawk/garden_quarter/great_library.md), Free City of Greyhawk |
 | **🏛 Papel / Função:**<br>- Alta Curadora da Grande Biblioteca<br>- Guardiã dos registos e coleções raras | **🏛 Role / Function:**<br>- High Curator of the Great Library<br>- Guardian of records and rare collections |
 | **🧬 Raça:**<br>- Elfa | **🧬 Race:**<br>- Elf |
 | **⚔ Classe:**<br>- Maga (Sábia) | **⚔ Class:**<br>- Wizard (Sage) |

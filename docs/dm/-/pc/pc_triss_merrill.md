@@ -27,7 +27,7 @@
 | **Espécie**:  Humana    | **Species**:  Human   |
 | **Classe**:  Feiticeira (Linagem Dracónica) | **Class**:  Sorcerer (Draconic Bloodline)     |
 | **Alinhamento**: [por preencher] | **Alignment**: [to be filled]  |
-| **Background**: Filha ilegítima de mercador em [Greyhawk](../locations/cidade_de_greyhawk.md)  | **Background**: Illegitimate daughter of a merchant in [Greyhawk](../locations/cidade_de_greyhawk.md) |
+| **Background**: Filha ilegítima de mercador em [Greyhawk](cidade_de_greyhawk.md)  | **Background**: Illegitimate daughter of a merchant in [Greyhawk](cidade_de_greyhawk.md) |
 | **Idade**: [por preencher]       | **Age**: [to be filled]        |
 | **Altura**: [por preencher]      | **Height**: [to be filled]     |
 | **Olhos**: Azul-claros brilhantes [**(Inferido da imagem)**]       | **Eyes**: Bright light blue [**(Inferred from image)**]        |
@@ -62,15 +62,15 @@
 
 | **📖 História – Depois da Taberna** | **📖 Story – After the Tavern** |
 | ----------------------------------- | -------------------------------- |
-| - Ajudou a libertar templos corrompidos de Nerull com [Grix’Molah](../pc/pc_grix_molah.md).<br>- Fez contacto com entidades feéricas durante missões no [Feywild](../realms/feywild.md).<br>- Desenvolveu uma relação próxima com Grix, com quem planeia ir a um baile.<br>- Ganhou inspiração de [Titania](../npc/titania.md) após purificar caveiras atormentadas.<br>- Tornou-se uma das vozes de equilíbrio no grupo dos **Funguys**. | - Helped cleanse Nerull-corrupted temples with [Grix’Molah](../pc/pc_grix_molah.md).<br>- Encountered fey entities during missions in the [Feywild](../realms/feywild.md).<br>- Developed a close bond with Grix, with whom she plans to attend a ball.<br>- Gained [Titania](../npc/titania.md)’s inspiration after freeing tortured skulls.<br>- Became one of the balancing voices of the **Funguys** party. |
+| - Ajudou a libertar templos corrompidos de Nerull com [Grix’Molah](docs/dm/-/pc/pc_grix_molah.md).<br>- Fez contacto com entidades feéricas durante missões no [Feywild](../realms/feywild.md).<br>- Desenvolveu uma relação próxima com Grix, com quem planeia ir a um baile.<br>- Ganhou inspiração de [Titania](../npc/titania.md) após purificar caveiras atormentadas.<br>- Tornou-se uma das vozes de equilíbrio no grupo dos **Funguys**. | - Helped cleanse Nerull-corrupted temples with [Grix’Molah](docs/dm/-/pc/pc_grix_molah.md).<br>- Encountered fey entities during missions in the [Feywild](../realms/feywild.md).<br>- Developed a close bond with Grix, with whom she plans to attend a ball.<br>- Gained [Titania](../npc/titania.md)’s inspiration after freeing tortured skulls.<br>- Became one of the balancing voices of the **Funguys** party. |
 
 ---
 
 | **🎭 Dramatis Persona** | **🎭 Dramatis Persona**     |
 | ---------------------------------------------------------- | ---------------------------------------------------- |
-| **NPCs de influência direta:**  <br>- [Grix’Molah](../pc/pc_grix_molah.md) – aliado, companheiro próximo.<br>- [Titania](../npc/titania.md) – Archfey, concedeu inspiração. | **Direct Influence NPCs:**  <br>- [Grix’Molah](../pc/pc_grix_molah.md) – ally, close companion.<br>- [Titania](../npc/titania.md) – Archfey, granted inspiration.   |
+| **NPCs de influência direta:**  <br>- [Grix’Molah](docs/dm/-/pc/pc_grix_molah.md) – aliado, companheiro próximo.<br>- [Titania](../npc/titania.md) – Archfey, concedeu inspiração. | **Direct Influence NPCs:**  <br>- [Grix’Molah](docs/dm/-/pc/pc_grix_molah.md) – ally, close companion.<br>- [Titania](../npc/titania.md) – Archfey, granted inspiration.   |
 | **Antagonistas:**  <br>- [por preencher]<br> | **Antagonists:**  <br>-[to be filled]   |
-| **Aliados:**  <br>- Companheiros **Funguys**: [Kai](../pc/pc_kai.md), [Dustin](docs/dm/-/pc/pc_dustin_thorne.md), [Conan](docs/dm/-/pc/pc_conan_barbaro_ra.md), [Raylahn](../pc/pc_raylahn.md), [Eirwen](../pc/pc_eirwen.md), [Leo](../pc/pc_leo.md), [Sarvian](docs/dm/-/pc/pc_sarvian_midlor.md) | **Allies:**  <br>- **Funguys** companions: [Kai](../pc/pc_kai.md), [Dustin](docs/dm/-/pc/pc_dustin_thorne.md), [Conan](docs/dm/-/pc/pc_conan_barbaro_ra.md), [Raylahn](../pc/pc_raylahn.md), [Eirwen](../pc/pc_eirwen.md), [Leo](../pc/pc_leo.md), [Sarvian](docs/dm/-/pc/pc_sarvian_midlor.md) |
+| **Aliados:**  <br>- Companheiros **Funguys**: [Kai](docs/dm/-/pc/pc_kai.md), [Dustin](docs/dm/-/pc/pc_dustin_thorne.md), [Conan](docs/dm/-/pc/pc_conan_barbaro_ra.md), [Raylahn](docs/dm/-/pc/pc_raylahn.md), [Eirwen](docs/dm/-/pc/pc_eirwen.md), [Leo](docs/dm/-/pc/pc_leo.md), [Sarvian](docs/dm/-/pc/pc_sarvian_midlor.md) | **Allies:**  <br>- **Funguys** companions: [Kai](docs/dm/-/pc/pc_kai.md), [Dustin](docs/dm/-/pc/pc_dustin_thorne.md), [Conan](docs/dm/-/pc/pc_conan_barbaro_ra.md), [Raylahn](docs/dm/-/pc/pc_raylahn.md), [Eirwen](docs/dm/-/pc/pc_eirwen.md), [Leo](docs/dm/-/pc/pc_leo.md), [Sarvian](docs/dm/-/pc/pc_sarvian_midlor.md) |
 
 ---
 

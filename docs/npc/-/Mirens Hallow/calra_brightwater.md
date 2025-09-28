@@ -8,7 +8,7 @@
 | **Raça:** ??? | **Race:** ??? |
 | **Classe:** ??? | **Class:** ??? |
 | **Alinhamento:** ??? | **Alignment:** ??? |
-| **Profissão:** Taverneira da [Taberna Sombra de Água](taberna_sombra_de_agua.md) | **Profession:** Innkeeper of the [Taberna Sombra de Água](taberna_sombra_de_agua.md) |
+| **Profissão:** Taverneira da [Taberna Sombra de Água](taberna_sombra_de_agua_mirens_hallows.md) | **Profession:** Innkeeper of the [Taberna Sombra de Água](taberna_sombra_de_agua_mirens_hallows.md) |
 | **Função:** Fonte de informações locais, apoio e acolhimento a aventureiros recém-chegados. | **Role:** Source of local information, support, and hospitality for newly arrived adventurers. |
 | **Localização:** [Mirens Hallow](mirens_hallow.md) | **Location:** [Mirens Hallow](mirens_hallow.md) |
 

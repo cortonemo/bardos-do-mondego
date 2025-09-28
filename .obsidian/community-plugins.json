@@ -1,5 +1,6 @@
 [
   "obsidian-link-converter",
   "obsidian-auto-link-title",
-  "linkify"
+  "linkify",
+  "global-search-and-replace"
 ]

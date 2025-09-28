@@ -1,0 +1,110 @@
+📁 Root: G:\Git\bardos-do-mondego\docs\locations
+├── 📂 cities/
+│   ├── 📂 dorakaa/
+│   │   └── 📄 dorakaa.md
+│   ├── 📂 dyvers/
+│   │   └── 📄 dyvers.md
+│   ├── 📂 free_city_of_greyhawk/
+│   │   ├── 📂 artisans_quarter/
+│   │   │   ├── 📄 artisans_quarter.md
+│   │   │   └── 📄 guildhall_of_wizardry.md
+│   │   ├── 📂 bazaar/
+│   │   │   ├── 📄 bazaar_district.md
+│   │   │   └── 📄 city_market.md
+│   │   ├── 📂 clerks_quarter/
+│   │   │   └── 📄 clerksburg.md
+│   │   ├── 📂 foreign_quarter/
+│   │   │   ├── 📄 foreign_quarter.md
+│   │   │   └── 📄 rua_do_dragao_enferrujado.md
+│   │   ├── 📂 garden_quarter/
+│   │   │   ├── 📄 garden_quarter.md
+│   │   │   └── 📄 great_library.md
+│   │   ├── 📂 high_quarter/
+│   │   │   ├── 📄 castle_greyhawk_ruins.md
+│   │   │   ├── 📄 high_quarter.md
+│   │   │   └── 📄 old_citadel.md
+│   │   ├── 📂 river_quarter/
+│   │   │   ├── 📄 estalagem_da_companhia.md
+│   │   │   ├── 📄 river_quarter.md
+│   │   │   └── 📄 the_narrows.md
+│   │   ├── 📂 slum_quarter/
+│   │   │   └── 📄 slum_quarter.md
+│   │   ├── 📂 temple_row/
+│   │   │   ├── 📄 temple_of_oghma.md
+│   │   │   └── 📄 temple_row.md
+│   │   ├── 📂 thieves_quarter/
+│   │   │   └── 📄 thieves_quarter.md
+│   │   ├── 📂 undercity/
+│   │   │   └── 📄 undercity.md
+│   │   ├── 📂 university_quarter/
+│   │   │   ├── 📄 universidade_arcana.md
+│   │   │   └── 📄 university_quarter.md
+│   │   ├── 📄 free_city_of_greyhawk.md
+│   │   └── 📄 mapa_cidade_de_greyhawk.md
+│   ├── 📂 irongate/
+│   │   └── 📄 irongate.md
+│   ├── 📂 ulek/
+│   │   └── 📄 ulek.md
+│   ├── 📂 veluna/
+│   │   └── 📄 veluna.md
+│   └── 📂 verbobonc/
+│       └── 📄 verbobonc.md
+├── 📄 aldeia_abandonada.md
+├── 📄 altar_de_celestia.md
+├── 📄 blackfair_manor.md
+├── 📄 blackstone.md
+├── 📄 bosque_proximo.md
+├── 📄 cairn_mountains.md
+├── 📄 casa_dos_greenbottle.md
+├── 📄 castelo_ruina_de_ebano.md
+├── 📄 caverna_das_lagrimas_de_cristal.md
+├── 📄 caverna_dos_dois_postes.md
+├── 📄 caverna_infestada.md
+├── 📄 caverna_submersa.md
+├── 📄 cidade_de_greyhawk.md
+├── 📄 cripta_das_sombras.md
+├── 📄 eribend.md
+├── 📄 esgotos_de_greyhawk.md
+├── 📄 galeria_das_bestas.md
+├── 📄 galeria_dos_lamentos.md
+├── 📄 garden_quarter.md
+├── 📄 garden_quarter_fountain.md
+├── 📄 geography.md
+├── 📄 golden_dragon_tavern.md
+├── 📄 grande_castelo.md
+├── 📄 greyhawk.md
+├── 📄 ilha_da_lua_negra.md
+├── 📄 jardim_greyhawk.md
+├── 📄 laboratorio_do_curador.md
+├── 📄 lago_umbra.md
+├── 📄 locais_notaveis.md
+├── 📄 loja_olho_de_boccob.md
+├── 📄 mercado_de_greyhawk.md
+├── 📄 mina_de_obsidiana.md
+├── 📄 mirens_hallow.md
+├── 📄 museu_das_maravilhas.md
+├── 📄 museu_das_maravilhas_naturais_e_arcanas_de_greyhawk.md
+├── 📄 nave_illithid.md
+├── 📄 nave_mae_illithid.md
+├── 📄 outros_distritos_greyhawk.md
+├── 📄 parque_da_cidade.md
+├── 📄 peculiar_manor.md
+├── 📄 referenced_locations_greyhawk.md
+├── 📄 refugio_do_errante.md
+├── 📄 riacho_subterraneo.md
+├── 📄 ruinas_das_sombras.md
+├── 📄 ruinas_do_forte_da_casa_vanthir.md
+├── 📄 sapolandia.md
+├── 📄 taberna_da_trixie.md
+├── 📄 taberna_golden_dragon.md
+├── 📄 taberna_machado_quebrado.md
+├── 📄 taberna_sombra_de_agua.md
+├── 📄 taverna.md
+├── 📄 templo_abandonado_kobold.md
+├── 📄 templo_ordem_de_scarlat.md
+├── 📄 torre_do_eclipse.md
+├── 📄 universidade_de_artes_magicas.md
+├── 📄 vale_de_lytharien.md
+├── 📄 vale_do_vento_sombrio.md
+├── 📄 vila_de_pessegueiro.md
+└── 📄 vila_de_vauria.md

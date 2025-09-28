@@ -10,7 +10,7 @@
 | **Alinhamento:** Leal Neutra | **Alignment:** Lawful Neutral |
 | **Profissão:** Alta Curadora da Grande Biblioteca, Guardiã dos registos e coleções raras | **Profession:** High Curator of the Great Library, Guardian of records and rare collections |
 | **Função:** Guardiã de segredos, erudita e autoridade bibliotecária | **Role:** Keeper of secrets, scholar, and library authority |
-| **Localização:** [Grande Biblioteca](great_library.md), Cidade Livre de Greyhawk | **Location:** [Great Library](great_library.md), Free City of Greyhawk |
+| **Localização:** [Grande Biblioteca](docs/locations/cities/free_city_of_greyhawk/garden_quarter/great_library.md), Cidade Livre de Greyhawk | **Location:** [Great Library](docs/locations/cities/free_city_of_greyhawk/garden_quarter/great_library.md), Free City of Greyhawk |
 | **Pronomes:** Ela/Dela | **Pronouns:** She/Her |
 
 ---

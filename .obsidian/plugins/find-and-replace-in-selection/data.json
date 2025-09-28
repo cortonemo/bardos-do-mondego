@@ -1,0 +1,6 @@
+{
+  "findText": "[Greyhawk City](free_city_of_greyhawk.md)",
+  "findRegexp": "",
+  "regexpFlags": "",
+  "replace": "[Free City of Greyhawk](free_city_of_greyhawk.md)"
+}
