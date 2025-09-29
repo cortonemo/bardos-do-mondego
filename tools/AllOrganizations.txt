@@ -1,0 +1,196 @@
+# Guilda dos Assassinos / Assassins Guild
+
+Sessões: 3, 13 | Datas: 2025-01-15, 2025-03-13 | Fontes: s03_-_2025-01-15.txt, s13_-_2025-03-13.txt | Tags: organização, guilda, assassinos, greyhawk
+
+![Guilda dos Assassinos](assets/organization/org_blank.png)
+
+| Português | English |
+|-----------|---------|
+| Sociedade secreta de assassinos em [Greyhawk](cidade_de_greyhawk.md), especializada em contratos, vinganças e manipulação política. Detém influência sobre facções menores e mantém rivalidades ferozes com a [Guilda dos Ladrões](guild_of_thieves.md). | Secret society of assassins in [Greyhawk](cidade_de_greyhawk.md), specialized in contracts, vendettas, and political manipulation. Wields influence over minor factions and holds fierce rivalries with the [Thieves Guild](guild_of_thieves.md). |
+
+
+
+<!-- ==== conclave_anfibio.md ==== -->
+
+# Conclave Anfíbio / Amphibian Conclave
+
+Sessões: 4, 8 | Datas: 2025-01-23, 2025-02-27 | Fontes: s04_-_2025-01-23.txt, s08_-_2025-02-27.txt | Tags: organização, aldeia, sapos
+
+![Conclave Anfíbio](assets/organization/org_blank.png)
+
+| Português | English |
+|-----------|---------|
+| Aliança das criaturas de [Sapolândia](sapolandia.md), dedicada à proteção do seu pântano, dos seus segredos e artefactos. Por vezes hostis a forasteiros, mas aliados valiosos para quem conquistar a sua confiança. | Alliance of the [Sapolândia](sapolandia.md) amphibian creatures, dedicated to protecting their swamp, secrets, and artifacts. Sometimes hostile to outsiders, but valuable allies for those who gain their trust. |
+
+
+
+<!-- ==== culto_elemental.md ==== -->
+
+# Culto do Mal Elemental
+
+Sessão: 3 | Data: 2025-04-18 | Fonte: s03.txt | Tags: organização, culto, vilão, vaelkor_ashbrand
+
+![Culto do Mal Elemental](assets/organization/org_blank.png)
+
+| English | Português |
+|---------|-----------|
+| **Description:** Secret cult operating in the [Vale do Vento Sombrio](vale_do_vento_sombrio.md). Led by [Vaelkor Ashbrand](docs/dm/-/npc/Abandoned%20Village/vaelkor_ashbrand.md), seeking to spread an unnatural fungus through rituals, infecting the land and creatures. | **Descrição:** Culto secreto a operar no [Vale do Vento Sombrio](vale_do_vento_sombrio.md). Liderado por [Vaelkor Ashbrand](docs/dm/-/npc/Abandoned%20Village/vaelkor_ashbrand.md), procura espalhar um fungo antinatural através de rituais, infectando terras e criaturas. |
+
+<!-- ==== faccoes_e_cultos.md ==== -->
+
+# Facções e Cultos**
+
+Cada uma com ideologia, líderes, zonas de operação e inimigos:
+
+    Culto de Nerull
+
+    Ordem de Beltar (Caçadores do Subterrâneo)
+
+    Seguidores de Titania
+
+    Culto do Mal Elemental
+
+    Goblins de Two Fords
+
+    Casa Vanthir (e impostores)
+
+
+<!-- ==== guild_of_thieves.md ==== -->
+
+# Guilda dos Ladrões / Thieves Guild
+
+Sessões: 3, 8, 13, 27 | Datas: 2025-01-15, 2025-02-27, 2025-03-13, 2025-07-10 | Fontes: s03_-_2025-01-15.txt, s08_-_2025-02-27.txt, s13_-_2025-03-13.txt, s27_-_2025-07-10.txt | Tags: organização, guilda, greyhawk
+
+![Guilda dos Ladrões](assets/organization/org_blank.png)
+
+| Português | English |
+|-----------|---------|
+| Uma das organizações mais poderosas da [Cidade de Greyhawk](cidade_de_greyhawk.md), responsável por crimes organizados, tráfico de informações e rivalidades com outras guildas. Muitas vezes, cruzam-se com aventureiros em negócios ilícitos ou alianças de conveniência. | One of the most powerful organizations in [City of Greyhawk](cidade_de_greyhawk.md), responsible for organized crime, information trafficking, and rivalries with other guilds. Often intersects with adventurers through illicit business or temporary alliances. |
+
+
+<!-- ==== ordem_de_scarlat.md ==== -->
+
+# Ordem de Scarlat / Order of Scarlat
+
+Sessões: 14, 16 | Datas: 2025-04-10, 2025-04-24 | Fontes: s14_-_2025-04-10.txt, s16_-_2025-04-24.txt | Tags: organização, culto, religioso
+
+![Ordem de Scarlat](assets/organization/org_blank.png)
+
+| Português | English |
+|-----------|---------|
+| Culto dedicado à divindade Zan, com sede no [Templo da Ordem de Scarlat](templo_ordem_de_scarlat.md). Realizam rituais secretos, procissões e buscam artefactos sagrados. Frequentemente associados a desaparecimentos e a uma mão roubada, sendo alvo de investigação dos aventureiros. | Cult devoted to the deity Zan, based at the [Order of Scarlat Temple](templo_ordem_de_scarlat.md). They conduct secret rituals, processions, and seek holy artifacts. Frequently linked to disappearances and a stolen hand, and are the subject of investigation by adventurers. |
+
+
+<!-- ==== sociedade_dos_magos.md ==== -->
+
+# Sociedade dos Magos / Society of Magi
+
+Sessões: 8, 13 | Datas: 2025-02-27, 2025-03-13 | Fontes: s08_-_2025-02-27.txt, s13_-_2025-03-13.txt | Tags: organização, magos, academia
+
+![Sociedade dos Magos](assets/organization/org_blank.png)
+
+| Português | English |
+|-----------|---------|
+| Irmandade de estudiosos de magia, com sede na [Universidade de Artes Mágicas](universidade_de_artes_magicas.md) de Greyhawk. Envolvem-se em investigação arcana, rivalidades académicas e proteção de segredos mágicos. | Brotherhood of magic scholars, based at the [University of Magical Arts](universidade_de_artes_magicas.md) in Greyhawk. Engage in arcane research, academic rivalries, and protection of magical secrets. |
+
+
+
+<!-- ==== underdark_paladins.md ==== -->
+
+# Underdark Paladins
+
+<!-- ==== guildas_de_greyhawk.md ==== -->
+
+# Guildas da Cidade Livre de Greyhawk
+
+## Descrição Geral
+
+A Cidade Livre de Greyhawk alberga uma vasta teia de guildas que regulam as profissões, artes, ofícios e até atividades ilícitas dentro dos seus muros. Estas organizações são essenciais à estrutura económica e social da cidade, funcionando como centros de poder, proteção e influência.
+
+Cada guilda possui estatutos próprios, rituais de admissão e níveis hierárquicos. Algumas são abertamente reconhecidas pelo governo da cidade, enquanto outras operam nas sombras ou com aprovação tácita.
+
+---
+
+## Estrutura Comum de uma Guilda
+
+- **Mestre da Guilda**  Líder supremo, geralmente eleito pelos membros seniores.
+- **Conselho de Oficiais**  Coordena áreas específicas (finanças, treino, contratos).
+- **Membros Seniores (Mestres de Ofício)**  Responsáveis por supervisionar aprendizes e representar distritos.
+- **Companheiros**  Artesãos ou profissionais experientes.
+- **Aprendizes**  Iniciados que recebem formação e cumprem tarefas menores.
+- **Afiliados Externos**  Apoiantes, espiões, clientes ou nobres patronos.
+
+---
+
+## Exemplos de Guildas em Greyhawk
+
+### ️ Guilda dos Artesãos e Ferreiros
+
+- **Sede:** Distrito T13 (próximo do Mercado de Metais)
+- **Influência:** Alta. Controla produção de armas, armaduras e ferramentas.
+- **Curiosidade:** Usa martelos encantados como símbolos cerimoniais.
+
+###  Guilda dos Comerciantes Livres
+
+- **Sede:** Próximo do Bairro das Moedas (F15)
+- **Papel:** Regula comércio entre distritos e cobra taxas de licença.
+- **Conflito:** Em tensão com contrabandistas do Porto Velho.
+
+###  Guilda dos Ladrões
+
+- **Oficialmente:** Não existe.
+- **Na prática:** Opera sob nomes de fachada (ex: Sociedade dos Transportadores Noturnos).
+- **Líder Rumorado:** O Sombras, identidade desconhecida.
+
+###  Ordem dos Escrivas e Notários
+
+- **Sede:** Adjacente ao Salão de Registos (City Archives)
+- **Função:** Copia documentos, mantém registos legais, e oferece serviços mágicos menores.
+- **NPC Relevante:** *Archivist Pell*  Rabugento, mas meticuloso e discreto.
+
+###  Círculo dos Magos da Moeda
+
+- **Sede:** Subsolo do Grande Mercado
+- **Membros:** Ilusionistas, encantadores e magos com inclinação comercial.
+- **Tradição:** Realizam duelos diplomáticos para resolver disputas de patentes mágicas.
+
+---
+
+## Ganchos de Roleplay
+
+-  Um aprendiz pede ajuda após descobrir que o mestre da sua guilda está envolvido em necromancia ilegal.
+-  A Guilda dos Ferreiros está em greve e armas não estão a ser produzidas  a cidade fica vulnerável.
+- ️ Um convite misterioso chega aos aventureiros para assistirem a uma reunião secreta da Guilda dos Ladrões.
+-  A Guilda dos Comerciantes Livres quer contratar aventureiros para eliminar um novo sindicato pirata rival.
+
+---
+
+## Notas de Foundry VTT
+
+- Sugestão: Criar uma **pasta Guildas nos Journal Entries** e subdividir por tipo (legítimas, mágicas, criminais).
+- Pins de Mapa: Posicionar entradas visíveis apenas após Interações Sociais (ex: *descobrir localização da Guilda dos Ladrões*).
+
+
+<!-- ==== the_company.md ==== -->
+
+#  A Estalagem da Companhia
+
+A Estalagem da Companhia é uma taverna mágica e itinerante que aparece em diferentes pontos da cidade e arredores, como ponto de encontro para aventureiros. É o lar-base dos jogadores — um refúgio que existe “entre mapas.
+
+## 🔮 Características
+
+- Capaz de se deslocar magicamente (sem que ninguém saiba como)
+- Quartos personalizados para cada membro do grupo
+- Um quadro de contratos fixado junto à lareira
+- Presença constante do enigmático [O Taberneiro](docs/npc/Free%20City%20of%20Grehawk/taverneiro_refugio.md)
+
+## 🧩 Mistérios
+
+- Como se move a estalagem?
+- Quem a fundou?
+- Qual o verdadeiro papel do Taberneiro?
+
+## 📎 Ligações
+
+
+- [River Quarter](river_quarter.md) (aparição mais frequente)

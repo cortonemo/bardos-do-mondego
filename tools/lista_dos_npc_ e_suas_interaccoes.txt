@@ -1,0 +1,488 @@
+Aqui está o jornal de bordo detalhado para os NPCs, compilado a partir dos excertos fornecidos e organizado cronologicamente quando possível.
+Jornal de Bordo
+--------------------------------------------------------------------------------
+Sybel Astren (NPC)
+• Sessões:
+    ◦ S0X (2025-01-05) — Apoio aos PCs na busca do artefacto [Informação fornecida no prompt, não encontrada nos excertos]
+    ◦ S04D (2025-03-13) — Educate new tavern members (Kai's blackmail)
+    ◦ S0X (2025-03-20) — Encountered at the altar
+    ◦ S04G (2025-03-20) — Paladins of Beltar pursuit to recover Dustin
+• PCs: Eldric Silvanos (PC), Orianna (PC) [Informação fornecida no prompt, não encontrada nos excertos]; Dustin (PC), Triss (PC), Kai (PC)
+; Dustin (PC), Triss (PC), Kai (PC), Raylahn (PC)
+• Locais: Mirens Hallow (aldeia) [Informação fornecida no prompt, não encontrada nos excertos]; Ruins of the Vanthir House
+; Acampamento
+• Informações: Ligação aos Caçadores do Subterrâneo [Informação fornecida no prompt, não encontrada nos excertos]. She is a paladin, "Hunter of the Underdark"
+. A human with pale skin and sharp blue eyes, an implacable archer. She believes Dustin is a risk and should have remained dead. She is specialized in eliminating targets from a distance and can cast detection and banishment spells. Her motivation is to ensure the drow (Raveth) doesn't escape with information about the Underdark
+.
+• Loot: Nenhum
+--------------------------------------------------------------------------------
+Iquander (NPC)
+• Sessões:
+    ◦ S0X (2025-01-12) [inferido] — Guia da caravana [Informação fornecida no prompt, não encontrada nos excertos]
+• PCs: Eldric Silvanos (PC) [Informação fornecida no prompt, não encontrada nos excertos]
+• Locais: Lago Umbra (lago misterioso) [Informação fornecida no prompt, não encontrada nos excertos]
+• Informações: Pista sobre templo submerso [Informação fornecida no prompt, não encontrada nos excertos]
+• Loot: 25 moedas de ouro dadas aos PCs [Informação fornecida no prompt, não encontrada nos excertos]
+--------------------------------------------------------------------------------
+Borogrove (NPC)
+• Sessões:
+    ◦ S01A (2025-01-02) — Investigate a polluted stream
+• PCs: Dustin (PC), Triss (PC), Vaunia (PC), Conan (PC), Markus (PC), Grix'Molah (PC)
+• Locais: Clearing in the forest (near the tavern), subterranean stream
+• Informações: A gnarled Treant who asked for help investigating a stream polluted by alien fungus
+. He suspected the source was a nearby cave. He mentioned that the cult wanted to eliminate him and his protecting druid. If the PCs used his acorn, he gave them another; if they purified the stream's source, he gave them a Staff of Flowers
+.
+• Loot: Gave a magic acorn
+. Gave Staff of Flowers to Markus
+.
+--------------------------------------------------------------------------------
+Galin Fiduain (NPC)
+• Sessões:
+    ◦ S01A (2025-01-02) — Investigate a polluted stream
+• PCs: Dustin (PC), Triss (PC), Vaunia (PC), Conan (PC), Markus (PC), Grix'Molah (PC)
+• Locais: Cave
+• Informações: A druid infected by the fungi, who was killed by the party
+. The cult wanted him eliminated to make Borogrove vulnerable
+.
+• Loot: His druid book (given to the taverneiro)
+.
+--------------------------------------------------------------------------------
+Kristryd Splitanvil (NPC)
+• Sessões:
+    ◦ S01B (2025-01-09) — Save a dwarf trapped in a mine
+• PCs: Dustin (PC), Triss (PC), Vaunia (PC), Conan (PC), Markus (PC)
+; (implied party)
+• Locais: Blackstone mine, Cairn Mountains
+• Informações: President of Blackstone, a cleric of Paelor. He was attacked in the mine by a Hook Horror
+. He promised future help and rewards if they returned to the mountains. The PCs talked to him about Greyhawk, Blackstone, and the Cairn Mountains
+.
+• Loot: Promise of future help
+.
+--------------------------------------------------------------------------------
+Thargrin (NPC)
+• Sessões:
+    ◦ S01B (2025-01-09) — Save a dwarf trapped in a mine
+• PCs: Dustin (PC), Triss (PC), Vaunia (PC), Conan (PC), Markus (PC)
+• Locais: Blackstone mine (as a skeleton)
+• Informações: A dwarf skeleton covered in yellow mold
+. His letter to his family was found and returned to Kristryd
+.
+• Loot: His letter
+.
+--------------------------------------------------------------------------------
+Hook Horror (NPC)
+• Sessões:
+    ◦ S01B (2025-01-09) — Save a dwarf trapped in a mine
+• PCs: Dustin (PC), Triss (PC), Vaunia (PC), Conan (PC), Markus (PC)
+; (implied party)
+• Locais: Blackstone mine
+• Informações: Attacked Kristryd in the mine
+. The PCs defeated it
+.
+• Loot: Its teeth (6, given to each PC)
+.
+--------------------------------------------------------------------------------
+Rust Monster (NPC)
+• Sessões:
+    ◦ S01B (2025-01-09) — Save a dwarf trapped in a mine
+• PCs: Dustin (PC), Triss (PC), Vaunia (PC), Conan (PC), Markus (PC)
+• Locais: Blackstone mine
+• Informações: An enemy encountered in the mine
+.
+• Loot: Nenhum
+--------------------------------------------------------------------------------
+Giant Spider (NPC)
+• Sessões:
+    ◦ S01B (2025-01-09) — Save a dwarf trapped in a mine
+• PCs: Dustin (PC), Triss (PC), Vaunia (PC), Conan (PC), Markus (PC)
+• Locais: Blackstone mine
+• Informações: An enemy encountered in the mine
+.
+• Loot: Nenhum
+--------------------------------------------------------------------------------
+Klikz (NPC)
+• Sessões:
+    ◦ S01C (2025-01-15) — Investigate Shadow Wind Valley
+• PCs: (implied party)
+• Locais: Kobold village (Shadow Wind Valley)
+• Informações: A kobold, not infected by fungi
+.
+• Loot: Nenhum
+--------------------------------------------------------------------------------
+Vaelkor Ashbrand (NPC)
+• Sessões:
+    ◦ S01C (2025-01-15) — Investigate Shadow Wind Valley
+    ◦ S02D (2025-01-30) — Investigate kidnappings/caravan attack (goblin camp)
+• PCs: Usopp (PC), Drayl Bharash (PC), Sarvian Midlor (PC)
+• Locais: (Mentioned in letter)
+• Informações: Shaman Jogmaahx's superior. He ordered the Elemental Evil Cult to conquer lands through attacks on camps, cities, and caravans
+. He led the Elemental Evil Cult, believing "fungus will purify the world of weakness"
+.
+• Loot: Nenhum
+--------------------------------------------------------------------------------
+Elemental Earth (NPC)
+• Sessões:
+    ◦ S01C (2025-01-15) — Investigate Shadow Wind Valley
+• PCs: (implied party)
+• Locais: Kobold village (Shadow Wind Valley)
+• Informações: An enemy encountered and defeated
+.
+• Loot: Nenhum
+--------------------------------------------------------------------------------
+Kaldros Veynor (NPC)
+• Sessões:
+    ◦ S01D (2025-01-15) — Reconnaissance of the Neen River area
+    ◦ S02C (2025-01-29) — Investigate rumors of disease in Two Fords
+• PCs: Endouvan (PC), Orianna (PC), Gauthak (PC), Lone Straw (PC), Arkos (PC)
+; Usopp (PC), Drayl Bharash (PC), Wandering Sage (PC), Sarvian Midlor (PC); (group of adventurers)
+• Locais: Neen River banks, Two Fords city
+• Informações: A sophisticated and well-spoken tiefling merchant, traveling from Peculiar Manor to Blackfair Manor with valuable cargo
+. He was ambushed by goblins near the Neen River. He could be convinced to join the fight with a light crossbow. He was encountered in Two Fords, confirming rumors of illness and contamination of the Ery river water. He asked the group to talk to Geralt, the local tavern owner, whose daughter Lila was very ill
+.
+• Loot: Offered 50 GP and promised recommendations to Blackfair Manor nobles if saved
+.
+--------------------------------------------------------------------------------
+Goblins (NPC group)
+• Sessões:
+    ◦ S01D (2025-01-15) — Reconnaissance of the Neen River area
+    ◦ S02D (2025-01-30) — Investigate kidnappings/caravan attack (goblin camp)
+    ◦ S03B (2025-02-13) — Create commercial contacts in Erybend
+    ◦ S04F (2025-03-20) — Kobolds Vermisombra hire group to recover sacred sword and free Krixis
+    ◦ S07C (2025-07-17) — Lady Silvra's inheritance
+• PCs: Usopp (PC), Drayl Bharash (PC), Sarvian Midlor (PC)
+; Endouvan (PC), Orianna (PC), Gauthak (PC), Lone Straw (PC), Arkos (PC); (implied PCs); Kai (PC), Grix (PC), Varus (PC), Triss (PC); (Dustin, Triss, Conan, Markus, Grix, Vaunia); Eldric Silvanus (PC), Silfir (PC), Bok Thunderfist (PC); (implied party)
+• Locais: Goblin camp near a river
+; Neen River banks; Acampamento; Shadow Wind Valley; Forest road to the highlands; Temple entrance
+• Informações: Two groups of two goblins were patrolling a camp
+. One goblin was interrogated, only saying "Nerull... shaman... goblin". The charmed goblin was thrown into a cage with other goblins, who then insulted it. They were being paid by a bandit gang to attack merchants. They ambushed the PCs on a forest road. They attacked Myria and Jeraldina while shouting "In honor of Nerzul!" (Nerull). They ambushed the adventurers in Shadow Wind Valley, shouting "By the Winged God!" and "Tributes for our lord!". They tried to flee to their camp if four were defeated. A captured goblin revealed they were expelled by a young dragon and hoped to be accepted back by offering tributes. They later implored the party to help defeat the dragon and offered information about its lair. Two goblins were vigias (watchmen) at the temple entrance, talking about "Krixis" with fear. One tried to flee to warn others, and revealed the "Orc Chief" was guarding the sword
+.
+• Loot: Goblin weapons
+. Possessed some stolen items, like minor healing potions or copper coins. Looted 34 GP, a limited-use staff, and a handful of fingers
+.
+--------------------------------------------------------------------------------
+Domesticated Wolf (NPC)
+• Sessões:
+    ◦ S01D (2025-01-15) — Reconnaissance of the Neen River area
+• PCs: Endouvan (PC), Orianna (PC), Gauthak (PC), Lone Straw (PC), Arkos (PC)
+• Locais: Neen River banks
+• Informações: Companion of one of the goblins, attacked any approaching adventurer
+.
+• Loot: Nenhum
+--------------------------------------------------------------------------------
+Bugbear Leader (NPC)
+• Sessões:
+    ◦ S01D (2025-01-15) — Reconnaissance of the Neen River area
+• PCs: Endouvan (PC), Orianna (PC), Gauthak (PC), Lone Straw (PC), Arkos (PC)
+• Locais: Neen River banks
+• Informações: Commanded the ambush from afar, attacked only when the second wave of goblins arrived
+. Wielded a spear, targeting vulnerable opponents. He tried to negotiate his freedom, offering information about a goblin camp and revealing that goblins were paid by bandits
+.
+• Loot: Nenhum
+--------------------------------------------------------------------------------
+Syzzin (NPC)
+• Sessões:
+    ◦ S02B (2025-01-23) — Return to Shadow Wind Valley
+• PCs: Markus (PC), Conan (PC), Triss (PC), Dustin (PC), Grix (PC), Vaunia (PC)
+• Locais: Shadow Wind Valley (Kobold village transformed into his lair)
+• Informações: A young red dragon. Kobolds believed he would save them
+. He was sitting on an altar with a red skull and a fireball symbol. He recognized Markus's goddess mark (Wee Jas). He was visibly angry at the mention of the Elemental Evil fungus cult. He found it curious there were so many goliaths, said Dustin had a broken soul, and recognized Triss as the second drow he'd seen. He explained dragons could be born from eggs or brave kobolds, after which Clipse sacrificed himself and was eaten by Syzzin. He bid farewell, saying he might visit the tavern someday. He fought to protect his territory, using his Fire Breath strategically
+.
+• Loot: Small treasure
+. Stolen goods (400 GP value), 4,200 CP, 2,000 SP, 180 GP, seven 50 GP gems, a Healing Potion, a Climbing Rope, two spell scrolls (Alarm and Comprehend Languages)
+.
+--------------------------------------------------------------------------------
+Rix (NPC)
+• Sessões:
+    ◦ S02B (2025-01-23) — Return to Shadow Wind Valley
+• PCs: (implied party)
+• Locais: Kobold camp
+• Informações: A kobold child, who introduced himself as the next in line for sacrifice, after his grandfather had sacrificed himself
+. He provided information: kobolds offer trade and mentioned ore mines to the west with two towers (Two Forts)
+.
+• Loot: Nenhum
+--------------------------------------------------------------------------------
+Geralt (NPC)
+• Sessões:
+    ◦ S02C (2025-01-29) — Investigate rumors of disease in Two Fords
+• PCs: Orianna (PC), Arkos (PC), Lone (PC), Wandering Sage (PC), Endor (PC), Gaulutax (Gauthak) (PC)
+; (group of adventurers)
+• Locais: Two Fords, local tavern
+• Informações: Owner of the local tavern in Two Fords, whose daughter Lila was gravely ill after drinking river water
+. He believed the river was contaminated and implored the PCs to find the source, offering a map to an abandoned mill upstream
+.
+• Loot: Offered a map of the region
+.
+--------------------------------------------------------------------------------
+Elemental Cultists (NPC group)
+• Sessões:
+    ◦ S02C (2025-01-29) — Investigate rumors of disease in Two Fords
+    ◦ S06B (2025-04-10) — Explore Greyhawk city
+    ◦ S06E (2025-04-24) — Assassins guild mission to scout Elemental Evil Cult
+    ◦ S0X ([date inferida]) — "Sombras Sobre a Água"
+• PCs: Orianna (PC), Arkos (PC), Lone (PC), Wandering Sage (PC), Endor (PC), Gaulutax (Gauthak) (PC)
+; (group of adventurers); (implied party)
+• Locais: Abandoned mill (Two Fords)
+; Greyhawk city (secret base); Forest to Miren's Hollow
+• Informações: Three cultists and a leader were performing a ritual in the mill
+. They were planning to weaken regions along the river for a larger attack. They were killed, but their leader escaped. Members seen around Greyhawk. Following them led to a secret base that seemed recently inhabited despite not being new construction. Members include Mage, Vampire Familiar, Cultist Fanatic, Mage Apprentice, also Vampire Spawn. The group destroyed their local chapter base. Three earth elementals (Minor Elementals) were cult minions blocking the path to Miren's Hollow
+.
+• Loot: Each cultist carried small gems (10 gp each)
+. Small cult artifacts
+.
+--------------------------------------------------------------------------------
+Elemental Cult Leader (NPC)
+• Sessões:
+    ◦ S02C (2025-01-29) — Investigate rumors of disease in Two Fords
+• PCs: Orianna (PC), Arkos (PC), Lone (PC), Wandering Sage (PC), Endor (PC), Gaulutax (Gauthak) (PC)
+• Locais: Abandoned mill (Two Fords)
+• Informações: Leader of the three cultists, he fled when attacked
+.
+• Loot: Nenhum
+--------------------------------------------------------------------------------
+Ogre (NPC)
+• Sessões:
+    ◦ S02D (2025-01-30) — Investigate kidnappings/caravan attack (goblin camp)
+• PCs: Usopp (PC), Drayl Bharash (PC), Sarvian Midlor (PC)
+• Locais: Goblin camp near a river
+• Informações: Armed with a wooden club, he was inside the camp next to a cage
+. The party lured him out and drowned him in the river using illusions and a sleep spell
+.
+• Loot: Nenhum
+--------------------------------------------------------------------------------
+Goblin Shaman (Jogmaahx) (NPC)
+• Sessões:
+    ◦ S02D (2025-01-30) — Investigate kidnappings/caravan attack (goblin camp)
+• PCs: Usopp (PC), Drayl Bharash (PC), Sarvian Midlor (PC)
+• Locais: Goblin camp, next to an altar
+• Informações: Was next to an altar with blood and bones
+. He summoned two zombies during the fight. Drayl found a letter on his body from Vaelkor Ashbrand, detailing the Elemental Evil Cult's plan to conquer lands. He was performing a ritual for Nerull
+.
+• Loot: Letter from Vaelkor Ashbrand
+.
+--------------------------------------------------------------------------------
+Nerull (NPC)
+• Sessões:
+    ◦ S02D (2025-01-30) — Investigate kidnappings/caravan attack (goblin camp)
+    ◦ S03A (2025-01-30) — Investigate Mistwood
+    ◦ S03B (2025-02-13) — Create commercial contacts in Erybend
+    ◦ S04E (2025-03-13) — Open commercial negotiations in Erybend (Nerzul cult)
+    ◦ S0X ([date inferida]) — "O Eclipse de Vauria"
+• PCs: (implied PCs)
+; Markus (PC), Grix (PC)
+• Locais: Goblin camp altar
+; Mistwood (chapel, central square)
+• Informações: God of Death, in whose honor goblins were performing rituals
+. Goblins shouted "In honor of Nerzul!" (Nerull). A diary entry detailed plans to spread Nerull's plague to Erybend and other cities, using chaos and death as tools. Also mentioned his cult's patience with the Blackfair Manor couple being at its limit due to their slowness in preparations. He is a god of death, associated with decay. His altar in Mistwood chapel was adorned with skull symbols and scythes; his statue was an undead skeleton. His cult aimed to transform suffering into power for him. Wee Jas is his enemy. His altar was destroyed by Grix using Titania's staff. Beltar revealed to Dustin that Nerull needed to be destroyed due to excessive power
+.
+• Loot: Nenhum (as a deity).
+--------------------------------------------------------------------------------
+Zombies (NPC group)
+• Sessões:
+    ◦ S02D (2025-01-30) — Investigate kidnappings/caravan attack (goblin camp)
+    ◦ S03A (2025-01-30) — Investigate Mistwood
+    ◦ S0X ([date inferida]) — "O Eclipse de Vauria"
+• PCs: Usopp (PC), Drayl Bharash (PC), Sarvian Midlor (PC)
+; (implied party)
+• Locais: Goblin camp
+; Mistwood (tavern, central square); Catacombs
+• Informações: Two zombies were summoned by the Goblin Shaman; they were weakened but didn't die when the shaman was defeated
+. Five zombies (infected villagers) attacked in "Última Folha" tavern. Others emerged from behind food stalls in the central square. Their illusion was broken, revealing them as dead for months. One zombie was still standing after Morvanya's defeat but turned to dust when Conan destroyed her staff. Found in catacombs
+.
+• Loot: Nenhum
+--------------------------------------------------------------------------------
+Wee Jas (NPC)
+• Sessões:
+    ◦ S03A (2025-01-30) — Investigate Mistwood
+• PCs: Markus (PC)
+• Locais: (Dream/vision realm)
+• Informações: Goddess of Magic and Death, associated with law and magic. Her symbol is an attractive woman with a skull
+. She appeared to Markus in a vision as an imposing, beautiful woman with dark hair and red eyes. She chose Markus because he sought to understand the incomprehensible, not for power. She commanded him to transform Nerull's altar into one for Titania, purifying the land, as Nerull's disorder disrupted the balance she maintained. She is an enemy of Nerull
+.
+• Loot: Granted Markus new insights into arcane and dark mysteries
+. Gave Markus a stamp with her symbol
+.
+--------------------------------------------------------------------------------
+Morvanya (NPC)
+• Sessões:
+    ◦ S03A (2025-01-30) — Investigate Mistwood
+• PCs: Triss (PC), Dustin (PC), Conan (PC), Markus (PC), Grix (PC), Vaunia (PC)
+• Locais: Mistwood (central square)
+• Informações: Acolyte of Nerull, Servant of the Eternal Scythe
+. She was tall, powerful, wore a silver death mask, a red torn dress, and had hair flowing in a wind that only affected her. She monopolized Mistwood as an experiment to convert suffering into power for Nerull. She was Vaunia's best friend, Manvea, who committed suicide. She bit a cyanide molar and died after being defeated and healed by Dustin. Her letter detailed the Elemental Evil Cult's plans to spread the fungal plague to Erybend and other cities. She led a Bone Golem, zombies, and other creatures. She hated the Blackfair Manor couple for their slowness in Nerull preparations. She was possibly Aurkan, a friend of Macarena, transformed into a warforged cyborg by the cult
+.
+• Loot: Her letter
+. Her silver death mask (half broken)
+.
+--------------------------------------------------------------------------------
+Egalar (NPC)
+• Sessões:
+    ◦ S03A (2025-01-30) — Investigate Mistwood
+• PCs: Grix (PC)
+• Locais: (Dream realm)
+• Informações: Paladin of Titania, her champion and voice in the terrestrial world
+. He appeared to Grix in a dream as a serious but compassionate figure in silver armor, wielding a staff of living wood. He gave Grix a mission to transform Nerull's altar into one for Titania, purifying the land, promising that vines and flowers would grow, trapping the dead in renewed life. He was Titania's envoy, expected to contact Ricardo Guerra's character with details about eliminating elemental evil cult altars
+.
+• Loot: Staff of Flowers
+.
+--------------------------------------------------------------------------------
+Gigante Bone Golem (NPC)
+• Sessões:
+    ◦ S03A (2025-01-30) — Investigate Mistwood
+• PCs: Conan (PC), Dustin (PC), Grix (PC)
+• Locais: Mistwood (central square)
+• Informações: Morvanya's bodyguard, constructed from the remains of villagers
+. He appeared as a "bonegoblin" in the central square. He seemed to regenerate but dissolved into dust when Morvanya's staff was destroyed
+.
+• Loot: Nenhum
+--------------------------------------------------------------------------------
+Kythria (NPC)
+• Sessões:
+    ◦ S01D (2025-01-15) — Reconnaissance of the Neen River area
+    ◦ S03B (2025-02-13) — Create commercial contacts in Erybend
+    ◦ S0X (2025-03-20) [inferido] — "Dandan e os 40 Kobolds"
+• PCs: Lone Straw (PC)
+; Grix (PC), Vaunia (PC), Gauthak (PC), Friedrick 'Freddy' Junsi (PC), Ustrax (PC); Kai (PC), Grix (PC), Varus (PC), Triss (PC)
+• Locais: Tavern
+• Informações: Taberneiro's niece, offered a job with a reward regarding a cat
+. She recruited the group for a mission to create commercial contacts in Erybend and open routes to Blackfair Manor and Two Fords. She asked the group for help to recover the magic sword of Viltrix the Just, stolen from Bernagrade
+.
+• Loot: Nenhum
+--------------------------------------------------------------------------------
+Myria (NPC)
+• Sessões:
+    ◦ S03B (2025-02-13) — Create commercial contacts in Erybend
+    ◦ S03C (2025-02-20) — Help Dolrea Vas in Erybend
+    ◦ S03F (2025-03-06) — Escort goods to Blackfair Manor
+• PCs: Kai (PC), Grix (PC), Varus (PC), Triss (PC)
+; Flynn (PC); (implied party)
+• Locais: Merchant camp
+; Erybend; (Implied path to Blackfair Manor)
+• Informações: A dwarf merchant. She and Jeraldina mentioned disturbances and attacks at the camp
+. They lent the party a tent to rest. She was one of the NPCs to be received by the butler Alaric at Blackfair Manor
+.
+• Loot: Nenhum
+--------------------------------------------------------------------------------
+Jeraldina (NPC)
+• Sessões:
+    ◦ S03B (2025-02-13) — Create commercial contacts in Erybend
+    ◦ S03C (2025-02-20) — Help Dolrea Vas in Erybend
+    ◦ S03F (2025-03-06) — Escort goods to Blackfair Manor
+• PCs: Kai (PC), Grix (PC), Varus (PC), Triss (PC)
+; Flynn (PC); (implied party)
+• Locais: Merchant camp
+; Erybend; (Implied path to Blackfair Manor)
+• Informações: A half-orc merchant. She and Myria mentioned disturbances and attacks at the camp
+. They lent the party a tent to rest. She gave Grix 3 pies for the party to eat. She was one of the NPCs to be received by the butler Alaric at Blackfair Manor
+.
+• Loot: Gave 3 pies to Grix
+.
+--------------------------------------------------------------------------------
+Winged Kobold (NPC)
+• Sessões:
+    ◦ S03B (2025-02-13) — Create commercial contacts in Erybend
+• PCs: Kai (PC), Grix (PC), Varus (PC), Triss (PC)
+• Locais: Merchant camp
+• Informações: Attacked with other kobolds, shouting "In honor of Nerzul!" (Nerull)
+.
+• Loot: Nenhum
+--------------------------------------------------------------------------------
+Kobold Knight of Light (NPC)
+• Sessões:
+    ◦ S03B (2025-02-13) — Create commercial contacts in Erybend
+• PCs: Kai (PC)
+• Locais: Merchant camp
+• Informações: Kai recognized him and asked him to hide. During interrogation, he mentioned Torzac, the kobold leader, loved Nerzul (Nerull), then committed suicide
+.
+• Loot: Nenhum
+--------------------------------------------------------------------------------
+Torzac (NPC)
+• Sessões:
+    ◦ S03B (2025-02-13) — Create commercial contacts in Erybend
+    ◦ S0X ([date inferida]) — "Sombras sobre Erybend"
+• PCs: Nenhum (mentioned only)
+• Locais: Erybend
+• Informações: Leader of the kobolds, loved Nerzul (Nerull)
+. A brutal warrior devoted to Nerull, leading bandits
+.
+• Loot: Nenhum
+--------------------------------------------------------------------------------
+Lady Sombria (NPC)
+• Sessões:
+    ◦ S03B (2025-02-13) — Create commercial contacts in Erybend
+• PCs: Nenhum (mentioned only)
+• Locais: Blackfair Manor (mentioned in a ticket)
+• Informações: Her return was mentioned in a ticket found on an enemy
+.
+• Loot: Nenhum
+--------------------------------------------------------------------------------
+Dolrea Vas (NPC)
+• Sessões:
+    ◦ S03C (2025-02-20) — Help Dolrea Vas in Erybend
+    ◦ S04E (2025-03-13) — Open commercial negotiations in Erybend (Nerzul cult)
+    ◦ S0X ([date inferida]) — "Sombras sobre Erybend"
+• PCs: Kai (PC), Grix (PC), Varus (PC), Flynn (PC), Triss (PC)
+; (implied party)
+• Locais: Erybend (park)
+• Informações: A half-elf merchant who received the adventurers in Erybend
+. He was interested in establishing trade routes with Greyhawk but was concerned about recent disturbances and disappearances in the city. He suspected cultists of Odrak. His name was on a list of 7 names, indicating he was the next target. The cult planned to kidnap him to destabilize negotiations
+.
+• Loot: Nenhum
+--------------------------------------------------------------------------------
+Odrak (NPC)
+• Sessões:
+    ◦ S03C (2025-02-20) — Help Dolrea Vas in Erybend
+(mentioned)
+    ◦ S04E (2025-03-13) — Open commercial negotiations in Erybend (Nerzul cult)
+    ◦ S0X ([date inferida]) — "Sombras sobre Erybend"
+• PCs: (implied party)
+• Locais: Ancient abandoned temple (Erybend)
+• Informações: Leader of a group of hooded figures, suspected to be cultists of Odrak
+. Fanatic of the Elemental Evil Cult. His ritual was prevented. He was at the central altar, performing a dark ritual to increase Nerull's power
+.
+• Loot: Nenhum
+--------------------------------------------------------------------------------
+Bullywugs (NPC group)
+• Sessões:
+    ◦ S03D (2025-02-13) — Explore southern caves
+    ◦ S0X ([date inferida]) — "A Rota da Cia: Sangue e Ouro no Pântano"
+• PCs: Conan (PC), Dustin (PC)
+• Locais: Mystic swamp, Bullywug village
+; Mistmarsh swamp
+• Informações: The local population attacked by a basilisk cub
+. Conan knew Cocas, a bullywug friend since childhood. They were influenced by the Elemental Evil Cult, transforming an open-pit mine into a gladiator pit. They were described as violent and fanatic. They made bets and sacrifices in the arena. The group could attempt diplomacy to make them break from the cult
+.
+• Loot: Nenhum
+--------------------------------------------------------------------------------
+Cocas (NPC)
+• Sessões:
+    ◦ S03D (2025-02-13) — Explore southern caves
+• PCs: Conan (PC)
+• Locais: Bullywug village
+• Informações: A bullywug, Conan's childhood friend
+. He led the group to his village and introduced them to Chief Yoda
+.
+• Loot: Nenhum
+--------------------------------------------------------------------------------
+Mestre Yoda (NPC)
+• Sessões:
+    ◦ S03D (2025-02-13) — Explore southern caves
+• PCs: Conan (PC)
+• Locais: Bullywug village
+• Informações: Chief of the bullywug population. He reported an attack by a basilisk cub and tasked the group to kill the progenitor basilisk
+.
+• Loot: Nenhum
+--------------------------------------------------------------------------------
+Basilisco Progenitor (NPC)
+• Sessões:
+    ◦ S03D (2025-02-13) — Explore southern caves
+• PCs: Conan (PC)
+• Locais: Southern caves, third temple
+• Informações: A petrifying beast that scourged the swamp
+. The PCs were tasked with killing him. They found and defeated him
+.
+• Loot: Basilisk eye
+.
+--------------------------------------------------------------------------------
+Thoren (NPC)
+• Sessões:
+    ◦ S0X (202

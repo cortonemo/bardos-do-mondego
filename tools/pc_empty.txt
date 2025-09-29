@@ -1,0 +1,83 @@
+# PC Name
+
+
+| ![image1](assets/pc/pc_blank.png){ width=200 } |
+| ---------------------------------------------- |
+
+make as many column as there are images in the reference file
+
+---
+
+**[DM-ONLY – Não incluir na Wiki]**  
+
+| Português                                                                    | English                                                |
+| --------------------------------------------------------- | ---------------------------------------- |
+| **Jogador:** [por preencher]                                      | **Player:**  [to be filled]                      |
+| **Idade:** [por preencher]                                          | **Age:**   [to be filled]                        |
+| **Contacto:** [por preencher]                                    | **Contact:**  [to be filled]                   |
+| **Instagram:** [por preencher]                                   | **Instagram:**  [to be filled]               |
+| **Discord:** [por preencher]                                       | **Discord:**  [to be filled]                   |
+| **Ficha D&D Beyond:** [por preencher]                     | **D&D Beyond Sheet:**  [to be filled |
+
+**[DM-ONLY – Não incluir na Wiki]**  
+
+---
+
+| **🧙 Personagem**                | **🧙 Character**               |
+| -------------------------------- | ------------------------------ |
+| **Nome**: [por preencher]        | **Name**:  [to be filled]      |
+| **Espécie**:  [por preencher]    | **Species**:  [to be filled]   |
+| **Classe**:  [por preencher]     | **Class**:  [to be filled]     |
+| **Alinhamento**: [por preencher] | **Alignment**: [to be filled]  |
+| **Background**: [por preencher]  | **Background**: [to be filled] |
+| **Idade**: [por preencher]       | **Age**: [to be filled]        |
+| **Altura**: [por preencher]      | **Height**: [to be filled]     |
+| **Olhos**: [por preencher]       | **Eyes**: [to be filled]       |
+| **Cabelo**: [por preencher]      | **Hair**: [to be filled]       |
+| **Pele**: [por preencher]        | **Skin**: [to be filled]       |
+| **Tamanho**:  [por preencher]    | **Size**:  [to be filled]      |
+
+---
+
+| **📜 Descrição Física** | **📜 Physical Description** |
+| ----------------------- | --------------------------- |
+| [a preencher]           | [to be filled]              |
+
+---
+
+| **⚔️ Itens**             | **⚔️ Items**                         |
+| ---------------------- | ------------------------------ |
+| **Armadura/Escudo:** [por preencher] | **Armor/Shield:**[to be filled]  |
+| *Armas:** [por preencher | **Weapons:** [to be filled] |
+| **Items mágicos:** [por preencher] | Magical Items:** [to be filled] |
+| **Potions:** [por preencher] |**Potions:**[to be filled] |
+| **Items não mágicos:** [por preencher]  | **Non-magical Items:** [to be filled]] |
+| **Ouro:** [por preencher] | **Gold:** [to be filled] |
+
+---
+
+| **📖 História – Antes da Taberna** | **📖 Story – Before the Tavern** |
+| ---------------------------------- | -------------------------------- |
+| [por preencher]                    |  [to be filled]                  |
+
+---
+
+| **📖 História – Depois da Taberna** | **📖 Story – After the Tavern** |
+| ----------------------------------- | -------------------------------- |
+| [por preencher]                     | [to be filled]                 |
+
+---
+
+| **🎭 Dramatis Persona** | **🎭 Dramatis Persona**     |
+| ---------------------------------------------------------- | ---------------------------------------------------- |
+| **NPCs de influência direta:**  <br>- [por preencher] | **Direct Influence NPCs:**  <br>- [to be filled]   |
+| **Antagonistas:**  <br>- [por preencher]<br> | Antagonists:**  <br>-[to be filled]   |
+| *Aliados:**  <br>- [por preencher] | **Allies:**  <br>-[to be filled]   |
+
+---
+
+| **🔮 OBS** | **🔮 Notes** |
+| ---------- | ------------ |
+| [por preencher]   | [por preencher]     |
+
+---

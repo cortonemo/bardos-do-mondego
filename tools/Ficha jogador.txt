@@ -1,0 +1,275 @@
+Here’s the **merged prompt**, keeping everything explicit and structured, combining both sources cleanly while removing redundancies and keeping the rules very clear.
+
+---
+
+# 📜 Prompt Mestre Final – Geração de Ficha Completa de PC
+
+**Objetivo:**
+Gerar a ficha completa de um **PC (Player Character)** para a wiki da campanha *Bardos do Mondego – West Marches Greyhawk*, no formato `pc_empty.md`.
+
+A saída final deve ser um único bloco em Markdown, pronto para colar na wiki, seguindo rigorosamente a estrutura do template.
+
+---
+
+## ⚙️ **Fontes de Dados a Usar**
+
+1. **Ficha Base do PC:**
+
+   * `allPCs.txt`
+
+2. **Sessões e Linha Temporal:**
+
+   * `greyhawk_sessions_complete.md`
+   * `sessions.txt`
+   * `resumo_dos_acontecimentos_season_01_Campanha_west_marches.txt`
+
+3. **Interações e Loot:**
+
+   * `lista_dos_pc_ e_suas_interaccoes.txt`
+   * `lista_dos_npc_ e_suas_interaccoes.txt`
+
+4. **Lore e Background:**
+
+   * `Tales from The Great Tavern.txt`
+   * `Named Beings and Groups of the Realms.txt`
+   * `Gazetteer of Worlds and Realms.txt`
+
+5. **Estrutura de Ligações (Cross-links):**
+
+   * `docs_structure.txt`
+
+     * `../pc/nome.md` para PCs
+     * `../npc/nome.md` para NPCs
+     * `../organizations/nome.md` para Organizações
+     * `../locations/nome.md` para Locais
+   * Se não existir página, deixar como texto simples sem link.
+
+6. **Imagens:**
+
+   * Procurar primeiro em `allPCs.txt`.
+   * Caso não exista imagem listada, usar `pc_blank.png`.
+   * Se for fornecida **imagem específica** (ex: `.png` do HeroForge), esta será usada para:
+
+     * Preencher o campo visual no topo da ficha.
+     * Detalhar a **Descrição Física**, inferindo olhos, pele, cabelo, roupas, postura.
+
+---
+
+## 📌 **Regras de Preenchimento**
+
+### 1. Estrutura
+
+* Usar exatamente o formato do `pc_empty.md`.
+* Nunca omitir seções.
+* Se não houver informação, preencher com `[por preencher]`.
+
+---
+
+### 2. Dados do Jogador (DM-ONLY)
+
+* Preencher **apenas se explícito** nos ficheiros:
+
+  * Nome real, idade, contacto, Instagram, Discord, link D&D Beyond.
+* Caso ausente, usar `[por preencher]`.
+* Nunca inventar informações.
+* Esta secção **não aparece na wiki pública**, é só para DM.
+
+---
+
+### 3. Itens (⚔️ Itens)
+
+* Basear-se em `allPCs.txt` + listas de interações/loot.
+* Quando existir item mágico no D&D Beyond:
+
+  * Transformar em hyperlink, ex:
+    `[Cloak of Protection](https://www.dndbeyond.com/magic-items/cloak-of-protection)`
+* Se não existir link oficial, deixar texto simples.
+* Separar em: **Armadura/Escudo**, **Armas**, **Items mágicos**, **Poções**, **Items não mágicos**, **Ouro**.
+
+---
+
+### 4. História
+
+* **Antes da Taberna (Backstory):**
+
+  * Usar lore e backstory explícito ou inferido de contexto histórico.
+  * Caso inferido, marcar:
+    `**(Inferido com base nas sessões)**`.
+  * Caso não exista informação, `[por preencher]`.
+
+* **Depois da Taberna (Eventos em Sessão):**
+
+  * Reconstruir narrativa cronológica baseada nos registos de sessão.
+  * Incluir datas, locais, NPCs, loot importante, missões.
+  * Sempre que possível, usar cross-links para locais e NPCs.
+
+---
+
+### 5. Dramatis Persona
+
+* Três subgrupos:
+
+  * **NPCs de Influência Direta** (mentores, patrões, rivais)
+  * **Antagonistas**
+  * **Aliados**
+* Sempre usar cross-links definidos em `docs_structure.txt`.
+* Se a página não existir, deixar em texto simples.
+
+---
+
+### 6. Observações (OBS / Notes)
+
+* Incluir informações especiais:
+
+  * Maldições
+  * Condições permanentes
+  * Bênçãos
+  * Segredos
+  * Itens narrativos importantes
+  * Inferências relevantes
+
+---
+
+### 7. Descrição Física (📜 Descrição Física)
+
+* Campos obrigatórios:
+
+  * Olhos, cabelo, pele, altura, aparência.
+* Quando houver imagem:
+
+  * Descrever cores, roupas, postura com base na imagem.
+* Após o quadro principal, criar uma secção detalhada:
+
+```markdown
+| **📜 Descrição Física** | **📜 Physical Description** |
+| ----------------------- | --------------------------- |
+| [texto em PT]           | [texto em EN]              |
+```
+
+Esta secção deve expandir com impressões e detalhes simbólicos.
+
+---
+
+### 8. Imagens no Topo
+
+* Mostrar todas as imagens do PC encontradas na referência.
+* Se existir apenas uma, usar só uma coluna.
+* Exemplo:
+
+```markdown
+| ![pc_nome](assets/pc/pc_nome.png){width=300} |
+| -------------------------------------------- |
+```
+
+---
+
+## 🧮 **Fluxo de Trabalho**
+
+1. Receber nome do PC.
+2. Procurar dados em **todas as fontes listadas**.
+3. Validar cross-links com `docs_structure.txt`.
+4. Extrair:
+
+   * Dados básicos do PC
+   * Itens
+   * Eventos pós-Taberna
+   * Backstory pré-Taberna
+   * Interações com NPCs/PCs
+5. Montar saída no formato bilíngue.
+6. Incluir sempre a secção **DM-ONLY** no topo (antes das imagens).
+7. Garantir consistência em nomes, links e placeholders.
+8. Apresentar resultado como **um único bloco Markdown**.
+
+---
+
+## 📤 **Formato Final da Saída**
+
+```markdown
+# Nome do PC
+
+| ![pc_nome](assets/pc/pc_nome.png){width=300} |
+| -------------------------------------------- |
+
+---
+
+**[DM-ONLY – Não incluir na Wiki]**
+
+| Português | English |
+| ---------- | ------- |
+| **Jogador:** [por preencher] | **Player:** [to be filled] |
+| **Idade:** [por preencher] | **Age:** [to be filled] |
+| **Contacto:** [por preencher] | **Contact:** [to be filled] |
+| **Instagram:** [por preencher] | **Instagram:** [to be filled] |
+| **Discord:** [por preencher] | **Discord:** [to be filled] |
+| **Ficha D&D Beyond:** [por preencher] | **D&D Beyond Sheet:** [to be filled] |
+
+---
+
+| **🧙 Personagem** | **🧙 Character** |
+| ---------------- | ---------------- |
+| **Nome:** [por preencher] | **Name:** [to be filled] |
+| **Espécie:** [por preencher] | **Species:** [to be filled] |
+| **Classe:** [por preencher] | **Class:** [to be filled] |
+| **Alinhamento:** [por preencher] | **Alignment:** [to be filled] |
+| **Background:** [por preencher] | **Background:** [to be filled] |
+| **Idade:** [por preencher] | **Age:** [to be filled] |
+| **Altura:** [por preencher] | **Height:** [to be filled] |
+| **Olhos:** [por preencher] | **Eyes:** [to be filled] |
+| **Cabelo:** [por preencher] | **Hair:** [to be filled] |
+| **Pele:** [por preencher] | **Skin:** [to be filled] |
+| **Tamanho:** [por preencher] | **Size:** [to be filled] |
+
+---
+
+| **📜 Descrição Física** | **📜 Physical Description** |
+| ----------------------- | --------------------------- |
+| [por preencher] | [to be filled] |
+
+---
+
+| **⚔️ Itens** | **⚔️ Items** |
+| ------------ | ------------ |
+| **Armadura/Escudo:** [por preencher] | **Armor/Shield:** [to be filled] |
+| **Armas:** [por preencher] | **Weapons:** [to be filled] |
+| **Items mágicos:** [por preencher] | **Magical Items:** [to be filled] |
+| **Poções:** [por preencher] | **Potions:** [to be filled] |
+| **Items não mágicos:** [por preencher] | **Non-magical Items:** [to be filled] |
+| **Ouro:** [por preencher] | **Gold:** [to be filled] |
+
+---
+
+| **📖 História – Antes da Taberna** | **📖 Story – Before the Tavern** |
+| ---------------------------------- | -------------------------------- |
+| [por preencher] | [to be filled] |
+
+---
+
+| **📖 História – Depois da Taberna** | **📖 Story – After the Tavern** |
+| ----------------------------------- | -------------------------------- |
+| [por preencher] | [to be filled] |
+
+---
+
+| **🎭 Dramatis Persona** | **🎭 Dramatis Persona** |
+| ------------------------ | ----------------------- |
+| **NPCs de influência direta:** <br>- [por preencher] | **Direct Influence NPCs:** <br>- [to be filled] |
+| **Antagonistas:** <br>- [por preencher] | **Antagonists:** <br>- [to be filled] |
+| **Aliados:** <br>- [por preencher] | **Allies:** <br>- [to be filled] |
+
+---
+
+| **🔮 OBS** | **🔮 Notes** |
+| ---------- | ------------ |
+| [por preencher] | [to be filled] |
+
+```
+
+---
+
+## 🚀 **Comando de Exemplo**
+
+> **Input:**
+> `Gerar ficha completa em Markdown para [NOME_DO_PC]`
+
+> **Output:**
+> Um único bloco Markdown, com todos os campos preenchidos, links corretos, imagens validadas, e placeholders `[por preencher]` onde não houver dados.

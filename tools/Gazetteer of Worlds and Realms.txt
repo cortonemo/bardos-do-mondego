@@ -1,0 +1,170 @@
+The documents provided reference a variety of locations, primarily within the world of Greyhawk and its surrounding regions, as well as some other significant realms.
+Here are the locations mentioned:
+I. Within the World of Greyhawk (Flanaess)
+:
+• Greyhawk City: A central hub known for commerce, political intrigue, and adventure
+. It is also referred to as Grayhawk
+.
+    ◦ Artisans' Quarter: A district in Greyhawk City where the Great Tavern is now located
+.
+    ◦ Carpenters Guildhall: A guildhall located near the Great Tavern in the Artisans' Quarter
+.
+    ◦ The Wharf: A district in Greyhawk City
+.
+        ▪ Dockers' and Wharfmen's Union Hall
+.
+        ▪ Pilots' & Seamen's Guildhall
+.
+        ▪ The Free Traders office & warehouse
+.
+    ◦ High Quarter: A district in Greyhawk City
+.
+        ▪ Wizards' Guildhall
+.
+    ◦ River Quarter: A district in Greyhawk City
+.
+        ▪ Mercenaries' Guildhall
+.
+        ▪ Moneychangers' Guildhall
+.
+        ▪ Cartographers' Guildhall
+.
+        ▪ Sages' Guildhall
+.
+        ▪ Translators' Guildhall
+.
+    ◦ Clekburg: A location within Greyhawk (or a district)
+.
+        ▪ Jewelers and Gemcutters Guildhall
+.
+    ◦ Artisans's Quarter: A district in Greyhawk City
+.
+        ▪ Guildhall of Architects and Stonemasons
+.
+        ▪ Guildhall of the Performing Artistes
+.
+        ▪ Guildhall of the Carpenters
+.
+        ▪ Guildhall of Leatherworkers, Weavers, and Tailors
+.
+        ▪ Nine of Swords (for blacksmith licenses)
+.
+    ◦ Slum Quarter: A district in Greyhawk City
+.
+        ▪ Merchants and Traders Guildhall and Livery
+.
+        ▪ Assassins' Guildhall
+.
+        ▪ Guildhall of the Beggars' Union
+.
+    ◦ Thieves's Quarter: A district in Greyhawk City
+.
+        ▪ Great Hall of the Thieves Guild
+.
+    ◦ Hell's Outcasts: A specific location (perhaps a tavern or establishment) within Greyhawk City
+.
+• Flanaess: The most detailed region of Greyhawk, encompassing various geographical features
+.
+• Hardby: A famous port city known for exotic goods
+.
+• Dyvers: A city known for its merchants and rivalry with Greyhawk
+.
+• Território Bandit (Bandit Territory): A dangerous region
+.
+• Vale Vesve: Another dangerous region
+.
+• Mar de Poeira (Sea of Dust): The remains of an ancient destroyed empire
+.
+• Grimm Wagon's Rest: A destroyed and abandoned warehouse located two days east of Greyhawk
+.
+• Orefield: An abandoned mining camp located in the hills east of Greyhawk
+.
+• Thalos: The home city of the matriarchal Zaraleth warrior order, where Raylahn was born
+.
+• Orianna's Village: The village where Orianna lived as a farmer with her parents
+.
+• Blackstone: A village whose mayor, Kristryd Splitanvil, hired adventurers
+.
+    ◦ Mine (Blackstone): A mine connected to an Underdark tunnel
+.
+• High Ery: A village where a stream is being polluted by an alien fungus
+.
+    ◦ Wood (near High Ery): A small wood from which the polluted stream flows
+.
+    ◦ Cave (near High Ery): The source of the pollution, containing an alien fungus
+. This cave uses the "Underdark Warrens" map
+.
+• Diamond Lake: A remote mining village
+. Raylahn also visited it for a liquor fair
+.
+• Cairn Hills: Hills where kobolds are causing trouble
+.
+• Volcanic Caves: Used as the map for the Red Dragon Wyrmling's lair
+.
+• Vale de Lytharien: A sacred valley located south of Greyhawk, home to a unicorn and protected by kobolds
+.
+    ◦ Temple (Lytharien Valley): An ancient, ruined temple within the valley
+.
+• Mistwood: A commercial village to the north (or north-east, depending on context from other documents), which became an experiment for the Cult of Elemental Evil, infested with necromancy and zombies
+.
+    ◦ The Last Leaf Tavern (Mistwood): The local tavern in Mistwood
+.
+    ◦ Chapel (Mistwood): A small chapel, originally dedicated to Pelor, converted into an altar for Nerull
+.
+    ◦ Clearing (Mistwood): A clearing near Mistwood where Vaunia performs a ritual
+.
+• Goblin Camp: A camp located in a clearing with dense trees and a small stream, featuring an altar to Nerull and holding slaves
+.
+• Two Fords: Mentioned as a point of origin for a commercial caravan and where goblins are preparing for the Cult of Elemental Evil
+.
+• Erybend: A city that the Cult of Elemental Evil plans to target as part of a larger campaign
+.
+• Northern Mines: Mines that need to be purified for archaeological work by the Cult of Elemental Evil
+.
+• Shadow Valley: A valley where powerful magic emanates, needing to be cleared
+.
+• Blackfrair Mansion: A mansion where a noble, Asdrobal Blackfair, performed a sacrifice ritual to Nerull, and where Markus Grimm was brought back to life
+.
+• Ancestral Temple: An abandoned temple where Krixis the Brave was cursed, and the Sword of Krixis was stolen
+.
+• The Great Castle of Greyhawk: The primary setting for the "West Marches" campaign
+.
+II. Other Planes/Realms/Worlds:
+• Abyss: A portal to this plane was unleashed in the mine at Orefield
+.
+• Feywild: A magical plane, the origin of Eirwen, and the location of the Boreal Ball
+.
+    ◦ Feywild Ice Palace: The specific location of the Boreal Ball
+.
+• Underdark: A vast subterranean realm, connected to the mine in Blackstone
+.
+    ◦ Underdark Warrens: A map used for the corrupted cave in the "Fouled Stream" adventure, implying a connection to the Underdark
+.
+• Upper Planes: The celestial realms through which the River Oceanus flows
+.
+• River Oceanus: A river flowing through the Upper Planes, significant as the only place where the Horns of the Beast artifact can be destroyed
+.
+• Eberron: A distinct D&D campaign setting, mentioned as the world where Zilargo is located
+.
+    ◦ Zilargo (Eberron): A gnomish nation in Eberron, where Friedrick Junsi's farm was located
+.
+• Realm of Conan's Frog Tribe: A magical forest and swamp where Conan was found and raised by a tribe of ancient frogs
+.
+• Unnamed Pirate Island: The island where Usopp grew up, his father was a pirate, and his mother died
+.
+• Alabasta: A kingdom described as a "Middle Eastern type kingdom" in Usopp's backstory
+.
+• Sky Island: An island that Usopp visited in his past
+.
+• Unnamed Valley: The location of Wandering Sage's tiny village
+.
+• Ancient Crypt: Discovered in Ketrich Flavifer's family house cellar, where he met his patron
+.
+• Cursed Museum: Where Ketrich Flavifer was saved by adventurers
+.
+III. The Great Tavern (Multidimensional Entity):
+• The Great Tavern: A multidimensional entity that "recruits" deceased adventurers and serves as a central hub
+. It currently resides in the Artisan Quarter of Greyhawk City
+.
+• Bastion: A term used for a player-created base or stronghold, like the "Dragon Arcana Co." formed by Wagner, Drayl, and Raylahn
+.

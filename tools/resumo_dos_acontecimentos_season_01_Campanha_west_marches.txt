@@ -1,0 +1,916 @@
+Aqui está um jornal de bordo estruturado para a campanha West Marches em Greyhawk, integrando as informações dos ficheiros fornecidos e da linha temporal.
+--------------------------------------------------------------------------------
+Jornal de Bordo da Campanha West Marches em Greyhawk
+Sessões
+998 CY, 15 de Patchwall (2025-01-02) S01A: Riacho Poluído e o Fungo Elemental
+• Descrição: Um grupo de aventureiros investiga um riacho poluído perto de High Ery, a pedido do Taberneiro, que suspeita de uma contaminação. No local, encontram Borogrove, um Treant que lhes pede ajuda. Descobrem que o riacho e uma caverna próxima estão infestados por um fungo alienígena, obra do Culto do Mal Elemental. Confrontam e matam Galin Fiduain, um druida que havia sido corrompido pelo fungo.
+• PCs: Dustin (PC), Triss (PC), Vaunia (PC), Conan (PC), Markus Grimm (PC), Grix'Molah (PC)
+• NPCs: Taverneiro (NPC), Borogrove (Treant) (NPC), Galin Fiduain (Druida) (NPC)
+• Localizações: Taberna (base), High Ery (vila) [inferido], Riacho (rio), Caverna (gruta)
+• Objetos Descobertos:
+    ◦ Livro do druida (entregue ao Taverneiro)
+    ◦ Bolota mágica (Vaunia)
+• Loot:
+    ◦ Cajado das Flores (Markus Grimm)
+    ◦ 10 moedas de ouro (Grix'Molah)
+    ◦ 3 gemas (1 Conan, 2 Triss)
+    ◦ Faca de prata (Triss)
+• Informações Relevantes:
+    ◦ O fungo do Culto do Mal Elemental é telepático, comunicando entre si de forma latente
+.
+    ◦ Markus Grimm subiu de nível, juntamente com Dustin, Triss, Vaunia, Conan e Grix'Molah
+.
+    ◦ Alguns PCs comeram cogumelos na taberna após a missão
+.
+998 CY, 28 de Patchwall (2025-01-09) S02A: Resgate na Mina de Obsidiana
+• Descrição: O Taverneiro tem uma visão de um anão preso numa mina e recruta um grupo para o resgatar. Os aventureiros são teleportados para uma mina de obsidiana, onde encontram o esqueleto de um anão, Thargrin, com uma carta de despedida à família. Prosseguem, enfrentam um Hook Horror e um Cubo Gelatinoso que quase derreteu Triss viva. Resgatam Kristryd Splitanvil, presidente de Blackstone e clérigo de Paelor, que estava preso na mina.
+• PCs: Dustin (PC), Triss (PC), Vaunia (PC), Conan (PC), Markus Grimm (PC)
+• NPCs: Taverneiro (NPC), Kristryd Splitanvil (Anão) (NPC), Thargrin (Anão morto) (NPC), Hook Horror (Monstro) (NPC), Cubo Gelatinoso (Monstro) (NPC)
+• Localizações: Mina de Obsidiana (mina), Blackstone (vila) [inferido], Montanhas Cairn (montanhas) [inferido]
+• Objetos Descobertos:
+    ◦ Carta de Thargrin (devolvida a Kristryd Splitanvil)
+    ◦ 6 Dentes de Hook Horror (Dustin)
+• Loot:
+    ◦ Topázio (Triss)
+• Informações Relevantes:
+    ◦ Kristryd Splitanvil é um clérigo de Paelor
+.
+    ◦ Descobrem a existência de Greyhawk, Blackstone e as Montanhas Cairn
+.
+    ◦ Kristryd promete ajuda futura se retornarem às montanhas
+.
+998 CY, 01 de Ready'reat (2025-01-15) S03A: A Calamidade do Vale do Vento Sombrio (1)
+• Descrição: Um grupo é enviado para investigar o Vale do Vento Sombrio, uma rota de comércio local onde uma calamidade ocorreu um mês antes. Descobrem que uma vila Kobold está infestada por fungos do Culto do Mal Elemental, liderado por Vaelkor Ashbrand. Encontram o kobold não infectado Klipz e conseguem derrotar a infestação local liderada por Vaelkor Ashbrand.
+• PCs: Grix'Molah (PC), Conan (PC), Triss (PC), Dustin (PC), Usopp (PC), Markus Grimm (PC)
+• NPCs: Klipz (Kobold) (NPC), Vaelkor Ashbrand (Cultista) (NPC) [nota: este "derrotado" pode significar que o seu plano local foi frustrado, não necessariamente a sua morte, pois Vaelkor é mencionado em contextos futuros como superior de outros cultistas], Cultistas (NPC), Kobolds (NPC), Elemental da Terra (Monstro) (NPC)
+• Localizações: Vale do Vento Sombrio (vale), Vila Kobold (vila)
+• Loot:
+    ◦ Poção de cura
+    ◦ Amuleto +1
+    ◦ Carta
+    ◦ 200 GP (Taverneiro)
+    ◦ Refeições grátis por 1 mês
+    ◦ Armas/robes
+• Informações Relevantes:
+    ◦ Vaelkor Ashbrand proclama que o fungo "purificará o mundo da fraqueza"
+.
+S03B: Emboscada nas Margens do Rio Neem (1)
+• Descrição: Kythria, sobrinha do Taverneiro, envia um grupo em missão de reconhecimento de terreno ao longo do rio Neem. Encontram Kaldros Veynor, um mercador tiefling, a ser atacado por goblins. Enfrentam duas ondas de goblins, um lobo domesticado e um líder Bugbear, descobrindo que os goblins foram contratados por bandidos.
+• PCs: Endouvan (PC), Orianna (PC), Gauthak (PC), Lone Straw (PC), Arkos (PC)
+• NPCs: Kaldros Veynor (Tiefling Mercador) (NPC), Kythria (NPC), Goblins (NPC), Lobo (Animal) (NPC), Bugbear Líder (NPC)
+• Localizações: Rio Neem (rio), Peculiar Manor (mansão) [inferido], Blackfair Manor (mansão) [inferido]
+• Loot:
+    ◦ 50 GP (de Kaldros, se for salvo)
+    ◦ 25 GP (dos inimigos)
+    ◦ Pistas para acampamento goblin
+• Informações Relevantes:
+    ◦ Kaldros Veynor é um mercador sofisticado que viaja de Peculiar Manor para Blackfair Manor
+.
+    ◦ O Bugbear oferece informações sobre um acampamento goblin e que os goblins são pagos por uma gangue de bandidos
+.
+    ◦ O terreno perto do rio é escorregadio
+.
+    ◦ Os goblins da primeira onda usam arcos curtos e adagas, enquanto o lobo os ataca corpo a corpo
+. A segunda onda tenta flanquear, e o Bugbear foca num único alvo
+.
+998 CY, 07 de Ready'reat (2025-01-23) S04A: Exploração da Mina e Gravuras Alienígenas
+• Descrição: Um grupo é enviado de volta à mina (presumivelmente a Mina de Obsidiana de S02A), guiado por uma bússola mágica. Eles exploram a caverna e descobrem gravuras misteriosas e alienígenas nas paredes.
+• PCs: [Não especificado]
+• NPCs: Mago (NPC) [inferido, pelo contexto]
+• Localizações: Mina de Obsidiana (mina) [inferido], Caverna (gruta)
+• Loot: [Nenhum especificado]
+• Informações Relevantes:
+    ◦ As gravuras são de significado desconhecido, parecendo alienígenas
+.
+998 CY, 08 de Ready'reat (2025-01-23) S05A: Retorno ao Vale do Vento Sombrio e o Dragão Syzzin
+• Descrição: Após o estudo do fungo, o Taverneiro envia um grupo de volta ao Vale do Vento Sombrio. Os aventureiros desenvolvem telepatia limitada entre si e encontram kobolds a atacar cultistas. Conhecem o kobold Clipse, que revela o domínio do dragão Syzzin sobre o vale. Markus Grimm é enfeitiçado por Syzzin, que é hostil ao culto dos fungos. Eles descobrem um altar de Wee Jas (padroeira de Markus Grimm) com influência demoníaca. Conhecem Rix, um kobold criança, que dá informações sobre comércio e minas. A floresta recupera-se, mas o altar mantém a influência demoníaca.
+• PCs: Triss (PC), Markus Grimm (PC), Conan (PC), Vaunia (PC), Dustin (PC), Grix'Molah (PC)
+• NPCs: Syzzin (Dragão) (NPC), Clipse (Kobold) (NPC) [sacrificou-se], Rix (Kobold criança) (NPC), Kobolds cultistas (NPC), Eladrin Elfo (NPC) [em sonho], Titania (Deusa) (NPC) [em sonho], Egalar (Paladino de Titania) (NPC) [em sonho], Wee Jas (Deusa) (NPC) [em altar]
+• Localizações: Vale do Vento Sombrio (vale), Acampamento Kobold (acampamento), Toca do Dragão (gruta), Altar de Wee Jas (altar)
+• Objetos Descobertos:
+    ◦ Crânio de lobo, tíbias e fémur de lobo (Dustin)
+    ◦ Inchada (Dustin)
+    ◦ Rubi (Markus Grimm, na sua pact blade, ele vê esmeralda)
+    ◦ Medalhão (Grix'Molah, que brilha em sonho)
+    ◦ Pistas de comércio e minas a oeste (Rix)
+• Loot:
+    ◦ 234 GP (39 GP para cada um)
+    ◦ Bastão com uso limitado (Conan)
+    ◦ Mão cheia de dedos
+    ◦ Pergaminho de feitiço de Alarm (Vaunia)
+    ◦ Pergaminho de feitiço de Comprehend Languages (Triss)
+    ◦ 2 capas de cultista novato (Triss e Dustin)
+    ◦ 1 capa de cultista tenente (Grix'Molah)
+• Informações Relevantes:
+    ◦ O grupo desenvolve telepatia limitada devido ao fungo
+.
+    ◦ Grix'Molah sonha com Eladrin elfos e Titania, sendo informado que Egalar, seu paladino, o visitará
+.
+    ◦ Syzzin é um dragão Wyrmling vermelho, que gosta de criar cultos e é hostil ao culto dos fungos
+.
+    ◦ Markus Grimm é enfeitiçado e revela a localização da taberna a Syzzin
+.
+    ◦ Syzzin descreve a alma de Dustin como "partida" e reconhece Triss como uma drow
+.
+    ◦ Clipse, um kobold, sacrifica-se, e Syzzin o devora
+.
+    ◦ Rix é um kobold criança que se considera o próximo na linha de sacrifícios
+.
+    ◦ Altar de Wee Jas emite energia demoníaca
+.
+998 CY, 20 de Ready'reat (2025-01-29) S06A: Mistério da Doença em Two Fords
+• Descrição: Um grupo de aventureiros investiga rumores de uma doença em Two Fords, uma vila com uma ponte dupla sobre o rio Ery. Encontram o mercador Kaldros, que lhes conta que a água do rio está contaminada. No moinho abandonado, enfrentam fauna corrompida, encontram símbolos elementais e anotações do Culto do Mal Elemental sobre um plano para atacar regiões pelo rio.
+• PCs: Orianna (PC), Arkos (PC), Lone Straw (PC), Wandering Sage (PC), Endouvan (PC), Gauthak (PC)
+• NPCs: Kaldros (Mercador) (NPC), Geralt (Taverneiro) (NPC), Lila (Filha de Geralt) (NPC), Cultistas (NPC), Fauna Corrompida (Monstro) (NPC), Lobos Infectados (Monstro) (NPC), Urso Corrompido (Monstro) (NPC), Acolito (NPC), Servos Fúngicos (Monstro) (NPC)
+• Localizações: Two Fords (vila), Rio Ery (rio), Moinho Abandonado (moinho)
+• Loot:
+    ◦ Gemas (10 GP por cultista)
+    ◦ Poção de Cura (do Acolito)
+    ◦ Cristal Elemental Corrompido (item mágico)
+• Informações Relevantes:
+    ◦ A vila mostra sinais de decadência, com plantas murchando e habitantes doentes
+.
+    ◦ Lila, filha do taverneiro Geralt, está gravemente doente por beber a água do rio
+.
+    ◦ O moinho está coberto de fungos bioluminescentes
+.
+    ◦ O Culto do Mal Elemental planeia usar o rio para enfraquecer regiões e preparar um ataque maior
+.
+    ◦ Confronto com 3 cultistas e 1 acolito a realizar um ritual para lançar esporos no rio
+. Há risco de esporos se espalharem, causando envenenamento
+.
+998 CY, 22 de Ready'reat (2025-01-30) S07A: O Acampamento Goblin e o Ritual de Nerull
+• Descrição: Um grupo investiga raptos e um ataque a caravanas. Chegam a um acampamento goblin, onde libertam prisioneiros (humanos, elfos e goblins submissos) e confrontam Jogmaahx, um xamã goblin que realizava um ritual para Nerull. Descobrem uma carta de Vaelkor Ashbrand detalhando os planos de conquista do Culto do Mal Elemental.
+• PCs: Usopp (PC), Drayl (PC), Wandering Sage (PC), Sarvian Midlor (PC), Lone Straw (PC)
+• NPCs: Taverneiro (NPC), Kythria (NPC), Jogmaahx (Goblin Xamã) (NPC), Ogre (NPC), Vaelkor Ashbrand (Cultista) (NPC) [mencionado], Prisioneiros (humanos/élficos/goblins) (NPC)
+• Localizações: Acampamento Goblin (acampamento), Rio (rio), Altar (altar)
+• Loot:
+    ◦ 50 GP (cada um)
+    ◦ Carta de Vaelkor Ashbrand
+    ◦ Armas goblin
+• Informações Relevantes:
+    ◦ A missão foi dada pela sobrinha do Taverneiro, Kythria
+.
+    ◦ O grupo usa ilusões para afogar um ogre no rio
+.
+    ◦ Jogmaahx invoca dois zombies durante o combate
+.
+    ◦ Nerull é o deus da morte
+.
+    ◦ A carta de Vaelkor Ashbrand revela planos de conquista de terras através de ataques a acampamentos, cidades e caravanas, em nome do Culto do Mal Elemental
+.
+    ◦ Os prisioneiros goblins são deixados para se matarem
+.
+998 CY, 01 de Sunsebb (2025-01-30) S08A: Mistwood e a Acólita Morvanya
+• Descrição: Um grupo é enviado para investigar Mistwood. Descobrem que a vila foi transformada num bastião de mortos-vivos, onde os habitantes agem de forma robótica sob uma ilusão de normalidade. Confrontam Morvanya, uma acólita de Nerull e Serva da Foice Eterna, que se revela ser Manvea, uma amiga de Vaunia. Morvanya comete suicídio após ser capturada. Grix destrói um altar de Nerull, guiado por uma visão de Egalar, paladino de Titania, e Markus carimba o altar com o símbolo de Wee Jas.
+• PCs: Triss (PC), Dustin (PC), Conan (PC), Markus Grimm (PC), Grix'Molah (PC), Vaunia (PC)
+• NPCs: Morvanya (Manvea) (Acólita de Nerull) (NPC), Egalar (Paladino de Titania) (NPC), Padre de Pelor (Sombra) (NPC), Aldeões Mortos-Vivos (NPC), Wee Jas (Deusa) (NPC), Titania (Deusa) (NPC)
+• Localizações: Mistwood (vila), Taberna "Última Folha" (taberna), Capela Profanada (capela), Altar de Nerull (altar), Altar de Titania (altar)
+• Objetos Descobertos:
+    ◦ Diário de Morvanya (Vaunia)
+    ◦ Carimbo com símbolo de Wee Jas (Markus Grimm)
+    ◦ Máscara de morte prateada (de porcelana, partida) (Vaunia)
+    ◦ Escudo (Dustin)
+    ◦ Orquídea mágica (Triss)
+• Loot:
+    ◦ 300 GP (50 GP para cada)
+    ◦ 6 capas feitas da tapeçaria de Nerull (uma para cada PC)
+• Informações Relevantes:
+    ◦ A vila parece normal, mas os habitantes são zumbis sob uma ilusão
+.
+    ◦ A capela foi convertida num altar de Nerull
+.
+    ◦ Wee Jas aparece a Markus Grimm e dá-lhe um carimbo para marcar os altares de Nerull, purificando a terra
+.
+    ◦ Grix'Molah tem uma visão de Egalar, paladino de Titania, que o instrui a usar o seu cajado de flores para transformar o altar de Nerull num altar de Titania
+.
+    ◦ O diário de Morvanya revela planos de expansão do culto para Erybend e cidades próximas, eliminação de Borogrove, utilização de goblins em Two Fords, purificação de minas do norte e aliança com Goliaths do norte. Também menciona o casal da Mansão Blackfair devoto a Nerull, cuja lentidão atrasa os planos
+.
+    ◦ Morvanya morde uma ampola de cianeto e morre
+.
+998 CY, 01 de Sunsebb (2025-02-13) S09A: Contactos Comerciais em Erybend e o Bilhete do Baile
+• Descrição: Kythria, a sobrinha do Taverneiro, envia um grupo a Erybend para criar contactos e rotas comerciais para Blackfair Manor e Two Fords. Encontram Myria e Jeraldina, que relatam distúrbios na área. São atacados por kobolds e um kobold alado, seguidores de Nerzul. Kai reconhece um dos kobolds como um Cavaleiro da Luz, que se suicida durante o interrogatório. Encontram um bilhete do baile em Blackfair Manor e moedas de um bando rival de Greyhawk.
+• PCs: Kai (PC), Grix'Molah (PC), Varus (PC), Triss (PC)
+• NPCs: Kythria (NPC), Taverneiro (NPC), Myria (Anã mercadora) (NPC), Jeraldina (Meia-orc mercadora) (NPC), Cavaleiro da Luz (Kobold) (NPC), Torzac (Líder Kobold) (NPC), Dama Sombria (NPC) [referência]
+• Localizações: Erybend (cidade), Blackfair Manor (mansão) [inferido], Two Fords (vila) [inferido], Acampamento (acampamento)
+• Objetos Descobertos:
+    ◦ Bilhete do baile em Blackfair Manor
+    ◦ Medalhões com moedas de um bando rival de Greyhawk
+• Loot: [Nenhum especificado explicitamente além dos objetos]
+• Informações Relevantes:
+    ◦ Os kobolds atacam gritando "Em honra de Nerzul!"
+.
+    ◦ O Cavaleiro da Luz menciona que Torzac, líder dos kobolds, amava Nerzul antes de se suicidar
+.
+    ◦ Encontram referência ao regresso da Dama Sombria
+.
+998 CY, 02 de Sunsebb (2025-02-20) S10A: Distúrbios em Erybend e a Lista de Nomes
+• Descrição: Um grupo é enviado para ajudar Dolrea Vas em Erybend, que procura resolver desaparecimentos e distúrbios. Descobrem que mercadores e famílias estão a desaparecer diariamente, sem vestígios de magia. Seis figuras encapuzadas atacam o grupo numa taberna, e uma lista de nomes é encontrada, indicando que Dolrea Vas é o próximo alvo.
+• PCs: Kai (PC), Grix'Molah (PC), Varus (PC), Triss (PC), Flynn (PC)
+• NPCs: Dolrea Vas (Meio-elfo mercador) (NPC), Myria (Anã mercadora) (NPC), Jeraldina (Meia-orc mercadora) (NPC), Taberneiro do Machado Quebrado (NPC), Cultistas de Odrak (NPC), Figuras Encapuzadas (NPC)
+• Localizações: Erybend (cidade), Taberna "Machado Quebrado" (taberna), Parque (parque), Templo na periferia (templo)
+• Objetos Descobertos:
+    ◦ Lista de 7 nomes (Dolrea Vas é o próximo alvo)
+    ◦ Mapa
+• Loot:
+    ◦ 7 GP
+    ◦ Empadas
+    ◦ Meias
+• Informações Relevantes:
+    ◦ Myria e Jeraldina emprestam uma tenda aos PCs
+.
+    ◦ Flynn, um halfling, é enviado pelo Taverneiro e junta-se ao grupo
+.
+    ◦ Rumores apontam para cultistas de Odrak e movimentos estranhos num templo na periferia
+.
+    ◦ O Taverneiro do Machado Quebrado tem um quadro de avisos com cartazes de pessoas desaparecidas
+.
+    ◦ Grix compra mais de 85 pares de meias
+.
+998 CY, 03 de Sunsebb (2025-02-13) S11A: O Pântano Místico e as Pedras Mágicas
+• Descrição: Um grupo é enviado para explorar grutas a sul. No pântano místico, encontram Baltigard (conhecido de Brok) e Cocas (um bullywug, amigo de infância de Conan). Na aldeia de Cocas, o Mestre Yoda (chefe bullywug) relata um ataque de uma cria de basilisco. Encontram ruínas com duas pedras mágicas e uma pintura rupestre de uma nave espacial a entregar três pedras a três pessoas. Matam um basilisco progenitor no terceiro templo e recuperam a terceira pedra.
+• PCs: Conan (PC) [e outros não especificados], Dustin (PC) [inferido pelo loot]
+• NPCs: Baltigard (Humano) (NPC), Cocas (Bullywug) (NPC), Mestre Yoda (Chefe Bullywug) (NPC), Cria de Basilisco (Monstro) (NPC), Basilisco Progenitor (Monstro) (NPC), Bullywugs (NPC), Thoren (Mestre de Kung Fu) (NPC), XP T O (Illithid/Mind Flayer) (NPC)
+• Localizações: Pântano Místico (pântano), Aldeia Bullywug (aldeia), Grutas (grutas), Ruínas (ruínas), Terceiro Templo (templo)
+• Objetos Descobertos:
+    ◦ Pintura rupestre de nave espacial e 3 pedras
+    ◦ 3 Pedras mágicas
+    ◦ Caixa para as pedras
+• Loot:
+    ◦ Olho de basilisco
+    ◦ Pergaminho de ritual elemental
+    ◦ Ouro
+    ◦ Anel de chamada
+    ◦ Chicote de Transporte (Vaunia)
+    ◦ Colher Vorpal (Vaunia)
+    ◦ Botas da Velocidade Cegante (Bok Thunderfist)
+    ◦ Gaita de Foles da Invisibilidade (Conan)
+    ◦ Anel da Pena Caída (Wandering Sage)
+    ◦ Anel de Cantrips (Dustin)
+    ◦ Anel para chamar o Alien de volta (Dustin)
+    ◦ 50 GP (avanço) + 50 GP (final da missão)
+• Informações Relevantes:
+    ◦ Thoren, antigo mestre de kung fu de Wandering Sage e membro do Culto do Mal Elemental, rouba a caixa com as pedras mágicas
+.
+    ◦ Thoren tinha como missão dominar o pântano e a gruta, e vingar-se de Baltigard
+.
+    ◦ O grupo é abduzido por uma nave Illithid (Mind Flayer)
+.
+    ◦ Conseguem convencer o alien XP T O a raptar Thoren do seu esconderijo (a gruta da missão) para experiências
+.
+998 CY, 04 de Sunsebb (2025-03-06) S12A: Baile na Blackfair Manor e o Lorde Coriver
+• Descrição: O grupo é convidado para um baile no Castelo da Rainha Caecena dos High Fae. No caminho, veem um whisperer. A tarefa é conviver com os convidados para conseguir um parceiro para a dança final (Dustin com Prysanna, Triss com Vesta, Kai com Fifaera, Drayl com Zenvis). Durante o baile, há uma tentativa de ataque por três homens-serpente, enviados por Lord Coriver. Todos são raptados para o covil de Lord Coriver, mas os aventureiros resgatam-nos.
+• PCs: Dustin (PC), Triss (PC), Drayl (PC), Kai (PC)
+• NPCs: Rainha Caecena (Rainha dos High Fae) (NPC), Lord Coriver (Inimigo da Rainha) (NPC), Prysanna (Fey) (NPC), Vesta (NPC), Arriya (NPC), Fifaera (NPC), Zenvis (NPC), Whisperer (NPC), Homens-Serpente (NPC), Minhoca Gigante (Monstro) (NPC)
+• Localizações: Castelo (castelo), Covil de Lord Coriver (covil)
+• Objetos Descobertos: [Nenhum especificado]
+• Loot:
+    ◦ Bênção da Rainha (Kai, duração de 1 ano, permite rolar novamente um dado por long rest)
+    ◦ 500 GP (Kai)
+• Informações Relevantes:
+    ◦ Dustin e Prysanna criam uma conexão de "amor fadado"
+.
+    ◦ Prysanna era uma vítima de Lord Coriver
+.
+    ◦ Kai foi o mais bem-sucedido e ganhou a bênção da rainha
+.
+S12B: Escolta de Carroça para Blackfair Manor
+• Descrição: Um grupo recebe a missão de escoltar uma carroça cheia de bens preciosos para Blackfair Manor, uma mansão imponente e sombria. No caminho, são emboscados por goblins e orcs liderados por Gorath, o Esmagador. Chegam à mansão e são recebidos pelo mordomo Alaric.
+• PCs: [Não especificado]
+• NPCs: Alaric (Mordomo) (NPC), Gorath, o Esmagador (Chefe Orc) (NPC), Goblins (NPC), Orcs (NPC)
+• Localizações: Blackfair Manor (mansão), Floresta (floresta)
+• Loot:
+    ◦ 50 GP (cada um) + 50 GP (bónus se carroça intacta)
+    ◦ 25 GP (cada um, se carroça destruída)
+    ◦ Poções de cura menores (inimigos)
+    ◦ Moedas de cobre (inimigos)
+• Informações Relevantes:
+    ◦ A carroça tem 15 HP (AC 10)
+.
+    ◦ Os inimigos atacam em duas ondas: 6 goblins, depois 4 goblins e 2 orcs
+.
+    ◦ Gorath, o Esmagador, é o líder orc
+.
+    ◦ Alaric é um mordomo alto, magro, austero e formal
+.
+998 CY, 10 de Sunsebb (Data Inferida: 2025-03-06, mesma data da sessão anterior que está referenciada num ficheiro como "6 março pipa") S13A: O Mistério dos Desmaios em High Ery
+• Descrição: Um grupo investiga desmaios misteriosos na vila de High Ery, a pedido da Taberneira, que suspeita do hidromel local. Descobrem que mercadores de queijo têm desaparecido, e a causa é o Mestre dos Ratos. Infiltram a ferraria e a enfermaria. Confrontam o Mestre dos Ratos no teatro, que usa música e frigideiras para nocautear as pessoas. O grupo frustra o seu plano.
+• PCs: Vaunia (PC), Boaz (Companion) (PC), Grix'Molah (PC), Gauthak (PC), Frederick Freddy (PC), Ustrax (PC)
+• NPCs: Sr. Henrique (Queijeiro) (NPC), Ratú (Rato) (NPC), Mestre dos Ratos (NPC), Sr. Abílio (Mercador) (NPC), Maria Hortênsia (Vendedora de Queijo) (NPC), Zé do Pinto (Vendedor de Pintainhos) (NPC), Teotónio (Ferreiro) (NPC), Sr. Abelha (Cidadão) (NPC), Enfermeira (NPC), Médico (NPC), Sô Paulo (Taberneiro) (NPC), Elfo Inconsciente (NPC)
+• Localizações: High Ery (vila), Ferraria (local), Enfermaria (local), Taberna do Sô Paulo (taberna), Acampamento de Mercadores (acampamento), Teatro (teatro)
+• Objetos Descobertos:
+    ◦ Migalhas de queijo e pegadas de ratos
+    ◦ Cartões de Gauthak
+• Loot:
+    ◦ 5 GP, 5 SP e 30 P (roubados do ferreiro por Freddy)
+• Informações Relevantes:
+    ◦ Os desmaios acontecem semanalmente às terças-feiras
+.
+    ◦ Um mês antes, estreou a peça "O Flautista de Hamelin" no teatro local
+.
+    ◦ Mestre dos Ratos está no teatro e não procura o queijo do Sr. Henrique
+.
+    ◦ Pessoas desmaiadas lembram-se de ouvir música, chilrear e serem atingidas por uma frigideira
+.
+    ◦ Um Elfo inconsciente na enfermaria tem uma marca de pancada na nuca
+.
+    ◦ Grix, Freddy e Ustrax adormecem devido à nuvem de ratos
+.
+998 CY, 17 de Sunsebb (2025-03-13) S14A: Rota da Companhia: Sangue e Ouro no Pântano
+• Descrição: Conan e Dustin recebem uma missão da Taverna (também conhecida como a Companhia) para estabelecer uma rota comercial segura para uma aldeia de bullywugs em Mistmarsh. Descobrem que a aldeia foi influenciada pelo Culto do Mal Elemental, transformando uma mina a céu aberto num poço de gladiadores. A antiga namorada de Conan, agora uma sacerdotisa do culto, lidera as lutas e controla um obelisco que amplifica poderes sombrios. Dustin recebe uma visão de Beltar sobre a necessidade de destruir Nerull e capturar paladinos corruptos.
+• PCs: Conan (PC), Dustin (PC)
+• NPCs: Contratantes da Companhia (NPC), Antiga Namorada de Conan (Sacerdotisa do Culto) (NPC), Bullywugs (NPC), Basilisco da Lama (Monstro) (NPC), Obelisco Negro (Artefacto) (NPC), Beltar (Deusa) (NPC), Nerull (Deus) (NPC), Gladiadores (NPC), Mestre Kaeelen (NPC)
+• Localizações: Mistmarsh (pântano), Aldeia Bullywug (aldeia), Mina-Gladiadora (mina), Ruínas de Templo Elemental (ruínas)
+• Objetos Descobertos: [Nenhum especificado]
+• Loot:
+    ◦ Ouro da Companhia (600/700 gold)
+    ◦ Equipamentos raros do arsenal da mina
+• Informações Relevantes:
+    ◦ A missão é para abrir uma rota segura para caravanas no pântano
+.
+    ◦ A região tem nevoeiro, terreno perigoso, patrulhas bullywug e um basilisco
+.
+    ◦ Um gladiador inimigo revela pertencer à Ordem Monástica de Bok, a Ordem do Dente Longo, e está infetado por um fungo sinistro
+.
+    ◦ A visão de Dustin de Beltar revela que Nerull está a tornar-se demasiado poderoso e que os paladinos que o mataram no passado se desviaram, tornando-se gananciosos
+.
+    ◦ Possíveis soluções incluem diplomacia, combate, infiltração ou um ritual de purificação do obelisco
+.
+999 CY, 03 de Fireseek (2025-03-13) S15A: O Segredo de Peculiar Manor (Adapt. de Death House)
+• Descrição: Um grupo é contratado para investigar eventos estranhos em Peculiar Manor, nos arredores da vila de Falwur. A mansão, outrora lar da família Tormic (devotos do Culto do Mal Elemental), está assombrada pelo espírito de Laird Almeric Tormic. A casa tenta prender os intrusos para completar um ritual inacabado de abertura de um portal para o Templo do Mal Elemental. Os aventureiros libertam o fantasma do patriarca e a família recupera a paz.
+• PCs: [Não especificado]
+• NPCs: Visconde (Mordomo) (NPC), Laird Almeric Tormic (Espírito Corrompido) (NPC), Edred e Sylva Tormic (Espíritos de Crianças) (NPC), Mephit de Fumaça (Monstro) (NPC), Elemental da Terra Pequeno (Monstro) (NPC), Mephit de Vapor (Monstro) (NPC), Druida de Obad-Hai (NPC) [opcional], Clérigo de St. Cuthbert (NPC) [opcional]
+• Localizações: Peculiar Manor (mansão), Falwur (vila) [inferido], Vale do Nehum (vale) [inferido], Floresta de Gnarley (floresta) [inferido], Templo do Mal Elemental (templo) [referência]
+• Objetos Descobertos: [Nenhum especificado]
+• Loot:
+    ◦ Jóia da família
+    ◦ Promessa de favores
+• Informações Relevantes:
+    ◦ A mansão está contaminada por energias elementais, reagindo com ventos, incêndios e tremores
+.
+    ◦ Os espíritos das crianças, Edred e Sylva Tormic, foram sacrificados para os poderes elementais e buscam vingança
+.
+    ◦ Guardiões elementais (mephits, elemental da terra) protegem o subsolo
+.
+    ◦ O espírito de Almeric Tormic tenta concluir o ritual para invocar um ser elemental destrutivo
+.
+999 CY, 07 de Fireseek (2025-03-13) S16A: A Chantagem de Kai e a Captura de Dustin
+• Descrição: Uma carta misteriosa é entregue a Kai, chamando-o de impostor e chantageando-o com a revelação do seu segredo (que ele está a fingir ser Eltharion Vanthir, herdeiro de Iuz). Nas ruínas da Casa Vanthir, encontram Raveth Xil'Zyrl, um drow exilado, que quer usar Kai para restaurar o prestígio da casa. Raveth oferece a Triss informações sobre drows em Greyhawk e as ligações secretas de Iuz com o Subterrâneo. São interrompidos por Paladinos de Beltar (Dustin foi um ex-membro, deixado para morrer por recusar um massacre de kobolds). Dustin é capturado, e Raveth foge, marcando um encontro em Greyhawk.
+• PCs: Kai (PC), Dustin (PC), Triss (PC), Raylahn (PC) [data no PDF é 20-03-2025]
+• NPCs: Raveth Xil'Zyrl (Drow Chantagista) (NPC), Vareth Lionmane (Inquisidor, Paladino de Beltar) (NPC), Sybel Astren (Caçadora, Paladina de Beltar) (NPC), Garruk Valstein (Paladino de Beltar) (NPC), Sir Brand Orvain (Paladino de Beltar) (NPC), Luthor “Martelo da Fé” Greystone (Paladino de Beltar) (NPC), Cães Demoníacos (Monstro) (NPC), Bandidos (NPC), Lorde Dain Vanthir (NPC), Eltharion Vanthir (NPC)
+• Localizações: Taberna (base), Ruínas da Casa Vanthir (ruínas), Altar a Celestia (altar)
+• Objetos Descobertos:
+    ◦ Carta de Chantagem (para Kai)
+    ◦ Artefato sombrio (deixado por Raveth)
+    ◦ Crânio de lobo (reforça a conexão de Dustin com um grande lobo enviado por Beltar)
+• Loot: [Nenhum especificado]
+• Informações Relevantes:
+    ◦ Contradição de Data: Esta sessão é listada como 999 CY, 07 de Fireseek (2025-03-13) na timeline
+, mas como 20 de Março de 2025 em Sessão_20_de_março.pdf.md
+.
+    ◦ Kai está a fingir ser Eltharion Vanthir, o verdadeiro herdeiro de Iuz
+.
+    ◦ Raveth Xil'Zyrl é um drow exilado e ambicioso, mestre de manipulação e infiltração
+.
+    ◦ Os Paladinos de Beltar (Caçadores do Subterrâneo) são um esquadrão de elite com a missão de erradicar ameaças do Subterrâneo. Dustin foi exilado e dado como morto por eles
+.
+    ◦ Dustin tem uma conexão com um grande lobo enviado por Beltar
+.
+    ◦ Dustin desbloqueia uma memória de infância numa gruta escura
+.
+    ◦ Raveth descobriu uma rede de túneis secretos no Subterrâneo ligando Greyhawk às terras de Iuz e tenta vender essa informação
+.
+    ◦ A Casa Azh'Thalith (drow) e o Clã Ferrugio (necromantes de Iuz) contrataram os Paladinos para eliminar Raveth
+.
+S16B: Negociações Comerciais em Erybend e o Culto de Nerzul
+• Descrição: Um grupo de aventureiros parte para Erybend para abrir negociações comerciais. São emboscados por bandidos leais ao culto de Nerzul, liderados por Odrak. Existem rumores de reuniões secretas e a cidade está sob sítio. O grupo impede um ritual sombrio de Odrak, o líder deste braço do culto.
+• PCs: [Não especificado], Grix'Molah (PC) [inferido por detecção de corrupção], Kai (PC) [inferido por reconhecimento de soldado de Iuz], Triss (PC) [inferido por encontrar bilhete], Varus (PC) [inferido por moedas]
+• NPCs: Dolren Vas (NPC), Odrak (Líder do Culto) (NPC), Cultistas de Nerull (NPC), Bandidos (NPC), Elementais (Monstro) (NPC), Torzak (Fanático do Culto) (NPC)
+• Localizações: Erybend (cidade), Templo de Nerzul (templo)
+• Loot:
+    ◦ Recompensas comerciais
+    ◦ Moedas sombrias
+    ◦ Convite para baile
+• Informações Relevantes:
+    ◦ Grix'Molah deteta sinais de corrupção elemental na magia dos atacantes
+.
+    ◦ Kai reconhece um bandido como antigo soldado de Iuz
+.
+    ◦ Triss encontra um bilhete mencionando o baile de Blackfair Manor e "a chegada da Dama Sombria"
+.
+    ◦ Varus nota que os bandidos possuíam moedas com um símbolo obscuro, talvez de um grupo rival da Taverna de Greyhawk
+.
+999 CY, 08 de Fireseek (2025-03-20) S17A: O Legado de Krixis, o Valente
+• Descrição: Kobolds Vermisombra contratam um grupo para recuperar a espada sagrada e libertar Krixis, seu herói ancestral, amaldiçoado e preso na forma de um lobo. No templo abandonado, confrontam Gogrom, um chefe orc. Após resolverem um enigma das velas, Krixis é libertado da maldição, transformando-se de lobo em kobold. Gogrom era um feiticeiro orc amaldiçoado pela própria magia.
+• PCs: Gauthak (PC) [Autor do relatório], Frederick Freddy (PC) [inferido], Grix'Molah (PC) [inferido], Vaunia (PC) [inferido], Ustrax (PC) [inferido]
+• NPCs: Snikil Pescabrasa (Líder Kobold) (NPC), Gogrom (Chefe Orc) (NPC), Krixis (Kobold/Lobo) (NPC), Goblins Vigias (NPC), Greta (Kobold) (NPC), Veltrix (Lobo/Homem Nu) (NPC) [mesmo que Krixis, mas com nome de lobo antes de transformação], Dandan (Kobold Alado) (NPC)
+• Localizações: Templo Abandonado (templo), Sala das Oferendas (sala), Sala do Boss (sala), Sala Secreta (sala)
+• Objetos Descobertos:
+    ◦ Espada de Krixis (recuperada)
+    ◦ Mapa (projeto para renovar vila da superfície, no corpo de Dandan)
+    ◦ Faca de ferro negro com runas (Greta)
+    ◦ Quadro (Dandan e Veltrix eram amigos)
+• Loot: [Nenhum especificado explicitamente, mas implicado]
+• Informações Relevantes:
+    ◦ A missão é para libertar o espírito de Krixis e restaurar a honra do clã Vermisombra
+.
+    ◦ Dandan, o kobold alado, é morto por Gauthak
+.
+    ◦ Gauthak e Freddy tentam uma infiltração falhada disfarçados de Dandan
+.
+    ◦ Greta, uma kobold, é astuta e talentosa (costureira e combate); flerta com Gauthak e ele a leva para a taberna através de um portal
+.
+    ◦ Veltrix (o lobo amaldiçoado) transforma-se num velho nu ao retirar a espada da estátua
+.
+    ◦ Veltrix e Dandan eram amantes; Veltrix morre de desgosto pela perda de Dandan
+.
+    ◦ Uma elfa ("Elisa/Iliana/Elina") é "humilhada" até à morte por Gauthak e Greta
+.
+    ◦ Enigma da vela ("Minha vida pode ser medida em horas...")
+.
+S17B: Resgate de Dustin e Teleporte da Taberna
+• Descrição: O grupo persegue os Paladinos de Beltar para resgatar Dustin, que está a ser torturado no Castelo Ruína-de-Ébano. Prysanna (uma fey, disfarçada de paladina) surge para salvar Dustin, revelando que estão ligados por um contrato fae. O grupo enfrenta o Alto-Inquisidor Malrik Dorn (e seu Spectator e Golem de Ossos), impedindo um ritual de marcação divina. Malrik Dorn foge, mas Dustin vê a taberna a ser atacada por paladinos através de um portal. A taberna é então teleportada para a Cidade Livre de Greyhawk, e os aventureiros recebem anéis mágicos para a encontrar.
+• PCs: Kai (PC), Dustin (PC), Triss (PC), Raylahn (PC), Markus Grimm (PC)
+• NPCs: Malrik Dorn (Alto-Inquisidor, Paladino de Beltar) (NPC) [personalidade Hector Scornsbane, possível contradição], Spectator (Monstro) (NPC), Golem de Ossos (Monstro) (NPC), Prysanna (Fey) (NPC), Paladinos de Beltar (NPC)
+• Localizações: Castelo Ruína-de-Ébano (castelo), Taberna (base), Cidade Livre de Greyhawk (cidade)
+• Objetos Descobertos:
+    ◦ Carta de Prysanna (para Dustin, recolhida por Triss)
+    ◦ Chave da cela
+    ◦ Anel mágico (permite encontrar a taberna na cidade)
+• Loot:
+    ◦ Arma mágica temporária (de energia fey, dada a Dustin por Prysanna)
+    ◦ Itens dos guardas
+    ◦ 2 peitorais, 3 lanças, 1 lança mágica, 1 braçadeira de defesa, 2 machados grandes, 2 poções de cura, 1 tomo mágico
+    ◦ 500 gold
+• Informações Relevantes:
+    ◦ Contradição de Data: Esta sessão é listada como 999 CY, 08 de Fireseek (2025-03-20) na timeline
+, mas como 27 de Março de 2025 em Sessão_27_de_março.pdf.md
+.
+    ◦ Dustin é interrogado por paladinos que o consideram indigno e o questionam sobre ter sobrevivido a uma execução e sua aliança com Raveth Xil'Zyrl
+.
+    ◦ Prysanna e Dustin estão ligados por um contrato inquebrável de magia fey: "Se alguém vai te torturar, sou eu. Se alguém vai te matar, sou eu. Você não pertence a eles, Dustin. Você pertence a mim."
+.
+    ◦ Prysanna não reconhece Triss, que se apresenta como Vanessa
+.
+    ◦ Malrik Dorn remove as memórias da localização da taberna de Dustin
+.
+    ◦ Malrik Dorn é um Paladino Oath of the Crown/Clérigo de Beltar, mestre em feitiços de contenção e perseguição
+. É protegido por um Spectator e um Golem de Ossos
+.
+S17C: Abdução Illithid e o Crash da Nave
+• Descrição: Um grupo é encarregado de recuperar três pedras mágicas. No pântano, dois mind flayers atacam e matam Baltigard e Varus. A nave Illithid dos mind flayers rapta o grupo, mas eles conseguem tomar o controlo. Encontram Endo Bom Sossego, abduzido há anos. Restauram o corpo de Varus com tecnologia Illithid, criando o alter ego Zeldris. Após uma visita à nave-mãe Illithid e um encontro com Zorg, o grupo é enganado, mas escapa, derrota dois Illithids a bordo e a nave despenha-se num bairro de luxo em Greyhawk.
+• PCs: Varus (PC) [morto e ressuscitado], Sarvian Midlor (PC) [inferido pelo loot], [outros não especificados]
+• NPCs: Companhia das Três Pedras (NPC), Baltigard (Humano) (NPC), Mind Flayers (Monstro) (NPC), Endo Bom Sossego (NPC), Zorg (Illithid Comandante) (NPC), Blob (NPC), Kristryd Splitanvil (Anão) [referência]
+• Localizações: Templo no Pântano (templo), Sapolândia (aldeia), Nave Illithid (nave espacial), Nave-mãe Illithid (nave espacial), Bairro de Luxo (bairro em Greyhawk)
+• Objetos Descobertos:
+    ◦ Duas insígnias (Mal Elemental e Companhia)
+    ◦ Scroll de teleportation, Scroll de fireball
+• Loot:
+    ◦ 25 GP 75 SP e 538 CP (Varus)
+    ◦ 10 GP (Sarvian)
+    ◦ 1 anel para chamar a comitiva de Zorg (Sarvian)
+• Informações Relevantes:
+    ◦ Varus morre e é ressuscitado com um alter ego chamado Zeldris
+.
+    ◦ Sarvien compromete-se a fazer um fato para Zorg usar num baile
+.
+    ◦ A nave despenha-se em Greyhawk, dizimando grande parte de um bairro
+.
+    ◦ O grupo não recebe a recompensa de 25 GP da missão por não a ter cumprido
+.
+    ◦ Varus é o único jogador que não morreu para vir para a taberna, vendeu a alma para um final feliz
+.
+999 CY, 10 de Fireseek (2025-04-03) S18A: Resgate da Família Kobold de Dandan (Inferido)
+• Descrição: Um grupo de aventureiros é contratado por Dandan para resgatar uma família de kobolds. Enfrentam guardas humanos e bestas mecânicas nos esgotos. Libertam os kobolds e escapam por passagens secretas. Ganham o respeito dos kobolds locais e pistas sobre a guilda dos ladrões.
+• PCs: [Não especificado]
+• NPCs: Dandan (Líder Kobold) (NPC), Líder Kobold Rival (NPC) [inferido], Guardas Humanos (NPC), Bestas Mecânicas (Monstro) (NPC), Membros da Guilda dos Ladrões (NPC)
+• Localizações: Esgotos de Greyhawk (esgotos)
+• Loot:
+    ◦ Armas improvisadas
+    ◦ Jóias kobold
+    ◦ Mapa dos esgotos
+    ◦ Pistas dos ladrões
+• Informações Relevantes:
+    ◦ Contradição: A descrição do timeline
+de um "Dandan" que contrata o grupo contrasta com a descrição detalhada em Sessões Laura.md
+onde um "Dandan" é um boss kobold que o grupo mata. Assume-se que são personagens diferentes ou uma recontextualização, e esta é uma missão distinta.
+S18B: Infiltração no Covil da Guilda dos Ladrões
+• Descrição: Um grupo de aventureiros infiltra-se no covil da guilda dos ladrões. Descobrem um plano de tráfico de artefatos e conseguem provas para as autoridades de Greyhawk.
+• PCs: [Não especificado]
+• NPCs: Capanga-mor (NPC), Ladrões (NPC), Vítimas sequestradas (NPC), Agentes da Cidade (NPC)
+• Localizações: Covil da Guilda dos Ladrões (esconderijo)
+• Loot:
+    ◦ Objetos roubados
+    ◦ Jóias
+    ◦ Pergaminho de proteção
+    ◦ Chaves dos cofres
+• Informações Relevantes:
+    ◦ A Guilda dos Ladrões é uma rede organizada de ladrões, assassinos e chantagistas, com rumores de ter membros da guarda em sua folha de pagamento
+.
+    ◦ O líder da guilda é Org Nenshen, o "Senhor das Sombras", um homem esguio, elegante e manipulador que opera nos esgotos de Greyhawk
+.
+999 CY, 04 de Readying (2025-04-03) S19A: Atividades Estranhas no Sul da Cidade e os Piratas da Rosa Negra
+• Descrição: Sarvian recebe uma denúncia sobre atividades estranhas no sul da cidade de Greyhawk. Ele conhece Trixie the Goblin, que suspeita de coisas estranhas na taberna onde trabalha. As investigações levam a esconderijos subterrâneos e comerciantes suspeitos. Descobrem um túnel secreto ligando a guilda dos ladrões ao porto, e o covil dos Piratas da Rosa Negra. Sarvian descobre que a sua irmã, Kilmy Midlor, é a líder dos piratas.
+• PCs: Sarvian Midlor (PC)
+• NPCs: Trixie the Goblin (NPC), Comerciantes Suspeitos (NPC), Contrabandistas (NPC), Feiticeiro (NPC), Guardas da Cidade (NPC), Kilmy Midlor (Irmã de Sarvian, Líder Pirata) (NPC), Harlon (Dono da Taberna de Trixie) (NPC), Miren (Ladrão) (NPC)
+• Localizações: Sul da Cidade de Greyhawk (bairro), Doca Baixa (bairro), Taberna de Trixie (taberna), Porto (porto), Covil dos Piratas da Rosa Negra (esconderijo)
+• Loot:
+    ◦ Caixa com selos mágicos
+    ◦ Mapa ilícito
+    ◦ Moedas
+    ◦ Poção menor
+• Informações Relevantes:
+    ◦ Contradição: A liderança dos piratas "Black Orchids" ou "Black Rose" é contraditória com a sessão S20A (999 CY, 05/06 de Flocktime), onde o capitão Ralph é um nobre disfarçado e a tripulação crianças de rua. Aqui, Sarvian descobre que sua irmã, Kilmy Midlor, é a líder dos Piratas da Rosa Negra
+.
+    ◦ Trixie não está ligada à guilda dos ladrões, mas tem suspeitas sobre pessoas estranhas entrando pelos fundos da taberna. O dono, Harlon, está envolvido e quer sair
+.
+    ◦ Um mendigo menciona Miren, um batedor da guilda que vive nos esgotos
+.
+    ◦ O incêncio na loja "O Olho de Boccob" (Thaldrin Voss) foi causado pela Guilda dos Ladrões para pressioná-lo
+.
+999 CY, 15 de Readying (2025-04-03) S20A: Incêndio nos Armazéns do Bairro Mercantil
+• Descrição: Um grupo ajuda na contenção de um incêndio em armazéns do bairro mercantil. Salvam vítimas e enfrentam criaturas flamejantes. A investigação revela rivalidades comerciais e uso de magia proibida. Confrontam um mago incendiário, apagam o fogo e recolhem provas. As autoridades reconhecem a bravura do grupo.
+• PCs: [Não especificado]
+• NPCs: Vítimas do Incêndio (NPC), Mago Incendiário (NPC), Autoridades Locais (NPC)
+• Localizações: Armazéns (bairro mercantil)
+• Loot:
+    ◦ Gema de fogo
+    ◦ Medalha de bravura
+    ◦ Recibo suspeito
+    ◦ Pó extintor mágico
+• Informações Relevantes:
+    ◦ Elementais do Fogo (CR 5) são libertados secretamente por guardas corruptos
+.
+999 CY, 27 de Readying (2025-04-03) S21A: Reconstrução do Bairro e Desarmamento Social
+• Descrição: Um grupo de aventureiros chega a uma nova zona reconstruída após o incêndio. Encontram resistência de moradores antigos e líderes de bairro, mas conseguem desarmar a situação com carisma e perícias sociais.
+• PCs: [Não especificado]
+• NPCs: Líderes de Bairro (NPC), Moradores Antigos (NPC), Recém-Chegados (NPC)
+• Localizações: Bairro Reconstruído (bairro)
+• Loot:
+    ◦ Convites
+    ◦ Chaves provisórias de habitação
+    ◦ Donativos locais
+• Informações Relevantes: [Nenhuma adicional]
+999 CY, 27 de Coldeven (2025-04-10) S22A: Procissão da Ordem Escarlate e o Cetro Amaldiçoado
+• Descrição: Um grupo participa numa procissão religiosa em honra à Ordem Escarlate. Um cetro ritual é oferecido à cidade, mas o evento é interrompido por uma aparição espectral e pânico. O cetro é amaldiçoado. Dustin pega no cetro e começa a ouvir vozes de Zan, o Deus da Ordem Escarlate, que está dentro do cetro e procura vingança. Descobrem que a mão mumificada de Zan foi roubada e são pedidos para a procurar.
+• PCs: Dustin (PC), Triss (PC) [inferido pelos 25GP]
+• NPCs: Líder da Ordem Escarlate (NPC), Clérigos (NPC), Civis (NPC), Aparição Espectral (NPC), Zan (Deus da Ordem Escarlate) (NPC), Kas (NPC) [mencionado], Anão Blacksmith (NPC)
+• Localizações: Greyhawk (cidade), Templo Destruído (templo), Biblioteca Arcana (biblioteca), Templo Atual da Ordem de Scarlat (templo)
+• Objetos Descobertos:
+    ◦ Pedra verde fluorescente (levada a um ferreiro anão para conter o poder)
+    ◦ Cetro de False Life (amaldiçoado) (Dustin)
+    ◦ Mão mumificada (de Zan)
+    ◦ Selo mágico (na base do cetro)
+• Loot:
+    ◦ 10 GP (do Taverneiro)
+    ◦ Coroa (Triss, vendida por 100GP, 25GP para cada um)
+• Informações Relevantes:
+    ◦ A maldição do cetro faz Dustin rolar um WIS save DC 13 sempre que ouve a palavra "paladino"
+.
+    ◦ Zan foi um guerreiro que forjou um império, temia a morte, foi morto por Kas, e sua alma está no cetro
+.
+    ◦ A mão real de Zan está em exposição no templo atual da Ordem de Scarlat
+.
+    ◦ O Taverneiro explica o cetro e o grupo o rouba de Dustin para entregá-lo ao Taverneiro
+.
+    ◦ Dustin continua a falar com Zan em sua cabeça
+.
+999 CY, 07 de Planting (2025-04-10) S23A: Exploração de Greyhawk e Base do Culto do Mal Elemental
+• Descrição: Um grupo de aventureiros explora a Cidade Livre de Greyhawk e recebe anéis mágicos para encontrar a taberna. Notam figuras suspeitas ligadas ao Culto do Mal Elemental, seguem-nas e descobrem uma base secreta do culto, a qual destroem.
+• PCs: [Não especificado]
+• NPCs: Comerciantes Locais (NPC), Antigos Conhecidos (NPC), Cultistas do Mal Elemental (NPC), Guardas (NPC), Ladrões (NPC)
+• Localizações: Cidade Livre de Greyhawk (cidade), Mercados (locais), Base Secreta do Culto (esconderijo)
+• Objetos Descobertos:
+    ◦ Anéis mágicos de regresso (para a taberna)
+    ◦ Mapa da cidade (adquirido de um cartógrafo)
+• Loot:
+    ◦ Pequenos artefatos de culto
+    ◦ Recompensa dos assassinos
+• Informações Relevantes:
+    ◦ A premissa é aprender onde estão e como se enturmar na nova cidade
+.
+    ◦ Podem encontrar itens familiares e cruzar-se com antigos conhecidos (como Aurkan ou Manvea)
+.
+    ◦ Os inimigos podem incluir Guardas, Ladrões, Cultistas do Mal Elemental ou Assassinos
+.
+999 CY, 10 de Planting (2025-04-10) S24A: O Desaparecimento de Abigail e a Prefeita Shapeshifter
+• Descrição: Um grupo de aventureiros é contratado pela Dama Abril, a prefeita de Pessegueiro, para resgatar sua filha Abigail, de 8 anos, que desapareceu. Investigações na casa de Abigail revelam runas de arcana e luvas mágicas. O grupo descobre uma gruta obscura, enfrenta mímicos e shapeshifters. Revela-se que Abigail e a Dama Abril são shapeshifters, e Abigail é morta por Conan. O grupo purifica uma mansão de espelhos, que é uma cópia da prefeitura, e derrota uma criatura dos espelhos, resgatando a verdadeira Abigail (ou a vila de uma ameaça shapeshifter).
+• PCs: Frederick Freddy (PC), Wandering Sage (PC), Gauthak (PC), Eldric Silvanus (PC), Silfir (PC), Conan (PC)
+• NPCs: Dama Abril (Halfling Prefeita, Shapeshifter) (NPC), Abigail (Filha, Shapeshifter) (NPC), Guarda Pero (NPC), Roger (Dono de Loja de Brinquedos) (NPC), Lyra (Corpo da raposa) (NPC), Mimics (Monstro) (NPC), Shapeshifters (Monstro) (NPC), BBEG (Monstro) (NPC)
+• Localizações: Pessegueiro (vila), Prefeitura (edifício), Casa de Abigail (casa), Caverna dos Dois Postes (caverna), Gruta (gruta), Loja de Brinquedos (loja), Esgoto de Pessegueiro (esgoto), Mansão de Espelhos (mansão/dimensão alternativa)
+• Objetos Descobertos:
+    ◦ Chave pequena de ouro
+    ◦ Papel (gaveta, não ajudou muito)
+    ◦ Luvas com uma runa
+    ◦ Bustos maquilhados (com magia de conjuração)
+    ◦ Foto da menina (jogada no chão pelo gigante)
+    ◦ Folhas de chá e raízes endurecidas (Gauthak, da árvore viva)
+    ◦ Cristais de quartzo (Gauthak, do monstro de pedras)
+    ◦ Caderno (com folha rasgada sobre shapeshifters)
+    ◦ Colar de rubis e esmeraldas
+• Loot:
+    ◦ 80 GP por pessoa (e o dobro se a filha for viva)
+    ◦ 100 GP (cada um, por serviço prestado) + 20 GP adicionais (Dama Abril)
+    ◦ 360 GP
+    ◦ 160 GP (cada um, pela resgate de Abigail)
+• Informações Relevantes:
+    ◦ Silfir e Eldric acordam sem memórias e juntam-se ao grupo
+.
+    ◦ O grupo encontra um Vedalken, Uteluk, que pede ajuda para procurar o seu amigo Rolger, um hobgoblin peludo que desapareceu há 4 dias
+.
+    ◦ O hobgoblin Rolger é encontrado, mas está hostil e acredita que os aventureiros são "Doppelgangers"
+.
+    ◦ Conan e Flynn são levados pela gravidade para um buraco enquanto tentam resgatar Rolger
+.
+    ◦ A batalha escala quando um shapeshifter se transforma num half-dragon gigante
+.
+    ◦ A Dama Abril tem duas assinaturas diferentes e reage com demasiada calma
+.
+    ◦ Abigail revela ser um shapeshifter ao ser atingida no local da maquilhagem, transforma-se num espelho e é morta por Conan
+.
+    ◦ O grupo é perseguido por shapeshifters e escapa da vila sobre um elefante
+.
+    ◦ Encontram um texto no chão que brilha: "Mundo cego, ouro no cHao e meRo pavimento no caminho De pobres."
+.
+    ◦ Silfir é "comido" por um espelho ao tentar atravessar um caminho ilusório
+.
+    ◦ A mansão de neve é uma cópia da prefeitura
+.
+    ◦ A criatura final dos espelhos diz "Pior que si próprios, pior que a sua imagem"
+.
+999 CY, 12 de Planting (2025-04-24) S25A: O Resgate da Criança Perdida (Aria Greenbottle)
+• Descrição: Um grupo de aventureiros é contratado para encontrar Aria Greenbottle, uma halfling de 14 anos desaparecida. Após investigar na casa da família (Tobias, Eliza e Finn Greenbottle), encontram um diário e um mapa que a levam a ruínas antigas ao norte de Greyhawk. O grupo enfrenta armadilhas, mortos-vivos (armadura animada, morcegos, ghast, ghouls, zombies, criaturas das sombras, ratos) e bosses finais (Spectral Wraith e Shadow Boss) na cripta. Aria é resgatada, abalada, e a Gema das Cinco Vozes é encontrada e entregue ao Taverneiro.
+• PCs: Markus Grimm (PC), Raylahn (PC), Bok Thunderfist (PC), Drayl (PC), Wagner (PC)
+• NPCs: Aria Greenbottle (Halfling) (NPC), Tobias Greenbottle (Pai) (NPC), Eliza Greenbottle (Mãe) (NPC), Finn Greenbottle (Irmão gémeo) (NPC), Guarda da Cidade (NPC), Taverneiro (NPC), Armadura Animada (Monstro) (NPC), Ghast (Monstro) (NPC), Ghouls (Monstro) (NPC), Zombies (Monstro) (NPC), Enxame de Morcegos (Monstro) (NPC), Criatura das Sombras (Monstro) (NPC), Espectro (Boss) (NPC), Enxame de Ratos (Monstro) (NPC)
+• Localizações: Casa dos Greenbottle (Greyhawk) (casa), Ruínas das Sombras (ruínas), Cripta das Sombras (cripta)
+• Objetos Descobertos:
+    ◦ Diário secreto de Aria (com mapa)
+    ◦ Relíquia amaldiçoada
+    ◦ Gema das Cinco Vozes (misteriosa, entregue ao Taverneiro)
+• Loot:
+    ◦ 100 PO
+    ◦ Poções
+• Informações Relevantes:
+    ◦ A entrada das ruínas é armadilhada (explosão)
+.
+    ◦ Aria regressa abalada
+.
+    ◦ Rumores sobre os perigos a norte crescem
+.
+S25B: Missão de Reconhecimento da Guilda dos Assassinos ao Culto
+• Descrição: Um grupo de aventureiros, ao explorar a cidade, é contactado pela guilda local de assassinos para uma missão de reconhecimento ao Culto do Mal Elemental. Seguindo suspeitos, o grupo encontra uma base secreta do culto e a destrói.
+• PCs: [Não especificado]
+• NPCs: Assassinos (NPC), Cultistas do Mal Elemental (NPC), Guardas (NPC), Ladrões (NPC)
+• Localizações: Cidade Livre de Greyhawk (cidade), Base Secreta do Culto (esconderijo)
+• Loot:
+    ◦ Anéis mágicos de regresso
+    ◦ Pequenos artefatos de culto
+    ◦ Mapa da cidade
+    ◦ Recompensa dos assassinos
+• Informações Relevantes: [Nenhuma adicional]
+999 CY, 18 de Planting (2025-05-29) S26A: O Golpe dos Dados Rubi (Parte 1)
+• Descrição: Um grupo de aventureiros recebe uma missão via pergaminho mágico para recuperar os Dados Rubi da Fortuna de um cassino. Inicialmente, precisam de passar por um teste colaborativo num Armazém Hexagonal, com puzzles ligados a diferentes perícias e ilusões que testam a moral e competências.
+• PCs: Ustrax (PC), Markus Grimm (PC), Wandering Sage (PC), Bok Thunderfist (PC), Conan (PC), Valto (PC)
+• NPCs: Drennar Solace (“A Aranha Dourada”) (NPC), Sirona da Agulha Velada (Ilusionista Élfica) (NPC), Velric “Veludo” Dazzlehand (Chefe de Piso Halfling) (NPC), Big Lou (Porteiro Meio-Ogro) (NPC), Lorde Aleister Devraine (Nobre Arrogante) (NPC), Luckkeepers (Autómatos Arcanos) (NPC), Espírito da Câmara Silenciosa (NPC) [em armazém], Mestres do Duelo Falso (NPC) [em armazém], Pintura Vigilante (NPC) [em armazém], Dançarina dos Espelhos (NPC) [em armazém], Espírito do Juramento (NPC) [em armazém], Leiloeiro da Troca Rubi (NPC) [em armazém]
+• Localizações: Armazém Hexagonal (armazém), Casino “O Quinto Jogo” (cassino, Bairro do Rio, Greyhawk)
+• Objetos Descobertos: [Nenhum especificado]
+• Loot:
+    ◦ Fragmento arcano (entregue a Lord Aleister Devraine)
+• Informações Relevantes:
+    ◦ Esta sessão continua em 999 CY, 01 de Flocktime (2025-06-05)
+.
+    ◦ Drennar Solace é o mestre do crime que orquestra o teste e avalia a missão
+.
+    ◦ A segurança mágica do cassino foi arquitetada por Sirona da Agulha Velada
+.
+    ◦ O cassino tem um layout mutável e ilusões
+.
+999 CY, 01 de Flocktime (2025-06-05) S27A: O Golpe dos Dados Rubi (Parte 2)
+• Descrição: Continuando a missão, o grupo infiltra-se no cassino "O Quinto Jogo", usando disfarces e diplomacia. Recebem uma carta de Lorde Aleister Devraine com instruções secretas para acessar zonas restritas. Resolvem puzzles letais, como o do Cavaleiro (xadrez com torres animadas) e o do Cofre (com três trancas: mecânica, mágica e de intenção). Conseguem fugir com os Dados Rubi da Fortuna e entregam um fragmento arcano a Lorde Aleister Devraine, aumentando a sua reputação no submundo.
+• PCs: Ustrax (PC), Markus Grimm (PC), Wandering Sage (PC), Bok Thunderfist (PC), Conan (PC), Valto (PC)
+• NPCs: Drennar Solace (“A Aranha Dourada”) (NPC), Sirona da Agulha Velada (Ilusionista Élfica) (NPC), Velric “Veludo” Dazzlehand (Chefe de Piso Halfling) (NPC), Big Lou (Porteiro Meio-Ogro) (NPC), Lorde Aleister Devraine (Nobre Arrogante) (NPC), Luckkeepers (Autómatos Arcanos) (NPC)
+• Localizações: Casino “O Quinto Jogo” (cassino), Sala do Cavaleiro (sala), Sala do Cofre (sala)
+• Objetos Descobertos:
+    ◦ Carta de Lorde Aleister Devraine
+    ◦ Dados Rubi da Fortuna (para o contratante)
+• Loot: [Nenhum especificado explicitamente]
+• Informações Relevantes:
+    ◦ A reputação do grupo no submundo aumenta
+.
+    ◦ O casino continua funcional, mas vigiado
+.
+S27B: A Visão de Pryssana e o Chifre de Unicórnio
+• Descrição: Dustin recebe uma visão de Pryssana, que lhe dá a missão de obter um chifre de unicórnio sem violência para forjar uma arma. O grupo viaja para o Vale de Lytharien, um lugar sagrado protegido por uma tribo de kobolds que veneram o unicórnio. Dustin, com a ajuda de uma alma pura e virgem, consegue que o chifre se desprenda suavemente.
+• PCs: Dustin (PC) [e grupo], [não especificados]
+• NPCs: Pryssana (Fey) (NPC), Unicórnio Sagrado (Criatura Mágica) (NPC), Kobolds Tribais (NPC), Kobold Shaman (NPC), Guardião Ancião (Líder Guerreiro Kobold) (NPC), Titania (Deusa) (NPC)
+• Localizações: Vale de Lytharien (vale)
+• Objetos Descobertos:
+    ◦ Corno sagrado do unicórnio (forjável numa espada mágica +2)
+• Loot:
+    ◦ Bênção de Titania (vantagem em testes de Carisma com fey e animais por 30 dias)
+    ◦ Artefatos tribais
+    ◦ Oferendas do vale
+• Informações Relevantes:
+    ◦ Prysanna revela que o chifre é para forjar uma espada mágica +2 com +1d4 de dano radiante contra mortos-vivos e demónios, e Detect Evil and Good 1x/dia
+.
+    ◦ O ritual exige uma alma pura e virgem que toque o unicórnio com devoção por 3 turnos de concentração
+.
+    ◦ Se o unicórnio fosse ferido, ele desapareceria e Titania amaldiçoaria os heróis
+.
+    ◦ Os kobolds veneram o unicórnio como o "Deus do Um Chifre"
+.
+999 CY, 02 de Flocktime (2025-06-19) S28A: Laboratório Arcana Subterrâneo e Culto de Sangue
+• Descrição: Eldric Silvanus e outros investigam ruídos estranhos sob uma taberna abandonada. Descobrem um laboratório arcano selado e uma sociedade tribal de ratos inteligentes com um culto de sangue. A caverna colapsa, mas a cidade ignora os eventos.
+• PCs: Eldric Silvanus (PC) [e outros não especificados]
+• NPCs: Vidente Escarlate (NPC), Rato-Escriba (NPC), Rato-Coral (NPC), Ratos de Sangue (NPC)
+• Localizações: Taberna Abandonada (taberna), Laboratório Arcana (laboratório), Caverna (caverna)
+• Objetos Descobertos: [Nenhum especificado]
+• Loot:
+    ◦ Ouro escondido
+• Informações Relevantes:
+    ◦ O culto de sangue dos ratos inteligentes pode ser ligado a eventos futuros [inferido].
+999 CY, 05 de Flocktime (2025-07-10) S29A: O Museu das Maravilhas Sombras
+• Descrição: Leo, Zahel e Ulma recebem bilhetes misteriosos para o Museu das Maravilhas Naturais e Arcanas de Greyhawk. O edifício está degradado, mas com detalhes renovados. Encontram um gnomo escondido que revela o plano mortal do curador Darsen: transformar visitantes em peças de exposição. Libertam Ketrich. Darsen tenta ressuscitar a sua esposa entregando almas a um demónio (Raelith), mas é traído. O grupo derrota Darsen e o demónio, mas a esposa de Darsen revela que ambos são loucos e empalhavam visitantes. O grupo saqueia a loja de presentes e foge.
+• PCs: Leo (PC), Zahel (PC), Ulma (PC), Eirwen (PC), Ketrich Flavifer (PC)
+• NPCs: Curador Darsen (Mago Ilusionista) (NPC), Yzr'alith (Espírito do Medo e Curiosidade) (NPC), Raelith (Demónio) (NPC), Zael (Gnomo Sobrevivente) (NPC), Autómatos/Robôs do Museu (NPC), Mimic (Príncipe) (NPC), Esposa de Darsen (NPC), Liwana (Amiga de Ulma) (NPC)
+• Localizações: Museu das Maravilhas Naturais e Arcanas de Greyhawk (museu), Vias de Ventilação (local), Salas Secretas (salas), Laboratório (laboratório), Loja de Presentes (loja)
+• Objetos Descobertos:
+    ◦ Pergaminho da Branca de Neve (versão onde ela escravizou anões)
+    ◦ Espada Ferrao (brilha na presença de orcs), Machado Gorefien
+    ◦ Armadura amaldiçoada (envenena com chumbo)
+    ◦ Capa preta com rebordos vermelhos (brasão da Casa Darman) (Ulma)
+    ◦ Capacete da armadura (Zahel)
+    ◦ Amuletos/talismãs
+    ◦ Robôs que expelem gás paralisante e atacam com eletricidade, vulneráveis à água
+    ◦ Livro da Curiosidade Proibida
+    ◦ Jóias "cursed soul" (falsas)
+• Loot:
+    ◦ Máscara de Observação (Detect Magic 1/dia)
+    ◦ Miniatura de Gárgula Viva (Find Familiar)
+    ◦ 100 GP (cada PC, da loja de presentes)
+    ◦ 1 Gema (cada PC, 30 GP, da loja de presentes)
+• Informações Relevantes:
+    ◦ Eirwen aparece através de um portal e é reconhecida por Ulma
+.
+    ◦ Zael (gnomo sobrevivente) revela que Darsen transforma visitantes em exposições
+.
+    ◦ Ketrich é libertado de um tubo de goo verde
+.
+    ◦ Enfrentam um mezzoloth (fiend insetoide), robôs e tentáculos que agarram
+.
+    ◦ Um Mimic afirma ser um príncipe transformado, precisando de um beijo para voltar à forma original
+. O Mimic morre na luta contra Darsen
+.
+    ◦ Ulma tem um flashback da sua amiga Liwana a ser raptada
+.
+    ◦ Darsen usa a música para causar dano psíquico
+.
+    ◦ Darsen foi traído pelo demónio Raelith, que se alimentava das atrações do museu
+.
+    ◦ Darsen e sua esposa são loucos e empalhavam visitantes
+.
+    ◦ Leo faz um "funeral Viking" para os animais de pelúcia empalhados
+.
+    ◦ Zael (gnomo) recolhe os restos do Mimic para investigar a história do príncipe
+.
+999 CY, 05 de Flocktime (2025-07-17) S30A: O Ídolo de Lady Scale (Sessão 28)
+• Descrição: Os aventureiros conhecem Lady Silvra Malren, uma nobre excêntrica que herdou uma propriedade antiga de localização incerta. Eldric Silvanus decifra uma carta em dracónico arcaico, revelando pistas sobre uma estância esquecida. Consultam Wenla Frott, uma livreira gnoma, e a Grande Biblioteca. Eldric marca aulas de Infernal com a curadora Lyral Quil. Partem para as terras altas e são emboscados por goblins, os quais derrotam.
+• PCs: Eldric Silvanus (PC), Silfir (PC), Bok Thunderfist (PC)
+• NPCs: Lady Silvra Malren (Nobre Excêntrica) (NPC), Wenla Frott (Livreira Gnoma) (NPC), Mistress Lyral Quil (Curadora, Grande Biblioteca) (NPC), Gangue de Goblins (NPC), Chefe Goblin (NPC)
+• Localizações: Solar de Lady Silvra (Greyhawk) (mansão), Livraria de Wenla (livraria), Grande Biblioteca (biblioteca), Estrada para as Terras Altas (estrada)
+• Objetos Descobertos:
+    ◦ Título de propriedade (Lady Silvra)
+    ◦ Carta em dracónico arcaico
+• Loot:
+    ◦ Carta do Legado (objeto narrativo)
+    ◦ Direções vagas
+• Informações Relevantes:
+    ◦ Eldric impressiona Lyral e garante aulas
+.
+    ◦ Um chefe goblin escapa, podendo ser uma futura ameaça
+.
+999 CY, 06 de Flocktime (2025-07-24) S31A: Mapeamento dos Esgotos de Greyhawk e Piratas das Orquídeas Negras
+• Descrição: Um grupo reúne-se na taverna e recebe a missão de mapear a rede de esgotos subterrânea de Greyhawk em troca de uma recompensa em ouro. Após uma noite de bebedeira (Grix'Molah bêbedo, Eirwen desmaia), seguem para os esgotos. Encontram os Piratas das Orquídeas Negras e o seu capitão, Ralph. Após um combate, poupam Ralph e a tripulação. Descobrem que Ralph é o filho de um nobre, disfarçado, e a sua "tripulação" são crianças de rua.
+• PCs: Eirwen (PC), Asinius (PC), Grix'Molah (PC), Ulma (PC), Ustrax (PC), Vaunia (PC)
+• NPCs: Taverneiro (NPC), Guardas (NPC), Ralph (Capitão Pirata, Filho de Nobre) (NPC), Tripulação Orquídeas Negras (Crianças de Rua) (NPC)
+• Localizações: Taberna (base), Esgotos de Greyhawk (esgotos), Gardens Quarter (bairro), Guilda dos Ladrões (referência), Templo do Patrono de Grix (referência)
+• Objetos Descobertos:
+    ◦ Garrafa da bebida alcoólica mais forte (Ulma)
+    ◦ Mapa dos esgotos (do Taverneiro)
+    ◦ Moedas de cobre (na fonte)
+    ◦ Anel (encontrado num excremento no rio)
+    ◦ Roupas de pirata (de Ralph, Ulma)
+• Loot:
+    ◦ 33 GP (cada um, da polícia)
+    ◦ 200 GP (cada um, do Taverneiro)
+    ◦ 10 GP (cada um, da venda do anel)
+• Informações Relevantes:
+    ◦ Contradição: A liderança dos piratas "Black Orchids" é contraditória com a sessão S19A (999 CY, 04 de Readying), onde a irmã de Sarvian é a líder dos "Piratas da Rosa Negra". Aqui, Ralph é o capitão e filho de um nobre
+.
+    ◦ Mencionada a possibilidade de ganhar prémios no Coliseu
+.
+    ◦ Vaunia convence os guardas na entrada dos esgotos que é uma figura importante
+.
+    ◦ O grupo encontra uma porta com uma válvula, que Asinius abre com um pé de cabra
+.
+    ◦ Asinius fica triste por lutar contra os piratas que admirava
+.
+    ◦ Ulma tenta usar a bebida e uma tocha para ameaçar Ralph, que desmaia após um gole
+.
+S31B: O Ídolo de Lady Scale (Sessão 29)
+• Descrição: O grupo encontra e recruta Wandering Sage acampado nas montanhas. Têm um encontro diplomático com lizardfolk entre ruínas antigas, onde Eldric Silvanus os engana com uma história dracónica. Há uma troca cultural, com os aventureiros a ensinar a cozinhar e a receber membros da tribo em troca de adagas. Investigações levam a ruínas submersas, onde enfrentam esqueletos.
+• PCs: Eldric Silvanus (PC), Silfir (PC), Bok Thunderfist (PC), Wandering Sage (PC)
+• NPCs: Sacerdotisa Lizardfolk (NPC), Acólitos Lizardfolk (NPC), Esqueletos (Monstro) (NPC)
+• Localizações: Acampamento de Wandering Sage (acampamento), Ruínas Antigas (ruínas), Ruínas Submersas (ruínas)
+• Objetos Descobertos:
+    ◦ Adagas (recebidas na troca cultural)
+    ◦ Indicação de ruínas submersas (ligação a lagoa azul)
+• Loot:
+    ◦ Ouro
+• Informações Relevantes:
+    ◦ Eldric Silvanus convence os trogloditas a colaborar
+.
+    ◦ Partilha de conhecimentos culinários
+.
+999 CY, 07 de Flocktime (2025-07-31) S32A: O Ídolo de Lady Scale (Sessão 30)
+• Descrição: Eirwen junta-se ao grupo. Chegam à estância, agora gerida por kobolds entusiastas, que oferecem serviços de spa com efeitos variados. Numa Sala Silenciosa, Lady Scale, um fantasma, aparece e pede para ser libertada do barulho incessante, mas os kobolds a interpretam como uma deusa do barulho. Um combate caótico irrompe, com Lady Scale a ajudar e a ferir aliados. A estância é purificada, mas mistérios persistem.
+• PCs: Eldric Silvanus (PC), Silfir (PC), Bok Thunderfist (PC), Wandering Sage (PC), Eirwen (PC)
+• NPCs: Lady Scale (Fantasma) (NPC), Snert/Pufftail (Sacerdote Kobold) (NPC), Kobolds Cromáticos (The Scale-Flock) (NPC)
+• Localizações: Estância Kobold (spa), Sala Silenciosa (sala)
+• Objetos Descobertos: [Nenhum especificado]
+• Loot:
+    ◦ Ouro
+• Informações Relevantes:
+    ◦ Alguns PCs ganham bónus, outros sofrem efeitos estranhos dos tratamentos de spa
+.
+    ◦ Lady Scale pode estar ligada a Tiamat
+.
+    ◦ Misterios como a ligação de Devraine e a Gema das Cinco Vozes persistem
+.
+2025-07-24 (Data Inferida: Após linha temporal principal, sessão separada) S33A: A Luta na Taberna e a Bruxa do Mar
+• Descrição: Ketrich e Nina encontram-se numa taberna e são convidados a uma recém-aberta. No River Quarter, num restaurante de peixe, a comida "enlouquece", transformando-se em caranguejos e polvos gigantes que, ao serem mortos, revelam-se humanos polimorfos. Investigam o porto e encontram um barco suspeito. Uma mulher se revela uma bruxa do mar (sea hag) que transformava pessoas em criaturas marinhas. O grupo derrota a bruxa e descobre que a empregada do restaurante estava envolvida.
+• PCs: Nina (PC), Jojo (PC), Primrose (PC), Sanji (PC), Poto (PC), Ketrich Flavifer (PC)
+• NPCs: Kas Kardwall (Chef/Dono da Taberna) (NPC), Tritão (NPC), Cozinheiro Goblin (NPC), Mulher (Bruxa do Mar) (NPC), Ghouls (Monstro) (NPC), Elementais da Água (Monstro) (NPC), Empregada do Restaurante (NPC)
+• Localizações: Taberna (base), River Quarter (bairro), Restaurante de Peixe (restaurante), Porto (porto), Sandpiper (embarcação) [referência], Barco Suspeito (covil da bruxa)
+• Objetos Descobertos: [Nenhum especificado]
+• Loot: [Nenhum especificado explicitamente]
+• Informações Relevantes:
+    ◦ Matar as criaturas marinhas as transforma de volta em humanos
+.
+    ◦ A bruxa do mar conjura 4 ghouls e 2 elementais da água
+.
+    ◦ Poto salva o grupo
+.
+    ◦ A empregada do restaurante comprou o "peixe" da bruxa
+.
+2025-07-24 (Data Inferida: Após linha temporal principal, sessão separada) S34A: O Eclipse de Vauria - Sessão 1: O Eclipse e o Chamado (Inferido)
+• Descrição: Os jogadores chegam à vila de Vauria, onde um eclipse solar persiste por mais tempo do que o normal, enlouquecendo os habitantes. Criaturas sombrias espreitam as ruas. A Baronesa Selene D'Arvoire os contrata para investigar as ruínas do Monastério dos Picos Sussurrantes, onde aprendem sobre o Prisma Celestial, que pode restaurar o sol.
+• PCs: [Não especificado]
+• NPCs: Baronesa Selene D'Arvoire (NPC), Edric Valmor (NPC), Darian Holt (NPC), Matthos Grenn (NPC), Veylan Dusk (NPC), Gregor Faelan (NPC), Eldora Vexley (NPC), Mariel Thorne (NPC), Lisbet Alvaren (NPC), Seraphine Vael (NPC), Ravena Morwyn (NPC), Ezren (Menino) (NPC), Sylva (Menina) (NPC), Cassiel (Criança) (NPC), Vaelis (Órfão) (NPC), Nyxen (Sonhador) (NPC), Sombras (Monstro) (NPC), Cultistas (NPC), Sacerdote das Sombras (NPC), Bearded Devil (Monstro) (NPC), Mage Apprentice (NPC), Spectator (Monstro) (NPC)
+• Localizações: Vauria (vila), Ruínas do Monastério dos Picos Sussurrantes (monastério), Biblioteca Escondida (biblioteca)
+• Objetos Descobertos:
+    ◦ Prisma Celestial (artefato, descoberto em fragmentos)
+• Loot: [Nenhum especificado]
+• Informações Relevantes:
+    ◦ O "olho na escuridão" é um spectator que guarda a porta do monastério
+.
+    ◦ O Prisma Celestial está partido em três fragmentos, escondidos em locais diferentes
+.
+    ◦ O Vigia Noturno (Shadow Demon) ataca após a descoberta dos fragmentos
+.
+    ◦ A Caverna das Lágrimas de Cristal é protegida por um sea-hag
+.
+    ◦ A Torre do Eclipse é guardada por 1 grifo e 2 Harpia Sanguinaria
+.
+2025-07-24 (Data Inferida: Após linha temporal principal, sessão separada) S35A: Sombras Sobre a Água (Inferido)
+• Descrição: Gauthak recebe uma carta misteriosa de Darvek, alertando que Lorde Vaeltherin Duskbane se aliou ao Culto do Mal Elemental e procura relíquias antigas. O grupo viaja para Miren's Hollow. Encontram Darvek, que é levado para o Lago Sombrio por sombras. O grupo persegue, entra numa gruta, enfrenta criaturas das sombras e confronta Pravi Smjer, tenente de Vaeltherin, que revela o plano de abrir um portal para o Plano Elemental da Terra.
+• PCs: Gauthak (PC), Talya (PC), Whisper (PC), Drayl (PC)
+• NPCs: Darvek (Espião/Informante) (NPC), Lorde Vaeltherin Duskbane (Cultista) (NPC), Elementais Menores de Terra (Monstro) (NPC), Brennan (Taverneiro) (NPC), Sombras Corruptas (Monstro) (NPC), Aparição Sombria (Monstro) (NPC), Corações de Sombra (Monstro) (NPC), Pravi Smjer (Tenente de Vaeltherin) (NPC), Warg (Monstro) (NPC)
+• Localizações: Grande Taberna de Greyhawk (base), Miren's Hollow (aldeia), Lago Sombrio (lago), Taberna "A Sombra e a Água" (taberna), Gruta das Sombras (gruta)
+• Objetos Descobertos:
+    ◦ Carta de Darvek (para Gauthak)
+    ◦ Amuleto simples de madeira (Darvek)
+    ◦ Relíquia Elemental (no pedestal)
+• Loot:
+    ◦ 500 GP (dividido por todos)
+    ◦ Medalhão (corrompe quem o usa, Gauthak)
+• Informações Relevantes:
+    ◦ Darvek é um espião e informante
+.
+    ◦ Vaeltherin busca uma Relíquia Elemental para abrir um portal para o Plano Elemental da Terra
+.
+    ◦ Pravi Smjer é um guerreiro corrompido pela magia elemental
+.
+    ◦ A Relíquia Elemental corrompe o terreno em combate
+.
+    ◦ Gauthak está "marcado" por Vaeltherin
+.
+PCs Allan (PC) [Ustrax] Arkos (PC) Asinius (PC) Bok Thunderfist (PC) Carlos (PC) [Kai] Conan (PC) Cristiana (PC) [Triss] Daniel (PC) [Markus Grimm] Drayl (PC) Dustin (PC) Eirwen (PC) Eldric Silvanus (PC) Endouvan (PC) Fábio Oliveira (PC) [Raylahn] Flynn (PC) Frederick Freddy (PC) Gauthak (PC) Grix'Molah (PC) Hugo Ferreira (PC) [Wandering Sage, Ketrich] Jojo (PC) Kai (PC) Ketrich Flavifer (PC) Leo (PC) Leonel Pereira (PC) [Silfir] Lone Straw (PC) Luís (PC) [Conan, Flynn, Bok Thunderfist] Macarena (PC) [Vaunia] Markus Grimm (PC) Nina (PC) Orianna (PC) Paulo (PC) [Dustin] Poto (PC) Primrose (PC) Rafael Mesquita (PC) [Drayl] Raylahn (PC) Ricardo (PC) [Grix'Molah, Varus] Sanji (PC) Sarvian Midlor (PC) Silfir (PC) Talya (PC) Tomás Lucas (PC) [Valto] Triss (PC) Ulm (PC) Usopp (PC) Ustrax (PC) Valto (PC) Varus (PC) Vaunia (PC) Wandering Sage (PC) Whisper (PC) Zahel (PC) [Zahel, o Verdan, e Zael, o gnomo do museu, são presumivelmente a mesma personagem] Zeldris (PC) [Alter ego de Varus]
+NPCs Abílio (Mercador) (NPC) Abigail (Filha de Abril, Shapeshifter) (NPC) Abril (Halfling Prefeita, Shapeshifter) (NPC) Acólitos Lizardfolk (NPC) Agentes da Cidade (NPC) Alaric (Mordomo da Blackfair Manor) (NPC) Almeric Tormic (Espírito Corrompido, Patriarca da Peculiar Manor) (NPC) Antiga Namorada de Conan (Sacerdotisa do Culto) (NPC) Aparição Espectral (NPC) Aria Greenbottle (Halfling) (NPC) Armadura Animada (Monstro) (NPC) Arriya (Fae) (NPC) Asinius (PC) Autómatos/Robôs do Museu (NPC) Baltigard (Humano) (NPC) Bandidos (NPC) Baronesa Selene D'Arvoire (NPC) Basilisco da Lama (Monstro) (NPC) Basilisco Progenitor (Monstro) (NPC) Bearded Devil (Monstro) (NPC) Beltar (Deusa) (NPC) Bera Flyingman (NPC) Big Lou (Porteiro Meio-Ogro) (NPC) Blob (NPC) Boaz (Lobo Companion de Vaunia) (NPC) Borogrove (Treant) (NPC) Brennan (Taverneiro) (NPC) Brok (NPC) Bugbear Líder (NPC) Bullywugs (NPC) Capanga-mor (NPC) Capitão Pirata Ralph (Filho de Nobre, Disfarçado) (NPC) Cassiel (Criança) (NPC) Cavaleiro da Luz (Kobold) (NPC) Celestia (Deusa) (NPC) Chef Goblin (NPC) Chefe Goblin (NPC) Clipse (Kobold) (NPC) Clérigo de St. Cuthbert (NPC) Cleseur (Vidente) (NPC) Cocas (Bullywug, Amigo de Infância de Conan) (NPC) Comerciantes Locais (NPC) Comerciantes Suspeitos (NPC) Companhia das Três Pedras (NPC) Contratantes da Companhia (NPC) Contrabandistas (NPC) Corcel (Animal) (NPC) Corações de Sombra (Monstro) (NPC) Criatura das Sombras (Monstro) (NPC) Criaturas Flamejantes (Monstro) (NPC) Cultistas (NPC) Cultistas de Nerull (NPC) Dama Abril (Halfling Prefeita, Shapeshifter) (NPC) Dama Sombria (NPC) Dandan (Kobold Alado) (NPC) Darvek (Espião/Informante) (NPC) Darian Holt (NPC) Drennar Solace (“A Aranha Dourada”) (NPC) Druida de Obad-Hai (NPC) Edred e Sylva Tormic (Espíritos de Crianças) (NPC) Edric Valmor (NPC) Egalar (Paladino de Titania) (NPC) Eladrin Elfo (NPC) Eldora Vexley (NPC) Elemental da Terra (Monstro) (NPC) Elementais da Água (Monstro) (NPC) Elementais do Fogo (Monstro) (NPC) Elementais Menores de Terra (Monstro) (NPC) Eliza Greenbottle (Mãe de Aria) (NPC) Elfo Inconsciente (NPC) Elina (Elfa) (NPC) [Mesmo que Elisa/Iliana] Empregada do Restaurante (NPC) Endo Bom Sossego (Illithid Abductee) (NPC) Espectro (Boss) (NPC) Espírito da Câmara Silenciosa (NPC) Espírito do Juramento (NPC) Esposa de Darsen (NPC) Esqueletos (Monstro) (NPC) Ezren (Menino) (NPC) Fauna Corrompida (Monstro) (NPC) Feiticeiro (NPC) Fifaera (Fae) (NPC) Figuras Encapuzadas (NPC) Finn Greenbottle (Irmão Gémeo de Aria) (NPC) Galin Fiduain (Druida Infectado) (NPC) Gangue de Goblins (NPC) Gardas (NPC) Garruk Valstein (Paladino de Beltar) (NPC) Geralt (Taverneiro de Two Fords) (NPC) Ghast (Monstro) (NPC) Ghouls (Monstro) (NPC) Gladiadores (NPC) Goblin (Monstro) (NPC) Goblin Patrol (NPC) Goblin Shaman (NPC) Goblin Vigias (NPC) Goblins (NPC) Goblins Escravos (NPC) Golem de Ossos (Monstro) (NPC) Gorath, o Esmagador (Chefe Orc) (NPC) Guardas da Cidade (NPC) Guardião Ancião (Líder Guerreiro Kobold) (NPC) Gregor Faelan (NPC) Greta (Kobold) (NPC) Half-Dragon Gigante (Monstro) (NPC) Harlon (Dono da Taberna de Trixie) (NPC) Hector Scornsbane (Personalidade de Malrik Dorn) (NPC) [Contradição/Apelido] Homens-Serpente (NPC) Hook Horror (Monstro) (NPC) Humanos/Élficos Prisioneiros (NPC) Ithyros, o Renegado Temporal (Lizardfolk Sorcerer) (NPC) Jeraldina (Meia-orc Mercadora) (NPC) Jogmaahx (Goblin Xamã) (NPC) Kas (NPC) Kas Kardwall (Chef/Taverneiro) (NPC) Kilmy Midlor (Irmã de Sarvian, Líder Pirata) (NPC) Kobold Shaman (NPC) Kobolds (NPC) Kobolds Alados (NPC) Kobolds Cromáticos (The Scale-Flock) (NPC) Kobolds Cultistas (NPC) Kobolds Tribais (NPC) Kristryd Splitanvil (Anão, Presidente de Blackstone) (NPC) Kythria (Sobrinhad do Taverneiro) (NPC) Lady Scale (Fantasma) (NPC) Lady Silvra Malren (Nobre Excêntrica) (NPC) Laird Almeric Tormic (Espírito Corrompido) (NPC) Ladrões (NPC) Leiloeiro da Troca Rubi (NPC) Líder da Ordem Escarlate (NPC) Líderes de Bairro (NPC) Líderes de Culto (NPC) Líderes de Tribo (NPC) Lila (Filha de Geralt) (NPC) Liwana (Amiga de Ulma) (NPC) Lisbet Alvaren (NPC) Lorde Aleister Devraine (Nobre Arrogante) (NPC) Lorde Coriver (Inimigo da Rainha Caecena) (NPC) Lorde Dain Vanthir (Pai de Eltharion Vanthir) (NPC) Lorde Vaeltherin Duskbane (Líder do Culto do Mal Elemental) (NPC) Luckkeepers (Autómatos Arcanos) (NPC) Luthor (Paladino de Beltar) (NPC) Luthor “Martelo da Fé” Greystone (Paladino de Beltar) (NPC) Lyra (Curadora, Grande Biblioteca) (NPC) Mago (NPC) Mago Incendiário (NPC) Malrik Dorn (Alto-Inquisidor, Paladino de Beltar) (NPC) Manvea (Amiga de Vaunia) (NPC) [Mesmo que Morvanya] Maria Hortênsia (Vendedora de Queijo) (NPC) Mariel Thorne (NPC) Matthos Grenn (NPC) Mercadores (NPC) Mestre dos Ratos (NPC) Mestre Yoda (Chefe Bullywug) (NPC) Mestres do Duelo Falso (NPC) Mephit de Fumaça (Monstro) (NPC) Mephit de Vapor (Monstro) (NPC) Mimic (Príncipe) (NPC) Mind Flayers (Monstro) (NPC) Minhoca Gigante (Monstro) (NPC) Miren (Ladrão) (NPC) Mistress Lyral Quil (Curadora, Grande Biblioteca) (NPC) Moradores Antigos (NPC) Morvanya (Acólita de Nerull, Serva da Foice Eterna) (NPC) [Mesmo que Manvea] Mulher (Bruxa do Mar) (NPC) Myria (Anã Mercadora) (NPC) Nerull (Deus da Morte) (NPC) Nyxen (Sonhador) (NPC) Nyx'Zul (O Olho na Escuridão) (NPC) Obelisco Negro (Artefacto) (NPC) Odrak (Líder do Culto) (NPC) Ogre (Monstro) (NPC) Orcs (Monstro) (NPC) Org Nenshen ("Senhor das Sombras", Líder da Guilda dos Ladrões) (NPC) Paladinos de Beltar (NPC) Padre de Pelor (Sombra) (NPC) Pero (Guarda) (NPC) Pintura Vigilante (NPC) Piratas da Rosa Negra (NPC) Pravi Smjer (Tenente de Vaeltherin) (NPC) Prisioneiros (humanos/élficos/goblins) (NPC) Prysanna (Fey, Amor Fadado de Dustin) (NPC) Rainha Caecena (Rainha dos High Fae) (NPC) Raelith (Demónio) (NPC) Ralph (Capitão Pirata, Filho de Nobre) (NPC) Rato-Coral (NPC) Rato-Escriba (NPC) Ratos de Sangue (NPC) Ratú (Rato) (NPC) Ravena Morwyn (NPC) Raveth Xil'Zyrl (Drow Exilado e Ambicioso) (NPC) Recém-Chegados (NPC) Rei Sombrio (Espírito) (NPC) Relíquia Elemental (Artefato) (NPC) Rix (Kobold Criança) (NPC) Roger (Dono de Loja de Brinquedos) (NPC) Rolger (Hobgoblin Peludo) (NPC) Sacerdotisa Lizardfolk (NPC) Sarvian (Jovem) (NPC) Sarvian do Futuro (Humanoide Disfarçado) (NPC) Sea-Hag (Monstro) (NPC) Seraphine Vael (NPC) Servos Fúngicos (Monstro) (NPC) Shapeshifters (Monstro) (NPC) Silfra (NPC) Sirona da Agulha Velada (Ilusionista Élfica) (NPC) Sir Brand Orvain (Paladino de Beltar) (NPC) Snert/Pufftail (Sacerdote Kobold) (NPC) Snikil Pescabrasa (Líder Kobold) (NPC) Sô Paulo (Taberneiro de High Ery) (NPC) Sombras (Monstro) (NPC) Sombras Corruptas (Monstro) (NPC) Spectator (Monstro) (NPC) Spectral Wraith (Boss) (NPC) Sr. Abelha (Cidadão) (NPC) Sr. Henrique (Queijeiro) (NPC) Stirges (Monstro) (NPC) Sylva (Menina) (NPC) Syzzin (Dragão Vermelho Wyrmling) (NPC) Taverneiro (NPC) Taverneiro do Machado Quebrado (NPC) Teotónio (Ferreiro) (NPC) Thaldrin Voss (Gnomo Lojista) (NPC) Thargrin (Anão Morto) (NPC) Thoren (Mestre de Kung Fu, Cultista Elemental) (NPC) Titania (Rainha das Fadas) (Deusa) (NPC) Tobias Greenbottle (Pai de Aria) (NPC) Torzac (Fanático do Culto) (NPC) Tripulação Orquídeas Negras (Crianças de Rua) (NPC) Tritão (NPC) Trixie the Goblin (NPC) Unicórnio Sagrado (Criatura Mágica) (NPC) Uteluk (Vedalken, Círculo da Lua) (NPC) Vaelis (Órfão) (NPC) Vaelkor Ashbrand (Superior do Culto do Mal Elemental) (NPC) Vareth Lionmane (Paladino de Beltar) (NPC) Vedalken (NPC) Velric “Veludo” Dazzlehand (Chefe de Piso Halfling) (NPC) Vesta (Fae) (NPC) Veylan Dusk (NPC) Vigilante Noturno (Demónio das Sombras) (Monstro) (NPC) Visconde (Mordomo da Peculiar Manor) (NPC) Vítimas do Incêndio (NPC) Vrith Boralis (Mercador) (NPC) Whisperer (Figura Fae) (NPC) Xamã Kobold (NPC) XP T O (Illithid/Mind Flayer Alien) (NPC) Yzr'alith (Espírito do Medo e da Curiosidade) (NPC) Zael (Gnomo Sobrevivente) (NPC) [Mesmo que Zahel PC] Zan (Deus da Ordem Escarlate) (NPC) Zeibranth (Paladino) (NPC) Zenvis (Fae) (NPC) Zé do Pinto (Vendedor de Pintainhos e Ovos) (NPC) Ziks (Kobold) (NPC) Zorg (Illithid, Comandante da Nave-Mãe) (NPC)
+Localizações Acampamento (acampamento) Acampamento de Mercadores (acampamento) Acampamento Goblin (acampamento) Altar (altar) Altar a Celestia (altar) Altar de Nerull (altar) Altar de Titania (altar) Aldeia Bullywug (aldeia) Arbor (porto) Armazém Hexagonal (armazém) Armazéns (bairro mercantil) Bairro de Luxo (bairro em Greyhawk) Bairro Reconstruído (bairro) Base Secreta do Culto (esconderijo) Biblioteca Arcana (biblioteca) Biblioteca Escondida (biblioteca) Blackfair Manor (mansão) Blackstone (vila) Caverna (gruta) Caverna dos Dois Postes (caverna) Caverna das Lágrimas de Cristal (caverna) Casa de Abigail (casa) Casa dos Greenbottle (Greyhawk) (casa) Casino “O Quinto Jogo” (cassino) Castelo (castelo) Castelo Ruína-de-Ébano (castelo) Cidade Livre de Greyhawk (cidade) Coliseu (arena) [referência] Covil de Lord Coriver (covil) Covil da Guilda dos Ladrões (esconderijo) Doca Baixa (bairro) Erybend (cidade) Esgotos de Greyhawk (esgotos) Esgoto de Pessegueiro (esgoto) Estância Kobold (spa) Estrada para as Terras Altas (estrada) Falwur (vila) Ferraria (local) Floresta (floresta) Floresta de Gnarley (floresta) Gardens Quarter (bairro) Grande Biblioteca (biblioteca) Grande Taberna de Greyhawk (taberna) [base] Gruta (gruta) Gruta das Sombras (gruta) High Ery (vila) Lago dos Diamantes (lago) Lago Sombrio (lago) Laboratório (laboratório) Laboratório Arcana (laboratório) Livraria de Wenla (livraria) Loja de Brinquedos (loja) Loja de Presentes (loja) Mina de Obsidiana (mina) Mina-Gladiadora (mina) Miren's Hollow (aldeia) Mistmarsh (pântano) Mistwood (vila) Monastério dos Picos Sussurrantes (monastério) Montanhas Cairn (montanhas) Moinho Abandonado (moinho) Museu das Maravilhas Naturais e Arcanas de Greyhawk (museu) Nave Illithid (nave espacial) Nave-mãe Illithid (nave espacial) Parque (parque) Peculiar Manor (mansão) Pessegueiro (vila) Porto (porto) Prefeitura (edifício) Restaurante de Peixe (restaurante) Rio (rio) Rio Ery (rio) Rio Neem (rio) Ruínas (ruínas) Ruínas Antigas (ruínas) Ruínas das Sombras (ruínas) Ruínas de Templo Elemental (ruínas) Ruínas Submersas (ruínas) Sala das Oferendas (sala) Sala do Boss (sala) Sala do Cavaleiro (sala) Sala do Cofre (sala) Sala Secreta (sala) Sala Silenciosa (sala) Sapolândia (aldeia) Solar de Lady Silvra (mansão) Sul da Cidade de Greyhawk (bairro) Taberna (base) Taberna do Machado Quebrado (taberna) Taberna do Sô Paulo (taberna) Taberna de Trixie (taberna) Taberna "A Sombra e a Água" (taberna) Taberna "Última Folha" (taberna) Templo Abandonado (templo) Templo Atual da Ordem de Scarlat (templo) Templo Destruído (templo) Templo no Pântano (templo) Templo do Mal Elemental (templo) [referência] Terceiro Templo (templo) Terras Altas (região) Teatro (teatro) Toca do Dragão (gruta) Torre do Eclipse (torre) Two Fords (vila) Vale de Lytharien (vale) Vale do Nehum (vale) Vale do Vento Sombrio (vale) Vias de Ventilação (local) Vila Kobold (vila) Vítimas Sequestradas (NPC)
+Objetos Descobertos Adagas (objetos)
+Amuleto +1 (item mágico) Amuleto simples de madeira (Darvek) (objeto narrativo) Anéis mágicos de regresso (item mágico) Anel (encontrado em excremento) (objeto narrativo) Anel de chamada (item mágico) Anel para chamar a comitiva de Zorg (item mágico) Anel para chamar o Alien de volta (item mágico) Armadura amaldiçoada (envenena com chumbo) (item mágico) Armas goblin (loot) Armas improvisadas (loot) Artefato sombrio (deixado por Raveth) (objeto narrativo) Artefatos tribais (loot) Bastão com uso limitado (Conan) (item mágico) Bilhetes dourados (convite VIP) (objeto narrativo) Bilhete do baile em Blackfair Manor (objeto narrativo) Bolota mágica (item mágico) Braçadeira de defesa (loot) Bustos maquilhados (com magia de conjuração) (objeto narrativo) Caderno (com folha rasgada sobre shapeshifters) (objeto narrativo) Cajado das Flores (item mágico) Capa preta com rebordos vermelhos (brasão da Casa Darman) (Ulma) (objeto narrativo) Capacete da armadura (Zahel) (objeto narrativo) Carta amarelada e manchada de fruta (Darvek para Gauthak) (objeto narrativo) Carta de Lord Aleister Devraine (objeto narrativo) Carta de Morvanya (com planos do culto) (objeto narrativo) Carta de Thargrin (anão morto) (objeto narrativo) Carta de Vaelkor Ashbrand (objeto narrativo) Carta enigmática (Lady Silvra) (objeto narrativo) Chave pequena de ouro (objeto narrativo) Chave da cela (loot) Chaves provisórias de habitação (loot) Chicote de Transporte (Vaunia) (item mágico) Chifre sagrado do unicórnio (forjável em espada mágica +2) (item mágico) Cinto de um dos paladinos (loot) Colar de rubis e esmeraldas (loot) Colher Vorpal (Vaunia) (item mágico) Coroa (Triss) (loot) Cristal Elemental Corrompido (item mágico) Cristais de quartzo (Gauthak) (objeto narrativo) Crânio de lobo, tíbias e fémur de lobo (Dustin) (objeto narrativo) Dados Rubi da Fortuna (item mágico) Dentes de Hook Horror (Dustin) (objeto narrativo) Diário de Aria (com mapa) (objeto narrativo) Empadas (loot) Envelope (Dustin para Taverneiro) (objeto narrativo) Espada de Krixis (item mágico) Espada Ferrao (item mágico) Fragmento arcano (entregue a Lord Aleister Devraine) (objeto narrativo) Gema das Cinco Vozes (misteriosa) (objeto narrativo) Gema de fogo (loot) Gemas (loot) Inauguração da Peça "O Flautista de Hamelin" (evento) Inchada (Dustin) (objeto narrativo) Itens familiares (loot) Itens roubados (loot) Jóia da família (loot) Jóias (loot) Jóias kobold (loot) Jóias "cursed soul" (falsas) (loot) Lista de 7 nomes (Dolrea Vas é o próximo alvo) (objeto narrativo) Livro da Curiosidade Proibida (item mágico) Livro do druida (entregue ao Taverneiro) (objeto narrativo) Luvas com uma runa (objeto narrativo) Machado Gorefien (item mágico) Máscara de morte prateada (de porcelana, partida) (Vaunia) (objeto narrativo) Máscara de Observação (Detect Magic 1/dia) (item mágico) Mapa da cidade (loot) Mapa ilícito (loot) Mapa dos esgotos (loot) Medalha de bravura (loot) Medalhões (com moedas de bando rival de Greyhawk) (objeto narrativo) Medalhão (corrompe quem o usa) (item mágico) Meias (loot) Miniatura de Gárgula Viva (Find Familiar) (item mágico) Moedas (loot) Moedas de cobre (loot) Moedas sombrias (loot) Orquídea mágica (Triss) (item mágico) Papel (gaveta, não ajudou muito) (objeto narrativo) Pedra fluorescente (objeto narrativo) Pedras mágicas (3) (objeto narrativo) Pergaminho de proteção (loot) Pergaminho de ritual elemental (loot) Pergaminho de feitiço de Alarm (Vaunia) (item mágico) Pergaminho de feitiço de Comprehend Languages (Triss) (item mágico) Pergaminhos (item mágico) Poção de cura (loot) Poção menor (loot) Pó extintor mágico (loot) Quadro (Dandan e Veltrix eram amigos) (objeto narrativo) Recibo suspeito (loot) Relíquia Elemental (artefato) Relíquia amaldiçoada (objeto narrativo) Ring of Cantrips (Dustin) (item mágico) Ring of Feather Falling (Wandering Sage) (item mágico) Roupas de pirata (Ulma) (objeto narrativo) Rubi (Markus Grimm) (objeto narrativo) Selo mágico (na base do cetro) (objeto narrativo) Sete gemas (50 PO cada) (loot) Símbolo sagrado (loot) Staff of Flowers (Markus Grimm) (item mágico) Tapeçaria de Nerull (dividida em capas) (objeto narrativo) Tomo mágico (loot) Topázio (Triss) (loot)
+Loot 10 GP (Grix'Molah)
+25 GP (inimigos) 25 GP (cada um, se carroça destruída) 25 GP 75 SP e 538 CP (Varus) 33 GP (cada um, da polícia) 39 GP (cada um, do Vale do Vento Sombrio) 50 GP (cada um, da missão goblin) 50 GP (cada um, de Kaldros) 50 GP (cada um, da missão Mistwood) 50 GP (avanço) + 50 GP (final da missão) 100 GP (cada PC, da loja de presentes) 100 PO (missão de Aria) 120 GP (Dama Abril, pela Abigail) 160 GP (cada um, pela resgate de Abigail) 200 GP (Taverneiro) 200 GP (cada um, do Taverneiro) 300 GP (dividido) 360 GP (da mansão de espelhos) 500 GP (Kai) 500 GP (do castelo) 500 GP (dividido por todos, da missão Sombras Sobre a Água) 600/700 gold (da Companhia, rota no pântano) Ouro escondido (laboratório subterrâneo)
+Informações Relevantes A Companhia das Três Pedras é o nome da taberna quando referida pelo taverneiro mais velho
+. A taberna foi teleportada para a Cidade Livre de Greyhawk. A taberna está sob um feitiço que a mascara de estranhos. A taberneira de High Ery dá missões. Antigos conhecidos podem aparecer na cidade. As casas nobres em Greyhawk incluem a Casa Vanthir. As missões principais envolvem reconhecimento de terreno. Boaz é o lobo companheiro de Vaunia. Conan tinha um amigo bullywug de infância, Cocas. Conan tem uma relação complexa com seu passado devido à antiga namorada no culto. Contradição de nome: Malrik Dorn tem personalidade "Hector Scornsbane". Contradição na liderança dos piratas "Black Orchids" / "Rosa Negra". Contradições de datas de sessão entre a timeline e os resumos detalhados. Culto do Mal Elemental planeia usar fungos para causar desgraça no mundo. Dandan, o kobold alado, é morto por Gauthak em uma missão. Darvek é um espião e informante. Darsen e sua esposa têm o hobby de empalhar visitantes do museu. Dustin era um ex-membro dos Caçadores do Subterrâneo, deixado para morrer por desobedecer a uma ordem. Dustin e Prysanna estão ligados por um contrato de magia fey inquebrável, são "amantes fadados". Egalar é o paladino de Titania. Eltharion Vanthir é o verdadeiro nobre que Kai está a fingir ser. Erybend é uma cidade estratégica para rotas comerciais. Freddy roubou moedas do ferreiro em High Ery. Gauthak está "marcado" por Vaeltherin Duskbane, que o despreza. Grix'Molah tem ligação com Titania, que o pode contactar através do seu campeão Egalar. Greyhawk tem duas luas. Kai está a fingir ser o herdeiro de Iuz. Kai recebeu uma bênção da Rainha Caecena. Kaldros Veynor é um comerciante sofisticado. Krixis, o Valente, foi amaldiçoado e transformado em lobo. Lady Scale é um fantasma que os kobolds confundem com uma deusa. Lorde Vaeltherin Duskbane aliou-se ao Culto do Mal Elemental. Markus Grimm tem uma conexão com a deusa Wee Jas. Mestre Yoda é o chefe dos bullywugs. Miren é um batedor da guilda de ladrões que vive nos esgotos. Morvanya, a acólita de Nerull, era a amiga de Vaunia, Manvea. Morvanya tinha planos para expandir a influência do Culto do Mal Elemental. O "olho na escuridão" em Vauria é um spectator. Org Nenshen é o líder da Guilda dos Ladrões de Greyhawk, o "Senhor das Sombras". Peculiar Manor era o lar da família Tormic, devotos do Culto do Mal Elemental. Prysanna jura encontrar Triss após a magia Message. Rainha Caecena é a rainha dos high fae. Raveth Xil'Zyrl é um drow exilado e ambicioso que busca restaurar o poder da Casa Vanthir. Raylahn tem uma coruja familiar. Ricardo Ribeiro (Varus) vendeu a alma para a taberna por um final feliz, é o "agente secreto". Rolger, o hobgoblin, acredita que os aventureiros são doppelgangers. Sarvian do Futuro voltou no tempo para proteger o seu passado. Sarvian é um herói crucial contra o Culto do Mal Elemental no futuro. Silfir e Eldric Silvanus acordaram sem memórias. Syzzin é um dragão vermelho jovem que gosta de criar cultos. Thoren, antigo mestre de Kung Fu de Wandering Sage, trabalha para o Mal Elemental. Uteluk, um Vedalken, procura o seu amigo hobgoblin Rolger. Vaelkor Ashbrand é um superior do Culto do Mal Elemental. Varus foi restaurado com tecnologia Illithid, criando o alter ego Zeldris. Wee Jas é inimiga de Nerull, deusa da morte, lei e magia. Zael/Zahel é um Verdan (subespécie de goblin) clérigo. Zan, o Deus da Ordem Escarlate, está dentro do cetro de Dustin.

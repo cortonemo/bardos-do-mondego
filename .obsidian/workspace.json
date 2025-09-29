@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/pc/-/pc_eirwen.md",
+                "file": "docs/dm/-/npc/Fey/titania.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "pc_eirwen"
+              "title": "titania"
             }
           }
         ]
@@ -178,8 +178,25 @@
   },
   "active": "df0cab912ff9f5c4",
   "lastOpenFiles": [
-    "docs/dm/-/pc/pc_eirwen.md",
     "docs/pc/-/pc_eirwen.md",
+    "docs/dm/-/npc/Fey/titania.md",
+    "docs/npc/-/Fey/titania.md",
+    "docs/npc/-/wild/egalar.md",
+    "tools/AllNPCs.txt",
+    "tools/allPCs.txt",
+    "tools/sessions.txt",
+    "tools/greyhawk_sessions_complete.md",
+    "tools/Tales from The Great Tavern.txt",
+    "tools/greyhawk_campaign_log-locations_and_events(2025).txt",
+    "tools/AllOrganizations.txt",
+    "tools/lista_dos_npc_ e_suas_interaccoes.txt",
+    "tools/Gazetteer of Worlds and Realms.txt",
+    "tools/resumo_dos_acontecimentos_season_01_Campanha_west_marches.txt",
+    "tools/Named Beings and Groups of the Realms.txt",
+    "docs/dm/-/npc/wild/egalar.md",
+    "docs/npc/-/wild/baltigard.md",
+    "pc_grixmolah.md",
+    "docs/dm/-/pc/pc_eirwen.md",
     "docs/dm/-/pc/pc_wagner.md",
     "docs/dm/-/npc/Free City of Grehawk/kythria.md",
     "docs/npc/-/Free City of Grehawk/kythria.md",
@@ -197,19 +214,7 @@
     "docs/dm/-/pc/pc_endouven_bomsossego.md",
     "docs/dm/-/pc/pc_triss_merrill.md",
     "docs/dm/-/pc/pc_grix_molah.md",
-    "docs/pc/-/pc_frederick_junsi.md",
-    "docs/pc/-/pc_conan_barbaro_ra.md",
-    "docs/organizations/-/arcane orders/order_of_the_keepers.md",
-    "docs/pc/-/pc_flynn.md",
-    "docs/pc/-/pc_bok_thunderfist.md",
-    "docs/pc/-/pc_asinius.md",
-    "docs/pc/-/pc_wandering_sage.md",
     "assets/pc/pc_eirwen_01.png",
-    "sessões.txt",
-    "docs/locations/To-Do List – Organizações & Locais (Não-Guildas).txt",
-    "docs/locations/New Documento de Texto.txt",
-    "docs/organizations/-/allies",
-    "docs/assets/organization/psCD55.tmp",
     "docs/assets/organization/house_vanthir.png",
     "docs/assets/organization/org_blank - Copy.png",
     "docs/assets/pc/pc_kai_02.png",
@@ -217,12 +222,7 @@
     "docs/assets/pc/pc_kai_03.png",
     "docs/assets/pc/pc_kai_01.png",
     "docs/assets/pc/pc_kai_00.png",
-    "docs/organizations/-/iuz",
-    "docs/locations/realms",
     "Untitled.canvas",
-    "docs/locations/regions",
-    "Untitled.base",
-    "tools/locations_structure.txt",
     "docs/assets/pc/pc_blank.png",
     "docs/assets/location/location_blank.png"
   ]
