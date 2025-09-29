@@ -8,7 +8,7 @@
 | **🧙 Personagem**                                 | **🧙 Character**                        |
 | ------------------------------------------------- | --------------------------------------- |
 | Nome: Lucien, o Imperador Renascido               | Name:  Lucien, the Reborn Emperor       |
-| Espécie:  Humano                                  | Species:  Human                         |
+| Espécie:  Aasimar                                 | Species:  Aasimar                       |
 | Classe:  Paladino (juramento próprio) / Guerreiro | Class:  Paladin (custom oath) / Fighter |
 | Alinhamento: Neutro Legal                         | Alignment: Lawful Neutral               |
 | Background: Nobre                                 | Background: Noble                       |
