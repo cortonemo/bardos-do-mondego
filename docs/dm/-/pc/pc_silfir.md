@@ -8,13 +8,13 @@
 
 **[DM-ONLY – Não incluir na Wiki]**  
 
-| Português                                                                    | English                                                |
-| --------------------------------------------------------- | ---------------------------------------- |
-| **Jogador:** Leonel Pereira                                      | **Player:** Leonel Pereira                      |
-| **Idade:** [por preencher]                                          | **Age:**   [to be filled]                        |
-| **Contacto:** +351 961 829 607                                    | **Contact:**  +351 961 829 607                   |
-| **Instagram:** [por preencher]                                   | **Instagram:**  [to be filled]               |
-| **Discord:** [por preencher]                                       | **Discord:**  [to be filled]                   |
+| Português                                                                    | English                                                                      |
+| ---------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| **Jogador:** Leonel Pereira                                                  | **Player:** Leonel Pereira                                                   |
+| **Idade:** [por preencher]                                                   | **Age:**   [to be filled]                                                    |
+| **Contacto:** +351 961 829 607                                               | **Contact:**  +351 961 829 607                                               |
+| **Instagram:** [por preencher]                                               | **Instagram:**  [to be filled]                                               |
+| **Discord:** [por preencher]                                                 | **Discord:**  [to be filled]                                                 |
 | **Ficha D&D Beyond:** [Link](https://www.dndbeyond.com/characters/142668827) | **D&D Beyond Sheet:** [Link](https://www.dndbeyond.com/characters/142668827) |
 
 **[DM-ONLY – Não incluir na Wiki]**  

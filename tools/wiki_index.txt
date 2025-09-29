@@ -102,6 +102,7 @@
 │   ├── 📂 npc/
 │   │   └── 📄 npc_blank.png
 │   ├── 📂 organization/
+│   │   ├── 📄 house_vanthir.png
 │   │   └── 📄 org_blank.png
 │   ├── 📂 pc/
 │   │   ├── 📄 pc_arkos_vasell.png
@@ -419,66 +420,11 @@
 │   │   │   │   ├── 📄 s29_a_expedicao_aos_esgotos_de_greyhawk_ready.md
 │   │   │   │   ├── 📄 s29_idolo_de_lady_scale_ready.md
 │   │   │   │   └── 📄 s30_idolo_de_lady_scale_ready.md
-│   │   │   └── 📂 summary/
-│   │   ├── 📂 locations/
-│   │   │   ├── 📄 aldeia_abandonada.md
-│   │   │   ├── 📄 altar_de_celestia.md
-│   │   │   ├── 📄 blackfair_manor.md
-│   │   │   ├── 📄 blackstone.md
-│   │   │   ├── 📄 bosque_proximo.md
-│   │   │   ├── 📄 cairn_mountains.md
-│   │   │   ├── 📄 casa_dos_greenbottle.md
-│   │   │   ├── 📄 castelo_ruina_de_ebano.md
-│   │   │   ├── 📄 caverna_das_lagrimas_de_cristal.md
-│   │   │   ├── 📄 caverna_dos_dois_postes.md
-│   │   │   ├── 📄 caverna_infestada.md
-│   │   │   ├── 📄 caverna_submersa.md
-│   │   │   ├── 📄 cidade_de_greyhawk.md
-│   │   │   ├── 📄 cripta_das_sombras.md
-│   │   │   ├── 📄 eribend.md
-│   │   │   ├── 📄 esgotos_de_greyhawk.md
-│   │   │   ├── 📄 galeria_das_bestas.md
-│   │   │   ├── 📄 galeria_dos_lamentos.md
-│   │   │   ├── 📄 garden_quarter.md
-│   │   │   ├── 📄 garden_quarter_fountain.md
-│   │   │   ├── 📄 golden_dragon_tavern.md
-│   │   │   ├── 📄 grande_castelo.md
-│   │   │   ├── 📄 greyhawk.md
-│   │   │   ├── 📄 ilha_da_lua_negra.md
-│   │   │   ├── 📄 jardim_greyhawk.md
-│   │   │   ├── 📄 laboratorio_do_curador.md
-│   │   │   ├── 📄 lago_umbra.md
-│   │   │   ├── 📄 locais_notaveis.md
-│   │   │   ├── 📄 loja_olho_de_boccob.md
-│   │   │   ├── 📄 mercado_de_greyhawk.md
-│   │   │   ├── 📄 mina_de_obsidiana.md
-│   │   │   ├── 📄 mirens_hallow.md
-│   │   │   ├── 📄 museu_das_maravilhas.md
-│   │   │   ├── 📄 museu_das_maravilhas_naturais_e_arcanas_de_greyhawk.md
-│   │   │   ├── 📄 nave_illithid.md
-│   │   │   ├── 📄 nave_mae_illithid.md
-│   │   │   ├── 📄 outros_distritos_greyhawk.md
-│   │   │   ├── 📄 parque_da_cidade.md
-│   │   │   ├── 📄 peculiar_manor.md
-│   │   │   ├── 📄 referenced_locations_greyhawk.md
-│   │   │   ├── 📄 refugio_do_errante.md
-│   │   │   ├── 📄 riacho_subterraneo.md
-│   │   │   ├── 📄 ruinas_das_sombras.md
-│   │   │   ├── 📄 ruinas_do_forte_da_casa_vanthir.md
-│   │   │   ├── 📄 sapolandia.md
-│   │   │   ├── 📄 taberna_da_trixie.md
-│   │   │   ├── 📄 taberna_golden_dragon.md
-│   │   │   ├── 📄 taberna_machado_quebrado.md
-│   │   │   ├── 📄 taberna_sombra_de_agua.md
-│   │   │   ├── 📄 taverna.md
-│   │   │   ├── 📄 templo_abandonado_kobold.md
-│   │   │   ├── 📄 templo_ordem_de_scarlat.md
-│   │   │   ├── 📄 torre_do_eclipse.md
-│   │   │   ├── 📄 universidade_de_artes_magicas.md
-│   │   │   ├── 📄 vale_de_lytharien.md
-│   │   │   ├── 📄 vale_do_vento_sombrio.md
-│   │   │   ├── 📄 vila_de_pessegueiro.md
-│   │   │   └── 📄 vila_de_vauria.md
+│   │   │   ├── 📂 summary/
+│   │   │   ├── 📄 sessões - Bullet Points.txt
+│   │   │   ├── 📄 sessões - Ready.txt
+│   │   │   ├── 📄 sessões - Summary.txt
+│   │   │   └── 📄 timeline_season_01.md
 │   │   ├── 📂 monsters/
 │   │   │   ├── 📄 armadura_animada.md
 │   │   │   ├── 📄 borogrove_twig_blights.md
@@ -528,7 +474,8 @@
 │   │   │   │   ├── 📄 myria.md
 │   │   │   │   └── 📄 senhor_rodrik.md
 │   │   │   ├── 📂 Fey/
-│   │   │   │   └── 📄 pryssana.md
+│   │   │   │   ├── 📄 pryssana.md
+│   │   │   │   └── 📄 titania.md
 │   │   │   ├── 📂 Free City of Grehawk/
 │   │   │   │   ├── 📄 aria_greenbottle.md
 │   │   │   │   ├── 📄 bartleby_quick.md
@@ -539,8 +486,10 @@
 │   │   │   │   ├── 📄 eliza_greenbottle.md
 │   │   │   │   ├── 📄 finn_greenbottle.md
 │   │   │   │   ├── 📄 guarda_da_cidade.md
+│   │   │   │   ├── 📄 innkeeper.md
 │   │   │   │   ├── 📄 iquander_of_greyhawk.md
 │   │   │   │   ├── 📄 jandel_the_lintwatcher.md
+│   │   │   │   ├── 📄 kythria.md
 │   │   │   │   ├── 📄 lady_silvra_malren.md
 │   │   │   │   ├── 📄 lord_aleister_devraine.md
 │   │   │   │   ├── 📄 marielle_duns.md
@@ -550,7 +499,6 @@
 │   │   │   │   ├── 📄 mr_mustard.md
 │   │   │   │   ├── 📄 neliara_de_oghma.md
 │   │   │   │   ├── 📄 sister_blathine.md
-│   │   │   │   ├── 📄 taverneiro_refugio.md
 │   │   │   │   ├── 📄 tobias_greenbottle.md
 │   │   │   │   ├── 📄 tomtha_beaknose.md
 │   │   │   │   ├── 📄 trixie.md
@@ -603,6 +551,7 @@
 │   │   │   │   ├── 📄 baltigard.md
 │   │   │   │   ├── 📄 bareth_lionmane.md
 │   │   │   │   ├── 📄 borogrove.md
+│   │   │   │   ├── 📄 egalar.md
 │   │   │   │   ├── 📄 klikz.md
 │   │   │   │   ├── 📄 kobolds_infectados.md
 │   │   │   │   └── 📄 thoren.md
@@ -671,6 +620,120 @@
 │       ├── 📄 appearance.json
 │       ├── 📄 core-plugins.json
 │       └── 📄 workspace.json
+├── 📂 locations/
+│   ├── 📂 cities/
+│   │   ├── 📂 dorakaa/
+│   │   │   └── 📄 dorakaa.md
+│   │   ├── 📂 dyvers/
+│   │   │   └── 📄 dyvers.md
+│   │   ├── 📂 free_city_of_greyhawk/
+│   │   │   ├── 📂 artisans_quarter/
+│   │   │   │   ├── 📄 artisans_quarter.md
+│   │   │   │   └── 📄 guildhall_of_wizardry.md
+│   │   │   ├── 📂 bazaar/
+│   │   │   │   ├── 📄 bazaar_district.md
+│   │   │   │   ├── 📄 casa_dos_greenbottle.md
+│   │   │   │   └── 📄 city_market.md
+│   │   │   ├── 📂 clerks_quarter/
+│   │   │   │   └── 📄 clerksburg.md
+│   │   │   ├── 📂 foreign_quarter/
+│   │   │   │   ├── 📄 foreign_quarter.md
+│   │   │   │   └── 📄 rua_do_dragao_enferrujado.md
+│   │   │   ├── 📂 garden_quarter/
+│   │   │   │   ├── 📄 garden_quarter.md
+│   │   │   │   └── 📄 great_library.md
+│   │   │   ├── 📂 high_quarter/
+│   │   │   │   ├── 📄 castle_greyhawk_ruins.md
+│   │   │   │   ├── 📄 high_quarter.md
+│   │   │   │   └── 📄 old_citadel.md
+│   │   │   ├── 📂 river_quarter/
+│   │   │   │   ├── 📄 estalagem_da_companhia.md
+│   │   │   │   ├── 📄 river_quarter.md
+│   │   │   │   └── 📄 the_narrows.md
+│   │   │   ├── 📂 slum_quarter/
+│   │   │   │   └── 📄 slum_quarter.md
+│   │   │   ├── 📂 temple_row/
+│   │   │   │   ├── 📄 temple_of_oghma.md
+│   │   │   │   └── 📄 temple_row.md
+│   │   │   ├── 📂 thieves_quarter/
+│   │   │   │   └── 📄 thieves_quarter.md
+│   │   │   ├── 📂 undercity/
+│   │   │   │   └── 📄 undercity.md
+│   │   │   ├── 📂 university_quarter/
+│   │   │   │   ├── 📄 universidade_arcana.md
+│   │   │   │   └── 📄 university_quarter.md
+│   │   │   ├── 📄 cidade_de_greyhawk.md
+│   │   │   ├── 📄 esgotos_de_greyhawk.md
+│   │   │   ├── 📄 free_city_of_greyhawk.md
+│   │   │   ├── 📄 garden_quarter.md
+│   │   │   ├── 📄 garden_quarter_fountain.md
+│   │   │   ├── 📄 golden_dragon_tavern.md
+│   │   │   ├── 📄 greyhawk.md
+│   │   │   ├── 📄 jardim_greyhawk.md
+│   │   │   ├── 📄 mapa_cidade_de_greyhawk.md
+│   │   │   ├── 📄 mercado_de_greyhawk.md
+│   │   │   ├── 📄 museu_das_maravilhas.md
+│   │   │   ├── 📄 museu_das_maravilhas_naturais_e_arcanas_de_greyhawk.md
+│   │   │   ├── 📄 outros_distritos_greyhawk.md
+│   │   │   ├── 📄 parque_da_cidade.md
+│   │   │   ├── 📄 referenced_locations_greyhawk.md
+│   │   │   ├── 📄 ruinas_das_sombras.md
+│   │   │   ├── 📄 taberna_da_trixie.md
+│   │   │   ├── 📄 taberna_golden_dragon.md
+│   │   │   ├── 📄 taverna.md
+│   │   │   └── 📄 universidade_de_artes_magicas.md
+│   │   ├── 📂 irongate/
+│   │   │   └── 📄 irongate.md
+│   │   ├── 📂 ulek/
+│   │   │   └── 📄 ulek.md
+│   │   ├── 📂 veluna/
+│   │   │   └── 📄 veluna.md
+│   │   └── 📂 verbobonc/
+│   │       └── 📄 verbobonc.md
+│   ├── 📂 realms/
+│   │   ├── 📄 altar_de_celestia.md
+│   │   ├── 📄 grande_castelo.md
+│   │   ├── 📄 nave_illithid.md
+│   │   └── 📄 nave_mae_illithid.md
+│   ├── 📂 regions/
+│   │   ├── 📄 aldeia_abandonada.md
+│   │   ├── 📄 blackfair_manor.md
+│   │   ├── 📄 blackstone.md
+│   │   ├── 📄 bosque_proximo.md
+│   │   ├── 📄 cairn_mountains.md
+│   │   ├── 📄 castelo_ruina_de_ebano.md
+│   │   ├── 📄 caverna_das_lagrimas_de_cristal.md
+│   │   ├── 📄 caverna_dos_dois_postes.md
+│   │   ├── 📄 caverna_infestada.md
+│   │   ├── 📄 caverna_submersa.md
+│   │   ├── 📄 cripta_das_sombras.md
+│   │   ├── 📄 eribend.md
+│   │   ├── 📄 galeria_das_bestas.md
+│   │   ├── 📄 galeria_dos_lamentos.md
+│   │   ├── 📄 high_ery.md
+│   │   ├── 📄 ilha_da_lua_negra.md
+│   │   ├── 📄 laboratorio_do_curador.md
+│   │   ├── 📄 lago_umbra.md
+│   │   ├── 📄 mina_de_obsidiana.md
+│   │   ├── 📄 mirens_hallow.md
+│   │   ├── 📄 peculiar_manor.md
+│   │   ├── 📄 refugio_do_errante.md
+│   │   ├── 📄 riacho_subterraneo.md
+│   │   ├── 📄 ruinas_do_forte_da_casa_vanthir.md
+│   │   ├── 📄 sapolandia.md
+│   │   ├── 📄 taberna_machado_quebrado_(eribend).md
+│   │   ├── 📄 taberna_sombra_de_agua_mirens_hallows.md
+│   │   ├── 📄 templo_abandonado_kobold.md
+│   │   ├── 📄 templo_ordem_de_scarlat.md
+│   │   ├── 📄 torre_do_eclipse.md
+│   │   ├── 📄 vale_de_lytharien.md
+│   │   ├── 📄 vale_do_vento_sombrio.md
+│   │   ├── 📄 vila_de_pessegueiro.md
+│   │   └── 📄 vila_de_vauria.md
+│   ├── 📄 .To-Do List – Organizações & Locais (Não-Guildas).txt
+│   ├── 📄 geography.md
+│   ├── 📄 locais_notaveis.md
+│   └── 📄 loja_olho_de_boccob.md
 ├── 📂 loot/
 │   └── 📂 itens/
 │       ├── 📄 acorn_borogrove.md
@@ -704,58 +767,6 @@
 │       │   ├── 📄 heroes.md
 │       │   ├── 📄 pantheon.md
 │       │   └── 📄 villains.md
-│       ├── 📂 locations/
-│       │   ├── 📂 cities/
-│       │   │   ├── 📂 dorakaa/
-│       │   │   │   └── 📄 dorakaa.md
-│       │   │   ├── 📂 dyvers/
-│       │   │   │   └── 📄 dyvers.md
-│       │   │   ├── 📂 free_city_of_greyhawk/
-│       │   │   │   ├── 📂 artisans_quarter/
-│       │   │   │   │   ├── 📄 artisans_quarter.md
-│       │   │   │   │   └── 📄 guildhall_of_wizardry.md
-│       │   │   │   ├── 📂 bazaar/
-│       │   │   │   │   ├── 📄 bazaar_district.md
-│       │   │   │   │   └── 📄 city_market.md
-│       │   │   │   ├── 📂 clerks_quarter/
-│       │   │   │   │   └── 📄 clerksburg.md
-│       │   │   │   ├── 📂 foreign_quarter/
-│       │   │   │   │   ├── 📄 foreign_quarter.md
-│       │   │   │   │   └── 📄 rua_do_dragao_enferrujado.md
-│       │   │   │   ├── 📂 garden_quarter/
-│       │   │   │   │   ├── 📄 garden_quarter.md
-│       │   │   │   │   └── 📄 great_library.md
-│       │   │   │   ├── 📂 high_quarter/
-│       │   │   │   │   ├── 📄 castle_greyhawk_ruins.md
-│       │   │   │   │   ├── 📄 high_quarter.md
-│       │   │   │   │   └── 📄 old_citadel.md
-│       │   │   │   ├── 📂 river_quarter/
-│       │   │   │   │   ├── 📄 estalagem_da_companhia.md
-│       │   │   │   │   ├── 📄 river_quarter.md
-│       │   │   │   │   └── 📄 the_narrows.md
-│       │   │   │   ├── 📂 slum_quarter/
-│       │   │   │   │   └── 📄 slum_quarter.md
-│       │   │   │   ├── 📂 temple_row/
-│       │   │   │   │   ├── 📄 temple_of_oghma.md
-│       │   │   │   │   └── 📄 temple_row.md
-│       │   │   │   ├── 📂 thieves_quarter/
-│       │   │   │   │   └── 📄 thieves_quarter.md
-│       │   │   │   ├── 📂 undercity/
-│       │   │   │   │   └── 📄 undercity.md
-│       │   │   │   ├── 📂 university_quarter/
-│       │   │   │   │   ├── 📄 universidade_arcana.md
-│       │   │   │   │   └── 📄 university_quarter.md
-│       │   │   │   ├── 📄 free_city_of_greyhawk.md
-│       │   │   │   └── 📄 mapa_cidade_de_greyhawk.md
-│       │   │   ├── 📂 irongate/
-│       │   │   │   └── 📄 irongate.md
-│       │   │   ├── 📂 ulek/
-│       │   │   │   └── 📄 ulek.md
-│       │   │   ├── 📂 veluna/
-│       │   │   │   └── 📄 veluna.md
-│       │   │   └── 📂 verbobonc/
-│       │   │       └── 📄 verbobonc.md
-│       │   └── 📄 geography.md
 │       └── 📂 timeline/
 │           ├── 📂 timelines/
 │           │   ├── 📄 timeline_ancient.md
@@ -788,7 +799,8 @@
 │       │   ├── 📄 myria.md
 │       │   └── 📄 senhor_rodrik.md
 │       ├── 📂 Fey/
-│       │   └── 📄 pryssana.md
+│       │   ├── 📄 pryssana.md
+│       │   └── 📄 titania.md
 │       ├── 📂 Free City of Grehawk/
 │       │   ├── 📄 aria_greenbottle.md
 │       │   ├── 📄 bartleby_quick.md
@@ -798,8 +810,10 @@
 │       │   ├── 📄 eliza_greenbottle.md
 │       │   ├── 📄 finn_greenbottle.md
 │       │   ├── 📄 guarda_da_cidade.md
+│       │   ├── 📄 innkeeper.md
 │       │   ├── 📄 iquander_of_greyhawk.md
 │       │   ├── 📄 jandel_the_lintwatcher.md
+│       │   ├── 📄 kythria.md
 │       │   ├── 📄 lady_silvra_malren.md
 │       │   ├── 📄 lord_aleister_devraine.md
 │       │   ├── 📄 marielle_duns.md
@@ -809,7 +823,6 @@
 │       │   ├── 📄 mr_mustard.md
 │       │   ├── 📄 neliara_de_oghma.md
 │       │   ├── 📄 sister_blathine.md
-│       │   ├── 📄 taverneiro_refugio.md
 │       │   ├── 📄 tobias_greenbottle.md
 │       │   ├── 📄 tomtha_beaknose.md
 │       │   ├── 📄 trixie.md
@@ -862,15 +875,24 @@
 │           ├── 📄 baltigard.md
 │           ├── 📄 bareth_lionmane.md
 │           ├── 📄 borogrove.md
+│           ├── 📄 egalar.md
 │           ├── 📄 klikz.md
 │           ├── 📄 kobolds_infectados.md
 │           └── 📄 thoren.md
 ├── 📂 organizations/
 │   └── 📂 -/
+│       ├── 📂 allies/
+│       │   ├── 📄 amphibian_conclave.md
+│       │   ├── 📄 dragon_arcana_co.md
+│       │   ├── 📄 funguys.md
+│       │   ├── 📄 ratus_workshop.md
+│       │   └── 📄 the_company.md
 │       ├── 📂 arcane orders/
 │       │   ├── 📄 circle_of_coin_mages.md
 │       │   ├── 📄 circle_of_eight.md
 │       │   ├── 📄 mages_guild.md
+│       │   ├── 📄 order_of_the_keepers.md
+│       │   ├── 📄 shiverglass_lodge.md
 │       │   └── 📄 society_of_magi.md
 │       ├── 📂 cults/
 │       │   ├── 📄 cult_of_elemental_evil.md
@@ -879,7 +901,21 @@
 │       │   ├── 📄 followers_of_titania.md
 │       │   ├── 📄 iridescent_temple.md
 │       │   ├── 📄 loviatans.md
-│       │   └── 📄 order_of_scarlat.md
+│       │   ├── 📄 order_of_beltar.md
+│       │   ├── 📄 order_of_scarlat.md
+│       │   └── 📄 redbrands.md
+│       ├── 📂 factions/
+│       │   ├── 📄 black_orchids.md
+│       │   ├── 📄 clan_ferrugio.md
+│       │   ├── 📄 crimson_oath.md
+│       │   ├── 📄 ditch_rats.md
+│       │   ├── 📄 house_azhthalith.md
+│       │   ├── 📄 house_vanthir.md
+│       │   ├── 📄 merchants_consortium.md
+│       │   ├── 📄 noble_houses.md
+│       │   ├── 📄 order_of_beltar.md
+│       │   ├── 📄 redbrands.md
+│       │   └── 📄 scale_flock.md
 │       ├── 📂 guilds/
 │       │   ├── 📄 assassins_guild.md
 │       │   ├── 📄 guild_of_architects_and_mason.md
@@ -899,9 +935,12 @@
 │       │   ├── 📄 irongate_navy.md
 │       │   ├── 📄 merchant_assembly.md
 │       │   └── 📄 university_of_magical_arts.md
-│       ├── 📂 orders/
-│       ├── 📂 secret societies/
-│       └── 📄 the_company.md
+│       └── 📂 iuz/
+│           ├── 📄 cult_of_the_fiendfather.md
+│           ├── 📄 fiendish_envoys.md
+│           ├── 📄 greater_boneheart.md
+│           ├── 📄 red_chains.md
+│           └── 📄 ritekeepers.md
 ├── 📂 pc/
 │   └── 📂 -/
 │       ├── 📄 pc_arkos_vasell.md
@@ -914,7 +953,7 @@
 │       ├── 📄 pc_eldric_silvanos.md
 │       ├── 📄 pc_endouven_bomsossego.md
 │       ├── 📄 pc_flynn.md
-│       ├── 📄 pc_friedrick_junsi.md
+│       ├── 📄 pc_frederick_junsi.md
 │       ├── 📄 pc_gauthak_vunakamune.md
 │       ├── 📄 pc_grix_molah.md
 │       ├── 📄 pc_kai.md

@@ -1,0 +1,59 @@
+---
+
+### **Output Example**
+
+Example structure for one mission file:
+
+```markdown
+# Mission 01 – Os Fungos do Bosque
+
+## 🗓 Session Timeline
+| Semana | Data | Sessão Ajustada | Nome da Sessão |
+|--------|------|-----------------|----------------|
+| 01     | 2025-01-02 | S01 | O Riacho Poluído e o Fungo Elemental |
+
+---
+
+## 📖 Summary
+| Português | English |
+|------------|---------|
+| Aventureiros recém-chegados ao mundo de Greyhawk acordam no Grande Castelo... | Adventurers newly arrived in the world of Greyhawk awaken in the Great Castle... |
+
+---
+
+## 🎲 Ready to Play
+| Português | English |
+|------------|---------|
+| **Cena 1:** O Grande Castelo... | **Scene 1:** The Great Castle... |
+
+---
+
+## 🔹 Bullet Points
+| Português | English |
+|------------|---------|
+| - Encontram Borogrove, um treant preocupado... | - Meet Borogrove, a concerned treant... |
+
+---
+
+## 👥 PCs
+| Personagem | Character |
+|------------|-----------|
+| Grix | Grix |
+
+---
+
+## 🧙 NPCs
+| NPC | Descrição |
+|-----|-----------|
+| [Borogrove](../../npc/borogrove.md) | Treant que guia o grupo... |
+
+---
+
+## 💰 Loot
+| Item | Personagem | Valor |
+|------|------------|-------|
+| Staff of Flowers | Markus | - |
+
+---
+
+```

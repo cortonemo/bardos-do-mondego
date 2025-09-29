@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/pc/-/pc_lucien.md",
+                "file": "docs/dm/-/pc/pc_arkos_vasell.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "pc_lucien"
+              "title": "pc_arkos_vasell"
             }
           }
         ]
@@ -54,7 +54,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de ficheiros"
+              "title": "Files"
             }
           },
           {
@@ -167,18 +167,27 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir Quick Switcher": false,
-      "graph:Abrir Visualização de diagrama de grafo": false,
-      "daily-notes:Abrir nota de hoje": false,
-      "templates:Inserir templates": false,
-      "command-palette:Abrir paleta de comando": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "canvas:Create new canvas": false
     }
   },
   "active": "df0cab912ff9f5c4",
   "lastOpenFiles": [
-    "docs/dm/-/pc/pc_lucien.md",
+    "tools/empty_sessions.txt",
+    "docs/dm/-/npc/Free City of Grehawk/aria_greenbottle.md",
+    "docs/dm/-/pc/pc_silfir.md",
+    "tools/wiki_index.txt",
+    "docs/dm/-/adventures/empty_sessions.txt",
+    "tools/Greyhawk Campaign Chronicles- Elemental Evil and Illithid Intrigue.txt",
+    "docs/dm/-/adventures/sessões - Summary.txt",
+    "docs/dm/-/adventures/sessões - Ready.txt",
+    "docs/dm/-/adventures/sessões - Bullet Points.txt",
+    "docs/dm/-/pc/pc_eldric_silvanos.md",
     "docs/pc/-/pc_eirwen.md",
     "pc_grixmolah.md",
     "docs/pc/-/pc_triss_merrill.md",
@@ -194,13 +203,6 @@
     "tools/AllNPCs.txt",
     "tools/allPCs.txt",
     "tools/sessions.txt",
-    "tools/Tales from The Great Tavern.txt",
-    "tools/greyhawk_campaign_log-locations_and_events(2025).txt",
-    "tools/AllOrganizations.txt",
-    "tools/lista_dos_npc_ e_suas_interaccoes.txt",
-    "tools/Gazetteer of Worlds and Realms.txt",
-    "tools/resumo_dos_acontecimentos_season_01_Campanha_west_marches.txt",
-    "tools/Named Beings and Groups of the Realms.txt",
     "docs/dm/-/npc/wild/egalar.md",
     "docs/npc/-/wild/baltigard.md",
     "docs/dm/-/pc/pc_wagner.md",
@@ -211,9 +213,6 @@
     "docs/npc/-/Eribend/branwir.md",
     "docs/npc/-/Eclipse Tower/zavros_karamark.md",
     "docs/npc/-/Blackstone/kristryd_splitanvil.md",
-    "docs/npc/-/Abandoned Village/vaelkor_ashbrand.md",
-    "docs/dm/-/pc/pc_orianna.md",
-    "docs/dm/-/pc/pc_arkos_vasell.md",
     "assets/pc/pc_eirwen_01.png",
     "docs/assets/organization/house_vanthir.png",
     "docs/assets/organization/org_blank - Copy.png",

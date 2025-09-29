@@ -13,13 +13,13 @@
 
 **[DM-ONLY – Não incluir na Wiki]**  
 
-| Português                                                                    | English                              |
-| ---------------------------------------------------------------------------- | ------------------------------------ |
-| **Jogador:** Ivo Simões                                                      | **Player:** Ivo Simões               |
-| **Idade:** 31                                                                | **Age:** 31                          |
-| **Contacto:** +351 933 045 339                                               | **Contact:** +351 933 045 339        |
-| **Instagram:** @ivoafsimoes                                                  | **Instagram:** @ivoafsimoes          |
-| **Discord:** wintersghost94                                                  | **Discord:** wintersghost94          |
+| Português                                                                    | English                                                                      |
+| ---------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| **Jogador:** Ivo Simões                                                      | **Player:** Ivo Simões                                                       |
+| **Idade:** 31                                                                | **Age:** 31                                                                  |
+| **Contacto:** +351 933 045 339                                               | **Contact:** +351 933 045 339                                                |
+| **Instagram:** @ivoafsimoes                                                  | **Instagram:** @ivoafsimoes                                                  |
+| **Discord:** wintersghost94                                                  | **Discord:** wintersghost94                                                  |
 | **Ficha D&D Beyond:** [Link](https://www.dndbeyond.com/characters/142689215) | **D&D Beyond Sheet:** [Link](https://www.dndbeyond.com/characters/142689215) |
 
 **[DM-ONLY – Não incluir na Wiki]**  
