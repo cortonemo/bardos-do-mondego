@@ -8,7 +8,7 @@
 
 | **Português (PT-PT)** | **English (EN-US)** |
 | --------------------- | ------------------- |
-| A **Oficina Ratus** é um pequeno mas notável espaço de invenções, alquimia e engenhocas, fundado por **[Gauthak](../../pc/pc_gauthak.md)**. <br><br> A oficina é conhecida por sua mistura improvável de magia rúnica, alquimia improvisada e tecnologia experimental. Rumores dizem que Gauthak já produziu desde bombas de fumo a engenhos arcanomecânicos instáveis. <br><br> Embora não seja uma grande organização, a Oficina Ratus tornou-se referência em círculos de aventureiros e mercadores, sendo requisitada para reparos, melhorias ou até criações exclusivas. | The **Ratus Workshop** is a small but remarkable place of inventions, alchemy, and gadgets, founded by **[Gauthak](../../pc/pc_gauthak.md)**. <br><br> The workshop is known for its unlikely blend of runic magic, improvised alchemy, and experimental technology. Rumors say Gauthak has produced everything from smoke bombs to unstable arcanomechanical devices. <br><br> While not a large organization, the Ratus Workshop has become a point of reference among adventurers and merchants, sought after for repairs, enhancements, or even exclusive creations. |
+| A **Oficina Ratus** é um pequeno mas notável espaço de invenções, alquimia e engenhocas, fundado por **[Gauthak](../pc_gauthak.md)**. <br><br> A oficina é conhecida por sua mistura improvável de magia rúnica, alquimia improvisada e tecnologia experimental. Rumores dizem que Gauthak já produziu desde bombas de fumo a engenhos arcanomecânicos instáveis. <br><br> Embora não seja uma grande organização, a Oficina Ratus tornou-se referência em círculos de aventureiros e mercadores, sendo requisitada para reparos, melhorias ou até criações exclusivas. | The **Ratus Workshop** is a small but remarkable place of inventions, alchemy, and gadgets, founded by **[Gauthak](../pc_gauthak.md)**. <br><br> The workshop is known for its unlikely blend of runic magic, improvised alchemy, and experimental technology. Rumors say Gauthak has produced everything from smoke bombs to unstable arcanomechanical devices. <br><br> While not a large organization, the Ratus Workshop has become a point of reference among adventurers and merchants, sought after for repairs, enhancements, or even exclusive creations. |
 
 ---
 
@@ -16,7 +16,7 @@
 
 | **Português (PT-PT)** | **English (EN-US)** |
 | --------------------- | ------------------- |
-| - **[Gauthak](../../pc/pc_gauthak.md)**, fundador e inventor. <br>- Clientes aventureiros da [Taberna](the_company.md). | - **[Gauthak](../../pc/pc_gauthak.md)**, founder and inventor. <br>- Adventurer clients from the [Tavern](the_company.md). |
+| - **[Gauthak](../pc_gauthak.md)**, fundador e inventor. <br>- Clientes aventureiros da [Taberna](the_company.md). | - **[Gauthak](../pc_gauthak.md)**, founder and inventor. <br>- Adventurer clients from the [Tavern](the_company.md). |
 
 ---
 

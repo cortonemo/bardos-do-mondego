@@ -63,8 +63,8 @@
 
 | **🎭 Dramatis Persona**                                                                                                                 | **🎭 Dramatis Persona**                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
-| **NPCs de influência direta:**  <br>- [Wee Jas](../npc/wee_jas.md) (deusa da morte e magia) | **Direct Influence NPCs:**  <br>- [Wee Jas](../npc/wee_jas.md) (goddess of death and magic) |
-| **Antagonistas:**  <br>- [Asdrobal Blackfair](../npc/asdrobal_blackfair.md), nobre cultista de Nerull <br>- [Culto do Mal Elemental](../organizations/culto_do_mal_elemental.md) | **Antagonists:**  <br>- [Asdrobal Blackfair](../npc/asdrobal_blackfair.md), noble cultist of Nerull <br>- [Cult of Elemental Evil](../organizations/culto_do_mal_elemental.md) |
+| **NPCs de influência direta:**  <br>- [Wee Jas](wee_jas.md) (deusa da morte e magia) | **Direct Influence NPCs:**  <br>- [Wee Jas](wee_jas.md) (goddess of death and magic) |
+| **Antagonistas:**  <br>- [Asdrobal Blackfair](asdrobal_blackfair.md), nobre cultista de Nerull <br>- [Culto do Mal Elemental](../organizations/culto_do_mal_elemental.md) | **Antagonists:**  <br>- [Asdrobal Blackfair](asdrobal_blackfair.md), noble cultist of Nerull <br>- [Cult of Elemental Evil](../organizations/culto_do_mal_elemental.md) |
 | **Aliados:**  <br>- [Funguys](../organizations/funguys.md) | **Allies:**  <br>- [Funguys](../organizations/funguys.md) |
 
 ---

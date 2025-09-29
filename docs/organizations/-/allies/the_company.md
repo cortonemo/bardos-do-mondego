@@ -16,7 +16,7 @@
 
 | **Português (PT-PT)** | **English (EN-US)** |
 |-----------------------|---------------------|
-| - Capaz de se deslocar magicamente (sem que ninguém saiba como).<br>- Quartos personalizados para cada membro do grupo.<br>- Um quadro de contratos fixado junto à lareira.<br>- Presença constante do enigmático [O Taberneiro](../../npc/taverneiro_refugio.md). | - Capable of moving magically (with no one knowing how).<br>- Personalized rooms for each party member.<br>- A contract board fixed by the fireplace.<br>- Constant presence of the enigmatic [The Tavernkeeper](../../npc/taverneiro_refugio.md). |
+| - Capaz de se deslocar magicamente (sem que ninguém saiba como).<br>- Quartos personalizados para cada membro do grupo.<br>- Um quadro de contratos fixado junto à lareira.<br>- Presença constante do enigmático [O Taberneiro](../taverneiro_refugio.md). | - Capable of moving magically (with no one knowing how).<br>- Personalized rooms for each party member.<br>- A contract board fixed by the fireplace.<br>- Constant presence of the enigmatic [The Tavernkeeper](../taverneiro_refugio.md). |
 
 ---
 

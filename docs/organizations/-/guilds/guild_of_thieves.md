@@ -22,7 +22,7 @@ Sessões: 13 | Datas: 2025-03-13 | Fontes: s13_enfrentando_a_guilda_dos_ladroes_
 
 | **Português (PT-PT)** | **English (EN-US)** |
 |-----------------------|---------------------|
-| - **Sr. 0** (Guildmaster)<br>- **Trixie** (Goblin associada)<br>- [Thaldrin Voss](../npc/thaldrin_voss.md) (mercador pressionado pela guilda) | - **Mr. 0** (Guildmaster)<br>- **Trixie** (Goblin associate)<br>- [Thaldrin Voss](../npc/thaldrin_voss.md) (merchant pressured by the guild) |
+| - **Sr. 0** (Guildmaster)<br>- **Trixie** (Goblin associada)<br>- [Thaldrin Voss](thaldrin_voss.md) (mercador pressionado pela guilda) | - **Mr. 0** (Guildmaster)<br>- **Trixie** (Goblin associate)<br>- [Thaldrin Voss](thaldrin_voss.md) (merchant pressured by the guild) |
 
 ---
 

@@ -22,7 +22,7 @@ Sessões: [por preencher] | Datas: [por preencher] | Fontes: Named Beings and Gr
 
 | **Português** | **English** |
 |---------------|-------------|
-| - [Sir Brand Orvain](../../npc/sir_brand_orvain.md), paladino líder. <br>- [Brandon Bane](../../npc/brandon_bane.md), inquisidor implacável. <br>- [Garruk Valstein](../../npc/garruk_valstein.md), caçador veterano. <br>- [Sybel Astren](../../npc/sybel_astren.md), sacerdotisa da ordem. <br>- [Luthor Greystone](../../npc/luthor_greystone.md), jovem recruta. [Fonte Direta] | - [Sir Brand Orvain](../../npc/sir_brand_orvain.md), paladin leader. <br>- [Brandon Bane](../../npc/brandon_bane.md), relentless inquisitor. <br>- [Garruk Valstein](../../npc/garruk_valstein.md), veteran hunter. <br>- [Sybel Astren](../../npc/sybel_astren.md), priestess of the order. <br>- [Luthor Greystone](../../npc/luthor_greystone.md), young recruit. [Source] |
+| - [Sir Brand Orvain](../sir_brand_orvain.md), paladino líder. <br>- [Brandon Bane](../brandon_bane.md), inquisidor implacável. <br>- [Garruk Valstein](../garruk_valstein.md), caçador veterano. <br>- [Sybel Astren](../sybel_astren.md), sacerdotisa da ordem. <br>- [Luthor Greystone](../luthor_greystone.md), jovem recruta. [Fonte Direta] | - [Sir Brand Orvain](../sir_brand_orvain.md), paladin leader. <br>- [Brandon Bane](../brandon_bane.md), relentless inquisitor. <br>- [Garruk Valstein](../garruk_valstein.md), veteran hunter. <br>- [Sybel Astren](../sybel_astren.md), priestess of the order. <br>- [Luthor Greystone](../luthor_greystone.md), young recruit. [Source] |
 
 ---
 
@@ -38,6 +38,6 @@ Sessões: [por preencher] | Datas: [por preencher] | Fontes: Named Beings and Gr
 
 | **Português** | **English** |
 |---------------|-------------|
-| - A Ordem de Beltar procura recrutar aventureiros para uma expedição suicida ao [Underdark](underdark.md). [Inferido] <br>- Um dos seus líderes, [Brandon Bane](../../npc/brandon_bane.md), é acusado de massacres contra inocentes. [Inferido] <br>- Os paladinos planeiam atacar a House Azh’Thalith. [Inferido] <br>- Um artefacto sagrado de Beltar foi perdido e precisa ser recuperado. [Inferido] | - The Order of Beltar seeks to recruit adventurers for a suicidal expedition into the [Underdark](underdark.md). [Inferred] <br>- One of its leaders, [Brandon Bane](../../npc/brandon_bane.md), is accused of massacres against innocents. [Inferred] <br>- The paladins plan to strike at House Azh’Thalith. [Inferred] <br>- A sacred artifact of Beltar has been lost and needs recovery. [Inferred] |
+| - A Ordem de Beltar procura recrutar aventureiros para uma expedição suicida ao [Underdark](underdark.md). [Inferido] <br>- Um dos seus líderes, [Brandon Bane](../brandon_bane.md), é acusado de massacres contra inocentes. [Inferido] <br>- Os paladinos planeiam atacar a House Azh’Thalith. [Inferido] <br>- Um artefacto sagrado de Beltar foi perdido e precisa ser recuperado. [Inferido] | - The Order of Beltar seeks to recruit adventurers for a suicidal expedition into the [Underdark](underdark.md). [Inferred] <br>- One of its leaders, [Brandon Bane](../brandon_bane.md), is accused of massacres against innocents. [Inferred] <br>- The paladins plan to strike at House Azh’Thalith. [Inferred] <br>- A sacred artifact of Beltar has been lost and needs recovery. [Inferred] |
 
 ---

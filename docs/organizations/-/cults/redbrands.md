@@ -14,7 +14,7 @@ Sessões: [por preencher] | Datas: [por preencher] | Fontes: Named Beings and Gr
 
 | **Português** | **English** |
 |---------------|-------------|
-| A gangue ganhou notoriedade após se associar a [Zarvokir](../../npc/zarvokir.md), que lhes concedeu poder arcano e direção. <br><br> Atuaram como capangas contra aventureiros em diversas ocasiões, cobrando taxas de “proteção” em tavernas e emboscando viajantes em estradas próximas a [Free City of Greyhawk](free_city_of_greyhawk.md). <br><br> São vistos como peões de facções maiores, mas perigosos pela sua imprevisibilidade e violência. [Fonte Direta] | The gang rose to prominence after allying with [Zarvokir](../../npc/zarvokir.md), who granted them arcane power and direction. <br><br> They acted as enforcers against adventurers on several occasions, charging “protection fees” in taverns and ambushing travelers on roads near [Free City of Greyhawk](free_city_of_greyhawk.md). <br><br> They are seen as pawns of greater factions but dangerous for their unpredictability and violence. [Source] |
+| A gangue ganhou notoriedade após se associar a [Zarvokir](../zarvokir.md), que lhes concedeu poder arcano e direção. <br><br> Atuaram como capangas contra aventureiros em diversas ocasiões, cobrando taxas de “proteção” em tavernas e emboscando viajantes em estradas próximas a [Free City of Greyhawk](free_city_of_greyhawk.md). <br><br> São vistos como peões de facções maiores, mas perigosos pela sua imprevisibilidade e violência. [Fonte Direta] | The gang rose to prominence after allying with [Zarvokir](../zarvokir.md), who granted them arcane power and direction. <br><br> They acted as enforcers against adventurers on several occasions, charging “protection fees” in taverns and ambushing travelers on roads near [Free City of Greyhawk](free_city_of_greyhawk.md). <br><br> They are seen as pawns of greater factions but dangerous for their unpredictability and violence. [Source] |
 
 ---
 
@@ -22,7 +22,7 @@ Sessões: [por preencher] | Datas: [por preencher] | Fontes: Named Beings and Gr
 
 | **Português** | **English** |
 |---------------|-------------|
-| - [Zarvokir](../../npc/zarvokir.md), feiticeiro aliado dos Redbrands. <br>- Capitães e capangas sem nomes registados. [Fonte Direta] | - [Zarvokir](../../npc/zarvokir.md), spellcaster allied with the Redbrands. <br>- Captains and thugs with no recorded names. [Source] |
+| - [Zarvokir](../zarvokir.md), feiticeiro aliado dos Redbrands. <br>- Capitães e capangas sem nomes registados. [Fonte Direta] | - [Zarvokir](../zarvokir.md), spellcaster allied with the Redbrands. <br>- Captains and thugs with no recorded names. [Source] |
 
 ---
 
@@ -38,6 +38,6 @@ Sessões: [por preencher] | Datas: [por preencher] | Fontes: Named Beings and Gr
 
 | **Português** | **English** |
 |---------------|-------------|
-| - Os Redbrands estão a recrutar novos membros entre mercenários de [Dyvers](dyvers.md). [Inferido] <br>- Rumores dizem que [Zarvokir](../../npc/zarvokir.md) lhes concedeu um artefacto arcano perigoso. [Inferido] <br>- Um grupo de Redbrands estabeleceu uma base subterrânea sob uma taverna em [Free City of Greyhawk](free_city_of_greyhawk.md). [Inferido] <br>- Rivais criminosos planeiam atacar os Redbrands para tomar o seu território. [Inferido] | - The Redbrands are recruiting new members among mercenaries from [Dyvers](dyvers.md). [Inferred] <br>- Rumors say [Zarvokir](../../npc/zarvokir.md) gave them a dangerous arcane artifact. [Inferred] <br>- A band of Redbrands has set up an underground base beneath a tavern in [Free City of Greyhawk](free_city_of_greyhawk.md). [Inferred] <br>- Criminal rivals plan to strike the Redbrands to take their turf. [Inferred] |
+| - Os Redbrands estão a recrutar novos membros entre mercenários de [Dyvers](dyvers.md). [Inferido] <br>- Rumores dizem que [Zarvokir](../zarvokir.md) lhes concedeu um artefacto arcano perigoso. [Inferido] <br>- Um grupo de Redbrands estabeleceu uma base subterrânea sob uma taverna em [Free City of Greyhawk](free_city_of_greyhawk.md). [Inferido] <br>- Rivais criminosos planeiam atacar os Redbrands para tomar o seu território. [Inferido] | - The Redbrands are recruiting new members among mercenaries from [Dyvers](dyvers.md). [Inferred] <br>- Rumors say [Zarvokir](../zarvokir.md) gave them a dangerous arcane artifact. [Inferred] <br>- A band of Redbrands has set up an underground base beneath a tavern in [Free City of Greyhawk](free_city_of_greyhawk.md). [Inferred] <br>- Criminal rivals plan to strike the Redbrands to take their turf. [Inferred] |
 
 ---

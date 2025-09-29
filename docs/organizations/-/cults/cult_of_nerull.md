@@ -14,7 +14,7 @@ Sessões: S05, S08, S09 | Datas: 2025-01-23 → 2025-02-13 | Fontes: greyhawk_se
 
 | **Português** | **English** |
 |---------------|-------------|
-| O culto apareceu em força na região de [Mistwood](mistwood.md), onde a acólita [Morvanya](../../npc/morvanya.md) conduziu rituais de sangue para invocar espíritos. <br><br> O nobre decadente [Asdrobal Blackfair](../../npc/asdrobal_blackfair.md) acolheu um baile mascarado em [Blackfair Manor](blackfair_manor.md), onde conduziu sacrifícios em honra a Nerull. <br><br> Os aventureiros confrontaram estes cultistas em várias ocasiões, descobrindo o uso de necromancia, pactos com mortos-vivos e alianças obscuras com outros cultos. [Fonte Direta] | The cult emerged strongly in the [Mistwood](mistwood.md) region, where the acolyte [Morvanya](../../npc/morvanya.md) conducted blood rituals to summon spirits. <br><br> The decadent noble [Asdrobal Blackfair](../../npc/asdrobal_blackfair.md) hosted a masked ball at [Blackfair Manor](blackfair_manor.md), where he conducted sacrifices in Nerull’s name. <br><br> Adventurers confronted these cultists on several occasions, uncovering the use of necromancy, pacts with undead, and shadowy alliances with other cults. [Source] |
+| O culto apareceu em força na região de [Mistwood](mistwood.md), onde a acólita [Morvanya](../morvanya.md) conduziu rituais de sangue para invocar espíritos. <br><br> O nobre decadente [Asdrobal Blackfair](../asdrobal_blackfair.md) acolheu um baile mascarado em [Blackfair Manor](blackfair_manor.md), onde conduziu sacrifícios em honra a Nerull. <br><br> Os aventureiros confrontaram estes cultistas em várias ocasiões, descobrindo o uso de necromancia, pactos com mortos-vivos e alianças obscuras com outros cultos. [Fonte Direta] | The cult emerged strongly in the [Mistwood](mistwood.md) region, where the acolyte [Morvanya](../morvanya.md) conducted blood rituals to summon spirits. <br><br> The decadent noble [Asdrobal Blackfair](../asdrobal_blackfair.md) hosted a masked ball at [Blackfair Manor](blackfair_manor.md), where he conducted sacrifices in Nerull’s name. <br><br> Adventurers confronted these cultists on several occasions, uncovering the use of necromancy, pacts with undead, and shadowy alliances with other cults. [Source] |
 
 ---
 
@@ -22,7 +22,7 @@ Sessões: S05, S08, S09 | Datas: 2025-01-23 → 2025-02-13 | Fontes: greyhawk_se
 
 | **Português** | **English** |
 |---------------|-------------|
-| - [Morvanya](../../npc/morvanya.md), acólita de Nerull em Mistwood. <br>- [Asdrobal Blackfair](../../npc/asdrobal_blackfair.md), nobre cultista. <br>- Consorte Drow, associado a Blackfair Manor. <br>- Seguidores anónimos presentes em rituais. [Fonte Direta] | - [Morvanya](../../npc/morvanya.md), Nerull acolyte in Mistwood. <br>- [Asdrobal Blackfair](../../npc/asdrobal_blackfair.md), cultist noble. <br>- Drow Consort, tied to Blackfair Manor. <br>- Unnamed followers present in rituals. [Source] |
+| - [Morvanya](../morvanya.md), acólita de Nerull em Mistwood. <br>- [Asdrobal Blackfair](../asdrobal_blackfair.md), nobre cultista. <br>- Consorte Drow, associado a Blackfair Manor. <br>- Seguidores anónimos presentes em rituais. [Fonte Direta] | - [Morvanya](../morvanya.md), Nerull acolyte in Mistwood. <br>- [Asdrobal Blackfair](../asdrobal_blackfair.md), cultist noble. <br>- Drow Consort, tied to Blackfair Manor. <br>- Unnamed followers present in rituals. [Source] |
 
 ---
 

@@ -57,9 +57,9 @@
 
 | **🎭 Dramatis Persona**                                                                                                                 | **🎭 Dramatis Persona**                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
-| **NPCs de influência direta:**  <br>- [Uteluk](../npc/uteluk.md) (Vedalken, Círculo da Lua) <br>- [Rolger](../npc/rolger.md) (Hobgoblin resgatado) <br> | **Direct Influence NPCs:**  <br>- [Uteluk](../npc/uteluk.md) (Vedalken, Circle of the Moon) <br>- [Rolger](../npc/rolger.md) (Rescued Hobgoblin) <br> |
+| **NPCs de influência direta:**  <br>- [Uteluk](uteluk.md) (Vedalken, Círculo da Lua) <br>- [Rolger](rolger.md) (Hobgoblin resgatado) <br> | **Direct Influence NPCs:**  <br>- [Uteluk](uteluk.md) (Vedalken, Circle of the Moon) <br>- [Rolger](rolger.md) (Rescued Hobgoblin) <br> |
 | **Antagonistas:**  <br>- Mimics do Lago dos Diamantes <br>- Doppelgangers metamórficos <br> | **Antagonists:**  <br>- Mimics of Diamond Lake <br>- Shapeshifting Doppelgangers <br> |
-| **Aliados:**  <br>- [Conan](docs/dm/-/pc/pc_conan_barbaro_ra.md) <br>- [Raylahn](docs/dm/-/pc/pc_raylahn.md) <br>- [Varus](../pc/pc_varus.md) <br>- Wandering Sage (PC) | **Allies:**  <br>- [Conan](docs/dm/-/pc/pc_conan_barbaro_ra.md) <br>- [Raylahn](docs/dm/-/pc/pc_raylahn.md) <br>- [Varus](../pc/pc_varus.md) <br>- Wandering Sage (PC) |
+| **Aliados:**  <br>- [Conan](docs/dm/-/pc/pc_conan_barbaro_ra.md) <br>- [Raylahn](docs/dm/-/pc/pc_raylahn.md) <br>- [Varus](pc_varus.md) <br>- Wandering Sage (PC) | **Allies:**  <br>- [Conan](docs/dm/-/pc/pc_conan_barbaro_ra.md) <br>- [Raylahn](docs/dm/-/pc/pc_raylahn.md) <br>- [Varus](pc_varus.md) <br>- Wandering Sage (PC) |
 
 ---
 

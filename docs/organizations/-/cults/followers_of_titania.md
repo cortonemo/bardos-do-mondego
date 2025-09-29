@@ -14,7 +14,7 @@ Sessões: [por preencher] | Datas: [por preencher] | Fontes: Gazetteer of Worlds
 
 | **Português** | **English** |
 |---------------|-------------|
-| Os seguidores de Titânia acreditam que a sua rainha deve ser reverenciada como a personificação da natureza e da beleza feérica. <br><br> Muitos dos seus cultistas são elfos, eladrin ou humanos ligados a pactos com o [Feywild](feywild.md). <br><br> Há registos de que procuraram recrutar aventureiros como [Eirwen](docs/pc/-/pc_eirwen.md), uma eladrin da Corte das Estrelas. <br><br> Embora sejam vistos como menos sombrios do que outros cultos, o seu fanatismo pode levar a choques com as leis do mundo mortal. [Fonte Direta] | Titania’s followers believe their queen should be revered as the embodiment of nature and fey beauty. <br><br> Many cultists are elves, eladrin, or humans bound by pacts with the [Feywild](feywild.md). <br><br> Records show they sought to recruit adventurers such as [Eirwen](docs/pc/-/pc_eirwen.md), an eladrin of the Court of Stars. <br><br> Although seen as less sinister than other cults, their fanaticism can cause clashes with the laws of the mortal world. [Source] |
+| Os seguidores de Titânia acreditam que a sua rainha deve ser reverenciada como a personificação da natureza e da beleza feérica. <br><br> Muitos dos seus cultistas são elfos, eladrin ou humanos ligados a pactos com o [Feywild](feywild.md). <br><br> Há registos de que procuraram recrutar aventureiros como [Eirwen](pc_eirwen.md), uma eladrin da Corte das Estrelas. <br><br> Embora sejam vistos como menos sombrios do que outros cultos, o seu fanatismo pode levar a choques com as leis do mundo mortal. [Fonte Direta] | Titania’s followers believe their queen should be revered as the embodiment of nature and fey beauty. <br><br> Many cultists are elves, eladrin, or humans bound by pacts with the [Feywild](feywild.md). <br><br> Records show they sought to recruit adventurers such as [Eirwen](pc_eirwen.md), an eladrin of the Court of Stars. <br><br> Although seen as less sinister than other cults, their fanaticism can cause clashes with the laws of the mortal world. [Source] |
 
 ---
 
@@ -22,7 +22,7 @@ Sessões: [por preencher] | Datas: [por preencher] | Fontes: Gazetteer of Worlds
 
 | **Português** | **English** |
 |---------------|-------------|
-| - [Eirwen](docs/pc/-/pc_eirwen.md), potencial recruta. <br>- Druidas e bardos anónimos devotos de Titânia. <br>- Possíveis emissários da Corte das Estrelas. [Inferido] | - [Eirwen](docs/pc/-/pc_eirwen.md), potential recruit. <br>- Unnamed druids and bards devoted to Titania. <br>- Possible envoys from the Court of Stars. [Inferred] |
+| - [Eirwen](pc_eirwen.md), potencial recruta. <br>- Druidas e bardos anónimos devotos de Titânia. <br>- Possíveis emissários da Corte das Estrelas. [Inferido] | - [Eirwen](pc_eirwen.md), potential recruit. <br>- Unnamed druids and bards devoted to Titania. <br>- Possible envoys from the Court of Stars. [Inferred] |
 
 ---
 
