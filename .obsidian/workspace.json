@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/npc/-/Eribend/dolrea_vas.md",
+                "file": "docs/pc/-/pc_eirwen.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "dolrea_vas"
+              "title": "pc_eirwen"
             }
           }
         ]
@@ -178,12 +178,17 @@
   },
   "active": "df0cab912ff9f5c4",
   "lastOpenFiles": [
+    "docs/dm/-/pc/pc_eirwen.md",
+    "docs/pc/-/pc_eirwen.md",
+    "docs/dm/-/pc/pc_wagner.md",
+    "docs/dm/-/npc/Free City of Grehawk/kythria.md",
+    "docs/npc/-/Free City of Grehawk/kythria.md",
+    "docs/pc/-/pc_wagner.md",
+    "docs/npc/-/Eribend/dolrea_vas.md",
     "docs/npc/-/Eribend/branwir.md",
     "docs/npc/-/Eclipse Tower/zavros_karamark.md",
     "docs/npc/-/Blackstone/kristryd_splitanvil.md",
     "docs/npc/-/Abandoned Village/vaelkor_ashbrand.md",
-    "docs/npc/-/Free City of Grehawk/kythria.md",
-    "docs/dm/-/npc/Free City of Grehawk/kythria.md",
     "docs/dm/-/pc/pc_orianna.md",
     "docs/dm/-/pc/pc_arkos_vasell.md",
     "docs/lore/-/timeline/greyhawk_sessions_complete.md",
@@ -199,11 +204,6 @@
     "docs/pc/-/pc_bok_thunderfist.md",
     "docs/pc/-/pc_asinius.md",
     "docs/pc/-/pc_wandering_sage.md",
-    "docs/pc/-/pc_eirwen.md",
-    "docs/dm/-/pc/pc_eirwen.md",
-    "docs/dm/-/pc/pc_kai.md",
-    "docs/dm/-/pc/pc_conan_barbaro_ra.md",
-    "docs/dm/-/pc/pc_dustin_thorne.md",
     "assets/pc/pc_eirwen_01.png",
     "sessões.txt",
     "docs/locations/To-Do List – Organizações & Locais (Não-Guildas).txt",
