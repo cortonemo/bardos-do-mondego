@@ -1,10 +1,10 @@
-# Titania
+# Titânia
 
 ---
 
 | 🧙 Personagem                                                                            | 🧙 Character                                                                        |
 | ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| **Nome:** Titania                                                                        | **Name:** Titania                                                                   |
+| **Nome:** Titânia                                                                        | **Name:** Titania                                                                   |
 | **Raça:** Arquifada (Rainha Eladrin)                                                     | **Race:** Archfey (Eladrin Queen)                                                   |
 | **Classe:** Divindade Feérica                                                            | **Class:** Fey Deity                                                                |
 | **Alinhamento:** Caótico Bom                                                             | **Alignment:** Chaotic Good                                                         |

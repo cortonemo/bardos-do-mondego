@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/dm/-/npc/Fey/titania.md",
+                "file": "docs/pc/-/pc_eirwen.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "titania"
+              "title": "pc_eirwen"
             }
           }
         ]
@@ -178,14 +178,21 @@
   },
   "active": "df0cab912ff9f5c4",
   "lastOpenFiles": [
+    "pc_grixmolah.md",
     "docs/pc/-/pc_eirwen.md",
-    "docs/dm/-/npc/Fey/titania.md",
+    "docs/pc/-/pc_triss_merrill.md",
+    "docs/pc/-/pc_grix_molah.md",
+    "tools/greyhawk_sessions_complete.md",
     "docs/npc/-/Fey/titania.md",
+    "docs/npc/-/Free City of Grehawk/iquander_of_greyhawk.md",
+    "docs/npc/-/Free City of Grehawk/innkeeper.md",
+    "docs/dm/-/npc/Free City of Grehawk/innkeeper.md",
+    "docs/dm/-/pc/pc_eirwen.md",
+    "docs/dm/-/npc/Fey/titania.md",
     "docs/npc/-/wild/egalar.md",
     "tools/AllNPCs.txt",
     "tools/allPCs.txt",
     "tools/sessions.txt",
-    "tools/greyhawk_sessions_complete.md",
     "tools/Tales from The Great Tavern.txt",
     "tools/greyhawk_campaign_log-locations_and_events(2025).txt",
     "tools/AllOrganizations.txt",
@@ -195,8 +202,6 @@
     "tools/Named Beings and Groups of the Realms.txt",
     "docs/dm/-/npc/wild/egalar.md",
     "docs/npc/-/wild/baltigard.md",
-    "pc_grixmolah.md",
-    "docs/dm/-/pc/pc_eirwen.md",
     "docs/dm/-/pc/pc_wagner.md",
     "docs/dm/-/npc/Free City of Grehawk/kythria.md",
     "docs/npc/-/Free City of Grehawk/kythria.md",
@@ -209,11 +214,6 @@
     "docs/dm/-/pc/pc_orianna.md",
     "docs/dm/-/pc/pc_arkos_vasell.md",
     "docs/lore/-/timeline/greyhawk_sessions_complete.md",
-    "docs/pc/-/pc_arkos_vasell.md",
-    "docs/pc/-/pc_orianna.md",
-    "docs/dm/-/pc/pc_endouven_bomsossego.md",
-    "docs/dm/-/pc/pc_triss_merrill.md",
-    "docs/dm/-/pc/pc_grix_molah.md",
     "assets/pc/pc_eirwen_01.png",
     "docs/assets/organization/house_vanthir.png",
     "docs/assets/organization/org_blank - Copy.png",
