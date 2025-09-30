@@ -1,0 +1,92 @@
+# Bullywugs e o Basilisco  Bullet Points
+
+| Português                                                                                                                                                                                                                                                                                                   | English                                                                                                                                                                                                                                                                   |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| - PCs regressam à aldeia dos bullywugs, acolhidos por Mestre Yoda.<br>- Descrevem os perigos enfrentados, avisam sobre consequências do ritual.<br>- Bullywugs planeiam festa de agradecimento.<br>- Encontro com Cocas, amigo bullywug de Conan.<br>- A aldeia prepara-se para mudanças após o ritual.<br> | - PCs return to the bullywug village, welcomed by Mestre Yoda.<br>- Describe dangers faced, warn about ritual consequences.<br>- Bullywugs plan a thank-you celebration.<br>- Meet Cocas, Conans bullywug friend.<br>- Village prepares for changes after the ritual.<br> |
+| **NPCs:** Mestre Yoda (bullywug), Cocas, Baltigard, villagers bullywug                                                                                                                                                                                                                                      | **NPCs:** Mestre Yoda (bullywug), Cocas, Baltigard, bullywug villagers                                                                                                                                                                                                    |
+| **Loot:** Gratidão dos bullywugs, possíveis recompensas tribais                                                                                                                                                                                                                                             | **Loot:** Gratitude of the bullywugs, possible tribal rewards                                                                                                                                                                                                             |
+| **Data:** 2025-02-27                                                                                                                                                                                                                                                                                        | **Date:** 2025-02-27                                                                                                                                                                                                                                                      |
+| **Ficheiros de origem:** s08_bullywugs_e_basilisco_pontos.md                                                                                                                                                                                                                                                | **Source files:** s08_bullywugs_e_basilisco_pontos.md                                                                                                                                                                                                                     |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s08_bullywugs_e_basilisco_ready.md ==== -->
+
+# Bullywugs e o Basilisco  Ready to Play
+
+| Português                                                                                                                                                                                                                                                                                                                                                                                                                                | English                                                                                                                                                                                                                                                                                                                                                                                                      |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Introdução:** PCs retornam à aldeia dos bullywugs após o ritual das pedras.<br><br>**Cena 1: Festa e Reconhecimento**<br>- Recepção calorosa, relatos das aventuras.<br>- Discussão sobre novas ameaças e possíveis alianças.<br><br>**Cena 2: Cocas e o Passado**<br>- Cocas compartilha histórias, ligações com Conan.<br><br>**Encerramento:**<br>- Celebração, distribuição de recompensas e preparação para mudanças futuras.<br> | **Introduction:** PCs return to the bullywug village after the stone ritual.<br><br>**Scene 1: Celebration and Recognition**<br>- Warm reception, recounting adventures.<br>- Discussion of new threats and possible alliances.<br><br>**Scene 2: Cocas and the Past**<br>- Cocas shares stories, ties with Conan.<br><br>**Conclusion:**<br>- Celebration, rewards, and preparation for future changes.<br> |
+| **NPCs:** Mestre Yoda (bullywug), Cocas, Baltigard, villagers bullywug                                                                                                                                                                                                                                                                                                                                                                   | **NPCs:** Mestre Yoda (bullywug), Cocas, Baltigard, bullywug villagers                                                                                                                                                                                                                                                                                                                                       |
+| **Loot:** Gratidão dos bullywugs, possíveis recompensas tribais                                                                                                                                                                                                                                                                                                                                                                          | **Loot:** Gratitude of the bullywugs, possible tribal rewards                                                                                                                                                                                                                                                                                                                                                |
+| **Data:** 2025-02-27                                                                                                                                                                                                                                                                                                                                                                                                                     | **Date:** 2025-02-27                                                                                                                                                                                                                                                                                                                                                                                         |
+| **Ficheiros de origem:** s08_bullywugs_e_basilisco_ready.md                                                                                                                                                                                                                                                                                                                                                                              | **Source files:** s08_bullywugs_e_basilisco_ready.md                                                                                                                                                                                                                                                                                                                                                         |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s08_bullywugs_e_basilisco_summary.md ==== -->
+
+# Bullywugs e o Basilisco
+
+| Português | English |
+|-----------|---------|
+| **Descrição:** Os PCs são recebidos como heróis na aldeia dos bullywugs. Compartilham os perigos superados e avisam sobre as possíveis consequências do ritual. Festa tribal, reconhecimento e promessas de novas alianças e desafios para todos.<br> | **Description:** PCs are welcomed as heroes in the bullywug village. Share the dangers faced and warn about the rituals possible consequences. Tribal celebration, recognition, and promises of new alliances and challenges ahead.<br> |
+| **PCs:** Bok, Varus, Sage, Baltigard, outros [por confirmar] | **PCs:** Bok, Varus, Sage, Baltigard, others [to confirm] |
+| **NPCs:** Mestre Yoda (bullywug), Cocas, Baltigard, villagers bullywug | **NPCs:** Mestre Yoda (bullywug), Cocas, Baltigard, bullywug villagers |
+| **Loot:** Gratidão dos bullywugs, possíveis recompensas tribais | **Loot:** Gratitude of the bullywugs, possible tribal rewards |
+| **Data:** 2025-02-27 | **Date:** 2025-02-27 |
+| **Ficheiros de origem:** s08_bullywugs_e_basilisco_resumo.md | **Source files:** s08_bullywugs_e_basilisco_resumo.md |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

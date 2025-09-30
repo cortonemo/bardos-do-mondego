@@ -1,0 +1,91 @@
+# O Incêndio Misterioso: Bullet Points
+
+| Português                                                                                                                                                                                                                                                                                                                                                           | English                                                                                                                                                                                                                                                                                                                                        |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| - Fogo irrompe em armazéns do bairro mercantil.<br>- Party salva vítimas e enfrenta criaturas flamejantes.<br>- Descoberta de sabotagem: óleo mágico espalhado.<br>- Investigação leva a rivalidades comerciais e magia proibida.<br>- Confrontam mago incendiário, apagam o fogo e recolhem provas.<br>- Autoridades reconhecem bravura e entregam recompensa.<br> | - Fire breaks out in warehouse district.<br>- Party saves victims and faces fire creatures.<br>- Sabotage discovered: magic oil spread around.<br>- Investigation reveals business rivalries and forbidden magic.<br>- Confront arsonist mage, extinguish fire, and gather evidence.<br>- Authorities recognize bravery and give a reward.<br> |
+| **NPCs:** vítimas do incêndio, mago incendiário, autoridades locais                                                                                                                                                                                                                                                                                                 | **NPCs:** fire victims, arsonist mage, local officials                                                                                                                                                                                                                                                                                         |
+| **Loot:** gema de fogo, medalha de bravura, recibo suspeito, pó extintor mágico                                                                                                                                                                                                                                                                                     | **Loot:** fire gem, bravery medal, suspicious receipt, magic extinguisher powder                                                                                                                                                                                                                                                               |
+| **Data:** 2025-04-03                                                                                                                                                                                                                                                                                                                                                | **Date:** 2025-04-03                                                                                                                                                                                                                                                                                                                           |
+| **Ficheiros de origem:** s13_o_incendio_misterioso_bullet.md                                                                                                                                                                                                                                                                                                        | **Source files:** s13_o_incendio_misterioso_bullet.md                                                                                                                                                                                                                                                                                          |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s13_o_incendio_misterioso_ready.md ==== -->
+
+
+# Sessão 13  O Incêndio Misterioso: Resumo Detalhado
+
+| Português | English |
+|-----------|---------|
+| **Descrição:** Um incêndio criminoso devasta armazéns em Greyhawk. Os aventureiros salvam vítimas, combatem elementais de fogo e descobrem que o incêndio foi provocado com óleo mágico. A investigação leva a um mago sabotador, que é derrotado. Provas são recolhidas e entregues às autoridades, que reconhecem a coragem do grupo com medalha e recompensas.<br> | **Description:** An arson fire devastates warehouses in Greyhawk. Adventurers save victims, fight fire elementals, and discover the blaze was set with magic oil. The investigation leads to a saboteur mage, who is defeated. Evidence is collected and given to authorities, who reward the group with a medal and other loot.<br> |
+| **PCs:** (confirmar grupo) | **PCs:** (confirm party) |
+| **NPCs:** vítimas do incêndio, mago incendiário, autoridades locais | **NPCs:** fire victims, arsonist mage, local officials |
+| **Loot:** gema de fogo, medalha de bravura, recibo suspeito, pó extintor mágico | **Loot:** fire gem, bravery medal, suspicious receipt, magic extinguisher powder |
+| **Data:** 2025-04-03 | **Date:** 2025-04-03 |
+| **Ficheiros de origem:** s13_o_incendio_misterioso_resumo.md | **Source files:** s13_o_incendio_misterioso_resumo.md |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s13_o_incendio_misterioso_summary.md ==== -->
+
+# O Incêndio Misterioso
+
+A loja mágica Olho de Boccob, de Thaldrin Voss, é incendiada por guardas corruptos. A party combate elementais do fogo e salva o gnomo proprietário. Descobrem conspiração envolvendo guilda dos ladrões e corrupção policial. Investigam na taverna da Trixie, onde encontram ligações com o submundo. Decidem se enfrentam guardas corruptos ou a guilda dos ladrões.
+A loja mágica Olho de Boccob é incendiada por guardas corruptos. A party salva Thaldrin Voss, enfrenta elementais do fogo e desvenda ligações entre guilda dos ladrões e corrupção policial.
+
+
+**PCs:**  
+**NPCs:** Thaldrin Voss (gnomo), Trixie (goblin), Harlon (taberneiro), guardas corruptos, membros da guilda dos ladrões.
+**Loot:** anel mágico (Thaldrin), poções, ouro queimado, pistas dos incendiários
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

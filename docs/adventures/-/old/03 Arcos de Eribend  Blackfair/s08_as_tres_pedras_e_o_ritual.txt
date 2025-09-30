@@ -1,0 +1,73 @@
+# As Três Pedras e o Ritual  Bullet Points
+
+| Português                                                                                                                                                                                                                                                                                                                                     | English                                                                                                                                                                                                                                                                                                                |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| - PCs reúnem-se para decidir o destino das três pedras mágicas recuperadas.<br>- Debate sobre rituais: destruir, guardar ou usar as pedras.<br>- Realização de ritual no templo antigo: uso das três pedras.<br>- Efeito: feixe de luz ascende aos céus, magia poderosa liberada.<br>- Presságios de mudanças, gancho para futuros arcos.<br> | - PCs gather to decide the fate of the three recovered magic stones.<br>- Debate on rituals: destroy, keep, or use the stones.<br>- Ritual performed in ancient temple using the three stones.<br>- Effect: a beam of light rises to the sky, powerful magic released.<br>- Omens of change, hook for future arcs.<br> |
+| **NPCs:** Baltigard, sacerdotisa rival, elemental guardião                                                                                                                                                                                                                                                                                    | **NPCs:** Baltigard, rival priestess, elemental guardian                                                                                                                                                                                                                                                               |
+| **Loot:** Consequências mágicas, reconhecimento local                                                                                                                                                                                                                                                                                         | **Loot:** Magical consequences, local recognition                                                                                                                                                                                                                                                                      |
+| **Data:** 2025-02-27                                                                                                                                                                                                                                                                                                                          | **Date:** 2025-02-27                                                                                                                                                                                                                                                                                                   |
+| **Ficheiros de origem:** s08_as_tres_pedras_e_o_ritual_pontos.md                                                                                                                                                                                                                                                                              | **Source files:** s08_as_tres_pedras_e_o_ritual_pontos.md                                                                                                                                                                                                                                                              |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s08_as_tres_pedras_e_o_ritual_ready.md ==== -->
+
+# As Três Pedras e o Ritual  Ready to Play
+
+| Português                                                                                                                                                                                                                                                                                                                                                                                             | English                                                                                                                                                                                                                                                                                                                                                                                 |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Introdução:** PCs reúnem as três pedras mágicas, debatem seu uso.<br><br>**Cena 1: Discussão**<br>- Decidem destino das pedras: destruir, guardar, usar.<br><br>**Cena 2: Ritual no templo**<br>- Ritual antigo com as três pedras.<br>- Feixe de luz ascende ao céu.<br>- Consequências mágicas e presságios.<br><br>**Encerramento:**<br>- Mundo sente o impacto, NPCs reagem, gancho aberto.<br> | **Introduction:** PCs gather the three magic stones, debate their use.<br><br>**Scene 1: Discussion**<br>- Decide stones fate: destroy, keep, use.<br><br>**Scene 2: Temple Ritual**<br>- Ancient ritual with the three stones.<br>- Light beam shoots to the sky.<br>- Magical consequences and omens.<br><br>**Conclusion:**<br>- World feels the impact, NPCs react, open hook.<br> |
+| **NPCs:** Baltigard, sacerdotisa rival, elemental guardião                                                                                                                                                                                                                                                                                                                                            | **NPCs:** Baltigard, rival priestess, elemental guardian                                                                                                                                                                                                                                                                                                                                |
+| **Loot:** Consequências mágicas, reconhecimento local                                                                                                                                                                                                                                                                                                                                                 | **Loot:** Magical consequences, local recognition                                                                                                                                                                                                                                                                                                                                       |
+| **Data:** 2025-02-27                                                                                                                                                                                                                                                                                                                                                                                  | **Date:** 2025-02-27                                                                                                                                                                                                                                                                                                                                                                    |
+| **Ficheiros de origem:** s08_as_tres_pedras_e_o_ritual_ready.md                                                                                                                                                                                                                                                                                                                                       | **Source files:** s08_as_tres_pedras_e_o_ritual_ready.md                                                                                                                                                                                                                                                                                                                                |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s08_as_tres_pedras_e_o_ritual_summary.md ==== -->
+
+
+# As Três Pedras, o Ritual e o Roubo / The Three Stones, the Ritual and the Theft
+
+| Português | English |
+|-----------|---------|
+| **Descrição:** O grupo, de posse das três pedras mágicas, debate o seu destino e realiza um ritual no templo antigo, libertando energia mágica para o mundo — um ponto de viragem pressentido por todos. Durante o descanso após o ritual, Thoren, mestre de Sage e agente do Mal Elemental, ataca o grupo com lacaios e rouba a caixa das três pedras. Inicia-se uma perseguição tensa: o grupo quase derrota Thoren, recupera parte das pedras e descobre a missão de domínio do pântano e vingança contra Baltigard. O confronto força a party a agir em várias frentes para evitar que as pedras sejam usadas pelo inimigo. | **Description:** The group, with the three magic stones in hand, debates their fate and performs a ritual in the ancient temple, releasing magical energy into the world — a turning point sensed by all. During the rest period after the ritual, Thoren, Sage's master and an agent of Elemental Evil, attacks the group with lackeys and steals the box of the three stones. A tense pursuit follows: the group nearly defeats Thoren, recovers part of the stones, and discovers the enemy's mission of swamp domination and vengeance against Baltigard. The confrontation forces the party to act on several fronts to prevent the stones from being used by the enemy. |
+| **PCs:** Bok, Varus, Sage, Baltigard, outros [por confirmar] | **PCs:** Bok, Varus, Sage, Baltigard, others [to confirm] |
+| **NPCs:** Baltigard, sacerdotisa rival, elemental guardião, Thoren, lacaios do Mal Elemental | **NPCs:** Baltigard, rival priestess, elemental guardian, Thoren, Elemental Evil lackeys |
+| **Loot:** Consequências mágicas, reconhecimento local, parte das pedras recuperadas, informação sobre a missão inimiga | **Loot:** Magical consequences, local recognition, part of the stones recovered, information about the enemy mission |
+| **Data:** 2025-02-27 | **Date:** 2025-02-27 |
+| **Ficheiros de origem:** s08_as_tres_pedras_e_o_ritual_resumo.md | **Source files:** s08_as_tres_pedras_e_o_ritual_resumo.md |

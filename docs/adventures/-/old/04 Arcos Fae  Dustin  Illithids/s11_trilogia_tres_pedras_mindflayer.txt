@@ -1,0 +1,90 @@
+# Companhia & as Três Pedras / Mind Flayers  Bullet Points
+
+| Português                                                                                                                                                                                                                                                                                                                                                   | English                                                                                                                                                                                                                                                                                                                                                     |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| - Companhia pede à party para recuperar as três pedras mágicas.<br>- Investigam templo no pântano, aldeia dos sapos com cadáveres sem cérebro.<br>- Loot: moedas, scroll de teleport e fireball.<br>- Dois mind flayers atacam: Baltigard e Varus morrem.<br>- Nave Illithid aparece e rapta a party.<br>- Sessão termina com todos na nave alienígena.<br> | - The Company asks the party to recover the three magic stones.<br>- Investigate swamp temple, frogfolk village with brainless corpses.<br>- Loot: coins, scrolls of teleport and fireball.<br>- Two mind flayers attack: Baltigard and Varus die.<br>- Illithid ship arrives and abducts the party.<br>- Session ends with everyone on the alien ship.<br> |
+| **NPCs:** Companhia das Três Pedras, Baltigard, Varus, mind flayers                                                                                                                                                                                                                                                                                         | **NPCs:** Three Stones Company, Baltigard, Varus, mind flayers                                                                                                                                                                                                                                                                                              |
+| **Loot:** Moedas, pergaminhos mágicos                                                                                                                                                                                                                                                                                                                       | **Loot:** Coins, magic scrolls                                                                                                                                                                                                                                                                                                                              |
+| **Data:** 2025-03-20                                                                                                                                                                                                                                                                                                                                        | **Date:** 2025-03-20                                                                                                                                                                                                                                                                                                                                        |
+| **Ficheiros de origem:** s11_trilogia_tres_pedras_mindflayer_pontos.md                                                                                                                                                                                                                                                                                      | **Source files:** s11_trilogia_tres_pedras_mindflayer_pontos.md                                                                                                                                                                                                                                                                                             |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s11_trilogia_tres_pedras_mindflayer_ready.md ==== -->
+
+# Companhia & as Três Pedras / Mind Flayers  Ready to Play
+
+| Português                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | English                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Introdução:** Companhia das Três Pedras contacta a party para recuperar artefactos no pântano.<br><br>**Cena 1: Investigação no Templo**<br>- Aldeia dos sapos infestada de corpos sem cérebro.<br>- Loot: moedas, scroll de teleport, scroll de fireball.<br><br>**Cena 2: Confronto Mind Flayer**<br>- Dois mind flayers atacam.<br>- Baltigard e Varus morrem.<br><br>**Cena 3: Abdução Alienígena**<br>- Nave Illithid rapta o grupo.<br>- Sessão termina com party prisioneira dos mind flayers.<br> | **Introduction:** Three Stones Company contacts the party to recover artifacts in the swamp.<br><br>**Scene 1: Temple Investigation**<br>- Frogfolk village infested with brainless corpses.<br>- Loot: coins, teleport scroll, fireball scroll.<br><br>**Scene 2: Mind Flayer Encounter**<br>- Two mind flayers attack.<br>- Baltigard and Varus die.<br><br>**Scene 3: Alien Abduction**<br>- Illithid ship abducts the group.<br>- Session ends with the party imprisoned by mind flayers.<br> |
+| **NPCs:** Companhia das Três Pedras, Baltigard, Varus, mind flayers                                                                                                                                                                                                                                                                                                                                                                                                                                         | **NPCs:** Three Stones Company, Baltigard, Varus, mind flayers                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| **Loot:** Moedas, pergaminhos mágicos                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | **Loot:** Coins, magic scrolls                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| **Data:** 2025-03-20                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | **Date:** 2025-03-20                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| **Ficheiros de origem:** s11_trilogia_tres_pedras_mindflayer_ready.md                                                                                                                                                                                                                                                                                                                                                                                                                                       | **Source files:** s11_trilogia_tres_pedras_mindflayer_ready.md                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s11_trilogia_tres_pedras_mindflayer_summary.md ==== -->
+
+# Companhia & as Três Pedras / Mind Flayers
+
+| Português | English |
+|-----------|---------|
+| **Descrição:** Companhia das Três Pedras chama a party para recuperar artefactos mágicos. No pântano e aldeia dos sapos, enfrentam cadáveres sem cérebro e recolhem loot mágico. Dois mind flayers atacam: Baltigard e Varus caem. Uma nave Illithid surge e rapta a party, encerrando a sessão com todos aprisionados.<br> | **Description:** The Three Stones Company calls the party to recover magical artifacts. In the swamp and frogfolk village, they face brainless corpses and collect magical loot. Two mind flayers attack: Baltigard and Varus fall. An Illithid ship appears and abducts the party, ending the session with everyone captured.<br> |
+| **PCs:** [a confirmar] | **PCs:** [to confirm] |
+| **NPCs:** Companhia das Três Pedras, Baltigard, Varus, mind flayers | **NPCs:** Three Stones Company, Baltigard, Varus, mind flayers |
+| **Loot:** Moedas, pergaminhos mágicos | **Loot:** Coins, magic scrolls |
+| **Data:** 2025-03-20 | **Date:** 2025-03-20 |
+| **Ficheiros de origem:** s11_trilogia_tres_pedras_mindflayer_resumo.md | **Source files:** s11_trilogia_tres_pedras_mindflayer_resumo.md |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

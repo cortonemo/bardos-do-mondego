@@ -1,0 +1,92 @@
+# O Legado de Krixis, o Valente  Bullet Points
+
+| Português                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | English                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| - Kobolds Vermisombra contratam o grupo para recuperar espada sagrada e libertar Krixis.<br>- Entrada do templo: 2 goblins vigias.<br>- Sala das oferendas: armadilha de foice, lobo mágico acorrentado (Krixis).<br>- Enfrentam patrulha de 3 goblins, descobrem que Chefe Orc guarda a espada.<br>- Sala do boss: Gogrom (orc), enigma da vela e porta secreta.<br>- Na sala secreta, enfrentam orc furioso.<br>- Libertam Krixis, lobo transforma-se em kobold.<br>- Retornam à taberna para celebrar, fortalecendo laços com os kobolds.<br> | - Vermisombra kobolds hire the group to recover a sacred sword and free Krixis.<br>- Temple entrance: 2 goblin guards.<br>- Offerings room: scythe trap, chained magic wolf (Krixis).<br>- Face patrol of 3 goblins, learn Orc Chief holds the sword.<br>- Boss room: Gogrom (orc), candle puzzle and secret door.<br>- Secret room: furious orc.<br>- Free Krixis, wolf transforms into kobold.<br>- Return to tavern for celebration, strengthen ties with kobolds.<br> |
+| **NPCs:** Snikil Pescabrasa (líder kobold), Gogrom (orc boss), Krixis (kobold/lobo), goblins                                                                                                                                                                                                                                                                                                                                                                                                                                                     | **NPCs:** Snikil Pescabrasa (kobold leader), Gogrom (orc boss), Krixis (kobold/wolf), goblins                                                                                                                                                                                                                                                                                                                                                                             |
+| **Loot:** Espada sagrada dos kobolds, pista da maldição                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | **Loot:** Kobold sacred sword, curse clue                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| **Data:** 2025-03-20                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | **Date:** 2025-03-20                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| **Ficheiros de origem:** s11_o_legado_de_krixis_pontos.md                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | **Source files:** s11_o_legado_de_krixis_pontos.md                                                                                                                                                                                                                                                                                                                                                                                                                        |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s11_o_legado_de_krixis_ready.md ==== -->
+
+
+# O Legado de Krixis, o Valente  Ready to Play
+
+| Português                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | English                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Introdução:** Kobolds Vermisombra procuram aventureiros na taberna para missão de honra: recuperar espada sagrada e salvar o ancestral Krixis.<br><br>**Cena 1: Entrada no Templo**<br>- 2 goblins vigias.<br>- Sala das oferendas: armadilha de foice; lobo mágico acorrentado.<br><br>**Cena 2: Exploração e Combate**<br>- Enfrentam patrulha de goblins.<br>- Chefe Orc Gogrom desafia o grupo.<br><br>**Cena 3: O Enigma da Vela**<br>- Porta secreta só abre com solução do puzzle (vela).<br>- Sala secreta: orc furioso, loot e pista sobre a maldição.<br><br>**Cena 4: Libertação de Krixis**<br>- Libertam o lobo (Krixis), retornam à taberna para celebrar.<br> | **Introduction:** Vermisombra kobolds seek adventurers in the tavern for an honor quest: recover sacred sword and save the ancestor Krixis.<br><br>**Scene 1: Temple Entrance**<br>- 2 goblin guards.<br>- Offerings room: scythe trap; chained magic wolf.<br><br>**Scene 2: Exploration & Combat**<br>- Face goblin patrol.<br>- Orc Chief Gogrom challenges the group.<br><br>**Scene 3: Candle Puzzle**<br>- Secret door only opens with puzzle solution (candle).<br>- Secret room: furious orc, loot, curse clue.<br><br>**Scene 4: Krixiss Liberation**<br>- Free the wolf (Krixis), return to tavern for celebration.<br> |
+| **NPCs:** Snikil Pescabrasa, Gogrom, Krixis, goblins                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | **NPCs:** Snikil Pescabrasa, Gogrom, Krixis, goblins                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| **Loot:** Espada sagrada, pista da maldição                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | **Loot:** Sacred sword, curse clue                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| **Data:** 2025-03-20                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | **Date:** 2025-03-20                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| **Ficheiros de origem:** s11_o_legado_de_krixis_ready.md                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | **Source files:** s11_o_legado_de_krixis_ready.md                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s11_o_legado_de_krixis_summary.md ==== -->
+
+# O Legado de Krixis, o Valento
+
+| Português | English |
+|-----------|---------|
+| **Descrição:** Kobolds Vermisombra contratam os aventureiros para libertar Krixis, ancestral amaldiçoado, e recuperar a espada sagrada num templo abandonado. O grupo enfrenta goblins, armadilhas e orcs, incluindo o boss Gogrom. Descobrem um lobo acorrentado (Krixis sob maldição), resolvem o enigma da sala secreta, libertam Krixis e celebram o sucesso com os kobolds.<br> | **Description:** Vermisombra kobolds hire the adventurers to free Krixis, a cursed ancestor, and recover the sacred sword in an abandoned temple. The group faces goblins, traps, and orcsincluding boss Gogrom. They discover a chained wolf (Krixis under a curse), solve the secret room puzzle, free Krixis, and celebrate with the kobolds.<br> |
+| **PCs:** [a confirmar] | **PCs:** [to confirm] |
+| **NPCs:** Snikil Pescabrasa, Gogrom, Krixis, goblins | **NPCs:** Snikil Pescabrasa, Gogrom, Krixis, goblins |
+| **Loot:** Espada sagrada, pista da maldição | **Loot:** Sacred sword, curse clue |
+| **Data:** 2025-03-20 | **Date:** 2025-03-20 |
+| **Ficheiros de origem:** s11_o_legado_de_krixis_resumo.md | **Source files:** s11_o_legado_de_krixis_resumo.md |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

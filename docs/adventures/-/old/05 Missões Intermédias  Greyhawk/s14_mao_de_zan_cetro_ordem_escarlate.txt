@@ -1,0 +1,96 @@
+
+
+# A Mão de Zan, o Cetro e a Ordem Escarlate: Bullet Points
+
+| Português                                                                                                                                                                                                                                                                                                                                              | English                                                                                                                                                                                                                                                                                                                                                                              |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| - Party participa numa procissão religiosa pelas ruas.<br>- É oferecido um ceptro ritual à cidade.<br>- Líder da Ordem Escarlate faz discurso; objeto parece amaldiçoado.<br>- Evento é interrompido por aparição espectral e pânico.<br>- Party intervém para proteger civis e investigar o ceptro.<br>- Descobrem selo mágico na base do objeto.<br> | - Party joins a religious procession through the city streets.<br>- A ritual scepter is gifted to the city.<br>- Leader of the Scarlet Order gives a speech; the object seems cursed.<br>- The event is interrupted by a spectral apparition and panic.<br>- Party intervenes to protect civilians and investigate the scepter.<br>- Discover a magic seal at the object's base.<br> |
+| **NPCs:** líder da Ordem Escarlate, clérigos, civis, aparição espectral                                                                                                                                                                                                                                                                                | **NPCs:** Scarlet Order leader, clerics, civilians, spectral apparition                                                                                                                                                                                                                                                                                                              |
+| **Loot:** ceptro ritual (amaldiçoado), selo mágico, oferendas de civis                                                                                                                                                                                                                                                                                 | **Loot:** ritual scepter (cursed), magic seal, civilian offerings                                                                                                                                                                                                                                                                                                                    |
+| **Data:** 2025-04-10                                                                                                                                                                                                                                                                                                                                   | **Date:** 2025-04-10                                                                                                                                                                                                                                                                                                                                                                 |
+| **Ficheiros de origem:** s14_-_sessao_10-04_–_dm_guine.md, s14_-_sessao_10-04_-_henrique.md                                                                                                                                                                                                                                                            |                                                                                                                                                                                                                                                                                                                                                                                      |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s14_mao_de_zan_cetro_ordem_escarlate_ready.md ==== -->
+
+
+
+# Sessão 14  A Mão de Zan, o Cetro e a Ordem Escarlate: Ready to Play
+
+| Português | English |
+|-----------|---------|
+| **Introdução:** Party convidada para participar de procissão solene na cidade.<br><br>**Cena 1: Procissão e Oferta**<br>- Apresentação do ceptro; líder religioso faz discurso.<br><br>**Cena 2: Aparição Espectral**<br>- Manifestação mágica causa pânico.<br>- Teste social ou combate para acalmar multidão.<br><br>**Cena 3: Investigação do Ceptro**<br>- Descoberta de selo mágico e possíveis efeitos nefastos.<br><br>**Cena 4: Repercussão Pública**<br>- Ganham reputação; pista para culto ou ameaça maior.<br> | **Introduction:** Party invited to take part in a solemn city procession.<br><br>**Scene 1: Procession and Gift**<br>- Scepter presented; religious leader speaks.<br><br>**Scene 2: Spectral Apparition**<br>- Magical manifestation causes panic.<br>- Social challenge or combat to calm the crowd.<br><br>**Scene 3: Scepter Investigation**<br>- Discovery of magic seal and possible harmful effects.<br><br>**Scene 4: Public Impact**<br>- Gain reputation; clue toward cult or greater threat.<br> |
+| **NPCs:** líder da Ordem Escarlate, clérigos, civis, aparição espectral | **NPCs:** Scarlet Order leader, clerics, civilians, spectral apparition |
+| **Loot:** ceptro ritual (amaldiçoado), selo mágico, oferendas de civis | **Loot:** ritual scepter (cursed), magic seal, civilian offerings |
+| **Data:** 2025-04-10 | **Date:** 2025-04-10 |
+| **Ficheiros de origem:** s14_-_sessao_10-04__dm_guine.md, s14_-_sessao_10-04_-_henrique.md |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s14_mao_de_zan_cetro_ordem_escarlate_summary.md ==== -->
+
+
+
+# Mão de Zan, o Cetro e a Ordem Escarlate
+
+| Português | English |
+|-----------|---------|
+| **Descrição:** A party participa numa procissão liderada pela Ordem Escarlate, onde um ceptro ritual é oferecido à cidade. Durante o evento, uma aparição espectral interrompe tudo, provocando caos. O grupo intervém para proteger civis, investiga o ceptro e descobre um selo mágico suspeito, levantando pistas sobre magia perigosa ou culto oculto. | **Description:** The party joins a procession led by the Scarlet Order, where a ritual scepter is given to the city. During the event, a spectral apparition causes chaos. The group intervenes to protect civilians, investigates the scepter, and discovers a suspicious magic seal, hinting at dangerous magic or a hidden cult. |
+| **PCs:** Raylahn, Wagner, Drayl, Kai, Markus | **PCs:** Raylahn, Wagner, Drayl, Kai, Markus |
+| **NPCs:** líder da Ordem Escarlate, clérigos, civis, aparição espectral | **NPCs:** Scarlet Order leader, clerics, civilians, spectral apparition |
+| **Loot:** ceptro ritual (amaldiçoado), selo mágico, oferendas de civis | **Loot:** ritual scepter (cursed), magic seal, civilian offerings |
+| **Data:** 2025-04-10 | **Date:** 2025-04-10 |
+| **Ficheiros de origem:** s14_-_sessao_10-04__dm_guine.md, s14_-_sessao_10-04_-_henrique.md |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

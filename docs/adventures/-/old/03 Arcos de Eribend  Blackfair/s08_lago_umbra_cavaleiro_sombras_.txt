@@ -1,0 +1,92 @@
+# Lago Umbra & O Cavaleiro das Sombras  Bullet Points
+
+| Português                                                                                                                                                                                                                                                                                                                   | English                                                                                                                                                                                                                                                                                                                |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| - PCs viajam ao Lago Umbra, guiados por presságios do ritual.<br>- Encontram o Cavaleiro das Sombras em duelo místico.<br>- Enfrentam provas de coragem, sombras e ilusões.<br>- Revelação sobre a ligação entre as pedras e o ciclo sombrio do lago.<br>- Cavaleiro revela profecia incompleta; oferece missão futura.<br> | - PCs travel to Lago Umbra, guided by omens from the ritual.<br>- Encounter the Shadow Knight in a mystical duel.<br>- Face trials of courage, shadows, and illusions.<br>- Revelation about the link between the stones and the lakes shadow cycle.<br>- Knight reveals incomplete prophecy; offers future quest.<br> |
+| **NPCs:** Cavaleiro das Sombras, espírito do lago, anciãos [referidos]                                                                                                                                                                                                                                                      | **NPCs:** Shadow Knight, lake spirit, elders [referenced]                                                                                                                                                                                                                                                              |
+| **Loot:** Missão futura, fragmento da profecia, bênção do lago                                                                                                                                                                                                                                                              | **Loot:** Future quest, prophecy fragment, lakes blessing                                                                                                                                                                                                                                                              |
+| **Data:** 2025-02-27                                                                                                                                                                                                                                                                                                        | **Date:** 2025-02-27                                                                                                                                                                                                                                                                                                   |
+| **Ficheiros de origem:** s08_lago_umbra_cavaleiro_sombras_pontos.md                                                                                                                                                                                                                                                         | **Source files:** s08_lago_umbra_cavaleiro_sombras_pontos.md                                                                                                                                                                                                                                                           |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s08_lago_umbra_cavaleiro_sombras_ready.md ==== -->
+
+# Lago Umbra & O Cavaleiro das Sombras  Ready to Play
+
+| Português                                                                                                                                                                                                                                                                                                                                                                                                                                   | English                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Introdução:** PCs viajam ao Lago Umbra para desvendar as consequências do ritual.<br><br>**Cena 1: Provas e Encontro**<br>- Desafios de coragem e sabedoria; enfrentam ilusões.<br><br>**Cena 2: O Cavaleiro das Sombras**<br>- Duelo místico e revelação de fragmentos de profecia.<br>- Ligação entre as pedras, o lago e um ciclo sombrio.<br><br>**Encerramento:**<br>- Cavaleiro oferece missão futura, bênção do lago recebida.<br> | **Introduction:** PCs travel to Lago Umbra to unravel the rituals consequences.<br><br>**Scene 1: Trials and Encounter**<br>- Tests of courage and wisdom; face illusions.<br><br>**Scene 2: The Shadow Knight**<br>- Mystical duel and revelation of prophecy fragments.<br>- Connection between the stones, the lake, and a shadow cycle.<br><br>**Conclusion:**<br>- Knight offers a future quest, lakes blessing granted.<br> |
+| **NPCs:** Cavaleiro das Sombras, espírito do lago, anciãos [referidos]                                                                                                                                                                                                                                                                                                                                                                      | **NPCs:** Shadow Knight, lake spirit, elders [referenced]                                                                                                                                                                                                                                                                                                                                                                           |
+| **Loot:** Missão futura, fragmento da profecia, bênção do lago                                                                                                                                                                                                                                                                                                                                                                              | **Loot:** Future quest, prophecy fragment, lakes blessing                                                                                                                                                                                                                                                                                                                                                                          |
+| **Data:** 2025-02-27                                                                                                                                                                                                                                                                                                                                                                                                                        | **Date:** 2025-02-27                                                                                                                                                                                                                                                                                                                                                                                                                |
+| **Ficheiros de origem:** s08_lago_umbra_cavaleiro_sombras_ready.md                                                                                                                                                                                                                                                                                                                                                                          | **Source files:** s08_lago_umbra_cavaleiro_sombras_ready.md                                                                                                                                                                                                                                                                                                                                                                         |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s08_lago_umbra_cavaleiro_sombras_summary.md ==== -->
+
+# Lago Umbra & O Cavaleiro das Sombras
+
+| Português | English |
+|-----------|---------|
+| **Descrição:** No Lago Umbra, o grupo enfrenta provas e ilusões impostas pelo Cavaleiro das Sombras. Fragmentos de profecia revelam o ciclo sombrio do lago e preparam os heróis para uma missão futura ligada ao destino das pedras e do próprio mundo.<br> | **Description:** At Lago Umbra, the group faces trials and illusions set by the Shadow Knight. Prophecy fragments reveal the lakes shadow cycle and prepare the heroes for a future quest tied to the fate of the stones and the world itself.<br> |
+| **PCs:** Triss, Vaunia, Grix, outros [por confirmar] | **PCs:** Triss, Vaunia, Grix, others [to confirm] |
+| **NPCs:** Cavaleiro das Sombras, espírito do lago, anciãos [referidos] | **NPCs:** Shadow Knight, lake spirit, elders [referenced] |
+| **Loot:** Missão futura, fragmento da profecia, bênção do lago | **Loot:** Future quest, prophecy fragment, lakes blessing |
+| **Data:** 2025-02-27 | **Date:** 2025-02-27 |
+| **Ficheiros de origem:** s08_lago_umbra_cavaleiro_sombras_resumo.md | **Source files:** s08_lago_umbra_cavaleiro_sombras_resumo.md |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
