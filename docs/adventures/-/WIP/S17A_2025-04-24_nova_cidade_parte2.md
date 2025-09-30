@@ -3,8 +3,9 @@
 **Semana:** 17  
 **Sessão:** S17A (Jota)  
 
----
+***15 de Readying, 999 CY***
 
+---
 ## 🗓 Linha Temporal
 | Semana | Data      | Sessão | Nome da Sessão                       |
 |--------|-----------|--------|---------------------------------------|

@@ -3,8 +3,9 @@
 **Semana:** 18  
 **Sessão:** S18  
 
----
+***22 de Readying, 999 CY***
 
+---
 ## 🗓 Linha Temporal
 | Semana | Data      | Sessão | Nome da Sessão |
 |--------|-----------|--------|----------------|

@@ -2,8 +2,9 @@
 **Data:** 15/01/2025  
 **Sessão:** S03C  
 
----
+***1 de Ready'reat, 998 CY***
 
+---
 ## 🗓 Linha Temporal
 | Semana | Data       | Sessão | Nome da Sessão            |
 |--------|-----------|--------|----------------------------|

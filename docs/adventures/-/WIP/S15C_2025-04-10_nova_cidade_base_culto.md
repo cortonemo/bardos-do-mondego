@@ -3,8 +3,9 @@
 **Semana:** 15  
 **Sessão:** S15C (Jota)  
 
----
+***1 de Readying, 999 CY***
 
+---
 ## 🗓 Linha Temporal
 | Semana | Data      | Sessão | Nome da Sessão               |
 |--------|-----------|--------|-------------------------------|

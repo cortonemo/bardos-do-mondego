@@ -3,8 +3,9 @@
 **Semana:** 19  
 **Sessão:** S19  
 
----
+***1 de Coldeven, 999 CY***
 
+---
 ## 🗓 Linha Temporal
 | Semana | Data      | Sessão | Nome da Sessão |
 |--------|-----------|--------|----------------|

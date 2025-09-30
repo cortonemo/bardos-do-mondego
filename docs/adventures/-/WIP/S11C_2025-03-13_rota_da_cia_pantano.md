@@ -3,8 +3,9 @@
 **Semana:** 11  
 **Sessão:** S11C (Guiné)  
 
----
+***1 de Fireseek, 999 CY***
 
+---
 ## 🗓 Linha Temporal
 | Semana | Data      | Sessão | Nome da Sessão                  |
 |--------|-----------|--------|----------------------------------|

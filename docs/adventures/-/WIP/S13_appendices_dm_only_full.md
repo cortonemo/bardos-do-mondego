@@ -2,8 +2,9 @@
 **Data:** 27/03/2025  
 **Semana:** 13  
 
----
+***15 de Fireseek, 999 CY***
 
+---
 ## ✉️ Carta de Pryssana para Dustin
 (Deixada após o combate no Castelo Ruína-de-Ébano)
 

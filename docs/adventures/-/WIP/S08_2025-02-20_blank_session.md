@@ -3,8 +3,9 @@
 **Semana:** 8  
 **Sessão:** S08  
 
----
+***8 de Sunsebb, 998 CY***
 
+---
 ## 🗓 Linha Temporal
 | Semana | Data      | Sessão | Nome da Sessão |
 |--------|-----------|--------|----------------|

@@ -3,8 +3,9 @@
 **Semana:** 20  
 **Sessão:** S20 (One-Shot de Dustin e Pryssana)  
 
----
+***8 de Coldeven, 999 CY***
 
+---
 ## 🗓 Linha Temporal
 | Semana | Data      | Sessão | Nome da Sessão            |
 |--------|-----------|--------|---------------------------|

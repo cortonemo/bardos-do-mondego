@@ -2,8 +2,9 @@
 **Data:** 23/01/2025  
 **Sessão:** S04A  
 
----
+***8 de Ready'reat, 998 CY ***
 
+---
 ## 🗓 Linha Temporal
 | Semana | Data       | Sessão | Nome da Sessão                       |
 |--------|-----------|--------|---------------------------------------|

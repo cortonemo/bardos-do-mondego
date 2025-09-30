@@ -3,8 +3,9 @@
 **Semana:** 27  
 **Sessão:** S27 (DM: André Maia)  
 
----
+***1 de Flocktime, 999 CY***
 
+---
 ## 🗓 Linha Temporal
 | Semana | Data      | Sessão | Nome da Sessão                           |
 |--------|-----------|--------|-------------------------------------------|

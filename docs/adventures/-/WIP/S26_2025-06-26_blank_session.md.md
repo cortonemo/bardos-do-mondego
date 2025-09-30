@@ -1,15 +1,15 @@
-# Sessão 21 – [Em Branco]  
-**Data:** 22/05/2025  
-**Semana:** 21  
-**Sessão:** S21  
+# Sessão 26 – [Em Branco]  
+**Data:** 26/06/2025  
+**Semana:** 26  
+**Sessão:** S26  
 
-***15 de Coldeven, 999 CY***
+***22 de Planting, 999 CY***
 
 ---
 ## 🗓 Linha Temporal
 | Semana | Data      | Sessão | Nome da Sessão |
 |--------|-----------|--------|----------------|
-| 21     | 22/05/25  | S21    | [por preencher] |
+| 26     | 26/06/25  | S26    | [por preencher] |
 
 ---
 

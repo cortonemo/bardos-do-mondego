@@ -3,8 +3,9 @@
 **Semana:** 13  
 **Sessão:** S13B (Guiné)  
 
----
+***15 de Fireseek, 999 CY***
 
+---
 ## 🗓 Linha Temporal
 | Semana | Data      | Sessão | Nome da Sessão             |
 |--------|-----------|--------|-----------------------------|

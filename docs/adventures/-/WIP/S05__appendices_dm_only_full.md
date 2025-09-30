@@ -1,4 +1,11 @@
-24º Dia da Lua Negra
+**Data:** 30/01/2025  
+**Sessão:** S05  
+
+***15 de Ready'reat, 998 CY***
+
+---
+## 📜 24º Dia da Lua Negra
+
 A glória de Nerull se aproxima, mas nosso trabalho ainda é longo e exigirá sacrifícios. A praga fúngica em Mistwood foi apenas o começo de uma campanha maior. 
 A nossa missão é clara: levar a dádiva de Nerull a Erybend e às cidades próximas. O caos será a nossa ferramenta, e a morte, nosso triunfo.
 O sucesso deste fungo que encontrámos na nave das estrelas prova que estamos no bom caminho e a justeza das nossas acções.

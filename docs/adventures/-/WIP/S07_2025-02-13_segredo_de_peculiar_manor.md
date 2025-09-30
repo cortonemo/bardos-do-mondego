@@ -3,8 +3,9 @@
 **Semana:** 07  
 **Sessão:** S07 (André Maia)  
 
----
+***1 de Sunsebb, 998 CY***
 
+---
 ## 🗓 Linha Temporal
 | Semana | Data      | Sessão | Nome da Sessão           |
 |--------|-----------|--------|---------------------------|

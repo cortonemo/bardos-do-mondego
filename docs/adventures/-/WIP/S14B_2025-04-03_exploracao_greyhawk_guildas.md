@@ -3,8 +3,9 @@
 **Semana:** 14  
 **Sessão:** S14B (Jota)  
 
----
+***22 de Fireseek, 999 CY***
 
+---
 ## 🗓 Linha Temporal
 | Semana | Data      | Sessão | Nome da Sessão                        |
 |--------|-----------|--------|----------------------------------------|

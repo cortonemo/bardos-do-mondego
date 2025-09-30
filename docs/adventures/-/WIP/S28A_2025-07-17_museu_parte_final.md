@@ -3,8 +3,9 @@
 **Semana:** 28  
 **Sessão:** S28A (DM: André Maia)  
 
----
+***8 de Flocktime, 999 CY***
 
+---
 ## 🗓 Linha Temporal
 | Semana | Data      | Sessão | Nome da Sessão                                  |
 |--------|-----------|--------|-------------------------------------------------|

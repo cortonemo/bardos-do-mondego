@@ -3,8 +3,9 @@
 **Semana:** 30  
 **Sessão:** S30  
 
----
+***22 de Flocktime, 999 CY***
 
+---
 ## 🗓 Linha Temporal
 | Semana | Data      | Sessão | Nome da Sessão                 |
 |--------|-----------|--------|--------------------------------|

@@ -5,7 +5,6 @@
 ***1 de Ready'reat, 998 CY***
 
 ---
-
 ## 🗓 Linha Temporal
 | Semana | Data     | Sessão | Nome da Sessão          |
 | ------ | -------- | ------ | ----------------------- |

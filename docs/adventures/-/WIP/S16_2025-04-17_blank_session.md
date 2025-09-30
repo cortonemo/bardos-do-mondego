@@ -3,8 +3,9 @@
 **Semana:** 16  
 **Sessão:** S16  
 
----
+***8 de Readying, 999 CY***
 
+---
 ## 🗓 Linha Temporal
 | Semana | Data      | Sessão | Nome da Sessão |
 |--------|-----------|--------|----------------|

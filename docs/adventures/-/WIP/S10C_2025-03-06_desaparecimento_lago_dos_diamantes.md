@@ -3,8 +3,9 @@
 **Semana:** 10  
 **Sessão:** S10C (Henrique)  
 
----
+***22 de Sunsebb, 998 CY***
 
+---
 ## 🗓 Linha Temporal
 | Semana | Data      | Sessão | Nome da Sessão                       |
 |--------|-----------|--------|---------------------------------------|
