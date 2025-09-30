@@ -2,12 +2,14 @@
 **Data:** 15/01/2025  
 **Sessão:** S03A  
 
+***1 de Ready'reat, 998 CY***
+
 ---
 
 ## 🗓 Linha Temporal
-| Semana | Data       | Sessão | Nome da Sessão                |
-|--------|-----------|--------|--------------------------------|
-| 03     | 15/01/25  | S03A   | A Emboscada no Rio Neem        |
+| Semana | Data     | Sessão | Nome da Sessão          |
+| ------ | -------- | ------ | ----------------------- |
+| 03     | 15/01/25 | S03A   | A Emboscada no Rio Neem |
 
 ---
 

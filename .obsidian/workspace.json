@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/dm/-/pc/pc_grix_molah.md",
+                "file": "docs/adventures/-/WIP/S03B_2025-01-15_busca_amuleto_perdido.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "pc_grix_molah"
+              "title": "S03B_2025-01-15_busca_amuleto_perdido"
             }
           },
           {
@@ -78,7 +78,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de ficheiros"
+              "title": "Files"
             }
           },
           {
@@ -191,19 +191,34 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir Quick Switcher": false,
-      "graph:Abrir Visualização de diagrama de grafo": false,
-      "daily-notes:Abrir nota de hoje": false,
-      "templates:Inserir templates": false,
-      "command-palette:Abrir paleta de comando": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "canvas:Create new canvas": false
     }
   },
   "active": "df0cab912ff9f5c4",
   "lastOpenFiles": [
-    "docs/pc/-/pc_grix_molah.md",
+    "docs/adventures/-/WIP/S03A_2025-01-15_emboscada_rio_neem.md",
+    "docs/adventures/-/WIP/S02_2025-01-09_miner_difficulties.md",
+    "docs/adventures/-/WIP/S01_2025-01-02_riacho.md",
+    "docs/adventures/-/mission_01_os_fungos_do_bosque.md",
+    "docs/adventures/-/WIP/S24_2025-06-19_sociedade_dos_ratos_sedentos.md",
+    "docs/adventures/-/WIP/S23_2025-06-12_blank_session.md.md",
+    "docs/adventures/-/WIP/S22_2025-06-05_casino_heist_parte2.md",
+    "docs/adventures/-/WIP/S25_2025-06-26_blank_session.md",
+    "docs/adventures/-/WIP/S27_2025-07-10_museu_das_maravilhas.md",
+    "docs/adventures/-/WIP/S28A_2025-07-17_museu_parte_final.md",
+    "docs/adventures/-/WIP/S28B_2025-07-17_idolo_de_lady_scale_parte1.md",
+    "docs/adventures/-/WIP/S29A_2025-07-24_idolo_de_lady_scale_parte2.md",
+    "docs/adventures/-/WIP/S29B_2025-07-24_as_orquideas_negras.md",
+    "docs/adventures/-/WIP/S29C_2025-07-24_o_misterio_de_kas_kardwall.md",
+    "docs/adventures/-/WIP/S30_2025-07-31_idolo_de_lady_scale_parte3.md",
     "docs/dm/-/pc/pc_grix_molah.md",
+    "docs/pc/-/pc_grix_molah.md",
     "docs/pc/-/pc_kai.md",
     "docs/pc/-/pc_gauthak_vunakamune.md",
     "docs/assets/pc/pc_grix_molah.jpg",
@@ -222,24 +237,9 @@
     "docs/pc/-/pc_eirwen.md",
     "pc_grixmolah.md",
     "docs/pc/-/pc_triss_merrill.md",
-    "tools/greyhawk_sessions_complete.md",
-    "docs/npc/-/Fey/titania.md",
-    "docs/npc/-/Free City of Grehawk/iquander_of_greyhawk.md",
-    "docs/npc/-/Free City of Grehawk/innkeeper.md",
-    "docs/dm/-/npc/Free City of Grehawk/innkeeper.md",
-    "docs/dm/-/pc/pc_eirwen.md",
-    "docs/dm/-/npc/Fey/titania.md",
-    "docs/npc/-/wild/egalar.md",
     "tools/AllNPCs.txt",
     "tools/allPCs.txt",
     "tools/sessions.txt",
-    "docs/dm/-/npc/wild/egalar.md",
-    "docs/npc/-/wild/baltigard.md",
-    "docs/dm/-/pc/pc_wagner.md",
-    "docs/dm/-/npc/Free City of Grehawk/kythria.md",
-    "docs/npc/-/Free City of Grehawk/kythria.md",
-    "docs/pc/-/pc_wagner.md",
-    "docs/npc/-/Eribend/dolrea_vas.md",
     "assets/pc/pc_eirwen_01.png",
     "docs/assets/organization/house_vanthir.png",
     "docs/assets/organization/org_blank - Copy.png",
