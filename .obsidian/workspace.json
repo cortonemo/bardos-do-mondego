@@ -13,31 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/adventures/-/mission_10_baile_dos_high_fae.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": false
-                }
-              },
-              "icon": "lucide-file",
-              "title": "mission_10_baile_dos_high_fae"
-            }
-          },
-          {
-            "id": "550d273f4e98aaae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/adventures/-/mission_17_os_portoes_de_blackfair.md",
+                "file": "docs/dm/-/pc/pc_grix_molah.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "mission_17_os_portoes_de_blackfair"
+              "title": "pc_grix_molah"
             }
           },
           {
-            "id": "a58ad062cf45ab9d",
+            "id": "1e71847e1c88691a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/adventures/-/mission_23_as_sombras_do_templo_subterraneo.md",
+                "file": "docs/pc/-/pc_grix_molah.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,11 +52,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "mission_23_as_sombras_do_templo_subterraneo"
+              "title": "pc_grix_molah"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +78,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de ficheiros"
             }
           },
           {
@@ -137,7 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 515.5
+    "width": 253.5086555480957
   },
   "right": {
     "id": "91e5495a9d011ac2",
@@ -216,63 +191,63 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Abrir Quick Switcher": false,
+      "graph:Abrir Visualização de diagrama de grafo": false,
+      "daily-notes:Abrir nota de hoje": false,
+      "templates:Inserir templates": false,
+      "command-palette:Abrir paleta de comando": false,
       "bases:Create new base": false,
       "canvas:Create new canvas": false
     }
   },
-  "active": "a58ad062cf45ab9d",
+  "active": "df0cab912ff9f5c4",
   "lastOpenFiles": [
-    "docs/adventures/old/03 Arcos de Eribend  Blackfair/s08_as_tres_pedras_e_o_ritual_summary.md",
-    "docs/adventures/old/03 Arcos de Eribend  Blackfair/tudo/s08_as_tres_pedras_e_o_ritual_ready.md",
-    "docs/adventures/old/03 Arcos de Eribend  Blackfair/tudo/s08_as_tres_pedras_e_o_ritual_bullet.md",
-    "docs/adventures/old/03 Arcos de Eribend  Blackfair/tudo/s08_as_tres_pedras_e_o_ritual_summary.md",
-    "docs/adventures/old/03 Arcos de Eribend  Blackfair/s08_as_tres_pedras_e_o_ritual.txt",
-    "docs/adventures/old/03 Arcos de Eribend  Blackfair/tudo/s08_bullywugs_e_basilisco_ready.md",
-    "docs/adventures/old/03 Arcos de Eribend  Blackfair/tudo/s08_bullywugs_e_basilisco_bullet.md",
-    "docs/adventures/old/03 Arcos de Eribend  Blackfair/tudo/s08_bullywugs_e_basilisco_summary.md",
-    "docs/adventures/old/03 Arcos de Eribend  Blackfair/s08_bullywugs_e_basilisco.txt",
-    "docs/adventures/old/03 Arcos de Eribend  Blackfair/tudo/s08_lago_umbra_cavaleiro_sombras_ready.md",
-    "docs/adventures/old/03 Arcos de Eribend  Blackfair/tudo/s08_lago_umbra_cavaleiro_sombras_bullet.md",
-    "docs/adventures/old/03 Arcos de Eribend  Blackfair/tudo/s08_lago_umbra_cavaleiro_sombras_summary.md",
-    "docs/adventures/old/03 Arcos de Eribend  Blackfair/s05_s06ss08_lago_umbra_cavaleiro_sombras_.txt",
-    "docs/adventures/old/03 Arcos de Eribend  Blackfair/s05_s06ss08_nave_illithid_e_entrega_de_thoren.txt",
-    "docs/adventures/old/03 Arcos de Eribend  Blackfair/tudo/s08_nave_illithid_e_entrega_de_thoren_ready.md",
-    "docs/adventures/old/03 Arcos de Eribend  Blackfair/tudo/s08_nave_illithid_e_entrega_de_thoren_bullet.md",
-    "docs/adventures/old/03 Arcos de Eribend  Blackfair/tudo/s08_nave_illithid_e_entrega_de_thoren_summary.md",
-    "docs/adventures/old/03 Arcos de Eribend  Blackfair/s05_s06ss08_nave_illithid_e_entrega_de_thorentxt.txt",
-    "docs/adventures/old/03 Arcos de Eribend  Blackfair/tudo/s07_eribend_raptos_cultistas_odrak_ready.md",
-    "docs/adventures/old/03 Arcos de Eribend  Blackfair/tudo/s07_eribend_raptos_cultistas_odrak_bullet.md",
-    "docs/adventures/old/03 Arcos de Eribend  Blackfair/tudo/s07_eribend_raptos_cultistas_odrak_summary.md",
-    "docs/adventures/old/03 Arcos de Eribend  Blackfair/s05_s06_gs07_eribend_raptos_cultistas_odrak.txt",
-    "docs/adventures/old/03 Arcos de Eribend  Blackfair/tudo/s06_grutas_pantano_bullywugs_basilisco_ready.md",
-    "docs/adventures/old/03 Arcos de Eribend  Blackfair/tudo/s06_grutas_pantano_bullywugs_basilisco_bullet.md",
-    "docs/adventures/old/03 Arcos de Eribend  Blackfair/tudo/s06_grutas_pantano_bullywugs_basilisco_summary.md",
-    "docs/adventures/old/03 Arcos de Eribend  Blackfair/s05_s06_grutas_pantano_bullywugs_basilisco.txt",
-    "docs/adventures/old/03 Arcos de Eribend  Blackfair/s05_s06_eribend_kobolds_baile_blackfair.txt",
-    "docs/adventures/old/02 Arcos de Mistwood  Goblins  Culto/s05_s06_eribend_kobolds_baile_blackfair.txt",
-    "docs/adventures/old/03 Arcos de Eribend  Blackfair/tudo/s06_eribend_kobolds_baile_blackfair_summary.md",
-    "docs/adventures/old/03 Arcos de Eribend  Blackfair/tudo/s06_eribend_kobolds_baile_blackfair_ready.md",
-    "docs/adventures/old/03 Arcos de Eribend  Blackfair/tudo/s06_eribend_kobolds_baile_blackfair_bullet.md",
-    "docs/adventures/old/03 Arcos de Eribend  Blackfair/tudo",
-    "docs/adventures/old/02 Arcos de Mistwood  Goblins  Culto/tudo/s05_o_altar_de_sangue_no_campo_goblin_ready.md",
-    "docs/adventures/old/02 Arcos de Mistwood  Goblins  Culto/tudo/s05_acampamento_goblin_caravana_resgate_bullet.md",
-    "docs/adventures/old/02 Arcos de Mistwood  Goblins  Culto/tudo/s05_o_altar_de_sangue_no_campo_goblin_summary.md",
-    "docs/adventures/old/02 Arcos de Mistwood  Goblins  Culto/tudo/s05_diario_acolita_morvanya_ready.md",
+    "docs/pc/-/pc_grix_molah.md",
+    "docs/dm/-/pc/pc_grix_molah.md",
+    "docs/pc/-/pc_kai.md",
+    "docs/pc/-/pc_gauthak_vunakamune.md",
+    "docs/assets/pc/pc_grix_molah.jpg",
+    "docs/assets/pc/pc_kai_01.png",
+    "docs/dm/-/pc/pc_arkos_vasell.md",
+    "tools/empty_sessions.txt",
+    "docs/dm/-/npc/Free City of Grehawk/aria_greenbottle.md",
+    "docs/dm/-/pc/pc_silfir.md",
+    "tools/wiki_index.txt",
+    "docs/dm/-/adventures/empty_sessions.txt",
+    "tools/Greyhawk Campaign Chronicles- Elemental Evil and Illithid Intrigue.txt",
+    "docs/dm/-/adventures/sessões - Summary.txt",
+    "docs/dm/-/adventures/sessões - Ready.txt",
+    "docs/dm/-/adventures/sessões - Bullet Points.txt",
+    "docs/dm/-/pc/pc_eldric_silvanos.md",
+    "docs/pc/-/pc_eirwen.md",
+    "pc_grixmolah.md",
+    "docs/pc/-/pc_triss_merrill.md",
+    "tools/greyhawk_sessions_complete.md",
+    "docs/npc/-/Fey/titania.md",
+    "docs/npc/-/Free City of Grehawk/iquander_of_greyhawk.md",
+    "docs/npc/-/Free City of Grehawk/innkeeper.md",
+    "docs/dm/-/npc/Free City of Grehawk/innkeeper.md",
+    "docs/dm/-/pc/pc_eirwen.md",
+    "docs/dm/-/npc/Fey/titania.md",
+    "docs/npc/-/wild/egalar.md",
+    "tools/AllNPCs.txt",
+    "tools/allPCs.txt",
+    "tools/sessions.txt",
+    "docs/dm/-/npc/wild/egalar.md",
+    "docs/npc/-/wild/baltigard.md",
+    "docs/dm/-/pc/pc_wagner.md",
+    "docs/dm/-/npc/Free City of Grehawk/kythria.md",
+    "docs/npc/-/Free City of Grehawk/kythria.md",
+    "docs/pc/-/pc_wagner.md",
+    "docs/npc/-/Eribend/dolrea_vas.md",
     "assets/pc/pc_eirwen_01.png",
     "docs/assets/organization/house_vanthir.png",
     "docs/assets/organization/org_blank - Copy.png",
     "docs/assets/pc/pc_kai_02.png",
     "docs/assets/pc/pc_kai_05.png",
     "docs/assets/pc/pc_kai_03.png",
-    "docs/assets/pc/pc_kai_01.png",
     "docs/assets/pc/pc_kai_00.png",
     "Untitled.canvas",
-    "docs/assets/pc/pc_blank.png",
-    "docs/assets/location/location_blank.png"
+    "docs/assets/pc/pc_blank.png"
   ]
 }
