@@ -55,7 +55,7 @@
 | ---------------------------------------------------------- | ---------------------------------------------------- |
 | **NPCs de influência direta:**  <br>- [Grix’Molah](docs/pc/-/pc_grix_molah.md) – aliado, companheiro próximo.<br>- [Titânia](docs/npc/-/Fey/titania.md) – Archfey, concedeu inspiração. | **Direct Influence NPCs:**  <br>- [Grix’Molah](docs/pc/-/pc_grix_molah.md) – ally, close companion.<br>- [Titânia](docs/npc/-/Fey/titania.md) – Archfey, granted inspiration.   |
 | **Antagonistas:**  <br>- [por preencher]<br> | **Antagonists:**  <br>-[to be filled]   |
-| **Aliados:**  <br>- Companheiros **Funguys**: [Kai](pc_kai.md), [Dustin](docs/dm/-/pc/pc_dustin_thorne.md), [Conan](docs/dm/-/pc/pc_conan_barbaro_ra.md), [Raylahn](pc_raylahn.md), [Eirwen](pc_eirwen.md), [Leo](pc_leo.md), [Sarvian](docs/dm/-/pc/pc_sarvian_midlor.md) | **Allies:**  <br>- **Funguys** companions: [Kai](pc_kai.md), [Dustin](docs/dm/-/pc/pc_dustin_thorne.md), [Conan](docs/dm/-/pc/pc_conan_barbaro_ra.md), [Raylahn](pc_raylahn.md), [Eirwen](pc_eirwen.md), [Leo](pc_leo.md), [Sarvian](docs/dm/-/pc/pc_sarvian_midlor.md) |
+| **Aliados:**  <br>- Companheiros **Funguys**: [Kai](pc_kaicult_of_elemental_evil.md), [Dustin](docs/dm/-/pc/pc_dustin_thorne.md), [Conan](docs/dm/-/pc/pc_conan_barbaro_ra.md), [Raylahn](pc_raylahn.md), [Eirwen](pc_eirwen.md), [Leo](pc_leo.md), [Sarvian](docs/dm/-/pc/pc_sarvian_midlor.md) | **Allies:**  <br>- **Funguys** companions: [Kai](pc_kaicult_of_elemental_evil.md), [Dustin](docs/dm/-/pc/pc_dustin_thorne.md), [Conan](docs/dm/-/pc/pc_conan_barbaro_ra.md), [Raylahn](pc_raylahn.md), [Eirwen](pc_eirwen.md), [Leo](pc_leo.md), [Sarvian](docs/dm/-/pc/pc_sarvian_midlor.md) |
 
 ---
 
