@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/organizations/-/guilds/guild_of_free_merchants.md",
+                "file": "docs/pc/-/pc_vaunia_kolakiala.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "guild_of_free_merchants"
+              "title": "pc_vaunia_kolakiala"
             }
           }
         ]
@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5086555480957
+    "width": 497.5
   },
   "right": {
     "id": "91e5495a9d011ac2",
@@ -178,32 +178,32 @@
   },
   "active": "1e71847e1c88691a",
   "lastOpenFiles": [
-    "docs/organizations/-/guilds/guild_of_carpenters.md",
-    "docs/organizations/-/guilds/guild_of_architects_and_mason.md",
-    "docs/organizations/-/guilds/assassins_guild.md",
-    "docs/organizations/-/cults/cult_of_elemental_evil.md",
-    "docs/pc/-/pc_arkos_vasell.md",
-    "docs/dm/-/pc/pc_asinius.md",
-    "docs/dm/-/pc/pc_friedrick_junsi.md",
-    "docs/dm/-/pc/pc_grix_molah.md",
-    "docs/dm/-/pc/pc_kai.md",
-    "docs/dm/-/pc/pc_markus_grimm.md",
-    "docs/dm/-/pc/pc_sarvian_midlor.md",
-    "docs/dm/-/pc/pc_wandering_sage.md",
-    "docs/pc/-/pc_sarvian_midlor.md",
-    "docs/pc/-/pc_raylahn.md",
-    "docs/pc/-/pc_orianna.md",
-    "docs/pc/-/pc_markus_grimm.md",
-    "docs/pc/-/pc_lucien.md",
-    "docs/pc/-/pc_lone_straw.md",
-    "docs/pc/-/pc_leo.md",
-    "docs/pc/-/pc_ketrich_flavifer.md",
-    "docs/pc/-/pc_kai.md",
-    "docs/dm/-/pc/pc_raylahn.md",
-    "docs/dm/-/pc/pc_wagner.md",
-    "docs/dm/-/pc/pc_zahel.md",
-    "docs/pc/-/pc_asinius.md",
+    "docs/dm/-/adventures/-/WIP/S01_2025-01-02_riacho.md",
+    "docs/dm/-/adventures/-/timeline_season_01.md",
+    "docs/locations/regions/high_ery.md",
+    "docs/dm/-/pc/pc_conan_barbaro_ra.md",
+    "docs/dm/-/pc/pc_vaunia_kolakiala.md",
     "docs/pc/-/pc_conan_barbaro_ra.md",
+    "docs/pc/-/pc_vaunia_kolakiala.md",
+    "docs/dm/-/organizations/underdark_paladins.md",
+    "docs/dm/-/organizations/sociedade_dos_magos.md",
+    "docs/dm/-/organizations/ordem_de_scarlat.md",
+    "docs/dm/-/organizations/guild_of_thieves.md",
+    "docs/dm/-/organizations/faccoes_e_cultos.md",
+    "docs/dm/-/organizations/cult_of_elemental_evil.md",
+    "docs/dm/-/organizations/conclave_anfibio.md",
+    "docs/dm/-/pc/pc_arkos_vasell.md",
+    "docs/dm/-/pc/pc_friedrick_junsi.md",
+    "docs/pc/-/pc_frederick_junsi.md",
+    "docs/dm/-/pc/pc_dustin_thorne.md",
+    "docs/dm/-/pc/pc_silfir.md",
+    "docs/dm/-/pc/pc_sarvian_midlor.md",
+    "docs/pc/-/pc_sarvian_midlor.md",
+    "docs/pc/-/pc_triss_merrill.md",
+    "docs/pc/-/pc_tabasco_de_lumeiros.md",
+    "docs/dm/-/pc/pc_wagner.md",
+    "docs/dm/-/pc/pc_wandering_sage.md",
+    "docs/dm/-/pc/pc_zahel.md",
     "docs/dm/-/adventures/-/old/06 Missões Avançadas/todos/s28_s29_s30_idolo_de_lady_scale_3.txt",
     "docs/dm/-/adventures/-/old/06 Missões Avançadas/todos/s28_s29_s30_idolo_de_lady_scale_2.txt",
     "docs/dm/-/adventures/-/old/06 Missões Avançadas/todos/s28_s29_s30_idolo_de_lady_scale_1.txt",

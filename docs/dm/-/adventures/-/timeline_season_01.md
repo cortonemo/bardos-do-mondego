@@ -2,7 +2,7 @@
 
 | **Semana (2025)** | **Data Corrigida (5ª feira)** | **Sessão Ajustada (Sxx)** | **Sessão Registada no Ficheiro** | **Nome da Sessão** |
 |-------------------|-------------------------------|---------------------------|----------------------------------|--------------------|
-| Semana 1 | 02/01/2025 | **S01** | S01A | O Riacho Poluído e o Fungo Elemental |
+| Semana 1 | 02/01/2025 | **S01** | S01 | O Riacho Poluído e o Fungo Elemental |
 | Semana 2 | 09/01/2025 | **S02** | S02A | Resgate na Mina de Obsidiana |
 | Semana 3 | 16/01/2025 | **S03** | [em falta] | [Sessão não encontrada nos ficheiros] |
 | Semana 4 | 23/01/2025 | **S04** | S05A | Retorno ao Vale do Vento Sombrio / Dragão Syzzin |

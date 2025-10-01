@@ -51,7 +51,7 @@
 | --------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
 | **NPCs de influência direta:**<br>- [Kilmy Midlor](kilmy_midlor.md) – irmã, Capitã dos Piratas da Rosa Negra.<br>- [Trixie](trixie.md) – goblin empregada, possivelmente grávida. | **Direct Influence NPCs:**<br>- [Kilmy Midlor](kilmy_midlor.md) – sister, Captain of the Black Rose pirates.<br>- [Trixie](trixie.md) – goblin waitress, possibly pregnant. |
 | **Antagonistas:**<br>- [Vrith Boralis](vrith_boralis.md) – ex-mestre e assassino de Sarvian. | **Antagonists:**<br>- [Vrith Boralis](vrith_boralis.md) – Sarvian’s murderer and former master. |
-| **Aliados:**<br>- Amigos da [Taverna](taverna.md) e de [Bastion](../locations/bastion.md). | **Allies:**<br>- Friends from the [Tavern](taverna.md) and [Bastion](../locations/bastion.md). |
+| **Aliados:**<br>- Amigos da [Taverna](taverna.md) e de [Bastion](bastion.md). | **Allies:**<br>- Friends from the [Tavern](taverna.md) and [Bastion](bastion.md). |
 
 ---
 

@@ -24,7 +24,7 @@
 
 | **Português (PT-PT)** | **English (EN-US)** |
 | --------------------- | ------------------- |
-| - Bairro de artesãos em [Dyvers](../../locations/dyvers.md).<br>- Presença itinerante em caravanas e missões da [Taberna](the_company.md). | - Artisan quarter in [Dyvers](../../locations/dyvers.md).<br>- Itinerant presence in caravans and missions of the [Tavern](the_company.md). |
+| - Bairro de artesãos em [Dyvers](../dyvers.md).<br>- Presença itinerante em caravanas e missões da [Taberna](the_company.md). | - Artisan quarter in [Dyvers](../dyvers.md).<br>- Itinerant presence in caravans and missions of the [Tavern](the_company.md). |
 
 ---
 
