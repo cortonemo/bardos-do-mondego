@@ -12,7 +12,7 @@
 | **Espécie**:  Tiefling    | **Species**:  Tiefling   |
 | **Classe**:  Bardo / Feiticeiro (Despertar espontâneo) | **Class**:  Bard / Sorcerer (spontaneous awakening)     |
 | **Alinhamento**: [por preencher] | **Alignment**: [to be filled]  |
-| **Background**: Casa de Lumeiros, Bairro dos Jardins, [Greyhawk](cidade_de_greyhawk.md)  | **Background**: House of Lumeiros, Garden Quarter, [Greyhawk](cidade_de_greyhawk.md) |
+| **Background**: Casa de Lumeiros, Bairro dos Jardins, [Greyhawk](free_city_of_greyhawk.md)  | **Background**: House of Lumeiros, Garden Quarter, [Greyhawk](free_city_of_greyhawk.md) |
 | **Idade**: [por preencher]       | **Age**: [to be filled]        |
 | **Altura**: [por preencher]      | **Height**: [to be filled]     |
 | **Olhos**: Rubi derretido       | **Eyes**: Molten ruby        |

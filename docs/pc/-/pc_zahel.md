@@ -58,7 +58,7 @@
 | **Defeitos:**<br>- Ingenuidade em confiar em símbolos e rituais improváveis.<br>- Obsessão pela vingança pode cegar a sua fé.<br>- Falha em aceitar perdas pode levá-lo à imprudência. | **Flaws:**<br>- Naïve in trusting unlikely symbols and rituals.<br>- Obsession with vengeance may blind his faith.<br>- Failure to accept loss may lead him to recklessness. |
 | **NPCs de influência direta:**<br>- [Anabela](anabela.md), filha de cultistas da Scarlet Order; morreu e tornou-se base da sua fé.<br>- [Owlman](owlman.md), vigilante; tecnologia obtida dele. | **Direct Influence NPCs:**<br>- [Anabela](anabela.md), daughter of Scarlet cultists; died and became foundation of his faith.<br>- [Owlman](owlman.md), vigilante; technology gained from him. |
 | **Antagonistas:**<br>- [Scarlet Order](scarlet_order.md)<br>- [Zann](zann.md), demónio que possuiu Anabela. | **Antagonists:**<br>- [Scarlet Order](scarlet_order.md)<br>- [Zann](zann.md), demon who possessed Anabela. |
-| **Aliados:**<br>- Dustin (companheiro e alvo de Zann).<br>- Taberneiros e aventureiros da [Taberna](taberna.md). | **Allies:**<br>- Dustin (companion and Zann’s target).<br>- Tavernkeepers and adventurers of the [Tavern](taberna.md). |
+| **Aliados:**<br>- Dustin (companheiro e alvo de Zann).<br>- Taberneiros e aventureiros da [Taberna](taverna.md). | **Allies:**<br>- Dustin (companion and Zann’s target).<br>- Tavernkeepers and adventurers of the [Tavern](taverna.md). |
 
 ---
 

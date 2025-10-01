@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/pc/-/pc_vaunia_kolakiala.md",
+                "file": "docs/locations/cities/free_city_of_greyhawk/university_quarter/university_quarter.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "pc_vaunia_kolakiala"
+              "title": "university_quarter"
             }
           }
         ]
@@ -178,13 +178,22 @@
   },
   "active": "1e71847e1c88691a",
   "lastOpenFiles": [
+    "docs/locations/cities/free_city_of_greyhawk/university_quarter/universidade_arcana.md",
+    "docs/locations/cities/free_city_of_greyhawk/university_quarter/university_quarter.md",
+    "docs/locations/cities/free_city_of_greyhawk/free_city_of_greyhawk.md",
+    "docs/locations/cities/free_city_of_greyhawk/free_city_of_greyhawk.md",
+    "docs/locations/cities/free_city_of_greyhawk/esgotos_de_greyhawk.md",
+    "docs/locations/cities/free_city_of_greyhawk/taverna.md",
+    "docs/pc/-/pc_vaunia_kolakiala.md",
+    "docs/locations/cities/free_city_of_greyhawk/artisans_quarter/artisans_quarter.md",
+    "pc_grixmolah.md",
+    "bairro_dos_artesaos.md",
     "docs/dm/-/adventures/-/WIP/S01_2025-01-02_riacho.md",
     "docs/dm/-/adventures/-/timeline_season_01.md",
     "docs/locations/regions/high_ery.md",
     "docs/dm/-/pc/pc_conan_barbaro_ra.md",
     "docs/dm/-/pc/pc_vaunia_kolakiala.md",
     "docs/pc/-/pc_conan_barbaro_ra.md",
-    "docs/pc/-/pc_vaunia_kolakiala.md",
     "docs/dm/-/organizations/underdark_paladins.md",
     "docs/dm/-/organizations/sociedade_dos_magos.md",
     "docs/dm/-/organizations/ordem_de_scarlat.md",
@@ -194,16 +203,6 @@
     "docs/dm/-/organizations/conclave_anfibio.md",
     "docs/dm/-/pc/pc_arkos_vasell.md",
     "docs/dm/-/pc/pc_friedrick_junsi.md",
-    "docs/pc/-/pc_frederick_junsi.md",
-    "docs/dm/-/pc/pc_dustin_thorne.md",
-    "docs/dm/-/pc/pc_silfir.md",
-    "docs/dm/-/pc/pc_sarvian_midlor.md",
-    "docs/pc/-/pc_sarvian_midlor.md",
-    "docs/pc/-/pc_triss_merrill.md",
-    "docs/pc/-/pc_tabasco_de_lumeiros.md",
-    "docs/dm/-/pc/pc_wagner.md",
-    "docs/dm/-/pc/pc_wandering_sage.md",
-    "docs/dm/-/pc/pc_zahel.md",
     "docs/dm/-/adventures/-/old/06 Missões Avançadas/todos/s28_s29_s30_idolo_de_lady_scale_3.txt",
     "docs/dm/-/adventures/-/old/06 Missões Avançadas/todos/s28_s29_s30_idolo_de_lady_scale_2.txt",
     "docs/dm/-/adventures/-/old/06 Missões Avançadas/todos/s28_s29_s30_idolo_de_lady_scale_1.txt",

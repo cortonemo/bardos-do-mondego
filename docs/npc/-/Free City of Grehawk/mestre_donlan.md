@@ -9,7 +9,7 @@
 | **Classe:** ??? | **Class:** ??? |
 | **Alinhamento:** ??? | **Alignment:** ??? |
 | **Profissão / Função:** Dono da [Loja Olho de Boccob](loja_olho_de_boccob.md), comerciante de objetos mágicos | **Profession / Role:** Owner of the [Eye of Boccob Shop](loja_olho_de_boccob.md), magical item merchant |
-| **Localização:** [Cidade de Greyhawk](cidade_de_greyhawk.md) | **Location:** [Free City of Greyhawk](cidade_de_greyhawk.md) |
+| **Localização:** [Cidade de Greyhawk](free_city_of_greyhawk.md) | **Location:** [Free City of Greyhawk](free_city_of_greyhawk.md) |
 
 ---
 
@@ -17,7 +17,7 @@
 
 | **Português (PT-PT)** | **English (EN-US)** |
 | --------------------- | ------------------- |
-| Gnomo excêntrico, dono da [Loja Olho de Boccob](loja_olho_de_boccob.md) em [Greyhawk](cidade_de_greyhawk.md). Comercializa artefatos raros, pergaminhos e objetos mágicos, e foi alvo de sabotagem e incêndio por facções rivais. | Eccentric gnome, owner of the [Eye of Boccob Shop](loja_olho_de_boccob.md) in [Greyhawk](cidade_de_greyhawk.md). Sells rare artifacts, scrolls, and magical objects, and was targeted for sabotage and arson by rival factions. |
+| Gnomo excêntrico, dono da [Loja Olho de Boccob](loja_olho_de_boccob.md) em [Greyhawk](free_city_of_greyhawk.md). Comercializa artefatos raros, pergaminhos e objetos mágicos, e foi alvo de sabotagem e incêndio por facções rivais. | Eccentric gnome, owner of the [Eye of Boccob Shop](loja_olho_de_boccob.md) in [Greyhawk](free_city_of_greyhawk.md). Sells rare artifacts, scrolls, and magical objects, and was targeted for sabotage and arson by rival factions. |
 
 ---
 

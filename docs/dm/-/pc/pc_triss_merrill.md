@@ -27,7 +27,7 @@
 | **Espécie**:  Humana    | **Species**:  Human   |
 | **Classe**:  Feiticeira (Linagem Dracónica) | **Class**:  Sorcerer (Draconic Bloodline)     |
 | **Alinhamento**: [por preencher] | **Alignment**: [to be filled]  |
-| **Background**: Filha ilegítima de mercador em [Greyhawk](cidade_de_greyhawk.md)  | **Background**: Illegitimate daughter of a merchant in [Greyhawk](cidade_de_greyhawk.md) |
+| **Background**: Filha ilegítima de mercador em [Greyhawk](free_city_of_greyhawk.md)  | **Background**: Illegitimate daughter of a merchant in [Greyhawk](free_city_of_greyhawk.md) |
 | **Idade**: [por preencher]       | **Age**: [to be filled]        |
 | **Altura**: [por preencher]      | **Height**: [to be filled]     |
 | **Olhos**: Azul-claros brilhantes [**(Inferido da imagem)**]       | **Eyes**: Bright light blue [**(Inferred from image)**]        |

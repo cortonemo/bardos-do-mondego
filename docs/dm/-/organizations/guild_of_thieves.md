@@ -6,5 +6,5 @@ Sessões: 3, 8, 13, 27 | Datas: 2025-01-15, 2025-02-27, 2025-03-13, 2025-07-10 |
 
 | Português | English |
 |-----------|---------|
-| Uma das organizações mais poderosas da [Cidade de Greyhawk](cidade_de_greyhawk.md), responsável por crimes organizados, tráfico de informações e rivalidades com outras guildas. Muitas vezes, cruzam-se com aventureiros em negócios ilícitos ou alianças de conveniência. | One of the most powerful organizations in [City of Greyhawk](cidade_de_greyhawk.md), responsible for organized crime, information trafficking, and rivalries with other guilds. Often intersects with adventurers through illicit business or temporary alliances. |
+| Uma das organizações mais poderosas da [Cidade de Greyhawk](free_city_of_greyhawk.md), responsável por crimes organizados, tráfico de informações e rivalidades com outras guildas. Muitas vezes, cruzam-se com aventureiros em negócios ilícitos ou alianças de conveniência. | One of the most powerful organizations in [City of Greyhawk](free_city_of_greyhawk.md), responsible for organized crime, information trafficking, and rivalries with other guilds. Often intersects with adventurers through illicit business or temporary alliances. |
 

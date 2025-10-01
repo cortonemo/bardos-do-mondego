@@ -9,7 +9,7 @@
 | **Classe:** ??? | **Class:** ??? |
 | **Alinhamento:** ??? | **Alignment:** ??? |
 | **Profissão / Função:** Mestre da [Guilda dos Ladrões de Greyhawk](docs/dm/-/organizations/guild_of_thieves.md) | **Profession / Role:** Master of the [Thieves Guild of Greyhawk](docs/dm/-/organizations/guild_of_thieves.md) |
-| **Localização:** [Cidade de Greyhawk](cidade_de_greyhawk.md) | **Location:** [Free City of Greyhawk](cidade_de_greyhawk.md) |
+| **Localização:** [Cidade de Greyhawk](free_city_of_greyhawk.md) | **Location:** [Free City of Greyhawk](free_city_of_greyhawk.md) |
 
 ---
 

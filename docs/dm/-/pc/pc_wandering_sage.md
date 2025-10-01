@@ -73,7 +73,7 @@
 | **Defeitos:**<br>- Tendência a continuar a sua jornada em vez de permanecer em comunidades, afastando-se de laços pessoais duradouros. | **Flaws:**<br>- Tends to keep moving instead of settling in communities, distancing himself from lasting bonds. |
 | **NPCs de influência direta:**<br>- Sacerdotisa Lizardfolk das Ruínas Submersas<br>- [Snert/Pufftail](snert.md), sacerdote kobold cromático<br>- Lady Scale (Fantasma dracónica) | **Direct Influence NPCs:**<br>- Lizardfolk priestess of the Sunken Ruins<br>- [Snert/Pufftail](snert.md), chromatic kobold priest<br>- Lady Scale (Ghostly dragon) |
 | **Antagonistas:**<br>- Esqueletos animados das Ruínas Submersas<br>- Facções reptilianas rivais à Lady Scale | **Antagonists:**<br>- Animated skeletons of the Sunken Ruins<br>- Reptilian factions opposed to Lady Scale |
-| **Aliados:**<br>- Companheiros anónimos da expedição às Ruínas Submersas<br>- Outros aventureiros da [Taberna](taberna.md) | **Allies:**<br>- Fellow adventurers of the Sunken Ruins expedition<br>- Other adventurers of the [Tavern](taberna.md) |
+| **Aliados:**<br>- Companheiros anónimos da expedição às Ruínas Submersas<br>- Outros aventureiros da [Taberna](taverna.md) | **Allies:**<br>- Fellow adventurers of the Sunken Ruins expedition<br>- Other adventurers of the [Tavern](taverna.md) |
 
 ---
 

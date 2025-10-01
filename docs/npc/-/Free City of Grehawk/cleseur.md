@@ -8,9 +8,9 @@
 | **Raça:** ??? | **Race:** ??? |
 | **Classe:** ??? (Vidente / Oráculo) | **Class:** ??? (Seer / Oracle) |
 | **Alinhamento:** ??? | **Alignment:** ??? |
-| **Profissão:** Vidente e conselheira espiritual em [Greyhawk](cidade_de_greyhawk.md) | **Profession:** Seer and spiritual advisor in [Greyhawk](cidade_de_greyhawk.md) |
+| **Profissão:** Vidente e conselheira espiritual em [Greyhawk](free_city_of_greyhawk.md) | **Profession:** Seer and spiritual advisor in [Greyhawk](free_city_of_greyhawk.md) |
 | **Função:** Fornecer respostas e visões enigmáticas sobre mistérios sobrenaturais. | **Role:** Provides answers and cryptic visions about supernatural mysteries. |
-| **Localização:** [Greyhawk](cidade_de_greyhawk.md) | **Location:** [Greyhawk](cidade_de_greyhawk.md) |
+| **Localização:** [Greyhawk](free_city_of_greyhawk.md) | **Location:** [Greyhawk](free_city_of_greyhawk.md) |
 
 ---
 
