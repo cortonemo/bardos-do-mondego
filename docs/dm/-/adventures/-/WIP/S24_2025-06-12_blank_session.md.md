@@ -1,15 +1,15 @@
-# Sessão 25 – [Em Branco]  
-**Data:** 26/06/2025  
-**Semana:** 25  
-**Sessão:** S25  
+# Sessão 24 – [Em Branco]  
+**Data:** 12/06/2025  
+**Semana:** 24  
+**Sessão:** S24  
 
 ***15 de Planting, 999 CY***
 
 ---
 ## 🗓 Linha Temporal
-| Semana | Data      | Sessão | Nome da Sessão |
-|--------|-----------|--------|----------------|
-| 25     | 26/06/25  | S25    | [por preencher] |
+| Semana | Data     | Sessão | Nome da Sessão  |
+| ------ | -------- | ------ | --------------- |
+| 24     | 12/06/25 | S24    | [por preencher] |
 
 ---
 

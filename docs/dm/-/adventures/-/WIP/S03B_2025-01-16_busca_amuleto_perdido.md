@@ -1,14 +1,14 @@
 # Sessão 03B – A Busca pelo Amuleto Perdido  
-**Data:** 15/01/2025  
+**Data:** 16/01/2025  
 **Sessão:** S03B  
 
 ***1 de Ready'reat, 998 CY***
 
 ---
 ## 🗓 Linha Temporal
-| Semana | Data       | Sessão | Nome da Sessão                  |
-|--------|-----------|--------|----------------------------------|
-| 03     | 15/01/25  | S03B   | A Busca pelo Amuleto Perdido     |
+| Semana | Data     | Sessão | Nome da Sessão               |
+| ------ | -------- | ------ | ---------------------------- |
+| 03     | 15/01/26 | S03B   | A Busca pelo Amuleto Perdido |
 
 ---
 

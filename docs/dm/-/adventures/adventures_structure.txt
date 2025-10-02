@@ -1,0 +1,299 @@
+📁 Root: G:\Git\bardos-do-mondego\docs\dm\-\adventures
+└── 📂 -/
+    ├── 📂 Arcos/
+    │   ├── 📂 01 Início da Campanha/
+    │   │   ├── 📂 tudo/
+    │   │   │   ├── 📄 s01_os_fungos_do_bosque.md
+    │   │   │   ├── 📄 s01_os_fungos_do_bosque.md
+    │   │   │   ├── 📄 s01_os_fungos_do_bosque.md
+    │   │   │   ├── 📄 s02_dificuldades_na_mina_de_obsidiana.md
+    │   │   │   ├── 📄 s02_dificuldades_na_mina_de_obsidiana.md
+    │   │   │   ├── 📄 s02_dificuldades_na_mina_de_obsidiana.md
+    │   │   │   ├── 📄 s03_emboscada_nas_margens_do_rio_neem.md
+    │   │   │   ├── 📄 s03_emboscada_nas_margens_do_rio_neem.md
+    │   │   │   ├── 📄 s03_emboscada_nas_margens_do_rio_neem_resumo.md
+    │   │   │   ├── 📄 s03_vale_do_vento_sombrio.md
+    │   │   │   ├── 📄 s03_vale_do_vento_sombrio.md
+    │   │   │   ├── 📄 s03_vale_do_vento_sombrio.md
+    │   │   │   ├── 📄 s04_regresso_mina_gravuras.md
+    │   │   │   ├── 📄 s04_regresso_mina_gravuras.md
+    │   │   │   ├── 📄 s04_regresso_mina_gravuras.md
+    │   │   │   ├── 📄 s04_two_fords_doenca_moinho.md
+    │   │   │   ├── 📄 s04_two_fords_doenca_moinho.md
+    │   │   │   ├── 📄 s04_two_fords_doenca_moinho.md
+    │   │   │   ├── 📄 s04_vale_do_vento_sombrio_dragao.md
+    │   │   │   ├── 📄 s04_vale_do_vento_sombrio_dragao.md
+    │   │   │   └── 📄 s04_vale_do_vento_sombrio_dragao.md
+    │   │   ├── 📄 s01_os_fungos_do_bosque.txt
+    │   │   ├── 📄 s02_dificuldades_na_mina_de_obsidiana.txt
+    │   │   ├── 📄 s03_emboscada_nas_margens_do_rio_neem.txt
+    │   │   ├── 📄 s03_vale_do_vento_sombrio.txt
+    │   │   ├── 📄 s04_regresso_mina_gravuras.txt
+    │   │   ├── 📄 s04_two_fords_doenca_moinho.txt
+    │   │   └── 📄 s04_vale_do_vento_sombrio_dragao.txt
+    │   ├── 📂 02 Arcos de Mistwood  Goblins  Culto/
+    │   │   ├── 📂 tudo/
+    │   │   │   ├── 📄 s05_acampamento_goblin_caravana_resgate.md
+    │   │   │   ├── 📄 s05_as_mascaras_da_morte_mistwood.md
+    │   │   │   ├── 📄 s05_as_mascaras_da_morte_mistwood.md
+    │   │   │   ├── 📄 s05_as_mascaras_da_morte_mistwood.md
+    │   │   │   ├── 📄 s05_diario_acolita_morvanya.md
+    │   │   │   ├── 📄 s05_diario_acolita_morvanya.md
+    │   │   │   ├── 📄 s05_diario_acolita_morvanya.md
+    │   │   │   ├── 📄 s05_o_altar_de_sangue_no_campo_goblin.md
+    │   │   │   └── 📄 s05_o_altar_de_sangue_no_campo_goblin.md
+    │   │   ├── 📄 s05_diario_acolita_morvanya.txt
+    │   │   ├── 📄 s05_o_altar_de_sangue_no_campo_goblin.txt
+    │   │   └── 📄 s05_s05_as_mascaras_da_morte_mistwood.txt
+    │   ├── 📂 03 Arcos de Eribend  Blackfair/
+    │   │   ├── 📂 tudo/
+    │   │   │   ├── 📄 s06_eribend_kobolds_baile_blackfair.md
+    │   │   │   ├── 📄 s06_eribend_kobolds_baile_blackfair.md
+    │   │   │   ├── 📄 s06_eribend_kobolds_baile_blackfair.md
+    │   │   │   ├── 📄 s06_grutas_pantano_bullywugs_basilisco.md
+    │   │   │   ├── 📄 s06_grutas_pantano_bullywugs_basilisco.md
+    │   │   │   ├── 📄 s06_grutas_pantano_bullywugs_basilisco.md
+    │   │   │   ├── 📄 s07_eribend_raptos_cultistas_odrak.md
+    │   │   │   ├── 📄 s07_eribend_raptos_cultistas_odrak.md
+    │   │   │   ├── 📄 s07_eribend_raptos_cultistas_odrak.md
+    │   │   │   ├── 📄 s08_as_tres_pedras_e_o_ritual.md
+    │   │   │   ├── 📄 s08_as_tres_pedras_e_o_ritual.md
+    │   │   │   ├── 📄 s08_as_tres_pedras_e_o_ritual.md
+    │   │   │   ├── 📄 s08_bullywugs_e_basilisco.md
+    │   │   │   ├── 📄 s08_bullywugs_e_basilisco.md
+    │   │   │   ├── 📄 s08_bullywugs_e_basilisco.md
+    │   │   │   ├── 📄 s08_lago_umbra_cavaleiro_sombras.md
+    │   │   │   ├── 📄 s08_lago_umbra_cavaleiro_sombras.md
+    │   │   │   ├── 📄 s08_lago_umbra_cavaleiro_sombras.md
+    │   │   │   ├── 📄 s08_nave_illithid_e_entrega_de_thoren.md
+    │   │   │   ├── 📄 s08_nave_illithid_e_entrega_de_thoren.md
+    │   │   │   ├── 📄 s08_nave_illithid_e_entrega_de_thoren.md
+    │   │   │   ├── 📄 s09_entrega_para_blackfair_manor.md
+    │   │   │   ├── 📄 s09_entrega_para_blackfair_manor.md
+    │   │   │   └── 📄 s09_entrega_para_blackfair_manor.md
+    │   │   ├── 📄 s06_eribend_kobolds_baile_blackfair.txt
+    │   │   ├── 📄 s06_grutas_pantano_bullywugs_basilisco.txt
+    │   │   ├── 📄 s07_eribend_raptos_cultistas_odrak.txt
+    │   │   ├── 📄 s07_terceiro_templo_basilisco_pedras_luz.md
+    │   │   ├── 📄 s07_terceiro_templo_basilisco_pedras_luz.md
+    │   │   ├── 📄 s08!!!!roubo_e_perseguicao_das_pedras.md
+    │   │   ├── 📄 s08!!!!roubo_e_perseguicao_das_pedras.md
+    │   │   ├── 📄 s08_as_tres_pedras_e_o_ritual.txt
+    │   │   ├── 📄 s08_bullywugs_e_basilisco.txt
+    │   │   ├── 📄 s08_lago_umbra_cavaleiro_sombras_.txt
+    │   │   ├── 📄 s08_nave_illithid_e_entrega_de_thoren.txt
+    │   │   └── 📄 s09_entrega_para_blackfair_manor.txt
+    │   ├── 📂 04 Arcos Fae  Dustin  Illithids/
+    │   │   ├── 📂 tudo/
+    │   │   │   ├── 📄 s09_baile_dos_high_fae.md
+    │   │   │   ├── 📄 s09_baile_dos_high_fae.md
+    │   │   │   ├── 📄 s09_baile_dos_high_fae.md
+    │   │   │   ├── 📄 s09_misterio_de_high_ery.md
+    │   │   │   ├── 📄 s09_misterio_de_high_ery.md
+    │   │   │   ├── 📄 s09_misterio_de_high_ery.md
+    │   │   │   ├── 📄 s10_a_rota_da_cia_sangue_e_ouro_no_pantano.md
+    │   │   │   ├── 📄 s10_a_rota_da_cia_sangue_e_ouro_no_pantano.md
+    │   │   │   ├── 📄 s10_a_rota_da_cia_sangue_e_ouro_no_pantano.md
+    │   │   │   ├── 📄 s10_o_segredo_de_peculiar_manor.md
+    │   │   │   ├── 📄 s10_o_segredo_de_peculiar_manor.md
+    │   │   │   ├── 📄 s10_o_segredo_de_peculiar_manor.md
+    │   │   │   ├── 📄 s10_sombras_de_iuz.md
+    │   │   │   ├── 📄 s10_sombras_de_iuz.md
+    │   │   │   ├── 📄 s10_sombras_de_iuz.md
+    │   │   │   ├── 📄 s10_sombras_sobre_erybend.md
+    │   │   │   ├── 📄 s10_sombras_sobre_erybend.md
+    │   │   │   ├── 📄 s10_sombras_sobre_erybend.md
+    │   │   │   ├── 📄 s11_o_legado_de_krixis.md
+    │   │   │   ├── 📄 s11_o_legado_de_krixis.md
+    │   │   │   ├── 📄 s11_o_legado_de_krixis.md
+    │   │   │   ├── 📄 s11_prisao_e_redencao.md
+    │   │   │   ├── 📄 s11_prisao_e_redencao.md
+    │   │   │   ├── 📄 s11_prisao_e_redencao.md
+    │   │   │   ├── 📄 s11_trilogia_tres_pedras_mindflayer.md
+    │   │   │   ├── 📄 s11_trilogia_tres_pedras_mindflayer.md
+    │   │   │   ├── 📄 s11_trilogia_tres_pedras_mindflayer.md
+    │   │   │   ├── 📄 s12_prisao_e_resgate_de_dustin.md
+    │   │   │   ├── 📄 s12_prisao_e_resgate_de_dustin.md
+    │   │   │   └── 📄 s12_prisao_e_resgate_de_dustin.md
+    │   │   ├── 📄 s09_baile_dos_high_fae.txt
+    │   │   ├── 📄 s09_misterio_de_high_ery.txt
+    │   │   ├── 📄 s10_a_rota_da_cia_sangue_e_ouro_no_pantano.txt
+    │   │   ├── 📄 s10_o_segredo_de_peculiar_manor.txt
+    │   │   ├── 📄 s10_sombras_de_iuz.txt
+    │   │   ├── 📄 s10_sombras_sobre_erybend.txt
+    │   │   ├── 📄 s11_o_legado_de_krixis.txt
+    │   │   ├── 📄 s11_prisao_e_redencao.txt
+    │   │   ├── 📄 s11_trilogia_tres_pedras_mindflayer.txt
+    │   │   └── 📄 s12_prisao_e_resgate_de_dustin.txt
+    │   ├── 📂 05 Missões Intermédias  Greyhawk/
+    │   │   ├── 📂 tudo/
+    │   │   │   ├── 📄 s13_dandan_e_os_40_kobolds.md
+    │   │   │   ├── 📄 s13_dandan_e_os_40_kobolds.md
+    │   │   │   ├── 📄 s13_dandan_e_os_40_kobolds.md
+    │   │   │   ├── 📄 s13_enfrentando_a_guilda_dos_ladroes.md
+    │   │   │   ├── 📄 s13_enfrentando_a_guilda_dos_ladroes.md
+    │   │   │   ├── 📄 s13_enfrentando_a_guilda_dos_ladroes.md
+    │   │   │   ├── 📄 s13_investigar_o_sul_da_cidade_de_greyhawk.md
+    │   │   │   ├── 📄 s13_investigar_o_sul_da_cidade_de_greyhawk.md
+    │   │   │   ├── 📄 s13_investigar_o_sul_da_cidade_de_greyhawk.md
+    │   │   │   ├── 📄 s13_o_incendio_misterioso.md
+    │   │   │   ├── 📄 s13_o_incendio_misterioso.md
+    │   │   │   ├── 📄 s13_o_incendio_misterioso.md
+    │   │   │   ├── 📄 s13_o_que_nos_espera_a_nova_cidade.md
+    │   │   │   ├── 📄 s13_o_que_nos_espera_a_nova_cidade.md
+    │   │   │   ├── 📄 s13_o_que_nos_espera_a_nova_cidade.md
+    │   │   │   ├── 📄 s13_s14 e s16_o_que_nos_espera_a_nova_cidade_1.txt
+    │   │   │   ├── 📄 s13_s14 e s16_o_que_nos_espera_a_nova_cidade_2.txt
+    │   │   │   ├── 📄 s13_s14 e s16_o_que_nos_espera_a_nova_cidade_3.txt
+    │   │   │   ├── 📄 s14_mao_de_zan_cetro_ordem_escarlate.md
+    │   │   │   ├── 📄 s14_mao_de_zan_cetro_ordem_escarlate.md
+    │   │   │   ├── 📄 s14_mao_de_zan_cetro_ordem_escarlate.md
+    │   │   │   ├── 📄 s14_o_que_nos_espera_a_nova_cidade.md
+    │   │   │   ├── 📄 s14_o_que_nos_espera_a_nova_cidade.md
+    │   │   │   ├── 📄 s14_o_que_nos_espera_a_nova_cidade.md
+    │   │   │   ├── 📄 s14_resgate_abigail_pessegueiro_espelhos.md
+    │   │   │   ├── 📄 s14_resgate_abigail_pessegueiro_espelhos.md
+    │   │   │   ├── 📄 s14_resgate_abigail_pessegueiro_espelhos.md
+    │   │   │   ├── 📄 s16_o_que_nos_espera_a_nova_cidade.md
+    │   │   │   ├── 📄 s16_o_que_nos_espera_a_nova_cidade.md
+    │   │   │   └── 📄 s16_o_que_nos_espera_a_nova_cidade.md
+    │   │   ├── 📄 s13_dandan_e_os_40_kobolds.txt
+    │   │   ├── 📄 s13_enfrentando_a_guilda_dos_ladroes.txt
+    │   │   ├── 📄 s13_investigar_o_sul_da_cidade_de_greyhawk.txt
+    │   │   ├── 📄 s13_o_incendio_misterioso.txt
+    │   │   ├── 📄 s13_s14 e s16_o_que_nos_espera_a_nova_cidade.txt
+    │   │   ├── 📄 s14_mao_de_zan_cetro_ordem_escarlate.txt
+    │   │   └── 📄 s14_resgate_abigail_pessegueiro_espelhos.txt
+    │   ├── 📂 06 Missões Avançadas/
+    │   │   ├── 📂 todos/
+    │   │   │   ├── 📄 s16_a_crianca_perdida.md
+    │   │   │   ├── 📄 s16_a_crianca_perdida.md
+    │   │   │   ├── 📄 s16_a_crianca_perdida.md
+    │   │   │   ├── 📄 s21_s22_casino_heist.md
+    │   │   │   ├── 📄 s21_s22_casino_heist.md
+    │   │   │   ├── 📄 s21_s22_casino_heist.md
+    │   │   │   ├── 📄 s22_a_sombra_do_tempo_perdido.md
+    │   │   │   ├── 📄 s22_a_sombra_do_tempo_perdido.md
+    │   │   │   ├── 📄 s22_a_sombra_do_tempo_perdido.md
+    │   │   │   ├── 📄 s24_sociedade_dos_ratos_sedentos.md
+    │   │   │   ├── 📄 s24_sociedade_dos_ratos_sedentos.md
+    │   │   │   ├── 📄 s24_sociedade_dos_ratos_sedentos.md
+    │   │   │   ├── 📄 s27_o_museu_das_maravilhas_sombras.md
+    │   │   │   ├── 📄 s27_o_museu_das_maravilhas_sombras.md
+    │   │   │   ├── 📄 s27_o_museu_das_maravilhas_sombras.md
+    │   │   │   ├── 📄 s28_idolo_de_lady_scale.md
+    │   │   │   ├── 📄 s28_idolo_de_lady_scale.md
+    │   │   │   ├── 📄 s28_idolo_de_lady_scale.md
+    │   │   │   ├── 📄 s28_o_museu_das_maravilhas_sombras.md
+    │   │   │   ├── 📄 s28_o_museu_das_maravilhas_sombras.md
+    │   │   │   ├── 📄 s28_o_museu_das_maravilhas_sombras.md
+    │   │   │   ├── 📄 s28_s29_s30_idolo_de_lady_scale_1.txt
+    │   │   │   ├── 📄 s28_s29_s30_idolo_de_lady_scale_2.txt
+    │   │   │   ├── 📄 s28_s29_s30_idolo_de_lady_scale_3.txt
+    │   │   │   ├── 📄 s29_a_expedicao_aos_esgotos_de_greyhawk.md
+    │   │   │   ├── 📄 s29_a_expedicao_aos_esgotos_de_greyhawk.md
+    │   │   │   ├── 📄 s29_a_expedicao_aos_esgotos_de_greyhawk.md
+    │   │   │   ├── 📄 s29_idolo_de_lady_scale.md
+    │   │   │   ├── 📄 s29_idolo_de_lady_scale.md
+    │   │   │   ├── 📄 s29_idolo_de_lady_scale.md
+    │   │   │   ├── 📄 s30_idolo_de_lady_scale.md
+    │   │   │   ├── 📄 s30_idolo_de_lady_scale.md
+    │   │   │   └── 📄 s30_idolo_de_lady_scale.md
+    │   │   ├── 📄 s16_a_crianca_perdida.txt
+    │   │   ├── 📄 s21_s22_casino_heist.txt
+    │   │   ├── 📄 s22_a_sombra_do_tempo_perdido.txt
+    │   │   ├── 📄 s24_sociedade_dos_ratos_sedentos.txt
+    │   │   ├── 📄 s27_o_museu_das_maravilhas_sombras.txt
+    │   │   ├── 📄 s28_o_museu_das_maravilhas_sombras.txt
+    │   │   ├── 📄 s28_s29_s30_idolo_de_lady_scale.txt
+    │   │   └── 📄 s29_a_expedicao_aos_esgotos_de_greyhawk_.txt
+    ├── 📂 WIP/
+    │   ├── 📄 S01_2025-01-02_riacho.md
+    │   ├── 📄 S02_2025-01-09_miner_difficulties.md
+    │   ├── 📄 S03A_2025-01-15_emboscada_rio_neem.md
+    │   ├── 📄 S03B_2025-01-15_busca_amuleto_perdido.md
+    │   ├── 📄 S03C_2025-01-15_vale_do_vento_sombrio.md
+    │   ├── 📄 S04A_2025-01-23_vale_do_vento_sombrio_syzzin.md
+    │   ├── 📄 S04B_2025-01-23_vale_do_vento_sombrio_variante.md
+    │   ├── 📄 S04C_2025-01-23_two_fords_moinho.md
+    │   ├── 📄 S05_2025-01-30_as_mascaras_da_morte_merged.md
+    │   ├── 📄 S05__appendices_dm_only_full.md
+    │   ├── 📄 S05A_2025-01-30_as_mascaras_da_morte.md
+    │   ├── 📄 S05B_2025-01-30_campo_goblin.md
+    │   ├── 📄 S06_2025-02-06_blank_session.md
+    │   ├── 📄 S07_2025-02-13_rota_da_cia.md
+    │   ├── 📄 S07_2025-02-13_segredo_de_peculiar_manor.md
+    │   ├── 📄 S07_2025-02-13_sombras_sobre_erybend.md
+    │   ├── 📄 S08_2025-02-20_blank_session.md
+    │   ├── 📄 S09_2025-02-27_blank_session.md
+    │   ├── 📄 S10A_2025-03-06_misterio_high_ery.md
+    │   ├── 📄 S10B_2025-03-06_baile_elfico_coriver.md
+    │   ├── 📄 S10C_2025-03-06_desaparecimento_lago_dos_diamantes.md
+    │   ├── 📄 S11_appendices_dm_only_full.md
+    │   ├── 📄 S11_appendices_dm_only.md
+    │   ├── 📄 S11A_2025-03-13_sombras_sobre_erybend.md
+    │   ├── 📄 S11B_2025-03-13_sombras_de_iuz.md
+    │   ├── 📄 S11C_2025-03-13_rota_da_cia_pantano.md
+    │   ├── 📄 S12A_2025-03-20_espada_de_viltrix.md
+    │   ├── 📄 S12B_2025-03-20_prisao_e_redencao_dustin.md
+    │   ├── 📄 S12C_2025-03-20_tres_pedras_e_illithids.md
+    │   ├── 📄 S12D_2025-03-20_legado_de_krixis.md
+    │   ├── 📄 S13_appendices_dm_only_full.md
+    │   ├── 📄 S13_appendices_dm_only.md
+    │   ├── 📄 S13A_2025-03-27_resgate_de_dustin.md
+    │   ├── 📄 S13B_2025-03-27_nave_mae_illithid.md
+    │   ├── 📄 S14A_2025-04-03_dandan_e_os_40_kobolds.md
+    │   ├── 📄 S14B_2025-04-03_exploracao_greyhawk_guildas.md
+    │   ├── 📄 S14C_2025-04-03_incendio_olho_de_boccob.md
+    │   ├── 📄 S15A_2025-04-10_misterio_dos_espelhos.md
+    │   ├── 📄 S15B_2025-04-10_cetro_de_zan.md
+    │   ├── 📄 S15C_2025-04-10_nova_cidade_base_culto.md
+    │   ├── 📄 S16_2025-04-17_blank_session.md
+    │   ├── 📄 S17A_2025-04-24_nova_cidade_parte2.md
+    │   ├── 📄 S17B_2025-04-24_a_crianca_perdida.md
+    │   ├── 📄 S18_2025-05-01_blank_session.md
+    │   ├── 📄 S19_2025-05-08_blank_sessio.md
+    │   ├── 📄 S20_2025-05-23_a_sombra_do_tempo_perdido.md
+    │   ├── 📄 S21_2025-05-22_blank_session.md
+    │   ├── 📄 S21_2025-05-29_casino_heist_parte1.md
+    │   ├── 📄 S22_2025-06-05_casino_heist_parte2.md
+    │   ├── 📄 S23_2025-06-12_blank_session.md.md
+    │   ├── 📄 S24_2025-06-19_sociedade_dos_ratos_sedentos.md
+    │   ├── 📄 S25_2025-06-26_blank_session.md
+    │   ├── 📄 S26_2025-06-26_blank_session.md
+    │   ├── 📄 S27_2025-07-10_museu_das_maravilhas.md
+    │   ├── 📄 S28A_2025-07-17_museu_parte_final.md
+    │   ├── 📄 S28B_2025-07-17_idolo_de_lady_scale_parte1.md
+    │   ├── 📄 S29A_2025-07-24_idolo_de_lady_scale_parte2.md
+    │   ├── 📄 S29B_2025-07-24_as_orquideas_negras.md
+    │   ├── 📄 S29C_2025-07-24_o_misterio_de_kas_kardwall.md
+    │   └── 📄 S30_2025-07-31_idolo_de_lady_scale_parte3.md
+    ├── 📄 -_structure.txt
+    ├── 📄 mission_01_os_fungos_do_bosque.md
+    ├── 📄 mission_02_dificuldades_na_mina_de_obsidiana.md
+    ├── 📄 mission_03_emboscada_nas_margens_do_rio_neem.md
+    ├── 📄 mission_04_regresso_a_mina.md
+    ├── 📄 mission_05_vale_do_vento_sombrio_dragao.md
+    ├── 📄 mission_06_two_fords_doenca.md
+    ├── 📄 mission_07_intrigas_em_erybend.md
+    ├── 📄 mission_08_bullywugs_e_as_tres_pedras.md
+    ├── 📄 mission_09_intrigas_em_eribend.md
+    ├── 📄 mission_10_baile_dos_high_fae.md
+    ├── 📄 mission_11_batalha_em_two_fords.md
+    ├── 📄 mission_12_ruinas_dos_elfos_negros.md
+    ├── 📄 mission_13_conspiracao_em_blackfair.md
+    ├── 📄 mission_14_os_mercadores_sombrios.md
+    ├── 📄 mission_15_a_biblioteca_proibida.md
+    ├── 📄 mission_16_os_assassinos_de_blackfair.md
+    ├── 📄 mission_17_os_portoes_de_blackfair.md
+    ├── 📄 mission_18_os_segredos_de_blackfair_manor.md
+    ├── 📄 mission_19_conspiracao_em_greyhawk.md
+    ├── 📄 mission_20_o_assalto_a_guilda_dos_ladroes.md
+    ├── 📄 mission_21_os_esgotos_de_greyhawk.md
+    ├── 📄 mission_22_o_grande_ritual_em_greyhawk.md
+    ├── 📄 mission_23_as_sombras_do_templo_subterraneo.md
+    ├── 📄 mission_24_o_deserto_das_sombras.md
+    ├── 📄 mission_25_o_templo_perdido.md
+    ├── 📄 mission_26_o_coracao_do_culto.md
+    ├── 📄 mission_27_o_confronto_final.md
+    └── 📄 timeline_season_01.md

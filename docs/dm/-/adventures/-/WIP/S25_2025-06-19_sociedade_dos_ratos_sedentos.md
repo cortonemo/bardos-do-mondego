@@ -1,15 +1,15 @@
-# Sessão 24 – A Sociedade dos Ratos Sedentos  
+# Sessão 25 – A Sociedade dos Ratos Sedentos  
 **Data:** 19/06/2025  
-**Semana:** 24  
-**Sessão:** S24  
+**Semana:** 25  
+**Sessão:** S25
 
-***8 de Planting, 999 CY***
+***22 de Planting, 999 CY***
 
 ---
 ## 🗓 Linha Temporal
-| Semana | Data      | Sessão | Nome da Sessão                 |
-|--------|-----------|--------|--------------------------------|
-| 24     | 19/06/25  | S24    | A Sociedade dos Ratos Sedentos |
+| Semana | Data     | Sessão | Nome da Sessão                 |
+| ------ | -------- | ------ | ------------------------------ |
+| 25     | 19/06/25 | S25    | A Sociedade dos Ratos Sedentos |
 
 ---
 

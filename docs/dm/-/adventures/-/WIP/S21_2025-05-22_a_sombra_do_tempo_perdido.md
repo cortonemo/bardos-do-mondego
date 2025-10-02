@@ -1,15 +1,15 @@
-# Sessão 20 – A Sombra do Tempo Perdido  
-**Data:** 23/05/2025  
-**Semana:** 20  
-**Sessão:** S20 (One-Shot de Dustin e Pryssana)  
+# Sessão 21 – A Sombra do Tempo Perdido  
+**Data:** 22/05/2025  
+**Semana:** 21  
+**Sessão:** S21 (One-Shot de Dustin e Pryssana)  
 
-***8 de Coldeven, 999 CY***
+***22 de Coldeven, 999 CY***
 
 ---
 ## 🗓 Linha Temporal
-| Semana | Data      | Sessão | Nome da Sessão            |
-|--------|-----------|--------|---------------------------|
-| 20     | 23/05/25  | S20    | A Sombra do Tempo Perdido |
+| Semana | Data     | Sessão | Nome da Sessão            |
+| ------ | -------- | ------ | ------------------------- |
+| 21     | 22/05/25 | S21    | A Sombra do Tempo Perdido |
 
 ---
 

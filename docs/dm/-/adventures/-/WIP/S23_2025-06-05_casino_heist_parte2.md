@@ -1,15 +1,15 @@
-# Sessão 22 – O Golpe dos Dados Rubi (Parte 2)  
+# Sessão 23 – O Golpe dos Dados Rubi (Parte 2)  
 **Data:** 05/06/2025  
-**Semana:** 22  
-**Sessão:** S22  
+**Semana:** 23  
+**Sessão:** S23 
 
-***22 de Coldeven, 999 CY***
+***8 de Planting, 999 CY***
 
 ---
 ## 🗓 Linha Temporal
-| Semana | Data      | Sessão | Nome da Sessão                     |
-|--------|-----------|--------|-------------------------------------|
-| 22     | 05/06/25  | S22    | O Golpe dos Dados Rubi (Parte 2)    |
+| Semana | Data     | Sessão | Nome da Sessão                   |
+| ------ | -------- | ------ | -------------------------------- |
+| 23     | 05/06/25 | S23    | O Golpe dos Dados Rubi (Parte 2) |
 
 ---
 

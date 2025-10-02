@@ -1,15 +1,15 @@
-# Sessão 30 – O Ídolo de Lady Scale (Parte 3)  
+# Sessão 31 – O Ídolo de Lady Scale (Parte 3)  
 **Data:** 31/07/2025  
-**Semana:** 30  
-**Sessão:** S30  
+**Semana:** 31  
+**Sessão:** S31 
 
-***22 de Flocktime, 999 CY***
+***8 de Wealsun, 999 CY***
 
 ---
 ## 🗓 Linha Temporal
-| Semana | Data      | Sessão | Nome da Sessão                 |
-|--------|-----------|--------|--------------------------------|
-| 30     | 31/07/25  | S30    | O Ídolo de Lady Scale (Parte 3) |
+| Semana | Data     | Sessão | Nome da Sessão                  |
+| ------ | -------- | ------ | ------------------------------- |
+| 31     | 31/07/25 | S31    | O Ídolo de Lady Scale (Parte 3) |
 
 ---
 

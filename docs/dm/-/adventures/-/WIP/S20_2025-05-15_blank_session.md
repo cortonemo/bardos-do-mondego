@@ -1,15 +1,15 @@
-# Sessão 23 – [Em Branco]  
-**Data:** 12/06/2025  
-**Semana:** 23  
-**Sessão:** S23  
+# Sessão 20 – [Em Branco]  
+**Data:** 15/05/2025  
+**Semana:** 20
+**Sessão:** S20
 
-***1 de Planting, 999 CY***
+***15 de Coldeven, 999 CY***
 
 ---
 ## 🗓 Linha Temporal
-| Semana | Data      | Sessão | Nome da Sessão |
-|--------|-----------|--------|----------------|
-| 23     | 12/06/25  | S23    | [por preencher] |
+| Semana | Data     | Sessão | Nome da Sessão  |
+| ------ | -------- | ------ | --------------- |
+| 20     | 15/05/25 | S20    | [por preencher] |
 
 ---
 

@@ -1,4 +1,4 @@
-# Sessão 28 – O Ídolo de Lady Scale (Parte 1)  
+# Sessão 29 – O Ídolo de Lady Scale (Parte 1)  
 **Data:** 17/07/2025  
 **Semana:** 28  
 **Sessão:** S28  
@@ -7,9 +7,9 @@
 
 ---
 ## 🗓 Linha Temporal
-| Semana | Data      | Sessão | Nome da Sessão                 |
-|--------|-----------|--------|--------------------------------|
-| 28     | 17/07/25  | S28    | O Ídolo de Lady Scale (Parte 1) |
+| Semana | Data     | Sessão | Nome da Sessão                  |
+| ------ | -------- | ------ | ------------------------------- |
+| 29     | 17/07/25 | S29B   | O Ídolo de Lady Scale (Parte 1) |
 
 ---
 

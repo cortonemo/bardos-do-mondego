@@ -1,15 +1,15 @@
-# Sessão 27 – O Museu das Maravilhas Naturais e Arcanas  
+# Sessão 28 – O Museu das Maravilhas Naturais e Arcanas  
 **Data:** 10/07/2025  
-**Semana:** 27  
-**Sessão:** S27 (DM: André Maia)  
+**Semana:** 28  
+**Sessão:** S28 (DM: André Maia)  
 
-***1 de Flocktime, 999 CY***
+***15 de Flocktime, 999 CY***
 
 ---
 ## 🗓 Linha Temporal
-| Semana | Data      | Sessão | Nome da Sessão                           |
-|--------|-----------|--------|-------------------------------------------|
-| 27     | 10/07/25  | S27    | O Museu das Maravilhas Naturais e Arcanas |
+| Semana | Data     | Sessão | Nome da Sessão                            |
+| ------ | -------- | ------ | ----------------------------------------- |
+| 28     | 10/07/25 | S28    | O Museu das Maravilhas Naturais e Arcanas |
 
 ---
 

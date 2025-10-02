@@ -1,15 +1,15 @@
-# Sessão 28A – Museu das Maravilhas Naturais e Arcanas (Parte Final)  
+# Sessão 29 – Museu das Maravilhas Naturais e Arcanas (Parte Final)  
 **Data:** 17/07/2025  
 **Semana:** 28  
 **Sessão:** S28A (DM: André Maia)  
 
-***8 de Flocktime, 999 CY***
+***22 de Flocktime, 999 CY***
 
 ---
 ## 🗓 Linha Temporal
-| Semana | Data      | Sessão | Nome da Sessão                                  |
-|--------|-----------|--------|-------------------------------------------------|
-| 28     | 17/07/25  | S28A   | Museu das Maravilhas Naturais e Arcanas (Final) |
+| Semana | Data     | Sessão | Nome da Sessão                                  |
+| ------ | -------- | ------ | ----------------------------------------------- |
+| 29     | 17/07/25 | S29A   | Museu das Maravilhas Naturais e Arcanas (Final) |
 
 ---
 

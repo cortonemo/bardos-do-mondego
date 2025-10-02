@@ -1,14 +1,14 @@
 # Sessão 03C – Vale do Vento Sombrio  
-**Data:** 15/01/2025  
+**Data:** 16/01/2025  
 **Sessão:** S03C  
 
 ***1 de Ready'reat, 998 CY***
 
 ---
 ## 🗓 Linha Temporal
-| Semana | Data       | Sessão | Nome da Sessão            |
-|--------|-----------|--------|----------------------------|
-| 03     | 15/01/25  | S03C   | Vale do Vento Sombrio      |
+| Semana | Data     | Sessão | Nome da Sessão        |
+| ------ | -------- | ------ | --------------------- |
+| 03     | 16/01/25 | S03C   | Vale do Vento Sombrio |
 
 ---
 

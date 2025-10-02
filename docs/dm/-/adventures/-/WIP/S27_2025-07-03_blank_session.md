@@ -1,15 +1,15 @@
-# Sessão 21 – [Em Branco]  
-**Data:** 22/05/2025  
-**Semana:** 21  
-**Sessão:** S21  
+# Sessão 27 – [Em Branco]  
+**Data:** 03/07/2025  
+**Semana:** 27 
+**Sessão:** S27 
 
-***15 de Coldeven, 999 CY***
+***8 de Flocktime, 999 CY***
 
 ---
 ## 🗓 Linha Temporal
 | Semana | Data      | Sessão | Nome da Sessão |
 |--------|-----------|--------|----------------|
-| 21     | 22/05/25  | S21    | [por preencher] |
+| 26     | 26/06/25  | S26    | [por preencher] |
 
 ---
 

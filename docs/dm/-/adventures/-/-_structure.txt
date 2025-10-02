@@ -1,0 +1,89 @@
+├── 📂 WIP/
+│   ├── 📄 S01_2025-01-02_riacho.md
+│   ├── 📄 S02_2025-01-09_miner_difficulties.md
+│   ├── 📄 S03A_2025-01-15_emboscada_rio_neem.md
+│   ├── 📄 S03B_2025-01-15_busca_amuleto_perdido.md
+│   ├── 📄 S03C_2025-01-15_vale_do_vento_sombrio.md
+│   ├── 📄 S04A_2025-01-23_vale_do_vento_sombrio_syzzin.md
+│   ├── 📄 S04B_2025-01-23_vale_do_vento_sombrio_variante.md
+│   ├── 📄 S04C_2025-01-23_two_fords_moinho.md
+│   ├── 📄 S05_2025-01-30_as_mascaras_da_morte_merged.md
+│   ├── 📄 S05__appendices_dm_only_full.md
+│   ├── 📄 S05A_2025-01-30_as_mascaras_da_morte.md
+│   ├── 📄 S05B_2025-01-30_campo_goblin.md
+│   ├── 📄 S06_2025-02-06_blank_session.md
+│   ├── 📄 S07_2025-02-13_rota_da_cia.md
+│   ├── 📄 S07_2025-02-13_segredo_de_peculiar_manor.md
+│   ├── 📄 S07_2025-02-13_sombras_sobre_erybend.md
+│   ├── 📄 S08_2025-02-20_blank_session.md
+│   ├── 📄 S09_2025-02-27_blank_session.md
+│   ├── 📄 S10A_2025-03-06_misterio_high_ery.md
+│   ├── 📄 S10B_2025-03-06_baile_elfico_coriver.md
+│   ├── 📄 S10C_2025-03-06_desaparecimento_lago_dos_diamantes.md
+│   ├── 📄 S11_appendices_dm_only_full.md
+│   ├── 📄 S11_appendices_dm_only_summary.md
+│   ├── 📄 S11A_2025-03-13_sombras_sobre_erybend.md
+│   ├── 📄 S11B_2025-03-13_sombras_de_iuz.md
+│   ├── 📄 S11C_2025-03-13_rota_da_cia_pantano.md
+│   ├── 📄 S12A_2025-03-20_espada_de_viltrix.md
+│   ├── 📄 S12B_2025-03-20_prisao_e_redencao_dustin.md
+│   ├── 📄 S12C_2025-03-20_tres_pedras_e_illithids.md
+│   ├── 📄 S12D_2025-03-20_legado_de_krixis.md
+│   ├── 📄 S13_appendices_dm_only_full.md
+│   ├── 📄 S13_appendices_dm_only_summary.md
+│   ├── 📄 S13A_2025-03-27_resgate_de_dustin.md
+│   ├── 📄 S13B_2025-03-27_nave_mae_illithid.md
+│   ├── 📄 S14A_2025-04-03_dandan_e_os_40_kobolds.md
+│   ├── 📄 S14B_2025-04-03_exploracao_greyhawk_guildas.md
+│   ├── 📄 S14C_2025-04-03_incendio_olho_de_boccob.md
+│   ├── 📄 S15A_2025-04-10_misterio_dos_espelhos.md
+│   ├── 📄 S15B_2025-04-10_cetro_de_zan.md
+│   ├── 📄 S15C_2025-04-10_nova_cidade_base_culto.md
+│   ├── 📄 S16_2025-04-17_blank_session.md
+│   ├── 📄 S17A_2025-04-24_nova_cidade_parte2.md
+│   ├── 📄 S17B_2025-04-24_a_crianca_perdida.md
+│   ├── 📄 S18_2025-05-01_blank_session.md
+│   ├── 📄 S19_2025-05-08_blank_sessio.md
+│   ├── 📄 S20_2025-05-23_a_sombra_do_tempo_perdido.md
+│   ├── 📄 S21_2025-05-22_blank_session.md
+│   ├── 📄 S21_2025-05-29_casino_heist_parte1.md
+│   ├── 📄 S22_2025-06-05_casino_heist_parte2.md
+│   ├── 📄 S23_2025-06-12_blank_session.md.md
+│   ├── 📄 S24_2025-06-19_sociedade_dos_ratos_sedentos.md
+│   ├── 📄 S25_2025-06-26_blank_session.md
+│   ├── 📄 S26_2025-06-26_blank_session.md.md
+│   ├── 📄 S27_2025-07-10_museu_das_maravilhas.md
+│   ├── 📄 S28A_2025-07-17_museu_parte_final.md
+│   ├── 📄 S28B_2025-07-17_idolo_de_lady_scale_parte1.md
+│   ├── 📄 S29A_2025-07-24_idolo_de_lady_scale_parte2.md
+│   ├── 📄 S29B_2025-07-24_as_orquideas_negras.md
+│   ├── 📄 S29C_2025-07-24_o_misterio_de_kas_kardwall.md
+│   └── 📄 S30_2025-07-31_idolo_de_lady_scale_parte3.md
+├── 📄 mission_01_os_fungos_do_bosque.md
+├── 📄 mission_02_dificuldades_na_mina_de_obsidiana.md
+├── 📄 mission_03_emboscada_nas_margens_do_rio_neem.md
+├── 📄 mission_04_regresso_a_mina.md
+├── 📄 mission_05_vale_do_vento_sombrio_dragao.md
+├── 📄 mission_06_two_fords_doenca.md
+├── 📄 mission_07_intrigas_em_erybend.md
+├── 📄 mission_08_bullywugs_e_as_tres_pedras.md
+├── 📄 mission_09_intrigas_em_eribend.md
+├── 📄 mission_10_baile_dos_high_fae.md
+├── 📄 mission_11_batalha_em_two_fords.md
+├── 📄 mission_12_ruinas_dos_elfos_negros.md
+├── 📄 mission_13_conspiracao_em_blackfair.md
+├── 📄 mission_14_os_mercadores_sombrios.md
+├── 📄 mission_15_a_biblioteca_proibida.md
+├── 📄 mission_16_os_assassinos_de_blackfair.md
+├── 📄 mission_17_os_portoes_de_blackfair.md
+├── 📄 mission_18_os_segredos_de_blackfair_manor.md
+├── 📄 mission_19_conspiracao_em_greyhawk.md
+├── 📄 mission_20_o_assalto_a_guilda_dos_ladroes.md
+├── 📄 mission_21_os_esgotos_de_greyhawk.md
+├── 📄 mission_22_o_grande_ritual_em_greyhawk.md
+├── 📄 mission_23_as_sombras_do_templo_subterraneo.md
+├── 📄 mission_24_o_deserto_das_sombras.md
+├── 📄 mission_25_o_templo_perdido.md
+├── 📄 mission_26_o_coracao_do_culto.md
+├── 📄 mission_27_o_confronto_final.md
+└── 📄 timeline_season_01.md

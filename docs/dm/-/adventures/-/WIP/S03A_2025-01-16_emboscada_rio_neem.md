@@ -1,5 +1,5 @@
 # Sessão 03A – A Emboscada no Rio Neem  
-**Data:** 15/01/2025  
+**Data:** 16/01/2025  
 **Sessão:** S03A  
 
 ***1 de Ready'reat, 998 CY***
@@ -8,7 +8,7 @@
 ## 🗓 Linha Temporal
 | Semana | Data     | Sessão | Nome da Sessão          |
 | ------ | -------- | ------ | ----------------------- |
-| 03     | 15/01/25 | S03A   | A Emboscada no Rio Neem |
+| 03     | 16/01/25 | S03A   | A Emboscada no Rio Neem |
 
 ---
 

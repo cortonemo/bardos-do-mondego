@@ -1,15 +1,15 @@
-# Sessão 21 – O Golpe dos Dados Rubi (Parte 1)  
+# Sessão 22 – O Golpe dos Dados Rubi (Parte 1)  
 **Data:** 29/05/2025  
-**Semana:** 21  
-**Sessão:** S21  
+**Semana:** 22  
+**Sessão:** S22 
 
-***15 de Coldeven, 999 CY***
+***1 de Planting, 999 CY***
 
 ---
 ## 🗓 Linha Temporal
-| Semana | Data      | Sessão | Nome da Sessão                     |
-|--------|-----------|--------|-------------------------------------|
-| 21     | 29/05/25  | S21    | O Golpe dos Dados Rubi (Parte 1)    |
+| Semana | Data     | Sessão | Nome da Sessão                   |
+| ------ | -------- | ------ | -------------------------------- |
+| 22     | 29/05/25 | S22    | O Golpe dos Dados Rubi (Parte 1) |
 
 ---
 

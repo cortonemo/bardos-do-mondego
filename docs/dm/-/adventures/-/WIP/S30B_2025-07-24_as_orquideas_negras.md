@@ -1,15 +1,15 @@
-# Sessão 29B – As Orquídeas Negras  
+# Sessão 30B – As Orquídeas Negras  
 **Data:** 24/07/2025  
-**Semana:** 29  
-**Sessão:** S29B  
+**Semana:** 30  
+**Sessão:** S30B  
 
-***15 de Flocktime, 999 CY***
+***1 de Wealsun, 999 CY***
 
 ---
 ## 🗓 Linha Temporal
-| Semana | Data      | Sessão | Nome da Sessão          |
-|--------|-----------|--------|--------------------------|
-| 29     | 24/07/25  | S29B   | As Orquídeas Negras      |
+| Semana | Data     | Sessão | Nome da Sessão      |
+| ------ | -------- | ------ | ------------------- |
+| 30     | 24/07/25 | S30B   | As Orquídeas Negras |
 
 ---
 
