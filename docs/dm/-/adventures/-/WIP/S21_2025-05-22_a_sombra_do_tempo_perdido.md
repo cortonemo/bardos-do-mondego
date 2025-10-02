@@ -3,7 +3,7 @@
 **Semana:** 21  
 **Sessão:** S21 (One-Shot de Dustin e Pryssana)  
 
-***22 de Coldeven, 999 CY***
+***15 de Coldeven, 999 CY***
 
 ---
 ## 🗓 Linha Temporal

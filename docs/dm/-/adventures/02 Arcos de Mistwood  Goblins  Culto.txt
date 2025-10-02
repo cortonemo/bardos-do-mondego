@@ -1,0 +1,259 @@
+# Diário da Acólita Morvanya  Bullet Points
+
+| Português                                                                                                                                                                            | English                                                                                                                                                            |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| - Descoberta do diário de Morvanya.<br>- Relíquia amaldiçoada recuperada e estudada.<br>- Grupo recebe bênção de Titania.<br>- Segredos do culto e da corrupção local revelados.<br> | - Morvanyas diary discovered.<br>- Cursed relic recovered and studied.<br>- Group receives Titanias blessing.<br>- Cult secrets and local corruption revealed.<br> |
+| **NPCs:** Morvanya, villagers undead, paladina de Titania, Egalar                                                                                                                    | **NPCs:** Morvanya, undead villagers, paladin of Titania, Egalar                                                                                                   |
+| **Loot:** Diário, relíquia amaldiçoada, água benta, orquídea mágica                                                                                                                  | **Loot:** Diary, cursed relic, holy water, magic orchid                                                                                                            |
+| **Data:** 2025-01-30                                                                                                                                                                 | **Date:** 2025-01-30                                                                                                                                               |
+| **Ficheiros de origem:** s05_diario_acolita_morvanya_pontos.md                                                                                                                       | **Source files:** s05_diario_acolita_morvanya_pontos.md                                                                                                            |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s05_diario_acolita_morvanya_ready.md ==== -->
+
+# Diário da Acólita Morvanya  Ready to Play
+
+| Português                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | English                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Introdução:** Após o confronto com Morvanya, o grupo investiga as origens da corrupção.<br><br>**Cena 1: Descoberta**<br>- Encontram diário amaldiçoado de Morvanya nos escombros do altar.<br>- Testes de Religião/Arcana revelam detalhes sobre o culto e o papel de Morvanya.<br><br>**Cena 2: O Peso da Maldição**<br>- Diário amaldiçoado ameaça leitores; encontram relíquia maldita.<br>- Paladina de Titania oferece bênção e orientação.<br>- Rituais de purificação exigem coordenação.<br><br>**Cena 3: Resolução**<br>- Mistwood começa a recuperar.<br>- Decisão sobre o destino do diário.<br>- Ligações para novos arcos: ameaças do culto e impacto noutras aldeias.<br> | **Introduction:** After confronting Morvanya, the group investigates the source of the corruption.<br><br>**Scene 1: Discovery**<br>- Find Morvanyas cursed diary in the altars ruins.<br>- Religion/Arcana checks reveal details about the cult and Morvanyas role.<br><br>**Scene 2: The Weight of the Curse**<br>- Cursed diary threatens readers; find cursed relic.<br>- Paladin of Titania offers blessing and guidance.<br>- Purification rituals require teamwork.<br><br>**Scene 3: Resolution**<br>- Mistwood begins to recover.<br>- Decision about the diarys fate.<br>- Hooks for new arcs: cult threats and effects on other villages.<br> |
+| **NPCs:** Morvanya, villagers undead, paladina de Titania, Egalar                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | **NPCs:** Morvanya, undead villagers, paladin of Titania, Egalar                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| **Loot:** Diário, relíquia amaldiçoada, água benta, orquídea mágica                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | **Loot:** Diary, cursed relic, holy water, magic orchid                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| **Data:** 2025-01-30                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | **Date:** 2025-01-30                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| **Ficheiros de origem:** s05_diario_acolita_morvanya_ready.md                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | **Source files:** s05_diario_acolita_morvanya_ready.md                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s05_diario_acolita_morvanya_summary.md ==== -->
+
+# Diário da Acólita Morvanya
+
+| Português | English |
+|-----------|---------|
+| **Descrição:** Descobrem o diário de Morvanya, revelando segredos do culto e dos mortos-vivos de Mistwood. Com a bênção de Titania, recuperam relíquia amaldiçoada e parte do mistério da corrupção local.<br> | **Description:** Morvanyas diary is found, revealing secrets of the cult and undead in Mistwood. With Titanias blessing, they recover a cursed relic and uncover part of the local corruption mystery.<br> |
+| **PCs:** Markus, Vaunia, Grix, Triss, Conan | **PCs:** Markus, Vaunia, Grix, Triss, Conan |
+| **NPCs:** Morvanya, villagers undead, paladina de Titania, Egalar | **NPCs:** Morvanya, undead villagers, paladin of Titania, Egalar |
+| **Loot:** Diário, relíquia amaldiçoada, água benta, orquídea mágica | **Loot:** Diary, cursed relic, holy water, magic orchid |
+| **Data:** 2025-01-30 | **Date:** 2025-01-30 |
+| **Ficheiros de origem:** s05_diario_acolita_morvanya_resumo.md | **Source files:** s05_diario_acolita_morvanya_resumo.md |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s05_o_altar_de_sangue_no_campo_goblin.txt ==== -->
+
+# Acampamento Goblin & Resgate da Caravana  Bullet Points
+
+| Português                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | English                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| - Missão do taberneiro: investigar raptos/caravana atacada.<br>- Grupo chega ao acampamento goblin: ogre vigia, patrulhas.<br>- Uso criativo de ilusões para derrotar o ogre.<br>- Emboscada furtiva e libertação de prisioneiros (humanos, elfos, goblins submissos).<br>- Enfrentam Jogmaahx, xamã goblin, em ritual para Nerull.<br>- Descoberta de carta de Vaelkor Ashbrand.<br>- Destruição do acampamento e retorno à taberna.<br>- Recompensa e rumores de novos perigos.<br> | - Innkeepers quest: investigate kidnappings/caravan attack.<br>- Group finds goblin camp: ogre watchman, patrols.<br>- Creative illusions to defeat ogre.<br>- Stealth ambush and rescue of prisoners (humans, elves, submissive goblins).<br>- Face Jogmaahx, goblin shaman, in ritual to Nerull.<br>- Find letter from Vaelkor Ashbrand.<br>- Destroy camp, return to tavern.<br>- Reward and rumors of new dangers.<br> |
+| **NPCs:** Taverneiro, sobrinha, Jogmaahx (xamã goblin), ogre, patrulha goblin, escravos goblin, Vaelkor Ashbrand (mencionado), prisioneiros humanos/élficos                                                                                                                                                                                                                                                                                                                           | **NPCs:** Innkeeper, niece, Jogmaahx (goblin shaman), ogre, goblin patrol, goblin slaves, Vaelkor Ashbrand (mentioned), human/elven prisoners                                                                                                                                                                                                                                                                              |
+| **Loot:** 50GP cada, carta Vaelkor Ashbrand, armas goblin                                                                                                                                                                                                                                                                                                                                                                                                                             | **Loot:** 50GP each, Vaelkor Ashbrands letter, goblin weapons                                                                                                                                                                                                                                                                                                                                                              |
+| **Data:** 2025-01-30                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | **Date:** 2025-01-30                                                                                                                                                                                                                                                                                                                                                                                                       |
+| **Ficheiros de origem:** s05_acampamento_goblin_caravana_resgate_pontos.md                                                                                                                                                                                                                                                                                                                                                                                                            | **Source files:** s05_acampamento_goblin_caravana_resgate_pontos.md                                                                                                                                                                                                                                                                                                                                                        |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s05_o_altar_de_sangue_no_campo_goblin_ready.md ==== -->
+
+# O Altar de Sangue no Campo Goblin  Ready to Play
+
+| Português                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | English                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Introdução:** Taverneiro (ou sobrinha) pede investigação de ataques a caravanas.<br><br>**Cena 1: Clareira dos Goblins**<br>- Acampamento improvisado, ogre vigia, patrulhas goblin.<br>- Stealth ou ilusões para neutralizar o ogre.<br><br>**Cena 2: Libertação dos Prisioneiros**<br>- Humanos, elfos, goblins submissos em jaulas.<br>- Jogmaahx lidera ritual sombrio.<br>- Possibilidade de negociação ou combate.<br><br>**Cena 3: Ritual de Nerull**<br>- Jogmaahx prepara sacrifício.<br>- Combate com goblins, mortos-vivos, magias sombrias.<br>- Elemento moral: destino dos goblins capturados, destruir altar ou preservar provas.<br>- Carta de Vaelkor Ashbrand encontrada.<br><br>**Cena 4: Regresso e Consequências**<br>- Prisioneiros libertos, possíveis aliados.<br>- Provas entregues na taberna.<br>- Recompensa e rumores sobre o culto.<br> | **Introduction:** Innkeeper (or niece) requests investigation of caravan attacks.<br><br>**Scene 1: Goblin Clearing**<br>- Makeshift camp, ogre watchman, goblin patrols.<br>- Stealth or illusions to neutralize ogre.<br><br>**Scene 2: Prisoner Rescue**<br>- Humans, elves, submissive goblins in cages.<br>- Jogmaahx leads a dark ritual.<br>- Option to negotiate or fight.<br><br>**Scene 3: Ritual of Nerull**<br>- Jogmaahx prepares a sacrifice.<br>- Combat with goblins, undead, dark magic.<br>- Moral element: fate of captured goblins, destroy altar or preserve evidence.<br>- Vaelkor Ashbrands letter found.<br><br>**Scene 4: Return and Consequences**<br>- Freed prisoners, possible allies.<br>- Evidence delivered at tavern.<br>- Reward and rumors about the cult.<br> |
+| **NPCs:** Taverneiro, sobrinha, Jogmaahx (xamã goblin), ogre, patrulha goblin, escravos goblin, Vaelkor Ashbrand (mencionado), prisioneiros humanos/élficos                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | **NPCs:** Innkeeper, niece, Jogmaahx (goblin shaman), ogre, goblin patrol, goblin slaves, Vaelkor Ashbrand (mentioned), human/elven prisoners                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| **Loot:** 50GP cada, carta Vaelkor Ashbrand, armas goblin                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | **Loot:** 50GP each, Vaelkor Ashbrands letter, goblin weapons                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| **Data:** 2025-01-30                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | **Date:** 2025-01-30                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| **Ficheiros de origem:** s05_acampamento_goblin_caravana_resgate_ready.md                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | **Source files:** s05_acampamento_goblin_caravana_resgate_ready.md                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s05_o_altar_de_sangue_no_campo_goblin_summary.md ==== -->
+
+# O Altar de Sangue no Campo Goblin
+
+| **Português (PT-PT)** | **English (EN-US)** |
+|-----------------------|---------------------|
+| **Resumo:**<br> A party é enviada pelo taberneiro (ou pela sobrinha dele) para investigar ataques a caravanas. Seguindo pistas, descobrem um acampamento goblin improvisado numa clareira, guardado por patrulhas e por um ogre. Usando furtividade e ilusões, neutralizam o ogre e aproximam-se das jaulas onde humanos, elfos e goblins submissos estão presos. No centro, o xamã goblin Jogmaahx, acólito do Culto do Mal Elemental e devoto de Nerull, prepara um ritual sombrio.<br><br> Após combate contra goblins, mortos-vivos e o próprio xamã, a party encontra uma carta de Vaelkor Ashbrand que revela planos para novos ataques. Os prisioneiros humanos e élficos são libertados, enquanto o destino dos goblins é deixado em aberto. O altar de Nerull é destruído e as provas entregues na taberna, garantindo a recompensa prometida. | **Summary:**<br> The party is sent by the innkeeper (or his niece) to investigate caravan attacks. Following clues, they discover an improvised goblin camp in a clearing, guarded by patrols and an ogre. Using stealth and illusions, they neutralize the ogre and approach cages holding humans, elves, and submissive goblins. At the center, the goblin shaman Jogmaahx, an acolyte of the Cult of Elemental Evil and a devotee of Nerull, prepares a dark ritual.<br><br> After battling goblins, undead, and the shaman himself, the party finds a letter from Vaelkor Ashbrand revealing plans for further raids. The human and elven prisoners are freed, while the fate of the goblins is left unresolved. The Nerull altar is destroyed and the evidence delivered to the inn, earning the promised reward. |
+| **PCs:** Usopp, Drayl Bharash, Wandering Sage, Sarvian Midlor, Lone Straw | **PCs:** Usopp, Drayl Bharash, Wandering Sage, Sarvian Midlor, Lone Straw |
+| **NPCs:** Taverneiro, sobrinha, Jogmaahx (xamã goblin), ogre, patrulha goblin, escravos goblin, Vaelkor Ashbrand (mencionado), prisioneiros humanos/élficos | **NPCs:** Innkeeper, niece, Jogmaahx (goblin shaman), ogre, goblin patrol, goblin slaves, Vaelkor Ashbrand (mentioned), human/elven prisoners |
+| **Loot:** 50GP cada, carta de Vaelkor Ashbrand, armas goblin | **Loot:** 50GP each, Vaelkor Ashbrand's letter, goblin weapons |
+| **Data:** 2025-01-30 | **Date:** 2025-01-30 |
+
+
+<!-- ==== s05_s05_as_mascaras_da_morte_mistwood.txt ==== -->
+
+# As Máscaras da Morte em Mistwood  Bullet Points
+
+| Português                                                                                                                                                                                                                                                         | English                                                                                                                                                                                                                                           |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| - Chegada a Mistwood para investigar rituais e mortos-vivos.<br>- Confronto com Morvanya e undead villagers.<br>- Descoberta de diário amaldiçoado.<br>- Shade do sacerdote derrotado; altar profano purificado.<br>- Paladina de Titania recompensa a party.<br> | - Arrival at Mistwood to investigate rituals and undead.<br>- Confrontation with Morvanya and undead villagers.<br>- Cursed diary discovered.<br>- Priests shade defeated; profane altar cleansed.<br>- Paladin of Titania rewards the party.<br> |
+| **NPCs:** Morvanya, Egalar, shade do sacerdote, villagers undead, paladina de Titania                                                                                                                                                                             | **NPCs:** Morvanya, Egalar, priests shade, undead villagers, paladin of Titania                                                                                                                                                                   |
+| **Loot:** Orquídea mágica, símbolo sagrado, loot mágico do altar                                                                                                                                                                                                  | **Loot:** Magic orchid, holy symbol, magical loot from altar                                                                                                                                                                                      |
+| **Data:** 2025-01-30                                                                                                                                                                                                                                              | **Date:** 2025-01-30                                                                                                                                                                                                                              |
+| **Ficheiros de origem:** s05_as_mascaras_da_morte_mistwood_pontos.md                                                                                                                                                                                              | **Source files:** s05_as_mascaras_da_morte_mistwood_pontos.md                                                                                                                                                                                     |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s05_as_mascaras_da_morte_mistwood_ready.md ==== -->
+
+# As Máscaras da Morte em Mistwood  Resumo Detalhado
+
+| Português                                                                                                                                                                                                                                | English                                                                                                                                                                                                                           |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Descrição:** Em Mistwood, o grupo enfrenta mortos-vivos de Morvanya. Descobrem diário amaldiçoado e recebem bênção de Titania após derrotar o shade do sacerdote. O altar profano é purificado, revelando segredos do culto local.<br> | **Description:** In Mistwood, the group faces Morvanyas undead. They discover a cursed diary and receive Titanias blessing after defeating the priests shade. The profane altar is cleansed, revealing local cult secrets.<br> |
+| **NPCs:** Morvanya, Egalar, shade do sacerdote, villagers undead, paladina de Titania                                                                                                                                                    | **NPCs:** Morvanya, Egalar, priests shade, undead villagers, paladin of Titania                                                                                                                                                  |
+| **Loot:** Orquídea mágica, símbolo sagrado, loot mágico do altar                                                                                                                                                                         | **Loot:** Magic orchid, holy symbol, magical loot from altar                                                                                                                                                                      |
+| **Data:** 2025-01-30                                                                                                                                                                                                                     | **Date:** 2025-01-30                                                                                                                                                                                                              |
+| **Ficheiros de origem:** s05_as_mascaras_da_morte_mistwood_resumo.md                                                                                                                                                                     | **Source files:** s05_as_mascaras_da_morte_mistwood_resumo.md                                                                                                                                                                     |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s05_as_mascaras_da_morte_mistwood_summary.md ==== -->
+
+# As Máscaras da Morte em Mistwood
+
+| Português | English |
+|-----------|---------|
+| **Descrição:** Em Mistwood, o grupo enfrenta mortos-vivos de Morvanya. Descobrem diário amaldiçoado e recebem bênção de Titania após derrotar o shade do sacerdote. O altar profano é purificado, revelando segredos do culto local.<br> | **Description:** In Mistwood, the group faces Morvanyas undead. They discover a cursed diary and receive Titanias blessing after defeating the priests shade. The profane altar is cleansed, revealing local cult secrets.<br> |
+| **PCs:** Markus, Vaunia, Grix, Triss, Conan | **PCs:** Markus, Vaunia, Grix, Triss, Conan |
+| **NPCs:** Morvanya, Egalar, shade do sacerdote, villagers undead, paladina de Titania | **NPCs:** Morvanya, Egalar, priests shade, undead villagers, paladin of Titania |
+| **Loot:** Orquídea mágica, símbolo sagrado, loot mágico do altar | **Loot:** Magic orchid, holy symbol, magical loot from altar |
+| **Data:** 2025-01-30 | **Date:** 2025-01-30 |
+| **Ficheiros de origem:** s05_as_mascaras_da_morte_mistwood_resumo.md | **Source files:** s05_as_mascaras_da_morte_mistwood_resumo.md |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

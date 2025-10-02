@@ -1,0 +1,1977 @@
+# Mission 01 – Os Fungos do Bosque / The Forest Fungus (15 de Patchwall, 998 CY)
+
+---
+
+## 🗓 Timeline
+| 🗓 Linha Temporal | 🗓 Timeline |
+|-------------------|------------|
+| **Semana:** 01 | **Week:** 01 |
+| **Data:** 2025-01-02 | **Date:** 2025-01-02 |
+| **Data Greyhawk:** 15 de Patchwall, 998 CY | **Greyhawk Date:** 15th of Patchwall, 998 CY |
+| **Sessão:** S01 | **Session:** S01 |
+| **Nome:** O Riacho Poluído e o Fungo Elemental | **Title:** The Polluted Stream and the Elemental Fungus |
+
+---
+
+## 📖 Overview
+| 📖 Visão Geral | 📖 Overview |
+|----------------|------------|
+| Aventureiros recém-chegados ao mundo de Greyhawk acordam no Grande Castelo e são encaminhados para a taberna Refúgio do Errante. Lá, recebem a missão do taberneiro: investigar um bosque próximo onde um fungo alienígena contamina o riacho. Guiados por Borogrove, um Treant preocupado, exploram uma caverna infestada e enfrentam criaturas corrompidas. | Adventurers newly arrived in the world of Greyhawk awaken in the Great Castle and are guided to the Refuge of the Wanderer tavern. There, the innkeeper tasks them with investigating a nearby forest where an alien fungus contaminates the stream. Guided by Borogrove, a concerned Treant, they explore an infested cave and face corrupted creatures. |
+
+---
+
+## 🎲 Key Events
+| 🎲 Eventos Principais | 🎲 Key Events |
+|-----------------------|--------------|
+| - **Cena 1:** Acordam no Grande Castelo; encontro com o major-domo e ida à taberna. | - **Scene 1:** Awaken in the Great Castle; meet the majordomo and head to the tavern. |
+| - **Cena 2:** Missão dada pelo taberneiro; viagem até ao bosque; encontro com Borogrove e oferta de uma bolota mágica. | - **Scene 2:** Quest given by innkeeper; travel to the forest; meet Borogrove who gifts a magic acorn. |
+| - **Cena 3:** Caverna infestada; combate contra Twig Blights, Bullywugs infetados, urso corrompido, ooze psíquico, stirges. | - **Scene 3:** Infested cave; battle against Twig Blights, infected Bullywugs, corrupted bear, psychic ooze, stirges. |
+| - **Cena 4:** Confronto com o druida infetado; recuperação do seu livro. | - **Scene 4:** Showdown with the infected druid; his book is recovered. |
+| - **Cena 5:** Purificação da nascente; Borogrove recompensa-os com o Cajado das Flores. | - **Scene 5:** Stream purified; Borogrove gifts the Staff of Flowers. |
+| - **Epílogo:** Regressam à taberna; recompensas distribuídas; alguns provam cogumelos; todos sobem de nível. | - **Epilogue:** Return to the tavern; rewards distributed; some eat mushrooms; all level up. |
+
+---
+
+## 👥 Cast of Characters
+| 👥 Elenco de Personagens | 👥 Cast of Characters |
+|--------------------------|-----------------------|
+| **PCs:** [Dustin](pc_dustin_thorne_01.jpg), [Triss](pc_triss_merrill_01.png), [Vaunia](pc_blank.png), [Conan](pc_conan_barbaro_ra_00.png), [Markus](pc_markus_grimm_01.png), [Grix’Molah](pc_grix_molah.jpg) | **PCs:** [Dustin](pc_dustin_thorne_01.jpg), [Triss](pc_triss_merrill_01.png), [Vaunia](pc_blank.png), [Conan](pc_conan_barbaro_ra_00.png), [Markus](pc_markus_grimm_01.png), [Grix’Molah](pc_grix_molah.jpg) |
+| **NPCs:** Major-domo do Castelo, Taverneiro do Refúgio, [Borogrove](borogrove.md) (Treant), Druida Infetado | **NPCs:** Castle Majordomo, Refuge Innkeeper, [Borogrove](borogrove.md) (Treant), Infected Druid |
+
+---
+
+## 💰 Rewards & Loot
+| 💰 Recompensas & Tesouro | 💰 Rewards & Loot |
+|--------------------------|-------------------|
+| - Cajado das Flores (Markus) | - Staff of Flowers (Markus) |
+| - 10 moedas de ouro (Grix’Molah) | - 10 gold coins (Grix’Molah) |
+| - 3 gemas (1 Conan, 2 Triss) | - 3 gems (1 Conan, 2 Triss) |
+| - Faca de prata (Triss) | - Silver knife (Triss) |
+| - Bolota mágica (Vaunia) | - Magic acorn (Vaunia) |
+| - Livro do Druida (entregue ao taberneiro) | - Druid’s Book (given to innkeeper) |
+
+---
+
+## 🧭 Aftermath & Hooks
+| 🧭 Consequências & Ganchos | 🧭 Aftermath & Hooks |
+|----------------------------|----------------------|
+| O riacho foi purificado e Borogrove tornou-se aliado. O taberneiro ganha confiança nos aventureiros. Há sinais de que o culto do Mal Elemental está por trás da praga, ligando este evento a ameaças maiores em Greyhawk. | The stream was purified and Borogrove became an ally. The innkeeper now trusts the adventurers. Signs indicate the Cult of Elemental Evil is behind the plague, linking this event to larger threats in Greyhawk. |
+
+---
+
+**[DM-ONLY – Não incluir na Wiki]**
+
+| Categoria | Category |
+|-----------|----------|
+| **Notas de Preparação:** Reforçar atmosfera sombria de fungos; dar sensação de primeira missão introdutória. | **Prep Notes:** Reinforce dark fungal atmosphere; emphasize this as the party’s first intro quest. |
+| **Segredos de NPCs:** Borogrove receia que o fungo venha de forças extraplanares; o Druida infetado era Galin Fiduain, ex-seguidor do Mal Elemental. | **NPC Secrets:** Borogrove fears the fungus originates from extraplanar forces; the Infected Druid was Galin Fiduain, a former Elemental Evil follower. |
+| **Ganchos Futuros:** Investigar riachos vizinhos, aldeias e minas possivelmente afetadas; ligação futura com Syzzin e com as guildas de Greyhawk. | **Future Hooks:** Investigate nearby rivers, villages, and mines; foreshadow Syzzin and Greyhawk guild plots. |
+| **Reviravoltas / Plot Twists:** O Druida poderia ser redimido com a bolota mágica; se poupado, revelaria informações sobre o culto. | **Plot Twists:** The druid could be redeemed with the magic acorn; if spared, he might reveal info about the cult. |
+| **Notas de Emergência:** Caso falhem a purificação, Borogrove intervém com poder limitado e a infestação espalha-se mais rápido. | **Contingencies:** If the party fails purification, Borogrove intervenes with limited power, and the infestation spreads faster. |
+
+**[DM-ONLY – Não incluir na Wiki]**
+
+---
+
+
+<!-- ==== mission_02_dificuldades_na_mina_de_obsidiana.md ==== -->
+
+# Mission 02 – Dificuldades na Mina de Obsidiana / Troubles in the Obsidian Mine (28 de Patchwall, 998 CY)
+
+---
+
+## 🗓 Timeline
+| 🗓 Linha Temporal | 🗓 Timeline |
+|-------------------|------------|
+| **Semana:** 02 | **Week:** 02 |
+| **Data:** 2025-01-09 | **Date:** 2025-01-09 |
+| **Data Greyhawk:** 28 de Patchwall, 998 CY | **Greyhawk Date:** 28th of Patchwall, 998 CY |
+| **Sessão:** S02 | **Session:** S02 |
+| **Nome:** Resgate na Mina de Obsidiana | **Title:** Rescue in the Obsidian Mine |
+
+---
+
+## 📖 Overview
+| 📖 Visão Geral | 📖 Overview |
+|----------------|------------|
+| O taberneiro tem uma visão de um anão ferido (Kristryd Splitanvil) preso numa mina de obsidiana. O grupo é teleportado para a mina nas Montanhas de Cairn, onde explora túneis escuros e perigosos. Enfrentam criaturas subterrâneas e descobrem o esqueleto de Thargrin, anão falecido, antes de encontrarem Kristryd vivo, mas ferido. | The innkeeper receives a vision of a wounded dwarf (Kristryd Splitanvil) trapped in an obsidian mine. The party teleports to the mine in the Cairn Mountains, exploring dark and perilous tunnels. They face underground creatures and discover the skeleton of Thargrin, a deceased dwarf, before finding Kristryd alive but wounded. |
+
+---
+
+## 🎲 Key Events
+| 🎲 Eventos Principais | 🎲 Key Events |
+|-----------------------|--------------|
+| - **Cena 1:** Teleporte para a mina; corredores estreitos e atmosfera opressiva. | - **Scene 1:** Teleport into the mine; narrow corridors and oppressive atmosphere. |
+| - **Cena 2:** Exploração com encontros mortais (violet fungi, rust monster, giant spider, darkmantle, piercers, cubo gelatinoso). | - **Scene 2:** Exploration with deadly encounters (violet fungi, rust monster, giant spider, darkmantle, piercers, gelatinous cube). |
+| - **Cena 3:** Descoberta de Thargrin, esqueleto com carta de despedida. | - **Scene 3:** Discover Thargrin’s skeleton with farewell letter. |
+| - **Cena 4:** Combate contra Hook Horror; dentes recolhidos. | - **Scene 4:** Battle with Hook Horror; teeth collected. |
+| - **Cena 5:** Kristryd Splitanvil é encontrado ferido; pede ajuda para salvar Blackstone. | - **Scene 5:** Kristryd Splitanvil found wounded; asks for help to save Blackstone. |
+| - **Epílogo:** Carta de Thargrin entregue; reforço de alianças com Blackstone. | - **Epilogue:** Thargrin’s letter delivered; alliances with Blackstone strengthened. |
+
+---
+
+## 👥 Cast of Characters
+| 👥 Elenco de Personagens | 👥 Cast of Characters |
+|--------------------------|-----------------------|
+| **PCs:** Dustin, Triss, Vaunia, Conan, Markus, Usopp, Grix’Molah | **PCs:** Dustin, Triss, Vaunia, Conan, Markus, Usopp, Grix’Molah |
+| **NPCs:** Kristryd Splitanvil, Thargrin (anão morto), Hook Horror, Rust Monster, Giant Spider | **NPCs:** Kristryd Splitanvil, Thargrin (dead dwarf), Hook Horror, Rust Monster, Giant Spider |
+
+---
+
+## 💰 Rewards & Loot
+| 💰 Recompensas & Tesouro | 💰 Rewards & Loot |
+|--------------------------|-------------------|
+| - 6 dentes de Hook Horror | - 6 Hook Horror teeth |
+| - Topázio (Triss) | - Topaz (Triss) |
+| - Carta de Thargrin (homenagem) | - Thargrin’s letter (tribute) |
+| - Promessa de ajuda futura de Kristryd | - Kristryd’s promise of future aid |
+| - Possível item mágico | - Possible magic item |
+
+---
+
+## 🧭 Aftermath & Hooks
+| 🧭 Consequências & Ganchos | 🧭 Aftermath & Hooks |
+|----------------------------|----------------------|
+| Kristryd reforça a aliança com os aventureiros e promete ajuda a Blackstone em futuras crises. A exploração revela ligação a forças malignas mais profundas nas Montanhas de Cairn. | Kristryd strengthens the alliance with the adventurers and promises aid to Blackstone in future crises. The exploration hints at deeper evil forces within the Cairn Mountains. |
+
+---
+
+**[DM-ONLY – Não incluir na Wiki]**
+
+| Categoria | Category |
+|-----------|----------|
+| **Notas de Preparação:** Atmosfera claustrofóbica, perigo constante. | **Prep Notes:** Claustrophobic atmosphere, constant danger. |
+| **Segredos de NPCs:** Kristryd esconde a gravidade da ameaça; a mina contém pistas para cultos antigos. | **NPC Secrets:** Kristryd hides the true scale of the threat; the mine holds clues to ancient cults. |
+| **Ganchos Futuros:** Retorno às Montanhas de Cairn; ligação a Blackfair Manor. | **Future Hooks:** Return to the Cairn Mountains; link to Blackfair Manor. |
+| **Reviravoltas / Plot Twists:** O esqueleto de Thargrin pode conter mapa oculto; Hook Horror podia ser controlado por forças externas. | **Plot Twists:** Thargrin’s skeleton may contain a hidden map; Hook Horror could be controlled by outside forces. |
+| **Notas de Emergência:** Caso Kristryd morra, outro clérigo de Pelor assume a aliança. | **Contingencies:** If Kristryd dies, another cleric of Pelor takes over the alliance. |
+
+**[DM-ONLY – Não incluir na Wiki]**
+
+
+---
+
+
+<!-- ==== mission_03_emboscada_nas_margens_do_rio_neem.md ==== -->
+
+
+---
+
+# # Mission 03 – Emboscada nas Margens do Rio Neem / Ambush on the Banks of the Neem River (1 de Ready’reat, 998 CY)
+
+
+---
+
+## 🗓 Timeline
+| 🗓 Linha Temporal | 🗓 Timeline |
+|-------------------|------------|
+| **Semana:** 03 | **Week:** 03 |
+| **Data:** 2025-01-15 | **Date:** 2025-01-15 |
+| **Data Greyhawk:** 1 de Ready’reat, 998 CY | **Greyhawk Date:** 1st of Ready’reat, 998 CY |
+| **Sessão:** S03 | **Session:** S03 |
+| **Nome:** Emboscada nas Margens do Rio Neem | **Title:** Ambush on the Banks of the Neem River |
+
+---
+
+## 📖 Overview
+| 📖 Visão Geral | 📖 Overview |
+|----------------|------------|
+| Durante reconhecimento da rota comercial ao longo do rio Neem, o grupo encontra o mercador tiefling Kaldros Veynor sob ataque de goblins. Combate intenso ocorre em terreno lamacento, com armadilhas e um bugbear líder. | While scouting the trade route along the Neem River, the party finds the tiefling merchant Kaldros Veynor under attack by goblins. A fierce battle unfolds in muddy terrain, with traps and a bugbear leader. |
+
+---
+
+## 🎲 Key Events
+| 🎲 Eventos Principais | 🎲 Key Events |
+|-----------------------|--------------|
+| - **Cena 1:** Encontro com Kaldros Veynor; carroça carregada de tecidos e especiarias. | - **Scene 1:** Meet Kaldros Veynor; wagon loaded with fabrics and spices. |
+| - **Cena 2:** Primeira vaga de goblins e lobo domesticado. | - **Scene 2:** First wave of goblins and domesticated wolf. |
+| - **Cena 3:** Segunda vaga com bugbear líder. | - **Scene 3:** Second wave with bugbear leader. |
+| - **Cena 4:** Negociação possível com bugbear; revela acampamento goblin. | - **Scene 4:** Possible negotiation with bugbear; goblin camp revealed. |
+| - **Epílogo:** Recompensa de Kaldros; rumores de bandidos por trás do ataque. | - **Epilogue:** Reward from Kaldros; rumors of bandits behind attack. |
+
+---
+
+## 👥 Cast of Characters
+| 👥 Elenco de Personagens | 👥 Cast of Characters |
+|--------------------------|-----------------------|
+| **PCs:** Endouven, Orianna, Gauthak, Lone Straw, Arkos | **PCs:** Endouven, Orianna, Gauthak, Lone Straw, Arkos |
+| **NPCs:** Kaldros Veynor, goblins, lobo, bugbear | **NPCs:** Kaldros Veynor, goblins, wolf, bugbear |
+
+---
+
+## 💰 Rewards & Loot
+| 💰 Recompensas & Tesouro | 💰 Rewards & Loot |
+|--------------------------|-------------------|
+| - 50 PO (Kaldros) | - 50 GP (Kaldros) |
+| - 25 PO (inimigos) | - 25 GP (enemies) |
+| - Pistas para o acampamento goblin | - Clues to goblin camp |
+
+---
+
+## 🧭 Aftermath & Hooks
+| 🧭 Consequências & Ganchos | 🧭 Aftermath & Hooks |
+|----------------------------|----------------------|
+| Kaldros recomenda o grupo para futuras missões; descoberta de que os goblins recebem apoio de uma gangue de bandidos. | Kaldros recommends the group for future jobs; discovery that goblins are backed by a bandit gang. |
+
+---
+
+**[DM-ONLY – Não incluir na Wiki]**
+
+| Categoria | Category |
+|-----------|----------|
+| **Notas de Preparação:** Combate rápido e dinâmico em terreno difícil. | **Prep Notes:** Quick, dynamic combat in difficult terrain. |
+| **Segredos de NPCs:** Kaldros pode estar envolvido em negócios obscuros; bugbear não é totalmente leal ao bando. | **NPC Secrets:** Kaldros may be involved in shady dealings; bugbear not fully loyal to band. |
+| **Ganchos Futuros:** Explorar o acampamento goblin; introdução de Blackfair Manor. | **Future Hooks:** Explore goblin camp; introduction to Blackfair Manor. |
+| **Reviravoltas / Plot Twists:** Goblins são apenas peões de uma conspiração maior. | **Plot Twists:** Goblins are pawns of a greater conspiracy. |
+| **Notas de Emergência:** Caso falhem, Kaldros escapa e o grupo perde reputação. | **Contingencies:** If party fails, Kaldros escapes and group loses reputation. |
+
+**[DM-ONLY – Não incluir na Wiki]**
+
+---
+
+
+<!-- ==== mission_04_regresso_a_mina.md ==== -->
+
+# Mission 04 – Regresso à Mina: Descoberta das Gravuras / Return to the Mine: Discovery of Carvings (7 de Ready’reat, 998 CY)
+
+---
+
+## 🗓 Timeline
+| 🗓 Linha Temporal | 🗓 Timeline |
+|-------------------|------------|
+| **Semana:** 04 | **Week:** 04 |
+| **Data:** 2025-01-23 | **Date:** 2025-01-23 |
+| **Data Greyhawk:** 7 de Ready’reat, 998 CY | **Greyhawk Date:** 7th of Ready’reat, 998 CY |
+| **Sessão:** S04 | **Session:** S04 |
+| **Nome:** Regresso à Mina: Gravuras Misteriosas | **Title:** Return to the Mine: Mysterious Carvings |
+
+---
+
+## 📖 Overview
+| 📖 Visão Geral | 📖 Overview |
+|----------------|------------|
+| O grupo é guiado por uma bússola mágica de volta à mina, onde descobrem gravuras misteriosas com simbolismo desconhecido. A exploração é breve, mas levanta grandes questões. | The group is guided by a magical compass back to the mine, where they discover mysterious carvings with unknown symbolism. The exploration is brief but raises major questions. |
+
+---
+
+## 🎲 Key Events
+| 🎲 Eventos Principais | 🎲 Key Events |
+|-----------------------|--------------|
+| - **Cena 1:** Bússola mágica orienta o grupo de volta. | - **Scene 1:** Magical compass guides the party back. |
+| - **Cena 2:** Descoberta de gravuras alienígenas. | - **Scene 2:** Discovery of alien-like carvings. |
+| - **Cena 3:** Interpretação falha; significado [por confirmar]. | - **Scene 3:** Attempts to interpret; meaning [to be confirmed]. |
+
+---
+
+## 👥 Cast of Characters
+| 👥 Elenco de Personagens | 👥 Cast of Characters |
+|--------------------------|-----------------------|
+| **PCs:** Não especificado | **PCs:** Not specified |
+| **NPCs:** Mago (guia da bússola) | **NPCs:** Wizard (compass guide) |
+
+---
+
+## 💰 Rewards & Loot
+| 💰 Recompensas & Tesouro | 💰 Rewards & Loot |
+|--------------------------|-------------------|
+| - Nenhum | - None |
+
+---
+
+## 🧭 Aftermath & Hooks
+| 🧭 Consequências & Ganchos | 🧭 Aftermath & Hooks |
+|----------------------------|----------------------|
+| As gravuras sugerem uma ligação a forças extraplanares; pistas futuras para investigações maiores. | The carvings suggest a link to extraplanar forces; foreshadow future investigations. |
+
+---
+
+**[DM-ONLY – Não incluir na Wiki]**
+
+| Categoria | Category |
+|-----------|----------|
+| **Notas de Preparação:** Sessão curta e investigativa. | **Prep Notes:** Short, investigative session. |
+| **Segredos de NPCs:** O mago sabe mais do que revela. | **NPC Secrets:** The wizard knows more than he lets on. |
+| **Ganchos Futuros:** Associar símbolos aos cultos futuros. | **Future Hooks:** Connect carvings to future cult plots. |
+| **Reviravoltas / Plot Twists:** Gravuras podem ser mapa para nave illithid. | **Plot Twists:** Carvings may be a map to illithid vessel. |
+| **Notas de Emergência:** Caso jogadores não investiguem, compass falha. | **Contingencies:** If players ignore clues, compass fails. |
+
+**[DM-ONLY – Não incluir na Wiki]**
+
+
+---
+
+
+<!-- ==== mission_05_vale_do_vento_sombrio_dragao.md ==== -->
+
+# # Mission 05 – Vale do Vento Sombrio: O Dragão e o Altar / Darkwind Vale: The Dragon and the Altar (8 de Ready’reat, 998 CY)
+
+---
+
+## 🗓 Timeline
+| 🗓 Linha Temporal | 🗓 Timeline |
+|-------------------|------------|
+| **Semana:** 04 | **Week:** 04 |
+| **Data:** 2025-01-23 | **Date:** 2025-01-23 |
+| **Data Greyhawk:** 8 de Ready’reat, 998 CY | **Greyhawk Date:** 8th of Ready’reat, 998 CY |
+| **Sessão:** S04B | **Session:** S04B |
+| **Nome:** Retorno ao Vale do Vento Sombrio | **Title:** Return to Darkwind Vale |
+
+---
+
+## 📖 Overview
+| 📖 Visão Geral | 📖 Overview |
+|----------------|------------|
+| O taberneiro revela capacidades telepáticas do fungo. O grupo regressa ao Vale do Vento Sombrio, encontra cultistas kobolds e Syzzin, o jovem dragão vermelho, hostil ao culto. Descobrem altar de Wee Jas corrompido. | The innkeeper reveals the fungus grants telepathic abilities. The group returns to Darkwind Vale, encountering kobold cultists and Syzzin, a young red dragon hostile to the cult. They discover a corrupted altar of Wee Jas. |
+
+---
+
+## 🎲 Key Events
+| 🎲 Eventos Principais | 🎲 Key Events |
+|-----------------------|--------------|
+| - **Cena 1:** Retorno ao vale; sonho de Grix com Titania. | - **Scene 1:** Return to the vale; Grix dreams of Titania. |
+| - **Cena 2:** Conflito entre kobolds e cultistas. | - **Scene 2:** Conflict between kobolds and cultists. |
+| - **Cena 3:** Encontro com Syzzin; Markus é enfeitiçado. | - **Scene 3:** Encounter with Syzzin; Markus is charmed. |
+| - **Cena 4:** Descoberta de altar corrompido de Wee Jas. | - **Scene 4:** Discovery of corrupted altar of Wee Jas. |
+| - **Epílogo:** Floresta recupera, mas altar permanece sombrio. | - **Epilogue:** Forest recovers, altar remains tainted. |
+
+---
+
+## 👥 Cast of Characters
+| 👥 Elenco de Personagens | 👥 Cast of Characters |
+|--------------------------|-----------------------|
+| **PCs:** Triss, Markus, Conan, Vaunia, Dustin, Grix | **PCs:** Triss, Markus, Conan, Vaunia, Dustin, Grix |
+| **NPCs:** Syzzin (dragão), Clipse (kobold), Rix (kobold), kobolds cultistas | **NPCs:** Syzzin (dragon), Clipse (kobold), Rix (kobold), kobold cultists |
+
+---
+
+## 💰 Rewards & Loot
+| 💰 Recompensas & Tesouro | 💰 Rewards & Loot |
+|--------------------------|-------------------|
+| - 234 PO | - 234 GP |
+| - Pergaminho de Alarme | - Alarm scroll |
+| - Pergaminho de Compreender Linguagens | - Comprehend Languages scroll |
+| - Capas e loot de cultistas | - Cloaks and cultist loot |
+| - Possível rubi ou esmeralda | - Possible ruby or emerald |
+
+---
+
+## 🧭 Aftermath & Hooks
+| 🧭 Consequências & Ganchos | 🧭 Aftermath & Hooks |
+|----------------------------|----------------------|
+| A floresta melhora, mas a presença de Wee Jas continua a assombrar o altar. O dragão Syzzin torna-se figura importante. | The forest improves, but Wee Jas’ presence still haunts the altar. Syzzin becomes an important figure. |
+
+---
+
+**[DM-ONLY – Não incluir na Wiki]**
+
+| Categoria | Category |
+|-----------|----------|
+| **Notas de Preparação:** Destacar telepatia entre PCs. | **Prep Notes:** Highlight telepathy among PCs. |
+| **Segredos de NPCs:** Syzzin vê PCs como peões úteis contra cultistas. | **NPC Secrets:** Syzzin sees PCs as pawns against cultists. |
+| **Ganchos Futuros:** Altar liga-se a guildas em Greyhawk. | **Future Hooks:** Altar ties into Greyhawk guilds. |
+| **Reviravoltas / Plot Twists:** Altar pode abrir portais a fiends. | **Plot Twists:** Altar may open portals to fiends. |
+| **Notas de Emergência:** Caso PCs destruam altar, Syzzin intervém. | **Contingencies:** If altar is destroyed, Syzzin intervenes. |
+
+**[DM-ONLY – Não incluir na Wiki]**
+
+---
+
+
+<!-- ==== mission_06_two_fords_doenca.md ==== -->
+
+# Mission 06 – A Doença em Two Fords / The Sickness in Two Fords (20 de Ready’reat, 998 CY)
+
+---
+
+## 🗓 Timeline
+| 🗓 Linha Temporal | 🗓 Timeline |
+|-------------------|------------|
+| **Semana:** 05 | **Week:** 05 |
+| **Data:** 2025-01-29 | **Date:** 2025-01-29 |
+| **Data Greyhawk:** 20 de Ready’reat, 998 CY | **Greyhawk Date:** 20th of Ready’reat, 998 CY |
+| **Sessão:** S05A | **Session:** S05A |
+| **Nome:** Doença em Two Fords (Moinho Bioluminescente) | **Title:** Sickness in Two Fords (Bioluminescent Mill) |
+
+---
+
+## 📖 Overview
+| 📖 Visão Geral | 📖 Overview |
+|----------------|------------|
+| Grupo investiga Two Fords após rumores de doença. Descobrem ligação com a água do rio e encontram moinho abandonado tomado por fungos e cultistas do Mal Elemental. | The group investigates Two Fords after rumors of sickness. They discover a link to the river water and find an abandoned mill infested with fungus and Elemental Evil cultists. |
+
+---
+
+## 🎲 Key Events
+| 🎲 Eventos Principais | 🎲 Key Events |
+|-----------------------|--------------|
+| - **Cena 1:** Chegada a Two Fords; aldeões doentes. | - **Scene 1:** Arrival at Two Fords; sick villagers. |
+| - **Cena 2:** Descoberta da ligação à água do rio. | - **Scene 2:** Discovery of river water link. |
+| - **Cena 3:** Exploração do moinho bioluminescente. | - **Scene 3:** Exploration of bioluminescent mill. |
+| - **Cena 4:** Confronto com cultistas e fauna corrompida. | - **Scene 4:** Confrontation with cultists and corrupted fauna. |
+| - **Epílogo:** Cristal corrompido levado para análise; esperança de cura. | - **Epilogue:** Corrupted crystal retrieved for analysis; hope for cure. |
+
+---
+
+## 👥 Cast of Characters
+| 👥 Elenco de Personagens | 👥 Cast of Characters |
+|--------------------------|-----------------------|
+| **PCs:** Orianna, Arkos, Lone, Wandering, Endor, Gau | **PCs:** Orianna, Arkos, Lone, Wandering, Endor, Gau |
+| **NPCs:** Kaldros, Geralt (taberneiro), cultistas, fauna corrompida | **NPCs:** Kaldros, Geralt (innkeeper), cultists, corrupted fauna |
+
+---
+
+## 💰 Rewards & Loot
+| 💰 Recompensas & Tesouro | 💰 Rewards & Loot |
+|--------------------------|-------------------|
+| - Gemas (10 PO/cultista) | - Gems (10 GP/cultist) |
+| - Poção de cura | - Healing potion |
+| - Cristal elemental corrompido | - Corrupted elemental crystal |
+| - Armas e notas de cultistas | - Cultist weapons and notes |
+
+---
+
+## 🧭 Aftermath & Hooks
+| 🧭 Consequências & Ganchos | 🧭 Aftermath & Hooks |
+|----------------------------|----------------------|
+| Grupo ganha fama em Two Fords; pistas de que o culto planeia espalhar contaminação por outros rios. | Group gains fame in Two Fords; clues that cult plans to spread contamination to other rivers. |
+
+---
+
+**[DM-ONLY – Não incluir na Wiki]**
+
+| Categoria | Category |
+|-----------|----------|
+| **Notas de Preparação:** Vila doente como ponto de empatia. | **Prep Notes:** Sick village as empathy hook. |
+| **Segredos de NPCs:** Geralt teme pela filha; ligação pessoal ao enredo. | **NPC Secrets:** Geralt fears for daughter; personal tie to plot. |
+| **Ganchos Futuros:** Culto prepara ataques a Greyhawk. | **Future Hooks:** Cult preparing attacks on Greyhawk. |
+| **Reviravoltas / Plot Twists:** Cristal pode ser usado como arma. | **Plot Twists:** Crystal can be weaponized. |
+| **Notas de Emergência:** Caso falhem, epidemia alastra a vilas vizinhas. | **Contingencies:** If party fails, epidemic spreads to nearby villages. |
+
+**[DM-ONLY – Não incluir na Wiki]**
+---
+
+
+<!-- ==== mission_07_intrigas_em_erybend.md ==== -->
+
+# # Mission 07 – Intrigas em Erybend / Intrigue in Erybend (27 de Ready’reat, 998 CY)
+
+---
+
+## 🗓 Timeline
+| 🗓 Linha Temporal | 🗓 Timeline |
+|-------------------|------------|
+| **Semana:** 07 | **Week:** 07 |
+| **Data:** 2025-02-13 | **Date:** 2025-02-13 |
+| **Data Greyhawk:** 27 de Ready’reat, 998 CY | **Greyhawk Date:** 27th of Ready’reat, 998 CY |
+| **Sessão:** S07A | **Session:** S07A |
+| **Nome:** Contactos Comerciais em Erybend (Bilhete do Baile) | **Title:** Trade Contacts in Erybend (Ball Invitation) |
+
+---
+
+## 📖 Overview
+| 📖 Visão Geral | 📖 Overview |
+|----------------|------------|
+| O grupo viaja até Erybend em busca de alianças comerciais e acaba por se envolver em intrigas políticas. Recebem um bilhete misterioso para o Baile dos High Fae, ligando negócios mortais a festas élficas. | The group travels to Erybend seeking trade alliances and becomes entangled in political intrigue. They receive a mysterious invitation to the High Fae Ball, linking mortal business with elven festivities. |
+
+---
+
+## 🎲 Key Events
+| 🎲 Eventos Principais | 🎲 Key Events |
+|-----------------------|--------------|
+| - **Cena 1:** Reunião com comerciantes locais. | - **Scene 1:** Meeting with local merchants. |
+| - **Cena 2:** Descoberta de tensões entre guildas rivais. | - **Scene 2:** Discovery of tensions between rival guilds. |
+| - **Cena 3:** Recebem convite secreto para o Baile dos High Fae. | - **Scene 3:** They receive a secret invitation to the High Fae Ball. |
+
+---
+
+## 👥 Cast of Characters
+| 👥 Elenco de Personagens | 👥 Cast of Characters |
+|--------------------------|-----------------------|
+| **PCs:** [por confirmar] | **PCs:** [to be confirmed] |
+| **NPCs:** Comerciantes de Erybend, emissários élficos | **NPCs:** Erybend merchants, elven envoys |
+
+---
+
+## 💰 Rewards & Loot
+| 💰 Recompensas & Tesouro | 💰 Rewards & Loot |
+|--------------------------|-------------------|
+| - Convite para o Baile dos High Fae | - Invitation to the High Fae Ball |
+
+---
+
+## 🧭 Aftermath & Hooks
+| 🧭 Consequências & Ganchos | 🧭 Aftermath & Hooks |
+|----------------------------|----------------------|
+| O convite liga diretamente a corte dos High Fae; intrigas de guildas podem afetar Greyhawk. | The invitation ties directly to the High Fae court; guild intrigues may affect Greyhawk. |
+
+---
+
+**[DM-ONLY – Não incluir na Wiki]**
+
+| Categoria | Category |
+|-----------|----------|
+| **Notas de Preparação:** Construir tensão política e social. | **Prep Notes:** Build political and social tension. |
+| **Segredos de NPCs:** Guildas de Erybend infiltradas por cultistas. | **NPC Secrets:** Erybend guilds infiltrated by cultists. |
+| **Ganchos Futuros:** O convite abre caminho para Missão 10 (Baile). | **Future Hooks:** Invitation leads to Mission 10 (Ball). |
+| **Reviravoltas / Plot Twists:** Convite pode ser armadilha. | **Plot Twists:** Invitation may be a trap. |
+| **Notas de Emergência:** Caso PCs recusem, emissário insiste. | **Contingencies:** If PCs refuse, envoy insists. |
+
+**[DM-ONLY – Não incluir na Wiki]**
+
+---
+
+
+<!-- ==== mission_08_bullywugs_e_as_tres_pedras.md ==== -->
+
+
+# Mission 08 – Bullywugs e as Três Pedras / Bullywugs and the Three Stones (27 de Ready’reat, 998 CY)
+
+---
+
+## 🗓 Timeline
+| 🗓 Linha Temporal | 🗓 Timeline |
+|-------------------|------------|
+| **Semana:** 07B | **Week:** 07B |
+| **Data:** 2025-02-13 | **Date:** 2025-02-13 |
+| **Data Greyhawk:** 27 de Ready’reat, 998 CY | **Greyhawk Date:** 27th of Ready’reat, 998 CY |
+| **Sessão:** S07B | **Session:** S07B |
+| **Nome:** Bullywugs e as Três Pedras | **Title:** Bullywugs and the Three Stones |
+
+---
+
+## 📖 Overview
+| 📖 Visão Geral | 📖 Overview |
+|----------------|------------|
+| Na região pantanosa próxima, bullywugs iniciam um ritual sombrio junto às Três Pedras. O grupo intervém, descobrindo que o ritual está ligado ao culto do Mal Elemental e a forças faéricas. | In the nearby swamp, bullywugs conduct a dark ritual at the Three Stones. The party intervenes, discovering the ritual is tied to the Cult of Elemental Evil and fae forces. |
+
+---
+
+## 🎲 Key Events
+| 🎲 Eventos Principais | 🎲 Key Events |
+|-----------------------|--------------|
+| - **Cena 1:** Chegada ao pântano. | - **Scene 1:** Arrival at swamp. |
+| - **Cena 2:** Confronto com bullywugs guardando o círculo. | - **Scene 2:** Confrontation with bullywugs guarding the circle. |
+| - **Cena 3:** Ritual quase concluído; PCs interrompem. | - **Scene 3:** Ritual nearly completed; PCs interrupt. |
+
+---
+
+## 👥 Cast of Characters
+| 👥 Elenco de Personagens | 👥 Cast of Characters |
+|--------------------------|-----------------------|
+| **PCs:** [por confirmar] | **PCs:** [to be confirmed] |
+| **NPCs:** Bullywugs, sacerdote do ritual | **NPCs:** Bullywugs, ritual priest |
+
+---
+
+## 💰 Rewards & Loot
+| 💰 Recompensas & Tesouro | 💰 Rewards & Loot |
+|--------------------------|-------------------|
+| - Relíquias recuperadas das pedras | - Relics recovered from stones |
+| - Poções e componentes rituais | - Potions and ritual components |
+
+---
+
+## 🧭 Aftermath & Hooks
+| 🧭 Consequências & Ganchos | 🧭 Aftermath & Hooks |
+|----------------------------|----------------------|
+| O ritual interrompido enfraquece a influência do culto, mas ecoa no plano feérico. | The interrupted ritual weakens the cult’s influence but resonates in the fae plane. |
+
+---
+
+**[DM-ONLY – Não incluir na Wiki]**
+
+| Categoria | Category |
+|-----------|----------|
+| **Notas de Preparação:** Clima sombrio e chuvoso. | **Prep Notes:** Dark and rainy atmosphere. |
+| **Segredos de NPCs:** As Três Pedras são foco planar. | **NPC Secrets:** The Three Stones are a planar focus. |
+| **Ganchos Futuros:** Conexão direta ao Baile dos High Fae. | **Future Hooks:** Direct link to High Fae Ball. |
+| **Reviravoltas / Plot Twists:** Ritual podia invocar criatura feérica. | **Plot Twists:** Ritual could summon fae creature. |
+| **Notas de Emergência:** Caso PCs falhem, criatura atravessa portal. | **Contingencies:** If party fails, creature crosses portal. |
+
+**[DM-ONLY – Não incluir na Wiki]**
+
+---
+
+
+<!-- ==== mission_09_intrigas_em_eribend.md ==== -->
+
+# Mission 09 – Intrigas em Eribend / Intrigues in Eribend (20 de Ready’reat, 998 CY)
+
+---
+
+## 🗓 Timeline
+| 🗓 Linha Temporal | 🗓 Timeline |
+|-------------------|------------|
+| **Semana:** 08 | **Week:** 08 |
+| **Data:** 2025-02-20 | **Date:** 2025-02-20 |
+| **Data Greyhawk:** 20 de Ready’reat, 998 CY | **Greyhawk Date:** 20th of Ready’reat, 998 CY |
+| **Sessão:** S08 | **Session:** S08 |
+| **Nome:** Intrigas em Eribend (Odrak) | **Title:** Intrigues in Eribend (Odrak) |
+
+---
+
+## 📖 Overview
+| 📖 Visão Geral | 📖 Overview |
+|----------------|------------|
+| O grupo chega a Eribend, onde tensões políticas e sociais se intensificam. Odrak, um personagem enigmático, surge como potencial aliado ou inimigo. | The group arrives in Eribend, where political and social tensions are escalating. Odrak, an enigmatic figure, emerges as a potential ally or foe. |
+
+---
+
+## 🎲 Key Events
+| 🎲 Eventos Principais | 🎲 Key Events |
+|-----------------------|--------------|
+| - **Cena 1:** Encontros com representantes de guildas. | - **Scene 1:** Meetings with guild representatives. |
+| - **Cena 2:** Odrak entra em cena, revelando segredos obscuros. | - **Scene 2:** Odrak enters, revealing dark secrets. |
+| - **Cena 3:** PCs devem escolher quem apoiar. | - **Scene 3:** PCs must choose whom to support. |
+
+---
+
+## 👥 Cast of Characters
+| 👥 Elenco de Personagens | 👥 Cast of Characters |
+|--------------------------|-----------------------|
+| **PCs:** [por confirmar] | **PCs:** [to be confirmed] |
+| **NPCs:** Odrak, líderes de guilda | **NPCs:** Odrak, guild leaders |
+
+---
+
+## 💰 Rewards & Loot
+| 💰 Recompensas & Tesouro | 💰 Rewards & Loot |
+|--------------------------|-------------------|
+| - Ouro de guildas | - Guild gold |
+| - Informações secretas | - Secret information |
+
+---
+
+## 🧭 Aftermath & Hooks
+| 🧭 Consequências & Ganchos | 🧭 Aftermath & Hooks |
+|----------------------------|----------------------|
+| Escolhas feitas em Eribend afetam futuras alianças em Greyhawk. | Choices made in Eribend affect future alliances in Greyhawk. |
+
+---
+
+**[DM-ONLY – Não incluir na Wiki]**
+
+| Categoria | Category |
+|-----------|----------|
+| **Notas de Preparação:** Foco em roleplay e diplomacia. | **Prep Notes:** Focus on roleplay and diplomacy. |
+| **Segredos de NPCs:** Odrak pode estar ligado aos cultos elementais. | **NPC Secrets:** Odrak may be linked to elemental cults. |
+| **Ganchos Futuros:** Ligações a Greyhawk City. | **Future Hooks:** Ties to Greyhawk City. |
+| **Reviravoltas / Plot Twists:** Odrak manipula PCs para benefício próprio. | **Plot Twists:** Odrak manipulates PCs for personal gain. |
+| **Notas de Emergência:** Caso PCs recusem interagir, Odrak persegue-os. | **Contingencies:** If PCs refuse to engage, Odrak pursues them. |
+
+**[DM-ONLY – Não incluir na Wiki]**
+
+---
+
+
+<!-- ==== mission_10_baile_dos_high_fae.md ==== -->
+
+# Mission 10 – O Baile dos High Fae / The High Fae Ball (1 de Sunsebb, 998 CY)
+
+---
+
+## 🗓 Timeline
+| 🗓 Linha Temporal | 🗓 Timeline |
+|-------------------|------------|
+| **Semana:** 09 | **Week:** 09 |
+| **Data:** 2025-02-27 | **Date:** 2025-02-27 |
+| **Data Greyhawk:** 1 de Sunsebb, 998 CY | **Greyhawk Date:** 1st of Sunsebb, 998 CY |
+| **Sessão:** S09 | **Session:** S09 |
+| **Nome:** O Baile dos High Fae | **Title:** The High Fae Ball |
+
+---
+
+## 📖 Overview
+| 📖 Visão Geral | 📖 Overview |
+|----------------|------------|
+| O grupo participa no mítico Baile dos High Fae, onde alianças e intrigas moldam a política feérica. O ambiente é mágico e perigoso, com promessas veladas e provas de confiança. | The party attends the mythical High Fae Ball, where alliances and intrigues shape fae politics. The atmosphere is magical and dangerous, with veiled promises and tests of trust. |
+
+---
+
+## 🎲 Key Events
+| 🎲 Eventos Principais | 🎲 Key Events |
+|-----------------------|--------------|
+| - **Cena 1:** Chegada ao salão encantado. | - **Scene 1:** Arrival at enchanted hall. |
+| - **Cena 2:** Danças e encontros com nobres feéricos. | - **Scene 2:** Dances and meetings with fae nobles. |
+| - **Cena 3:** Provas de lealdade e negociações perigosas. | - **Scene 3:** Trials of loyalty and dangerous bargains. |
+| - **Epílogo:** Convite para alianças futuras. | - **Epilogue:** Invitation to future alliances. |
+
+---
+
+## 👥 Cast of Characters
+| 👥 Elenco de Personagens | 👥 Cast of Characters |
+|--------------------------|-----------------------|
+| **PCs:** [por confirmar] | **PCs:** [to be confirmed] |
+| **NPCs:** Nobres feéricos, Titania, emissários do Inverno | **NPCs:** Fae nobles, Titania, Winter emissaries |
+
+---
+
+## 💰 Rewards & Loot
+| 💰 Recompensas & Tesouro | 💰 Rewards & Loot |
+|--------------------------|-------------------|
+| - Presentes feéricos | - Fae gifts |
+| - Favor de Titania | - Titania’s favor |
+
+---
+
+## 🧭 Aftermath & Hooks
+| 🧭 Consequências & Ganchos | 🧭 Aftermath & Hooks |
+|----------------------------|----------------------|
+| O baile abre portas para intrigas mais profundas entre cortes feéricas. | The ball opens doors to deeper intrigues between fae courts. |
+
+---
+
+**[DM-ONLY – Não incluir na Wiki]**
+
+| Categoria | Category |
+|-----------|----------|
+| **Notas de Preparação:** Criar ambiente etéreo e surreal. | **Prep Notes:** Create ethereal, surreal atmosphere. |
+| **Segredos de NPCs:** Titania testa lealdade dos PCs. | **NPC Secrets:** Titania tests party’s loyalty. |
+| **Ganchos Futuros:** Conflito entre Cortes do Inverno e do Verão. | **Future Hooks:** Conflict between Winter and Summer Courts. |
+| **Reviravoltas / Plot Twists:** Convite pode aprisionar PCs em obrigações feéricas. | **Plot Twists:** Invitation may bind PCs to fae obligations. |
+| **Notas de Emergência:** Caso falhem, exílio temporário do plano feérico. | **Contingencies:** If they fail, temporary exile from fae plane. |
+
+**[DM-ONLY – Não incluir na Wiki]**
+
+---
+
+
+<!-- ==== mission_11_batalha_em_two_fords.md ==== -->
+
+# Mission 11 – Batalha em Two Fords / Battle at Two Fords (7 de Sunsebb, 998 CY)
+
+---
+
+## 🗓 Timeline
+| 🗓 Linha Temporal | 🗓 Timeline |
+|-------------------|------------|
+| **Semana:** 10 | **Week:** 10 |
+| **Data:** 2025-03-06 | **Date:** 2025-03-06 |
+| **Data Greyhawk:** 7 de Sunsebb, 998 CY | **Greyhawk Date:** 7th of Sunsebb, 998 CY |
+| **Sessão:** S10 | **Session:** S10 |
+| **Nome:** A Batalha em Two Fords | **Title:** The Battle at Two Fords |
+
+---
+
+## 📖 Overview
+| 📖 Visão Geral | 📖 Overview |
+|----------------|------------|
+| O grupo regressa a Two Fords, agora sitiada por forças cultistas e criaturas corrompidas. Uma batalha campal decide o destino da vila. | The group returns to Two Fords, now under siege by cult forces and corrupted creatures. A pitched battle decides the village’s fate. |
+
+---
+
+## 🎲 Key Events
+| 🎲 Eventos Principais | 🎲 Key Events |
+|-----------------------|--------------|
+| - **Cena 1:** Chegada e preparação para defesa. | - **Scene 1:** Arrival and preparation for defense. |
+| - **Cena 2:** Ataques em ondas; cultistas e aberrações. | - **Scene 2:** Wave attacks; cultists and aberrations. |
+| - **Cena 3:** Clímax com líder cultista. | - **Scene 3:** Climax against cult leader. |
+| - **Epílogo:** Vila salva (ou arrasada). | - **Epilogue:** Village saved (or ruined). |
+
+---
+
+## 👥 Cast of Characters
+| 👥 Elenco de Personagens | 👥 Cast of Characters |
+|--------------------------|-----------------------|
+| **PCs:** [por confirmar] | **PCs:** [to be confirmed] |
+| **NPCs:** Aldeões, Geralt, líder cultista | **NPCs:** Villagers, Geralt, cult leader |
+
+---
+
+## 💰 Rewards & Loot
+| 💰 Recompensas & Tesouro | 💰 Rewards & Loot |
+|--------------------------|-------------------|
+| - Ouro oferecido pelos aldeões | - Gold offered by villagers |
+| - Armas dos cultistas | - Cultist weapons |
+| - Artefato menor recuperado | - Minor recovered artifact |
+
+---
+
+## 🧭 Aftermath & Hooks
+| 🧭 Consequências & Ganchos | 🧭 Aftermath & Hooks |
+|----------------------------|----------------------|
+| Two Fords sobrevive, mas com cicatrizes profundas. | Two Fords survives, but with deep scars. |
+
+---
+
+**[DM-ONLY – Não incluir na Wiki]**
+
+| Categoria | Category |
+|-----------|----------|
+| **Notas de Preparação:** Construir combate de cerco dinâmico. | **Prep Notes:** Build dynamic siege combat. |
+| **Segredos de NPCs:** Geralt ligado ao culto contra vontade. | **NPC Secrets:** Geralt tied to cult unwillingly. |
+| **Ganchos Futuros:** Expansão do culto para outras aldeias. | **Future Hooks:** Cult spreads to other villages. |
+| **Reviravoltas / Plot Twists:** Cultista líder é manipulado por figura maior. | **Plot Twists:** Cult leader manipulated by greater figure. |
+| **Notas de Emergência:** Caso PCs falhem, exílio forçado de Two Fords. | **Contingencies:** If PCs fail, forced exile from Two Fords. |
+
+**[DM-ONLY – Não incluir na Wiki]**
+
+---
+
+
+<!-- ==== mission_12_ruinas_dos_elfos_negros.md ==== -->
+
+# Mission 12 – Ruínas dos Elfos Negros / Ruins of the Dark Elves (14 de Sunsebb, 998 CY)
+
+---
+
+## 🗓 Timeline
+| 🗓 Linha Temporal | 🗓 Timeline |
+|-------------------|------------|
+| **Semana:** 11 | **Week:** 11 |
+| **Data:** 2025-03-13 | **Date:** 2025-03-13 |
+| **Data Greyhawk:** 14 de Sunsebb, 998 CY | **Greyhawk Date:** 14th of Sunsebb, 998 CY |
+| **Sessão:** S11 | **Session:** S11 |
+| **Nome:** Ruínas dos Elfos Negros | **Title:** Ruins of the Dark Elves |
+
+---
+
+## 📖 Overview
+| 📖 Visão Geral | 📖 Overview |
+|----------------|------------|
+| O grupo explora antigas ruínas drow, descobrindo segredos sombrios e artefatos perdidos. A corrupção do culto já deixou marcas profundas no local. | The group explores ancient drow ruins, uncovering dark secrets and lost artifacts. The cult’s corruption has already scarred the site. |
+
+---
+
+## 🎲 Key Events
+| 🎲 Eventos Principais | 🎲 Key Events |
+|-----------------------|--------------|
+| - **Cena 1:** Entrada nas ruínas subterrâneas. | - **Scene 1:** Entry into subterranean ruins. |
+| - **Cena 2:** Encontros com fauna e armadilhas antigas. | - **Scene 2:** Encounters with ancient fauna and traps. |
+| - **Cena 3:** Confronto com drow cultistas. | - **Scene 3:** Confrontation with drow cultists. |
+| - **Epílogo:** Artefato recuperado; revelação de segredos. | - **Epilogue:** Artifact recovered; secrets revealed. |
+
+---
+
+## 👥 Cast of Characters
+| 👥 Elenco de Personagens | 👥 Cast of Characters |
+|--------------------------|-----------------------|
+| **PCs:** [por confirmar] | **PCs:** [to be confirmed] |
+| **NPCs:** Drow cultistas, guardiões das ruínas | **NPCs:** Drow cultists, ruin guardians |
+
+---
+
+## 💰 Rewards & Loot
+| 💰 Recompensas & Tesouro | 💰 Rewards & Loot |
+|--------------------------|-------------------|
+| - Artefato sombrio | - Shadow artifact |
+| - Poções antigas | - Ancient potions |
+| - Ouro dos drow | - Drow gold |
+
+---
+
+## 🧭 Aftermath & Hooks
+| 🧭 Consequências & Ganchos | 🧭 Aftermath & Hooks |
+|----------------------------|----------------------|
+| Descobertas feitas nas ruínas apontam para tramas maiores envolvendo os cultos. | Discoveries in ruins point to larger cult plots. |
+
+---
+
+**[DM-ONLY – Não incluir na Wiki]**
+
+| Categoria | Category |
+|-----------|----------|
+| **Notas de Preparação:** Atmosfera opressiva e sombria. | **Prep Notes:** Oppressive, dark atmosphere. |
+| **Segredos de NPCs:** Alguns drow não são leais ao culto. | **NPC Secrets:** Some drow not loyal to cult. |
+| **Ganchos Futuros:** Expandir ligação com Underdark. | **Future Hooks:** Expand connection with Underdark. |
+| **Reviravoltas / Plot Twists:** Artefato pode ser chave para portal. | **Plot Twists:** Artifact may be key to portal. |
+| **Notas de Emergência:** Caso PCs recuem, ruínas colapsam. | **Contingencies:** If PCs retreat, ruins collapse. |
+
+**[DM-ONLY – Não incluir na Wiki]**
+
+---
+
+
+<!-- ==== mission_13_conspiracao_em_blackfair.md ==== -->
+
+# Mission 13 – Conspiração em Blackfair / Conspiracy in Blackfair (21 de Sunsebb, 998 CY)
+
+---
+
+## 🗓 Timeline
+| 🗓 Linha Temporal | 🗓 Timeline |
+|-------------------|------------|
+| **Semana:** 12 | **Week:** 12 |
+| **Data:** 2025-03-20 | **Date:** 2025-03-20 |
+| **Data Greyhawk:** 21 de Sunsebb, 998 CY | **Greyhawk Date:** 21st of Sunsebb, 998 CY |
+| **Sessão:** S12 | **Session:** S12 |
+| **Nome:** Conspiração em Blackfair | **Title:** Conspiracy in Blackfair |
+
+---
+
+## 📖 Overview
+| 📖 Visão Geral | 📖 Overview |
+|----------------|------------|
+| O grupo descobre que Blackfair é palco de uma conspiração envolvendo nobres locais e o culto do Mal Elemental. Festas, encontros secretos e chantagens expõem uma teia de corrupção. | The group learns that Blackfair is the stage for a conspiracy involving local nobles and the Cult of Elemental Evil. Parties, secret meetings, and blackmail expose a web of corruption. |
+
+---
+
+## 🎲 Key Events
+| 🎲 Eventos Principais | 🎲 Key Events |
+|-----------------------|--------------|
+| - **Cena 1:** Investigação inicial em Blackfair. | - **Scene 1:** Initial investigation in Blackfair. |
+| - **Cena 2:** Descoberta de reuniões secretas em mansões. | - **Scene 2:** Discovery of secret meetings in mansions. |
+| - **Cena 3:** Enfrentam cultistas disfarçados de guardas. | - **Scene 3:** Fight cultists disguised as guards. |
+| - **Epílogo:** Descoberta de um manifesto cultista. | - **Epilogue:** Discovery of cultist manifesto. |
+
+---
+
+## 👥 Cast of Characters
+| 👥 Elenco de Personagens | 👥 Cast of Characters |
+|--------------------------|-----------------------|
+| **PCs:** [por confirmar] | **PCs:** [to be confirmed] |
+| **NPCs:** Nobres de Blackfair, cultistas infiltrados | **NPCs:** Blackfair nobles, infiltrated cultists |
+
+---
+
+## 💰 Rewards & Loot
+| 💰 Recompensas & Tesouro | 💰 Rewards & Loot |
+|--------------------------|-------------------|
+| - Manuscritos incriminatórios | - Incriminating manuscripts |
+| - Ouro roubado das guildas | - Stolen guild gold |
+
+---
+
+## 🧭 Aftermath & Hooks
+| 🧭 Consequências & Ganchos | 🧭 Aftermath & Hooks |
+|----------------------------|----------------------|
+| Blackfair torna-se foco de vigilância; PCs ganham inimigos poderosos. | Blackfair becomes a focus of surveillance; PCs gain powerful enemies. |
+
+---
+
+**[DM-ONLY – Não incluir na Wiki]**
+
+| Categoria | Category |
+|-----------|----------|
+| **Notas de Preparação:** Criar atmosfera de intriga. | **Prep Notes:** Create intrigue-heavy atmosphere. |
+| **Segredos de NPCs:** Um nobre é líder cultista em segredo. | **NPC Secrets:** A noble is secretly a cult leader. |
+| **Ganchos Futuros:** Blackfair Manor liga-se às Montanhas Cairn. | **Future Hooks:** Blackfair Manor ties to Cairn Mountains. |
+| **Reviravoltas / Plot Twists:** Nobres manipulam PCs para destruir rivais. | **Plot Twists:** Nobles manipulate PCs to destroy rivals. |
+| **Notas de Emergência:** Caso PCs falhem, são incriminados. | **Contingencies:** If PCs fail, they are incriminated. |
+
+**[DM-ONLY – Não incluir na Wiki]**
+
+---
+
+
+<!-- ==== mission_14_os_mercadores_sombrios.md ==== -->
+
+
+# # Mission 14 – Os Mercadores Sombrios / The Shadow Merchants (28 de Sunsebb, 998 CY)
+
+---
+
+## 🗓 Timeline
+| 🗓 Linha Temporal | 🗓 Timeline |
+|-------------------|------------|
+| **Semana:** 13 | **Week:** 13 |
+| **Data:** 2025-03-27 | **Date:** 2025-03-27 |
+| **Data Greyhawk:** 28 de Sunsebb, 998 CY | **Greyhawk Date:** 28th of Sunsebb, 998 CY |
+| **Sessão:** S13 | **Session:** S13 |
+| **Nome:** Os Mercadores Sombrios | **Title:** The Shadow Merchants |
+
+---
+
+## 📖 Overview
+| 📖 Visão Geral | 📖 Overview |
+|----------------|------------|
+| Uma rede de mercadores clandestinos fornece recursos ao culto. O grupo infiltra-se no mercado negro e descobre transações proibidas envolvendo magia sombria. | A network of clandestine merchants supplies resources to the cult. The group infiltrates the black market and uncovers forbidden transactions involving dark magic. |
+
+---
+
+## 🎲 Key Events
+| 🎲 Eventos Principais | 🎲 Key Events |
+|-----------------------|--------------|
+| - **Cena 1:** Entrada no mercado negro. | - **Scene 1:** Entry into the black market. |
+| - **Cena 2:** Negociações com mercadores suspeitos. | - **Scene 2:** Negotiations with shady merchants. |
+| - **Cena 3:** Intervenção cultista durante a transação. | - **Scene 3:** Cultist intervention during the deal. |
+| - **Epílogo:** Ganham provas contra os Mercadores Sombrios. | - **Epilogue:** They gain evidence against the Shadow Merchants. |
+
+---
+
+## 👥 Cast of Characters
+| 👥 Elenco de Personagens | 👥 Cast of Characters |
+|--------------------------|-----------------------|
+| **PCs:** [por confirmar] | **PCs:** [to be confirmed] |
+| **NPCs:** Mercadores clandestinos, cultistas infiltrados | **NPCs:** Clandestine merchants, infiltrated cultists |
+
+---
+
+## 💰 Rewards & Loot
+| 💰 Recompensas & Tesouro | 💰 Rewards & Loot |
+|--------------------------|-------------------|
+| - Ouro e gemas do mercado negro | - Gold and gems from black market |
+| - Itens mágicos contrabandeados | - Smuggled magical items |
+
+---
+
+## 🧭 Aftermath & Hooks
+| 🧭 Consequências & Ganchos | 🧭 Aftermath & Hooks |
+|----------------------------|----------------------|
+| O mercado negro é enfraquecido, mas o culto continua ativo. | The black market is weakened, but the cult remains active. |
+
+---
+
+**[DM-ONLY – Não incluir na Wiki]**
+
+| Categoria | Category |
+|-----------|----------|
+| **Notas de Preparação:** Enfatizar corrupção e segredos. | **Prep Notes:** Emphasize corruption and secrets. |
+| **Segredos de NPCs:** Um mercador é espião de Greyhawk. | **NPC Secrets:** One merchant is a Greyhawk spy. |
+| **Ganchos Futuros:** Levar PCs até Greyhawk City. | **Future Hooks:** Lead PCs to Greyhawk City. |
+| **Reviravoltas / Plot Twists:** Mercado é fachada para guilda de assassinos. | **Plot Twists:** Market is front for assassin guild. |
+| **Notas de Emergência:** Caso PCs falhem, são caçados. | **Contingencies:** If PCs fail, they are hunted. |
+
+**[DM-ONLY – Não incluir na Wiki]**
+
+---
+
+# 
+
+```
+
+```
+
+<!-- ==== mission_15_a_biblioteca_proibida.md ==== -->
+
+# Mission 15 – A Biblioteca Proibida / The Forbidden Library (5 de Fireseek, 999 CY)
+
+---
+
+## 🗓 Timeline
+| 🗓 Linha Temporal | 🗓 Timeline |
+|-------------------|------------|
+| **Semana:** 14 | **Week:** 14 |
+| **Data:** 2025-04-03 | **Date:** 2025-04-03 |
+| **Data Greyhawk:** 5 de Fireseek, 999 CY | **Greyhawk Date:** 5th of Fireseek, 999 CY |
+| **Sessão:** S14 | **Session:** S14 |
+| **Nome:** A Biblioteca Proibida | **Title:** The Forbidden Library |
+
+---
+
+## 📖 Overview
+| 📖 Visão Geral | 📖 Overview |
+|----------------|------------|
+| O grupo descobre uma biblioteca oculta contendo tomos sobre magia proibida e o culto. A exploração leva a encontros com guardiões arcanos e a revelações perigosas. | The group discovers a hidden library containing tomes on forbidden magic and the cult. The exploration leads to encounters with arcane guardians and dangerous revelations. |
+
+---
+
+## 🎲 Key Events
+| 🎲 Eventos Principais | 🎲 Key Events |
+|-----------------------|--------------|
+| - **Cena 1:** Entrada na biblioteca secreta. | - **Scene 1:** Entry into the secret library. |
+| - **Cena 2:** Confronto com guardiões mágicos. | - **Scene 2:** Confrontation with magical guardians. |
+| - **Cena 3:** Descoberta de tomos proibidos. | - **Scene 3:** Discovery of forbidden tomes. |
+| - **Epílogo:** Revelações sobre planos cultistas. | - **Epilogue:** Revelations about cult plans. |
+
+---
+
+## 👥 Cast of Characters
+| 👥 Elenco de Personagens | 👥 Cast of Characters |
+|--------------------------|-----------------------|
+| **PCs:** [por confirmar] | **PCs:** [to be confirmed] |
+| **NPCs:** Guardiões arcanos, bibliotecário espectral | **NPCs:** Arcane guardians, spectral librarian |
+
+---
+
+## 💰 Rewards & Loot
+| 💰 Recompensas & Tesouro | 💰 Rewards & Loot |
+|--------------------------|-------------------|
+| - Tomos proibidos | - Forbidden tomes |
+| - Itens mágicos esquecidos | - Forgotten magical items |
+
+---
+
+## 🧭 Aftermath & Hooks
+| 🧭 Consequências & Ganchos | 🧭 Aftermath & Hooks |
+|----------------------------|----------------------|
+| A biblioteca aponta para rituais futuros que ameaçam Greyhawk. | The library points to future rituals threatening Greyhawk. |
+
+---
+
+**[DM-ONLY – Não incluir na Wiki]**
+
+| Categoria | Category |
+|-----------|----------|
+| **Notas de Preparação:** Enfatizar tom sombrio e proibido. | **Prep Notes:** Emphasize dark, forbidden tone. |
+| **Segredos de NPCs:** Bibliotecário serve Wee Jas. | **NPC Secrets:** Librarian serves Wee Jas. |
+| **Ganchos Futuros:** Rituais culminam em Greyhawk City. | **Future Hooks:** Rituals culminate in Greyhawk City. |
+| **Reviravoltas / Plot Twists:** Um tomo é falso, escrito para enganar. | **Plot Twists:** One tome is fake, written to mislead. |
+| **Notas de Emergência:** Caso PCs falhem, biblioteca desmorona. | **Contingencies:** If PCs fail, library collapses. |
+
+**[DM-ONLY – Não incluir na Wiki]**
+
+---
+
+
+<!-- ==== mission_16_os_assassinos_de_blackfair.md ==== -->
+
+# Mission 16 – Os Assassinos de Blackfair / The Assassins of Blackfair (12 de Fireseek, 999 CY)
+
+---
+
+## 🗓 Timeline
+| 🗓 Linha Temporal | 🗓 Timeline |
+|-------------------|------------|
+| **Semana:** 15 | **Week:** 15 |
+| **Data:** 2025-04-10 | **Date:** 2025-04-10 |
+| **Data Greyhawk:** 12 de Fireseek, 999 CY | **Greyhawk Date:** 12th of Fireseek, 999 CY |
+| **Sessão:** S15 | **Session:** S15 |
+| **Nome:** Os Assassinos de Blackfair | **Title:** The Assassins of Blackfair |
+
+---
+
+## 📖 Overview
+| 📖 Visão Geral | 📖 Overview |
+|----------------|------------|
+| Após revelações em Blackfair, o grupo descobre uma guilda de assassinos ligada ao culto. Os aventureiros são alvos diretos de emboscadas e perseguições. | After revelations in Blackfair, the group discovers an assassin guild linked to the cult. The adventurers become direct targets of ambushes and hunts. |
+
+---
+
+## 🎲 Key Events
+| 🎲 Eventos Principais | 🎲 Key Events |
+|-----------------------|--------------|
+| - **Cena 1:** Emboscada nas ruas de Blackfair. | - **Scene 1:** Ambush in Blackfair’s streets. |
+| - **Cena 2:** Descoberta de esconderijo dos assassinos. | - **Scene 2:** Discovery of assassins’ hideout. |
+| - **Cena 3:** Confronto com o líder da guilda. | - **Scene 3:** Confrontation with guild leader. |
+| - **Epílogo:** PCs limpam reputação. | - **Epilogue:** PCs clear their reputation. |
+
+---
+
+## 👥 Cast of Characters
+| 👥 Elenco de Personagens | 👥 Cast of Characters |
+|--------------------------|-----------------------|
+| **PCs:** [por confirmar] | **PCs:** [to be confirmed] |
+| **NPCs:** Assassinos, líder da guilda | **NPCs:** Assassins, guild leader |
+
+---
+
+## 💰 Rewards & Loot
+| 💰 Recompensas & Tesouro | 💰 Rewards & Loot |
+|--------------------------|-------------------|
+| - Armas envenenadas | - Poisoned weapons |
+| - Ouro roubado | - Stolen gold |
+| - Mapas de contratos | - Contract maps |
+
+---
+
+## 🧭 Aftermath & Hooks
+| 🧭 Consequências & Ganchos | 🧭 Aftermath & Hooks |
+|----------------------------|----------------------|
+| PCs eliminam uma ameaça imediata, mas descobrem contratos com nomes importantes. | PCs remove an immediate threat, but find contracts with important names. |
+
+---
+
+**[DM-ONLY – Não incluir na Wiki]**
+
+| Categoria | Category |
+|-----------|----------|
+| **Notas de Preparação:** Sessão de combate urbano. | **Prep Notes:** Urban combat session. |
+| **Segredos de NPCs:** Líder da guilda está ao serviço de uma figura cultista em Greyhawk. | **NPC Secrets:** Guild leader serves a cult figure in Greyhawk. |
+| **Ganchos Futuros:** Expansão da conspiração em Greyhawk City. | **Future Hooks:** Expands conspiracy into Greyhawk City. |
+| **Reviravoltas / Plot Twists:** Um assassino pode trair guilda e ajudar PCs. | **Plot Twists:** One assassin may betray guild and help PCs. |
+| **Notas de Emergência:** Caso PCs falhem, são marcados para morte. | **Contingencies:** If PCs fail, they are marked for death. |
+
+**[DM-ONLY – Não incluir na Wiki]**
+
+---
+
+
+<!-- ==== mission_17_os_portoes_de_blackfair.md ==== -->
+
+
+# Mission 17 – Os Portões de Blackfair / The Gates of Blackfair (19 de Fireseek, 999 CY)
+
+---
+
+## 🗓 Timeline
+| 🗓 Linha Temporal | 🗓 Timeline |
+|-------------------|------------|
+| **Semana:** 16 | **Week:** 16 |
+| **Data:** 2025-04-17 | **Date:** 2025-04-17 |
+| **Data Greyhawk:** 19 de Fireseek, 999 CY | **Greyhawk Date:** 19th of Fireseek, 999 CY |
+| **Sessão:** S16 | **Session:** S16 |
+| **Nome:** Os Portões de Blackfair | **Title:** The Gates of Blackfair |
+
+---
+
+## 📖 Overview
+| 📖 Visão Geral | 📖 Overview |
+|----------------|------------|
+| Uma tentativa de invasão cultista a Blackfair força os PCs a defenderem os portões da cidade. O combate massivo envolve guardas locais, magia sombria e máquinas de cerco improvisadas. | A cultist attempt to invade Blackfair forces the PCs to defend the city gates. The massive battle involves local guards, dark magic, and improvised siege engines. |
+
+---
+
+## 🎲 Key Events
+| 🎲 Eventos Principais | 🎲 Key Events |
+|-----------------------|--------------|
+| - **Cena 1:** Alerta de invasão. | - **Scene 1:** Invasion alarm. |
+| - **Cena 2:** Combates nas muralhas e ruas próximas. | - **Scene 2:** Battles on walls and nearby streets. |
+| - **Cena 3:** Duelam com comandante cultista. | - **Scene 3:** Duel with cultist commander. |
+| - **Epílogo:** Portões resistem; culto recua. | - **Epilogue:** Gates hold; cult retreats. |
+
+---
+
+## 👥 Cast of Characters
+| 👥 Elenco de Personagens | 👥 Cast of Characters |
+|--------------------------|-----------------------|
+| **PCs:** [por confirmar] | **PCs:** [to be confirmed] |
+| **NPCs:** Guardas de Blackfair, comandante cultista | **NPCs:** Blackfair guards, cultist commander |
+
+---
+
+## 💰 Rewards & Loot
+| 💰 Recompensas & Tesouro | 💰 Rewards & Loot |
+|--------------------------|-------------------|
+| - Armas e armaduras dos cultistas | - Cultist weapons and armor |
+| - Ouro de saque | - Looted gold |
+
+---
+
+## 🧭 Aftermath & Hooks
+| 🧭 Consequências & Ganchos | 🧭 Aftermath & Hooks |
+|----------------------------|----------------------|
+| Vitória fortalece PCs como defensores de Blackfair, mas culto planeia vingança. | Victory solidifies PCs as Blackfair defenders, but cult plots revenge. |
+
+---
+
+**[DM-ONLY – Não incluir na Wiki]**
+
+| Categoria | Category |
+|-----------|----------|
+| **Notas de Preparação:** Sessão de combate de cerco. | **Prep Notes:** Siege battle session. |
+| **Segredos de NPCs:** Comandante cultista não é humano. | **NPC Secrets:** Cultist commander is not human. |
+| **Ganchos Futuros:** Conduz PCs para Greyhawk City. | **Future Hooks:** Leads PCs to Greyhawk City. |
+| **Reviravoltas / Plot Twists:** Culto tenta sabotar defesas internas. | **Plot Twists:** Cult attempts to sabotage defenses from within. |
+| **Notas de Emergência:** Caso PCs falhem, Blackfair cai. | **Contingencies:** If PCs fail, Blackfair falls. |
+
+**[DM-ONLY – Não incluir na Wiki]**
+
+---
+
+
+<!-- ==== mission_18_os_segredos_de_blackfair_manor.md ==== -->
+
+# Mission 18 – Os Segredos de Blackfair Manor / The Secrets of Blackfair Manor (26 de Fireseek, 999 CY)
+
+---
+
+## 🗓 Timeline
+| 🗓 Linha Temporal | 🗓 Timeline |
+|-------------------|------------|
+| **Semana:** 17 | **Week:** 17 |
+| **Data:** 2025-04-24 | **Date:** 2025-04-24 |
+| **Data Greyhawk:** 26 de Fireseek, 999 CY | **Greyhawk Date:** 26th of Fireseek, 999 CY |
+| **Sessão:** S17 | **Session:** S17 |
+| **Nome:** Os Segredos de Blackfair Manor | **Title:** The Secrets of Blackfair Manor |
+
+---
+
+## 📖 Overview
+| 📖 Visão Geral | 📖 Overview |
+|----------------|------------|
+| Os PCs exploram Blackfair Manor, descobrindo passagens ocultas, experimentos profanos e rituais interrompidos. A mansão é um epicentro da corrupção. | The PCs explore Blackfair Manor, discovering hidden passages, profane experiments, and interrupted rituals. The manor is an epicenter of corruption. |
+
+---
+
+## 🎲 Key Events
+| 🎲 Eventos Principais | 🎲 Key Events |
+|-----------------------|--------------|
+| - **Cena 1:** Entrada furtiva na mansão. | - **Scene 1:** Stealth entry into the manor. |
+| - **Cena 2:** Descobrem câmaras secretas e laboratórios. | - **Scene 2:** Discover secret chambers and laboratories. |
+| - **Cena 3:** Confronto com guardiões profanos. | - **Scene 3:** Confrontation with profane guardians. |
+| - **Epílogo:** Recolhem provas da ligação ao culto. | - **Epilogue:** Gather evidence of cult ties. |
+
+---
+
+## 👥 Cast of Characters
+| 👥 Elenco de Personagens | 👥 Cast of Characters |
+|--------------------------|-----------------------|
+| **PCs:** [por confirmar] | **PCs:** [to be confirmed] |
+| **NPCs:** Guardiões profanos, cultistas residentes | **NPCs:** Profane guardians, resident cultists |
+
+---
+
+## 💰 Rewards & Loot
+| 💰 Recompensas & Tesouro | 💰 Rewards & Loot |
+|--------------------------|-------------------|
+| - Relíquias profanas | - Profane relics |
+| - Ouro escondido | - Hidden gold |
+| - Manuscritos secretos | - Secret manuscripts |
+
+---
+
+## 🧭 Aftermath & Hooks
+| 🧭 Consequências & Ganchos | 🧭 Aftermath & Hooks |
+|----------------------------|----------------------|
+| Blackfair Manor é parcialmente purificada, mas segredos revelam uma rede maior. | Blackfair Manor partially cleansed, but secrets reveal larger network. |
+
+---
+
+**[DM-ONLY – Não incluir na Wiki]**
+
+| Categoria | Category |
+|-----------|----------|
+| **Notas de Preparação:** Sessão de exploração gótica. | **Prep Notes:** Gothic exploration session. |
+| **Segredos de NPCs:** Um servo é espião do culto. | **NPC Secrets:** A servant is cult spy. |
+| **Ganchos Futuros:** Leva PCs a Greyhawk City. | **Future Hooks:** Leads PCs to Greyhawk City. |
+| **Reviravoltas / Plot Twists:** A mansão está parcialmente viva. | **Plot Twists:** The manor is partially alive. |
+| **Notas de Emergência:** Caso PCs falhem, mansão os prende. | **Contingencies:** If PCs fail, manor traps them. |
+
+**[DM-ONLY – Não incluir na Wiki]**
+
+---
+
+
+<!-- ==== mission_19_conspiracao_em_greyhawk.md ==== -->
+
+# Mission 19 – Conspiração em Greyhawk / Conspiracy in Greyhawk (2 de Needfest, 999 CY)
+
+---
+
+## 🗓 Timeline
+| 🗓 Linha Temporal | 🗓 Timeline |
+|-------------------|------------|
+| **Semana:** 18 | **Week:** 18 |
+| **Data:** 2025-05-01 | **Date:** 2025-05-01 |
+| **Data Greyhawk:** 2 de Needfest, 999 CY | **Greyhawk Date:** 2nd of Needfest, 999 CY |
+| **Sessão:** S18 | **Session:** S18 |
+| **Nome:** Conspiração em Greyhawk | **Title:** Conspiracy in Greyhawk |
+
+---
+
+## 📖 Overview
+| 📖 Visão Geral | 📖 Overview |
+|----------------|------------|
+| Os aventureiros chegam a Greyhawk City, onde descobrem uma rede de corrupção envolvendo guildas, nobres e o culto. A cidade é um tabuleiro de intrigas. | The adventurers arrive in Greyhawk City, discovering a web of corruption involving guilds, nobles, and the cult. The city is a board of intrigues. |
+
+---
+
+## 🎲 Key Events
+| 🎲 Eventos Principais | 🎲 Key Events |
+|-----------------------|--------------|
+| - **Cena 1:** Encontros com líderes de guildas. | - **Scene 1:** Meetings with guild leaders. |
+| - **Cena 2:** Descoberta de subornos e chantagens. | - **Scene 2:** Discovery of bribes and blackmail. |
+| - **Cena 3:** Enfrentam espiões cultistas. | - **Scene 3:** Face cultist spies. |
+| - **Epílogo:** Pistas levam a rituais maiores. | - **Epilogue:** Clues point to larger rituals. |
+
+---
+
+## 👥 Cast of Characters
+| 👥 Elenco de Personagens | 👥 Cast of Characters |
+|--------------------------|-----------------------|
+| **PCs:** [por confirmar] | **PCs:** [to be confirmed] |
+| **NPCs:** Líderes de guilda, nobres, cultistas | **NPCs:** Guild leaders, nobles, cultists |
+
+---
+
+## 💰 Rewards & Loot
+| 💰 Recompensas & Tesouro | 💰 Rewards & Loot |
+|--------------------------|-------------------|
+| - Ouro subornado | - Bribe gold |
+| - Documentos incriminatórios | - Incriminating documents |
+
+---
+
+## 🧭 Aftermath & Hooks
+| 🧭 Consequências & Ganchos | 🧭 Aftermath & Hooks |
+|----------------------------|----------------------|
+| PCs agora estão no centro das intrigas de Greyhawk. | PCs are now at the center of Greyhawk intrigues. |
+
+---
+
+**[DM-ONLY – Não incluir na Wiki]**
+
+| Categoria | Category |
+|-----------|----------|
+| **Notas de Preparação:** Sessão social intensa. | **Prep Notes:** Intense social session. |
+| **Segredos de NPCs:** Uma guilda inteira é controlada pelo culto. | **NPC Secrets:** An entire guild is controlled by the cult. |
+| **Ganchos Futuros:** Leva a Missão 22 (Ritual em Greyhawk). | **Future Hooks:** Leads to Mission 22 (Ritual in Greyhawk). |
+| **Reviravoltas / Plot Twists:** PCs são acusados de conspiração. | **Plot Twists:** PCs accused of conspiracy. |
+| **Notas de Emergência:** Caso falhem, Greyhawk cai no caos. | **Contingencies:** If PCs fail, Greyhawk falls into chaos. |
+
+**[DM-ONLY – Não incluir na Wiki]**
+
+---
+
+
+<!-- ==== mission_20_o_assalto_a_guilda_dos_ladroes.md ==== -->
+
+# Mission 20 – O Assalto à Guilda dos Ladrões / The Raid on the Thieves’ Guild (9 de Fireseek, 999 CY)
+
+---
+
+## 🗓 Timeline
+| 🗓 Linha Temporal | 🗓 Timeline |
+|-------------------|------------|
+| **Semana:** 19 | **Week:** 19 |
+| **Data:** 2025-05-08 | **Date:** 2025-05-08 |
+| **Data Greyhawk:** 9 de Fireseek, 999 CY | **Greyhawk Date:** 9th of Fireseek, 999 CY |
+| **Sessão:** S19 | **Session:** S19 |
+| **Nome:** O Assalto à Guilda dos Ladrões | **Title:** The Raid on the Thieves’ Guild |
+
+---
+
+## 📖 Overview
+| 📖 Visão Geral | 📖 Overview |
+|----------------|------------|
+| Os PCs investigam a Guilda dos Ladrões de Greyhawk, apenas para descobrir que ela está infiltrada pelo culto. Um assalto ousado expõe o coração da corrupção. | PCs investigate Greyhawk’s Thieves’ Guild, only to discover it is infiltrated by the cult. A daring raid exposes the heart of corruption. |
+
+---
+
+## 🎲 Key Events
+| 🎲 Eventos Principais | 🎲 Key Events |
+|-----------------------|--------------|
+| - **Cena 1:** Entrada disfarçada na guilda. | - **Scene 1:** Disguised entry into the guild. |
+| - **Cena 2:** Combate contra ladrões cultistas. | - **Scene 2:** Combat with cultist thieves. |
+| - **Cena 3:** Descoberta de ligação ao ritual. | - **Scene 3:** Discovery of link to ritual. |
+| - **Epílogo:** Guilda perde força. | - **Epilogue:** Guild loses power. |
+
+---
+
+## 👥 Cast of Characters
+| 👥 Elenco de Personagens | 👥 Cast of Characters |
+|--------------------------|-----------------------|
+| **PCs:** [por confirmar] | **PCs:** [to be confirmed] |
+| **NPCs:** Ladrões cultistas, líder da guilda | **NPCs:** Cultist thieves, guild leader |
+
+---
+
+## 💰 Rewards & Loot
+| 💰 Recompensas & Tesouro | 💰 Rewards & Loot |
+|--------------------------|-------------------|
+| - Ouro roubado | - Stolen gold |
+| - Itens mágicos da guilda | - Guild magical items |
+| - Informações valiosas | - Valuable information |
+
+---
+
+## 🧭 Aftermath & Hooks
+| 🧭 Consequências & Ganchos | 🧭 Aftermath & Hooks |
+|----------------------------|----------------------|
+| PCs ganham inimigos nas sombras; culto acelera planos. | PCs gain enemies in shadows; cult accelerates plans. |
+
+---
+
+**[DM-ONLY – Não incluir na Wiki]**
+
+| Categoria | Category |
+|-----------|----------|
+| **Notas de Preparação:** Sessão de infiltração e combate. | **Prep Notes:** Infiltration and combat session. |
+| **Segredos de NPCs:** Líder da guilda coopera com culto em troca de poder. | **NPC Secrets:** Guild leader cooperates with cult for power. |
+| **Ganchos Futuros:** PCs descobrem local de ritual maior. | **Future Hooks:** PCs discover site of major ritual. |
+| **Reviravoltas / Plot Twists:** Um ladrão torna-se aliado improvável. | **Plot Twists:** A thief becomes an unlikely ally. |
+| **Notas de Emergência:** Caso falhem, guilda denuncia PCs. | **Contingencies:** If PCs fail, guild betrays them. |
+
+**[DM-ONLY – Não incluir na Wiki]**
+
+---
+
+
+<!-- ==== mission_21_os_esgotos_de_greyhawk.md ==== -->
+
+# Mission 21 – Os Esgotos de Greyhawk / The Sewers of Greyhawk (16 de Fireseek, 999 CY)
+
+---
+
+## 🗓 Timeline
+| 🗓 Linha Temporal | 🗓 Timeline |
+|-------------------|------------|
+| **Semana:** 20 | **Week:** 20 |
+| **Data:** 2025-05-15 | **Date:** 2025-05-15 |
+| **Data Greyhawk:** 16 de Fireseek, 999 CY | **Greyhawk Date:** 16th of Fireseek, 999 CY |
+| **Sessão:** S20 | **Session:** S20 |
+| **Nome:** Os Esgotos de Greyhawk | **Title:** The Sewers of Greyhawk |
+
+---
+
+## 📖 Overview
+| 📖 Visão Geral | 📖 Overview |
+|----------------|------------|
+| O culto usa os esgotos de Greyhawk para rituais e transporte secreto. PCs descem às profundezas, enfrentando aberrações e descobrindo túneis antigos. | The cult uses Greyhawk’s sewers for rituals and secret transport. PCs descend into the depths, facing aberrations and uncovering ancient tunnels. |
+
+---
+
+## 🎲 Key Events
+| 🎲 Eventos Principais | 🎲 Key Events |
+|-----------------------|--------------|
+| - **Cena 1:** Entrada nos esgotos fétidos. | - **Scene 1:** Entry into the foul sewers. |
+| - **Cena 2:** Combates com aberrações e cultistas. | - **Scene 2:** Battles with aberrations and cultists. |
+| - **Cena 3:** Descoberta de templos ocultos. | - **Scene 3:** Discovery of hidden shrines. |
+| - **Epílogo:** Ligação direta ao ritual final. | - **Epilogue:** Direct link to final ritual. |
+
+---
+
+## 👥 Cast of Characters
+| 👥 Elenco de Personagens | 👥 Cast of Characters |
+|--------------------------|-----------------------|
+| **PCs:** [por confirmar] | **PCs:** [to be confirmed] |
+| **NPCs:** Cultistas, criaturas aberrantes | **NPCs:** Cultists, aberrant creatures |
+
+---
+
+## 💰 Rewards & Loot
+| 💰 Recompensas & Tesouro | 💰 Rewards & Loot |
+|--------------------------|-------------------|
+| - Tesouro perdido nos esgotos | - Lost sewer treasure |
+| - Itens rituais | - Ritual items |
+| - Ouro das vítimas | - Victims’ gold |
+
+---
+
+## 🧭 Aftermath & Hooks
+| 🧭 Consequências & Ganchos | 🧭 Aftermath & Hooks |
+|----------------------------|----------------------|
+| PCs descobrem portal para ritual final em Greyhawk. | PCs discover portal to final ritual in Greyhawk. |
+
+---
+
+**[DM-ONLY – Não incluir na Wiki]**
+
+| Categoria | Category |
+|-----------|----------|
+| **Notas de Preparação:** Sessão de exploração sombria. | **Prep Notes:** Dark exploration session. |
+| **Segredos de NPCs:** Culto usa esgotos para rituais de sacrifício. | **NPC Secrets:** Cult uses sewers for sacrificial rituals. |
+| **Ganchos Futuros:** Direto à Missão 22 (Ritual). | **Future Hooks:** Leads directly to Mission 22 (Ritual). |
+| **Reviravoltas / Plot Twists:** Templos antigos pertencem a deuses esquecidos. | **Plot Twists:** Ancient shrines belong to forgotten gods. |
+| **Notas de Emergência:** Caso PCs falhem, culto abre portais. | **Contingencies:** If PCs fail, cult opens portals. |
+
+**[DM-ONLY – Não incluir na Wiki]**
+
+---
+
+<!-- ==== mission_22_o_grande_ritual_em_greyhawk.md ==== -->
+
+# Mission 22 – O Grande Ritual em Greyhawk / The Great Ritual in Greyhawk (23 de Fireseek, 999 CY)
+
+---
+
+## 🗓 Timeline
+| 🗓 Linha Temporal | 🗓 Timeline |
+|-------------------|------------|
+| **Semana:** 21 | **Week:** 21 |
+| **Data:** 2025-05-22 | **Date:** 2025-05-22 |
+| **Data Greyhawk:** 23 de Fireseek, 999 CY | **Greyhawk Date:** 23rd of Fireseek, 999 CY |
+| **Sessão:** S21 | **Session:** S21 |
+| **Nome:** O Grande Ritual em Greyhawk | **Title:** The Great Ritual in Greyhawk |
+
+---
+
+## 📖 Overview
+| 📖 Visão Geral | 📖 Overview |
+|----------------|------------|
+| O culto inicia um grande ritual nas profundezas de Greyhawk City, ameaçando abrir um portal para forças extraplanares. Os PCs devem impedir o sacrifício e confrontar os líderes do culto. | The cult begins a great ritual in the depths of Greyhawk City, threatening to open a portal to extraplanar forces. The PCs must stop the sacrifice and confront cult leaders. |
+
+---
+
+## 🎲 Key Events
+| 🎲 Eventos Principais | 🎲 Key Events |
+|-----------------------|--------------|
+| - **Cena 1:** Localizam o templo oculto. | - **Scene 1:** Locate the hidden temple. |
+| - **Cena 2:** Enfrentam guardiões e armadilhas rituais. | - **Scene 2:** Face ritual guardians and traps. |
+| - **Cena 3:** Interrompem o ritual em andamento. | - **Scene 3:** Interrupt the ongoing ritual. |
+| - **Clímax:** Batalha contra sumo-sacerdote cultista. | - **Climax:** Battle against cult high priest. |
+| - **Epílogo:** Portal fecha-se, mas não sem consequências. | - **Epilogue:** Portal closes, but not without consequences. |
+
+---
+
+## 👥 Cast of Characters
+| 👥 Elenco de Personagens | 👥 Cast of Characters |
+|--------------------------|-----------------------|
+| **PCs:** [por confirmar] | **PCs:** [to be confirmed] |
+| **NPCs:** Sumo-sacerdote cultista, acólitos, vítimas sacrificiais | **NPCs:** Cult high priest, acolytes, sacrificial victims |
+
+---
+
+## 💰 Rewards & Loot
+| 💰 Recompensas & Tesouro | 💰 Rewards & Loot |
+|--------------------------|-------------------|
+| - Artefatos cultistas | - Cult artifacts |
+| - Ouro e oferendas | - Gold and offerings |
+| - Itens mágicos interrompidos no ritual | - Magic items interrupted in ritual |
+
+---
+
+## 🧭 Aftermath & Hooks
+| 🧭 Consequências & Ganchos | 🧭 Aftermath & Hooks |
+|----------------------------|----------------------|
+| O culto sofre um duro golpe, mas forças extraplanares ainda se movem. | The cult suffers a heavy blow, but extraplanar forces still stir. |
+
+---
+
+**[DM-ONLY – Não incluir na Wiki]**
+
+| Categoria | Category |
+|-----------|----------|
+| **Notas de Preparação:** Sessão épica de combate e magia. | **Prep Notes:** Epic combat and magic session. |
+| **Segredos de NPCs:** Sumo-sacerdote serve uma entidade desconhecida. | **NPC Secrets:** High priest serves an unknown entity. |
+| **Ganchos Futuros:** Entidade extraplanar torna-se antagonista maior. | **Future Hooks:** Extraplanar entity becomes major antagonist. |
+| **Reviravoltas / Plot Twists:** Ritual pode ter sucesso parcial. | **Plot Twists:** Ritual may partially succeed. |
+| **Notas de Emergência:** Caso PCs falhem, portal abre e inimigos emergem. | **Contingencies:** If PCs fail, portal opens and enemies emerge. |
+
+**[DM-ONLY – Não incluir na Wiki]**
+
+---
+
+
+<!-- ==== mission_23_as_sombras_do_templo_subterraneo.md ==== -->
+
+# Mission 23 – As Sombras do Templo Subterrâneo / The Shadows of the Underground Temple (2 de Readying, 999 CY)
+
+---
+
+## 🗓 Timeline
+| 🗓 Linha Temporal | 🗓 Timeline |
+|-------------------|------------|
+| **Semana:** 22 | **Week:** 22 |
+| **Data:** 2025-05-29 | **Date:** 2025-05-29 |
+| **Data Greyhawk:** 2 de Readying, 999 CY | **Greyhawk Date:** 2nd of Readying, 999 CY |
+| **Sessão:** S22 | **Session:** S22 |
+| **Nome:** As Sombras do Templo Subterrâneo | **Title:** The Shadows of the Underground Temple |
+
+---
+
+## 📖 Overview
+| 📖 Visão Geral | 📖 Overview |
+|----------------|------------|
+| O grupo explora um templo subterrâneo que permaneceu ativo após o grande ritual. Descobrem segredos antigos, armadilhas e sobreviventes do culto. | The group explores an underground temple still active after the great ritual. They uncover ancient secrets, traps, and cult survivors. |
+
+---
+
+## 🎲 Key Events
+| 🎲 Eventos Principais | 🎲 Key Events |
+|-----------------------|--------------|
+| - **Cena 1:** Entrada cautelosa no templo. | - **Scene 1:** Cautious entry into the temple. |
+| - **Cena 2:** Enfrentam armadilhas antigas. | - **Scene 2:** Face ancient traps. |
+| - **Cena 3:** Confrontam cultistas remanescentes. | - **Scene 3:** Confront cult survivors. |
+| - **Epílogo:** Descobrem manuscritos ocultos. | - **Epilogue:** Discover hidden manuscripts. |
+
+---
+
+## 👥 Cast of Characters
+| 👥 Elenco de Personagens | 👥 Cast of Characters |
+|--------------------------|-----------------------|
+| **PCs:** [por confirmar] | **PCs:** [to be confirmed] |
+| **NPCs:** Cultistas sobreviventes, guardiões | **NPCs:** Surviving cultists, guardians |
+
+---
+
+## 💰 Rewards & Loot
+| 💰 Recompensas & Tesouro | 💰 Rewards & Loot |
+|--------------------------|-------------------|
+| - Manuscritos antigos | - Ancient manuscripts |
+| - Ouro oculto | - Hidden gold |
+| - Itens rituais | - Ritual items |
+
+---
+
+## 🧭 Aftermath & Hooks
+| 🧭 Consequências & Ganchos | 🧭 Aftermath & Hooks |
+|----------------------------|----------------------|
+| PCs descobrem que o culto não foi completamente destruído. | PCs discover the cult wasn’t completely destroyed. |
+
+---
+
+**[DM-ONLY – Não incluir na Wiki]**
+
+| Categoria | Category |
+|-----------|----------|
+| **Notas de Preparação:** Sessão de exploração tensa. | **Prep Notes:** Tense exploration session. |
+| **Segredos de NPCs:** Alguns cultistas servem outra entidade. | **NPC Secrets:** Some cultists serve another entity. |
+| **Ganchos Futuros:** Conduz PCs ao deserto. | **Future Hooks:** Leads PCs to the desert. |
+| **Reviravoltas / Plot Twists:** Manuscritos são falsificados. | **Plot Twists:** Manuscripts are forged. |
+| **Notas de Emergência:** Caso PCs falhem, culto foge. | **Contingencies:** If PCs fail, cult escapes. |
+
+**[DM-ONLY – Não incluir na Wiki]**
+
+---
+
+
+<!-- ==== mission_24_o_deserto_das_sombras.md ==== -->
+
+# Mission 24 – O Deserto das Sombras / The Desert of Shadows (9 de Readying, 999 CY)
+
+---
+
+## 🗓 Timeline
+| 🗓 Linha Temporal | 🗓 Timeline |
+|-------------------|------------|
+| **Semana:** 23 | **Week:** 23 |
+| **Data:** 2025-06-05 | **Date:** 2025-06-05 |
+| **Data Greyhawk:** 9 de Readying, 999 CY | **Greyhawk Date:** 9th of Readying, 999 CY |
+| **Sessão:** S23 | **Session:** S23 |
+| **Nome:** O Deserto das Sombras | **Title:** The Desert of Shadows |
+
+---
+
+## 📖 Overview
+| 📖 Visão Geral | 📖 Overview |
+|----------------|------------|
+| O grupo viaja até um deserto remoto em busca de pistas sobre o culto. Enfrentam tempestades de areia, criaturas aberrantes e ruínas esquecidas. | The group travels to a remote desert in search of cult clues. They face sandstorms, aberrant creatures, and forgotten ruins. |
+
+---
+
+## 🎲 Key Events
+| 🎲 Eventos Principais | 🎲 Key Events |
+|-----------------------|--------------|
+| - **Cena 1:** Viagem pelo deserto hostil. | - **Scene 1:** Journey through hostile desert. |
+| - **Cena 2:** Confronto com criaturas de areia. | - **Scene 2:** Confrontation with sand creatures. |
+| - **Cena 3:** Descoberta de ruínas esquecidas. | - **Scene 3:** Discovery of forgotten ruins. |
+| - **Epílogo:** Pistas sobre templo perdido. | - **Epilogue:** Clues about lost temple. |
+
+---
+
+## 👥 Cast of Characters
+| 👥 Elenco de Personagens | 👥 Cast of Characters |
+|--------------------------|-----------------------|
+| **PCs:** [por confirmar] | **PCs:** [to be confirmed] |
+| **NPCs:** Criaturas do deserto, viajantes | **NPCs:** Desert creatures, travelers |
+
+---
+
+## 💰 Rewards & Loot
+| 💰 Recompensas & Tesouro | 💰 Rewards & Loot |
+|--------------------------|-------------------|
+| - Gemas enterradas | - Buried gems |
+| - Artefatos do deserto | - Desert artifacts |
+
+---
+
+## 🧭 Aftermath & Hooks
+| 🧭 Consequências & Ganchos | 🧭 Aftermath & Hooks |
+|----------------------------|----------------------|
+| O deserto revela caminho para o templo final. | The desert reveals path to final temple. |
+
+---
+
+**[DM-ONLY – Não incluir na Wiki]**
+
+| Categoria | Category |
+|-----------|----------|
+| **Notas de Preparação:** Atmosfera desolada. | **Prep Notes:** Desolate atmosphere. |
+| **Segredos de NPCs:** Viajantes são agentes do culto. | **NPC Secrets:** Travelers are cult agents. |
+| **Ganchos Futuros:** Rumo ao templo perdido. | **Future Hooks:** Leads toward lost temple. |
+| **Reviravoltas / Plot Twists:** Ruínas contêm portais ocultos. | **Plot Twists:** Ruins contain hidden portals. |
+| **Notas de Emergência:** Caso PCs falhem, ficam presos no deserto. | **Contingencies:** If PCs fail, they are stranded in desert. |
+
+**[DM-ONLY – Não incluir na Wiki]**
+
+---
+
+
+<!-- ==== mission_25_o_templo_perdido.md ==== -->
+
+# Mission 25 – O Templo Perdido / The Lost Temple (16 de Readying, 999 CY)
+
+---
+
+## 🗓 Timeline
+| 🗓 Linha Temporal | 🗓 Timeline |
+|-------------------|------------|
+| **Semana:** 24 | **Week:** 24 |
+| **Data:** 2025-06-12 | **Date:** 2025-06-12 |
+| **Data Greyhawk:** 16 de Readying, 999 CY | **Greyhawk Date:** 16th of Readying, 999 CY |
+| **Sessão:** S24 | **Session:** S24 |
+| **Nome:** O Templo Perdido | **Title:** The Lost Temple |
+
+---
+
+## 📖 Overview
+| 📖 Visão Geral | 📖 Overview |
+|----------------|------------|
+| O grupo descobre o lendário templo perdido nas profundezas do deserto. Dentro, enfrentam armadilhas, guardiões antigos e provas de fé e coragem. | The group discovers the legendary lost temple deep within the desert. Inside, they face traps, ancient guardians, and trials of faith and courage. |
+
+---
+
+## 🎲 Key Events
+| 🎲 Eventos Principais | 🎲 Key Events |
+|-----------------------|--------------|
+| - **Cena 1:** Entrada dramática no templo. | - **Scene 1:** Dramatic entry into the temple. |
+| - **Cena 2:** Enfrentam armadilhas antigas. | - **Scene 2:** Face ancient traps. |
+| - **Cena 3:** Confrontam guardiões imortais. | - **Scene 3:** Confront immortal guardians. |
+| - **Epílogo:** Descobrem altar e inscrições ocultas. | - **Epilogue:** Discover altar and hidden inscriptions. |
+
+---
+
+## 👥 Cast of Characters
+| 👥 Elenco de Personagens | 👥 Cast of Characters |
+|--------------------------|-----------------------|
+| **PCs:** [por confirmar] | **PCs:** [to be confirmed] |
+| **NPCs:** Guardiões antigos, sacerdotes esquecidos | **NPCs:** Ancient guardians, forgotten priests |
+
+---
+
+## 💰 Rewards & Loot
+| 💰 Recompensas & Tesouro | 💰 Rewards & Loot |
+|--------------------------|-------------------|
+| - Relíquias do templo | - Temple relics |
+| - Ouro escondido | - Hidden gold |
+| - Armas sagradas | - Sacred weapons |
+
+---
+
+## 🧭 Aftermath & Hooks
+| 🧭 Consequências & Ganchos | 🧭 Aftermath & Hooks |
+|----------------------------|----------------------|
+| O templo revela pistas sobre o confronto final contra o culto. | The temple reveals clues about the final confrontation with the cult. |
+
+---
+
+**[DM-ONLY – Não incluir na Wiki]**
+
+| Categoria                                                              | Category                                                 |
+| ---------------------------------------------------------------------- | -------------------------------------------------------- |
+| **Notas de Preparação:** Sessão de exploração clássica.                | **Prep Notes:** Classic exploration session.             |
+| **Segredos de NPCs:** Guardiões são ecos de heróis antigos.            | **NPC Secrets:** Guardians are echoes of ancient heroes. |
+| **Ganchos Futuros:** Direção para o confronto final.                   | **Future Hooks:** Directs toward final confrontation.    |
+| **Reviravoltas / Plot Twists:** Inscrições revelam traição no passado. | **Plot Twists:** Inscriptions reveal past betrayal.      |
+| **Notas de Emergência:** Caso PCs falhem, templo colapsa.              | **Contingencies:** If PCs fail, temple collapses.        |
+
+**[DM-ONLY – Não incluir na Wiki]**
+
+---
+
+<!-- ==== mission_26_o_coracao_do_culto.md ==== -->
+
+# Mission 26 – O Coração do Culto / The Heart of the Cult (23 de Readying, 999 CY)
+
+---
+
+## 🗓 Timeline
+| 🗓 Linha Temporal | 🗓 Timeline |
+|-------------------|------------|
+| **Semana:** 25 | **Week:** 25 |
+| **Data:** 2025-06-19 | **Date:** 2025-06-19 |
+| **Data Greyhawk:** 23 de Readying, 999 CY | **Greyhawk Date:** 23rd of Readying, 999 CY |
+| **Sessão:** S25 | **Session:** S25 |
+| **Nome:** O Coração do Culto | **Title:** The Heart of the Cult |
+
+---
+
+## 📖 Overview
+| 📖 Visão Geral | 📖 Overview |
+|----------------|------------|
+| Os PCs penetram no coração do culto, enfrentando os líderes restantes e os rituais mais sombrios. Revelações sobre a entidade patrona do culto surgem. | The PCs penetrate the heart of the cult, facing the remaining leaders and darkest rituals. Revelations about the cult’s patron entity emerge. |
+
+---
+
+## 🎲 Key Events
+| 🎲 Eventos Principais | 🎲 Key Events |
+|-----------------------|--------------|
+| - **Cena 1:** Entrada no santuário interno. | - **Scene 1:** Entry into the inner sanctum. |
+| - **Cena 2:** Batalha contra elites cultistas. | - **Scene 2:** Battle against cult elites. |
+| - **Cena 3:** Revelação sobre a entidade sombria. | - **Scene 3:** Revelation of the dark entity. |
+| - **Epílogo:** O culto começa a desmoronar. | - **Epilogue:** The cult begins to collapse. |
+
+---
+
+## 👥 Cast of Characters
+| 👥 Elenco de Personagens | 👥 Cast of Characters |
+|--------------------------|-----------------------|
+| **PCs:** [por confirmar] | **PCs:** [to be confirmed] |
+| **NPCs:** Líderes cultistas, guardiões sombrios | **NPCs:** Cult leaders, shadow guardians |
+
+---
+
+## 💰 Rewards & Loot
+| 💰 Recompensas & Tesouro | 💰 Rewards & Loot |
+|--------------------------|-------------------|
+| - Artefatos sombrios | - Dark artifacts |
+| - Ouro e joias | - Gold and jewels |
+| - Itens mágicos profanos | - Profane magical items |
+
+---
+
+## 🧭 Aftermath & Hooks
+| 🧭 Consequências & Ganchos | 🧭 Aftermath & Hooks |
+|----------------------------|----------------------|
+| PCs abalam a estrutura do culto, mas a entidade ainda ameaça o mundo. | PCs shake the cult’s structure, but the entity still threatens the world. |
+
+---
+
+**[DM-ONLY – Não incluir na Wiki]**
+
+| Categoria | Category |
+|-----------|----------|
+| **Notas de Preparação:** Sessão intensa e sombria. | **Prep Notes:** Intense, dark session. |
+| **Segredos de NPCs:** Um líder cultista é parente de um PC. | **NPC Secrets:** A cult leader is related to a PC. |
+| **Ganchos Futuros:** Entidade se manifesta diretamente. | **Future Hooks:** Entity manifests directly. |
+| **Reviravoltas / Plot Twists:** Traidor dentro dos PCs. | **Plot Twists:** Traitor among the PCs. |
+| **Notas de Emergência:** Caso PCs falhem, entidade ganha poder. | **Contingencies:** If PCs fail, entity grows stronger. |
+
+**[DM-ONLY – Não incluir na Wiki]**
+
+---
+
+
+<!-- ==== mission_27_o_confronto_final.md ==== -->
+
+# Mission 27 – O Confronto Final / The Final Confrontation (1 de Coldeven, 999 CY)
+
+---
+
+## 🗓 Timeline
+| 🗓 Linha Temporal | 🗓 Timeline |
+|-------------------|------------|
+| **Semana:** 26 | **Week:** 26 |
+| **Data:** 2025-06-26 | **Date:** 2025-06-26 |
+| **Data Greyhawk:** 1 de Coldeven, 999 CY | **Greyhawk Date:** 1st of Coldeven, 999 CY |
+| **Sessão:** S26 | **Session:** S26 |
+| **Nome:** O Confronto Final | **Title:** The Final Confrontation |
+
+---
+
+## 📖 Overview
+| 📖 Visão Geral | 📖 Overview |
+|----------------|------------|
+| A campanha culmina numa batalha épica contra a entidade sombria por trás do culto. Os PCs enfrentam o destino do mundo e o peso das suas escolhas. | The campaign culminates in an epic battle against the dark entity behind the cult. The PCs face the fate of the world and the weight of their choices. |
+
+---
+
+## 🎲 Key Events
+| 🎲 Eventos Principais | 🎲 Key Events |
+|-----------------------|--------------|
+| - **Cena 1:** Ritual final começa. | - **Scene 1:** Final ritual begins. |
+| - **Cena 2:** Entidade manifesta-se fisicamente. | - **Scene 2:** Entity manifests physically. |
+| - **Cena 3:** Confronto épico. | - **Scene 3:** Epic showdown. |
+| - **Epílogo:** Vitória ou derrota definem o destino de Greyhawk. | - **Epilogue:** Victory or defeat defines Greyhawk’s fate. |
+
+---
+
+## 👥 Cast of Characters
+| 👥 Elenco de Personagens | 👥 Cast of Characters |
+|--------------------------|-----------------------|
+| **PCs:** [por confirmar] | **PCs:** [to be confirmed] |
+| **NPCs:** Entidade sombria, cultistas finais | **NPCs:** Dark entity, final cultists |
+
+---
+
+## 💰 Rewards & Loot
+| 💰 Recompensas & Tesouro | 💰 Rewards & Loot |
+|--------------------------|-------------------|
+| - Artefatos finais | - Final artifacts |
+| - Ouro ritual | - Ritual gold |
+| - Itens mágicos épicos | - Epic magical items |
+
+---
+
+## 🧭 Aftermath & Hooks
+| 🧭 Consequências & Ganchos | 🧭 Aftermath & Hooks |
+|----------------------------|----------------------|
+| O destino de Greyhawk é decidido; possíveis campanhas futuras derivam das escolhas dos PCs. | The fate of Greyhawk is decided; future campaigns may branch from PCs’ choices. |
+
+---
+
+**[DM-ONLY – Não incluir na Wiki]**
+
+| Categoria | Category |
+|-----------|----------|
+| **Notas de Preparação:** Sessão épica e final. | **Prep Notes:** Epic final session. |
+| **Segredos de NPCs:** Entidade busca um avatar entre PCs. | **NPC Secrets:** Entity seeks an avatar among PCs. |
+| **Ganchos Futuros:** Campanha seguinte pode explorar consequências. | **Future Hooks:** Next campaign may explore consequences. |
+| **Reviravoltas / Plot Twists:** Vitória pode ter custo alto. | **Plot Twists:** Victory may come at great cost. |
+| **Notas de Emergência:** Caso PCs falhem, entidade conquista Greyhawk. | **Contingencies:** If PCs fail, entity conquers Greyhawk. |
+
+**[DM-ONLY – Não incluir na Wiki]**
+
+---

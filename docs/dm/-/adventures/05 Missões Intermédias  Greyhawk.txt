@@ -1,0 +1,868 @@
+# Dandan e os 40 Kobolds: Bullet Points
+
+| Português                                                                                                                                                                                                                                                                                                                                                                                   | English                                                                                                                                                                                                                                                                                                                                                |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| - Dandan organiza grupo para resgatar família de kobolds.<br>- Enfrentam guardas humanos e bestas mecânicas nos esgotos.<br>- Descobrem plano de sequestro: guilda dos ladrões está por trás.<br>- Emboscada e negociação com líder kobold rival.<br>- Libertam kobolds, escapam por passagens secretas.<br>- Ganhando respeito dos kobolds locais e pistas sobre a guilda dos ladrões.<br> | - Dandan organizes group to rescue kobold family.<br>- Face human guards and mechanical beasts in the sewers.<br>- Discover kidnapping plot: thieves guild behind it.<br>- Ambush and negotiation with rival kobold leader.<br>- Free kobolds, escape via secret passages.<br>- Gain respect from local kobolds and clues about the thieves guild.<br> |
+| **NPCs:** Dandan, líder kobold rival, guardas humanos, membros da guilda dos ladrões                                                                                                                                                                                                                                                                                                        | **NPCs:** Dandan, rival kobold leader, human guards, thieves guild members                                                                                                                                                                                                                                                                             |
+| **Loot:** armas improvisadas, joias kobold, mapa dos esgotos, pistas dos ladrões                                                                                                                                                                                                                                                                                                            | **Loot:** improvised weapons, kobold jewels, sewer map, thieves clues                                                                                                                                                                                                                                                                                  |
+| **Data:** 2025-04-03                                                                                                                                                                                                                                                                                                                                                                        | **Date:** 2025-04-03                                                                                                                                                                                                                                                                                                                                   |
+| **Ficheiros de origem:** s13_dandan_e_os_40_kobolds_pontos.md                                                                                                                                                                                                                                                                                                                               | **Source files:** s13_dandan_e_os_40_kobolds_pontos.md                                                                                                                                                                                                                                                                                                 |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s13_dandan_e_os_40_kobolds_ready.md ==== -->
+
+# Sessão 13  Dandan e os 40 Kobolds (03-abr): Ready to Play
+
+| Português | English |
+|-----------|---------|
+| **Introdução:** Dandan procura aventureiros para resgatar kobolds capturados.<br><br>**Cena 1: Entrada nos Esgotos**<br>- Confronto com guardas e armadilhas mecânicas.<br><br>**Cena 2: Emboscada e Negociação**<br>- Rivalidade entre kobolds, possível negociação ou combate.<br><br>**Cena 3: Fuga**<br>- Libertação dos kobolds, fuga pelas passagens secretas.<br><br>**Cena 4: Conclusão**<br>- Respeito dos kobolds e pistas sobre a guilda dos ladrões.<br> | **Introduction:** Dandan seeks adventurers to rescue captured kobolds.<br><br>**Scene 1: Sewer Entrance**<br>- Confrontation with guards and mechanical traps.<br><br>**Scene 2: Ambush and Negotiation**<br>- Kobold rivalry, possible negotiation or combat.<br><br>**Scene 3: Escape**<br>- Free the kobolds, escape via secret tunnels.<br><br>**Scene 4: Conclusion**<br>- Gain respect from kobolds and clues about the thieves guild.<br> |
+| **NPCs:** Dandan, líder kobold rival, guardas humanos, membros da guilda dos ladrões | **NPCs:** Dandan, rival kobold leader, human guards, thieves guild members |
+| **Loot:** armas improvisadas, joias kobold, mapa dos esgotos, pistas dos ladrões | **Loot:** improvised weapons, kobold jewels, sewer map, thieves clues |
+| **Data:** 2025-04-03 | **Date:** 2025-04-03 |
+| **Ficheiros de origem:** s13_dandan_e_os_40_kobolds_ready.md | **Source files:** s13_dandan_e_os_40_kobolds_ready.md |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s13_dandan_e_os_40_kobolds_summary.md ==== -->
+
+# Dandan e os 40 Kobolds
+
+| Português | English |
+|-----------|---------|
+| **Descrição:** Dandan convoca a party para resgatar uma família de kobolds sequestrada nos esgotos de Greyhawk. O grupo enfrenta armadilhas, guardas e bestas mecânicas. Negociam com um líder kobold rival, evitando conflito maior. Libertam os kobolds, escapam por passagens secretas e descobrem que a guilda dos ladrões estava envolvida. Ganham respeito da comunidade kobold e novas pistas para futuras aventuras.<br> | **Description:** Dandan gathers the party to rescue a kidnapped kobold family from Greyhawks sewers. The group faces traps, guards, and mechanical beasts. They negotiate with a rival kobold leader, avoiding major conflict. Kobolds are freed, escape is made via secret passages, and the thieves guilds involvement is uncovered. The party gains the respect of the kobold community and new leads for future adventures.<br> |
+| **PCs:** (confirmar grupo) | **PCs:** (confirm party) |
+| **NPCs:** Dandan, líder kobold rival, guardas humanos, membros da guilda dos ladrões | **NPCs:** Dandan, rival kobold leader, human guards, thieves guild members |
+| **Loot:** armas improvisadas, joias kobold, mapa dos esgotos, pistas dos ladrões | **Loot:** improvised weapons, kobold jewels, sewer map, thieves clues |
+| **Data:** 2025-04-03 | **Date:** 2025-04-03 |
+| **Ficheiros de origem:** s13_dandan_e_os_40_kobolds_resumo.md | **Source files:** s13_dandan_e_os_40_kobolds_resumo.md |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s13_enfrentando_a_guilda_dos_ladroes.txt ==== -->
+
+# Enfrentando a Guilda dos Ladrões: Bullet Points
+
+| Português                                                                                                                                                                                                                                                                                                                                 | English                                                                                                                                                                                                                                                                                                            |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| - Party infiltra-se no covil da guilda dos ladrões.<br>- Descobrem sala de reuniões e cofres protegidos.<br>- Confronto com capanga-mor e armadilhas mágicas.<br>- Rastreiam plano de tráfico de artefatos.<br>- Recuperam objetos roubados e enfrentam a fuga em perseguição.<br>- Conseguem provas para as autoridades de Greyhawk.<br> | - Party infiltrates the thieves guild hideout.<br>- Discover meeting room and guarded vaults.<br>- Confront confrontation with top henchman and magical traps.<br>- Track artifact trafficking plan.<br>- Recover stolen objects and escape while being chased.<br>- Secure evidence for Greyhawk authorities.<br> |
+| **NPCs:** capanga-mor, ladrões, vítimas sequestradas, agentes da cidade                                                                                                                                                                                                                                                                   | **NPCs:** top henchman, thieves, kidnapped victims, city officials                                                                                                                                                                                                                                                 |
+| **Loot:** objetos roubados, joias, pergaminho de proteção, chaves dos cofres                                                                                                                                                                                                                                                              | **Loot:** stolen objects, jewels, protection scroll, vault keys                                                                                                                                                                                                                                                    |
+| **Data:** 2025-04-03                                                                                                                                                                                                                                                                                                                      | **Date:** 2025-04-03                                                                                                                                                                                                                                                                                               |
+| **Ficheiros de origem:** s13_enfrentando_a_guilda_dos_ladroes_pontos.md                                                                                                                                                                                                                                                                   | **Source files:** s13_enfrentando_a_guilda_dos_ladroes_pontos.md                                                                                                                                                                                                                                                   |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s13_enfrentando_a_guilda_dos_ladroes_ready.md ==== -->
+
+# Sessão 13  Enfrentando a Guilda dos Ladrões: Ready to Play
+
+| Português | English |
+|-----------|---------|
+| **Introdução:** Guilda dos ladrões ameaça a segurança da cidade; a party precisa agir.<br><br>**Cena 1: Infiltração**<br>- Disfarces, vigilância, esquiva a armadilhas.<br><br>**Cena 2: Covil e Enfrentamento**<br>- Sala de reuniões, confronto com o capanga-mor.<br>- Armadilhas mágicas, perseguição por túneis.<br><br>**Cena 3: Recuperação e Fuga**<br>- Recuperam loot roubado.<br>- Fuga tensa com guardas e magia.<br><br>**Cena 4: Entrega à Justiça**<br>- Provas entregues às autoridades.<br>- Possível recompensa e reputação na cidade.<br> | **Introduction:** Thieves guild threatens city safety; party must act.<br><br>**Scene 1: Infiltration**<br>- Disguises, surveillance, dodging traps.<br><br>**Scene 2: Lair and Confrontation**<br>- Meeting room, fight with top henchman.<br>- Magical traps, pursuit through tunnels.<br><br>**Scene 3: Recovery and Escape**<br>- Recover stolen loot.<br>- Tense escape with guards and magic.<br><br>**Scene 4: Justice Served**<br>- Evidence delivered to authorities.<br>- Possible reward and city reputation.<br> |
+| **NPCs:** capanga-mor, ladrões, vítimas sequestradas, agentes da cidade | **NPCs:** top henchman, thieves, kidnapped victims, city officials |
+| **Loot:** objetos roubados, joias, pergaminho de proteção, chaves dos cofres | **Loot:** stolen objects, jewels, protection scroll, vault keys |
+| **Data:** 2025-04-03 | **Date:** 2025-04-03 |
+| **Ficheiros de origem:** s13_enfrentando_a_guilda_dos_ladroes_ready.md | **Source files:** s13_enfrentando_a_guilda_dos_ladroes_ready.md |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s13_enfrentando_a_guilda_dos_ladroes_summary.md ==== -->
+
+#  Enfrentando a Guilda dos Ladrões
+
+| Português | English |
+|-----------|---------|
+| **Descrição:** A party infiltra-se no covil da guilda dos ladrões para impedir uma operação de tráfico de artefatos. Utilizam disfarces, evitam armadilhas e enfrentam o capanga-mor. Recuperam objetos roubados, salvam vítimas e fogem de uma emboscada. Conseguem entregar provas às autoridades de Greyhawk, ganhando reputação e possíveis recompensas.<br> | **Description:** The party infiltrates the thieves guild hideout to stop an artifact trafficking operation. They use disguises, avoid traps, and confront the top henchman. They recover stolen items, save victims, and escape an ambush. They deliver evidence to Greyhawk authorities, earning reputation and potential rewards.<br> |
+| **PCs:** (confirmar grupo) | **PCs:** (confirm party) |
+| **NPCs:** capanga-mor, ladrões, vítimas sequestradas, agentes da cidade | **NPCs:** top henchman, thieves, kidnapped victims, city officials |
+| **Loot:** objetos roubados, joias, pergaminho de proteção, chaves dos cofres | **Loot:** stolen objects, jewels, protection scroll, vault keys |
+| **Data:** 2025-04-03 | **Date:** 2025-04-03 |
+| **Ficheiros de origem:** s13_enfrentando_a_guilda_dos_ladroes_resumo.md | **Source files:** s13_enfrentando_a_guilda_dos_ladroes_resumo.md |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s13_investigar_o_sul_da_cidade_de_greyhawk.txt ==== -->
+
+# Investigar o Sul da Cidade de Greyhawk: Bullet Points
+
+| Português                                                                                                                                                                                                                                                                                                                                                                                                           | English                                                                                                                                                                                                                                                                                                                                                                         |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| - A party recebe denúncia sobre atividades estranhas no sul da cidade.<br>- Investigações levam a esconderijos subterrâneos e comerciantes suspeitos.<br>- Descobrem túnel secreto conectando a guilda dos ladrões ao porto.<br>- Confronto com contrabandistas e feiticeiro menor.<br>- Loot encontrado: caixa com selos mágicos, mapa de rotas ilícitas.<br>- Descobertas partilhadas com autoridades locais.<br> | - The party receives a report of strange activity in the citys south.<br>- Investigations lead to underground hideouts and shady merchants.<br>- Discover a secret tunnel connecting the thieves guild to the docks.<br>- Confront smugglers and a minor wizard.<br>- Loot found: box with magic seals, illicit routes map.<br>- Discoveries shared with local authorities.<br> |
+| **NPCs:** comerciantes suspeitos, contrabandistas, feiticeiro, guardas da cidade                                                                                                                                                                                                                                                                                                                                    | **NPCs:** shady merchants, smugglers, wizard, city guards                                                                                                                                                                                                                                                                                                                       |
+| **Loot:** caixa com selos mágicos, mapa ilícito, moedas, poção menor                                                                                                                                                                                                                                                                                                                                                | **Loot:** box with magic seals, illicit map, coins, minor potion                                                                                                                                                                                                                                                                                                                |
+| **Data:** 2025-04-03                                                                                                                                                                                                                                                                                                                                                                                                | **Date:** 2025-04-03                                                                                                                                                                                                                                                                                                                                                            |
+| **Ficheiros de origem:** s13_investigar_o_sul_da_cidade_de_greyhawk_bullet.md                                                                                                                                                                                                                                                                                                                                       | **Source files:** s13_investigar_o_sul_da_cidade_de_greyhawk_bullet.md                                                                                                                                                                                                                                                                                                          |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s13_investigar_o_sul_da_cidade_de_greyhawk_ready.md ==== -->
+
+# Sessão 13  Investigar o Sul da Cidade de Greyhawk:  Ready to Play
+
+
+| Português                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | English                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Introdução:** Investigação de estranhos movimentos no sul de Greyhawk.<br><br>**Cena 1: Perguntas e Exploração**<br>- Mercado suspeito, comerciantes relutantes.<br><br>**Cena 2: Descoberta de Túneis**<br>- Acesso a esconderijos subterrâneos.<br>- Túnel secreto para o porto.<br><br>**Cena 3: Confronto com Contrabandistas**<br>- Luta com grupo armado e mago menor.<br><br>**Cena 4: Revelação e Recompensa**<br>- Loot recuperado: caixa selada, mapa ilícito.<br>- Informação entregue à guarda.<br> | **Introduction:** Investigation of strange movements in southern Greyhawk.<br><br>**Scene 1: Questions and Exploration**<br>- Shady market, reluctant merchants.<br><br>**Scene 2: Discovery of Tunnels**<br>- Access to underground hideouts.<br>- Secret tunnel to docks.<br><br>**Scene 3: Smuggler Confrontation**<br>- Fight with armed group and minor wizard.<br><br>**Scene 4: Revelation and Reward**<br>- Loot recovered: sealed box, illicit map.<br>- Information given to city guard.<br> |
+| **NPCs:** comerciantes suspeitos, contrabandistas, feiticeiro, guardas da cidade                                                                                                                                                                                                                                                                                                                                                                                                                                  | **NPCs:** shady merchants, smugglers, wizard, city guards                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| **Loot:** caixa com selos mágicos, mapa ilícito, moedas, poção menor                                                                                                                                                                                                                                                                                                                                                                                                                                              | **Loot:** box with magic seals, illicit map, coins, minor potion                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| **Data:** 2025-04-03                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | **Date:** 2025-04-03                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| **Ficheiros de origem:** s13_investigar_o_sul_da_cidade_de_greyhawk_ready.md                                                                                                                                                                                                                                                                                                                                                                                                                                      | **Source files:** s13_investigar_o_sul_da_cidade_de_greyhawk_ready.md                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s13_investigar_o_sul_da_cidade_de_greyhawk_summary.md ==== -->
+
+# Investigar o Sul da Cidade de Greyhawk
+
+| Português | English |
+|-----------|---------|
+| **Descrição:** Alertados sobre movimentos suspeitos, os aventureiros investigam o sul de Greyhawk. Descobrem ligações subterrâneas da guilda dos ladrões ao porto, enfrentam contrabandistas e um feiticeiro menor, e encontram loot mágico e mapas de rotas ilícitas. As descobertas são partilhadas com a guarda, desmantelando parte da rede criminosa.<br> | **Description:** Alerted to suspicious activity, the adventurers investigate southern Greyhawk. They uncover underground connections from the thieves guild to the docks, confront smugglers and a minor wizard, and find magical loot and illicit route maps. Discoveries are shared with the guard, disrupting part of the criminal network.<br> |
+| **PCs:** (confirmar grupo) | **PCs:** (confirm party) |
+| **NPCs:** comerciantes suspeitos, contrabandistas, feiticeiro, guardas da cidade | **NPCs:** shady merchants, smugglers, wizard, city guards |
+| **Loot:** caixa com selos mágicos, mapa ilícito, moedas, poção menor | **Loot:** box with magic seals, illicit map, coins, minor potion |
+| **Data:** 2025-04-03 | **Date:** 2025-04-03 |
+| **Ficheiros de origem:** s13_investigar_o_sul_da_cidade_de_greyhawk_resumo.md | **Source files:** s13_investigar_o_sul_da_cidade_de_greyhawk_resumo.md |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s13_o_incendio_misterioso.txt ==== -->
+
+# O Incêndio Misterioso: Bullet Points
+
+| Português                                                                                                                                                                                                                                                                                                                                                           | English                                                                                                                                                                                                                                                                                                                                        |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| - Fogo irrompe em armazéns do bairro mercantil.<br>- Party salva vítimas e enfrenta criaturas flamejantes.<br>- Descoberta de sabotagem: óleo mágico espalhado.<br>- Investigação leva a rivalidades comerciais e magia proibida.<br>- Confrontam mago incendiário, apagam o fogo e recolhem provas.<br>- Autoridades reconhecem bravura e entregam recompensa.<br> | - Fire breaks out in warehouse district.<br>- Party saves victims and faces fire creatures.<br>- Sabotage discovered: magic oil spread around.<br>- Investigation reveals business rivalries and forbidden magic.<br>- Confront arsonist mage, extinguish fire, and gather evidence.<br>- Authorities recognize bravery and give a reward.<br> |
+| **NPCs:** vítimas do incêndio, mago incendiário, autoridades locais                                                                                                                                                                                                                                                                                                 | **NPCs:** fire victims, arsonist mage, local officials                                                                                                                                                                                                                                                                                         |
+| **Loot:** gema de fogo, medalha de bravura, recibo suspeito, pó extintor mágico                                                                                                                                                                                                                                                                                     | **Loot:** fire gem, bravery medal, suspicious receipt, magic extinguisher powder                                                                                                                                                                                                                                                               |
+| **Data:** 2025-04-03                                                                                                                                                                                                                                                                                                                                                | **Date:** 2025-04-03                                                                                                                                                                                                                                                                                                                           |
+| **Ficheiros de origem:** s13_o_incendio_misterioso_bullet.md                                                                                                                                                                                                                                                                                                        | **Source files:** s13_o_incendio_misterioso_bullet.md                                                                                                                                                                                                                                                                                          |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s13_o_incendio_misterioso_ready.md ==== -->
+
+
+# Sessão 13  O Incêndio Misterioso: Resumo Detalhado
+
+| Português | English |
+|-----------|---------|
+| **Descrição:** Um incêndio criminoso devasta armazéns em Greyhawk. Os aventureiros salvam vítimas, combatem elementais de fogo e descobrem que o incêndio foi provocado com óleo mágico. A investigação leva a um mago sabotador, que é derrotado. Provas são recolhidas e entregues às autoridades, que reconhecem a coragem do grupo com medalha e recompensas.<br> | **Description:** An arson fire devastates warehouses in Greyhawk. Adventurers save victims, fight fire elementals, and discover the blaze was set with magic oil. The investigation leads to a saboteur mage, who is defeated. Evidence is collected and given to authorities, who reward the group with a medal and other loot.<br> |
+| **PCs:** (confirmar grupo) | **PCs:** (confirm party) |
+| **NPCs:** vítimas do incêndio, mago incendiário, autoridades locais | **NPCs:** fire victims, arsonist mage, local officials |
+| **Loot:** gema de fogo, medalha de bravura, recibo suspeito, pó extintor mágico | **Loot:** fire gem, bravery medal, suspicious receipt, magic extinguisher powder |
+| **Data:** 2025-04-03 | **Date:** 2025-04-03 |
+| **Ficheiros de origem:** s13_o_incendio_misterioso_resumo.md | **Source files:** s13_o_incendio_misterioso_resumo.md |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s13_o_incendio_misterioso_summary.md ==== -->
+
+# O Incêndio Misterioso
+
+A loja mágica Olho de Boccob, de Thaldrin Voss, é incendiada por guardas corruptos. A party combate elementais do fogo e salva o gnomo proprietário. Descobrem conspiração envolvendo guilda dos ladrões e corrupção policial. Investigam na taverna da Trixie, onde encontram ligações com o submundo. Decidem se enfrentam guardas corruptos ou a guilda dos ladrões.
+A loja mágica Olho de Boccob é incendiada por guardas corruptos. A party salva Thaldrin Voss, enfrenta elementais do fogo e desvenda ligações entre guilda dos ladrões e corrupção policial.
+
+
+**PCs:**  
+**NPCs:** Thaldrin Voss (gnomo), Trixie (goblin), Harlon (taberneiro), guardas corruptos, membros da guilda dos ladrões.
+**Loot:** anel mágico (Thaldrin), poções, ouro queimado, pistas dos incendiários
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s13_s14 e s16_o_que_nos_espera_a_nova_cidade.txt ==== -->
+
+
+# O Que Nos Espera a Nova Cidade: Bullet Points
+
+| Português                                                                                                                                                                                                                                                                                                                                                                                                                     | English                                                                                                                                                                                                                                                                                                                                                                                                      |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| - Party chega à nova zona reconstruída após o incêndio.<br>- Encontram resistência de moradores antigos e líderes de bairro.<br>- Foco em diplomacia, resolução de conflitos e avaliação de necessidades.<br>- Descobrem possíveis ameaças mágicas remanescentes.<br>- Loot: convites para reunião comunitária, chaves provisórias de habitação.<br>- Novo gancho: evento público e missão futura para integração social.<br> | - Party arrives at the newly rebuilt area after the fire.<br>- Encounter resistance from longtime residents and neighborhood leaders.<br>- Focus on diplomacy, conflict resolution, and assessing needs.<br>- Discover possible lingering magical threats.<br>- Loot: invitations to community meeting, provisional housing keys.<br>- New hook: public event and future mission for social integration.<br> |
+| **NPCs:** líderes de bairro, moradores antigos, recém-chegados                                                                                                                                                                                                                                                                                                                                                                | **NPCs:** neighborhood leaders, longtime residents, newcomers                                                                                                                                                                                                                                                                                                                                                |
+| **Loot:** convites, chaves provisórias de habitação, donativos locais                                                                                                                                                                                                                                                                                                                                                         | **Loot:** invitations, provisional housing keys, local donations                                                                                                                                                                                                                                                                                                                                             |
+| **Data:** 2025-04-03                                                                                                                                                                                                                                                                                                                                                                                                          | **Date:** 2025-04-03                                                                                                                                                                                                                                                                                                                                                                                         |
+| **Ficheiros de origem:** s13_o_que_nos_espera_a_nova_cidade_bullet.md                                                                                                                                                                                                                                                                                                                                                         | **Source files:** s13_o_que_nos_espera_a_nova_cidade_bullet.md                                                                                                                                                                                                                                                                                                                                               |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s14_o_que_nos_espera_a_nova_cidade_bullet.md ==== -->
+
+
+# O que nos espera a nova cidade: Bullet Points
+
+| Português                                                                                                                                                                                                                                                                                                                                                                                  | English                                                                                                                                                                                                                                                                                                                                                                       |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| - A party recebe anéis mágicos para garantir regresso seguro à taberna.<br>- Exploram diversos mercados e encontram itens familiares.<br>- Possível aquisição de mapa local e interação com NPCs conhecidos.<br>- Notam figuras suspeitas ligadas ao culto do mal elemental.<br>- Seguindo suspeitos, descobrem base secreta dos cultistas.<br>- Combate com pequeno pelotão do culto.<br> | - The party receives magic rings ensuring safe return to the tavern.<br>- They explore markets and find familiar items.<br>- Possible acquisition of a local map and interactions with known NPCs.<br>- Notice suspicious figures linked to the elemental evil cult.<br>- By following suspects, they find a secret cult base.<br>- Fight with a small squad of cultists.<br> |
+| **NPCs:** Comerciantes locais, antigos conhecidos, cultistas                                                                                                                                                                                                                                                                                                                               | **NPCs:** Local merchants, old acquaintances, cultists                                                                                                                                                                                                                                                                                                                        |
+| **Loot:** anéis mágicos de regresso, itens familiares, mapa da cidade                                                                                                                                                                                                                                                                                                                      | **Loot:** magic return rings, familiar items, city map                                                                                                                                                                                                                                                                                                                        |
+| **Data:** 2025-04-10                                                                                                                                                                                                                                                                                                                                                                       | **Date:** 2025-04-10                                                                                                                                                                                                                                                                                                                                                          |
+| **Ficheiros de origem:** s14_-_sessao_10-04_-_o_que_nos_espera_a_nova_cidade.md, s14_-_2025-04-10.txt                                                                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                                                                                                                                                               |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s16_o_que_nos_espera_a_nova_cidade_bullet.md ==== -->
+
+#  O que nos espera a nova cidade: Bullet Points
+
+| Português                                                                                                                                                                                                                                                                                                                     | English                                                                                                                                                                                                                                                                                                      |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| - Contacto com assassinos que propõem uma nova missão.<br>- Exploração urbana revela figuras ligadas ao culto do mal elemental.<br>- Seguindo suspeitos, party encontra uma base secreta do culto.<br>- Possível batalha com pelotão de cultistas.<br>- Guardas, ladrões ou outros grupos podem surgir conforme escolhas.<br> | - Contact with assassins offering a new mission.<br>- Urban exploration reveals figures linked to the elemental evil cult.<br>- Following suspects, party finds a secret cult base.<br>- Possible battle with a squad of cultists.<br>- Guards, thieves or other groups may appear depending on choices.<br> |
+| **NPCs:** assassinos, cultistas do mal elemental, guardas, ladrões                                                                                                                                                                                                                                                            | **NPCs:** assassins, elemental evil cultists, guards, thieves                                                                                                                                                                                                                                                |
+| **Loot:** anéis mágicos de regresso, pequenos artefatos de culto, mapa da cidade, recompensa dos assassinos                                                                                                                                                                                                                   | **Loot:** magic return rings, small cult artifacts, city map, assassins reward                                                                                                                                                                                                                               |
+| **Data:** 2025-04-24                                                                                                                                                                                                                                                                                                          | **Date:** 2025-04-24                                                                                                                                                                                                                                                                                         |
+| **Ficheiros de origem:** s16_-__24-04_-_o_que_nos_espera_a_nova_cidade.md, s16_-_2025-04-24.txt, s16_-_2025-04-24.md                                                                                                                                                                                                          |                                                                                                                                                                                                                                                                                                              |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s13_s14 e s16_o_que_nos_espera_a_nova_cidade_2.txt ==== -->
+
+# Sessão 13  O Que Nos Espera a Nova Cidade: Ready to Play
+
+| Português | English |
+|-----------|---------|
+| **Introdução:** Após o incêndio, o grupo visita a zona reconstruída de Greyhawk.<br><br>**Cena 1: Primeiros Contactos**<br>- Diálogo com moradores antigos e líderes.<br><br>**Cena 2: Diagnóstico Social**<br>- Mediação de conflitos, avaliação de necessidades.<br><br>**Cena 3: Possíveis Ameaças**<br>- Sinais de magia residual.<br><br>**Cena 4: Convite e Gancho**<br>- Convite para evento comunitário e chaves provisórias.<br> | **Introduction:** After the fire, the group visits the rebuilt area of Greyhawk.<br><br>**Scene 1: First Contacts**<br>- Dialogue with longtime residents and leaders.<br><br>**Scene 2: Social Assessment**<br>- Conflict mediation, needs assessment.<br><br>**Scene 3: Possible Threats**<br>- Traces of residual magic.<br><br>**Scene 4: Invitation & Hook**<br>- Invitation to community event and provisional housing keys.<br> |
+| **NPCs:** líderes de bairro, moradores antigos, recém-chegados | **NPCs:** neighborhood leaders, longtime residents, newcomers |
+| **Loot:** convites, chaves provisórias de habitação, donativos locais | **Loot:** invitations, provisional housing keys, local donations |
+| **Data:** 2025-04-03 | **Date:** 2025-04-03 |
+| **Ficheiros de origem:** s13_o_que_nos_espera_a_nova_cidade_ready.md | **Source files:** s13_o_que_nos_espera_a_nova_cidade_ready.md |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s14_o_que_nos_espera_a_nova_cidade_ready.md ==== -->
+
+
+
+# Sessão 14  O que nos espera a nova cidade: Ready to Play
+
+| Português | English |
+|-----------|---------|
+| **Introdução:** A party chega à nova cidade e recebe anéis mágicos na taberna.<br><br>**Cena 1: Exploração dos Mercados**<br>- Explorar lojas, obter mapa e reencontrar NPCs.<br><br>**Cena 2: Sinais de Estranheza**<br>- Observar figuras suspeitas e indícios do culto.<br><br>**Cena 3: Seguindo Suspeitos**<br>- Descoberta de base secreta.<br><br>**Cena 4: Confronto com Cultistas**<br>- Combate ou investigação social.<br> | **Introduction:** The party arrives in the new city and receives magic rings at the tavern.<br><br>**Scene 1: Market Exploration**<br>- Explore shops, obtain a map, meet NPCs.<br><br>**Scene 2: Signs of Strangeness**<br>- Notice suspicious figures and cult clues.<br><br>**Scene 3: Following Suspects**<br>- Find secret cult base.<br><br>**Scene 4: Cultist Confrontation**<br>- Fight or social investigation.<br> |
+| **NPCs:** Comerciantes locais, antigos conhecidos, cultistas | **NPCs:** Local merchants, old acquaintances, cultists |
+| **Loot:** anéis mágicos de regresso, itens familiares, mapa da cidade | **Loot:** magic return rings, familiar items, city map |
+| **Data:** 2025-04-10 | **Date:** 2025-04-10 |
+| **Ficheiros de origem:** s14_-_sessao_10-04_-_o_que_nos_espera_a_nova_cidade.md, s14_-_2025-04-10.txt |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s16_o_que_nos_espera_a_nova_cidade_ready.md ==== -->
+
+# Sessão 16  O que nos espera a nova cidade: Ready to Play
+
+| Português | English |
+|-----------|---------|
+| **Introdução:** Continuação direta da sessão anterior; party contactada por assassinos para missão.<br><br>**Cena 1: Exploração Urbana**<br>- Observação e interação com NPCs, lojas e possíveis inimigos.<br><br>**Cena 2: Sinais do Culto**<br>- Avistam membros do culto do mal elemental.<br><br>**Cena 3: Base Secreta**<br>- Descobrem esconderijo.<br>- Possível combate com pelotão de cultistas, ou confronto social.<br><br>**Cena 4: Novos Inimigos?**<br>- Conforme escolhas, podem surgir guardas, ladrões ou outros antagonistas.<br> | **Introduction:** Direct continuation from the previous session; party contacted by assassins for a mission.<br><br>**Scene 1: Urban Exploration**<br>- Interact with NPCs, shops, and possible enemies.<br><br>**Scene 2: Cult Signs**<br>- Spot members of the elemental evil cult.<br><br>**Scene 3: Secret Base**<br>- Discover hideout.<br>- Possible fight with cult squad, or social confrontation.<br><br>**Scene 4: New Enemies?**<br>- Depending on choices, guards, thieves, or others may appear.<br> |
+| **NPCs:** assassinos, cultistas do mal elemental, guardas, ladrões | **NPCs:** assassins, elemental evil cultists, guards, thieves |
+| **Loot:** anéis mágicos de regresso, pequenos artefatos de culto, mapa da cidade, recompensa dos assassinos | **Loot:** magic return rings, small cult artifacts, city map, assassins reward |
+| **Data:** 2025-04-24 | **Date:** 2025-04-24 |
+| **Ficheiros de origem:** s16_-__24-04_-_o_que_nos_espera_a_nova_cidade.md, s16_-_2025-04-24.txt, s16_-_2025-04-24.md |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s13_s14 e s16_o_que_nos_espera_a_nova_cidade_3.txt ==== -->
+
+
+#  O Que Nos Espera a Nova Cidade
+
+| Português | English |
+|-----------|---------|
+| **Descrição:** Após o incêndio, o grupo auxilia a integração social entre antigos e novos moradores na zona reconstruída. Foco em diplomacia e resolução de tensões. Descobrem traços de magia residual e ganham acesso a reuniões comunitárias e chaves provisórias, com possível missão futura de acompanhamento.<br> | **Description:** After the fire, the group helps integrate old and new residents in the rebuilt area. Focus on diplomacy and resolving tensions. Discover traces of residual magic and gain access to community meetings and provisional keys, with a possible future follow-up mission.<br> |
+| **PCs:** (confirmar grupo) | **PCs:** (confirm party) |
+| **NPCs:** líderes de bairro, moradores antigos, recém-chegados | **NPCs:** neighborhood leaders, longtime residents, newcomers |
+| **Loot:** convites, chaves provisórias de habitação, donativos locais | **Loot:** invitations, provisional housing keys, local donations |
+| **Data:** 2025-04-03 | **Date:** 2025-04-03 |
+| **Ficheiros de origem:** s13_o_que_nos_espera_a_nova_cidade_resumo.md | **Source files:** s13_o_que_nos_espera_a_nova_cidade_resumo.md |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s14_o_que_nos_espera_a_nova_cidade_summary.md ==== -->
+
+
+
+# O que nos espera a nova cidade: Resumo Detalhado
+
+| Português | English |
+|-----------|---------|
+| **Descrição:** Após receberem anéis mágicos que garantem o regresso à taberna, os aventureiros exploram mercados e lojas na nova cidade. Encontram itens familiares, adquirem mapa e interagem com antigos conhecidos. Observam sinais de atividade do culto do mal elemental e descobrem uma base secreta dos cultistas, culminando em confronto. | **Description:** After receiving magic rings for safe return to the tavern, the adventurers explore markets and shops in the new city. They find familiar items, acquire a map, and interact with old acquaintances. They spot signs of the elemental evil cult and discover a secret base, leading to a confrontation. |
+| **PCs:** Raylahn, Wagner, Drayl, Kai, Markus | **PCs:** Raylahn, Wagner, Drayl, Kai, Markus |
+| **NPCs:** Comerciantes locais, antigos conhecidos, cultistas | **NPCs:** Local merchants, old acquaintances, cultists |
+| **Loot:** anéis mágicos de regresso, itens familiares, mapa da cidade | **Loot:** magic return rings, familiar items, city map |
+| **Data:** 2025-04-10 | **Date:** 2025-04-10 |
+| **Ficheiros de origem:** s14_-_sessao_10-04_-_o_que_nos_espera_a_nova_cidade.md, s14_-_2025-04-10.txt |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s16_o_que_nos_espera_a_nova_cidade_summary.md ==== -->
+
+# O que nos espera a nova cidade
+
+| Português | English |
+|-----------|---------|
+| **Descrição:** Os aventureiros são abordados por assassinos para uma missão especial. Durante a exploração da cidade, percebem atividades suspeitas relacionadas ao culto do mal elemental. Ao seguirem suspeitos, descobrem uma base secreta de cultistas e enfrentam um pequeno pelotão inimigo. Dependendo das interações, outros grupos (guardas, ladrões) podem interferir. | **Description:** The adventurers are approached by assassins for a special mission. During city exploration, they notice suspicious activity related to the elemental evil cult. Following suspects, they discover a secret cult base and face a small enemy squad. Depending on interactions, other groups (guards, thieves) may intervene. |
+| **PCs:** Markus Grimm, Raylahn, Bok Thunderfist, Drayl Barash, Wagner | **PCs:** Markus Grimm, Raylahn, Bok Thunderfist, Drayl Barash, Wagner |
+| **NPCs:** assassinos, cultistas do mal elemental, guardas, ladrões | **NPCs:** assassins, elemental evil cultists, guards, thieves |
+| **Loot:** anéis mágicos de regresso, pequenos artefatos de culto, mapa da cidade, recompensa dos assassinos | **Loot:** magic return rings, small cult artifacts, city map, assassins reward |
+| **Data:** 2025-04-24 | **Date:** 2025-04-24 |
+| **Ficheiros de origem:** s16_-__24-04_-_o_que_nos_espera_a_nova_cidade.md, s16_-_2025-04-24.txt, s16_-_2025-04-24.md |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s14_mao_de_zan_cetro_ordem_escarlate.txt ==== -->
+
+
+
+# A Mão de Zan, o Cetro e a Ordem Escarlate: Bullet Points
+
+| Português                                                                                                                                                                                                                                                                                                                                              | English                                                                                                                                                                                                                                                                                                                                                                              |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| - Party participa numa procissão religiosa pelas ruas.<br>- É oferecido um ceptro ritual à cidade.<br>- Líder da Ordem Escarlate faz discurso; objeto parece amaldiçoado.<br>- Evento é interrompido por aparição espectral e pânico.<br>- Party intervém para proteger civis e investigar o ceptro.<br>- Descobrem selo mágico na base do objeto.<br> | - Party joins a religious procession through the city streets.<br>- A ritual scepter is gifted to the city.<br>- Leader of the Scarlet Order gives a speech; the object seems cursed.<br>- The event is interrupted by a spectral apparition and panic.<br>- Party intervenes to protect civilians and investigate the scepter.<br>- Discover a magic seal at the object's base.<br> |
+| **NPCs:** líder da Ordem Escarlate, clérigos, civis, aparição espectral                                                                                                                                                                                                                                                                                | **NPCs:** Scarlet Order leader, clerics, civilians, spectral apparition                                                                                                                                                                                                                                                                                                              |
+| **Loot:** ceptro ritual (amaldiçoado), selo mágico, oferendas de civis                                                                                                                                                                                                                                                                                 | **Loot:** ritual scepter (cursed), magic seal, civilian offerings                                                                                                                                                                                                                                                                                                                    |
+| **Data:** 2025-04-10                                                                                                                                                                                                                                                                                                                                   | **Date:** 2025-04-10                                                                                                                                                                                                                                                                                                                                                                 |
+| **Ficheiros de origem:** s14_-_sessao_10-04_–_dm_guine.md, s14_-_sessao_10-04_-_henrique.md                                                                                                                                                                                                                                                            |                                                                                                                                                                                                                                                                                                                                                                                      |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s14_mao_de_zan_cetro_ordem_escarlate_ready.md ==== -->
+
+
+
+# Sessão 14  A Mão de Zan, o Cetro e a Ordem Escarlate: Ready to Play
+
+| Português | English |
+|-----------|---------|
+| **Introdução:** Party convidada para participar de procissão solene na cidade.<br><br>**Cena 1: Procissão e Oferta**<br>- Apresentação do ceptro; líder religioso faz discurso.<br><br>**Cena 2: Aparição Espectral**<br>- Manifestação mágica causa pânico.<br>- Teste social ou combate para acalmar multidão.<br><br>**Cena 3: Investigação do Ceptro**<br>- Descoberta de selo mágico e possíveis efeitos nefastos.<br><br>**Cena 4: Repercussão Pública**<br>- Ganham reputação; pista para culto ou ameaça maior.<br> | **Introduction:** Party invited to take part in a solemn city procession.<br><br>**Scene 1: Procession and Gift**<br>- Scepter presented; religious leader speaks.<br><br>**Scene 2: Spectral Apparition**<br>- Magical manifestation causes panic.<br>- Social challenge or combat to calm the crowd.<br><br>**Scene 3: Scepter Investigation**<br>- Discovery of magic seal and possible harmful effects.<br><br>**Scene 4: Public Impact**<br>- Gain reputation; clue toward cult or greater threat.<br> |
+| **NPCs:** líder da Ordem Escarlate, clérigos, civis, aparição espectral | **NPCs:** Scarlet Order leader, clerics, civilians, spectral apparition |
+| **Loot:** ceptro ritual (amaldiçoado), selo mágico, oferendas de civis | **Loot:** ritual scepter (cursed), magic seal, civilian offerings |
+| **Data:** 2025-04-10 | **Date:** 2025-04-10 |
+| **Ficheiros de origem:** s14_-_sessao_10-04__dm_guine.md, s14_-_sessao_10-04_-_henrique.md |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s14_mao_de_zan_cetro_ordem_escarlate_summary.md ==== -->
+
+
+
+# Mão de Zan, o Cetro e a Ordem Escarlate
+
+| Português | English |
+|-----------|---------|
+| **Descrição:** A party participa numa procissão liderada pela Ordem Escarlate, onde um ceptro ritual é oferecido à cidade. Durante o evento, uma aparição espectral interrompe tudo, provocando caos. O grupo intervém para proteger civis, investiga o ceptro e descobre um selo mágico suspeito, levantando pistas sobre magia perigosa ou culto oculto. | **Description:** The party joins a procession led by the Scarlet Order, where a ritual scepter is given to the city. During the event, a spectral apparition causes chaos. The group intervenes to protect civilians, investigates the scepter, and discovers a suspicious magic seal, hinting at dangerous magic or a hidden cult. |
+| **PCs:** Raylahn, Wagner, Drayl, Kai, Markus | **PCs:** Raylahn, Wagner, Drayl, Kai, Markus |
+| **NPCs:** líder da Ordem Escarlate, clérigos, civis, aparição espectral | **NPCs:** Scarlet Order leader, clerics, civilians, spectral apparition |
+| **Loot:** ceptro ritual (amaldiçoado), selo mágico, oferendas de civis | **Loot:** ritual scepter (cursed), magic seal, civilian offerings |
+| **Data:** 2025-04-10 | **Date:** 2025-04-10 |
+| **Ficheiros de origem:** s14_-_sessao_10-04__dm_guine.md, s14_-_sessao_10-04_-_henrique.md |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s14_resgate_abigail_pessegueiro_espelhos.txt ==== -->
+
+
+# Resgate de Abigail em Pessegueiro e os Espelhos: Bullet Points
+
+| Português                                                                                                                                                                                                                                                                                                                                                                                                             | English                                                                                                                                                                                                                                                                                                                                                                                                   |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| - Pedido de ajuda para resgatar Abigail, filha de camponeses de Pessegueiro.<br>- Grupo investiga mansão abandonada e lida com shapeshifters.<br>- Descobrem sala de espelhos com armadilhas mágicas.<br>- Combate tenso com criaturas metamórficas e puzzles de espelho.<br>- Libertam Abigail e encontram vestígios de magia de outra dimensão.<br>- Recebem gratidão dos pais e itens mágicos como recompensa.<br> | - Request for help to rescue Abigail, daughter of peasants from Pessegueiro.<br>- Group investigates abandoned manor and deals with shapeshifters.<br>- Discover a hall of mirrors with magical traps.<br>- Tense combat with morphic creatures and mirror puzzles.<br>- Free Abigail and find traces of magic from another dimension.<br>- Receive gratitude from parents and magic items as reward.<br> |
+| **NPCs:** Abigail, camponeses de Pessegueiro, shapeshifters                                                                                                                                                                                                                                                                                                                                                           | **NPCs:** Abigail, Pessegueiro peasants, shapeshifters                                                                                                                                                                                                                                                                                                                                                    |
+| **Loot:** poção de restauração, espelho mágico, medalhão protetor                                                                                                                                                                                                                                                                                                                                                     | **Loot:** restoration potion, magic mirror, protective medallion                                                                                                                                                                                                                                                                                                                                          |
+| **Data:** 2025-04-10                                                                                                                                                                                                                                                                                                                                                                                                  | **Date:** 2025-04-10                                                                                                                                                                                                                                                                                                                                                                                      |
+| **Ficheiros de origem:** s14_-__-__10-04__dm_guine.md, s14_-__-__10-04_-_henrique.md, s14_-__10-04_-_o_que_nos_espera_a_nova_cidade.md                                                                                                                                                                                                                                                                                |                                                                                                                                                                                                                                                                                                                                                                                                           |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s14_resgate_abigail_pessegueiro_espelhos_ready.md ==== -->
+
+
+
+# Sessão 14  Resgate de Abigail em Pessegueiro e os Espelhos: Ready to Play
+
+| Português | English |
+|-----------|---------|
+| **Introdução:** Pedido urgente para resgatar Abigail desaparecida.<br><br>**Cena 1: Chegada a Pessegueiro**<br>- Conversa com pais; recolha de pistas.<br><br>**Cena 2: Mansão Abandonada**<br>- Infiltração e primeiras armadilhas.<br><br>**Cena 3: Sala dos Espelhos**<br>- Puzzle mágico, combate com shapeshifters.<br><br>**Cena 4: Libertação e Recompensa**<br>- Abigail é salva; grupo recebe itens mágicos.<br> | **Introduction:** Urgent request to rescue missing Abigail.<br><br>**Scene 1: Arrival in Pessegueiro**<br>- Talk to parents; gather clues.<br><br>**Scene 2: Abandoned Manor**<br>- Infiltration and first traps.<br><br>**Scene 3: Hall of Mirrors**<br>- Magic puzzle, battle with shapeshifters.<br><br>**Scene 4: Rescue and Reward**<br>- Abigail saved; group receives magic items.<br> |
+| **NPCs:** Abigail, camponeses de Pessegueiro, shapeshifters | **NPCs:** Abigail, Pessegueiro peasants, shapeshifters |
+| **Loot:** poção de restauração, espelho mágico, medalhão protetor | **Loot:** restoration potion, magic mirror, protective medallion |
+| **Data:** 2025-04-10 | **Date:** 2025-04-10 |
+| **Ficheiros de origem:** s14_-__-__10-04__dm_guine.md, s14_-__-__10-04_-_henrique.md, s14_-__10-04_-_o_que_nos_espera_a_nova_cidade.md |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s14_resgate_abigail_pessegueiro_espelhos_summary.md ==== -->
+
+
+
+# Resgate de Abigail em Pessegueiro e os Espelhos: Resumo Detalhado
+
+| Português | English |
+|-----------|---------|
+| **Descrição:** O grupo aceita a missão de resgatar Abigail, raptada por shapeshifters e presa numa mansão cheia de armadilhas e espelhos mágicos. Solucionam puzzles e derrotam criaturas metamórficas. Libertam Abigail, descobrem magia alienígena e recebem recompensas dos camponeses. | **Description:** The group takes on the mission to rescue Abigail, kidnapped by shapeshifters and trapped in a mansion full of traps and magic mirrors. They solve puzzles, defeat morphic creatures, free Abigail, discover alien magic, and receive rewards from the peasants. |
+| **PCs:** Raylahn, Wagner, Drayl, Kai, Markus | **PCs:** Raylahn, Wagner, Drayl, Kai, Markus |
+| **NPCs:** Abigail, camponeses de Pessegueiro, shapeshifters | **NPCs:** Abigail, Pessegueiro peasants, shapeshifters |
+| **Loot:** poção de restauração, espelho mágico, medalhão protetor | **Loot:** restoration potion, magic mirror, protective medallion |
+| **Data:** 2025-04-10 | **Date:** 2025-04-10 |
+| **Ficheiros de origem:** s14_-__-__10-04__dm_guine.md, s14_-__-__10-04_-_henrique.md, s14_-__10-04_-_o_que_nos_espera_a_nova_cidade.md |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

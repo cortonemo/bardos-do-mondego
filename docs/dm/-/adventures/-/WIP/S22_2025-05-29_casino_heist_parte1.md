@@ -3,7 +3,7 @@
 **Semana:** 22  
 **Sessão:** S22 
 
-***1 de Planting, 999 CY***
+***22 de Coldeven, 999 CY***
 
 ---
 ## 🗓 Linha Temporal

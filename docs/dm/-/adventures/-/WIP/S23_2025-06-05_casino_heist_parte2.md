@@ -3,7 +3,7 @@
 **Semana:** 23  
 **Sessão:** S23 
 
-***8 de Planting, 999 CY***
+1 de Planting, 999 CY***
 
 ---
 ## 🗓 Linha Temporal

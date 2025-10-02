@@ -3,7 +3,7 @@
 **Semana:** 26  
 **Sessão:** S26  
 
-***1 de Flocktime, 999 CY***
+***22 de Planting, 999 CY***
 
 ---
 ## 🗓 Linha Temporal

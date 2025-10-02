@@ -1,0 +1,884 @@
+# Eribend, Kobolds & O Baile de Blackfair  Bullet Points
+
+| Português                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | English                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| - Kythria leva grupo ao taberneiro; missão: criar contactos comerciais em Eribend e abrir rotas para Blackfair Manor/Two Fords.<br>- Viagem até acampamento de comerciantes; conhecem Myria (anã) e Jeraldina (meio-orc).<br>- Comerciantes relatam distúrbios e ataques recentes, ambiente de desconfiança.<br>- Ouvem gritos, correm para o início do acampamento: ataque de kobolds e kobold alado (Em honra de Nerzul!).<br>- Kai reconhece um dos kobolds como Cavaleiro da Luz, tenta protegê-lo; kobold suicida-se durante interrogatório.<br>- Entre os pertences dos kobolds: bilhete sobre o baile em Blackfair Manor, referência ao regresso da Dama Sombria, medalhões com moedas de bando rival de Greyhawk.<br>- Grupo ganha pistas de conspiração/ameaça para campanhas futuras.<br> | - Kythria brings group to the innkeeper; mission: establish trade contacts in Eribend and open routes to Blackfair Manor/Two Fords.<br>- Travel to merchant camp; meet Myria (dwarf) and Jeraldina (half-orc).<br>- Merchants report disturbances and recent attacks, atmosphere of distrust.<br>- Hear screams, rush to camp entrance: kobold and winged kobold attack (In honor of Nerzul!).<br>- Kai recognizes a kobold as a Knight of Light, tries to protect him; kobold commits suicide during questioning.<br>- Among the kobolds belongings: ticket to Blackfair Manor ball, reference to return of the Dark Lady, medallions with coins from rival Greyhawk gang.<br>- Group gains clues of conspiracy/threats for future campaigns.<br> |
+| **PCs:** Kai, Grix, Varus, Triss                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | **PCs:** Kai, Grix, Varus, Triss                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| **NPCs:** Kythria, Taverneiro, Myria, Jeraldina, Cavaleiro da Luz (kobold), Torzac (referência), Dama Sombria (referência)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | **NPCs:** Kythria, Innkeeper, Myria, Jeraldina, Knight of Light (kobold), Torzac (reference), Dark Lady (reference)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| **Loot:** Bilhete do baile de Blackfair Manor, medalhões/moedas de Greyhawk, pistas de conspiração                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | **Loot:** Blackfair Manor ball ticket, Greyhawk gang medallions/coins, conspiracy clues                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| **Data:** 2025-02-13                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | **Date:** 2025-02-13                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| **Ficheiros de origem:** s06_eribend_kobolds_baile_blackfair_pontos.md                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | **Source files:** s06_eribend_kobolds_baile_blackfair_pontos.md                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s06_eribend_kobolds_baile_blackfair_ready.md ==== -->
+
+# Eribend, Kobolds & O Baile de Blackfair  Ready to Play
+
+| Português | English |
+|-----------|---------|
+| **Introdução:** Kythria convoca o grupo a pedido do taberneiro para missão comercial: criar contactos em Eribend e rotas para Blackfair Manor/Two Fords.<br><br>**Cena 1: Acampamento de Comerciantes**<br>- Conhecem Myria (anã) e Jeraldina (meio-orc), comerciantes preocupadas.<br>- Podem obter rumores sobre ataques e ambiente tenso.<br><br>**Cena 2: Ataque dos Kobolds**<br>- Gritos; kobolds e kobold alado atacam comerciantes.<br>- Kai tenta intervir ao reconhecer um Cavaleiro da Luz entre eles.<br>- Kobold suicida-se antes de revelar tudo.<br><br>**Cena 3: Descobertas & Ganchos**<br>- Loot: bilhete do baile de Blackfair Manor, menção à Dama Sombria, medalhões/moedas de Greyhawk.<br>- Novos ganchos de conspiração e culto para campanhas futuras.<br> | **Introduction:** Kythria calls the group at the innkeepers request for a trade mission: create contacts in Eribend and routes to Blackfair Manor/Two Fords.<br><br>**Scene 1: Merchant Camp**<br>- Meet Myria (dwarf) and Jeraldina (half-orc), worried merchants.<br>- Can get rumors about attacks and tense atmosphere.<br><br>**Scene 2: Kobold Attack**<br>- Screams; kobolds and winged kobold attack merchants.<br>- Kai tries to intervene, recognizing a Knight of Light among them.<br>- Kobold commits suicide before revealing all.<br><br>**Scene 3: Discoveries & Hooks**<br>- Loot: Blackfair Manor ball ticket, mention of the Dark Lady, Greyhawk medallions/coins.<br>- New conspiracy and cult hooks for future campaigns.<br> |
+| **PCs:** Kai, Grix, Varus, Triss | **PCs:** Kai, Grix, Varus, Triss |
+| **NPCs:** Kythria, Taverneiro, Myria, Jeraldina, Cavaleiro da Luz (kobold), Torzac (referência), Dama Sombria (referência) | **NPCs:** Kythria, Innkeeper, Myria, Jeraldina, Knight of Light (kobold), Torzac (reference), Dark Lady (reference) |
+| **Loot:** Bilhete do baile de Blackfair Manor, medalhões/moedas de Greyhawk, pistas de conspiração | **Loot:** Blackfair Manor ball ticket, Greyhawk gang medallions/coins, conspiracy clues |
+| **Data:** 2025-02-13 | **Date:** 2025-02-13 |
+| **Ficheiros de origem:** s06_eribend_kobolds_baile_blackfair_ready.md | **Source files:** s06_eribend_kobolds_baile_blackfair_ready.md |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s06_eribend_kobolds_baile_blackfair_summary.md ==== -->
+
+# Eribend, Kobolds & O Baile de Blackfair
+
+| Português | English |
+|-----------|---------|
+| **Descrição:** A pedido do taberneiro (via Kythria), o grupo (Kai, Grix, Varus, Triss) parte para Eribend para criar contactos e rotas comerciais. Encontram Myria e Jeraldina, comerciantes alarmadas por ataques de kobolds, incluindo um kobold alado. Kai reconhece um Cavaleiro da Luz entre os inimigos; tenta salvá-lo, mas o kobold suicida-se. Entre o saque: bilhete para o baile de Blackfair Manor, menção ao regresso da Dama Sombria, moedas de um bando rival de Greyhawk. Novos ganchos de conspiração para futuras campanhas.<br> | **Description:** At the innkeepers (via Kythria) request, the group (Kai, Grix, Varus, Triss) goes to Eribend to establish trade contacts and routes. They meet Myria and Jeraldina, merchants alarmed by kobold attacks, including a winged kobold. Kai recognizes a Knight of Light among the enemies; tries to save him, but the kobold commits suicide. Among the loot: ticket for the Blackfair Manor ball, mention of the Dark Ladys return, coins from a rival Greyhawk gang. New conspiracy hooks for future campaigns.<br> |
+| **PCs:** Kai, Grix, Varus, Triss | **PCs:** Kai, Grix, Varus, Triss |
+| **NPCs:** Kythria, Taverneiro, Myria, Jeraldina, Cavaleiro da Luz (kobold), Torzac (referência), Dama Sombria (referência) | **NPCs:** Kythria, Innkeeper, Myria, Jeraldina, Knight of Light (kobold), Torzac (reference), Dark Lady (reference) |
+| **Loot:** Bilhete do baile de Blackfair Manor, medalhões/moedas de Greyhawk, pistas de conspiração | **Loot:** Blackfair Manor ball ticket, Greyhawk gang medallions/coins, conspiracy clues |
+| **Data:** 2025-02-13 | **Date:** 2025-02-13 |
+| **Ficheiros de origem:** s06_eribend_kobolds_baile_blackfair_resumo.md | **Source files:** s06_eribend_kobolds_baile_blackfair_resumo.md |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s06_grutas_pantano_bullywugs_basilisco.txt ==== -->
+
+# Grutas do Pântano: Bullywugs, Baltigard & o Basilisco  Bullet Points
+
+| Português                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | English                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| - Companhia envia grupo para explorar grutas a sul.<br>- Travessia por pântano místico; ambiente denso, fauna estranha.<br>- Encontram Baltigard (humano, conhecido de Brok) e Cocas (bullywug, amigo de infância de Conan).<br>- Bullywugs acolhem grupo; chefe Mestre Yoda relata ataque de cria de basilisco.<br>- Missão: derrotar basilisco progenitor para proteger a aldeia.<br>- Caminho passa por ruínas antigas com duas pedras mágicas e pintura rupestre de nave a entregar pedras a três pessoas.<br>- Sessão termina à porta do terceiro templo.<br> | - Company sends group to explore southern caves.<br>- Trek through a mystical swamp; dense environment, strange fauna.<br>- Meet Baltigard (human, acquaintance of Brok) and Cocas (bullywug, Conans childhood friend).<br>- Bullywugs welcome group; chief Mestre Yoda reports attack by basilisk spawn.<br>- Quest: defeat progenitor basilisk to protect village.<br>- On the way: ancient ruins with two magic stones and cave painting of a ship handing stones to three people.<br>- Session ends at the door to the third temple.<br> |
+| **NPCs:** Baltigard, Cocas, Mestre Yoda (chefe bullywug), Brok, Conan, Basilisco Progenitor, bullywugs, sacerdotisa rival, gladiadores, cultistas elementais                                                                                                                                                                                                                                                                                                                                                                                                       | **NPCs:** Baltigard, Cocas, Mestre Yoda (bullywug chief), Brok, Conan, Progenitor Basilisk, bullywugs, rival priestess, gladiators, elemental cultists                                                                                                                                                                                                                                                                                                                                                                                       |
+| **Loot:** basilisk eye, three magic stones, elemental ritual scroll, gold, calling ring                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | **Loot:** basilisk eye, three magic stones, elemental ritual scroll, gold, calling ring                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| **Data:** 2025-02-13                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | **Date:** 2025-02-13                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| **Ficheiros de origem:** s06_grutas_pantano_bullywugs_basilisco_pontos.md                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | **Source files:** s06_grutas_pantano_bullywugs_basilisco_pontos.md                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s06_grutas_pantano_bullywugs_basilisco_ready.md ==== -->
+
+# Grutas do Pântano: Bullywugs, Baltigard & o Basilisco  Ready to Play
+
+| Português                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | English                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Introdução:** Companhia contrata grupo para explorar grutas a sul do mapa.<br><br>**Cena 1: Travessia do Pântano**<br>- Ambiente denso e estranho, testes de Sobrevivência para evitar perigos.<br>- Encontram Baltigard (aliado de Brok) e Cocas (amigo de Conan).<br><br>**Cena 2: Aldeia Bullywug**<br>- Recepção pelo chefe Mestre Yoda.<br>- Relato de ataque de cria de basilisco.<br>- Missão: derrotar basilisco progenitor.<br><br>**Cena 3: Ruínas & Mistério**<br>- Ruínas antigas com duas pedras mágicas e pintura de nave entregando três pedras a três pessoas.<br><br>**Encerramento:**<br>- Chegam ao terceiro templo, prontos para o desafio final.<br> | **Introduction:** Company hires group to explore southern caves.<br><br>**Scene 1: Swamp Crossing**<br>- Dense, strange environment, Survival checks to avoid dangers.<br>- Meet Baltigard (Broks ally) and Cocas (Conans friend).<br><br>**Scene 2: Bullywug Village**<br>- Welcomed by chief Mestre Yoda.<br>- Told about basilisk spawn attack.<br>- Quest: defeat progenitor basilisk.<br><br>**Scene 3: Ruins & Mystery**<br>- Ancient ruins with two magic stones and mural of ship handing three stones to three people.<br><br>**Conclusion:**<br>- Arrive at the third temple, ready for the final challenge.<br> |
+| **NPCs:** Baltigard, Cocas, Mestre Yoda, Brok, Conan, Basilisco Progenitor, bullywugs, sacerdotisa rival, gladiadores, cultistas elementais                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | **NPCs:** Baltigard, Cocas, Mestre Yoda, Brok, Conan, Progenitor Basilisk, bullywugs, rival priestess, gladiators, elemental cultists                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| **Loot:** basilisk eye, three magic stones, elemental ritual scroll, gold, calling ring                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | **Loot:** basilisk eye, three magic stones, elemental ritual scroll, gold, calling ring                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| **Data:** 2025-02-13                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | **Date:** 2025-02-13                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| **Ficheiros de origem:** s06_grutas_pantano_bullywugs_basilisco_ready.md                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | **Source files:** s06_grutas_pantano_bullywugs_basilisco_ready.md                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s06_grutas_pantano_bullywugs_basilisco_summary.md ==== -->
+
+# Grutas do Pântano: Bullywugs, Baltigard & o Basilisco
+
+| Português | English |
+|-----------|---------|
+| **Descrição:** O grupo explora grutas a sul após missão da Companhia, cruzando pântano místico. Encontram Baltigard e Cocas, são acolhidos na aldeia dos bullywugs, liderada por Mestre Yoda, que pede ajuda contra basilisco progenitor. Descobrem ruínas com duas pedras mágicas e pintura de nave a entregar três pedras a três pessoas. Sessão termina na entrada do terceiro templo, prontos para novos desafios.<br> | **Description:** The group explores southern caves after a Company quest, crossing a mystical swamp. They meet Baltigard and Cocas, are welcomed to the bullywug village led by Mestre Yoda, who asks for help against the progenitor basilisk. They find ruins with two magic stones and a painting of a ship giving three stones to three people. Session ends at the entrance of the third temple, ready for new challenges.<br> |
+| **PCs:** Bok, Sage, Varus, Baltigard, outros [por confirmar] | **PCs:** Bok, Sage, Varus, Baltigard, others [to confirm] |
+| **NPCs:** Baltigard, Cocas, Mestre Yoda, Brok, Conan, Basilisco Progenitor, bullywugs, sacerdotisa rival, gladiadores, cultistas elementais | **NPCs:** Baltigard, Cocas, Mestre Yoda, Brok, Conan, Progenitor Basilisk, bullywugs, rival priestess, gladiators, elemental cultists |
+| **Loot:** basilisk eye, three magic stones, elemental ritual scroll, gold, calling ring | **Loot:** basilisk eye, three magic stones, elemental ritual scroll, gold, calling ring |
+| **Data:** 2025-02-13 | **Date:** 2025-02-13 |
+| **Ficheiros de origem:** s06_grutas_pantano_bullywugs_basilisco_resumo.md | **Source files:** s06_grutas_pantano_bullywugs_basilisco_resumo.md |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s07_eribend_raptos_cultistas_odrak.txt ==== -->
+
+# Eribend: Raptos & Cultistas de Odrak  Bullet Points
+
+| Português                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | English                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| - Grupo descansa em tenda emprestada por Myria e Jeraldina; encontra Flynn, novo membro enviado pelo taberneiro.<br>- Chegada a Eribend; Dolrea Vas recebe-os e pede ajuda para distúrbios e rotas comerciais.<br>- Compras no mercado (meias para Grix e Triss).<br>- Dolrea revela desaparecimentos de comerciantes/famílias, quadro de raptos diários.<br>- Taverneiro relata vítimas desaparecendo em casa ou no caminho, sem sinais de magia óbvia.<br>- Seis encapuzados atacam o grupo na taberna; combate.<br>- Nos corpos, lista de sete nomes: Dolrea Vas é o próximo alvo.<br>- Conclusão: cultistas de Odrak responsáveis, cidade em risco iminente.<br> | - Group rests in a tent lent by Myria and Jeraldina; meets Flynn, a new member sent by the innkeeper.<br>- Arrival at Eribend; Dolrea Vas greets them and asks for help with disturbances and trade routes.<br>- Shopping at the market (socks for Grix and Triss).<br>- Dolrea reveals disappearances of merchants/families, board of daily kidnappings.<br>- Innkeeper reports victims disappearing at home or on the way, no sign of obvious magic.<br>- Six hooded figures attack the group in the tavern; fight ensues.<br>- On the bodies, a list of seven names: Dolrea Vas is the next target.<br>- Conclusion: Odrak cultists responsible, city in imminent danger.<br> |
+| **NPCs:** Dolrea Vas, Flynn, Myria, Jeraldina, cultistas de Odrak, taverneiro Machado Quebrado, kobold cultist                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | **NPCs:** Dolrea Vas, Flynn, Myria, Jeraldina, Odrak cultists, innkeeper Machado Quebrado, kobold cultist                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| **Loot:** Lista de nomes (evidência), 7GP, empadas, meias, mapa                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | **Loot:** List of names (evidence), 7GP, pies, socks, map                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| **Data:** 2025-02-20                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | **Date:** 2025-02-20                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| **Ficheiros de origem:** s07_eribend_raptos_cultistas_odrak_pontos.md                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | **Source files:** s07_eribend_raptos_cultistas_odrak_pontos.md                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s07_eribend_raptos_cultistas_odrak_ready.md ==== -->
+
+# Eribend: Raptos & Cultistas de Odrak  Ready to Play
+
+| Português                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | English                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Introdução:** Após noite no acampamento, Flynn junta-se ao grupo. Chegada a Eribend e encontro com Dolrea Vas.<br><br>**Cena 1: Chegada e Roleplay**<br>- Picnic com Dolrea, rumores de raptos.<br>- Mercado: meias para Triss e Grix.<br><br>**Cena 2: Investigação dos Raptos**<br>- Taberna Machado Quebrado: quadro de desaparecidos.<br>- Taverneiro relata padrão dos raptos.<br><br>**Cena 3: Combate na Taberna**<br>- Seis encapuzados (incluindo kobold) atacam.<br>- Nos corpos: lista de sete nomes, Dolrea Vas é o próximo alvo.<br><br>**Encerramento e Ganchos**<br>- Cidade em alerta, grupo deve proteger Dolrea e enfrentar o culto de Odrak.<br> | **Introduction:** After a night at camp, Flynn joins the group. Arrival at Eribend and meeting with Dolrea Vas.<br><br>**Scene 1: Arrival & Roleplay**<br>- Picnic with Dolrea, rumors of kidnappings.<br>- Market: socks for Triss and Grix.<br><br>**Scene 2: Kidnapping Investigation**<br>- Machado Quebrado tavern: board of missing persons.<br>- Innkeeper shares kidnapping pattern.<br><br>**Scene 3: Tavern Fight**<br>- Six hooded figures (including kobold) attack.<br>- On bodies: list of seven names, Dolrea Vas is next target.<br><br>**Closure & Hooks**<br>- City on alert, group must protect Dolrea and face the Odrak cult.<br> |
+| **NPCs:** Dolrea Vas, Flynn, Myria, Jeraldina, cultistas de Odrak, taverneiro Machado Quebrado, kobold cultist                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | **NPCs:** Dolrea Vas, Flynn, Myria, Jeraldina, Odrak cultists, innkeeper Machado Quebrado, kobold cultist                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| **Loot:** Lista de nomes (evidência), 7GP, empadas, meias, mapa                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | **Loot:** List of names (evidence), 7GP, pies, socks, map                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| **Data:** 2025-02-20                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | **Date:** 2025-02-20                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| **Ficheiros de origem:** s07_eribend_raptos_cultistas_odrak_ready.md                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | **Source files:** s07_eribend_raptos_cultistas_odrak_ready.md                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s07_eribend_raptos_cultistas_odrak_summary.md ==== -->
+
+# Terceiro Templo: Basilisco & Feixe de Luz
+
+| Português | English |
+|-----------|---------|
+| **Descrição:** O grupo derrota o basilisco progenitor e recupera a terceira pedra mágica. Ao juntá-las numa caixa sobre o altar, ativam um feixe de luz que marca o culminar de uma profecia. Consequências mágicas e narrativas ainda por apurar; sessão termina em suspense.<br> | **Description:** The group defeats the progenitor basilisk and recovers the third magic stone. By placing them in a box on the altar, they activate a beam of light signaling the fulfillment of a prophecy. Magical and narrative consequences yet to be revealed; session ends in suspense.<br> |
+| **PCs:** Bok, Sage, Varus, Baltigard, outros [por confirmar] | **PCs:** Bok, Sage, Varus, Baltigard, others [to confirm] |
+| **NPCs:** Basilisco Progenitor, elemental guardião, cultistas | **NPCs:** Progenitor Basilisk, elemental guardian, cultists |
+| **Loot:** Terceira pedra mágica, scroll de ritual, gema elemental, anel de chamada, ouro | **Loot:** Third magic stone, ritual scroll, elemental gem, calling ring, gold |
+| **Data:** 2025-02-20 | **Date:** 2025-02-20 |
+| **Ficheiros de origem:** s07_terceiro_templo_basilisco_pedras_luz_resumo.md | **Source files:** s07_terceiro_templo_basilisco_pedras_luz_resumo.md |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s07_terceiro_templo_basilisco_pedras_luz_bullet.md ==== -->
+
+# Terceiro Templo: Basilisco & Feixe de Luz  Bullet Points
+
+| Português                                                                                                                                                                                                                                                                                                                                                                             | English                                                                                                                                                                                                                                                                                                                                                                                 |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| - Grupo chega ao terceiro templo, objetivo: derrotar o basilisco progenitor.<br>- Combate intenso contra o basilisco, vitória e recuperação da terceira pedra mágica.<br>- Colocam as três pedras numa caixa sobre o altar.<br>- Um feixe de luz poderoso ascende ao céu  ritual/profecia ativado.<br>- Sessão termina com suspense: consequências do feixe de luz desconhecidas.<br> | - Group arrives at the third temple, objective: defeat the progenitor basilisk.<br>- Intense fight with the basilisk, victory and recovery of the third magic stone.<br>- They place the three stones in a box on the altar.<br>- A powerful beam of light shoots into the sky  ritual/prophecy activated.<br>- Session ends with suspense: consequences of the light beam unknown.<br> |
+| **NPCs:** Basilisco Progenitor, elemental guardião, cultistas                                                                                                                                                                                                                                                                                                                         | **NPCs:** Progenitor Basilisk, elemental guardian, cultists                                                                                                                                                                                                                                                                                                                             |
+| **Loot:** Terceira pedra mágica, scroll de ritual, gema elemental, anel de chamada, ouro                                                                                                                                                                                                                                                                                              | **Loot:** Third magic stone, ritual scroll, elemental gem, calling ring, gold                                                                                                                                                                                                                                                                                                           |
+| **Data:** 2025-02-20                                                                                                                                                                                                                                                                                                                                                                  | **Date:** 2025-02-20                                                                                                                                                                                                                                                                                                                                                                    |
+| **Ficheiros de origem:** s07_terceiro_templo_basilisco_pedras_luz_pontos.md                                                                                                                                                                                                                                                                                                           | **Source files:** s07_terceiro_templo_basilisco_pedras_luz_pontos.md                                                                                                                                                                                                                                                                                                                    |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s07_terceiro_templo_basilisco_pedras_luz_ready.md ==== -->
+
+# Terceiro Templo: Basilisco & Feixe de Luz  Ready to Play
+
+| Português                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | English                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Introdução:** Grupo chega ao terceiro templo, sequência direta das sessões anteriores.<br><br>**Cena 1: Boss Fight com o Basilisco Progenitor**<br>- Enfrentam basilisco progenitor; testes de resistência.<br><br>**Cena 2: Ritual das Três Pedras**<br>- Colocam as três pedras mágicas numa caixa sobre o altar.<br>- Feixe de luz explode para o céu.<br><br>**Encerramento:**<br>- Mistério e suspense: consequências do ritual são ganchos para próximos episódios.<br> | **Introduction:** Group arrives at the third temple, direct continuation from previous sessions.<br><br>**Scene 1: Boss Fight with the Progenitor Basilisk**<br>- Face the progenitor basilisk; saving throws.<br><br>**Scene 2: Three Stones Ritual**<br>- Place the three magic stones in a box on the altar.<br>- Beam of light explodes into the sky.<br><br>**Conclusion:**<br>- Mystery and suspense: rituals consequences are hooks for next sessions.<br> |
+| **NPCs:** Basilisco Progenitor, elemental guardião, cultistas                                                                                                                                                                                                                                                                                                                                                                                                                   | **NPCs:** Progenitor Basilisk, elemental guardian, cultists                                                                                                                                                                                                                                                                                                                                                                                                        |
+| **Loot:** Terceira pedra mágica, scroll de ritual, gema elemental, anel de chamada, ouro                                                                                                                                                                                                                                                                                                                                                                                      | **Loot:** Third magic stone, ritual scroll, elemental gem, calling ring, gold                                                                                                                                                                                                                                                                                                                                                                                    |
+| **Data:** 2025-02-20                                                                                                                                                                                                                                                                                                                                                                                                                                                            | **Date:** 2025-02-20                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| **Ficheiros de origem:** s07_terceiro_templo_basilisco_pedras_luz_ready.md                                                                                                                                                                                                                                                                                                                                                                                                      | **Source files:** s07_terceiro_templo_basilisco_pedras_luz_ready.md                                                                                                                                                                                                                                                                                                                                                                                                |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s08!!!!roubo_e_perseguicao_das_pedras_bullet.md ==== -->
+
+# Roubo e Perseguição das Pedras: Bullet Points
+
+| Português                                                                                                                                                                                                                                                                                                                                                                  |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Durante o descanso após o ritual, Thoren (mestre de Sage, Mal Elemental) ataca com lacaios.<br>- Thoren rouba a caixa com as três pedras mágicas.<br>- Quase conseguem derrotá-lo, mas ele escapa, recuperam apenas uma pedra.<br>- Descobrem missão de Thoren: dominar pântano, gruta, vingar-se de Baltigard.<br>- Perseguem os lacaios e recuperam as pedras restantes. |
+| **NPCs:** Thoren, alienígenas, cultistas, agente infiltrado, criaturas illithid                                                                                                                                                                                                                                                                                            |
+| **Loot:** Fragmentos das pedras, armas alienígenas, informação sobre rituais                                                                                                                                                                                                                                                                                               |
+| **Data:** 2025-02-27                                                                                                                                                                                                                                                                                                                                                       |
+| **Ficheiros de origem:** s08_nave_illithid_e_entrega_de_thoren_pontos.md, s08_roubo_e_perseguicao_das_pedras_pontos.md                                                                                                                                                                                                                                                     |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s08!!!!roubo_e_perseguicao_das_pedras_ready.md ==== -->
+
+# Trilogia das Três Pedras & Intriga em Mirens Hallow (Ready to Play)
+
+## Cena 1: Pântano, Bullywugs e Missão
+- Grupo explora pântano, encontra Baltigard e Cocas (bullywug).
+- Acolhidos na aldeia Bullywug (chefe Mestre Yoda); ataque de basilisco jovem.
+- Missão: caçar o basilisco progenitor, receber orientação e suprimentos.
+
+## Cena 2: Ruínas e Descoberta das Pedras
+- Ruínas: encontram duas pedras mágicas; pintura rupestre mostra nave alienígena a entregar três pedras a três pessoas.
+- Ganchos de mistério e preságio.
+
+## Cena 3: O Terceiro Templo e Ritual
+- Chegada ao templo, boss fight contra o basilisco progenitor.
+- Vitória: recuperam terceira pedra.
+- Ritual: colocam três pedras numa caixa sobre o altar; feixe de luz ascende ao céu (evento mágico visível).
+
+## Cena 4: Roubo e Perseguição
+- Durante descanso, Thoren (mestre de Sage, Mal Elemental) e lacaios roubam a caixa das pedras.
+- Combate tenso, Thoren escapa, grupo persegue e recupera parte das pedras.
+
+## Cena 5: Nave Alienígena & Resolução
+- Grupo é abduzido por nave Illithid (alien/Mind Flayer).
+- Na nave, Bok reconhece símbolo ligado ao taberneiro.
+- Convencem alien a capturar Thoren, que é levado para experiências.
+- Grupo regressa à gruta; lacaios rendem-se ao impacto da descida da nave.
+
+#
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s08_as_tres_pedras_e_o_ritual.txt ==== -->
+
+# As Três Pedras e o Ritual  Bullet Points
+
+| Português                                                                                                                                                                                                                                                                                                                                     | English                                                                                                                                                                                                                                                                                                                |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| - PCs reúnem-se para decidir o destino das três pedras mágicas recuperadas.<br>- Debate sobre rituais: destruir, guardar ou usar as pedras.<br>- Realização de ritual no templo antigo: uso das três pedras.<br>- Efeito: feixe de luz ascende aos céus, magia poderosa liberada.<br>- Presságios de mudanças, gancho para futuros arcos.<br> | - PCs gather to decide the fate of the three recovered magic stones.<br>- Debate on rituals: destroy, keep, or use the stones.<br>- Ritual performed in ancient temple using the three stones.<br>- Effect: a beam of light rises to the sky, powerful magic released.<br>- Omens of change, hook for future arcs.<br> |
+| **NPCs:** Baltigard, sacerdotisa rival, elemental guardião                                                                                                                                                                                                                                                                                    | **NPCs:** Baltigard, rival priestess, elemental guardian                                                                                                                                                                                                                                                               |
+| **Loot:** Consequências mágicas, reconhecimento local                                                                                                                                                                                                                                                                                         | **Loot:** Magical consequences, local recognition                                                                                                                                                                                                                                                                      |
+| **Data:** 2025-02-27                                                                                                                                                                                                                                                                                                                          | **Date:** 2025-02-27                                                                                                                                                                                                                                                                                                   |
+| **Ficheiros de origem:** s08_as_tres_pedras_e_o_ritual_pontos.md                                                                                                                                                                                                                                                                              | **Source files:** s08_as_tres_pedras_e_o_ritual_pontos.md                                                                                                                                                                                                                                                              |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s08_as_tres_pedras_e_o_ritual_ready.md ==== -->
+
+# As Três Pedras e o Ritual  Ready to Play
+
+| Português                                                                                                                                                                                                                                                                                                                                                                                             | English                                                                                                                                                                                                                                                                                                                                                                                 |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Introdução:** PCs reúnem as três pedras mágicas, debatem seu uso.<br><br>**Cena 1: Discussão**<br>- Decidem destino das pedras: destruir, guardar, usar.<br><br>**Cena 2: Ritual no templo**<br>- Ritual antigo com as três pedras.<br>- Feixe de luz ascende ao céu.<br>- Consequências mágicas e presságios.<br><br>**Encerramento:**<br>- Mundo sente o impacto, NPCs reagem, gancho aberto.<br> | **Introduction:** PCs gather the three magic stones, debate their use.<br><br>**Scene 1: Discussion**<br>- Decide stones fate: destroy, keep, use.<br><br>**Scene 2: Temple Ritual**<br>- Ancient ritual with the three stones.<br>- Light beam shoots to the sky.<br>- Magical consequences and omens.<br><br>**Conclusion:**<br>- World feels the impact, NPCs react, open hook.<br> |
+| **NPCs:** Baltigard, sacerdotisa rival, elemental guardião                                                                                                                                                                                                                                                                                                                                            | **NPCs:** Baltigard, rival priestess, elemental guardian                                                                                                                                                                                                                                                                                                                                |
+| **Loot:** Consequências mágicas, reconhecimento local                                                                                                                                                                                                                                                                                                                                                 | **Loot:** Magical consequences, local recognition                                                                                                                                                                                                                                                                                                                                       |
+| **Data:** 2025-02-27                                                                                                                                                                                                                                                                                                                                                                                  | **Date:** 2025-02-27                                                                                                                                                                                                                                                                                                                                                                    |
+| **Ficheiros de origem:** s08_as_tres_pedras_e_o_ritual_ready.md                                                                                                                                                                                                                                                                                                                                       | **Source files:** s08_as_tres_pedras_e_o_ritual_ready.md                                                                                                                                                                                                                                                                                                                                |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s08_as_tres_pedras_e_o_ritual_summary.md ==== -->
+
+
+# As Três Pedras, o Ritual e o Roubo / The Three Stones, the Ritual and the Theft
+
+| Português | English |
+|-----------|---------|
+| **Descrição:** O grupo, de posse das três pedras mágicas, debate o seu destino e realiza um ritual no templo antigo, libertando energia mágica para o mundo — um ponto de viragem pressentido por todos. Durante o descanso após o ritual, Thoren, mestre de Sage e agente do Mal Elemental, ataca o grupo com lacaios e rouba a caixa das três pedras. Inicia-se uma perseguição tensa: o grupo quase derrota Thoren, recupera parte das pedras e descobre a missão de domínio do pântano e vingança contra Baltigard. O confronto força a party a agir em várias frentes para evitar que as pedras sejam usadas pelo inimigo. | **Description:** The group, with the three magic stones in hand, debates their fate and performs a ritual in the ancient temple, releasing magical energy into the world — a turning point sensed by all. During the rest period after the ritual, Thoren, Sage's master and an agent of Elemental Evil, attacks the group with lackeys and steals the box of the three stones. A tense pursuit follows: the group nearly defeats Thoren, recovers part of the stones, and discovers the enemy's mission of swamp domination and vengeance against Baltigard. The confrontation forces the party to act on several fronts to prevent the stones from being used by the enemy. |
+| **PCs:** Bok, Varus, Sage, Baltigard, outros [por confirmar] | **PCs:** Bok, Varus, Sage, Baltigard, others [to confirm] |
+| **NPCs:** Baltigard, sacerdotisa rival, elemental guardião, Thoren, lacaios do Mal Elemental | **NPCs:** Baltigard, rival priestess, elemental guardian, Thoren, Elemental Evil lackeys |
+| **Loot:** Consequências mágicas, reconhecimento local, parte das pedras recuperadas, informação sobre a missão inimiga | **Loot:** Magical consequences, local recognition, part of the stones recovered, information about the enemy mission |
+| **Data:** 2025-02-27 | **Date:** 2025-02-27 |
+| **Ficheiros de origem:** s08_as_tres_pedras_e_o_ritual_resumo.md | **Source files:** s08_as_tres_pedras_e_o_ritual_resumo.md |
+
+
+<!-- ==== s08_bullywugs_e_basilisco.txt ==== -->
+
+# Bullywugs e o Basilisco  Bullet Points
+
+| Português                                                                                                                                                                                                                                                                                                   | English                                                                                                                                                                                                                                                                   |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| - PCs regressam à aldeia dos bullywugs, acolhidos por Mestre Yoda.<br>- Descrevem os perigos enfrentados, avisam sobre consequências do ritual.<br>- Bullywugs planeiam festa de agradecimento.<br>- Encontro com Cocas, amigo bullywug de Conan.<br>- A aldeia prepara-se para mudanças após o ritual.<br> | - PCs return to the bullywug village, welcomed by Mestre Yoda.<br>- Describe dangers faced, warn about ritual consequences.<br>- Bullywugs plan a thank-you celebration.<br>- Meet Cocas, Conans bullywug friend.<br>- Village prepares for changes after the ritual.<br> |
+| **NPCs:** Mestre Yoda (bullywug), Cocas, Baltigard, villagers bullywug                                                                                                                                                                                                                                      | **NPCs:** Mestre Yoda (bullywug), Cocas, Baltigard, bullywug villagers                                                                                                                                                                                                    |
+| **Loot:** Gratidão dos bullywugs, possíveis recompensas tribais                                                                                                                                                                                                                                             | **Loot:** Gratitude of the bullywugs, possible tribal rewards                                                                                                                                                                                                             |
+| **Data:** 2025-02-27                                                                                                                                                                                                                                                                                        | **Date:** 2025-02-27                                                                                                                                                                                                                                                      |
+| **Ficheiros de origem:** s08_bullywugs_e_basilisco_pontos.md                                                                                                                                                                                                                                                | **Source files:** s08_bullywugs_e_basilisco_pontos.md                                                                                                                                                                                                                     |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s08_bullywugs_e_basilisco_ready.md ==== -->
+
+# Bullywugs e o Basilisco  Ready to Play
+
+| Português                                                                                                                                                                                                                                                                                                                                                                                                                                | English                                                                                                                                                                                                                                                                                                                                                                                                      |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Introdução:** PCs retornam à aldeia dos bullywugs após o ritual das pedras.<br><br>**Cena 1: Festa e Reconhecimento**<br>- Recepção calorosa, relatos das aventuras.<br>- Discussão sobre novas ameaças e possíveis alianças.<br><br>**Cena 2: Cocas e o Passado**<br>- Cocas compartilha histórias, ligações com Conan.<br><br>**Encerramento:**<br>- Celebração, distribuição de recompensas e preparação para mudanças futuras.<br> | **Introduction:** PCs return to the bullywug village after the stone ritual.<br><br>**Scene 1: Celebration and Recognition**<br>- Warm reception, recounting adventures.<br>- Discussion of new threats and possible alliances.<br><br>**Scene 2: Cocas and the Past**<br>- Cocas shares stories, ties with Conan.<br><br>**Conclusion:**<br>- Celebration, rewards, and preparation for future changes.<br> |
+| **NPCs:** Mestre Yoda (bullywug), Cocas, Baltigard, villagers bullywug                                                                                                                                                                                                                                                                                                                                                                   | **NPCs:** Mestre Yoda (bullywug), Cocas, Baltigard, bullywug villagers                                                                                                                                                                                                                                                                                                                                       |
+| **Loot:** Gratidão dos bullywugs, possíveis recompensas tribais                                                                                                                                                                                                                                                                                                                                                                          | **Loot:** Gratitude of the bullywugs, possible tribal rewards                                                                                                                                                                                                                                                                                                                                                |
+| **Data:** 2025-02-27                                                                                                                                                                                                                                                                                                                                                                                                                     | **Date:** 2025-02-27                                                                                                                                                                                                                                                                                                                                                                                         |
+| **Ficheiros de origem:** s08_bullywugs_e_basilisco_ready.md                                                                                                                                                                                                                                                                                                                                                                              | **Source files:** s08_bullywugs_e_basilisco_ready.md                                                                                                                                                                                                                                                                                                                                                         |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s08_bullywugs_e_basilisco_summary.md ==== -->
+
+# Bullywugs e o Basilisco
+
+| Português | English |
+|-----------|---------|
+| **Descrição:** Os PCs são recebidos como heróis na aldeia dos bullywugs. Compartilham os perigos superados e avisam sobre as possíveis consequências do ritual. Festa tribal, reconhecimento e promessas de novas alianças e desafios para todos.<br> | **Description:** PCs are welcomed as heroes in the bullywug village. Share the dangers faced and warn about the rituals possible consequences. Tribal celebration, recognition, and promises of new alliances and challenges ahead.<br> |
+| **PCs:** Bok, Varus, Sage, Baltigard, outros [por confirmar] | **PCs:** Bok, Varus, Sage, Baltigard, others [to confirm] |
+| **NPCs:** Mestre Yoda (bullywug), Cocas, Baltigard, villagers bullywug | **NPCs:** Mestre Yoda (bullywug), Cocas, Baltigard, bullywug villagers |
+| **Loot:** Gratidão dos bullywugs, possíveis recompensas tribais | **Loot:** Gratitude of the bullywugs, possible tribal rewards |
+| **Data:** 2025-02-27 | **Date:** 2025-02-27 |
+| **Ficheiros de origem:** s08_bullywugs_e_basilisco_resumo.md | **Source files:** s08_bullywugs_e_basilisco_resumo.md |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s08_lago_umbra_cavaleiro_sombras_.txt ==== -->
+
+# Lago Umbra & O Cavaleiro das Sombras  Bullet Points
+
+| Português                                                                                                                                                                                                                                                                                                                   | English                                                                                                                                                                                                                                                                                                                |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| - PCs viajam ao Lago Umbra, guiados por presságios do ritual.<br>- Encontram o Cavaleiro das Sombras em duelo místico.<br>- Enfrentam provas de coragem, sombras e ilusões.<br>- Revelação sobre a ligação entre as pedras e o ciclo sombrio do lago.<br>- Cavaleiro revela profecia incompleta; oferece missão futura.<br> | - PCs travel to Lago Umbra, guided by omens from the ritual.<br>- Encounter the Shadow Knight in a mystical duel.<br>- Face trials of courage, shadows, and illusions.<br>- Revelation about the link between the stones and the lakes shadow cycle.<br>- Knight reveals incomplete prophecy; offers future quest.<br> |
+| **NPCs:** Cavaleiro das Sombras, espírito do lago, anciãos [referidos]                                                                                                                                                                                                                                                      | **NPCs:** Shadow Knight, lake spirit, elders [referenced]                                                                                                                                                                                                                                                              |
+| **Loot:** Missão futura, fragmento da profecia, bênção do lago                                                                                                                                                                                                                                                              | **Loot:** Future quest, prophecy fragment, lakes blessing                                                                                                                                                                                                                                                              |
+| **Data:** 2025-02-27                                                                                                                                                                                                                                                                                                        | **Date:** 2025-02-27                                                                                                                                                                                                                                                                                                   |
+| **Ficheiros de origem:** s08_lago_umbra_cavaleiro_sombras_pontos.md                                                                                                                                                                                                                                                         | **Source files:** s08_lago_umbra_cavaleiro_sombras_pontos.md                                                                                                                                                                                                                                                           |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s08_lago_umbra_cavaleiro_sombras_ready.md ==== -->
+
+# Lago Umbra & O Cavaleiro das Sombras  Ready to Play
+
+| Português                                                                                                                                                                                                                                                                                                                                                                                                                                   | English                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Introdução:** PCs viajam ao Lago Umbra para desvendar as consequências do ritual.<br><br>**Cena 1: Provas e Encontro**<br>- Desafios de coragem e sabedoria; enfrentam ilusões.<br><br>**Cena 2: O Cavaleiro das Sombras**<br>- Duelo místico e revelação de fragmentos de profecia.<br>- Ligação entre as pedras, o lago e um ciclo sombrio.<br><br>**Encerramento:**<br>- Cavaleiro oferece missão futura, bênção do lago recebida.<br> | **Introduction:** PCs travel to Lago Umbra to unravel the rituals consequences.<br><br>**Scene 1: Trials and Encounter**<br>- Tests of courage and wisdom; face illusions.<br><br>**Scene 2: The Shadow Knight**<br>- Mystical duel and revelation of prophecy fragments.<br>- Connection between the stones, the lake, and a shadow cycle.<br><br>**Conclusion:**<br>- Knight offers a future quest, lakes blessing granted.<br> |
+| **NPCs:** Cavaleiro das Sombras, espírito do lago, anciãos [referidos]                                                                                                                                                                                                                                                                                                                                                                      | **NPCs:** Shadow Knight, lake spirit, elders [referenced]                                                                                                                                                                                                                                                                                                                                                                           |
+| **Loot:** Missão futura, fragmento da profecia, bênção do lago                                                                                                                                                                                                                                                                                                                                                                              | **Loot:** Future quest, prophecy fragment, lakes blessing                                                                                                                                                                                                                                                                                                                                                                          |
+| **Data:** 2025-02-27                                                                                                                                                                                                                                                                                                                                                                                                                        | **Date:** 2025-02-27                                                                                                                                                                                                                                                                                                                                                                                                                |
+| **Ficheiros de origem:** s08_lago_umbra_cavaleiro_sombras_ready.md                                                                                                                                                                                                                                                                                                                                                                          | **Source files:** s08_lago_umbra_cavaleiro_sombras_ready.md                                                                                                                                                                                                                                                                                                                                                                         |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s08_lago_umbra_cavaleiro_sombras_summary.md ==== -->
+
+# Lago Umbra & O Cavaleiro das Sombras
+
+| Português | English |
+|-----------|---------|
+| **Descrição:** No Lago Umbra, o grupo enfrenta provas e ilusões impostas pelo Cavaleiro das Sombras. Fragmentos de profecia revelam o ciclo sombrio do lago e preparam os heróis para uma missão futura ligada ao destino das pedras e do próprio mundo.<br> | **Description:** At Lago Umbra, the group faces trials and illusions set by the Shadow Knight. Prophecy fragments reveal the lakes shadow cycle and prepare the heroes for a future quest tied to the fate of the stones and the world itself.<br> |
+| **PCs:** Triss, Vaunia, Grix, outros [por confirmar] | **PCs:** Triss, Vaunia, Grix, others [to confirm] |
+| **NPCs:** Cavaleiro das Sombras, espírito do lago, anciãos [referidos] | **NPCs:** Shadow Knight, lake spirit, elders [referenced] |
+| **Loot:** Missão futura, fragmento da profecia, bênção do lago | **Loot:** Future quest, prophecy fragment, lakes blessing |
+| **Data:** 2025-02-27 | **Date:** 2025-02-27 |
+| **Ficheiros de origem:** s08_lago_umbra_cavaleiro_sombras_resumo.md | **Source files:** s08_lago_umbra_cavaleiro_sombras_resumo.md |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s08_nave_illithid_e_entrega_de_thoren.txt ==== -->
+
+# Nave Illithid e Entrega de Thoren  Bullet Points
+
+| Português                                                                                                                                                                                                                                                                                                                                                                                                                                | English                                                                                                                                                                                                                                                                                                                                                                                              |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| - PCs investigam nave illithid caída, buscam respostas para origem das pedras.<br>- Encontro com sobreviventes: Thoren, alienígenas, cientistas, cultistas.<br>- Missão paralela: proteger/transportar Thoren até local seguro.<br>- Roubo das pedras por agente infiltrado, perseguição pela floresta.<br>- Combate tático: emboscadas, uso de poderes mentais, fuga.<br>- Recuperação parcial das pedras; novas ameaças reveladas.<br> | - PCs investigate a crashed illithid ship, seeking answers about the stones origin.<br>- Encounter survivors: Thoren, aliens, scientists, cultists.<br>- Parallel mission: protect/escort Thoren to safety.<br>- Stones stolen by an infiltrator, chase through the forest.<br>- Tactical combat: ambushes, use of mental powers, escape.<br>- Partial recovery of stones; new threats revealed.<br> |
+| **NPCs:** Thoren, alienígenas, cultistas, agente infiltrado, criaturas illithid                                                                                                                                                                                                                                                                                                                                                          | **NPCs:** Thoren, aliens, cultists, infiltrator agent, illithid creatures                                                                                                                                                                                                                                                                                                                            |
+| **Loot:** Fragmentos das pedras, armas alienígenas, informação sobre rituais                                                                                                                                                                                                                                                                                                                                                             | **Loot:** Stone fragments, alien weapons, ritual information                                                                                                                                                                                                                                                                                                                                         |
+| **Data:** 2025-02-27                                                                                                                                                                                                                                                                                                                                                                                                                     | **Date:** 2025-02-27                                                                                                                                                                                                                                                                                                                                                                                 |
+| **Ficheiros de origem:** s08_nave_illithid_e_entrega_de_thoren_pontos.md, s08_roubo_e_perseguicao_das_pedras_pontos.md                                                                                                                                                                                                                                                                                                                   | **Source files:** s08_nave_illithid_e_entrega_de_thoren_pontos.md, s08_roubo_e_perseguicao_das_pedras_pontos.md                                                                                                                                                                                                                                                                                      |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s08_nave_illithid_e_entrega_de_thoren_ready.md ==== -->
+
+# Nave Illithid e Entrega de Thoren  Ready to Play
+
+| Português                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | English                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Introdução:** PCs atraídos à nave illithid caída para investigar ligação com as pedras.<br><br>**Cena 1: Exploração da Nave**<br>- Encontram Thoren, sobreviventes, cultistas e criaturas alienígenas.<br><br>**Cena 2: Escolta de Thoren**<br>- Escolta perigosa, múltiplos encontros e decisões morais.<br><br>**Cena 3: Roubo e Perseguição**<br>- Agente infiltrado rouba pedras.<br>- Perseguição pela floresta; armadilhas e combate.<br>- Recuperação parcial das pedras.<br><br>**Encerramento:**<br>- Novos perigos, Thoren a salvo (ou não), segredos dos illithid.<br> | **Introduction:** PCs drawn to crashed illithid ship to investigate its connection to the stones.<br><br>**Scene 1: Ship Exploration**<br>- Find Thoren, survivors, cultists, and alien creatures.<br><br>**Scene 2: Thorens Escort**<br>- Dangerous escort, multiple encounters and moral choices.<br><br>**Scene 3: Theft and Chase**<br>- Infiltrator steals the stones.<br>- Chase through the forest; traps and combat.<br>- Partial recovery of the stones.<br><br>**Conclusion:**<br>- New threats, Thoren safe (or not), illithid secrets.<br> |
+| **NPCs:** Thoren, alienígenas, cultistas, agente infiltrado, criaturas illithid                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | **NPCs:** Thoren, aliens, cultists, infiltrator agent, illithid creatures                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| **Loot:** Fragmentos das pedras, armas alienígenas, informação sobre rituais                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | **Loot:** Stone fragments, alien weapons, ritual information                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| **Data:** 2025-02-27                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | **Date:** 2025-02-27                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| **Ficheiros de origem:** s08_nave_illithid_e_entrega_de_thoren_ready.md, s08_roubo_e_perseguicao_das_pedras_ready.md                                                                                                                                                                                                                                                                                                                                                                                                                                                                | **Source files:** s08_nave_illithid_e_entrega_de_thoren_ready.md, s08_roubo_e_perseguicao_das_pedras_ready.md                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s08_nave_illithid_e_entrega_de_thoren_summary.md ==== -->
+
+# Nave Illithid e Entrega de Thoren
+
+| Português | English |
+|-----------|---------|
+| **Descrição:** PCs investigam nave illithid, encontram Thoren e são obrigados a escoltá-lo enquanto enfrentam cultistas e ameaças alienígenas. Roubo das pedras gera perseguição e combate intenso; parte das pedras é recuperada, mas novos mistérios surgem quanto à origem das relíquias e às intenções de Thoren e dos cultistas.<br> | **Description:** PCs investigate illithid ship, find Thoren and must escort him while facing cultists and alien threats. The theft of the stones sparks a chase and intense combat; some stones are recovered, but new mysteries arise about the relics origin and Thoren/cultists intentions.<br> |
+| **PCs:** Bok, Vaunia, Triss, outros [por confirmar] | **PCs:** Bok, Vaunia, Triss, others [to confirm] |
+| **NPCs:** Thoren, alienígenas, cultistas, agente infiltrado, criaturas illithid | **NPCs:** Thoren, aliens, cultists, infiltrator agent, illithid creatures |
+| **Loot:** Fragmentos das pedras, armas alienígenas, informação sobre rituais | **Loot:** Stone fragments, alien weapons, ritual information |
+| **Data:** 2025-02-27 | **Date:** 2025-02-27 |
+| **Ficheiros de origem:** s08_nave_illithid_e_entrega_de_thoren_resumo.md, s08_roubo_e_perseguicao_das_pedras_resumo.md | **Source files:** s08_nave_illithid_e_entrega_de_thoren_resumo.md, s08_roubo_e_perseguicao_das_pedras_resumo.md |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s09_entrega_para_blackfair_manor.txt ==== -->
+
+# Entrega para Blackfair Manor  Bullet Points
+
+| Português                                                                                                                                                                                                                                                                                                                                                                  | English                                                                                                                                                                                                                                                                                                                                     |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| - Missão: escoltar carroça de bens para Blackfair Manor.<br>- Primeira emboscada: 6 goblins na estrada.<br>- Segunda emboscada: 4 goblins e 2 orcs, liderados por Gorath.<br>- Carroça: 15 HP, AC 10; dano sofrido afeta recompensa.<br>- Chegada à mansão Blackfair, receção pelo mordomo Alaric.<br>- Alaric paga recompensa proporcional e oferece futuros ganchos.<br> | - Mission: escort a cart of goods to Blackfair Manor.<br>- First ambush: 6 goblins on the road.<br>- Second ambush: 4 goblins and 2 orcs, led by Gorath.<br>- Cart: 15 HP, AC 10; damage affects final reward.<br>- Arrival at Blackfair Manor, greeted by butler Alaric.<br>- Alaric pays proportional reward and offers future hooks.<br> |
+| **NPCs:** Alaric (mordomo), Gorath (chefe orc), goblins, orcs                                                                                                                                                                                                                                                                                                              | **NPCs:** Alaric (butler), Gorath (orc chief), goblins, orcs                                                                                                                                                                                                                                                                                |
+| **Loot:** Recompensa proporcional, futuros ganchos de missão                                                                                                                                                                                                                                                                                                               | **Loot:** Proportional reward, future mission hooks                                                                                                                                                                                                                                                                                         |
+| **Data:** 2025-03-06                                                                                                                                                                                                                                                                                                                                                       | **Date:** 2025-03-06                                                                                                                                                                                                                                                                                                                        |
+| **Ficheiros de origem:** s09_entrega_para_blackfair_manor_pontos.md                                                                                                                                                                                                                                                                                                        | **Source files:** s09_entrega_para_blackfair_manor_pontos.md                                                                                                                                                                                                                                                                                |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s09_entrega_para_blackfair_manor_ready.md ==== -->
+
+# Entrega para Blackfair Manor  Ready to Play
+
+| Português                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | English                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Introdução:** Party recebe instruções do taverneiro para escoltar carroça até Blackfair Manor.<br><br>**Cena 1: Na Estrada**<br>- Apresentação da carroça e mercadorias.<br>- Emboscada de 6 goblins.<br><br>**Cena 2: Segunda Onda**<br>- Nova emboscada: 4 goblins e 2 orcs liderados por Gorath.<br>- Proteger a carroça (15 HP, AC 10).<br><br>**Cena 3: Chegada à Mansão**<br>- Chegada, descrição do local, interação com Alaric.<br>- Recompensa baseada na integridade da carroça; sugestões de futuras missões.<br> | **Introduction:** Party gets instructions from the innkeeper to escort a cart to Blackfair Manor.<br><br>**Scene 1: On the Road**<br>- Cart and goods introduced.<br>- Ambush by 6 goblins.<br><br>**Scene 2: Second Wave**<br>- Another ambush: 4 goblins and 2 orcs led by Gorath.<br>- Defend the cart (15 HP, AC 10).<br><br>**Scene 3: Arrival at the Manor**<br>- Arrival, description, interaction with Alaric.<br>- Reward based on cart condition; hooks for future missions.<br> |
+| **NPCs:** Alaric (mordomo), Gorath (chefe orc), goblins, orcs                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | **NPCs:** Alaric (butler), Gorath (orc chief), goblins, orcs                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| **Loot:** Recompensa proporcional, futuros ganchos de missão                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | **Loot:** Proportional reward, future mission hooks                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| **Data:** 2025-03-06                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | **Date:** 2025-03-06                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| **Ficheiros de origem:** s09_entrega_para_blackfair_manor_ready.md                                                                                                                                                                                                                                                                                                                                                                                                                                                             | **Source files:** s09_entrega_para_blackfair_manor_ready.md                                                                                                                                                                                                                                                                                                                                                                                                                                |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s09_entrega_para_blackfair_manor_summary.md ==== -->
+
+# Entrega para Blackfair Manor
+
+| Português | English |
+|-----------|---------|
+| **Descrição:** A party é contratada para escoltar uma carroça até à mansão Blackfair. Sofrem emboscadas de goblins e orcs liderados por Gorath. O estado final da carroça determina o pagamento recebido. Ao chegarem, o mordomo Alaric recompensa-os conforme o sucesso, e oferece ligações para futuras aventuras.<br> | **Description:** The party is hired to escort a cart to Blackfair Manor. They are ambushed by goblins and orcs led by Gorath. The carts final condition determines the payment. Upon arrival, butler Alaric rewards them based on their success and offers hooks for future adventures.<br> |
+| **PCs:** [a confirmar, ex: Vaunia, outros] | **PCs:** [to confirm, e.g. Vaunia, others] |
+| **NPCs:** Alaric (mordomo), Gorath (chefe orc), goblins, orcs | **NPCs:** Alaric (butler), Gorath (orc chief), goblins, orcs |
+| **Loot:** Recompensa proporcional, futuros ganchos de missão | **Loot:** Proportional reward, future mission hooks |
+| **Data:** 2025-03-06 | **Date:** 2025-03-06 |
+| **Ficheiros de origem:** s09_entrega_para_blackfair_manor_resumo.md | **Source files:** s09_entrega_para_blackfair_manor_resumo.md |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

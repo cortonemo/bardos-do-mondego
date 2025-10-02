@@ -3,7 +3,7 @@
 **Semana:** 27 
 **Sessão:** S27 
 
-***8 de Flocktime, 999 CY***
+***1 de Flocktime, 999 CY***
 
 ---
 ## 🗓 Linha Temporal

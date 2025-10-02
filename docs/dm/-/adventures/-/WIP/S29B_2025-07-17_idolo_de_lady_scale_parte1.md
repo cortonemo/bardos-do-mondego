@@ -3,7 +3,7 @@
 **Semana:** 29 
 **Sessão:** S29B (DM: Carlos Monteiro)  
 
-***22 de Flocktime, 999 CY***
+***15 de Flocktime, 999 CY***
 
 ---
 ## 🗓 Linha Temporal

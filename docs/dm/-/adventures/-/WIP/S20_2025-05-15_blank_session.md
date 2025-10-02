@@ -3,7 +3,7 @@
 **Semana:** 20
 **Sessão:** S20
 
-***15 de Coldeven, 999 CY***
+***8 de Coldeven, 999 CY***
 
 ---
 ## 🗓 Linha Temporal

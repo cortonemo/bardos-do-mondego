@@ -3,7 +3,7 @@
 **Semana:** 30  
 **Sessão:** S30 
 
-***1 de Wealsun, 999 CY***
+***22 de Flocktime, 999 CY***
 
 ---
 ## 🗓 Linha Temporal

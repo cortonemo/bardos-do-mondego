@@ -1,82 +1,63 @@
-# Reconciliação WIP vs Previous — Temporada 1 (2025)
-**Cobertura completa:** Semana 1 (02/01/2025) até Semana 31 (31/07/2025).  
-Colunas:  
-1) **Semana** • 2) **Data 5ª-feira** • 3) **WIP # (Sxx)** • 4) **WIP (ficheiro no WIP)** • 5) **WIP nome a atualizar** • 6) **Previous #** • 7) **Previous name (fora do WIP)** • 8) **WIP provável correspondente**
-
-> Notas:  
-> • Onde há várias sessões na mesma semana (A/B/C…), a semana repete-se em múltiplas linhas.  
-> • Se não houver ficheiro WIP existente, deixo a coluna 4 em branco e proponho um **WIP provável** na coluna 8.  
-> • Renomeações sugeridas aparecem na coluna 5.  
-> • Aplicado: one-shot de 23/05 mapeado para **Semana 21 (22/05)** como **S21**; o **blank** passa para **Semana 20 (15/05)**.
-
-| Semana | Data 5ª-feira | WIP # (Sxx) | WIP (ficheiro no WIP)                                 | WIP nome a atualizar                            | Previous # | Previous name (fora do WIP)                     | WIP provável correspondente                        |
-| ------ | ------------- | ----------- | ----------------------------------------------------- | ----------------------------------------------- | ---------- | ----------------------------------------------- | -------------------------------------------------- |
-| 01     | 02/01/2025    | S01         | S01_2025-01-02_riacho.md                              |                                                 | mission_01 | mission_01_os_fungos_do_bosque.md               |                                                    |
-| 02     | 09/01/2025    | S02         | S02_2025-01-09_miner_difficulties.md                  |                                                 | mission_02 | mission_02_dificuldades_na_mina_de_obsidiana.md |                                                    |
-| 03     | 16/01/2025    | S03A        | S03A_2025-01-15_emboscada_rio_neem.md                 |                                                 | mission_03 | mission_03_emboscada_nas_margens_do_rio_neem.md |                                                    |
-| 03     | 16/01/2025    | S03B        | S03B_2025-01-15_busca_amuleto_perdido.md              |                                                 |            |                                                 |                                                    |
-| 03     | 16/01/2025    | S03C        | S03C_2025-01-15_vale_do_vento_sombrio.md              |                                                 |            |                                                 |                                                    |
-| 04     | 23/01/2025    | S04A        | S04A_2025-01-23_vale_do_vento_sombrio_syzzin.md       |                                                 | mission_04 | mission_04_regresso_a_mina.md                   |                                                    |
-| 04     | 23/01/2025    | S04B        | S04B_2025-01-23_vale_do_vento_sombrio_variante.md     |                                                 | mission_05 | mission_05_vale_do_vento_sombrio_dragao.md      |                                                    |
-| 04     | 23/01/2025    | S04C        | S04C_2025-01-23_two_fords_moinho.md                   |                                                 |            |                                                 |                                                    |
-| 05     | 30/01/2025    | S05A        | S05A_2025-01-30_as_mascaras_da_morte.md               |                                                 | mission_06 | mission_06_two_fords_doenca.md                  |                                                    |
-| 05     | 30/01/2025    | S05B        | S05B_2025-01-30_campo_goblin.md                       |                                                 |            |                                                 |                                                    |
-| 05     | 30/01/2025    | S05         | S05_2025-01-30_as_mascaras_da_morte_merged.md         |                                                 |            |                                                 |                                                    |
-| 05     | 30/01/2025    | S05         | S05__appendices_dm_only_full.md                       |                                                 |            |                                                 |                                                    |
-| 06     | 06/02/2025    | S06         | S06_2025-02-06_blank_session.md                       |                                                 |            |                                                 |                                                    |
-| 07     | 13/02/2025    | S07         | S07_2025-02-13_rota_da_cia.md                         |                                                 | mission_08 | mission_08_bullywugs_e_as_tres_pedras.md        | S07_2025-02-13_bullywugs_e_as_tres_pedras.md       |
-| 07     | 13/02/2025    | S07         | S07_2025-02-13_segredo_de_peculiar_manor.md           |                                                 |            |                                                 |                                                    |
-| 07     | 13/02/2025    | S07         | S07_2025-02-13_sombras_sobre_erybend.md               |                                                 | mission_07 | mission_07_intrigas_em_erybend.md               |                                                    |
-| 08     | 20/02/2025    | S08         | S08_2025-02-20_blank_session.md                       |                                                 | mission_09 | mission_09_intrigas_em_eribend.md               | S08_2025-02-20_intrigas_em_eribend.md              |
-| 09     | 27/02/2025    | S09         | S09_2025-02-27_blank_session.md                       |                                                 | mission_10 | mission_10_baile_dos_high_fae.md                | S09_2025-02-27_baile_dos_high_fae.md               |
-| 10     | 06/03/2025    | S10A        | S10A_2025-03-06_misterio_high_ery.md                  |                                                 | mission_11 | mission_11_batalha_em_two_fords.md              |                                                    |
-| 10     | 06/03/2025    | S10B        | S10B_2025-03-06_baile_elfico_coriver.md               |                                                 |            |                                                 |                                                    |
-| 10     | 06/03/2025    | S10C        | S10C_2025-03-06_desaparecimento_lago_dos_diamantes.md |                                                 |            |                                                 |                                                    |
-| 11     | 13/03/2025    | S11A        | S11A_2025-03-13_sombras_sobre_erybend.md              |                                                 | mission_12 | mission_12_ruinas_dos_elfos_negros.md           |                                                    |
-| 11     | 13/03/2025    | S11B        | S11B_2025-03-13_sombras_de_iuz.md                     |                                                 |            |                                                 |                                                    |
-| 11     | 13/03/2025    | S11C        | S11C_2025-03-13_rota_da_cia_pantano.md                |                                                 |            |                                                 |                                                    |
-| 11     | 13/03/2025    | S11         | S11_appendices_dm_only_full.md                        |                                                 |            |                                                 |                                                    |
-| 11     | 13/03/2025    | S11         | S11_appendices_dm_only_summary.md                     |                                                 |            |                                                 |                                                    |
-| 12     | 20/03/2025    | S12A        | S12A_2025-03-20_espada_de_viltrix.md                  |                                                 | mission_13 | mission_13_conspiracao_em_blackfair.md          |                                                    |
-| 12     | 20/03/2025    | S12B        | S12B_2025-03-20_prisao_e_redencao_dustin.md           |                                                 |            |                                                 |                                                    |
-| 12     | 20/03/2025    | S12C        | S12C_2025-03-20_tres_pedras_e_illithids.md            |                                                 |            |                                                 |                                                    |
-| 12     | 20/03/2025    | S12D        | S12D_2025-03-20_legado_de_krixis.md                   |                                                 |            |                                                 |                                                    |
-| 13     | 27/03/2025    | S13A        | S13A_2025-03-27_resgate_de_dustin.md                  |                                                 | mission_14 | mission_14_os_mercadores_sombrios.md            |                                                    |
-| 13     | 27/03/2025    | S13B        | S13B_2025-03-27_nave_mae_illithid.md                  |                                                 |            |                                                 |                                                    |
-| 13     | 27/03/2025    | S13         | S13_appendices_dm_only_full.md                        |                                                 |            |                                                 |                                                    |
-| 13     | 27/03/2025    | S13         | S13_appendices_dm_only_summary.md                     |                                                 |            |                                                 |                                                    |
-| 14     | 03/04/2025    | S14A        | S14A_2025-04-03_dandan_e_os_40_kobolds.md             |                                                 | mission_15 | mission_15_a_biblioteca_proibida.md             |                                                    |
-| 14     | 03/04/2025    | S14B        | S14B_2025-04-03_exploracao_greyhawk_guildas.md        |                                                 |            |                                                 |                                                    |
-| 14     | 03/04/2025    | S14C        | S14C_2025-04-03_incendio_olho_de_boccob.md            |                                                 |            |                                                 |                                                    |
-| 15     | 10/04/2025    | S15A        | S15A_2025-04-10_misterio_dos_espelhos.md              |                                                 | mission_16 | mission_16_os_assassinos_de_blackfair.md        |                                                    |
-| 15     | 10/04/2025    | S15B        | S15B_2025-04-10_cetro_de_zan.md                       |                                                 |            |                                                 |                                                    |
-| 15     | 10/04/2025    | S15C        | S15C_2025-04-10_nova_cidade_base_culto.md             |                                                 |            |                                                 |                                                    |
-| 16     | 17/04/2025    | S16         | S16_2025-04-17_blank_session.md                       |                                                 | mission_17 | mission_17_os_portoes_de_blackfair.md           | S16_2025-04-17_os_portoes_de_blackfair.md          |
-| 17     | 24/04/2025    | S17A        | S17A_2025-04-24_nova_cidade_parte2.md                 |                                                 | mission_18 | mission_18_os_segredos_de_blackfair_manor.md    |                                                    |
-| 17     | 24/04/2025    | S17B        | S17B_2025-04-24_a_crianca_perdida.md                  |                                                 |            |                                                 |                                                    |
-| 18     | 01/05/2025    | S18         | S18_2025-05-01_blank_session.md                       |                                                 | mission_19 | mission_19_conspiracao_em_greyhawk.md           | S18_2025-05-01_conspiracao_em_greyhawk.md          |
-| 19     | 08/05/2025    | S19         | S19_2025-05-08_blank_sessio.md                        | **S19_2025-05-08_blank_session.md**             | mission_20 | mission_20_o_assalto_a_guilda_dos_ladroes.md    | S19_2025-05-08_o_assalto_a_guilda_dos_ladroes.md   |
-| 20     | 15/05/2025    | S20         | S20_2025-05-23_a_sombra_do_tempo_perdido              |                                                 | mission_21 | mission_21_os_esgotos_de_greyhawk.md            | **S20_2025-05-15_os_esgotos_de_greyhawk.md**       |
-| 21     | 22/05/2025    | S21         | S21_2025-05-29_casino_heist_parte1.md                 | **S21_2025-05-22_a_sombra_do_tempo_perdido.md** | mission_22 | mission_22_o_grande_ritual_em_greyhawk.md       |                                                    |
-| 22     | 29/05/2025    | S22         | S22_2025-06-05_casino_heist_parte2.md                 |                                                 | mission_23 | mission_23_as_sombras_do_templo_subterraneo.md  |                                                    |
-| 23     | 05/06/2025    | S23         | S23_2025-06-12_blank_session.md.md<br>                |                                                 | mission_24 | mission_24_o_deserto_das_sombras.md             |                                                    |
-| 24     | 12/06/2025    | S24         | S24_2025-06-19_sociedade_dos_ratos_sedentos           | **S23_2025-06-12_blank_session.md**             | mission_25 | mission_25_o_templo_perdido.md                  | S23_2025-06-12_o_templo_perdido.md                 |
-| 25     | 19/06/2025    | S25         | S25_2025-06-26_blank_session                          |                                                 | mission_26 | mission_26_o_coracao_do_culto.md                | **S24_2025-06-19_sociedade_dos_ratos_sedentos.md** |
-| 26     | 26/06/2025    | S26         | **S26_2025-06-26_blank_session.md**                   |                                                 | mission_27 | mission_27_o_confronto_final.md                 |                                                    |
-| 27     | 03/07/2025    | S27         | S27_2025-07-10_museu_das_maravilhas.md                |                                                 |            |                                                 |                                                    |
-| 28     | 10/07/2025    | S28A        | S28A_2025-07-17_museu_parte_final.md                  |                                                 |            |                                                 |                                                    |
-| 28     | 10/07/2025    | S28B        | S28B_2025-07-17_idolo_de_lady_scale_parte1            |                                                 |            |                                                 |                                                    |
-| 29     | 17/07/2025    | S29A        | S29A_2025-07-24_idolo_de_lady_scale_parte2.md         |                                                 |            |                                                 |                                                    |
-| 29     | 17/07/2025    | S29B        | S29B_2025-07-24_as_orquideas_negras                   |                                                 |            |                                                 | **S28B_2025-07-17_idolo_de_lady_scale_parte1.md**  |
-| 29     | 17/07/2025    | S29C        | S29C_2025-07-24_o_misterio_de_kas_kardwall            |                                                 |            |                                                 |                                                    |
-| 30     | 24/07/2025    | S30         |                                                       |                                                 |            |                                                 |                                                    |
-| 30     | 24/07/2025    | S30         |                                                       |                                                 |            |                                                 | **S29B_2025-07-24_as_orquideas_negras.md**         |
-| 30     | 24/07/2025    | S30         |                                                       |                                                 |            |                                                 | **S29C_2025-07-24_o_misterio_de_kas_kardwall.md**  |
-| 31     | 31/07/2025    | S31         |                                                       |                                                 |            |                                                 | **S30_2025-07-31_idolo_de_lady_scale_parte3.md**   |
-
----
-**Pendências principais para limpeza:**
-- Renomear: `S19_2025-05-08_blank_sessio.md` → `S19_2025-05-08_blank_session.md`
-- Renomear: `S23_2025-06-12_blank_session.md.md` → `S23_2025-06-12_blank_session.md`
-- Renomear e realinhar: `S20_2025-05-23_a_sombra_do_tempo_perdido.md` → `S21_2025-05-22_a_sombra_do_tempo_perdido.md`
-- Criar WIP para semanas ainda sem ficheiro mas com “previous”: S20 (Esgotos), S23 (Templo Perdido), S24 (Sociedade dos Ratos Sedentos), e entradas previstas de Lady Scale (S28B, S29B, S29C, S30) se ainda não existirem.
+| Date       | Week | Greyhawk Date         | Session                                   |
+| ---------- | ---- | --------------------- | ----------------------------------------- |
+| 2025-01-02 | 01   | 998 CY, 15 Patchwall  | S01 – riacho                              |
+| 2025-01-09 | 02   | 998 CY, 22 Patchwall  | S02 – miner_difficulties                  |
+| 2025-01-15 | 03   | 998 CY, 28 Patchwall  | S03C – vale_do_vento_sombrio              |
+| 2025-01-16 | 03   | 998 CY, 1 Ready'reat  | S03A – emboscada_rio_neem                 |
+| 2025-01-16 | 03   | 998 CY, 1 Ready'reat  | S03B – busca_amuleto_perdido              |
+| 2025-01-23 | 04   | 998 CY, 8 Ready'reat  | S04A – vale_do_vento_sombrio_syzzin       |
+| 2025-01-23 | 04   | 998 CY, 8 Ready'reat  | S04B – vale_do_vento_sombrio_variante     |
+| 2025-01-23 | 04   | 998 CY, 8 Ready'reat  | S04C – two_fords_moinho                   |
+| 2025-01-30 | 05   | 998 CY, 15 Ready'reat | S05A – as_mascaras_da_morte               |
+| 2025-01-30 | 05   | 998 CY, 15 Ready'reat | S05B – campo_goblin                       |
+| 2025-01-30 | 05   | 998 CY, 15 Ready'reat | S05 – appendices_dm_only_full             |
+| 2025-01-30 | 05   | 998 CY, 15 Ready'reat | S05 – as_mascaras_da_morte_merged         |
+| 2025-02-06 | 06   | 998 CY, 22 Ready'reat | S06 – blank_session                       |
+| 2025-02-13 | 07   | 998 CY, 1 Sunsebb     | S07 – rota_da_cia                         |
+| 2025-02-13 | 07   | 998 CY, 1 Sunsebb     | S07 – segredo_de_peculiar_manor           |
+| 2025-02-13 | 07   | 998 CY, 1 Sunsebb     | S07 – sombras_sobre_erybend               |
+| 2025-02-20 | 08   | 998 CY, 8 Sunsebb     | S08 – blank_session                       |
+| 2025-02-27 | 09   | 998 CY, 15 Sunsebb    | S09 – blank_session                       |
+| 2025-03-06 | 10   | 998 CY, 22 Sunsebb    | S10A – misterio_high_ery                  |
+| 2025-03-06 | 10   | 998 CY, 22 Sunsebb    | S10B – baile_elfico_coriver               |
+| 2025-03-06 | 10   | 998 CY, 22 Sunsebb    | S10C – desaparecimento_lago_dos_diamantes |
+| 2025-03-13 | 11   | 998 CY, 1 Fireseek    | S11A – sombras_sobre_erybend              |
+| 2025-03-13 | 11   | 998 CY, 1 Fireseek    | S11B – sombras_de_iuz                     |
+| 2025-03-13 | 11   | 998 CY, 1 Fireseek    | S11C – rota_da_cia_pantano                |
+| 2025-03-13 | 11   | 998 CY, 1 Fireseek    | S11 – appendices_dm_only_full             |
+| 2025-03-13 | 11   | 998 CY, 1 Fireseek    | S11 – appendices_dm_only_summary          |
+| 2025-03-20 | 12   | 998 CY, 8 Fireseek    | S12A – espada_de_viltrix                  |
+| 2025-03-20 | 12   | 998 CY, 8 Fireseek    | S12B – prisao_e_redencao_dustin           |
+| 2025-03-20 | 12   | 998 CY, 8 Fireseek    | S12C – tres_pedras_e_illithids            |
+| 2025-03-20 | 12   | 998 CY, 8 Fireseek    | S12D – legado_de_krixis                   |
+| 2025-03-27 | 13   | 998 CY, 15 Fireseek   | S13A – resgate_de_dustin                  |
+| 2025-03-27 | 13   | 998 CY, 15 Fireseek   | S13B – nave_mae_illithid                  |
+| 2025-03-27 | 13   | 998 CY, 15 Fireseek   | S13 – appendices_dm_only_full             |
+| 2025-03-27 | 13   | 998 CY, 15 Fireseek   | S13 – appendices_dm_only_summary          |
+| 2025-04-03 | 14   | 998 CY, 22 Fireseek   | S14A – dandan_e_os_40_kobolds             |
+| 2025-04-03 | 14   | 998 CY, 22 Fireseek   | S14B – exploracao_greyhawk_guildas        |
+| 2025-04-03 | 14   | 998 CY, 22 Fireseek   | S14C – incendio_olho_de_boccob            |
+| 2025-04-10 | 15   | 998 CY, 1 Readying    | S15A – misterio_dos_espelhos              |
+| 2025-04-10 | 15   | 998 CY, 1 Readying    | S15B – cetro_de_zan                       |
+| 2025-04-10 | 15   | 998 CY, 1 Readying    | S15C – nova_cidade_base_culto             |
+| 2025-04-17 | 16   | 998 CY, 8 Readying    | S16 – blank_session                       |
+| 2025-04-24 | 17   | 998 CY, 15 Readying   | S17A – nova_cidade_parte2                 |
+| 2025-04-24 | 17   | 998 CY, 15 Readying   | S17B – a_crianca_perdida                  |
+| 2025-05-01 | 18   | 998 CY, 22 Readying   | S18 – blank_session                       |
+| 2025-05-08 | 19   | 998 CY, 1 Coldeven    | S19 – blank_session                       |
+| 2025-05-15 | 20   | 998 CY, 8 Coldeven    | S20 – blank_session                       |
+| 2025-05-22 | 21   | 998 CY, 15 Coldeven   | S21 – a_sombra_do_tempo_perdido           |
+| 2025-05-29 | 22   | 998 CY, 22 Coldeven   | S22 – casino_heist_parte1                 |
+| 2025-06-05 | 23   | 998 CY, 1 Planting    | S23 – casino_heist_parte2                 |
+| 2025-06-12 | 24   | 998 CY, 8 Planting    | S24 – blank_session                       |
+| 2025-06-19 | 25   | 998 CY, 15 Planting   | S25 – sociedade_dos_ratos_sedentos        |
+| 2025-06-26 | 26   | 998 CY, 22 Planting   | S26 – blank_session                       |
+| 2025-07-03 | 27   | 998 CY, 1 Flocktime   | S27 – blank_session                       |
+| 2025-07-10 | 28   | 998 CY, 8 Flocktime   | S28 – museu_das_maravilhas                |
+| 2025-07-17 | 29   | 998 CY, 15 Flocktime  | S29A – museu_parte_final                  |
+| 2025-07-17 | 29   | 998 CY, 15 Flocktime  | S29B – idolo_de_lady_scale_parte1         |
+| 2025-07-17 | 29   | 998 CY, 15 Flocktime  | S29B – idolo_de_lady_scale_parte1         |
+| 2025-07-24 | 30   | 998 CY, 22 Flocktime  | S30A – idolo_de_lady_scale_parte2         |
+| 2025-07-24 | 30   | 998 CY, 22 Flocktime  | S30B – as_orquideas_negras                |
+| 2025-07-24 | 30   | 998 CY, 22 Flocktime  | S30C – o_misterio_de_kas_kardwall         |
+| 2025-07-31 | 31   | 998 CY, 1 Wealsun     | S31 – idolo_de_lady_scale_parte3          |

@@ -1,0 +1,942 @@
+# O Baile dos High Fae  Bullet Points
+
+| Português                                                                                                                                                                                                                                                                                                                                                                                                                                    | English                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| - Convite para baile no castelo da Rainha Caecena.<br>- Missão social: cada personagem deve encontrar um par para a dança.<br>- Intrigas e conversas cortesãs.<br>- Ataque de homens-serpente enviados por Lord Coriver.<br>- Após combate, party é teletransportada para o covil do vilão.<br>- Batalha contra Lord Coriver e uma minhoca gigante; resgate de reféns.<br>- Retorno ao baile, dança final, Kai recebe bênção/feat Lucky.<br> | - Invitation to a ball at Queen Caecenas castle.<br>- Social mission: each PC must find a dance partner.<br>- Intrigue and courtly conversations.<br>- Attack by snake-men sent by Lord Coriver.<br>- After the fight, the party is teleported to the villains lair.<br>- Battle against Lord Coriver and a giant worm; rescue of hostages.<br>- Return to the ball, final dance, Kai receives Queens blessing/Lucky feat.<br> |
+| **NPCs:** Rainha Caecena, Lord Coriver, homens-serpente, minhoca gigante, reféns                                                                                                                                                                                                                                                                                                                                                             | **NPCs:** Queen Caecena, Lord Coriver, snake-men, giant worm, hostages                                                                                                                                                                                                                                                                                                                                                         |
+| **Loot:** Bênção/feat Lucky, possíveis recompensas cortesãs                                                                                                                                                                                                                                                                                                                                                                                  | **Loot:** Blessing/Lucky feat, possible courtly rewards                                                                                                                                                                                                                                                                                                                                                                        |
+| **Data:** 2025-03-06                                                                                                                                                                                                                                                                                                                                                                                                                         | **Date:** 2025-03-06                                                                                                                                                                                                                                                                                                                                                                                                           |
+| **Ficheiros de origem:** s09_baile_dos_high_fae_pontos.md                                                                                                                                                                                                                                                                                                                                                                                    | **Source files:** s09_baile_dos_high_fae_pontos.md                                                                                                                                                                                                                                                                                                                                                                             |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s09_baile_dos_high_fae_ready.md ==== -->
+
+# O Baile dos High Fae  Ready to Play
+
+| Português                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | English                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Introdução:** Os aventureiros recebem convite para o baile da Rainha Caecena.<br><br>**Cena 1: O Baile**<br>- Missão social: procurar e convencer um par.<br>- Roleplay de corte, rumores, intrigas.<br><br>**Cena 2: Ataque e Teletransporte**<br>- Homens-serpente atacam, enviados por Lord Coriver.<br>- Combate social no salão.<br>- Party teletransportada para o lair de Lord Coriver.<br><br>**Cena 3: Covil do Vilão**<br>- Batalha contra Lord Coriver e minhoca gigante.<br>- Libertação de reféns.<br><br>**Cena 4: Conclusão do Baile**<br>- Regresso ao baile, dança final.<br>- Kai recebe bênção especial da Rainha (Lucky feat).<br> | **Introduction:** Adventurers are invited to Queen Caecenas ball.<br><br>**Scene 1: The Ball**<br>- Social mission: find and convince a dance partner.<br>- Courtly roleplay, rumors, intrigue.<br><br>**Scene 2: Attack & Teleportation**<br>- Snake-men attack, sent by Lord Coriver.<br>- Social combat in the ballroom.<br>- Party teleported to Lord Corivers lair.<br><br>**Scene 3: Villains Lair**<br>- Battle against Lord Coriver and giant worm.<br>- Hostages rescued.<br><br>**Scene 4: Ball Conclusion**<br>- Return to the ball, final dance.<br>- Kai receives special blessing from the Queen (Lucky feat).<br> |
+| **NPCs:** Rainha Caecena, Lord Coriver, homens-serpente, minhoca gigante, reféns                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | **NPCs:** Queen Caecena, Lord Coriver, snake-men, giant worm, hostages                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| **Loot:** Bênção/feat Lucky, possíveis recompensas cortesãs                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | **Loot:** Blessing/Lucky feat, possible courtly rewards                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| **Data:** 2025-03-06                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | **Date:** 2025-03-06                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| **Ficheiros de origem:** s09_baile_dos_high_fae_ready.md                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | **Source files:** s09_baile_dos_high_fae_ready.md                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s09_baile_dos_high_fae_summary.md ==== -->
+
+# O Baile dos High Fae
+
+| Português | English |
+|-----------|---------|
+| **Descrição:** Os aventureiros participam num baile feérico no castelo da Rainha Caecena, onde precisam de conquistar pares para a dança final, lidando com intrigas cortesãs. Um ataque súbito de homens-serpente enviados por Lord Coriver interrompe a celebração. Após combate, todos são teletransportados para o covil do vilão, onde enfrentam Lord Coriver e uma minhoca gigante, resgatando reféns. O regresso ao baile culmina na dança final, com Kai recebendo uma bênção especial da rainha.<br> | **Description:** The adventurers attend a fae ball at Queen Caecenas castle, needing to win over dance partners while handling courtly intrigue. A sudden attack by snake-men sent by Lord Coriver interrupts the celebration. After the fight, all are teleported to the villains lair, where they face Lord Coriver and a giant worm, rescuing hostages. The return to the ball culminates in the final dance, with Kai receiving a special blessing from the queen.<br> |
+| **PCs:** [a confirmar, ex: Kai, Vaunia, Triss, outros] | **PCs:** [to confirm, e.g. Kai, Vaunia, Triss, others] |
+| **NPCs:** Rainha Caecena, Lord Coriver, homens-serpente, minhoca gigante, reféns | **NPCs:** Queen Caecena, Lord Coriver, snake-men, giant worm, hostages |
+| **Loot:** Bênção/feat Lucky, possíveis recompensas cortesãs | **Loot:** Blessing/Lucky feat, possible courtly rewards |
+| **Data:** 2025-03-06 | **Date:** 2025-03-06 |
+| **Ficheiros de origem:** s09_baile_dos_high_fae_resumo.md | **Source files:** s09_baile_dos_high_fae_resumo.md |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s09_misterio_de_high_ery.txt ==== -->
+
+# Mistério de High Ery  Bullet Points
+
+| Português                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | English                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| - Missão: investigar desmaios misteriosos em High Ery (pedido da taberneira).<br>- Encontro com mercadores de queijo, Sr. Henrique suspeito.<br>- Descoberta de migalhas de queijo e pegadas de rato.<br>- Investigação na ferraria e enfermaria (fila de vítimas, sintomas, música/chilrear).<br>- Ratos atacam durante a noite.<br>- Vaunia fala com Ratú, que revela existir um mestre dos ratos.<br>- Indícios apontam para o teatro e para a peça O Flautista de Hamelin.<br> | - Mission: investigate mysterious fainting spells in High Ery (tavernkeepers request).<br>- Meet cheese merchants, suspect Mr. Henrique.<br>- Find cheese crumbs and rat tracks.<br>- Investigation at smithy and infirmary (queue of victims, symptoms, music/chirping).<br>- Rats attack during the night.<br>- Vaunia talks to Ratú, who reveals a rat master exists.<br>- Clues point to the theater and the play The Pied Piper of Hamelin.<br> |
+| **NPCs:** Sr. Henrique (queijeiro), Ratú (rato), Mestre dos Ratos, mercadores, ferraria                                                                                                                                                                                                                                                                                                                                                                                            | **NPCs:** Mr. Henrique (cheese seller), Ratú (rat), Rat Master, merchants, smithy                                                                                                                                                                                                                                                                                                                                                                    |
+| **Loot:** queijo raro, flauta, moedas, pistas do Mestre dos Ratos                                                                                                                                                                                                                                                                                                                                                                                                                  | **Loot:** rare cheese, flute, coins, Rat Master clues                                                                                                                                                                                                                                                                                                                                                                                                |
+| **Data:** 2025-03-06                                                                                                                                                                                                                                                                                                                                                                                                                                                               | **Date:** 2025-03-06                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| **Ficheiros de origem:** s09_misterio_de_high_ery_pontos.md                                                                                                                                                                                                                                                                                                                                                                                                                        | **Source files:** s09_misterio_de_high_ery_pontos.md                                                                                                                                                                                                                                                                                                                                                                                                 |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s09_misterio_de_high_ery_ready.md ==== -->
+
+# Mistério de High Ery  Ready to Play
+
+| Português                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | English                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Introdução:** Taverneira pede investigação sobre desmaios em High Ery.<br><br>**Cena 1: Pistas Iniciais**<br>- Mercadores, queijo suspeito do Sr. Henrique.<br>- Migalhas e pegadas de rato.<br><br>**Cena 2: Ferraria e Enfermaria**<br>- Vítimas, sintomas, música antes dos desmaios.<br><br>**Cena 3: Ataque dos Ratos**<br>- Grupo é atacado por ratos à noite.<br>- Vaunia comunica com Ratú; revela o mestre dos ratos.<br><br>**Cena 4: Rumo ao Teatro**<br>- Todas as pistas apontam para o teatro e a peça O Flautista de Hamelin.<br> | **Introduction:** Tavernkeeper asks for investigation about fainting spells in High Ery.<br><br>**Scene 1: Initial Clues**<br>- Merchants, Mr. Henriques suspicious cheese.<br>- Cheese crumbs and rat tracks.<br><br>**Scene 2: Smithy and Infirmary**<br>- Victims, symptoms, music before fainting.<br><br>**Scene 3: Rat Attack**<br>- Group attacked by rats at night.<br>- Vaunia talks to Ratú; reveals the rat master.<br><br>**Scene 4: Toward the Theater**<br>- All clues point to the theater and the play The Pied Piper of Hamelin.<br> |
+| **NPCs:** Sr. Henrique (queijeiro), Ratú (rato), Mestre dos Ratos, mercadores, ferraria                                                                                                                                                                                                                                                                                                                                                                                                                                                                | **NPCs:** Mr. Henrique (cheese seller), Ratú (rat), Rat Master, merchants, smithy                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| **Loot:** queijo raro, flauta, moedas, pistas do Mestre dos Ratos                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | **Loot:** rare cheese, flute, coins, Rat Master clues                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| **Data:** 2025-03-06                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | **Date:** 2025-03-06                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| **Ficheiros de origem:** s09_misterio_de_high_ery_ready.md                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | **Source files:** s09_misterio_de_high_ery_ready.md                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s09_misterio_de_high_ery_summary.md ==== -->
+
+# Mistério de High Ery
+
+| Português | English |
+|-----------|---------|
+| **Descrição:** A party investiga desmaios em High Ery ligados a hidromel adulterado e queijo suspeito do Sr. Henrique. Descobrem pistas de rato, entrevistam vítimas e enfrentam ratos à noite. Vaunia comunica com Ratú e descobre a existência do mestre dos ratos, levando-os ao teatro onde a peça O Flautista de Hamelin está a ser apresentada. | **Description:** The party investigates fainting spells in High Ery connected to tainted mead and suspicious cheese from Mr. Henrique. They find rat clues, interview victims, and fight rats at night. Vaunia speaks with Ratú and discovers the existence of the rat master, leading them to the theater where The Pied Piper of Hamelin is playing. |
+| **PCs:** Vaunia, Grix, outros [a confirmar] | **PCs:** Vaunia, Grix, others [to confirm] |
+| **NPCs:** Sr. Henrique (queijeiro), Ratú (rato), Mestre dos Ratos, mercadores, ferraria | **NPCs:** Mr. Henrique (cheese seller), Ratú (rat), Rat Master, merchants, smithy |
+| **Loot:** queijo raro, flauta, moedas, pistas do Mestre dos Ratos | **Loot:** rare cheese, flute, coins, Rat Master clues |
+| **Data:** 2025-03-06 | **Date:** 2025-03-06 |
+| **Ficheiros de origem:** s09_misterio_de_high_ery_resumo.md | **Source files:** s09_misterio_de_high_ery_resumo.md |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s10_a_rota_da_cia_sangue_e_ouro_no_pantano.txt ==== -->
+
+# A Rota da Companhia Sangue & Ouro no Pântano  Bullet Points
+
+| Português                                                                                                                                                                                                                                                                                                                                                                                                                            | English                                                                                                                                                                                                                                                                                                                                                                                                       |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| - Party escoltada por Baltigard e mercenários da Companhia Sangue & Ouro.<br>- Missão: abrir rota segura no pântano para caravanas.<br>- Obstáculos: terreno traiçoeiro, monstros do pântano, emboscada de lizardfolk.<br>- Descoberta de relíquias antigas em ruínas submersas.<br>- Negociação com tribo lizardfolk; possível aliança ou conflito.<br>- Final: sucesso parcial, Baltigard oferece novo contrato e recompensas.<br> | - Party escorted by Baltigard and Blood & Gold Company mercenaries.<br>- Mission: open safe trade route in the swamp for caravans.<br>- Obstacles: treacherous terrain, swamp monsters, lizardfolk ambush.<br>- Discovery of ancient relics in sunken ruins.<br>- Negotiation with lizardfolk tribe; possible alliance or conflict.<br>- End: partial success, Baltigard offers new contract and rewards.<br> |
+| **NPCs:** Baltigard, mercenários Sangue & Ouro, lizardfolk, líder tribal                                                                                                                                                                                                                                                                                                                                                             | **NPCs:** Baltigard, Blood & Gold Company mercenaries, lizardfolk, tribal leader                                                                                                                                                                                                                                                                                                                              |
+| **Loot:** Relíquias antigas, recompensa de Baltigard, mapa do pântano                                                                                                                                                                                                                                                                                                                                                                | **Loot:** Ancient relics, Baltigards reward, swamp map                                                                                                                                                                                                                                                                                                                                                        |
+| **Data:** 2025-03-13                                                                                                                                                                                                                                                                                                                                                                                                                 | **Date:** 2025-03-13                                                                                                                                                                                                                                                                                                                                                                                          |
+| **Ficheiros de origem:** s10_a_rota_da_cia_sangue_e_ouro_no_pantano_pontos.md                                                                                                                                                                                                                                                                                                                                                        | **Source files:** s10_a_rota_da_cia_sangue_e_ouro_no_pantano_pontos.md                                                                                                                                                                                                                                                                                                                                        |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s10_a_rota_da_cia_sangue_e_ouro_no_pantano_ready.md ==== -->
+
+# A Rota da Companhia Sangue & Ouro no Pântano  Ready to Play
+
+| Português                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | English                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Introdução:** Party contratada por Baltigard para escoltar caravanas no pântano.<br><br>**Cena 1: Travessia do Pântano**<br>- Mercenários acompanham, obstáculos ambientais e monstros.<br>- Emboscada lizardfolk.<br><br>**Cena 2: Ruínas Submersas**<br>- Descoberta de relíquias e mapas antigos.<br>- Decisão: aliar-se ou enfrentar os lizardfolk.<br><br>**Cena 3: Negociação ou Conflito**<br>- Confronto ou aliança com tribo.<br>- Influência no equilíbrio de poder local.<br><br>**Encerramento:**<br>- Baltigard paga e oferece novos ganchos.<br> | **Introduction:** Party hired by Baltigard to escort caravans in the swamp.<br><br>**Scene 1: Swamp Crossing**<br>- Mercenaries accompany, environmental obstacles and monsters.<br>- Lizardfolk ambush.<br><br>**Scene 2: Sunken Ruins**<br>- Discovery of relics and old maps.<br>- Decision: ally with or fight lizardfolk.<br><br>**Scene 3: Negotiation or Conflict**<br>- Confrontation or alliance with tribe.<br>- Influence on local power balance.<br><br>**Conclusion:**<br>- Baltigard pays and offers new hooks.<br> |
+| **NPCs:** Baltigard, mercenários Sangue & Ouro, lizardfolk, líder tribal                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | **NPCs:** Baltigard, Blood & Gold Company mercenaries, lizardfolk, tribal leader                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| **Loot:** Relíquias antigas, recompensa de Baltigard, mapa do pântano                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | **Loot:** Ancient relics, Baltigards reward, swamp map                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| **Data:** 2025-03-13                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | **Date:** 2025-03-13                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| **Ficheiros de origem:** s10_a_rota_da_cia_sangue_e_ouro_no_pantano_ready.md                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | **Source files:** s10_a_rota_da_cia_sangue_e_ouro_no_pantano_ready.md                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s10_a_rota_da_cia_sangue_e_ouro_no_pantano_summary.md ==== -->
+
+# A Rota da Companhia Sangue & Ouro no Pântano
+
+| Português | English |
+|-----------|---------|
+| **Descrição:** Contratados por Baltigard, os aventureiros atravessam o pântano para garantir o sucesso de rotas comerciais. Superam perigos naturais e monstros, enfrentam ou negociam com lizardfolk e encontram relíquias valiosas em ruínas submersas. O sucesso parcial garante nova proposta de contrato e recompensas, influenciando o equilíbrio do poder local e futuro das caravanas.<br> | **Description:** Hired by Baltigard, the adventurers cross the swamp to secure trade routes. They overcome natural hazards and monsters, confront or negotiate with lizardfolk, and find valuable relics in sunken ruins. Their partial success brings new contract offers and rewards, impacting the local power balance and the future of caravans.<br> |
+| **PCs:** [a confirmar, ex: Bok, Sage, outros] | **PCs:** [to confirm, e.g. Bok, Sage, others] |
+| **NPCs:** Baltigard, mercenários Sangue & Ouro, lizardfolk, líder tribal | **NPCs:** Baltigard, Blood & Gold Company mercenaries, lizardfolk, tribal leader |
+| **Loot:** Relíquias antigas, recompensa de Baltigard, mapa do pântano | **Loot:** Ancient relics, Baltigards reward, swamp map |
+| **Data:** 2025-03-13 | **Date:** 2025-03-13 |
+| **Ficheiros de origem:** s10_a_rota_da_cia_sangue_e_ouro_no_pantano_resumo.md | **Source files:** s10_a_rota_da_cia_sangue_e_ouro_no_pantano_resumo.md |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s10_o_segredo_de_peculiar_manor.txt ==== -->
+
+# O Segredo de Peculiar Manor  Bullet Points
+
+| Português                                                                                                                                                                                                                                                                                                                                                                                                                                             | English                                                                                                                                                                                                                                                                                                                                                                                                       |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| - Party contratada para investigar eventos estranhos em Peculiar Manor.<br>- Mordomo Visconde relutante, recepção fria.<br>- Descoberta de passagens secretas, sons estranhos à noite.<br>- Quarto do sótão trancado, cartas misteriosas, pintura inquietante.<br>- Confronto com espírito ancestral; resolução do mistério.<br>- Libertação do fantasma, família recupera a paz.<br>- Recompensa: joia da família, convite para futuras visitas.<br> | - Party hired to investigate strange events at Peculiar Manor.<br>- Reluctant butler Viscount, cold reception.<br>- Discovery of secret passages, strange noises at night.<br>- Locked attic room, mysterious letters, unsettling painting.<br>- Confrontation with ancestral spirit; mystery solved.<br>- Ghost set free, family regains peace.<br>- Reward: family jewel, invitation for future visits.<br> |
+| **NPCs:** Visconde (mordomo), espírito ancestral, família Peculiar                                                                                                                                                                                                                                                                                                                                                                                    | **NPCs:** Viscount (butler), ancestral spirit, Peculiar family                                                                                                                                                                                                                                                                                                                                                |
+| **Loot:** Joia da família, promessa de favores                                                                                                                                                                                                                                                                                                                                                                                                        | **Loot:** Family jewel, promise of favors                                                                                                                                                                                                                                                                                                                                                                     |
+| **Data:** 2025-03-13                                                                                                                                                                                                                                                                                                                                                                                                                                  | **Date:** 2025-03-13                                                                                                                                                                                                                                                                                                                                                                                          |
+| **Ficheiros de origem:** s10_o_segredo_de_peculiar_manor_pontos.md                                                                                                                                                                                                                                                                                                                                                                                    | **Source files:** s10_o_segredo_de_peculiar_manor_pontos.md                                                                                                                                                                                                                                                                                                                                                   |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s10_o_segredo_de_peculiar_manor_ready.md ==== -->
+
+# O Segredo de Peculiar Manor  Ready to Play
+
+| Português                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | English                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Introdução:** Party contratada pela família Peculiar para resolver mistérios na mansão.<br><br>**Cena 1: Chegada e Suspense**<br>- Mordomo Visconde apresenta regras, estranha-se o ambiente.<br>- Exploração da mansão; sons, portas e passagens secretas.<br><br>**Cena 2: Descobertas**<br>- Sótao trancado, cartas antigas, pintura perturbadora.<br>- Investigação revela presença sobrenatural.<br><br>**Cena 3: Confronto com o Fantasma**<br>- Negociação/combate, libertação do espírito ancestral.<br><br>**Encerramento:**<br>- Família agradece, entrega joia e promessa de auxílio futuro.<br> | **Introduction:** Party hired by the Peculiar family to solve manor mysteries.<br><br>**Scene 1: Arrival and Suspense**<br>- Butler Viscount explains rules, strange atmosphere.<br>- Explore the manor; sounds, doors, secret passages.<br><br>**Scene 2: Discoveries**<br>- Locked attic, old letters, unsettling painting.<br>- Investigation reveals supernatural presence.<br><br>**Scene 3: Confrontation with the Ghost**<br>- Negotiation/combat, ancestral spirit set free.<br><br>**Conclusion:**<br>- Family thanks party, gives jewel and promise of future help.<br> |
+| **NPCs:** Visconde (mordomo), espírito ancestral, família Peculiar                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | **NPCs:** Viscount (butler), ancestral spirit, Peculiar family                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| **Loot:** Joia da família, promessa de favores                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | **Loot:** Family jewel, promise of favors                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| **Data:** 2025-03-13                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | **Date:** 2025-03-13                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| **Ficheiros de origem:** s10_o_segredo_de_peculiar_manor_ready.md                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | **Source files:** s10_o_segredo_de_peculiar_manor_ready.md                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s10_o_segredo_de_peculiar_manor_summary.md ==== -->
+
+# O Segredo de Peculiar Manor
+
+| Português | English |
+|-----------|---------|
+| **Descrição:** A party é chamada para solucionar eventos estranhos em Peculiar Manor. O ambiente é de tensão e mistério, com passagens ocultas e atividades sobrenaturais. Descobertas no sótão levam ao confronto com o espírito ancestral da família. Após negociações e rituais, o fantasma é libertado e a mansão volta à paz. Como recompensa, recebem uma joia e um convite para futuras oportunidades junto da família Peculiar.<br> | **Description:** The party is summoned to solve strange events at Peculiar Manor. The atmosphere is tense and mysterious, with hidden passages and supernatural activity. Discoveries in the attic lead to a confrontation with the familys ancestral spirit. After negotiations and rituals, the ghost is set free and the manor returns to peace. As a reward, they receive a jewel and an invitation for future opportunities with the Peculiar family.<br> |
+| **PCs:** [a confirmar, ex: Vaunia, Triss, outros] | **PCs:** [to confirm, e.g. Vaunia, Triss, others] |
+| **NPCs:** Visconde (mordomo), espírito ancestral, família Peculiar | **NPCs:** Viscount (butler), ancestral spirit, Peculiar family |
+| **Loot:** Joia da família, promessa de favores | **Loot:** Family jewel, promise of favors |
+| **Data:** 2025-03-13 | **Date:** 2025-03-13 |
+| **Ficheiros de origem:** s10_o_segredo_de_peculiar_manor_resumo.md | **Source files:** s10_o_segredo_de_peculiar_manor_resumo.md |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s10_sombras_de_iuz.txt ==== -->
+
+# Sombras de Iuz  Bullet Points
+
+| Português                                                                                                                                                                                                                                                                                                                                                                                                                                                     | English                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| - Kai recebe carta de chantagem: segredo prestes a ser revelado.<br>- Raveth, drow exilado, convoca encontro em ruínas de forte.<br>- Obstáculos: emboscada de bandidos, enigmas ambientais.<br>- Raveth tenta manipular Kai e Triss.<br>- Interrupção por paladinos de Beltar e cães demoníacos.<br>- Combate: Raveth foge, deixa artefato sombrio.<br>- Paladinos capturam Dustin, party recua.<br>- Gancho: pistas para resgate de Dustin em Greyhawk.<br> | - Kai receives blackmail letter: his secret is about to be revealed.<br>- Raveth, exiled drow, summons meeting at ruined fort.<br>- Obstacles: bandit ambush, environmental puzzles.<br>- Raveth tries to manipulate Kai and Triss.<br>- Interrupted by Beltar paladins and demon dogs.<br>- Combat: Raveth flees, leaves behind dark artifact.<br>- Paladins capture Dustin, party retreats.<br>- Hook: clues to rescue Dustin in Greyhawk.<br> |
+| **NPCs:** Raveth (drow exilado), paladinos de Beltar, cães demoníacos, bandidos                                                                                                                                                                                                                                                                                                                                                                               | **NPCs:** Raveth (exiled drow), Beltar paladins, demon dogs, bandits                                                                                                                                                                                                                                                                                                                                                                             |
+| **Loot:** Artefato sombrio, pistas para Greyhawk                                                                                                                                                                                                                                                                                                                                                                                                              | **Loot:** Dark artifact, clues to Greyhawk                                                                                                                                                                                                                                                                                                                                                                                                       |
+| **Data:** 2025-03-13                                                                                                                                                                                                                                                                                                                                                                                                                                          | **Date:** 2025-03-13                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| **Ficheiros de origem:** s10_sombras_de_iuz_pontos.md                                                                                                                                                                                                                                                                                                                                                                                                         | **Source files:** s10_sombras_de_iuz_pontos.md                                                                                                                                                                                                                                                                                                                                                                                                   |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s10_sombras_de_iuz_ready.md ==== -->
+
+# Sombras de Iuz  Ready to Play
+
+| Português                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | English                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Introdução:** Kai recebe carta misteriosa; grupo chamado para missão fora da cidade.<br><br>**Cena 1: Jornada até ao Forte**<br>- Emboscada de bandidos, ambiente hostil, puzzle ambiental.<br><br>**Cena 2: Encontro com Raveth**<br>- Negociação tensa, propostas e ameaças. Triss pode obter info exclusiva como drow.<br><br>**Cena 3: Interrupção Paladina**<br>- Paladinos de Beltar chegam com cães demoníacos; combate caótico.<br><br>**Cena 4: Fuga e Consequências**<br>- Dustin é capturado; artefato sombrio e pistas para Greyhawk.<br><br>**Encerramento:**<br>- Decisão: resgatar Dustin, seguir pistas de Raveth ou confrontar paladinos.<br> | **Introduction:** Kai receives a mysterious letter; group called for a mission outside the city.<br><br>**Scene 1: Journey to the Fort**<br>- Bandit ambush, hostile environment, environmental puzzle.<br><br>**Scene 2: Meeting with Raveth**<br>- Tense negotiation, proposals and threats. Triss may get exclusive info as a drow.<br><br>**Scene 3: Paladin Interruption**<br>- Beltar paladins arrive with demon dogs; chaotic fight.<br><br>**Scene 4: Escape and Consequences**<br>- Dustin is captured; dark artifact and clues to Greyhawk.<br><br>**Conclusion:**<br>- Decision: rescue Dustin, follow Raveth clues, or confront paladins.<br> |
+| **NPCs:** Raveth (drow exilado), paladinos de Beltar, cães demoníacos, bandidos                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | **NPCs:** Raveth (exiled drow), Beltar paladins, demon dogs, bandits                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| **Loot:** Artefato sombrio, pistas para Greyhawk                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | **Loot:** Dark artifact, clues to Greyhawk                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| **Data:** 2025-03-13                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | **Date:** 2025-03-13                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| **Ficheiros de origem:** s10_sombras_de_iuz_ready.md                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | **Source files:** s10_sombras_de_iuz_ready.md                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s10_sombras_de_iuz_summary.md ==== -->
+
+# Sombras de Iuz
+
+| Português                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | English                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Descrição:** Kai recebe uma carta ameaçadora de alguém que conhece seu segredo: não é o verdadeiro herdeiro da Casa Vanthir. Raveth, drow exilado, convoca Kai para um encontro nas ruínas de um forte. No caminho, a party enfrenta emboscada de bandidos e enigmas ambientais. No local, negociam com Raveth, que propõe usar Kai como peão político. A conversa é interrompida por paladinos de Beltar e cães demoníacos. O combate termina com Raveth escapando e Dustin sendo capturado pelos paladinos, deixando o grupo com um dilema e pistas de conspiração subterrânea.<br> | **Description:** Kai receives a threatening letter from someone who knows his secret: he is not the true heir of House Vanthir. Raveth, an exiled drow, summons Kai for a meeting at the ruins of a fort. On the way, the party faces a bandit ambush and environmental puzzles. They negotiate with Raveth, who wants to use Kai as a political pawn. The meeting is interrupted by Beltar paladins and demon dogs. The fight ends with Raveth escaping and Dustin being captured by the paladins, leaving the group with a dilemma and clues of an underground conspiracy.<br> |
+| **PCs:** Kai, Triss, Dustin, outros [a confirmar]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | **PCs:** Kai, Triss, Dustin, others [to confirm]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| **NPCs:** Raveth (drow exilado), paladinos de Beltar, cães demoníacos, bandidos                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | **NPCs:** Raveth (exiled drow), Beltar paladins, demon dogs, bandits                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| **Loot:** Artefato sombrio, pistas para Greyhawk                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | **Loot:** Dark artifact, clues to Greyhawk                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| **Data:** 2025-03-13                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | **Date:** 2025-03-13                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| **Ficheiros de origem:** s10_sombras_de_iuz_resumo.md                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | **Source files:** s10_sombras_de_iuz_resumo.md                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s10_sombras_sobre_erybend.txt ==== -->
+
+# Sombras sobre Erybend  Bullet Points
+
+| Português                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | English                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| - Missão: abrir negociações comerciais em Erybend.<br>- Emboscada na estrada: bandidos leais ao culto de Nerzul.<br>- Descobertas: moedas com símbolo obscuro, pistas do culto.<br>- Cidade em tensão: mercador Dolren Vas, rumores de reuniões secretas.<br>- Investigação leva a ruínas de templo, ritual liderado por Odrak.<br>- Combate em taberna e templo; cultistas e elementais como inimigos.<br>- Confronto final: impedir ritual sombrio de Odrak.<br>- Consequências: aliança, recompensas e futuros ganchos com baile de Blackfair Manor.<br> | - Mission: open trade negotiations in Erybend.<br>- Road ambush: bandits loyal to Nerzuls cult.<br>- Discoveries: coins with dark symbols, cult clues.<br>- Town in tension: merchant Dolren Vas, rumors of secret meetings.<br>- Investigation leads to ruined temple, ritual led by Odrak.<br>- Fights in tavern and temple; cultists and elementals as foes.<br>- Final confrontation: stop Odraks dark ritual.<br>- Consequences: alliance, rewards, and future hooks with Blackfair Manor ball.<br> |
+| **NPCs:** Dolren Vas, Odrak, cultistas de Nerzul, bandidos, elementais                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | **NPCs:** Dolren Vas, Odrak, Nerzul cultists, bandits, elementals                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| **Loot:** Recompensas comerciais, moedas sombrias, convite para baile                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | **Loot:** Trade rewards, dark coins, ball invitation                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| **Data:** 2025-03-13                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | **Date:** 2025-03-13                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| **Ficheiros de origem:** s10_sombras_sobre_erybend_pontos.md                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | **Source files:** s10_sombras_sobre_erybend_pontos.md                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s10_sombras_sobre_erybend_ready.md ==== -->
+
+# Sombras sobre Erybend  Ready to Play
+
+| Português                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | English                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Introdução:** Party recebe missão do taberneiro para abrir negociações em Erybend.<br><br>**Cena 1: Estrada e Emboscada**<br>- Combate com bandidos, descoberta de símbolos do culto.<br><br>**Cena 2: Intrigas em Erybend**<br>- Cidade inquieta, boatos sobre desaparecimentos e rituais secretos.<br>- Interação com Dolren Vas e investigação.<br><br>**Cena 3: Templo e Ritual**<br>- Espionagem, combate com cultistas.<br>- Ritual sombrio liderado por Odrak no templo.<br><br>**Cena 4: Conclusão**<br>- Sucesso: aliança e recompensas, convite para o baile.<br>- Fracasso: culto cresce, novos ganchos e perigos.<br><br>**Gancho:**<br>- Ligações com trama maior em Blackfair Manor.<br> | **Introduction:** Party receives a mission from the innkeeper to open trade negotiations in Erybend.<br><br>**Scene 1: Road and Ambush**<br>- Fight with bandits, discovery of cult symbols.<br><br>**Scene 2: Intrigue in Erybend**<br>- Town on edge, rumors of disappearances and secret rituals.<br>- Interact with Dolren Vas and investigate.<br><br>**Scene 3: Temple and Ritual**<br>- Espionage, fight with cultists.<br>- Dark ritual led by Odrak in the temple.<br><br>**Scene 4: Conclusion**<br>- Success: alliance and rewards, invitation to the ball.<br>- Failure: cult grows, new hooks and dangers.<br><br>**Hook:**<br>- Ties to greater plot in Blackfair Manor.<br> |
+| **NPCs:** Dolren Vas, Odrak, cultistas de Nerzul, bandidos, elementais                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | **NPCs:** Dolren Vas, Odrak, Nerzul cultists, bandits, elementals                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| **Loot:** Recompensas comerciais, moedas sombrias, convite para baile                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | **Loot:** Trade rewards, dark coins, ball invitation                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| **Data:** 2025-03-13                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | **Date:** 2025-03-13                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| **Ficheiros de origem:** s10_sombras_sobre_erybend_ready.md                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | **Source files:** s10_sombras_sobre_erybend_ready.md                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s10_sombras_sobre_erybend_summary.md ==== -->
+
+# Sombras sobre Erybend
+
+| Português | English |
+|-----------|---------|
+| **Descrição:** Contratados para abrir negociações comerciais em Erybend, a party encontra uma cidade tomada pelo medo, culto maligno e desaparecimentos. Emboscados por bandidos leais ao culto de Nerzul, descobrem ligações com Iuz e o passado dos próprios aventureiros. Investigam mistérios, enfrentam cultistas e finalmente invadem o templo de Nerzul, impedindo (ou não) um ritual sombrio liderado por Odrak. O sucesso garante alianças e acesso ao baile de Blackfair Manor; o fracasso fortalece o culto e a ameaça para toda a região.<br> | **Description:** Hired to open trade negotiations in Erybend, the party finds a town gripped by fear, an evil cult, and disappearances. Ambushed by bandits loyal to Nerzuls cult, they discover ties to Iuz and their own past. They investigate mysteries, face cultists, and finally invade Nerzuls temple, stopping (or not) a dark ritual led by Odrak. Success brings alliances and access to the Blackfair Manor ball; failure strengthens the cult and the threat to the entire region.<br> |
+| **PCs:** [a confirmar, ex: Vaunia, outros] | **PCs:** [to confirm, e.g. Vaunia, others] |
+| **NPCs:** Dolren Vas, Odrak, cultistas de Nerzul, bandidos, elementais | **NPCs:** Dolren Vas, Odrak, Nerzul cultists, bandits, elementals |
+| **Loot:** Recompensas comerciais, moedas sombrias, convite para baile | **Loot:** Trade rewards, dark coins, ball invitation |
+| **Data:** 2025-03-13 | **Date:** 2025-03-13 |
+| **Ficheiros de origem:** s10_sombras_sobre_erybend_resumo.md | **Source files:** s10_sombras_sobre_erybend_resumo.md |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s11_o_legado_de_krixis.txt ==== -->
+
+# O Legado de Krixis, o Valente  Bullet Points
+
+| Português                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | English                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| - Kobolds Vermisombra contratam o grupo para recuperar espada sagrada e libertar Krixis.<br>- Entrada do templo: 2 goblins vigias.<br>- Sala das oferendas: armadilha de foice, lobo mágico acorrentado (Krixis).<br>- Enfrentam patrulha de 3 goblins, descobrem que Chefe Orc guarda a espada.<br>- Sala do boss: Gogrom (orc), enigma da vela e porta secreta.<br>- Na sala secreta, enfrentam orc furioso.<br>- Libertam Krixis, lobo transforma-se em kobold.<br>- Retornam à taberna para celebrar, fortalecendo laços com os kobolds.<br> | - Vermisombra kobolds hire the group to recover a sacred sword and free Krixis.<br>- Temple entrance: 2 goblin guards.<br>- Offerings room: scythe trap, chained magic wolf (Krixis).<br>- Face patrol of 3 goblins, learn Orc Chief holds the sword.<br>- Boss room: Gogrom (orc), candle puzzle and secret door.<br>- Secret room: furious orc.<br>- Free Krixis, wolf transforms into kobold.<br>- Return to tavern for celebration, strengthen ties with kobolds.<br> |
+| **NPCs:** Snikil Pescabrasa (líder kobold), Gogrom (orc boss), Krixis (kobold/lobo), goblins                                                                                                                                                                                                                                                                                                                                                                                                                                                     | **NPCs:** Snikil Pescabrasa (kobold leader), Gogrom (orc boss), Krixis (kobold/wolf), goblins                                                                                                                                                                                                                                                                                                                                                                             |
+| **Loot:** Espada sagrada dos kobolds, pista da maldição                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | **Loot:** Kobold sacred sword, curse clue                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| **Data:** 2025-03-20                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | **Date:** 2025-03-20                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| **Ficheiros de origem:** s11_o_legado_de_krixis_pontos.md                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | **Source files:** s11_o_legado_de_krixis_pontos.md                                                                                                                                                                                                                                                                                                                                                                                                                        |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s11_o_legado_de_krixis_ready.md ==== -->
+
+
+# O Legado de Krixis, o Valente  Ready to Play
+
+| Português                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | English                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Introdução:** Kobolds Vermisombra procuram aventureiros na taberna para missão de honra: recuperar espada sagrada e salvar o ancestral Krixis.<br><br>**Cena 1: Entrada no Templo**<br>- 2 goblins vigias.<br>- Sala das oferendas: armadilha de foice; lobo mágico acorrentado.<br><br>**Cena 2: Exploração e Combate**<br>- Enfrentam patrulha de goblins.<br>- Chefe Orc Gogrom desafia o grupo.<br><br>**Cena 3: O Enigma da Vela**<br>- Porta secreta só abre com solução do puzzle (vela).<br>- Sala secreta: orc furioso, loot e pista sobre a maldição.<br><br>**Cena 4: Libertação de Krixis**<br>- Libertam o lobo (Krixis), retornam à taberna para celebrar.<br> | **Introduction:** Vermisombra kobolds seek adventurers in the tavern for an honor quest: recover sacred sword and save the ancestor Krixis.<br><br>**Scene 1: Temple Entrance**<br>- 2 goblin guards.<br>- Offerings room: scythe trap; chained magic wolf.<br><br>**Scene 2: Exploration & Combat**<br>- Face goblin patrol.<br>- Orc Chief Gogrom challenges the group.<br><br>**Scene 3: Candle Puzzle**<br>- Secret door only opens with puzzle solution (candle).<br>- Secret room: furious orc, loot, curse clue.<br><br>**Scene 4: Krixiss Liberation**<br>- Free the wolf (Krixis), return to tavern for celebration.<br> |
+| **NPCs:** Snikil Pescabrasa, Gogrom, Krixis, goblins                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | **NPCs:** Snikil Pescabrasa, Gogrom, Krixis, goblins                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| **Loot:** Espada sagrada, pista da maldição                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | **Loot:** Sacred sword, curse clue                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| **Data:** 2025-03-20                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | **Date:** 2025-03-20                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| **Ficheiros de origem:** s11_o_legado_de_krixis_ready.md                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | **Source files:** s11_o_legado_de_krixis_ready.md                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s11_o_legado_de_krixis_summary.md ==== -->
+
+# O Legado de Krixis, o Valento
+
+| Português | English |
+|-----------|---------|
+| **Descrição:** Kobolds Vermisombra contratam os aventureiros para libertar Krixis, ancestral amaldiçoado, e recuperar a espada sagrada num templo abandonado. O grupo enfrenta goblins, armadilhas e orcs, incluindo o boss Gogrom. Descobrem um lobo acorrentado (Krixis sob maldição), resolvem o enigma da sala secreta, libertam Krixis e celebram o sucesso com os kobolds.<br> | **Description:** Vermisombra kobolds hire the adventurers to free Krixis, a cursed ancestor, and recover the sacred sword in an abandoned temple. The group faces goblins, traps, and orcsincluding boss Gogrom. They discover a chained wolf (Krixis under a curse), solve the secret room puzzle, free Krixis, and celebrate with the kobolds.<br> |
+| **PCs:** [a confirmar] | **PCs:** [to confirm] |
+| **NPCs:** Snikil Pescabrasa, Gogrom, Krixis, goblins | **NPCs:** Snikil Pescabrasa, Gogrom, Krixis, goblins |
+| **Loot:** Espada sagrada, pista da maldição | **Loot:** Sacred sword, curse clue |
+| **Data:** 2025-03-20 | **Date:** 2025-03-20 |
+| **Ficheiros de origem:** s11_o_legado_de_krixis_resumo.md | **Source files:** s11_o_legado_de_krixis_resumo.md |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s11_prisao_e_redencao.txt ==== -->
+
+# Prisão e Redenção de Dustin — Bullet Points
+
+| Português                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | English                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| - Dustin capturado por paladinos de Beltar, levado para o Castelo Ruína-de-Ébano.<br>- Interrogatório físico e psicológico.<br>- Party (Triss, Kai, Raylahn) segue pistas até o castelo.<br>- Enfrentam cães demoníacos e armadilhas no pântano.<br>- Infiltram-se na prisão, lidando com patrulhas e alarmes mágicos.<br>- Dustin recebe ajuda de Prysanna (fey), arma mágica temporária.<br>- Confronto final com Alto-Inquisidor Malrik Dorn, Spectator e Golem de Ossos.<br>- Vitória apertada: impedem ritual divino.<br>- Prysanna abre portal de fuga; Dustin fica em dívida mágica.<br>- Gancho: Prysanna irá cobrar o favor no futuro.<br> | - Dustin captured by Beltar paladins, taken to Ebony Ruin Castle.<br>- Physical and psychological interrogation.<br>- Party (Triss, Kai, Raylahn) follows clues to the castle.<br>- Face demon dogs and swamp traps.<br>- Infiltrate the prison, dealing with patrols and magical alarms.<br>- Dustin receives help from Prysanna (fey), temporary magic weapon.<br>- Final confrontation with High Inquisitor Malrik Dorn, Spectator, and Bone Golem.<br>- Narrow victory: divine ritual stopped.<br>- Prysanna opens escape portal; Dustin owes a magical debt.<br>- Hook: Prysanna will call in the favor later.<br> |
+| **NPCs:** Malrik Dorn (Alto-Inquisidor), Spectator, Golem de Ossos, Prysanna (fey), paladinos de Beltar                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | **NPCs:** Malrik Dorn (High Inquisitor), Spectator, Bone Golem, Prysanna (fey), Beltar paladins                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| **Loot:** Arma mágica temporária, chave da cela, itens dos guardas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | **Loot:** Temporary magic weapon, cell key, minor guard items                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| **Data:** 2025-03-20                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | **Date:** 2025-03-20                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| **Ficheiros de origem:** s11_prisao_e_redencao_pontos.md                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | **Source files:** s11_prisao_e_redencao_pontos.md                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s11_prisao_e_redencao_ready.md ==== -->
+
+# Prisão e Redenção de Dustin  Ready to Play
+
+| Português                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | English                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Introdução:** Dustin acorda algemado numa cela escura. Party (Triss, Kai, Raylahn) parte em seu resgate.<br><br>**Cena 1: Cativeiro**<br>- Interrogatório brutal por paladinos de Beltar.<br><br>**Cena 2: Caminho pelo Pântano**<br>- Cães demoníacos e armadilhas.<br><br>**Cena 3: Infiltração no Castelo**<br>- Alarmes mágicos, patrulhas, stealth.<br><br>**Cena 4: Intervenção de Prysanna**<br>- Dustin recebe arma mágica/bênção.<br><br>**Cena 5: Combate Final**<br>- Alto-Inquisidor, Spectator, Golem de Ossos; ritual ameaçador.<br><br>**Cena 6: Fuga**<br>- Prysanna abre portal, party escapa; dívida mágica deixada em aberto.<br> | **Introduction:** Dustin wakes chained in a dark cell. Party (Triss, Kai, Raylahn) sets out to rescue him.<br><br>**Scene 1: Captivity**<br>- Brutal interrogation by Beltar paladins.<br><br>**Scene 2: Swamp Path**<br>- Demon dogs and traps.<br><br>**Scene 3: Castle Infiltration**<br>- Magic alarms, patrols, stealth.<br><br>**Scene 4: Prysannas Intervention**<br>- Dustin gets magic weapon/blessing.<br><br>**Scene 5: Final Fight**<br>- High Inquisitor, Spectator, Bone Golem; threatening ritual.<br><br>**Scene 6: Escape**<br>- Prysanna opens portal, party escapes; magical debt remains.<br> |
+| **NPCs:** Malrik Dorn, Spectator, Golem de Ossos, Prysanna, paladinos de Beltar                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | **NPCs:** Malrik Dorn, Spectator, Bone Golem, Prysanna, Beltar paladins                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| **Loot:** Arma mágica temporária, chave da cela, itens dos guardas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | **Loot:** Temporary magic weapon, cell key, minor guard items                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| **Data:** 2025-03-20                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | **Date:** 2025-03-20                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| **Ficheiros de origem:** s11_prisao_e_redencao_ready.md                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | **Source files:** s11_prisao_e_redencao_ready.md                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s11_prisao_e_redencao_summary.md ==== -->
+
+
+# Prisão e Redenção de Dustin
+
+| Português | English |
+|-----------|---------|
+| **Descrição:** Dustin é capturado por paladinos de Beltar, levado ao Castelo Ruína-de-Ébano e brutalmente interrogado. Enquanto a party enfrenta perigos para o resgatar, Dustin recebe ajuda de Prysanna, uma fey perigosa. A party infiltra-se, derrota Malrik Dorn, Spectator e um golem de ossos, impede o ritual divino e escapa através de um portal aberto por Prysanna, deixando Dustin com uma dívida mágica a pagar.<br> | **Description:** Dustin is captured by Beltar paladins, taken to Ebony Ruin Castle, and brutally interrogated. As the party faces dangers to rescue him, Dustin receives help from Prysanna, a dangerous fey. The party infiltrates, defeats Malrik Dorn, Spectator, and a bone golem, stops the divine ritual, and escapes through a portal opened by Prysanna, leaving Dustin with a magical debt.<br> |
+| **PCs:** Dustin, Triss, Kai, Raylahn, Markus | **PCs:** Dustin, Triss, Kai, Raylahn, Markus |
+| **NPCs:** Malrik Dorn, Spectator, Golem de Ossos, Prysanna, paladinos de Beltar | **NPCs:** Malrik Dorn, Spectator, Bone Golem, Prysanna, Beltar paladins |
+| **Loot:** Arma mágica temporária, chave da cela, itens dos guardas | **Loot:** Temporary magic weapon, cell key, minor guard items |
+| **Data:** 2025-03-20 | **Date:** 2025-03-20 |
+| **Ficheiros de origem:** s11_prisao_e_redencao_resumo.md | **Source files:** s11_prisao_e_redencao_resumo.md |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s11_trilogia_tres_pedras_mindflayer.txt ==== -->
+
+# Companhia & as Três Pedras / Mind Flayers  Bullet Points
+
+| Português                                                                                                                                                                                                                                                                                                                                                   | English                                                                                                                                                                                                                                                                                                                                                     |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| - Companhia pede à party para recuperar as três pedras mágicas.<br>- Investigam templo no pântano, aldeia dos sapos com cadáveres sem cérebro.<br>- Loot: moedas, scroll de teleport e fireball.<br>- Dois mind flayers atacam: Baltigard e Varus morrem.<br>- Nave Illithid aparece e rapta a party.<br>- Sessão termina com todos na nave alienígena.<br> | - The Company asks the party to recover the three magic stones.<br>- Investigate swamp temple, frogfolk village with brainless corpses.<br>- Loot: coins, scrolls of teleport and fireball.<br>- Two mind flayers attack: Baltigard and Varus die.<br>- Illithid ship arrives and abducts the party.<br>- Session ends with everyone on the alien ship.<br> |
+| **NPCs:** Companhia das Três Pedras, Baltigard, Varus, mind flayers                                                                                                                                                                                                                                                                                         | **NPCs:** Three Stones Company, Baltigard, Varus, mind flayers                                                                                                                                                                                                                                                                                              |
+| **Loot:** Moedas, pergaminhos mágicos                                                                                                                                                                                                                                                                                                                       | **Loot:** Coins, magic scrolls                                                                                                                                                                                                                                                                                                                              |
+| **Data:** 2025-03-20                                                                                                                                                                                                                                                                                                                                        | **Date:** 2025-03-20                                                                                                                                                                                                                                                                                                                                        |
+| **Ficheiros de origem:** s11_trilogia_tres_pedras_mindflayer_pontos.md                                                                                                                                                                                                                                                                                      | **Source files:** s11_trilogia_tres_pedras_mindflayer_pontos.md                                                                                                                                                                                                                                                                                             |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s11_trilogia_tres_pedras_mindflayer_ready.md ==== -->
+
+# Companhia & as Três Pedras / Mind Flayers  Ready to Play
+
+| Português                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | English                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Introdução:** Companhia das Três Pedras contacta a party para recuperar artefactos no pântano.<br><br>**Cena 1: Investigação no Templo**<br>- Aldeia dos sapos infestada de corpos sem cérebro.<br>- Loot: moedas, scroll de teleport, scroll de fireball.<br><br>**Cena 2: Confronto Mind Flayer**<br>- Dois mind flayers atacam.<br>- Baltigard e Varus morrem.<br><br>**Cena 3: Abdução Alienígena**<br>- Nave Illithid rapta o grupo.<br>- Sessão termina com party prisioneira dos mind flayers.<br> | **Introduction:** Three Stones Company contacts the party to recover artifacts in the swamp.<br><br>**Scene 1: Temple Investigation**<br>- Frogfolk village infested with brainless corpses.<br>- Loot: coins, teleport scroll, fireball scroll.<br><br>**Scene 2: Mind Flayer Encounter**<br>- Two mind flayers attack.<br>- Baltigard and Varus die.<br><br>**Scene 3: Alien Abduction**<br>- Illithid ship abducts the group.<br>- Session ends with the party imprisoned by mind flayers.<br> |
+| **NPCs:** Companhia das Três Pedras, Baltigard, Varus, mind flayers                                                                                                                                                                                                                                                                                                                                                                                                                                         | **NPCs:** Three Stones Company, Baltigard, Varus, mind flayers                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| **Loot:** Moedas, pergaminhos mágicos                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | **Loot:** Coins, magic scrolls                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| **Data:** 2025-03-20                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | **Date:** 2025-03-20                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| **Ficheiros de origem:** s11_trilogia_tres_pedras_mindflayer_ready.md                                                                                                                                                                                                                                                                                                                                                                                                                                       | **Source files:** s11_trilogia_tres_pedras_mindflayer_ready.md                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s11_trilogia_tres_pedras_mindflayer_summary.md ==== -->
+
+# Companhia & as Três Pedras / Mind Flayers
+
+| Português | English |
+|-----------|---------|
+| **Descrição:** Companhia das Três Pedras chama a party para recuperar artefactos mágicos. No pântano e aldeia dos sapos, enfrentam cadáveres sem cérebro e recolhem loot mágico. Dois mind flayers atacam: Baltigard e Varus caem. Uma nave Illithid surge e rapta a party, encerrando a sessão com todos aprisionados.<br> | **Description:** The Three Stones Company calls the party to recover magical artifacts. In the swamp and frogfolk village, they face brainless corpses and collect magical loot. Two mind flayers attack: Baltigard and Varus fall. An Illithid ship appears and abducts the party, ending the session with everyone captured.<br> |
+| **PCs:** [a confirmar] | **PCs:** [to confirm] |
+| **NPCs:** Companhia das Três Pedras, Baltigard, Varus, mind flayers | **NPCs:** Three Stones Company, Baltigard, Varus, mind flayers |
+| **Loot:** Moedas, pergaminhos mágicos | **Loot:** Coins, magic scrolls |
+| **Data:** 2025-03-20 | **Date:** 2025-03-20 |
+| **Ficheiros de origem:** s11_trilogia_tres_pedras_mindflayer_resumo.md | **Source files:** s11_trilogia_tres_pedras_mindflayer_resumo.md |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s12_prisao_e_resgate_de_dustin.txt ==== -->
+
+# Prisão e Resgate de Dustin: Bullet Points
+
+| Português                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | English                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| - Markus chega via portal enviado pelo taberneiro.<br>- Triss mantém Hex em Dustin para o rastrear.<br>- Grupo segue rastos até castelo em promontório.<br>- Travessia do rio: barco desfaz-se, Markus e Kai caem à água, são salvos.<br>- Dustin é torturado e submetido a Zone of Truth, mas resiste.<br>- Paladina misteriosa liberta Dustin e ajuda na fuga.<br>- Party reúne-se após confrontos e fugas no castelo.<br>- Todos escapam e regressam à taberna.<br>- Dívida pendente com a paladina, suspeitas de corrupção interna na Ordem de Beltar.<br> | - Markus arrives via portal sent by the innkeeper.<br>- Triss keeps Hex on Dustin to track him.<br>- Group follows tracks to castle on a promontory.<br>- River crossing: boat breaks apart, Markus and Kai fall in, but are saved.<br>- Dustin is tortured and put under Zone of Truth, but resists.<br>- Mysterious paladin frees Dustin and helps him escape.<br>- Party reunites after fights and escapes in the castle.<br>- All escape and return to the inn.<br>- Debt owed to the paladin, suspicions of internal corruption in Beltars Order.<br> |
+| **NPCs:** Paladinos de Beltar, paladina misteriosa (aliada), taberneiro                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | **NPCs:** Beltar paladins, mysterious paladin (ally), innkeeper                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| **Loot:** armas recuperadas, carta escondida, anel GPS mágico (recompensa), ouro menor                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | **Loot:** recovered weapons, hidden letter, magic GPS ring (reward), minor gold                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| **Data:** 2025-03-27                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | **Date:** 2025-03-27                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| **Ficheiros de origem:** s12_prisao_e_resgate_de_dustin_bullet.md                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | **Source files:** s12_prisao_e_resgate_de_dustin_bullet.md                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s12_prisao_e_resgate_de_dustin_ready.md ==== -->
+
+# Sessão 12  Prisão e Resgate de Dustin (27-mar): Ready to Play
+
+| Português | English |
+|-----------|---------|
+| **Introdução:**<br>Markus chega via portal (convocado pelo taberneiro) para reforçar a party na missão de resgatar Dustin.<br><br>**Cena 1: O Rasto e o Rio**<br>- Triss mantém Hex ativo em Dustin, usando-o para rastrear a localização.<br>- O grupo segue até ao castelo em promontório, junto a um rio.<br>- Tentam atravessar de barco; o barco desfaz-se nas rochas.<br>- Triss e Raylahn sobem bem, Markus e Kai caem à água e são salvos.<br><br>**Cena 2: A Cela e a Paladina**<br>- Dustin torturado por paladinos, forçado a falar sob Zone of Truth.<br>- Paladina misteriosa decide libertar Dustin, indo contra ordens.<br><br>**Cena 3: Fuga e Reencontro**<br>- Dustin foge guiado pela aliada; party infiltra-se ou espera.<br>- Confronto com patrulhas.<br>- O grupo reúne-se e foge do castelo, perseguido mas sem baixas.<br><br>**Cena 4: Regresso à Taberna**<br>- De volta à taberna, recompõem-se.<br>- Dívida com a paladina.<br>- Gancho: indícios de corrupção/divisão na Ordem de Beltar.<br> | **Introduction:**<br>Markus arrives via portal (summoned by the innkeeper) to reinforce the party in Dustins rescue mission.<br><br>**Scene 1: The Trail and the River**<br>- Triss keeps Hex on Dustin, using it to track his location.<br>- Group heads to castle on a promontory by a river.<br>- Attempt river crossing by boat; boat breaks on rocks.<br>- Triss and Raylahn climb well; Markus and Kai fall in but are saved.<br><br>**Scene 2: The Cell and the Paladin**<br>- Dustin tortured by paladins, forced to speak under Zone of Truth.<br>- Mysterious paladin chooses to free Dustin, disobeying orders.<br><br>**Scene 3: Escape and Reunion**<br>- Dustin escapes with the ally; party infiltrates or waits.<br>- Patrol confrontations possible.<br>- Group finally reunites and flees the castle, pursued but unharmed.<br><br>**Scene 4: Back at the Inn**<br>- Back at the inn, they recover.<br>- Debt to the paladin.<br>- Hook: hints of corruption/split in Beltars Order.<br> |
+| **NPCs:** Paladinos de Beltar, paladina misteriosa (aliada), taberneiro | **NPCs:** Beltar paladins, mysterious paladin (ally), innkeeper |
+| **Loot:** armas recuperadas, carta escondida, anel GPS mágico (recompensa), ouro menor | **Loot:** recovered weapons, hidden letter, magic GPS ring (reward), minor gold |
+| **Data:** 2025-03-27 | **Date:** 2025-03-27 |
+| **Ficheiros de origem:** s12_prisao_e_resgate_de_dustin_ready.md | **Source files:** s12_prisao_e_resgate_de_dustin_ready.md |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s12_prisao_e_resgate_de_dustin_summary.md ==== -->
+
+# Prisão e Resgate de Dustin
+
+| Português                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | English                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Descrição:** Markus chega via portal enviado pelo taberneiro para ajudar Triss, Kai e Raylahn a resgatar Dustin, capturado e torturado pelos paladinos de Beltar. Usando um Hex como ligação mágica, Triss rastreia Dustin até um castelo isolado. A party atravessa o rio com dificuldades  Markus e Kai quase se afogam, mas são salvos. No castelo, Dustin é libertado por uma paladina, recebendo ajuda inesperada. O grupo reúne-se após combates e fugas, escapando do castelo e regressando à taberna. Fica em aberto a dívida para com a paladina e pistas de corrupção na ordem de Beltar. Após seguir rastros mágicos e atravessar o rio, a party infiltra-se na fortaleza dos paladinos, onde Dustin é salvo por uma paladina rebelde. O grupo foge do castelo e volta à taberna, mantendo uma dívida com a aliada.<br> | **Description:** Markus arrives via portal sent by the innkeeper to help Triss, Kai, and Raylahn rescue Dustin, who was captured and tortured by Beltars paladins. Using a Hex as a magical link, Triss tracks Dustin to an isolated castle. The party crosses the river with difficultyMarkus and Kai nearly drown but are saved. In the castle, Dustin is freed by a paladin, receiving unexpected help. The group reunites after fighting and escaping, leaving the castle and returning to the inn. A debt to the paladin remains, as do clues about corruption within the Order of Beltar. After following magical tracks and crossing the river, the party infiltrates the paladin fortress, where Dustin is saved by a rebel paladin. The group flees and returns to the inn, owing a debt to their ally.<br> |
+| **PCs:** Markus, Triss, Kai, Raylahn, Dustin                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | **PCs:** Markus, Triss, Kai, Raylahn, Dustin                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| **NPCs:** paladinos de Beltar, paladina misteriosa, taberneiro                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | **NPCs:** Beltar paladins, mysterious paladin, innkeeper                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| **Loot:** armas recuperadas, carta escondida, anel GPS mágico (recompensa), ouro menor                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | **Loot:** recovered weapons, hidden letter, magic GPS ring (reward), minor gold                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| **Data:** 2025-03-27                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | **Date:** 2025-03-27                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| **Ficheiros de origem:** s12_prisao_e_resgate_de_dustin_resumo.md                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | **Source files:** s12_prisao_e_resgate_de_dustin_resumo.md                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

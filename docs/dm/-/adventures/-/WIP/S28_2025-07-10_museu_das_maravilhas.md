@@ -3,7 +3,7 @@
 **Semana:** 28  
 **Sessão:** S28 (DM: André Maia)  
 
-***15 de Flocktime, 999 CY***
+***8 de Flocktime, 999 CY***
 
 ---
 ## 🗓 Linha Temporal

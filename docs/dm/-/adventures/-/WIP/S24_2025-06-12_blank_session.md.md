@@ -3,7 +3,7 @@
 **Semana:** 24  
 **Sessão:** S24  
 
-***15 de Planting, 999 CY***
+***8 de Planting, 999 CY***
 
 ---
 ## 🗓 Linha Temporal

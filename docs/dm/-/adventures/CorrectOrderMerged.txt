@@ -1,0 +1,3619 @@
+# Sessão 01 – O Riacho Poluído e o Fungo Elemental  
+**Data:** 02/01/2025  
+**Sessão:** S01  
+
+***15 de Patchwall, 998 CY***
+
+---
+## 🗓 Linha Temporal
+| Semana | Data     | Sessão | Nome da Sessão                       |
+| ------ | -------- | ------ | ------------------------------------ |
+| 01     | 02/01/25 | S01    | O Riacho Poluído e o Fungo Elemental |
+
+---
+## 📖 Narrativa Completa
+
+### Intro
+Despertas com um sobresalto. O som de passos ecoa nos corredores infinitos. As paredes de pedra fria do teu quarto desconhecido parecem tão antigas quanto o tempo. Não sabes como vieste parar aqui. Lembras-te apenas de fragmentos da tua vida antes deste momento, como se um véu encobrisse o resto.
+
+É então que um homem imponente, o major-domo do castelo, surge diante de ti. Com um ar solene, ele declara:
+
+> “Bem-vindo ao Grande Castelo, viajante. Encontraste-te no coração do mundo de Greyhawk, um lugar de infinitas possibilidades e perigos. Este castelo é um portal para terras vastas e selvagens, onde ruínas esquecidas, cavernas sombrias e reinos mágicos aguardam a tua chegada. Tesouros incalculáveis, mistérios ancestrais e criaturas além da tua imaginação esperam ser descobertos. Mas toma cuidado: o mal aqui espreita em cada sombra e tem planos que apenas tu podes deter.  
+> Podes encontrar as tuas coisas na cadeira, e quando estiveres preparado e vestido desce as escadas e vem ter à sala principal da Taberna.”
+
+Na sala principal encontras **“O Refúgio do Errante”**, uma taberna acolhedora. O taberneiro, um homem de meia-idade de capuz, aproxima-se:
+
+> “O ar está pesado. Algo está errado ao redor desta taberna… O bosque ali perto parece ser o primeiro local a investigar.  
+> A recompensa não será ouro, mas conhecimento, aliados e a chance de fortalecer esta base. O que dizem?”
+
+---
+
+### O Bosque e Borogrove
+- O grupo encontra **Borogrove**, um Treant ancião.  
+- Ele explica que o **riacho está corrompido por um fungo alienígena**.  
+- Oferece uma **bolota mágica** (cura + restauração menor).  
+- Indica a caverna onde nasce o riacho.
+
+---
+
+### A Caverna
+- Entrada cercada por vinhas pulsantes cobertas de fungo esverdeado.  
+- Guardada por **6 Twig Blights**.  
+- Interior coberto de fungos vivos, esporos e deformações alienígenas.
+
+#### Encontros
+- **Shrieker Fungus** – alerta sonoro.  
+- **Bullywug Warriors (4)** – sapos corrompidos por fungos.  
+- **Urso Corrompido** – pode ser curado com a bolota.  
+- **Psionic Ooze** – massa amorfa.  
+- **Stirges** – enxame de sugadores de sangue.  
+- **Ajuntamento Fúngico Alienígena** – colónia viva que infesta as margens do riacho subterrâneo.  
+
+> Arcana/Perceção: sinais de **inteligência alienígena** nos padrões de crescimento.
+
+---
+
+### Conclusão
+Ao purificarem a fonte, o riacho volta a correr limpo.  
+
+No regresso, Borogrove reencontra-os:  
+- Se usaram a bolota, oferece outra.  
+- Se purificaram a nascente, concede um **Staff of Flowers** em gratidão.
+
+---
+
+## 🎲 Resumo de Acontecimentos
+- Recebemos quest na taberna.  
+- Investigámos a caverna para limpar o rio dos fungos alienígenas.  
+- Conhecemos Borogrove, o Treant.  
+- Matámos um druida infetado e ficámos com o livro dele.  
+- Voltámos à taberna.  
+- Alguns comeram cogumelos na taberna (ewww).  
+
+---
+
+## 💰 Loot Distribuído
+- Livro do druida (Galin Fiduadin) – entregue por **Dustin** ao taberneiro.  
+- **Staff of Flowers** – Markus.  
+- **10 gold** – Grix’Molah.  
+- **3 gems** – 1 Conan, 2 Triss.  
+- **Silver knife** – Triss.  
+- **Bolota** – Vaunia.  
+
+---
+
+## 🆙 Level Up
+- Dustin  
+- Triss  
+- Vaunia  
+- Conan  
+- Markus  
+- Grix’Molah  
+
+---
+
+## 📌 Notas Extra
+- Palavras arcanas para sair e entrar: *posso sair pff*.  
+
+
+<!-- ==== S02_2025-01-09_miner_difficulties.md ==== -->
+
+# Sessão 02 – Miner Difficulties  
+**Data:** 09/01/2025  
+**Sessão:** S02  
+
+***22 de Patchwall, 998 CY***
+
+---
+## 🗓 Linha Temporal
+| Semana | Data       | Sessão | Nome da Sessão         |
+|--------|-----------|--------|-------------------------|
+| 02     | 09/01/25  | S02    | Miner Difficulties      |
+
+---
+
+## 📖 Narrativa Completa
+
+### Intro – A Visão do Taverneiro
+Na manhã seguinte à primeira aventura, a sala principal da Taberna está iluminada pela lareira e cheira a pão fresco e chá. O taberneiro, com expressão grave, relata ter recebido uma **visão mágica**:  
+
+> “Alguém está preso numa mina, ferido e em perigo…”  
+
+A imagem projetada revela **Kristryd Splitanvil**, anão prefeito de Blackstone, sangrando e preso numa mina de obsidiana. Ele implora por ajuda.  
+
+Um círculo mágico abre-se no chão, transportando os aventureiros até a entrada da mina.
+
+---
+
+### Exploração da Mina
+- **Ambiente:** claustrofóbico, paredes úmidas, trilhos de ferro quebrados, sensação de escuridão viva.  
+- **Primeiro encontro:** esqueleto de um mineiro, coberto de **Yellow Mold**. Junto dele, uma carta de despedida assinada por **Thargrin**, para sua família.  
+- **Encontros possíveis (rolagem):**
+  - Violet Fungi + Rust Monster  
+  - Aranha Gigante + Enxames  
+  - Darkmantle + Piercers  
+  - Cubo Gelatinoso  
+  - Hook Horror  
+- **Atmosfera:** cada passo ecoa, esporos no ar, calor sufocante em passagens estreitas.
+
+---
+
+### O Hook Horror
+- Monstro colossal, corpo revestido por carapaça cinza-esbranquiçada, garras curvas metálicas, olhos inteligentes e frios.  
+- Usa o terreno da mina para surpreender, escalando paredes e atacando de emboscada.  
+- Pode fugir se muito ferido ou tentar regressar ao Underdark.  
+- O grupo consegue derrotá-lo e arranca-lhe **a cabeça** e **seis dentes** (um para cada aventureiro, como troféus).
+
+---
+
+### O Cubo Gelatinoso
+- Criatura translúcida, viscosa, que dissolve tudo à sua frente.  
+- **Triss quase foi derretida viva** antes de conseguirem derrotá-lo.  
+- Próximo do cubo, encontram **Kristryd Splitanvil** ferido, exausto mas firme.  
+
+---
+
+### Kristryd Splitanvil
+- Prefeito de Blackstone, revelado como **Clérigo de Pelor**.  
+- Apesar dos ferimentos, mantém postura de líder:  
+  > “A cidade precisa de mim, mas não posso lutar sozinho. Eliminem este horror para que Blackstone possa prosperar novamente.”  
+
+- Com a vitória do grupo, promete apoio futuro caso retornem às Montanhas de Cairn.  
+- Recompensa:  
+  - **Topázio gigante** (do tamanho de um punho), entregue a **Triss**.  
+  - Aliança permanente com Blackstone.
+
+---
+
+## 🎲 Resumo de Acontecimentos
+- O taberneiro recebe uma visão e abre um portal para a mina.  
+- Descoberta do esqueleto de **Thargrin** com carta de despedida.  
+- Derrota de um **Hook Horror** e recolha da sua cabeça + dentes.  
+- Encontro letal com um **Cubo Gelatinoso** (Triss quase morta).  
+- Resgate de **Kristryd Splitanvil**, prefeito de Blackstone e clérigo de Pelor.  
+- Estabelecimento de aliança futura com Blackstone/Cairn.  
+
+---
+
+## 💰 Loot Distribuído
+- **6 dentes do Hook Horror** – 1 para cada aventureiro.  
+- **Topázio gigante** – Triss.  
+- (Outros recursos da mina permanecem por explorar).  
+
+---
+
+## 🧾 Notas Extra
+- Localizações reforçadas: Greyhawk, Blackstone, Montanhas de Cairn.  
+- Carta de Thargrin devolvida a Kristryd, que promete honrar sua memória.  
+
+
+<!-- ==== S03A_2025-01-16_emboscada_rio_neem.md ==== -->
+
+# Sessão 03A – A Emboscada no Rio Neem  
+**Data:** 16/01/2025  
+**Sessão:** S03A  
+
+***1 de Ready'reat, 998 CY***
+
+---
+## 🗓 Linha Temporal
+| Semana | Data     | Sessão | Nome da Sessão          |
+| ------ | -------- | ------ | ----------------------- |
+| 03     | 16/01/25 | S03A   | A Emboscada no Rio Neem |
+
+---
+
+## 📖 Narrativa Completa
+Na taberna, uma menina pequena serve hidromel e entrega uma carta pedindo ajuda junto ao rio. O grupo segue a estrada comercial que corre paralela ao rio Neem.  
+
+Durante a viagem partilham histórias, até ouvirem gritos: um mercador tiefling (**Kaldros Veynor**) é atacado por goblins e um lobo domesticado.  
+
+### O Combate
+- **Primeira Onda:** 4 goblins e 1 lobo domesticado.  
+- **Segunda Onda:** 3 goblins + 1 bugbear líder.  
+- O lobo e o bugbear mostram sinais de terem sido domesticados à força.  
+- O bugbear transportava uma nota rudimentar pedindo ajuda.  
+- Descobrem que os goblins foram contratados por uma **Guilda de bandidos**.  
+
+Após a luta, enterram o bugbear com uma pequena cerimónia conduzida por Gauthak.  
+
+### O Mercador
+Kaldros recompensa o grupo com ouro e revela um baú que os goblins tentavam roubar. Dentro: pedras preciosas, acessórios prateados e dourados, e uma tiara de flores. O grupo entrega o baú a crianças da aldeia, entre elas a neta do mercador, que recupera a tiara.  
+
+Retornam à taberna na carroça do mercador.  
+
+---
+
+## 🎲 Resumo de Acontecimentos
+- Encontro com mercador atacado por goblins no Rio Neem.  
+- Combate em duas ondas, incluindo bugbear.  
+- Bugbear deixa nota de pedido de ajuda.  
+- Descoberta de ligação a uma guilda de bandidos.  
+- Bury ritual para o bugbear.  
+- Recompensa do mercador, baú entregue a crianças.  
+
+---
+
+## 💰 Loot Distribuído
+- Javelin  
+- Morning star → Arkos  
+- 7 scimitars  
+- 7 shortbows (1 → Endouvan)  
+- 55 gp  
+- Baú de pedras preciosas e acessórios (entregue a crianças)  
+
+---
+
+## 🧾 Notas Extra
+- Jogadores: Endouvan, Orianna, Gauthak, Lone Straw, Arkos.  
+- Potenciais leads: guilda de bandidos, acampamento goblin.  
+
+
+<!-- ==== S03B_2025-01-16_busca_amuleto_perdido.md ==== -->
+
+# Sessão 03B – A Busca pelo Amuleto Perdido  
+**Data:** 16/01/2025  
+**Sessão:** S03B  
+
+***1 de Ready'reat, 998 CY***
+
+---
+## 🗓 Linha Temporal
+| Semana | Data     | Sessão | Nome da Sessão               |
+| ------ | -------- | ------ | ---------------------------- |
+| 03     | 15/01/26 | S03B   | A Busca pelo Amuleto Perdido |
+
+---
+
+## 📖 Narrativa Completa
+Um mago misterioso contrata o grupo para recuperar um antigo amuleto num templo em ruínas.  
+
+### Personagens
+- Kai (humano monge)  
+- Bok (orc monge)  
+- Rogue humano  
+- Rogue tiefling (averso à magia)  
+
+### A Exploração
+- Salas iniciais: vestes sacerdotais antigas, armadilhas já desativadas.  
+- Sala de cristais mágicos inativos, restos de aventureiros em cinzas.  
+- Fantasma de um halfling morto há 30 anos surge e partilha segredos da masmorra.  
+
+### O Altar
+- O amuleto repousa sobre um altar.  
+- O fantasma incita o grupo a pegá-lo.  
+- Bok agarra o amuleto → é possuído pelo fantasma.  
+- Todas as armadilhas reativam-se, tornando a fuga caótica.  
+
+### O Confronto
+- Correm pelo templo repleto de armadilhas ativas.  
+- Na saída, um **caranguejo colossal** guarda o caminho.  
+- Escapam mergulhando num lago subterrâneo.  
+- Encontram gruta com fonte mágica → Kai dá de beber a Bok, expulsando o fantasma.  
+
+### A Revelação
+- O amuleto é uma **bússola**, mas não aponta a norte. Indica outro ponto fixo no mundo.  
+- Debatem se devem confiar no mago contratante. Após investigação, concluem que ele é excêntrico mas não maligno, e entregam o amuleto.  
+
+---
+
+## 🎲 Resumo de Acontecimentos
+- Missão: recuperar amuleto de templo em ruínas.  
+- Fantasma guia e depois possui Bok.  
+- Armadilhas reativam → fuga caótica.  
+- Encontro com caranguejo colossal.  
+- Água mágica liberta Bok.  
+- Amuleto é uma bússola misteriosa.  
+- Decidem entregar ao mago.  
+
+---
+
+## 💰 Loot Distribuído
+- Amuleto-bússola (entregue ao mago).  
+- Vestes sacerdotais.  
+- Longsword queimada.  
+
+---
+
+## 🧾 Notas Extra
+- Fantasma obcecado pelo amuleto.  
+- Possível futura trama: destino apontado pela bússola.  
+
+
+<!-- ==== S03C_2025-01-15_vale_do_vento_sombrio.md ==== -->
+
+# Sessão 03C – Vale do Vento Sombrio  
+**Data:** 16/01/2025  
+**Sessão:** S03C  
+
+***1 de Ready'reat, 998 CY***
+
+---
+## 🗓 Linha Temporal
+| Semana | Data     | Sessão | Nome da Sessão        |
+| ------ | -------- | ------ | --------------------- |
+| 03     | 16/01/25 | S03C   | Vale do Vento Sombrio |
+
+---
+
+## 📖 Narrativa Completa
+O taverneiro pede ao grupo que investigue o **Vale do Vento Sombrio**, uma rota de comércio vital onde ninguém regressou. Rumores de aldeia abandonada e ar doente.  
+
+### A Viagem
+- Viagem noturna para sul.  
+- Ataque de lobos infestados com fungo amarelo.  
+- Personagens guardam amostras do fungo.  
+
+### A Aldeia Deserta
+- Ruínas cobertas de fungo pulsante.  
+- Encontro com **Klikz**, um kobold que pede ajuda contra os cultistas.  
+- Ataque de kobolds infectados que explodem em esporos ao morrer.  
+
+### O Culto
+- Rastros levam a uma casa maior no centro.  
+- Descobrem **Vaelkor Ashbrand**, líder do culto do Mal Elemental.  
+- Vaelkor proclama que o fungo purificará o mundo.  
+
+### O Combate
+- Inimigos: Vaelkor (mago nv. 5), 3 cultistas, 2 cultistas guardas, elemental da terra menor.  
+- Altar protegido por barreira mágica → pode ser desativada por magia/religião ou dano.  
+
+### Conclusão
+- **Vitória:** Fungos começam a definhar, kobolds agradecem.  
+  - Tesouro: 50 PO, poção de cura, cimitarra, escudo, robes, carta misteriosa, Amuleto de Proteção +1.  
+  - Berdan Barleybrow recompensa com 200 PO e refeições grátis por um mês.  
+- **Derrota:** Fungos espalham-se pela região, ameaçando aldeias próximas.  
+
+---
+
+## 🎲 Resumo de Acontecimentos
+- Investigação no Vale do Vento Sombrio.  
+- Ataque de lobos infestados.  
+- Aldeia abandonada coberta de fungos.  
+- Kobold Klikz pede ajuda.  
+- Confronto com Vaelkor Ashbrand e cultistas.  
+- Vitória enfraquece o fungo; derrota espalha-o.  
+
+---
+
+## 💰 Loot Distribuído
+- 50 gp  
+- Poção de cura  
+- Cimitarra  
+- Escudo  
+- Robes de cultistas (2 normais, 1 tenente)  
+- Carta misteriosa  
+- Amuleto de Proteção +1  
+- Recompensa adicional: 200 gp + refeições na taberna  
+
+---
+
+## 🧾 Notas Extra
+- Jogadores: Grix, Conan, Triss, Dustin, Usopp, Markus.  
+- Vaelkor Ashbrand → nome importante, ligação ao Mal Elemental.  
+- Fungo amarelo → tema recorrente, possível ameaça global.  
+
+
+<!-- ==== S04A_2025-01-23_vale_do_vento_sombrio_syzzin.md ==== -->
+
+# Sessão 04A – Vale do Vento Sombrio: Syzzin o Dragão Vermelho  
+**Data:** 23/01/2025  
+**Sessão:** S04A  
+
+***8 de Ready'reat, 998 CY ***
+
+---
+## 🗓 Linha Temporal
+| Semana | Data       | Sessão | Nome da Sessão                       |
+|--------|-----------|--------|---------------------------------------|
+| 04     | 23/01/25  | S04A   | Vale do Vento Sombrio – Syzzin        |
+
+---
+
+## 📖 Narrativa Completa
+O taberneiro revela que o fungo estudado possui **telepatia rudimentar**, comunicando-se em rede.  
+Antes de partirem, entrega uma **bolota mágica** a Vaunia.  
+
+### A Viagem
+O grupo acampa no local da sessão anterior.  
+- **Dusán** recolhe ossos e uma enxada abandonada.  
+- **Markus** vê a sua pact blade adornar-se com uma joia (rubi ou esmeralda).  
+- **Grix** sonha com um reino familiar.  
+- **Triss** ouve ruídos e Vaunia descobre pegadas de kobolds.  
+
+### Kobolds
+- Emboscados por kobolds seguidores do **Deus Alado**.  
+- Último vivo foge → perseguido até acampamento.  
+- Encontram **Clipse**, kobold conhecido, que revela: um **dragão vermelho jovem** tomou posse do vale.  
+
+### O Dragão
+- **Syzzin**, wyrmling vermelho, sentado sobre um altar com símbolo de **Wee Jas** (morte, lei e magia).  
+- Reconhece a marca da deusa em Markus e encanta-o (*charmed*), obtendo localização da taberna.  
+- Reage com fúria ao ouvir falar do culto do Mal Elemental.  
+- Analisa os aventureiros: nota os goliaths, a alma partida de Dusán, e reconhece o nome de um drow.  
+
+Clipse sacrifica-se, ingerindo a bolota antes de ser devorado, revelando que **kobolds podem gerar dragões**.  
+Syzzin despede-se prometendo visitar a taberna.  
+
+### Conclusão
+- Investigando o altar, Dusán confirma a ligação a **Wee Jas** e energia fiend.  
+- Kobolds rodeiam o grupo, liderados por **Rix**, criança que seria o próximo sacrifício.  
+- Rix oferece pistas:  
+  - comércio com kobolds é possível.  
+  - minas de minério a oeste, perto das torres **Two Fords**.  
+- Saqueiam o local: ouro, pergaminhos, convites e mantos de cultista.  
+
+---
+
+## 🎲 Resumo de Acontecimentos
+- Acampamento → sonhos e presságios.  
+- Emboscada kobold → encontro com Clipse.  
+- Revelação: dragão vermelho **Syzzin** domina o vale.  
+- Markus charmed → entrega informações.  
+- Clipse sacrifica-se → Syzzin parte.  
+- Investigação do altar de Wee Jas → energia fiend.  
+- Rix oferece pistas sobre comércio e minas.  
+
+---
+
+## 💰 Loot Distribuído
+- 234 gp (39 gp cada)  
+- Bastão mágico limitado → Conan  
+- Pergaminho *Alarm* → Vaunia  
+- Pergaminho *Comprehend Languages* → Triss  
+- Convite para um baile → Triss  
+- 2 mantos de cultista novato → Triss, Dusán  
+- 1 manto de cultista tenente → Grix  
+- Ossos e enxada → Dusán  
+
+---
+
+## 🧾 Notas Extra
+- Jogadores: Triss, Markus, Conan, Vaunia, Dusán, Grix.  
+- Dragão Syzzin apresentado como nova força.  
+- Relaciona-se com oposição ao Mal Elemental.  
+- Introdução de **Wee Jas** no altar.  
+
+
+<!-- ==== S04B_2025-01-23_vale_do_vento_sombrio_variante.md ==== -->
+
+# Sessão 04B – Vale do Vento Sombrio: Variante Kobold e Dragão  
+**Data:** 23/01/2025  
+**Sessão:** S04B  
+
+***8 de Ready'reat, 998 CY ***
+
+---
+## 🗓 Linha Temporal
+| Semana | Data       | Sessão | Nome da Sessão                  |
+|--------|-----------|--------|----------------------------------|
+| 04     | 23/01/25  | S04B   | Vale do Vento Sombrio – Variante |
+
+---
+
+## 📖 Narrativa Completa
+O taberneiro instrui o grupo a regressar ao Vale para confirmar se o fungo foi erradicado.  
+
+### Acampamento e Sonho
+- Grix sonha com **Titania**, que lhe apresenta **Egalar**, seu paladino.  
+- Recebe inspiração heroica.  
+
+### Kobolds
+- Emboscada inicial de 8 kobolds.  
+- Se interrogados, revelam que foram expulsos do vale por um dragão.  
+- Acampamento de kobolds → liderados por xamã Klipz, pedem ajuda para derrotar o dragão.  
+- Jogadores enfrentam dilema moral: aliar-se ou não.  
+
+### A Toca do Dragão
+- Antiga aldeia transformada em caverna vulcânica.  
+- Guardada por mephits de magma e fumo.  
+- No interior: dragão vermelho jovem **Syzzin**.  
+- Grande combate final → kobolds podem ajudar, mas sofrem baixas.  
+
+### Tesouro
+- 400 gp em bens roubados.  
+- 4,200 cp, 2,000 sp, 180 gp.  
+- 7 gemas (50 gp cada).  
+- Poção de cura.  
+- Corda de escalada.  
+- Pergaminhos: *Alarm*, *Comprehend Languages*.  
+
+---
+
+## 🎲 Resumo de Acontecimentos
+- Sonho de Grix com Titania e Egalar.  
+- Emboscada kobold → revelação do dragão.  
+- Kobolds pedem ajuda.  
+- Batalha final contra dragão e mephits.  
+- Grande tesouro encontrado.  
+
+---
+
+## 💰 Loot Distribuído
+- Tesouro em moedas e gemas.  
+- Poção de cura.  
+- Corda de escalada.  
+- Pergaminhos mágicos.  
+
+---
+
+## 🧾 Notas Extra
+- Esta versão da sessão mostra variação com foco em combate.  
+- Egalar introduzido como campeão de Titania.  
+- Forte loot e envolvimento de kobolds.  
+
+
+<!-- ==== S04C_2025-01-23_two_fords_moinho.md ==== -->
+
+# Sessão 04C – Two Fords e o Moinho Abandonado  
+**Data:** 23/01/2025  
+**Sessão:** S04C  
+
+***8 de Ready'reat, 998 CY ***
+
+---
+## 🗓 Linha Temporal
+| Semana | Data       | Sessão | Nome da Sessão                      |
+|--------|-----------|--------|--------------------------------------|
+| 04     | 23/01/25  | S04C   | Two Fords – O Moinho Abandonado      |
+
+---
+
+## 📖 Narrativa Completa
+Em missão de reconhecimento, o grupo chega à aldeia de **Two Fords**, marcada pela decadência: plantações murchas, água do rio corrompida.  
+
+### O Mercador
+Encontram **Kaldros**, mercador já conhecido, que os encaminha para **Geralt**, dono da taberna.  
+- Geralt implora ajuda: sua filha Lila está gravemente doente após beber da água.  
+- Aponta para um **moinho abandonado rio acima**, origem dos rumores.  
+
+### A Fauna Possuída
+No caminho enfrentam animais corrompidos pelo fungo:  
+- Lobos cuspidores de esporos.  
+- Um urso corrompido resistente.  
+
+### O Moinho
+Interior coberto de fungos bioluminescentes e símbolos do **Culto do Mal Elemental**.  
+Encontram pergaminho que confirma planos do culto para enfraquecer a região.  
+
+### O Culto
+- Confronto contra 3 cultistas + 1 acólito.  
+- Apoio de servos fúngicos (zumbis corrompidos).  
+- Risco de esporos contaminar o rio.  
+
+### Recompensas
+- Joias (10 gp cada cultista).  
+- Poção de cura (do acólito).  
+- **Cristal Elemental Corrompido**, item mágico para estudo.  
+
+---
+
+## 🎲 Resumo de Acontecimentos
+- Aldeia de Two Fords em perigo.  
+- Investigação leva a moinho abandonado.  
+- Fauna corrompida ataca no caminho.  
+- Ritual fúngico interrompido.  
+- Cristal Elemental recuperado.  
+
+---
+
+## 💰 Loot Distribuído
+- Joias (10 gp cada cultista).  
+- Poção de cura.  
+- Cristal Elemental Corrompido.  
+
+---
+
+## 🧾 Notas Extra
+- Personagens presentes não especificados nos registos.  
+- Reforça ligação entre fungo e culto do Mal Elemental.  
+- Two Fords estabelecida como aldeia importante.  
+
+
+<!-- ==== S05_2025-01-30_appendices_dm_only_full.md ==== -->
+
+**Data:** 30/01/2025  
+**Sessão:** S05  
+
+***15 de Ready'reat, 998 CY***
+
+---
+## 📜 24º Dia da Lua Negra
+
+A glória de Nerull se aproxima, mas nosso trabalho ainda é longo e exigirá sacrifícios. A praga fúngica em Mistwood foi apenas o começo de uma campanha maior. 
+A nossa missão é clara: levar a dádiva de Nerull a Erybend e às cidades próximas. O caos será a nossa ferramenta, e a morte, nosso triunfo.
+O sucesso deste fungo que encontrámos na nave das estrelas prova que estamos no bom caminho e a justeza das nossas acções.
+Borogrove, o maldito treant, será um obstáculo que não podemos ignorar. Ele deve cair. Antes, porém, é necessário eliminar o druida que o protege. Sem aquele tolo, o treant será vulnerável. Apenas então avançaremos com força total.
+Os goblins já estão prontos para iniciar os preparativos nas terras próximas a Two Fords. Eles aguardam a minha palavra.
+As minas do norte precisarão ser purificadas para que nossos trabalhos de arqueologia sejam concluídos. Contudo, precisamos ser astutos. 
+Não devemos atrair a ira dos seguidores de Beltar. Apesar da nossa frágil aliança, eles continuam sendo peças úteis no jogo maior.
+Aeltor... o tolo, mais uma vez, representa um desafio. Precisamos que ele cumpra sua parte, limpando o Vale Sombrio e domando as potentes magias que de lá emanam. Se ele falhar, todo o cronograma será prejudicado.
+A minha paciência com o casal na Mansão Blackfrair está no limite. O tolo do nobre e a sua  consorte drow dedicam-se a Nerull, mas sua lentidão atrasa nos de maneira insuportável. Se não acelerarem os preparativos, serei forçada a intervir, mesmo que isso cause rupturas internas. A grandeza de Nerull não pode ser adiada por vaidades mesquinhas ou incompetência.
+Falta selar ainda a alinaça com os selvagens goliath do norte..as tribos da montanha serão uma adição valiosa ao Culto do Mal elemental.
+No entanto terei de eliminar a resistencia interna que alguns apresenta,.
+Quando esses desafios forem superados, nada impedirá o avanço da morte divina de Nerull sobre este mundo. Que ele guie nossos passos nas sombras e nos conceda a força para ceifar todos aqueles que resistirem.
+— Acólita Morvanya, Serva da Foice Eterna.
+
+
+<!-- ==== S05_2025-01-30_as_mascaras_da_morte_merged.md ==== -->
+
+# Sessão 05 – As Máscaras da Morte (Mistwood)  
+**Data:** 30/01/2025  
+**Sessão:** S05  
+
+***5 de Ready'reat, 998 CY***
+
+---
+## 🗓 Linha Temporal
+| Semana | Data       | Sessão | Nome da Sessão             |
+|--------|-----------|--------|-----------------------------|
+| 05     | 30/01/25  | S05    | As Máscaras da Morte        |
+
+---
+
+## 📖 Narrativa Completa
+
+### Jornada
+- O taberneiro envia o grupo para **Mistwood**, uma vila comercial a norte.  
+- Dustin deixa um envelope ao taberneiro com instruções secretas.  
+- Durante o acampamento, **Vaunia desperta um poder ancestral**, realizando um ritual que lhe concede um companheiro animal: o lobo **Boaz**.  
+- Na manhã seguinte, Dustin oferece a cada membro um desenho pessoal (pássaro para Triss, rã para Conan, espada para Markus, flores para Grix, arco e lobo para Vaunia).  
+
+### A Vila
+- Mistwood parece viva, mas os aldeões agem de forma **robótica**.  
+- Preços absurdos (2 gp por tomate, 1 gp por pão).  
+- Dustin sente uma aura **necromântica**: todos os habitantes são undead disfarçados por ilusão.  
+- Mercado central com estátua de Pelor → posteriormente revelada como substituída por imagem de **Nerull**.  
+
+### A Taverna “Última Folha”
+- 10 “aldeões” são na verdade zombies.  
+- Ao cair da ilusão, tudo à volta começa a apodrecer.  
+- Confirmam que Mistwood está morta há meses.  
+
+### A Capela Profanada
+- Capela outrora dedicada a Pelor, agora corrompida em altar de Nerull.  
+- Estátua profanada, símbolos de ossos e caveiras, tapeçaria com cena macabra.  
+- **Shade** (antigo padre de Pelor) implora libertação.  
+- **Wee Jas aparece a Markus**, entregando-lhe um carimbo rúnico e missão: destruir altares do culto.  
+- **Triss recebe capa mágica** (+3 AC até long rest).  
+- **Egalar aparece a Grix** em visão onírica, instruindo-o a transformar altares de Nerull em santuários de Titania com o cajado das flores.  
+- Grix transforma o altar → flores brotam, criando altar de Titania. Markus carimba o símbolo de Wee Jas sobreposto.  
+
+### O Confronto Final
+- Do lado de fora, surge **Morvanya**, alta figura com máscara prateada de morte, acompanhada de undead e um **Bone Golem** formado de cidadãos mortos.  
+- Grande combate:  
+  - Conan, Dustin e Grix enfrentam o golem.  
+  - Markus, Triss, Vaunia enfrentam Morvanya.  
+  - **Boaz** ajuda contra zombies.  
+- Revelação: por baixo da máscara, Morvanya é **Manvea**, antiga amiga de Vaunia.  
+- Capturada, morde cápsula de cianeto e morre.  
+
+### Descoberta
+- No corpo de Morvanya: uma carta/diário → **24º Dia da Lua Negra**.  
+- Revela planos do Culto de Nerull:  
+  - Fungos de Mistwood = apenas o começo.  
+  - Borogrove e seu druida são alvos.  
+  - Aliança frágil com Beltar.  
+  - Aeltor encarregado do Vale Sombrio.  
+  - Casal da Mansão Blackfrair é lento demais.  
+  - Tribos goliath devem ser aliciadas.  
+
+---
+
+## 🎲 Resumo de Acontecimentos
+- Jornada a Mistwood → Vaunia ganha Boaz.  
+- Aldeia é necropolis sob ilusão.  
+- Mercado e taverna → undead revelados.  
+- Capela de Pelor corrompida para Nerull.  
+- Intervenções divinas: **Wee Jas** (Markus, Triss) e **Titania/Egalar** (Grix).  
+- Grix purifica altar, Markus deixa runa de Wee Jas.  
+- Confronto com Morvanya → revelada como Manvea.  
+- Morvanya morta, carta revela planos maiores do culto.  
+
+---
+
+## 💰 Loot Distribuído
+- Carimbo de Wee Jas → Markus  
+- Capa mágica (+3 AC, 1 dia) → Triss  
+- Cajado das Flores (já em posse de Grix) usado para purificação  
+- Carta/diário de Morvanya → Vaunia  
+- Máscara prateada partida → Vaunia  
+- Escudo → Dustin  
+- 300 gp → dividido (50 cada)  
+- Tapeçaria de Nerull transformada em capas → todos  
+
+---
+
+## 🧾 Notas Extra
+- Morvanya = Manvea → ligação pessoal a Vaunia.  
+- 24º Dia da Lua Negra → documento estratégico do culto.  
+- Introduz antagonistas e locais futuros (Borogrove, Blackfrair, Vale Sombrio, goliaths).  
+
+
+<!-- ==== S05A_2025-01-30_as_mascaras_da_morte.md ==== -->
+
+# Sessão 05A – As Máscaras da Morte (Mistwood)  
+**Data:** 30/01/2025  
+**Sessão:** S05A  
+
+***5 de Ready'reat, 998 CY***
+
+---
+## 🗓 Linha Temporal
+| Semana | Data       | Sessão | Nome da Sessão                |
+|--------|-----------|--------|--------------------------------|
+| 05     | 30/01/25  | S05A   | As Máscaras da Morte (Mistwood) |
+
+---
+
+## 📖 Narrativa Completa
+O taberneiro envia o grupo para **Mistwood**, a dois dias de viagem.  
+
+### Jornada
+- Dustin entrega ao taberneiro um envelope para ser aberto na manhã seguinte.  
+- No acampamento, **Vaunia desperta um poder ancestral**, invocando um companheiro animal: o lobo **Boaz**.  
+- Na manhã seguinte, Dustin oferece desenhos personalizados a cada companheiro.  
+
+### A Vila Estranha
+- O mercado parece ativo, mas os aldeões agem de forma robótica.  
+- Preços absurdos (tomate por 2 gp, pão por 1 gp).  
+- Dustin percebe: todos são **undead disfarçados por ilusão**.  
+- A taverna **“Última Folha”** confirma a farsa: 10 mortos-vivos presentes.  
+
+### Intervenção Divina
+- Markus recebe uma visão de **Wee Jas**, que lhe dá um **carimbo rúnico** para destruir altares.  
+- Triss recebe uma **capa mágica (+3 AC até long rest)**.  
+- Grix vê **Egalar**, paladino de Titania, que lhe dá instruções para purificar altares de Nerull com o cajado das flores.  
+
+### O Confronto
+- Na capela, descobrem altar profanado de Pelor, agora de Nerull.  
+- **Grix transforma o altar em altar de Titania**, Markus deixa sua marca de Wee Jas por cima.  
+- Enfrentam undead e um **bonegoblin**, invocado por **Morvanya**.  
+- Morvanya é revelada como **Manvea**, antiga amiga de Vaunia.  
+- Derrotada, suicida-se com cápsula de cianeto.  
+
+### Consequências
+- Loot dividido:  
+  - Carimbo de Wee Jas (Markus)  
+  - Carta de Morvanya (Vaunia)  
+  - Máscara prateada de Nerull (Vaunia)  
+  - Escudo (Dustin)  
+  - 300 gp (50 cada)  
+  - Capas feitas da tapeçaria de Nerull (1 cada)  
+
+---
+
+## 🎲 Resumo de Acontecimentos
+- Mistwood revelada como vila morta.  
+- Aldeões → undead sob ilusão.  
+- Altar de Nerull purificado por Titania.  
+- Wee Jas reforça Markus, Triss.  
+- Confronto com Morvanya, revelada como Manvea.  
+- Morvanya morta, carta revela planos do culto.  
+
+---
+
+## 💰 Loot Distribuído
+- Carimbo de Wee Jas → Markus  
+- Carta de Morvanya → Vaunia  
+- Máscara prateada → Vaunia  
+- Escudo → Dustin  
+- 300 gp → dividido  
+- Capas da tapeçaria → todos  
+
+---
+
+## 🧾 Notas Extra
+- Morvanya confirmada como acólita de Nerull.  
+- Documento encontrado: **24º Dia da Lua Negra** (planos de Nerull).  
+
+
+<!-- ==== S05B_2025-01-30_campo_goblin.md ==== -->
+
+# Sessão 05B – O Campo Goblin (Noroeste)  
+**Data:** 30/01/2025  
+**Sessão:** S05B  
+
+***5 de Ready'reat, 998 CY***
+
+---
+## 🗓 Linha Temporal
+| Semana | Data       | Sessão | Nome da Sessão          |
+|--------|-----------|--------|--------------------------|
+| 05     | 30/01/25  | S05B   | O Campo Goblin           |
+
+---
+
+## 📖 Narrativa Completa
+Missão de reconhecimento leva o grupo a um **acampamento goblin** no noroeste.  
+
+### O Campo
+- Localizado numa clareira com riacho.  
+- Guardas goblins patrulhando.  
+- Tendas servindo de prisões.  
+- Altar de pedra ensanguentada dedicado a **Nerull**.  
+
+### Descobertas
+- Prisioneiros: goblins submissos, halflings, meio-elfos e humanos de caravanas.  
+- Xamã goblin **Jogmaahx**, fanático por Nerull, subordinado de **Vaelkor Ashbrand**.  
+- Planeja invocar undead através do altar.  
+
+### Combate
+- Possíveis inimigos:  
+  - Jogmaahx (cultista acólito)  
+  - 5 goblins soldados  
+  - 1 ogro vigia  
+  - 4 goblins escravos (podem ser libertos)  
+- Se altar não destruído, ritual convoca mortos-vivos.  
+
+### Escolhas Morais
+- Libertar escravos.  
+- Destruir ou preservar altar (pode servir como prova).  
+- Levar carta sobre ataques a caravanas.  
+
+### Recompensa
+- 250 gp por relatório completo ao retornar.  
+
+---
+
+## 🎲 Resumo de Acontecimentos
+- Reconhecimento ao campo goblin.  
+- Descoberta de altar a Nerull.  
+- Xamã Jogmaahx como vilão.  
+- Escravos podem ser libertados.  
+- Possível ritual necromântico.  
+
+---
+
+## 💰 Loot Distribuído
+- Recompensa: 250 gp (se relatório entregue).  
+
+---
+
+## 🧾 Notas Extra
+- Ligações: Vaelkor Ashbrand, Culto do Mal Elemental.  
+- Reforça papel de Nerull entre goblins.  
+
+
+<!-- ==== S06_2025-02-06_blank_session.md ==== -->
+
+# Sessão 06 – [Em Branco]  
+**Data:** 06/02/2025  
+**Semana:** 06  
+**Sessão:** S06  
+
+***22 de Ready'reat, 998 CY***
+
+---
+## 🗓 Linha Temporal
+| Semana | Data      | Sessão | Nome da Sessão |
+|--------|-----------|--------|----------------|
+| 06     | 06/02/25  | S06    | [por preencher] |
+
+---
+
+## 📖 Narrativa Completa
+[Sem registo disponível para esta sessão.]
+
+---
+
+## 🎲 Resumo de Acontecimentos
+[Sem registo.]
+
+---
+
+## 💰 Loot Distribuído
+[Nenhum.]
+
+---
+
+## 🧾 Notas Extra
+- Placeholder criado para manter consistência da linha temporal.
+- Preencher caso surjam notas ou reconstrua-se a sessão.
+
+
+<!-- ==== S07_2025-02-13_rota_da_cia.md ==== -->
+
+# Sessão 07 – A Rota da Cia: Sangue e Ouro no Pântano  
+**Data:** 13/02/2025  
+**Semana:** 07  
+**Sessão:** S07 (Guiné)  
+
+***1 de Sunsebb, 998 CY***
+
+---
+## 🗓 Linha Temporal
+| Semana | Data      | Sessão | Nome da Sessão               |
+|--------|-----------|--------|-------------------------------|
+| 07     | 13/02/25  | S07    | A Rota da Cia: Sangue e Ouro |
+
+---
+
+## 📖 Narrativa Completa
+**Conan** e **Dustin** são contratados pela Companhia (taberna de Greyhawk) para abrir rota comercial com aldeia de bullywugs no **Mistmarsh**.  
+
+### A Viagem
+- Atravessam pântano cheio de nevoeiro e terreno perigoso.  
+- Enfrentam patrulhas de bullywugs.  
+- Encontram **Basilisco da Lama**, criatura petrificante.  
+- Descobrem ruínas de templo com sinais do culto.  
+
+### A Mina-Gladiadora
+- Antiga mina transformada em arena de gladiadores sob o **Culto do Mal Elemental**.  
+- Escravos lutam por sobrevivência; mercadores aguardam sacrifício.  
+- Obelisco negro amplifica poder sombrio.  
+- **Ex-namorada de Conan**, agora sacerdotisa do culto, lidera rituais.  
+- Em duelo, enfrentam gladiadores, incluindo um monge da Ordem do Dente Longo, corrompido.  
+
+### Confronto
+- Batalha contra líder local do culto dentro da mina.  
+- **Dustin** tem visão de **Beltar**: Nerull tornou-se demasiado poderoso; é preciso destruí-lo.  
+- Beltar ordena capturar irmãos paladinos que mataram Nerull no passado, agora corrompidos pela ganância.  
+
+### Conclusão
+- Possibilidades:  
+  - Negociar com bullywugs para libertar mina.  
+  - Combater e destruir culto.  
+  - Infiltrar-se disfarçados.  
+- Libertando a mina → nova rota comercial aberta.  
+- Falhando → Mistmarsh torna-se reduto cultista.  
+
+---
+
+## 🎲 Resumo de Acontecimentos
+- Missão comercial leva Conan e Dustin ao Mistmarsh.  
+- Pântano cheio de perigos.  
+- Mina transformada em arena gladiadora cultista.  
+- Conan confronta passado, ex-namorada cultista.  
+- Dustin recebe visão divina de Beltar.  
+
+---
+
+## 💰 Loot Distribuído
+- Ouro da Companhia (600–700 gp).  
+- Armas raras do arsenal da mina.  
+- Recompensas diplomáticas se rota for estabelecida.  
+
+---
+
+## 🧾 Notas Extra
+- Introduz trama pessoal de **Conan** (ex-namorada cultista).  
+- Reforça ligação de **Dustin** com Beltar e a luta contra Nerull.  
+
+
+<!-- ==== S07_2025-02-13_segredo_de_peculiar_manor.md ==== -->
+
+# Sessão 07 – O Segredo de Peculiar Manor  
+**Data:** 13/02/2025  
+**Semana:** 07  
+**Sessão:** S07 (André Maia)  
+
+***1 de Sunsebb, 998 CY***
+
+---
+## 🗓 Linha Temporal
+| Semana | Data      | Sessão | Nome da Sessão           |
+|--------|-----------|--------|---------------------------|
+| 07     | 13/02/25  | S07    | O Segredo de Peculiar Manor |
+
+---
+
+## 📖 Narrativa Completa
+Nos arredores de **Falwur**, no Vale de Nehum, encontra-se a antiga mansão **Peculiar Manor**, outrora lar da família Tormic.  
+- Os Tormic eram secretamente devotos do **Culto do Mal Elemental**, sacrificando aldeões.  
+- Após revolta, a mansão foi abandonada, mas energias corrompidas persistem.  
+
+### A Mansão
+- Espíritos de **Edred e Sylva Tormic**, crianças sacrificadas, vagam no sótão.  
+- A casa reage com ventos, tremores, incêndios espontâneos.  
+
+### Guardiões Elementais
+- Subsolo contém círculo ritual do culto.  
+- Guardiões corrompidos:  
+  - Mephit de Fumaça na lareira.  
+  - Elemental da Terra pequeno preso em estátua.  
+  - Mephit de Vapor em poço da cozinha.  
+
+### Ritual
+- Espírito de **Laird Almeric Tormic** manifesta-se como **Wraith elemental**, alternando ataques de fogo, ar, terra, água.  
+- Casa tenta prender aventureiros para concluir ritual.  
+
+### Conclusão
+- Se derrotam Almeric, mansão colapsa → fuga dramática.  
+- Se falham, são sugados para plano elemental hostil.  
+
+---
+
+## 🎲 Resumo de Acontecimentos
+- Aventura de exploração na Peculiar Manor.  
+- Espíritos infantis amaldiçoados.  
+- Guardiões elementais corrompidos.  
+- Batalha final contra Almeric Tormic elemental.  
+
+---
+
+## 💰 Loot Distribuído
+- Relíquias menores da mansão.  
+- Joias esquecidas dos Tormic.  
+
+---
+
+## 🧾 Notas Extra
+- Adaptação de *Death House* ao contexto de Greyhawk.  
+- Forte ligação ao **Culto do Mal Elemental**.  
+- Gancho: ritual incompleto pode atrair atenção do Templo do Mal Elemental.  
+
+
+<!-- ==== S07_2025-02-13_sombras_sobre_erybend.md ==== -->
+
+# Sessão 07 – Sombras sobre Erybend  
+**Data:** 13/02/2025  
+**Semana:** 07  
+**Sessão:** S07 (Laura)  
+
+***1 de Sunsebb, 998 CY***
+
+---
+## 🗓 Linha Temporal
+| Semana | Data      | Sessão | Nome da Sessão          |
+|--------|-----------|--------|--------------------------|
+| 07     | 13/02/25  | S07    | Sombras sobre Erybend    |
+
+---
+
+## 📖 Narrativa Completa
+Durante o pequeno-almoço, **Kythria**, sobrinha do taberneiro, leva o grupo para falar com o tio. Ele dá a missão:  
+- Viajar a **Eribend**, cidade de comerciantes.  
+- Estabelecer contactos e rotas comerciais, incluindo ligações a **Blackfair Manor** e **Two Fords**.  
+
+### A Jornada
+- Encontram acampamento com vários comerciantes.  
+- Conversam com **Myria** (anã) e **Jeraldina** (half-orc).  
+- As duas mencionam ataques e receios.  
+
+### Emboscada
+- Kobolds atacam, liderados por um **winged kobold**, gritando *“Em honra de Nerzul!”*.  
+- **Kai** reconhece um dos kobolds como antigo **Cavaleiro da Luz**. Pede-lhe que se esconda.  
+- Após a luta, questionam o kobold sobrevivente:  
+  - Ele revela que **Torzac**, líder dos kobolds, amava Nerzul.  
+  - Antes de revelar mais, suicida-se.  
+
+### Descobertas
+- Revistando os corpos:  
+  - Uma bolsa com bilhete mencionando o **Baile em Blackfair Manor**.  
+  - Referência ao **retorno da Dama Sombria**.  
+  - Dois medalhões com moedas de um **bando rival de Greyhawk**.  
+
+---
+
+## 🎲 Resumo de Acontecimentos
+- Missão comercial para Eribend.  
+- Encontro com Myria e Jeraldina.  
+- Emboscada de kobolds cultistas de Nerzul.  
+- Sobrevivente suicida-se após revelar nome de Torzac.  
+- Descobertos bilhete do baile, menção à Dama Sombria, medalhões rivais.  
+
+---
+
+## 💰 Loot Distribuído
+- 2 medalhões de bando rival.  
+- Bilhete com referência ao baile em Blackfair Manor.  
+
+---
+
+## 🧾 Notas Extra
+- Plantado gancho direto para o **Baile de Blackfair Manor**.  
+- “Dama Sombria” introduzida como figura misteriosa.  
+
+
+<!-- ==== S08_2025-02-20_blank_session.md ==== -->
+
+# Sessão 08 – [Em Branco]  
+**Data:** 20/02/2025  
+**Semana:** 8  
+**Sessão:** S08  
+
+***8 de Sunsebb, 998 CY***
+
+---
+## 🗓 Linha Temporal
+| Semana | Data      | Sessão | Nome da Sessão |
+|--------|-----------|--------|----------------|
+| 8      | 20/02/25  | S08    | [por preencher] |
+
+---
+
+## 📖 Narrativa Completa
+[Sem registo disponível.]
+
+---
+
+## 🎲 Resumo de Acontecimentos
+[Sem registo.]
+
+---
+
+## 💰 Loot Distribuído
+[Nenhum.]
+
+---
+
+## 🧾 Notas Extra
+- Placeholder criado para manter consistência temporal.
+
+
+<!-- ==== S09_2025-02-27_blank_session.md ==== -->
+
+# Sessão 09 – [Em Branco]  
+**Data:** 27/02/2025  
+**Semana:** 9  
+**Sessão:** S09  
+
+***15 de Sunsebb, 998 CY***
+
+---
+## 🗓 Linha Temporal
+| Semana | Data      | Sessão | Nome da Sessão |
+|--------|-----------|--------|----------------|
+| 9      | 27/02/25  | S09    | [por preencher] |
+
+---
+
+## 📖 Narrativa Completa
+[Sem registo disponível.]
+
+---
+
+## 🎲 Resumo de Acontecimentos
+[Sem registo.]
+
+---
+
+## 💰 Loot Distribuído
+[Nenhum.]
+
+---
+
+## 🧾 Notas Extra
+- Placeholder criado para manter consistência temporal.
+
+
+<!-- ==== S10A_2025-03-06_misterio_high_ery.md ==== -->
+
+# Sessão 10A – O Mistério em High Ery  
+**Data:** 06/03/2025  
+**Semana:** 10  
+**Sessão:** S10A (Laura)  
+
+22 de Sunsebb, 998 CY***
+
+---
+## 🗓 Linha Temporal
+| Semana | Data      | Sessão | Nome da Sessão          |
+|--------|-----------|--------|--------------------------|
+| 10     | 06/03/25  | S10A   | O Mistério em High Ery   |
+
+---
+
+## 📖 Narrativa Completa
+O grupo é enviado para **High Ery**, aldeia do interior, onde todas as terças-feiras alguns habitantes desmaiam misteriosamente.  
+
+### Primeiras Pistas
+- **Mercadores de queijo** relatam que todo o seu queijo desapareceu misteriosamente.  
+- Só o idoso **Sr. Henrique** continua a vender queijo normalmente.  
+- **Gauthak** e **Freddy** percebem rastros pequenos de ratos nas caixas.  
+
+### Investigações
+- Na **ferraria**, Freddy tenta furtar moedas (5 gp, 5 sp, 30 cp) enquanto Gauthak deixa seu cartão de visita.  
+- Na **enfermaria**, os pacientes descrevem sintomas:  
+  - Sempre após beber hidromel.  
+  - Ouvem música e sons agudos antes de desmaiar.  
+  - Relatam ser atingidos por frigideiras.  
+
+### O Ataque
+- Enxame de ratos assalta o grupo, usando pequenas armas improvisadas.  
+- **Grix** e **Freddy** são temporariamente derrubados pelo efeito do ataque.  
+- Um rato falante, **Ratú**, revela que há um “Mestre” que os controla.  
+
+### O Teatro
+- As pistas levam ao teatro abandonado de High Ery.  
+- Cliffhanger: o grupo prepara-se para confrontar o misterioso Mestre dos Ratos.  
+
+---
+
+## 🎲 Resumo de Acontecimentos
+- Investigações em High Ery → aldeões a desmaiar todas as terças.  
+- Ratos roubam queijo, manipulação em massa.  
+- Ataque de enxame de ratos, Ratú revela existência do Mestre.  
+- Grupo segue para o teatro.  
+
+---
+
+## 💰 Loot Distribuído
+- Freddy furtou: 5 gp, 5 sp, 30 cp.  
+
+---
+
+## 🧾 Notas Extra
+- PCs: Vaunia, Boaz, Grix, Gauthak, Freddy, Ustrax.  
+- Cliffhanger pendente no teatro: quem é o Mestre dos Ratos?  
+
+
+<!-- ==== S10B_2025-03-06_baile_elfico_coriver.md ==== -->
+
+# Sessão 10B – O Baile Élfico e Lorde Coriver  
+**Data:** 06/03/2025  
+**Semana:** 10  
+**Sessão:** S10B (Barda Pipa)  
+
+***22 de Sunsebb, 998 CY***
+
+---
+## 🗓 Linha Temporal
+| Semana | Data      | Sessão | Nome da Sessão                   |
+|--------|-----------|--------|-----------------------------------|
+| 10     | 06/03/25  | S10B   | O Baile Élfico e Lorde Coriver    |
+
+---
+
+## 📖 Narrativa Completa
+O grupo é convidado pela Rainha **Caecena**, líder dos Altos Elfos, para um baile de gala.  
+
+### O Baile
+- Decoração luxuosa, música feérica.  
+- Cada aventureiro escolhe parceira de dança:  
+  - Dustin → Prysanna.  
+  - Triss → Vesta.  
+  - Kai → Fifaera.  
+  - Drayl → Zenvis.  
+
+### A Ameaça
+- Durante o baile, surgem assassinos homens-serpente, enviados por **Lorde Coriver**.  
+- PCs derrotam-nos após combate tenso entre colunas e mesas de banquete.  
+
+### A Teleportação
+- Toda a corte é transportada magicamente para a fortaleza de Coriver.  
+- Combate final contra **Lorde Coriver** e um **verme gigante**.  
+- Prysanna (parceira de Dustin) é revelada como inocente, vítima de manipulação.  
+
+### A Conclusão
+- Vitória → Rainha Caecena recompensada.  
+- Kai destaca-se e recebe **Bênção da Rainha**: uma habilidade tipo *Lucky* (1 reroll por long rest).  
+- Grupo regressa à corte para um último baile.  
+- Recompensa: 500 gp (apenas para Kai).  
+
+---
+
+## 🎲 Resumo de Acontecimentos
+- Convite para o baile da Rainha Caecena.  
+- Danças com Prysanna, Vesta, Fifaera e Zenvis.  
+- Ataque de assassinos serpentinos.  
+- Teleportados para fortaleza de Coriver.  
+- Boss fight: Coriver + verme gigante.  
+- Vitória → bênção e recompensa para Kai.  
+
+---
+
+## 💰 Loot Distribuído
+- Kai: 500 gp.  
+- Kai: Bênção da Rainha (Lucky-like feat).  
+- Outros PCs: sem recompensa material.  
+
+---
+
+## 🧾 Notas Extra
+- PCs: Dustin, Triss, Drayl, Kai.  
+- Lorde Coriver estabelecido como antagonista de influência planar.  
+
+
+<!-- ==== S10C_2025-03-06_desaparecimento_lago_dos_diamantes.md ==== -->
+
+# Sessão 10C – O Desaparecimento em Lago dos Diamantes  
+**Data:** 06/03/2025  
+**Semana:** 10  
+**Sessão:** S10C (Henrique)  
+
+***22 de Sunsebb, 998 CY***
+
+---
+## 🗓 Linha Temporal
+| Semana | Data      | Sessão | Nome da Sessão                       |
+|--------|-----------|--------|---------------------------------------|
+| 10     | 06/03/25  | S10C   | O Desaparecimento em Lago dos Diamantes |
+
+---
+
+## 📖 Narrativa Completa
+No Lago dos Diamantes, o druida **Uteluk** pede ajuda: o hobgoblin **Rolger** desapareceu.  
+
+### Investigação
+- Procurando pistas encontram **chave dourada** e uma sala com runas.  
+- Um alçapão leva a cavernas abaixo do lago.  
+
+### Conflitos
+- Trio de **mímicos** ataca, disfarçados como equipamento de viajante.  
+- Avançando, encontram Rolger ferido no fundo de uma fenda.  
+- **Doppelgangers** emboscam, assumindo forma de Conan e Sage.  
+
+### Batalha Final
+- Um dos doppelgangers transforma-se num **meio-dragão** antes de cair.  
+- Rolger, salvo, decide confiar nos aventureiros.  
+
+### Conclusão
+- Rolger regressa com o grupo.  
+- Uteluk agradece e promete favor futuro.  
+
+---
+
+## 🎲 Resumo de Acontecimentos
+- Pedido do druida Uteluk para resgatar Rolger.  
+- Cavernas com mímicos e armadilhas.  
+- Doppelgangers imitam Conan e Sage.  
+- Boss fight contra meio-dragão doppelganger.  
+- Resgate concluído, Rolger salvo.  
+
+---
+
+## 💰 Loot Distribuído
+- 35 gp por PC.  
+- Favor futuro do druida Uteluk.  
+
+---
+
+## 🧾 Notas Extra
+- PCs: Raylahn, Flynn, Wandering Sage, Varus, Conan.  
+- Introduz Uteluk como contacto druidico futuro.  
+
+
+<!-- ==== S11_2025-03-13_appendices_dm_only_full.md ==== -->
+
+# Sessão 11 – Apêndices DM-only (Full)  
+**Data:** 13/03/2025  
+**Semana:** 11  
+
+***1 de Fireseek, 999 CY***
+
+---
+## 📜 Carta de Iuz
+
+Meu servo mais patético,
+
+Não sou um messias enviado pelos Poderes das Trevas desta terra. 
+Não vim para te guiar no caminho da imortalidade. 
+Por mais almas que você tenha abençoado no seu altar oculto, por mais visitantes que você tenha torturado na sua masmorra, saiba que não foram vocês que me trouxeram a esta bela terra. 
+Vocês são apenas vermes escrevendo na minha terra.
+
+Tu dizs que estás amaldiçoado, que a tua fortuna está gasta.
+ Abandonas-te  o amor pela loucura, encontras-te conforto no seio de outra mulher e geras-te um filho morto. 
+Amaldiçoado pela escuridão? Disso não tenho dúvidas. Salvar-te da tua miséria?
+Eu acho que não. Eu prefiro te como tu és.
+
+Teu terrível senhor e mestre,
+
+Iuz
+
+
+---
+
+## 🎭 Convite para o Baile em Blackfrair Manor
+(Untitled document.docx)
+
+Caríssimos Nobres Senhores, Ilustres Damas, Gentis Príncipes, Princesas  e Destemidos Dragões,
+
+Com o mais elevado júbilo e reverência, ergue-se a pena para vos anunciar um acontecimento de sublime esplendor: o Baile do solstício de Verão na augusta e enigmática Blackfrair Manor.
+
+Nessa  noite, sob o cintilar dos lustres e ao som dos Bardos do Mondego as portas do solar abrir-se-ão para receber corações ousados e espíritos sonhadores.
+
+Convidamo-vos, pois, a envergar os vossos mais majestosos trajes, a polir coroas e espadas, a erguer leques e taças, e a deixar-vos levar pela dança, pela fantasia e pela magnificência de um serão destinado a ser lembrado entre lendas e cantos.
+
+Queria Vossa Senhoria honrar-nos com a sua presença e abrilhantar com graça e nobreza este banquete de maravilhas.
+
+Na Blackfrair Manor, onde o real se encontra com o fantástico, aguardamos a vossa chegada dia 13 de Reaping.
+
+Com devoção e pompa,
+
+🕯️ Os Senhores da Noite Eterna
+
+Maxibom Gustgavv e Isa Merrill
+
+---
+
+## ✉️ Carta Pessoal a Kai
+(Kai,.docx)
+
+Kai,
+Ou devo dizer… meu caro impostor?
+Os ventos carregam segredos, e ultimamente tenho ouvido alguns bastante interessantes. O nome que carrega, a linhagem que reivindica, a história que vende ao mundo — tudo não passa de um teatro bem ensaiado. Mas, eu não sou o público fácil que engole qualquer farsa. Eu sei quem tu realmente és.
+O verdadeiro herdeiro de Iuz? Ele morreu. Num acidente, um erro do destino… ou um erro teu? Isso pouco importa agora. O que realmente interessa é que, diante do mundo, tu tomas te  o lugar dele. Vives sob um nome que não te  pertence, usufruis de privilégios que nunca foram teus, enganando nobres e plebeus como se a mentira fosse a tua segunda pele. Admirável, de fato. Mas até mesmo o melhor dos disfarces tem rachaduras — e eu as vejo todas.
+E agora, Kai, a questão é simples: quanto vale para ti manter esta ilusão viva?
+Eu poderia  desmascarar te. Poderia fazer com que o nome que roubaste fosse a tua ruína. O que achas que aconteceria se a corte soubesse? Se aqueles que acreditam na tua  linhagem descobrissem a verdade? O que achas que fariam os inimigos do homem que tu  finges ser?
+Mas eu sou uma pessoa razoável. E gosto de dar oportunidades. Aqui está a tua: encontra-me.
+Sozinho, sem truques ou jogos. Nas ruínas de um antigo forte, perto de Erybend. Lá, discutiremos os meus termos. E se tiveres  algum juízo, vais ouvir com atenção.
+Não me testes, Kai. Não me obrigues a arrancar te essa máscara à força.
+O tempo corre. E o teu está a esgotar-se.
+
+
+---
+
+## 📖 Notas de Sessão (Sombras de Iuz)
+(Sombras de Iuz.docx)
+
+Caríssimos servos indignos,  
+
+Falharam-me de novo. Do Peculiar Manor às vossas vergonhosas derrotas, só deixais rastos de fracasso.  
+
+As minhas criações não se cansam: os mortos erguem-se ao meu comando, as sombras alimentam-se da vossa fraqueza. Conhecereis agora os meus novos campeões:  
+- A aberração de dez mil olhos,  
+- O verme que devora sonhos,  
+- O cão negro de sete cabeças,  
+- E os filhos que nunca nasceram.  
+
+Cada um deles trará ruína onde vós só trouxestes embaraço.  
+
+Eu sou Iuz. A cada queda vossa, mais perto estou de reinar em Greyhawk.
+
+
+<!-- ==== S11_2025-03-13_appendices_dm_only_summary.md ==== -->
+
+# Sessão 11 – Apêndices DM-only (Summary)  
+**Data:** 13/03/2025  
+**Semana:** 11  
+
+***1 de Fireseek, 999 CY***
+
+---
+## 📜 Carta de Iuz
+- Escárnio contra servos falhados.  
+- Lista quatro “campeões” monstruosos.  
+- Afirma poder crescente de Iuz.  
+
+---
+
+## 🎭 Convite para o Baile em Blackfrair Manor
+- Convite formal e pomposo.  
+- Evento: Baile do Solstício de Verão.  
+- Local: Blackfrair Manor.  
+- Assinado por Maxibom Gustgavv & Isa Merrill.  
+
+---
+
+## ✉️ Carta Pessoal a Kai
+- Ameaça direta a Kai, expondo enganos.  
+- Assinada por Raveth Xil’Zyrl.  
+- Marca encontro em Erybend.  
+
+---
+
+## 📖 Notas de Sessão (Sombras de Iuz)
+- Texto de suporte: Raveth manipula Kai.  
+- Paladinos de Beltar surgem como inimigos.  
+- Dustin é capturado → gancho imediato.  
+
+
+<!-- ==== S11A_2025-03-13_sombras_sobre_erybend.md ==== -->
+
+# Sessão 11A – Sombras sobre Erybend  
+**Data:** 13/03/2025  
+**Semana:** 11  
+**Sessão:** S11A (Laura)  
+
+***1 de Fireseek, 999 CY***
+
+---
+## 🗓 Linha Temporal
+| Semana | Data      | Sessão | Nome da Sessão        |
+|--------|-----------|--------|------------------------|
+| 11     | 13/03/25  | S11A   | Sombras sobre Erybend  |
+
+---
+
+## 📖 Narrativa Completa
+O grupo é enviado a **Erybend**, importante centro comercial, para abrir rotas e investigar perturbações ligadas ao culto.  
+
+### A Jornada
+- São emboscados por kobolds liderados por **Torzak**, gritando “Em honra de Nerzul!”.  
+- Um sobrevivente revela que Torzak idolatra Nerzul, mas suicida-se antes de dar mais informação.  
+- Entre os pertences, encontram:  
+  - Bilhete para o **Baile em Blackfair Manor**.  
+  - Referência à **Dama Sombria**.  
+  - Duas moedas/medalhões de gangue rival de Greyhawk.  
+
+### Erybend
+- Conhecem o comerciante **Dolren Vas**, que pede ajuda contra o culto.  
+- Descobrem culto liderado por **Odrak**, instalado no templo abandonado.  
+
+### Conflitos
+- **Taberna “O Machado Quebrado”**: luta contra 4 cultistas + 2 capangas.  
+- **Templo abandonado**:  
+  - 8 cultistas fanáticos.  
+  - 2 elementais guardiões.  
+  - Odrak, sacerdote de Nerzul, realizando ritual.  
+
+### Conclusão
+- Grupo derrota Odrak e interrompe ritual.  
+- Dolren firma aliança comercial com Greyhawk.  
+- Ganchos: Baile em Blackfair, Dama Sombria, rivalidade de gangues.  
+
+---
+
+## 🎲 Resumo de Acontecimentos
+- Emboscada de Torzak e kobolds.  
+- Chegada a Erybend.  
+- Combates em taberna e templo.  
+- Derrota de Odrak.  
+- Rotas comerciais abertas com Dolren.  
+
+---
+
+## 💰 Loot Distribuído
+- 2 medalhões de gangue rival.  
+- Bilhete do Baile em Blackfair.  
+- Recompensa de Dolren: 200 gp.  
+
+---
+
+## 🧾 Notas Extra
+- “Dama Sombria” aparece novamente.  
+- Forte ligação ao arco do **Baile de Blackfair Manor**.  
+
+
+<!-- ==== S11B_2025-03-13_sombras_de_iuz.md ==== -->
+
+# Sessão 11B – Sombras de Iuz  
+**Data:** 13/03/2025  
+**Semana:** 11  
+**Sessão:** S11B (Kai)  
+
+***1 de Fireseek, 999 CY***
+
+---
+## 🗓 Linha Temporal
+| Semana | Data      | Sessão | Nome da Sessão     |
+|--------|-----------|--------|---------------------|
+| 11     | 13/03/25  | S11B   | Sombras de Iuz      |
+
+---
+
+## 📖 Narrativa Completa
+**Kai** recebe uma carta ameaçadora: alguém conhece a sua verdadeira identidade.  
+
+### O Encontro
+- Em ruínas perto de Erybend, Kai encontra **Raveth Xil’Zyrl**, drow da Casa Vanthir.  
+- Raveth exige a cooperação de Kai para restaurar o poder da sua casa.  
+
+### A Emboscada
+- De súbito, são atacados pelos **Paladinos de Beltar**:  
+  - **Vareth Lionmane**  
+  - **Sybel Astren**  
+  - **Garruk**  
+  - **Brand**  
+  - **Luthor**  
+- Acompanhados por **cães infernais**.  
+- Durante a luta, Raveth escapa usando escuridão mágica, deixando para trás a relíquia **“Língua de Iuz”**.  
+
+### A Reviravolta
+- Os paladinos reconhecem **Dustin** como ex-companheiro renegado.  
+- Mudam de alvo e capturam-no.  
+
+### Conclusão
+- O grupo recua, obrigado a planear um resgate.  
+- Dustin é levado pelos paladinos, servindo de gancho para próxima sessão.  
+
+---
+
+## 🎲 Resumo de Acontecimentos
+- Carta ameaça expor Kai.  
+- Encontro com Raveth Xil’Zyrl.  
+- Emboscada dos Paladinos de Beltar.  
+- Raveth escapa, deixa a Língua de Iuz.  
+- Dustin capturado.  
+
+---
+
+## 💰 Loot Distribuído
+- Artefato **Língua de Iuz** (propriedades ainda por definir).  
+
+---
+
+## 🧾 Notas Extra
+- Paladinos de Beltar introduzidos como inimigos recorrentes.  
+- Dustin capturado: gancho imediato.  
+- Raveth Xil’Zyrl torna-se vilão a longo prazo.  
+
+
+<!-- ==== S11C_2025-03-13_rota_da_cia_pantano.md ==== -->
+
+# Sessão 11C – A Rota da Cia: Sangue e Ouro no Pântano  
+**Data:** 13/03/2025  
+**Semana:** 11  
+**Sessão:** S11C (Guiné)  
+
+***1 de Fireseek, 999 CY***
+
+---
+## 🗓 Linha Temporal
+| Semana | Data      | Sessão | Nome da Sessão                  |
+|--------|-----------|--------|----------------------------------|
+| 11     | 13/03/25  | S11C   | A Rota da Cia: Sangue e Ouro     |
+
+---
+
+## 📖 Narrativa Completa
+**Conan** e **Dustin** partem para o **Mistmarsh**, abrir rota comercial com aldeia de bullywugs.  
+
+### O Pântano
+- Lama, nevoeiro e criaturas anfíbias.  
+- Conan enfrenta o trauma de rever a sua antiga amante, agora sacerdotisa do culto.  
+- Dustin sente sinais de corrupção fúngica.  
+
+### A Arena
+- Antiga mina convertida em arena gladiadora.  
+- Gladiadores enfrentam-se perante nobres cultistas.  
+- PCs infiltram-se ou atacam diretamente.  
+- Um monge da Ordem do Dente Longo, corrompido, lidera combate.  
+
+### O Obelisco
+- Obelisco negro amplifica poder elemental.  
+- Sacerdotisa amante de Conan supervisiona ritual.  
+- Boss fight contra cultista líder + gladiadores.  
+
+### Conclusão
+- Se libertam a mina → estabelecem rota comercial.  
+- Dustin recebe visão de **Beltar**: Nerull tornou-se demasiado poderoso, é preciso caçar os irmãos paladinos.  
+
+---
+
+## 🎲 Resumo de Acontecimentos
+- Viagem ao Mistmarsh.  
+- Arena gladiadora controlada pelo culto.  
+- Confronto com ex-amante de Conan.  
+- Obelisco negro como fonte de poder.  
+- Visão de Beltar → missão contra paladinos.  
+
+---
+
+## 💰 Loot Distribuído
+- Ouro da Companhia (600 gp).  
+- Armas raras recuperadas da arena.  
+
+---
+
+## 🧾 Notas Extra
+- Desenvolve arcos pessoais de Conan e Dustin.  
+- Liga Mistmarsh ao culto e às visões de Beltar.  
+
+
+<!-- ==== S12A_2025-03-20_espada_de_viltrix.md ==== -->
+
+# Sessão 12A – A Espada de Viltrix o Justo  
+**Data:** 20/03/2025  
+**Semana:** 12  
+**Sessão:** S12A (Laura)  
+
+***8 de Fireseek, 999 CY***
+
+---
+## 🗓 Linha Temporal
+| Semana | Data      | Sessão | Nome da Sessão                |
+|--------|-----------|--------|--------------------------------|
+| 12     | 20/03/25  | S12A   | A Espada de Viltrix o Justo    |
+
+---
+
+## 📖 Narrativa Completa
+O grupo chega à aldeia de **Bernagrade**, onde os habitantes estão em pânico: a espada sagrada de **Viltrix o Justo**, herói fundador, foi roubada do templo.
+
+### Investigação Inicial
+- No santuário encontram a cúpula partida e marcas de escamas de kobold cinza.  
+- Aldeões descrevem sombras e sons de asas.  
+
+### O Templo
+- Avançam até ao templo em forma de pirâmide.  
+- **Gauthak** rapta um kobold → **Grix** finge ser um deus e arranca informações:  
+  - O “lobo preso” dentro do templo é o próprio espírito de Viltrix.  
+- Enigma da estátua resolvido por **Freddy**: apagar velas abre porta secreta.  
+
+### Cliffhanger
+- Grupo entra na câmara central.  
+- O kobold alado líder surge (possivelmente **Dandar**).  
+- Sessão termina no início do combate.  
+
+---
+
+## 🎲 Resumo de Acontecimentos
+- Pedido dos aldeões: recuperar a espada de Viltrix.  
+- Vestígios kobold → templo pirâmide.  
+- Interrogatório de kobold cativo.  
+- Enigma das velas resolvido.  
+- Encontro final com o kobold alado.  
+
+---
+
+## 💰 Loot Distribuído
+- Ainda não definido (sessão terminou em cliffhanger).  
+
+---
+
+## 🧾 Notas Extra
+- PCs: Grix, Vaunia, Gauthak, Freddy, Ustrax.  
+- Introduzido o nome **Viltrix o Justo** como herói kobold.  
+
+
+<!-- ==== S12B_2025-03-20_prisao_e_redencao_dustin.md ==== -->
+
+# Sessão 12B – Prisão e Redenção de Dustin  
+**Data:** 20/03/2025  
+**Semana:** 12  
+**Sessão:** S12B (Kai/Dustin arc)  
+
+***8 de Fireseek, 999 CY***
+
+---
+## 🗓 Linha Temporal
+| Semana | Data      | Sessão | Nome da Sessão                  |
+|--------|-----------|--------|----------------------------------|
+| 12     | 20/03/25  | S12B   | Prisão e Redenção de Dustin      |
+
+---
+
+## 📖 Narrativa Completa
+Após ser capturado pelos **Paladinos de Beltar** (Sessão 11), **Dustin** é levado para o **Castelo Ruína-de-Ébano**, algemado em prata consagrada.
+
+### O Cativeiro
+- Interrogado pelo Alto-Inquisidor **Malrik Dorn**.  
+- Paladinos questionam a ligação dele a **Raveth Xil’Zyrl**.  
+- Dustin é torturado psicologicamente.  
+
+### Resgate
+- O grupo atravessa floresta pantanosa → luta contra cães demoníacos.  
+- Infiltram-se no castelo: enfrentam guardas, armadilhas e magia sagrada.  
+
+### Aparição de Prysanna
+- **Prysanna** manifesta-se através de pacto fey com Dustin.  
+- Concede-lhe força temporária, mas cobra “pagamento futuro”.  
+
+### Combate Final
+- Confronto com **Malrik Dorn**, apoiado por um **Spectator** e um **Golem de Ossos**.  
+- Vitória do grupo, libertando Dustin.  
+
+### Conclusão
+- Dustin volta à party, mas a dívida com Prysanna permanece.  
+- Malrik sobrevive? (gancho para retorno futuro).  
+
+---
+
+## 🎲 Resumo de Acontecimentos
+- Dustin prisioneiro em Castelo Ruína-de-Ébano.  
+- Resgate com batalhas contra cães infernais e paladinos.  
+- Aparição de Prysanna → pacto reforçado.  
+- Boss fight: Malrik Dorn + Spectator + Golem.  
+- Dustin liberto.  
+
+---
+
+## 💰 Loot Distribuído
+- 400 gp em tesouro de castelo.  
+- Relíquia menor corrompida pelo culto (a definir).  
+
+---
+
+## 🧾 Notas Extra
+- PCs: Kai, Triss, Drayl, Dustin (resgatado).  
+- Introduz **Malrik Dorn** como antagonista.  
+- Prysanna reforça ligação com Dustin.  
+
+
+<!-- ==== S12C_2025-03-20_tres_pedras_e_illithids.md ==== -->
+
+# Sessão 12C – As Três Pedras e os Illithids  
+**Data:** 20/03/2025  
+**Semana:** 12  
+**Sessão:** S12C (Guiné)  
+
+***8 de Fireseek, 999 CY***
+
+---
+## 🗓 Linha Temporal
+| Semana | Data      | Sessão | Nome da Sessão                 |
+|--------|-----------|--------|---------------------------------|
+| 12     | 20/03/25  | S12C   | As Três Pedras e os Illithids   |
+
+---
+
+## 📖 Narrativa Completa
+A Companhia convoca o grupo para recuperar as **três pedras elementares**.  
+
+### A Viagem
+- Passam por aldeia de bullywugs (“Sapolândia”) → encontram corpos sem cérebro.  
+- Itens achados: moedas, insígnias do Culto Elemental e da Companhia.  
+
+### Encontros
+- **Varus** encontra ouro e pergaminhos de *Teleportation* e *Fireball*.  
+- Enfrentam aberrações controladas pelos Illithids.  
+
+### Boss Fight
+- Emboscados por **dois Mind Flayers**.  
+- **Baltigard** e **Varus** mortos em combate.  
+- Resto do grupo capturado e levado numa nave illithid.  
+
+### Conclusão
+- Sessão termina com cliffhanger → grupo prisioneiro dos Illithids.  
+
+---
+
+## 🎲 Resumo de Acontecimentos
+- Missão: recuperar as três pedras.  
+- Aldeia devastada → pistas de Mind Flayers.  
+- Pergaminhos mágicos encontrados.  
+- Boss: 2 Mind Flayers.  
+- Mortes: Baltigard, Varus.  
+- Grupo capturado.  
+
+---
+
+## 💰 Loot Distribuído
+- Pergaminhos de Teleportation e Fireball (Varus).  
+- Ouro (montante não especificado).  
+
+---
+
+## 🧾 Notas Extra
+- PCs: Conan, Dustin, Varus, Baltigard, Sage.  
+- Cliffhanger forte: campanha arrastada para arco illithid.  
+
+
+<!-- ==== S12D_2025-03-20_legado_de_krixis.md ==== -->
+
+# Sessão 12D – O Legado de Krixis o Valente  
+**Data:** 20/03/2025  
+**Semana:** 12  
+**Sessão:** S12D (Jota)  
+
+***8 de Fireseek, 999 CY***
+
+---
+## 🗓 Linha Temporal
+| Semana | Data      | Sessão | Nome da Sessão                  |
+|--------|-----------|--------|----------------------------------|
+| 12     | 20/03/25  | S12D   | O Legado de Krixis o Valente     |
+
+---
+
+## 📖 Narrativa Completa
+Kobolds da taberna procuram ajuda: libertar o herói ancestral **Krixis o Valente**, preso por maldição.  
+
+### A Dungeon
+- Grupo entra em templo abandonado.  
+- Inimigos: goblins, oferendas corrompidas, armadilhas antigas.  
+- Enigma das velas → abre passagem secreta para câmara final.  
+
+### O Confronto
+- Dois bosses:  
+  - Orc guerreiro.  
+  - Orc massivo amaldiçoado.  
+- Ao derrotá-los, encontram espada que contém a essência de Krixis.  
+
+### Libertação
+- Lobo preso transforma-se em **Krixis, o Valente**, agora livre.  
+- Kobolds celebram com festa na taberna de Greyhawk.  
+
+---
+
+## 🎲 Resumo de Acontecimentos
+- Pedido dos kobolds: libertar Krixis.  
+- Dungeon com goblins, armadilhas e enigma das velas.  
+- Boss fight: dois orcs.  
+- Libertação de Krixis → celebração.  
+
+---
+
+## 💰 Loot Distribuído
+- Espada de Krixis (relicário, entregue ao herói).  
+- Tesouros menores da dungeon.  
+
+---
+
+## 🧾 Notas Extra
+- PCs: Raylahn, Flynn, Conan, Sage.  
+- Krixis estabelecido como herói kobold aliado.  
+
+
+<!-- ==== S13_2025-03-27_appendices_dm_only_full.md ==== -->
+
+# Sessão 13 – Apêndices DM-only (Full)  
+**Data:** 27/03/2025  
+**Semana:** 13  
+
+***15 de Fireseek, 999 CY***
+
+---
+## ✉️ Carta de Pryssana para Dustin
+(Deixada após o combate no Castelo Ruína-de-Ébano)
+
+“Meu doce Dustin,  
+
+Sabes que não te poderia abandonar, não agora, não enquanto ainda existe uma dívida entre nós.  
+Libertar-te hoje foi apenas um gesto – mas um gesto que terá de ser pago.  
+
+A tatuagem que agora levas no teu braço é o selo do nosso pacto.  
+Recorda-te: cada linha arde com a memória do que partilhámos, e cada vez que olhares para ela saberás que pertenço ao teu destino.  
+
+Não fujas de mim.  
+Não tentes quebrar o fio.  
+Quando chegar a hora, eu virei reclamar o que é meu.  
+
+Até breve,  
+— P.”  
+
+
+<!-- ==== S13_2025-03-27_appendices_dm_only_summary.md ==== -->
+
+# Sessão 13 – Apêndices DM-only (Summary)  
+**Data:** 27/03/2025  
+**Semana:** 13  
+
+***15 de Fireseek, 999 CY***
+
+---
+## ✉️ Carta de Pryssana para Dustin
+- Tom íntimo e ameaçador.  
+- Marca a tatuagem como selo do pacto.  
+- Afirma que Dustin não pode escapar.  
+- Deixa claro que virá cobrar a dívida futuramente.  
+
+
+<!-- ==== S13A_2025-03-27_resgate_de_dustin.md ==== -->
+
+# Sessão 13A – Resgate de Dustin e Fuga de Ruína-de-Ébano  
+**Data:** 27/03/2025  
+**Semana:** 13  
+**Sessão:** S13A (Laura)  
+
+***15 de Fireseek, 999 CY***
+
+---
+## 🗓 Linha Temporal
+| Semana | Data      | Sessão | Nome da Sessão                       |
+|--------|-----------|--------|---------------------------------------|
+| 13     | 27/03/25  | S13A   | Resgate de Dustin e Fuga de Ruína-de-Ébano |
+
+---
+
+## 📖 Narrativa Completa
+Após os eventos da Sessão 12, **Dustin** continua prisioneiro no **Castelo Ruína-de-Ébano**, interrogado e torturado pelos **Paladinos de Beltar** sob efeito de *Zone of Truth*.  
+
+### O Reforço
+- **Markus** surge por um portal enviado pelo taberneiro para reforçar o grupo.  
+- **Triss**, através de *Hex*, consegue sentir a presença de Dustin.  
+- **Kai** lidera travessia do rio, mas tanto ele como Markus falham e caem à água.  
+
+### O Cativeiro
+- Dustin é liberto temporariamente por **Pryssana**, disfarçada, que deixa uma tatuagem feérica no seu braço como marca de pacto.  
+- Os Paladinos intensificam interrogatório sobre a taberna e Raveth.  
+
+### A Confrontação
+- O grupo infiltra-se no castelo, enfrentando paladinos, cães infernais e anões guerreiros.  
+- **Pryssana** enfrenta **Triss**, usando o pseudónimo “Vanessa”.  
+- Boss fight contra **Malik Dorne**, acompanhado por um **Spectator** e um **Flesh Golem**.  
+
+### O Desfecho
+- Malik rouba memórias de Dustin relacionadas com a taberna.  
+- Pryssana derrota o Spectator, mas desaparece após deixar uma carta para Dustin (apanhada por Triss).  
+- Malik foge por portal. Dustin tem visão: a taberna está a ser atacada pelos Paladinos de Beltar.  
+- O grupo atravessa o portal de emergência → encontram o taberneiro a preparar a mudança da taberna para **Greyhawk**.  
+
+---
+
+## 🎲 Resumo de Acontecimentos
+- Dustin torturado no Castelo Ruína-de-Ébano.  
+- Markus junta-se ao grupo.  
+- Grupo infiltra-se, combate paladinos, cães e anões.  
+- Pryssana liberta Dustin e marca-o com tatuagem fey.  
+- Boss fight contra Malik Dorne + Spectator + Flesh Golem.  
+- Malik foge, Pryssana desaparece, carta deixada.  
+- Taverna muda-se para Greyhawk.  
+
+---
+
+## 💰 Loot Distribuído
+- 2 breastplates  
+- 3 lanças  
+- 1 lança mágica  
+- 1 bracers of defense  
+- 2 greataxes  
+- 2 healing potions  
+- 1 tomo mágico  
+- 500 gp  
+
+---
+
+## 🧾 Notas Extra
+- PCs: Dustin, Triss, Kai, Raylahn, Markus.  
+- Malik Dorne estabelecido como inimigo persistente.  
+- Pryssana torna-se ainda mais enigmática (marca + carta).  
+
+
+<!-- ==== S13B_2025-03-27_nave_mae_illithid.md ==== -->
+
+# Sessão 13B – A Nave-Mãe dos Illithids  
+**Data:** 27/03/2025  
+**Semana:** 13  
+**Sessão:** S13B (Guiné)  
+
+***15 de Fireseek, 999 CY***
+
+---
+## 🗓 Linha Temporal
+| Semana | Data      | Sessão | Nome da Sessão             |
+|--------|-----------|--------|-----------------------------|
+| 13     | 27/03/25  | S13B   | A Nave-Mãe dos Illithids    |
+
+---
+
+## 📖 Narrativa Completa
+O grupo de Guiné continua o arco das Três Pedras, agora como prisioneiros dos **Illithids**.
+
+### O Encontro
+- Encontram **Endo Bom Sossego**, desaparecido há anos após abdução.  
+- **Varus** é restaurado pela tecnologia alienígena → nasce o alter ego **Zeldris**.  
+
+### A Nave-Mãe
+- Chegam à nave-mãe e conhecem **Zorg**, um Illithid distinto.  
+- Zorg revela preparar-se para um baile e aceita conversar.  
+- Dá a **Sarvien** um **anel** para o convocar, e pede-lhe um fato de gala.  
+
+### O Engano
+- Um Blob engana-os, levando-os para compartimento de lixo.  
+- Conseguem escapar, mas ficam marcados.  
+
+### O Retorno
+- Dois Illithids infiltrados tentam atacá-los na viagem de volta → mortos.  
+- Sarvien encontra 10 gp nos restos.  
+- Nave cai no bairro de luxo de **Greyhawk**, causando destruição massiva.  
+- Regresso à taberna, mas missão falha: não recuperam as Três Pedras.  
+
+---
+
+## 🎲 Resumo de Acontecimentos
+- Grupo encontra Endo Bom Sossego.  
+- Varus restaurado → alter ego Zeldris.  
+- Conhecem Zorg e recebem anel de convocação.  
+- Enganados e presos por Blob → escapam.  
+- Dois Illithids mortos na fuga.  
+- Nave cai em Greyhawk → falha na missão.  
+
+---
+
+## 💰 Loot Distribuído
+- Sarvien: 10 gp.  
+- Sarvien: anel de Zorg (convoca comitiva).  
+
+---
+
+## 🧾 Notas Extra
+- PCs: Sarvien, Varus/Zeldris, Endo, outros.  
+- Zorg torna-se figura recorrente (ligado ao Baile).  
+- Illithids consolidam-se como ameaça.  
+
+
+<!-- ==== S14A_2025-04-03_dandan_e_os_40_kobolds.md ==== -->
+
+# Sessão 14A – Dandan e os 40 Kobolds  
+**Data:** 03/04/2025  
+**Semana:** 14  
+**Sessão:** S14A (Laura)  
+
+***22 de Fireseek, 999 CY***
+
+---
+## 🗓 Linha Temporal
+| Semana | Data      | Sessão | Nome da Sessão               |
+|--------|-----------|--------|-------------------------------|
+| 14     | 03/04/25  | S14A   | Dandan e os 40 Kobolds        |
+
+---
+
+## 📖 Narrativa Completa
+O grupo viaja até ao templo piramidal dos kobolds, ainda ecoando os eventos anteriores com **Viltrix**.  
+
+### O Confronto
+- O kobold alado **Dandan** é finalmente enfrentado.  
+- **Gauthak** mostra violência extrema, derrotando-o de forma brutal.  
+
+### Consequências
+- Descobrem que Dandan e Viltrix eram amantes.  
+- Viltrix, incapaz de lidar com a perda, suicida-se.  
+
+### Novas Figuras
+- Quatro kobolds improvisados: **Pedrinho, Arvoredo, Zezinho, Escamoso**.  
+- Surge **Greta**, guerreira-costureira kobold, que rapidamente flerta com Gauthak.  
+- Greta decide viajar com o grupo, provocando risos e comentários sobre “casamento”.  
+
+### O Regresso
+- Encontram também mapas/planos de renovação da vila.  
+- Trazem Greta para a taberna, celebrando vitória e novas alianças improváveis.  
+
+---
+
+## 🎲 Resumo de Acontecimentos
+- Dandan derrotado por Gauthak.  
+- Viltrix suicida-se.  
+- Introdução de Greta e outros kobolds.  
+- Planos da vila encontrados.  
+- Greta viaja com grupo → regresso à taberna.  
+
+---
+
+## 💰 Loot Distribuído
+- Mapas/planos da vila.  
+
+---
+
+## 🧾 Notas Extra
+- PCs: Gauthak, Freddy, Grix, Astrid, Nuk, Ziks.  
+- Greta passa a ser NPC aliado recorrente.  
+
+
+<!-- ==== S14B_2025-04-03_exploracao_greyhawk_guildas.md ==== -->
+
+# Sessão 14B – Exploração de Greyhawk: Guildas e Licenças  
+**Data:** 03/04/2025  
+**Semana:** 14  
+**Sessão:** S14B (Jota)  
+
+***22 de Fireseek, 999 CY***
+
+---
+## 🗓 Linha Temporal
+| Semana | Data      | Sessão | Nome da Sessão                        |
+|--------|-----------|--------|----------------------------------------|
+| 14     | 03/04/25  | S14B   | Exploração de Greyhawk: Guildas e Licenças |
+
+---
+
+## 📖 Narrativa Completa
+O grupo decide explorar a Cidade Livre de Greyhawk, focando-se nas guildas e negócios.  
+
+### Primeiras Paragens
+- Compram mapas oficiais na Guilda dos Cartógrafos (2 gp cada).  
+- Visitam a Casa da Moeda, universidade de artes mágicas, arena e escola de culinária.  
+
+### Momento Cómico
+- **Conan** participa num concurso de bikini, mas é escorraçado em humilhação pública.  
+
+### Interações
+- Encontram o vidente **Cleseur**.  
+- Negociam licenças comerciais com autoridades locais.  
+- Conhecem **Mr. 0**, figura da Guilda dos Ladrões.  
+- Visitam também a Guilda dos Assassinos → percebem forte rivalidade entre as duas facções.  
+
+### Conclusão
+- Saem de Greyhawk com licenças, algum lucro e contactos perigosos.  
+
+---
+
+## 🎲 Resumo de Acontecimentos
+- Compram mapas (2 gp).  
+- Exploraram guildas, universidade e arena.  
+- Conan falha num concurso bizarro.  
+- Conhecem Cleseur (vidente).  
+- Negociam licenças.  
+- Interagem com Guilda dos Ladrões e Assassinos.  
+
+---
+
+## 💰 Loot Distribuído
+- 50 gp por PC.  
+- 1 anel GPS para taberna por PC.  
+- Licenças comerciais oficiais.  
+
+---
+
+## 🧾 Notas Extra
+- PCs: Conan, Kai, Triss, outros.  
+- Mr. 0 introduzido como contacto perigoso.  
+
+
+<!-- ==== S14C_2025-04-03_incendio_olho_de_boccob.md ==== -->
+
+# Sessão 14C – O Incêndio Misterioso: O Olho de Boccob  
+**Data:** 03/04/2025  
+**Semana:** 14  
+**Sessão:** S14C (Maia)  
+
+***22 de Fireseek, 999 CY***
+
+---
+## 🗓 Linha Temporal
+| Semana | Data      | Sessão | Nome da Sessão                     |
+|--------|-----------|--------|-------------------------------------|
+| 14     | 03/04/25  | S14C   | O Incêndio Misterioso: O Olho de Boccob |
+
+---
+
+## 📖 Narrativa Completa
+O grupo investiga a loja **O Olho de Boccob**, do gnomo **Thaldrin Voss**, que arde em chamas.  
+
+### O Incêndio
+- Guardas corruptos provocaram o incêndio em nome da Guilda dos Ladrões.  
+- Dois **Elementais de Fogo** libertados de pergaminho atacam.  
+- O grupo derrota-os e salva Thaldrin.  
+
+### Pistas
+- Pano encontrado com cheiro a esgoto e ferrugem → entrada subterrânea.  
+- Nome de **Trixie**, goblin taberneira simpática, é mencionado.  
+- Descobrem que a guilda envolve chantagem, extorsão, assassinos e até membros da guarda.  
+
+### Consequências
+- Investigação pode atrair assassinos.  
+- Trixie pode ser aliada ou alvo involuntário.  
+- Surge a figura de **Org Nenshen, Senhor das Sombras**, como potencial líder da guilda.  
+
+---
+
+## 🎲 Resumo de Acontecimentos
+- Loja incendiada por guardas corruptos.  
+- Combate contra 2 elementais de fogo.  
+- Thaldrin salvo.  
+- Pistas levam aos esgotos e ao nome Trixie.  
+- Guilda estabelecida como ameaça maior.  
+
+---
+
+## 💰 Loot Distribuído
+- Nenhum loot imediato.  
+
+---
+
+## 🧾 Notas Extra
+- PCs: grupo de Maia.  
+- Introduz Thaldrin Voss, Trixie e Org Nenshen.  
+
+
+<!-- ==== S15A_2025-04-10_misterio_dos_espelhos.md ==== -->
+
+# Sessão 15A – O Mistério de Pessegueiro e os Espelhos  
+**Data:** 10/04/2025  
+**Semana:** 15  
+**Sessão:** S15A (Henrique)  
+
+***1 de Readying, 999 CY***
+
+---
+## 🗓 Linha Temporal
+| Semana | Data      | Sessão | Nome da Sessão                     |
+|--------|-----------|--------|-------------------------------------|
+| 15     | 10/04/25  | S15A   | O Mistério de Pessegueiro e os Espelhos |
+
+---
+
+## 📖 Narrativa Completa
+O grupo é contratado pela halfling **Abril** para investigar o desaparecimento da filha **Abigail** na região de Pessegueiro.  
+
+### A Caverna dos Dois Postes
+- Pistas levam à caverna.  
+- Combates contra um gigante de duas cabeças, uma árvore viva e um monstro de pedras.  
+- Descoberta de porta mágica com runas e vento gelado → conduz a masmorra subterrânea.  
+
+### As Masmorras dos Espelhos
+- Abigail é encontrada, mas revela-se um **shapeshifter**.  
+- Enigmas com reflexos e ilusões.  
+- O grupo enfrenta e derrota o BBEG dos espelhos.  
+
+### Conclusão
+- Abigail libertada.  
+- Masmorra colapsa após destruição da magia.  
+- Grupo regressa a Pessegueiro com sucesso.  
+
+---
+
+## 🎲 Resumo de Acontecimentos
+- Missão: resgatar Abigail.  
+- Combates na caverna.  
+- Descoberta de masmorra mágica de espelhos.  
+- Abigail revelada como shapeshifter.  
+- Derrota do BBEG.  
+
+---
+
+## 💰 Loot Distribuído
+- 160 gp por PC.  
+
+---
+
+## 🧾 Notas Extra
+- PCs: Frederick (rogue), Wandering Sage (monk), Gauthak (monk), Eldric (fighter), Silfir (druid).  
+
+
+<!-- ==== S15B_2025-04-10_cetro_de_zan.md ==== -->
+
+# Sessão 15B – O Cetro de Zan e a Ordem Escarlate  
+**Data:** 10/04/2025  
+**Semana:** 15  
+**Sessão:** S15B (Guiné)  
+
+***1 de Readying, 999 CY***
+
+---
+## 🗓 Linha Temporal
+| Semana | Data      | Sessão | Nome da Sessão               |
+|--------|-----------|--------|-------------------------------|
+| 15     | 10/04/25  | S15B   | O Cetro de Zan e a Ordem Escarlate |
+
+---
+
+## 📖 Narrativa Completa
+A Ordem Escarlate realiza procissão pública em Greyhawk, marcada por flagelação e tatuagens rituais em forma de mão.  
+
+### As Ruínas
+- Três encapuçados exploram ruínas da nave caída → encontram pedra verde fluorescente.  
+- O grupo segue as pistas e descobre **Cetro de False Life**.  
+- Maldição: sempre que alguém diz “paladino”, portador deve fazer teste de WIS.  
+
+### Voz de Zan
+- Dustin ouve a voz de **Zan**, deus aprisionado no cetro.  
+- Triss encontra coroa antiga e vende-a.  
+- Descobrem que a mão real de Zan está num templo da Ordem.  
+
+### O Roubo
+- Cetro é roubado a Dustin → acaba nas mãos do taberneiro.  
+- Apesar disso, Dustin continua a ouvir a voz de Zan, que o tenta manipular para vingança.  
+
+### Conclusão
+- Surge notícia de que a mão de Zan foi roubada.  
+- Grupo recebe missão: recuperá-la antes que se complete ritual da Ordem.  
+
+---
+
+## 🎲 Resumo de Acontecimentos
+- Procissão da Ordem Escarlate.  
+- Exploração de ruínas → encontro do Cetro.  
+- Voz de Zan atormenta Dustin.  
+- Cetro roubado → entregue ao taberneiro.  
+- Notícia do roubo da mão → próximo gancho.  
+
+---
+
+## 💰 Loot Distribuído
+- Coroa vendida por Triss (valor não registado).  
+- Cetro de False Life (maldito, mas atualmente com taberneiro).  
+
+---
+
+## 🧾 Notas Extra
+- PCs: Dustin, Triss, Kai, outros.  
+- Estabelece ligação direta entre Dustin e Zan.  
+- Introduz Ordem Escarlate como facção maior.  
+
+
+<!-- ==== S15C_2025-04-10_nova_cidade_base_culto.md ==== -->
+
+# Sessão 15C – O que nos espera a nova cidade  
+**Data:** 10/04/2025  
+**Semana:** 15  
+**Sessão:** S15C (Jota)  
+
+***1 de Readying, 999 CY***
+
+---
+## 🗓 Linha Temporal
+| Semana | Data      | Sessão | Nome da Sessão               |
+|--------|-----------|--------|-------------------------------|
+| 15     | 10/04/25  | S15C   | O que nos espera a nova cidade |
+
+---
+
+## 📖 Narrativa Completa
+Após mudança da taberna, os aventureiros chegam a uma nova cidade, estranha e vibrante.  
+
+### A Taberna e os Anéis
+- Recebem anéis mágicos que os ligam permanentemente à taberna.  
+- Exploram comércio e reencontram itens pessoais.  
+
+### Rumores e Descobertas
+- Rumores de culto do Mal Elemental.  
+- Seguem pistas até uma base secreta nos subterrâneos.  
+
+### Conflito
+- Enfrentam pelotão de cultistas.  
+- Cada PC descobre item ou revelação pessoal:  
+  - Raylahn: boneco mágico que muda sexo.  
+  - Wagner: figura de dragonborn pintada.  
+  - Drayl: revelações ligadas a sonhos.  
+  - Kai: anel com sol diferente do seu.  
+  - Markus: pequena estátua da deusa Nerull.  
+
+### Conclusão
+- Cultistas derrotados, mas a presença do culto na cidade fica clara.  
+
+---
+
+## 🎲 Resumo de Acontecimentos
+- Taberna ganha nova âncora mágica (anéis).  
+- Exploração da cidade.  
+- Base cultista descoberta e atacada.  
+- PCs recebem itens pessoais e revelações.  
+
+---
+
+## 💰 Loot Distribuído
+- Itens mágicos pessoais (listados acima).  
+
+---
+
+## 🧾 Notas Extra
+- PCs: Raylahn, Wagner, Drayl, Kai, Markus.  
+- Liga diretamente a cidade ao culto do Mal Elemental.  
+
+
+<!-- ==== S16_2025-04-17_blank_session.md ==== -->
+
+# Sessão 16 – [Em Branco]  
+**Data:** 17/04/2025  
+**Semana:** 16  
+**Sessão:** S16  
+
+***8 de Readying, 999 CY***
+
+---
+## 🗓 Linha Temporal
+| Semana | Data      | Sessão | Nome da Sessão |
+|--------|-----------|--------|----------------|
+| 16     | 17/04/25  | S16    | [por preencher] |
+
+---
+
+## 📖 Narrativa Completa
+[Sem registo disponível para esta sessão.]
+
+---
+
+## 🎲 Resumo de Acontecimentos
+[Sem registo.]
+
+---
+
+## 💰 Loot Distribuído
+[Nenhum.]
+
+---
+
+## 🧾 Notas Extra
+- Placeholder criado para manter consistência da linha temporal.  
+- Preencher caso surjam notas ou seja reconstruída a sessão.  
+
+
+<!-- ==== S17A_2025-04-24_nova_cidade_parte2.md ==== -->
+
+# Sessão 17A – O que nos espera a nova cidade (Parte 2)  
+**Data:** 24/04/2025  
+**Semana:** 17  
+**Sessão:** S17A (Jota)  
+
+***15 de Readying, 999 CY***
+
+---
+## 🗓 Linha Temporal
+| Semana | Data      | Sessão | Nome da Sessão                       |
+|--------|-----------|--------|---------------------------------------|
+| 17     | 24/04/25  | S17A   | O que nos espera a nova cidade (Parte 2) |
+
+---
+
+## 📖 Narrativa Completa
+Dando continuidade à semana anterior, o grupo continua a explorar a nova cidade e a enfrentar as suas intrigas.  
+
+### O Contacto
+- São abordados pelos **assassinos**, que lhes propõem uma missão.  
+- A presença da guilda de assassinos é confirmada como força atuante na cidade.  
+
+### A Exploração
+- Ao longo da sessão, encontram figuras que reconhecem como ligadas ao **culto do Mal Elemental**.  
+- Se os seguirem, descobrem uma **pequena base secreta** — antiga mas recentemente ocupada.  
+
+### Conflito
+- Combate contra pelotão de cultistas na base.  
+- Encontro aleatório possível com guardas, ladrões, cultistas ou assassinos, dependendo da rota escolhida:  
+  - Guardas: *Guard Captain, Warrior Veteran, Scout Captain, Knight*.  
+  - Ladrões: *Bandit Deceiver, Bandit Captain, Bandit*.  
+  - Culto: *Mage, Vampire Spawn, Vampire Familiar ou Cultist Fanatic, Mage Apprentice*.  
+  - Assassinos: *Assassin, 2 Spies*.  
+
+### Conclusão
+- A ameaça do culto cresce.  
+- Ligações com assassinos abrem novos caminhos narrativos.  
+- A cidade revela-se mais perigosa e complexa do que parecia.  
+
+---
+
+## 🎲 Resumo de Acontecimentos
+- Contacto direto com assassinos.  
+- Investigação de culto leva a base secreta.  
+- Combate contra pelotão de cultistas.  
+- Possibilidade de encontros com várias facções.  
+
+---
+
+## 💰 Loot Distribuído
+- Não especificado no resumo original.  
+
+---
+
+## 🧾 Notas Extra
+- PCs: Raylahn, Wagner, Drayl, Kai, Markus.  
+- Continuação direta de **S15C (nova cidade, 10/04/2025)**.  
+- “Palavra paladino” continua a ter efeitos mágicos (gag running e maldição).  
+
+
+<!-- ==== S17B_2025-04-24_a_crianca_perdida.md ==== -->
+
+# Sessão 17B – A Criança Perdida  
+**Data:** 24/04/2025  
+**Semana:** 17  
+**Sessão:** S17B (Missão de Aria Greenbottle)  
+
+***15 de Readying, 999 CY***
+
+---
+## 🗓 Linha Temporal
+| Semana | Data      | Sessão | Nome da Sessão     |
+|--------|-----------|--------|--------------------|
+| 17     | 24/04/25  | S17B   | A Criança Perdida  |
+
+---
+
+## 📖 Narrativa Completa
+O grupo foi contratado para encontrar **Aria Greenbottle**, uma criança halfling desaparecida.  
+
+### A Aldeia
+- Os PCs chegam a uma pequena aldeia marcada por desaparecimentos recentes.  
+- Os habitantes falam de estranhos sussurros vindos do bosque próximo.  
+
+### A Busca
+- O grupo segue pistas até uma cabana abandonada, onde encontram pertences de Aria.  
+- Pegadas levam-nos até uma clareira com marcas de ritual.  
+
+### O Confronto
+- Descobrem que a criança foi levada por criaturas das sombras.  
+- Luta contra espectros e um feiticeiro menor ligado ao **Culto do Mal Elemental**.  
+- Durante o combate, os PCs conseguem libertar Aria, ainda viva mas traumatizada.  
+
+### Conclusão
+- Aria é salva e devolvida à família.  
+- A aldeia presta homenagem ao grupo.  
+- Os sussurros do bosque permanecem, sugerindo que a ameaça não terminou.  
+
+---
+
+## 🎲 Resumo de Acontecimentos
+- Missão: resgatar Aria Greenbottle.  
+- Aldeia assolada por desaparecimentos.  
+- Investigação leva a cabana e ritual nas clareiras.  
+- Confronto com espectros e cultista.  
+- Aria salva → aldeia protegida (temporariamente).  
+
+---
+
+## 💰 Loot Distribuído
+- 50 gp como recompensa da aldeia.  
+- Amuleto menor de proteção (entregue a um dos PCs).  
+
+---
+
+## 🧾 Notas Extra
+- PCs: [nomes não especificados no ficheiro original].  
+- Aria Greenbottle poderá regressar mais tarde como NPC recorrente.  
+- Culto do Mal Elemental mais uma vez insinuado.  
+
+
+<!-- ==== S18_2025-05-01_blank_session.md ==== -->
+
+# Sessão 18 – [Em Branco]  
+**Data:** 01/05/2025  
+**Semana:** 18  
+**Sessão:** S18  
+
+***22 de Readying, 999 CY***
+
+---
+## 🗓 Linha Temporal
+| Semana | Data      | Sessão | Nome da Sessão |
+|--------|-----------|--------|----------------|
+| 18     | 01/05/25  | S18    | [por preencher] |
+
+---
+
+## 📖 Narrativa Completa
+[Sem registo disponível.]
+
+---
+
+## 🎲 Resumo de Acontecimentos
+[Sem registo.]
+
+---
+
+## 💰 Loot Distribuído
+[Nenhum.]
+
+---
+
+## 🧾 Notas Extra
+- Placeholder criado para manter consistência temporal.
+
+
+<!-- ==== S19_2025-05-08_blank_session.md ==== -->
+
+# Sessão 19 – [Em Branco]  
+**Data:** 08/05/2025  
+**Semana:** 19  
+**Sessão:** S19  
+
+***1 de Coldeven, 999 CY***
+
+---
+## 🗓 Linha Temporal
+| Semana | Data      | Sessão | Nome da Sessão |
+|--------|-----------|--------|----------------|
+| 19     | 08/05/25  | S19    | [por preencher] |
+
+---
+
+## 📖 Narrativa Completa
+[Sem registo disponível.]
+
+---
+
+## 🎲 Resumo de Acontecimentos
+[Sem registo.]
+
+---
+
+## 💰 Loot Distribuído
+[Nenhum.]
+
+---
+
+## 🧾 Notas Extra
+- Placeholder criado para manter consistência temporal.
+
+
+<!-- ==== S20_2025-05-15_blank_session.md ==== -->
+
+# Sessão 20 – [Em Branco]  
+**Data:** 15/05/2025  
+**Semana:** 20
+**Sessão:** S20
+
+***8 de Coldeven, 999 CY***
+
+---
+## 🗓 Linha Temporal
+| Semana | Data     | Sessão | Nome da Sessão  |
+| ------ | -------- | ------ | --------------- |
+| 20     | 15/05/25 | S20    | [por preencher] |
+
+---
+
+## 📖 Narrativa Completa
+[Sem registo disponível.]
+
+---
+
+## 🎲 Resumo de Acontecimentos
+[Sem registo.]
+
+---
+
+## 💰 Loot Distribuído
+[Nenhum.]
+
+---
+
+## 🧾 Notas Extra
+- Placeholder criado para manter consistência temporal.
+
+
+<!-- ==== S21_2025-05-22_a_sombra_do_tempo_perdido.md ==== -->
+
+# Sessão 21 – A Sombra do Tempo Perdido  
+**Data:** 22/05/2025  
+**Semana:** 21  
+**Sessão:** S21 (One-Shot de Dustin e Pryssana)  
+
+***15 de Coldeven, 999 CY***
+
+---
+## 🗓 Linha Temporal
+| Semana | Data     | Sessão | Nome da Sessão            |
+| ------ | -------- | ------ | ------------------------- |
+| 21     | 22/05/25 | S21    | A Sombra do Tempo Perdido |
+
+---
+
+## 📖 Narrativa Completa
+
+### O Ritual com Pryssana
+- Dustin realiza ritual na sua sala: tigela com água, velas, imagem de **Pryssana** aparece.  
+- Ela revela: só um **corno de unicórnio** pode servir de material para a sua espada.  
+- Condição: não ferir o unicórnio; apenas uma alma pura pode recolher o corno, que cairá sem dor.  
+- Localização: **Vale de Lytharien**, onde tribo de kobolds venera o unicórnio como deus.  
+
+### Vale de Lytharien
+- Anfiteatro natural com cascata, lago cristalino, ruínas antigas e totens tribais.  
+- O unicórnio repousa junto ao lago, cercado por kobolds em oração.  
+- O templo em ruínas domina a paisagem.  
+
+### Os Guardiões
+- Kobolds tribais pintados com símbolos rituais.  
+- **Kobold Shaman** com elmo de caveira de veado e bastão com sinos.  
+- **Kobold Guardião Ancião**, líder guerreiro, veste armadura cerimonial e máscara de dragão.  
+
+### O Encontro
+- Ao aproximarem-se, os kobolds formam barreira em meia-lua.  
+- Shaman avisa em dracónico, vendo intrusos como profanadores.  
+- O Guardião Ancião fixa Dustin com olhar de desafio.  
+
+### Combate: Defesa do Ritual
+- PCs devem proteger a personagem pura que realiza o ritual.  
+- Kobolds tentam interromper ou capturar o devoto.  
+- Terreno: colunas partidas, totens e lago central (terreno difícil).  
+
+### O Ritual
+- Exige **Animal Handling DC 15**, 3 turnos de concentração sem interrupção.  
+- Se bem-sucedido:  
+  - O corno desprende-se suavemente, levita até ao devoto.  
+  - O unicórnio beija-lhe a testa, aceitando o sacrifício voluntário.  
+- Se falharem:  
+  - Unicórnio desaparece num clarão.  
+  - Titania amaldiçoa o grupo (desvantagem com fey, azar leve).  
+
+### Epílogo
+- Dustin regressa e repete o ritual da tigela.  
+- Pryssana aparece de novo:  
+  - “Conseguiste, sem mácula. O corno veio até ti por respeito.”  
+  - “A tua espada será mais que uma arma, será um símbolo.”  
+  - “Quando o teu juramento for posto à prova, lembra-te da bênção de um deus.”  
+
+---
+
+## 🎲 Resumo de Acontecimentos
+- Ritual com Pryssana → missão pelo corno de unicórnio.  
+- Vale de Lytharien descrito.  
+- Confronto com kobolds tribais.  
+- Ritual concluído com sucesso (se cumpridas condições).  
+- Dustin regressa com bênção e material para espada.  
+
+---
+
+## 💰 Loot Distribuído
+- **Corno Sagrado do Unicórnio** (material forjável em espada +2):  
+  - +1d4 radiant contra undead e fiends.  
+  - 1x/dia: *Detect Evil and Good*.  
+- **Bênção de Titania**: vantagem em testes de Carisma com fey e animais por 30 dias.  
+- Luz natural acompanha discretamente o portador.  
+
+---
+
+## 🧾 Notas Extra
+- One-shot focada em Dustin e Pryssana.  
+- Conexão direta com Titania estabelecida.  
+- Possíveis repercussões futuras: Titania atenta às ações do grupo.  
+
+
+<!-- ==== S22_2025-05-29_casino_heist_parte1.md ==== -->
+
+# Sessão 22 – O Golpe dos Dados Rubi (Parte 1)  
+**Data:** 29/05/2025  
+**Semana:** 22  
+**Sessão:** S22 
+
+***22 de Coldeven, 999 CY***
+
+---
+## 🗓 Linha Temporal
+| Semana | Data     | Sessão | Nome da Sessão                   |
+| ------ | -------- | ------ | -------------------------------- |
+| 22     | 29/05/25 | S22    | O Golpe dos Dados Rubi (Parte 1) |
+
+---
+
+## 📖 Narrativa Completa
+O grupo recebe a missão através de um **pergaminho mágico**, contratados para recuperar os **Dados Rubi da Fortuna**.
+
+### O Armazém Hexagonal
+- Seis selos mágicos, cada um com um puzzle diferente.  
+- Puzzles exigem colaboração: testes de perícias, ilusões e memórias do passado.  
+- Três enigmas são resolvidos, abrindo caminho para o passo seguinte.  
+
+### Chegada ao Cassino
+- Infiltram-se no cassino **“O Quinto Jogo”**.  
+- Disfarces e diplomacia usados para se misturarem entre os jogadores.  
+- Interações com figuras suspeitas, incluindo **Velric “Veludo” Dazzlehand** e o porteiro **Big Lou**.  
+- Cena social intensa com jogadas de risco e vigilância mágica.  
+
+### Cliffhanger
+- Recebem carta de **Lorde Aleister Devraine**, sugerindo encontro e instruções secretas.  
+- Sessão termina antes da primeira exploração profunda do cofre.  
+
+---
+
+## 🎲 Resumo de Acontecimentos
+- Contrato mágico recebido.  
+- Puzzles do Armazém Hexagonal resolvidos.  
+- Entrada no cassino e primeira socialização.  
+- Carta de Lorde Devraine recebida.  
+
+---
+
+## 💰 Loot Distribuído
+- Nenhum ainda (fase de infiltração).  
+
+---
+
+## 🧾 Notas Extra
+- PCs: Ustrax, Markus Grimm, Wandering Sage, Bok Thunderfist, Conan, Valto.  
+- NPCs: Drennar Solace, Velric Dazzlehand, Big Lou, Lorde Aleister Devraine.  
+- O teste do Armazém é entendido como “exame de entrada” de Drennar Solace.  
+
+
+<!-- ==== S23_2025-06-05_casino_heist_parte2.md ==== -->
+
+# Sessão 23 – O Golpe dos Dados Rubi (Parte 2)  
+**Data:** 05/06/2025  
+**Semana:** 23  
+**Sessão:** S23 
+
+1 de Planting, 999 CY***
+
+---
+## 🗓 Linha Temporal
+| Semana | Data     | Sessão | Nome da Sessão                   |
+| ------ | -------- | ------ | -------------------------------- |
+| 23     | 05/06/25 | S23    | O Golpe dos Dados Rubi (Parte 2) |
+
+---
+
+## 📖 Narrativa Completa
+Retomando após o encontro com Lorde Devraine, o grupo continua a missão de recuperar os Dados Rubi.  
+
+### Instruções Secretas
+- Lorde Devraine fornece uma rota escondida para áreas restritas.  
+- Indica a existência de cofres protegidos por múltiplas defesas.  
+
+### Sala do Cavaleiro
+- Puzzle de xadrez com movimento de cavaleiro.  
+- Torres animadas atacam intrusos que falham.  
+- O grupo encontra solução e atravessa a sala.  
+
+### Sala do Cofre
+- Três trancas:  
+  - **Mecânica:** fechadura física complexa.  
+  - **Mágica:** selo arcano colocado por Sirona da Agulha Velada.  
+  - **Moral:** a intenção do portador testada pelos próprios Dados.  
+- Ao tocar nos Dados Rubi, os PCs provam sua pureza (ou ambição).  
+
+### A Extração
+- Fragmento arcano entregue a Lorde Devraine.  
+- Dados Rubi entregues ao contratante misterioso.  
+- Grupo foge usando distrações mágicas e rota secreta.  
+
+### Conclusão
+- Reputação do grupo no submundo aumenta.  
+- O cassino continua operacional, mas em alerta máximo.  
+
+---
+
+## 🎲 Resumo de Acontecimentos
+- Rota secreta de Lorde Devraine.  
+- Puzzle da Sala do Cavaleiro superado.  
+- Cofre aberto com três camadas de defesa.  
+- Fragmento entregue ao lorde; dados ao contratante.  
+- Fuga bem-sucedida.  
+
+---
+
+## 💰 Loot Distribuído
+- Reputação no submundo (recompensa narrativa).  
+- Possível pagamento secreto pelo contratante (não especificado).  
+
+---
+
+## 🧾 Notas Extra
+- NPCs relevantes: Lorde Aleister Devraine, Sirona da Agulha Velada, Luckkeepers (autómatos arcanos).  
+- Drennar Solace confirma-se como avaliador do grupo, não dono do cassino.  
+
+
+<!-- ==== S24_2025-06-12_blank_session.md.md ==== -->
+
+# Sessão 24 – [Em Branco]  
+**Data:** 12/06/2025  
+**Semana:** 24  
+**Sessão:** S24  
+
+***8 de Planting, 999 CY***
+
+---
+## 🗓 Linha Temporal
+| Semana | Data     | Sessão | Nome da Sessão  |
+| ------ | -------- | ------ | --------------- |
+| 24     | 12/06/25 | S24    | [por preencher] |
+
+---
+
+## 📖 Narrativa Completa
+[Sem registo disponível.]
+
+---
+
+## 🎲 Resumo de Acontecimentos
+[Sem registo.]
+
+---
+
+## 💰 Loot Distribuído
+[Nenhum.]
+
+---
+
+## 🧾 Notas Extra
+- Placeholder criado para manter consistência temporal.
+
+
+<!-- ==== S25_2025-06-19_sociedade_dos_ratos_sedentos.md ==== -->
+
+# Sessão 25 – A Sociedade dos Ratos Sedentos  
+**Data:** 19/06/2025  
+**Semana:** 25  
+**Sessão:** S25
+
+***15 de Planting, 999 CY***
+
+---
+## 🗓 Linha Temporal
+| Semana | Data     | Sessão | Nome da Sessão                 |
+| ------ | -------- | ------ | ------------------------------ |
+| 25     | 19/06/25 | S25    | A Sociedade dos Ratos Sedentos |
+
+---
+
+## 📖 Narrativa Completa
+O grupo foi atraído por rumores de desaparecimentos nos esgotos de Greyhawk.  
+Ao investigar, descobre uma facção degenerada de ratfolk conhecida como **Sociedade dos Ratos Sedentos**.
+
+### Descobertas
+- Esgotos infestados de ninhos de ratos mutantes.  
+- Cultistas ratfolk realizavam rituais obscuros com sangue humano.  
+- Confronto direto revela híbridos meio-humanos, meio-rato.  
+
+### Combate Final
+- Líder da seita, o **Profeta Rato**, com poderes de necromancia.  
+- Grupo enfrenta enxames, cultistas e magia profana.  
+- Vitória alcançada com esforço, mas revelações perturbadoras:  
+  - A sociedade estava ligada a um culto maior subterrâneo.  
+  - Alguém de fora financiava as operações.  
+
+### Conclusão
+- Núcleo da seita destruído.  
+- Reputação dos aventureiros em Greyhawk cresce.  
+- Mistério permanece sobre quem controlava os ratos.  
+
+---
+
+## 🎲 Resumo de Acontecimentos
+- Investigações nos esgotos de Greyhawk.  
+- Descoberta da Sociedade dos Ratos Sedentos.  
+- Combate contra ratfolk e híbridos.  
+- Profeta Rato derrotado.  
+- Ligações a um culto maior sugeridas.  
+
+---
+
+## 💰 Loot Distribuído
+- Tomo profano (queimada depois).  
+- 120 gp em objetos roubados.  
+- Adaga ritual.  
+
+---
+
+## 🧾 Notas Extra
+- PCs: [não listados nos registos].  
+- Introduz culto subterrâneo que poderá ligar-se à Guilda dos Assassinos.  
+
+
+<!-- ==== S26_2025-06-26_blank_session.md ==== -->
+
+# Sessão 26 – [Em Branco]  
+**Data:** 26/06/2025  
+**Semana:** 26  
+**Sessão:** S26  
+
+***22 de Planting, 999 CY***
+
+---
+## 🗓 Linha Temporal
+| Semana | Data      | Sessão | Nome da Sessão |
+|--------|-----------|--------|----------------|
+| 26     | 26/06/25  | S26    | [por preencher] |
+
+---
+
+## 📖 Narrativa Completa
+[Sem registo disponível.]
+
+---
+
+## 🎲 Resumo de Acontecimentos
+[Sem registo.]
+
+---
+
+## 💰 Loot Distribuído
+[Nenhum.]
+
+---
+
+## 🧾 Notas Extra
+- Placeholder criado para manter consistência temporal.
+
+
+<!-- ==== S27_2025-07-03_blank_session.md ==== -->
+
+# Sessão 27 – [Em Branco]  
+**Data:** 03/07/2025  
+**Semana:** 27 
+**Sessão:** S27 
+
+***1 de Flocktime, 999 CY***
+
+---
+## 🗓 Linha Temporal
+| Semana | Data      | Sessão | Nome da Sessão |
+|--------|-----------|--------|----------------|
+| 26     | 26/06/25  | S26    | [por preencher] |
+
+---
+
+## 📖 Narrativa Completa
+[Sem registo disponível.]
+
+---
+
+## 🎲 Resumo de Acontecimentos
+[Sem registo.]
+
+---
+
+## 💰 Loot Distribuído
+[Nenhum.]
+
+---
+
+## 🧾 Notas Extra
+- Placeholder criado para manter consistência temporal.
+
+
+<!-- ==== S28_2025-07-10_museu_das_maravilhas.md ==== -->
+
+# Sessão 28 – O Museu das Maravilhas Naturais e Arcanas  
+**Data:** 10/07/2025  
+**Semana:** 28  
+**Sessão:** S28 (DM: André Maia)  
+
+***8 de Flocktime, 999 CY***
+
+---
+## 🗓 Linha Temporal
+| Semana | Data     | Sessão | Nome da Sessão                            |
+| ------ | -------- | ------ | ----------------------------------------- |
+| 28     | 10/07/25 | S28    | O Museu das Maravilhas Naturais e Arcanas |
+
+---
+
+## 📖 Narrativa Completa
+
+### Introdução
+- **Leo** (humano druida lvl 4), **Zahel** (verdan clérigo lvl 4) e **Ulma** (meio-orc bárbara lvl 3).  
+- Cena inicial em Greyhawk:  
+  - Leo cuida de pombos contra aves de rapina.  
+  - Zahel esculpe talismã rudimentar para o seu deus.  
+  - Ulma faz exercício, cruza-se com os dois.  
+
+### O Convite Misterioso
+- Homem de cartola e paletó (Darsen) convida-os ao **Museu das Maravilhas Naturais e Arcanas**.  
+- Bilhetes mágicos falam: “Convite VIP! Aguente uma noite e saia rico! Ou com vida!”  
+- Uma coruja transforma-se em humanóide (wild shape?) e desaparece.  
+- Ulma hesita, mas aceita para proteger os outros.  
+
+### O Museu
+- Localizado no **Garden Quarter**, edifício gótico com vitrais, gárgulas e sinais de decadência.  
+- Recebidos por **robô num monociclo**, que recolhe bilhetes e guia visita.  
+- **Primeira sala**: criaturas embalsamadas (grifos, orcs, mind flayer, etc.), retratos cujos olhos seguem o grupo.  
+- **Segunda sala**: armas e armaduras mágicas, incluindo espada anti-orc (“Ferrão”) e machado (“Gorefien”).  
+
+### Descobertas
+- Leo sente-se mal com a visão de tantos animais mortos.  
+- Ulma descobre que as portas estão seladas magicamente; vozes do teto avisam para não sair.  
+- Zahel encontra pergaminho com versão distorcida de *Branca de Neve*.  
+- Ulma comunica por papel com Zahel e Leo, mas o robô suspeita.  
+
+### O Gnomo
+- Ulma encontra **gnomo escondido** dentro de armadura:  
+  - Está preso há uma semana.  
+  - Companheiros (incl. mind flayer) mortos e embalsamados.  
+  - O homem da cartola (Darsen) transforma visitantes em exposições.  
+  - Robôs são os vigias do museu.  
+
+### Combate contra os Robôs
+- Ulma ataca um robô; capa herdada dos pais é destruída pelo fogo.  
+- Robôs usam gás paralisante e eletricidade; vulneráveis a água.  
+- Leo em forma de urso.  
+- Ulma salva Zahel paralisado.  
+- Gnomo ajuda com ataques mágicos (projéteis de fogo), destruindo robô final.  
+- Ulma encontra capa preta com brasão da **Casa Darman** (reino de vampiros).  
+
+### Refúgio nas Ventilações
+- Gnomo guia-os até sistema de ventilação.  
+- Ossos e restos de criaturas espalhados.  
+- Familiar de Leo morre em armadilha.  
+
+### O Mimic
+- Durante tentativa de descanso, são atacados por **baú mimic kinky**.  
+- Ulma vomita dentro do mimic (ele aprecia!).  
+- Mimic rende-se e transforma-se em estátua de elfo com bandeira branca.  
+- Grupo confuso sobre intenções da criatura.  
+
+---
+
+## 🎲 Resumo de Acontecimentos
+- Trio recebe convites mágicos para museu sinistro.  
+- Visita guiada revela criaturas embalsamadas e armas mágicas.  
+- Gnomo sobrevivente alerta para plano de Darsen.  
+- Luta contra robôs vigias.  
+- Descoberta da capa da Casa Darman.  
+- Refúgio interrompido por mimic bizarro que pede paz.  
+
+---
+
+## 💰 Loot Distribuído
+- Capa preta da **Casa Darman** (ligada a reinos de vampiros).  
+- Capacete da armadura onde gnomo se escondia.  
+
+---
+
+## 🧾 Notas Extra
+- PCs: Leo, Zahel, Ulma.  
+- NPCs: Darsen (homem da cartola), gnomo sobrevivente, robôs vigias, mimic.  
+- Museu está em **Garden Quarter, Greyhawk**.  
+- Sessão terminou em situação de tensão, sem saída clara do museu.  
+
+
+<!-- ==== S29A_2025-07-17_museu_parte_final.md ==== -->
+
+# Sessão 29 – Museu das Maravilhas Naturais e Arcanas (Parte Final)  
+**Data:** 17/07/2025  
+**Semana:** 28  
+**Sessão:** S28A (DM: André Maia)  
+
+***15 de Flocktime, 999 CY***
+
+---
+## 🗓 Linha Temporal
+| Semana | Data     | Sessão | Nome da Sessão                                  |
+| ------ | -------- | ------ | ----------------------------------------------- |
+| 29     | 17/07/25 | S29A   | Museu das Maravilhas Naturais e Arcanas (Final) |
+
+---
+
+## 📖 Narrativa Completa
+
+### Novas Entradas
+- **Eirwen** junta-se ao grupo (Leo, Ulma, Zahel).  
+- **Zahel** desaparece misteriosamente, arrastado por forças invisíveis.  
+
+### O Museu Corrompido
+- Continuam a exploração do museu, agora mais hostil.  
+- Corredores mudam de posição, portas levam a salas deslocadas.  
+- Descobrem câmaras com esqueletos, restos de visitantes anteriores.  
+
+### Encontros e Combates
+- Luta contra **mezzoloth** invocado como guardião.  
+- Robôs voltam a atacar, agora com reforço de defesas elétricas.  
+- Grupo encontra salas com exibições de animais vivos em jaulas — alguns suplicam libertação.  
+
+### O Curador
+- **Darsen**, o homem da cartola, revela-se como “curador” do museu.  
+- Na verdade, é hospedeiro de entidade demoníaca.  
+- Ao ser confrontado, transforma-se em monstro deformado, usando magia e invocando servos.  
+
+### O Combate Final
+- Grupo luta contra Darsen possuído + robôs.  
+- Leo em forma selvagem ataca de frente, Ulma resiste apesar dos ferimentos, Eirwen canaliza poderes feéricos.  
+- Darsen é derrotado, mas da sua cabeça emerge um **Abyssal Skull**, rindo e desaparecendo em fenda planar.  
+
+### Conclusão
+- O museu colapsa parcialmente.  
+- Sobreviventes escapam com feridas graves, mas com novos segredos:  
+  - **Capa da Casa Darman** sugere ligações vampíricas.  
+  - O Abyssal Skull pode regressar como inimigo futuro.  
+
+---
+
+## 🎲 Resumo de Acontecimentos
+- Eirwen junta-se, Zahel desaparece.  
+- Museu torna-se ainda mais distorcido.  
+- Combate contra mezzoloth e robôs.  
+- Darsen revela-se hospedeiro demoníaco.  
+- Boss fight: Darsen possuído + robôs.  
+- Abyssal Skull surge e escapa.  
+
+---
+
+## 💰 Loot Distribuído
+- Fragmentos arcanos recolhidos (valor não especificado).  
+- Mantêm capa da Casa Darman (loot de sessão anterior).  
+
+---
+
+## 🧾 Notas Extra
+- PCs: Leo, Ulma, Eirwen (Zahel desaparecido).  
+- NPCs: Darsen (curador possuído), robôs vigias, mezzoloth, Abyssal Skull.  
+- Final do arco do Museu.  
+
+
+<!-- ==== S29B_2025-07-17_idolo_de_lady_scale_parte1-.md ==== -->
+
+# Sessão 29 – O Ídolo de Lady Scale (Parte 1)  
+**Data:** 17/07/2025  
+**Semana:** 28  
+**Sessão:** S28  
+
+***15 de Flocktime, 999 CY***
+
+---
+## 🗓 Linha Temporal
+| Semana | Data     | Sessão | Nome da Sessão                  |
+| ------ | -------- | ------ | ------------------------------- |
+| 29     | 17/07/25 | S29B   | O Ídolo de Lady Scale (Parte 1) |
+
+---
+
+## 📖 Narrativa Completa
+O grupo (Eldric, Silfir, Bok) encontra **Lady Silvra**, que os alerta para movimentações de cultistas de Lady Scale.  
+
+### Emboscada Goblin
+- No caminho para o templo, são atacados por goblins emboscados.  
+- Vitória rápida, mas sinais de corrupção dracónica nos corpos.  
+
+### Primeiros Sinais
+- Aldeia abandonada com símbolos reptilianos.  
+- Testemunhos falam de “sacrifícios à Senhora Escamada”.  
+- Seguem pistas até ao sopé da montanha.  
+
+### Conclusão
+- Rumores confirmam a existência de templo ativo.  
+- Grupo prepara-se para entrar nas terras da deusa dracónica.  
+
+---
+
+## 🎲 Resumo de Acontecimentos
+- Encontram Lady Silvra.  
+- Emboscada goblin derrotada.  
+- Aldeia abandonada investigada.  
+- Pistas levam ao templo.  
+
+---
+
+## 💰 Loot Distribuído
+- Armas goblin.  
+- 50 gp em bugigangas.  
+
+---
+
+## 🧾 Notas Extra
+- PCs: Eldric, Silfir, Bok.  
+- NPC: Lady Silvra.  
+
+
+<!-- ==== S29B_2025-07-17_idolo_de_lady_scale_parte1.md ==== -->
+
+# Sessão 29 – Museu das Maravilhas Naturais e Arcanas (Final)
+**Data:** 17/07/2025  
+**Semana:** 29 
+**Sessão:** S29B (DM: Carlos Monteiro)  
+
+***15 de Flocktime, 999 CY***
+
+---
+## 🗓 Linha Temporal
+| Semana | Data     | Sessão | Nome da Sessão                  |
+| ------ | -------- | ------ | ------------------------------- |
+| 29     | 17/07/25 | S29A   | O Ídolo de Lady Scale (Parte 1) |
+
+---
+
+## 📖 Narrativa Completa
+
+O grupo (Eldric, Silfir, Bok) encontra **Lady Silvra**, que os alerta para movimentações de cultistas de Lady Scale.
+
+###Emboscada Goblin¶
+
+- No caminho para o templo, são atacados por goblins emboscados.
+- Vitória rápida, mas sinais de corrupção dracónica nos corpos.
+
+###Primeiros Sinais¶
+
+-Aldeia abandonada com símbolos reptilianos.
+-Testemunhos falam de “sacrifícios à Senhora Escamada”.
+- Seguem pistas até ao sopé da montanha.
+
+###Conclusão¶
+
+- Rumores confirmam a existência de templo ativo.
+- Grupo prepara-se para entrar nas terras da deusa dracónica.
+
+
+
+---
+
+## 🎲 Resumo de Acontecimentos
+
+- Encontram Lady Silvra.
+- Emboscada goblin derrotada.
+- Aldeia abandonada investigada.
+- Pistas levam ao templo.
+
+
+---
+
+## 💰 Loot Distribuído
+
+- Armas goblin.
+- 50 gp em bugigangas.
+
+
+---
+
+## 🧾 Notas Extra
+
+- PCs: Eldric, Silfir, Bok.
+- NPC: Lady Silvra.
+
+
+
+<!-- ==== S30A_2025-07-24_idolo_de_lady_scale_parte2.md ==== -->
+
+# Sessão 30 – O Ídolo de Lady Scale (Parte 2)  
+**Data:** 24/07/2025  
+**Semana:** 30  
+**Sessão:** S30 
+
+***22 de Flocktime, 999 CY***
+
+---
+## 🗓 Linha Temporal
+| Semana | Data     | Sessão | Nome da Sessão                  |
+| ------ | -------- | ------ | ------------------------------- |
+| 30     | 24/07/25 | S30A   | O Ídolo de Lady Scale (Parte 2) |
+
+---
+
+## 📖 Narrativa Completa
+Reforçados por **Wandering Sage**, o grupo prossegue a missão.  
+
+### Diplomacia com os Lizardfolk
+- Encontram tribo de lizardfolk junto ao pântano.  
+- Negociação difícil, mas Sage garante tréguas temporárias.  
+- Descobrem que parte dos lizardfolk está subjugada pela fé em Lady Scale.  
+
+### Aproximação ao Templo
+- Passagens subterrâneas cheias de armadilhas.  
+- Enfrentam guardas reptilianos e magias elementais.  
+- Vislumbram a primeira imagem do ídolo negro.  
+
+### Conclusão
+- Grupo entende que o templo é fortaleza ativa.  
+- Planos feitos para atacar diretamente o ídolo.  
+
+---
+
+## 🎲 Resumo de Acontecimentos
+- Sage junta-se ao grupo.  
+- Diplomacia com lizardfolk.  
+- Avanço por túneis armadilhados.  
+- Primeiro contacto com o ídolo.  
+
+---
+
+## 💰 Loot Distribuído
+- Armas reptilianas.  
+- Amuletos dracónicos (sem valor mágico).  
+
+---
+
+## 🧾 Notas Extra
+- PCs: Eldric, Silfir, Bok, Wandering Sage.  
+- NPCs: Líder lizardfolk, cultistas reptilianos.  
+
+
+<!-- ==== S30B_2025-07-24_as_orquideas_negras.md ==== -->
+
+# Sessão 30B – As Orquídeas Negras  
+**Data:** 24/07/2025  
+**Semana:** 30  
+**Sessão:** S30B  
+
+***22 de Flocktime, 999 CY***
+
+---
+## 🗓 Linha Temporal
+| Semana | Data     | Sessão | Nome da Sessão      |
+| ------ | -------- | ------ | ------------------- |
+| 30     | 24/07/25 | S30B   | As Orquídeas Negras |
+
+---
+
+## 📖 Narrativa Completa
+O grupo é contratado para investigar estranhos desaparecimentos nos esgotos de Greyhawk.  
+
+### A Exploração
+- Avançam por galerias fétidas cheias de armadilhas improvisadas.  
+- Enfrentam bandidos que se identificam como “piratas urbanos”.  
+- Capturam prisioneiros, mas descobrem que eram filhos de um nobre local.  
+
+### O Segredo das Orquídeas
+- Nos esgotos encontram estufa clandestina: orquídeas negras cultivadas magicamente.  
+- Descobrem que as flores produzem narcótico raro, usado em rituais.  
+- Indícios apontam para ligação com guildas criminosas.  
+
+### Conclusão
+- Os jovens são libertados para evitar escândalo público.  
+- Taberna recebe paga extra pela descrição do esconderijo.  
+- Orquídeas queimadas para não cair em mãos erradas.  
+
+---
+
+## 🎲 Resumo de Acontecimentos
+- Investigações nos esgotos.  
+- Encontro com “piratas” → filhos de nobre.  
+- Estufa de orquídeas negras descoberta.  
+- Flores destruídas.  
+
+---
+
+## 💰 Loot Distribuído
+- 200 gp de recompensa do nobre.  
+- Poções menores encontradas na estufa.  
+
+---
+
+## 🧾 Notas Extra
+- PCs: [não listados no resumo].  
+- Introdução de guildas narcóticas como nova ameaça em Greyhawk.  
+
+
+<!-- ==== S30C_2025-07-24_o_misterio_de_kas_kardwall.md ==== -->
+
+# Sessão 30C – O Mistério de Kas Kardwall  
+**Data:** 24/07/2025  
+**Semana:** 30  
+**Sessão:** S30C  
+
+***22 de Flocktime, 999 CY***
+
+---
+## 🗓 Linha Temporal
+| Semana | Data     | Sessão | Nome da Sessão             |
+| ------ | -------- | ------ | -------------------------- |
+| 30     | 24/07/25 | S30C   | O Mistério de Kas Kardwall |
+
+---
+
+## 📖 Narrativa Completa
+O grupo é convidado para jantar no famoso restaurante de peixe do **River Quarter**, propriedade de **Kas Kardwall**.  
+
+### O Banquete
+- Refeição luxuosa, mas logo estranhamente encantada.  
+- Pratos começam a mover-se sozinhos, criaturas formam-se a partir da comida.  
+
+### O Confronto
+- Combate contra criaturas de peixe animadas.  
+- Descobrem runas escondidas sob as mesas, ativadas por magia antiga.  
+- Kas Kardwall revela-se aliado involuntário: restaurante estava amaldiçoado.  
+
+### A Sea Hag
+- A origem da maldição é uma **Sea Hag** que opera nos esgotos fluviais.  
+- Batalha intensa termina com a criatura derrotada.  
+- Amaldiçoado de Kas é levantado.  
+
+### Conclusão
+- Restaurante salvo, reputação da taberna cresce.  
+- Grupo recompensado com jantar vitalício no Kardwall’s.  
+
+---
+
+## 🎲 Resumo de Acontecimentos
+- Banquete amaldiçoado no River Quarter.  
+- Pratos animados tornam-se monstros.  
+- Sea Hag identificada como culpada.  
+- Maldição levantada, restaurante salvo.  
+
+---
+
+## 💰 Loot Distribuído
+- 150 gp em objetos restaurados.  
+- Convite vitalício para refeições no Kardwall’s.  
+
+---
+
+## 🧾 Notas Extra
+- PCs: [não listados no resumo].  
+- NPC: Kas Kardwall (dono do restaurante).  
+- Introduz ameaça de Sea Hags em Greyhawk.  
+
+
+<!-- ==== S31_2025-07-31_idolo_de_lady_scale_parte3.md ==== -->
+
+# Sessão 31 – O Ídolo de Lady Scale (Parte 3)  
+**Data:** 31/07/2025  
+**Semana:** 31  
+**Sessão:** S31 
+
+1 de Wealsun, 999 CY***
+
+---
+## 🗓 Linha Temporal
+| Semana | Data     | Sessão | Nome da Sessão                  |
+| ------ | -------- | ------ | ------------------------------- |
+| 31     | 31/07/25 | S31    | O Ídolo de Lady Scale (Parte 3) |
+
+---
+
+## 📖 Narrativa Completa
+O grupo penetra no templo e enfrenta o clímax da missão.  
+
+### A Estância Kobold
+- Grandes grupos de kobolds em rituais.  
+- Confrontos em corredores estreitos e pontes de pedra.  
+
+### O Fantasma de Lady Scale
+- Aparição espiritual da deusa dracónica.  
+- Promete poder em troca de submissão.  
+- Eldric recusa, provocando ira da entidade.  
+
+### Batalha Caótica
+- Sacerdotisa principal invoca chamas negras.  
+- Kobolds, cultistas e espíritos atacam em uníssono.  
+- Bok quase cai em combate, mas Sage protege-o.  
+- Silfir usa druidismo para enfraquecer o ídolo.  
+
+### A Queda do Ídolo
+- Eldric ataca o coração da estátua.  
+- Ídolo racha, olhos de esmeralda caem.  
+- Energia dissipa-se, templo colapsa.  
+
+### Conclusão
+- Grupo foge com esmeraldas.  
+- Lady Scale confirmada como ameaça maior, ainda viva no plano espiritual.  
+
+---
+
+## 🎲 Resumo de Acontecimentos
+- Invasão do templo.  
+- Aparição de Lady Scale.  
+- Batalha contra sacerdotisa e cultistas.  
+- Ídolo destruído.  
+- Esmeraldas recuperadas.  
+
+---
+
+## 💰 Loot Distribuído
+- 2 esmeraldas (olhos do ídolo).  
+- Armas cultistas.  
+
+---
+
+## 🧾 Notas Extra
+- PCs: Eldric, Silfir, Bok, Wandering Sage.  
+- NPCs: Sacerdotisa de Lady Scale, fantasma da deusa, cultistas.  
+- Conclusão do arco do Ídolo de Lady Scale.  
