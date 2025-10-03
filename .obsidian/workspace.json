@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/dm/-/adventures/-/WIP/reconciliacao_wip_vs_previous.md",
+                "file": "docs/dm/-/adventures/-/WIP/lista de Sessões.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "reconciliacao_wip_vs_previous"
+              "title": "lista de Sessões"
             }
           },
           {
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/dm/-/adventures/-/WIP/S16_2025-04-17_blank_session.md",
+                "file": "docs/dm/-/adventures/-/WIP/lista de Sessões.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "S16_2025-04-17_blank_session"
+              "title": "lista de Sessões"
             }
           },
           {
@@ -419,6 +419,8 @@
   },
   "active": "a43a66b6ba11d654",
   "lastOpenFiles": [
+    "docs/dm/-/adventures/-/WIP/S16_2025-04-17_blank_session.md",
+    "docs/dm/-/adventures/-/reconciliacao_wip_vs_previous.md",
     "docs/dm/-/adventures/CorrectOrderMerged.txt",
     "docs/dm/-/adventures/-/WIP/S15C_2025-04-10_nova_cidade_base_culto.md",
     "docs/dm/-/adventures/-/WIP/S15B_2025-04-10_cetro_de_zan.md",
@@ -431,7 +433,6 @@
     "docs/dm/-/adventures/-/WIP/S13_2025-03-27_appendices_dm_only_summary.md",
     "docs/dm/-/adventures/-/WIP/S17B_2025-04-24_a_crianca_perdida.md",
     "docs/dm/-/adventures/-/WIP/S17A_2025-04-24_nova_cidade_parte2.md",
-    "docs/dm/-/adventures/-/WIP/S16_2025-04-17_blank_session.md",
     "docs/dm/-/adventures/-/WIP/S21_2025-05-22_a_sombra_do_tempo_perdido.md",
     "docs/dm/-/adventures/-/WIP/S22_2025-05-29_casino_heist_parte1.md",
     "docs/dm/-/adventures/-/WIP/S23_2025-06-05_casino_heist_parte2.md",
