@@ -1,7 +1,3 @@
-Here’s the **merged prompt**, keeping everything explicit and structured, combining both sources cleanly while removing redundancies and keeping the rules very clear.
-
----
-
 # 📜 Prompt Mestre Final – Geração de Ficha Completa de PC
 
 **Objetivo:**
