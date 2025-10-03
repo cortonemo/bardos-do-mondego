@@ -1,7 +1,7 @@
 # Sessão 31 – O Ídolo de Lady Scale (Parte 3)  
 **Data:** 31/07/2025  
 **Semana:** 31  
-**Sessão:** S31 
+**Sessão:** S31A 
 
 1 de Wealsun, 999 CY***
 
