@@ -40,9 +40,10 @@
 | 2025-04-10 | 15   | 998 CY, 1 Readying    | S15A – misterio_dos_espelhos              |
 | 2025-04-10 | 15   | 998 CY, 1 Readying    | S15B – cetro_de_zan                       |
 | 2025-04-10 | 15   | 998 CY, 1 Readying    | S15C – nova_cidade_base_culto             |
-| 2025-04-17 | 16   | 998 CY, 8 Readying    | S16 – blank_session                       |
+| 2025-04-17 | 16   | 998 CY, 8 Readying    | S16 – misterio_dos_espelhos parte 2       |
 | 2025-04-24 | 17   | 998 CY, 15 Readying   | S17A – nova_cidade_parte2                 |
 | 2025-04-24 | 17   | 998 CY, 15 Readying   | S17B – a_crianca_perdida                  |
+| 2025-04-24 | 17   | 998 CY, 15 Readying   | S17C – misterio_dos_espelhos parte 3      |
 | 2025-05-01 | 18   | 998 CY, 22 Readying   | S18 – blank_session                       |
 | 2025-05-08 | 19   | 998 CY, 1 Coldeven    | S19 – blank_session                       |
 | 2025-05-15 | 20   | 998 CY, 8 Coldeven    | S20 – blank_session                       |
@@ -53,11 +54,14 @@
 | 2025-06-19 | 25   | 998 CY, 15 Planting   | S25 – sociedade_dos_ratos_sedentos        |
 | 2025-06-26 | 26   | 998 CY, 22 Planting   | S26 – blank_session                       |
 | 2025-07-03 | 27   | 998 CY, 1 Flocktime   | S27 – blank_session                       |
-| 2025-07-10 | 28   | 998 CY, 8 Flocktime   | S28 – museu_das_maravilhas                |
+| 2025-07-10 | 28   | 998 CY, 8 Flocktime   | S28A – museu_das_maravilhas               |
+| 2025-07-10 | 28   | 998 CY, 8 Flocktime   | S28B - o_eclipse_de_vauria_parte1.md      |
 | 2025-07-17 | 29   | 998 CY, 15 Flocktime  | S29A – museu_parte_final                  |
 | 2025-07-17 | 29   | 998 CY, 15 Flocktime  | S29B – idolo_de_lady_scale_parte1         |
-| 2025-07-17 | 29   | 998 CY, 15 Flocktime  | S29B – idolo_de_lady_scale_parte1         |
+| 2025-07-17 | 29   | 998 CY, 15 Flocktime  | S29C - o_eclipse_de_vauria_parte2.md      |
 | 2025-07-24 | 30   | 998 CY, 22 Flocktime  | S30A – idolo_de_lady_scale_parte2         |
 | 2025-07-24 | 30   | 998 CY, 22 Flocktime  | S30B – as_orquideas_negras                |
 | 2025-07-24 | 30   | 998 CY, 22 Flocktime  | S30C – o_misterio_de_kas_kardwall         |
+| 2025-07-24 | 30   | 998 CY, 22 Flocktime  | S30D - o_eclipse_de_vauria_parte3.md      |
 | 2025-07-31 | 31   | 998 CY, 1 Wealsun     | S31 – idolo_de_lady_scale_parte3          |
+| 2025-07-31 | 31   | 998 CY, 1 Wealsun     | S31B - o_eclipse_de_vauria_parte4.md      |
