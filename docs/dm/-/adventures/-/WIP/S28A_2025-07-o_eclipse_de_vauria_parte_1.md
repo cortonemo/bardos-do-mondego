@@ -1,6 +1,7 @@
 # S28B – O Eclipse de Vauria, Sessão 1: O Eclipse e o Chamado
 📅 Data real: 2025-07-03 | Semana 28  
-🗓 Data Greyhawk: 999 CY, 3 Flocktime  
+
+***8 de Flocktime, 999 CY***
 
 ## Sessão 1: O Eclipse e o Chamado
 

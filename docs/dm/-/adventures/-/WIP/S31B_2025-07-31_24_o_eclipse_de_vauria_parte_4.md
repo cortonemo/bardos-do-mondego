@@ -1,7 +1,7 @@
 # S31B – O Eclipse de Vauria, Sessão 4: O Ritual e o Horror Final
 📅 Data real: 2025-07-24 | Semana 31  
-🗓 Data Greyhawk: 999 CY, 24 Flocktime  
 
+***1 de Wealsun, 999 CY***
 ## Sessão 4: O Ritual e o Horror Final
 
 ### Gancho:

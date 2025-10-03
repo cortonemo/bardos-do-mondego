@@ -1,7 +1,7 @@
 # S29C – O Eclipse de Vauria, Sessão 2: O Segredo no Subterrâneo
 📅 Data real: 2025-07-10 | Semana 29  
-🗓 Data Greyhawk: 999 CY, 10 Flocktime  
 
+***15 de Flocktime, 999 CY***
 ## Sessão 2: O Segredo no Subterrâneo
 
 ### Gancho:

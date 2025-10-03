@@ -3,7 +3,7 @@
 **Semana:** 31  
 **Sessão:** S31A 
 
-1 de Wealsun, 999 CY***
+***1 de Wealsun, 999 CY***
 
 ---
 ## 🗓 Linha Temporal

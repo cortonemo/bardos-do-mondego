@@ -1,7 +1,8 @@
 # S30D – O Eclipse de Vauria, Sessão 3: A Caçada pelos Fragmentos
 📅 Data real: 2025-07-17 | Semana 30  
-🗓 Data Greyhawk: 999 CY, 17 Flocktime  
 
+
+***22 de Flocktime, 999 CY***
 ## Sessão 3: A Caçada pelos Fragmentos
 
 ### Gancho:
