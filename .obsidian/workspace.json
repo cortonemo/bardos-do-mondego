@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d10cee67517ace1e",
+        "id": "3e5a0ee65bf24ed1",
         "type": "tabs",
         "children": [
           {
-            "id": "1e71847e1c88691a",
+            "id": "4c0b727d3ccbcbc8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/dm/-/adventures/-/WIP/sessions_list.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "sessions_list"
+              "title": "README"
             }
           },
           {
-            "id": "44f9d554fcf21746",
+            "id": "233e3a87fae2ff00",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/dm/-/adventures/-/WIP/S25_2025-06-19_sociedade_dos_ratos_sedentos.md",
+                "file": "docs/monsters/-/corrupt_human.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "S25_2025-06-19_sociedade_dos_ratos_sedentos"
+              "title": "corrupt_human"
             }
           },
           {
-            "id": "a43a66b6ba11d654",
+            "id": "7b36138fcc0c488b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/dm/-/adventures/-/WIP/sessions_list.md",
+                "file": "docs/loot/itens/ruined_book.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,16 +76,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "sessions_list"
+              "title": "ruined_book"
             }
           },
           {
-            "id": "56c5230f40df788b",
+            "id": "e76fdd6f044c7adc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/dm/-/adventures/-/WIP/S19_2025-05-08_blank_session.md",
+                "file": "docs/npc/-/unknown/doutor_galileu.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,179 +100,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "S19_2025-05-08_blank_session"
-            }
-          },
-          {
-            "id": "5d49524fa2125bcc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/dm/-/adventures/-/WIP/S20_2025-05-15_blank_session.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "S20_2025-05-15_blank_session"
-            }
-          },
-          {
-            "id": "b6f70b839ebd413b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/dm/-/adventures/-/WIP/S21_2025-05-22_a_sombra_do_tempo_perdido.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "S21_2025-05-22_a_sombra_do_tempo_perdido"
-            }
-          },
-          {
-            "id": "14b1377649a7bd8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/dm/-/adventures/-/WIP/S23_2025-06-05_casino_heist_parte2.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "S23_2025-06-05_casino_heist_parte2"
-            }
-          },
-          {
-            "id": "e87bd7e8c4316a7c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/dm/-/adventures/-/WIP/S26_2025-06-26_blank_session.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "S26_2025-06-26_blank_session"
-            }
-          },
-          {
-            "id": "4ed0b94e5075bde9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/dm/-/adventures/-/WIP/S24_2025-06-12_blank_session.md.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "S24_2025-06-12_blank_session.md"
-            }
-          },
-          {
-            "id": "f505c025d3073b9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/dm/-/adventures/-/WIP/S19_2025-05-08_blank_session.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "S19_2025-05-08_blank_session"
-            }
-          },
-          {
-            "id": "c3bbb21b0cccdde4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/dm/-/adventures/-/WIP/S16_2025-04-17_blank_session.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "S16_2025-04-17_blank_session"
+              "title": "doutor_galileu"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -417,54 +248,53 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "a43a66b6ba11d654",
+  "active": "4c0b727d3ccbcbc8",
   "lastOpenFiles": [
-    "docs/dm/-/adventures/-/WIP/S31B_2025-07-31_24_o_eclipse_de_vauria_parte_4.md",
-    "docs/dm/-/adventures/-/WIP/S31A_2025-07-31_idolo_de_lady_scale_parte_3.md",
-    "docs/dm/-/adventures/-/WIP/S30D_2025-07-24_o_eclipse_de_vauria_parte_3.md",
-    "docs/dm/-/adventures/-/WIP/S30A_2025-07-24_idolo_de_lady_scale_parte_2.md",
-    "docs/dm/-/adventures/-/WIP/S29C_2025-07-17_o_eclipse_de_vauria_parte_2.md",
-    "docs/dm/-/adventures/-/WIP/S29B_2025-07-17_idolo_de_lady_scale_parte_1.md",
-    "docs/dm/-/adventures/-/WIP/S28A_2025-07-o_eclipse_de_vauria_parte_1.md",
-    "docs/dm/-/adventures/-/WIP/S28A_2025-07-10_museu_das_maravilhas.md",
-    "docs/dm/-/adventures/-/WIP/S04C_2025-01-23_two_fords_moinho.md",
-    "docs/dm/-/adventures/-/WIP/S03C_2025-01-15_vale_do_vento_sombrio.md",
-    "docs/dm/-/adventures/-/WIP/S30C_2025-07-24_o_misterio_de_kas_kardwall.md",
-    "docs/dm/-/adventures/-/WIP/S05A_2025-01-30_as_mascaras_da_morte.md",
-    "docs/dm/-/adventures/-/WIP/S29B_2025-07-17_idolo_de_lady_scale_parte1-.md",
-    "docs/dm/-/adventures/-/WIP/S29A_2025-07-17_museu_parte_final.md",
-    "docs/dm/-/adventures/-/WIP/sessions_list.md",
+    "docs/locations/cities/free_city_of_greyhawk/greyhawk_ruins.md",
+    "Untitled.canvas",
+    "docs/organizations/-/factions/institute_of_the_veiled_light.md",
+    "instituto_da_luz_velada.md",
+    "docs/assets/organization/institute_of_the_veiled_light.png",
+    "docs/monsters/-/corrupt_human.md",
+    "docs/loot/itens/ruined_book.md",
+    "docs/npc/-/unknown/doutor_galileu.md",
+    "docs/loot/itens/red_diamond.md",
+    "docs/locations/ice_plan.md",
+    "docs/assets/location/ice_plan.png",
+    "docs/monsters/-/dinossauros_invocados.md",
+    "docs/loot/itens/livro_druida.md",
+    "docs/locations/cities/free_city_of_greyhawk/ruinas_das_sombras.md",
+    "docs/loot/itens/dr_galileu_gold.md",
+    "docs/assets/loot/red_diamond.png",
+    "docs/assets/loot/acorn_borogrove.jpg",
+    "docs/assets/loot/bracers_of_defense.jpeg",
+    "docs/assets/loot/psA33F.tmp",
+    "docs/assets/loot/psDB7E.tmp",
+    "docs/loot/itens/capa_da_neblina.md",
+    "docs/assets/loot/ruined_book.png",
+    "docs/loot/itens/magic_compass.md",
+    "docs/assets/loot/magic_compass.png",
+    "docs/assets/location/greyhawk_ruins.png",
+    "docs/locations/cities/free_city_of_greyhawk/selintan.md",
+    "docs/assets/location/selintan.png",
     "docs/dm/-/adventures/-/WIP/S16_2025-04-17_blank_session.md",
-    "docs/dm/-/adventures/-/reconciliacao_wip_vs_previous.md",
+    "docs/dm/-/adventures/-/WIP/S19_2025-05-08_blank_session.md",
+    "docs/dm/-/adventures/-/WIP/S24_2025-06-12_blank_session.md.md",
+    "docs/dm/-/adventures/-/WIP/S26_2025-06-26_blank_session.md",
+    "docs/dm/-/adventures/-/WIP/S21_2025-05-22_a_sombra_do_tempo_perdido.md",
+    "docs/dm/-/adventures/-/WIP/S20_2025-05-15_blank_session.md",
+    "docs/assets/monsters/metal_cock.png",
+    "docs/dm/-/adventures/-/WIP/S25_2025-06-19_sociedade_dos_ratos_sedentos.md",
+    "docs/dm/-/adventures/-/WIP/sessions_list.md",
+    "docs/loot/itens/medalhao_do_sussurro.md",
+    "docs/loot/itens/manto_sombra_viva.md",
+    "tools/docs_structure.txt",
     "docs/dm/-/adventures/CorrectOrderMerged.txt",
-    "docs/dm/-/adventures/-/WIP/S15C_2025-04-10_nova_cidade_base_culto.md",
-    "docs/dm/-/adventures/-/WIP/S15B_2025-04-10_cetro_de_zan.md",
-    "docs/dm/-/adventures/-/WIP/S15A_2025-04-10_misterio_dos_espelhos.md",
-    "docs/dm/-/adventures/-/WIP/S14C_2025-04-03_incendio_olho_de_boccob.md",
-    "docs/dm/-/adventures/-/WIP/S14B_2025-04-03_exploracao_greyhawk_guildas.md",
-    "docs/dm/-/adventures/-/WIP/S14A_2025-04-03_dandan_e_os_40_kobolds.md",
-    "docs/dm/-/adventures/-/WIP/S13B_2025-03-27_nave_mae_illithid.md",
-    "docs/dm/-/adventures/-/WIP/S13A_2025-03-27_resgate_de_dustin.md",
-    "docs/dm/-/adventures/-/WIP/S13_2025-03-27_appendices_dm_only_summary.md",
     "docs/dm/-/adventures/AleatorioMerged.txt",
     "docs/dm/-/adventures/06 Missões Avançadas.txt",
     "docs/dm/-/adventures/05 Missões Intermédias  Greyhawk.txt",
     "docs/dm/-/adventures/04 Arcos Fae  Dustin  Illithids.txt",
     "docs/dm/-/adventures/03 Arcos de Eribend  Blackfair.txt",
-    "docs/dm/-/adventures/02 Arcos de Mistwood  Goblins  Culto.txt",
-    "docs/dm/-/adventures/01 Início da Campanha.txt",
-    "docs/dm/-/adventures/06merged.txt",
-    "docs/dm/-/adventures/04merged.txt",
-    "docs/assets/pc/pc_grix_molah.jpg",
-    "docs/assets/pc/pc_kai_01.png",
-    "assets/pc/pc_eirwen_01.png",
-    "docs/assets/organization/house_vanthir.png",
-    "docs/assets/organization/org_blank - Copy.png",
-    "docs/assets/pc/pc_kai_02.png",
-    "docs/assets/pc/pc_kai_05.png",
-    "docs/assets/pc/pc_kai_03.png",
-    "docs/assets/pc/pc_kai_00.png",
-    "Untitled.canvas",
-    "docs/assets/pc/pc_blank.png"
+    "docs/dm/-/adventures/02 Arcos de Mistwood  Goblins  Culto.txt"
   ]
 }

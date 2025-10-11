@@ -1,4 +1,4 @@
-﻿# Swarm of Bats
+# Swarm of Bats
 
 ![Swarm of Bats](assets/monsters/swarm_of_bats.png)
 

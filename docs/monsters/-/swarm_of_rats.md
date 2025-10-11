@@ -1,4 +1,4 @@
-﻿# Swarm of Rats
+# Swarm of Rats
 
 ![Swarm of Rats](assets/monsters/swarm_of_rats.jpeg)
 

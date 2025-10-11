@@ -1,4 +1,4 @@
-﻿
+
 # Manto da Sombra Viva / Mantle of Living Shadow
 
 Sessões: 16 | Datas: 2025-04-24 | Fontes: extra_relato_crianca_perdida.txt | Tags: loot, manto, sombra, mágico

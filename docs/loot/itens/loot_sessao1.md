@@ -1,4 +1,4 @@
-﻿### Loot da Sessão 1
+### Loot da Sessão 1
 
 Sessão: 1 | Data: 2025-08-02 | Fonte: s01.txt | Tags: loot
 

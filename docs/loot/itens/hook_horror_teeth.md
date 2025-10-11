@@ -1,4 +1,4 @@
-﻿## Ficheiro: hook_horror_teeth.md
+## Ficheiro: hook_horror_teeth.md
 
 #### Hook Horror Teeth
 
