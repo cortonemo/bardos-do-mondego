@@ -5,106 +5,79 @@
 
 ***Outono, 999 CY***
 
----
+![Galo Metálico Gigante](metal_cock.png)
+# Sessão T02-S01 – O Portal do Gelo / Session T02-S01 – The Ice Gate  
+**Data / Date:** 28/09/2025  
+**Sessão / Session:** T02-S01  
 
-## 🗓 Linha Temporal
-| Semana | Data       | Sessão   | Nome da Sessão       |
-|--------|-------------|----------|----------------------|
-| 01     | 28/09/25    | T02-S01  | O Portal do Gelo     |
-
----
-
-## 👥 Personagens Jogadoras
-| Personagem                           | Função / Classe                 | Observações                                                      |
-| ------------------------------------ | ------------------------------- | ---------------------------------------------------------------- |
-| [Dustin Thorne](pc_dustin_thorne.md) | Combatente                      | Determinado e corajoso; liderou o ataque contra o Galo Metálico. |
-| [Kai](pc_kai.md)                     | Exploradora / Elementalista     | Responsável por ativar o pilar da terra.                         |
-| [Wagner](pc_wagner.md)               | Mago / Elementalista do gelo    | Manipulou o gelo para abrir caminho e proteger o grupo.          |
-| [Teias](pc_teias.md)                 | Feiticeiro(a) / Investigador(a) | Revelou que o Doutor Galileu era um autómato.                    |
-| [Silfir](pc_silfir.md)               | Entidade mágica                 | Autoidentifica-se como “memória do inverno”.                     |
+***Outono / Autumn, 999 CY***
 
 ---
 
-## 📖 Narrativa Completa
+## 🗓 Linha Temporal / Timeline
 
-### Chamado da Fada Val
-Na [Taberna](taberna.md), os aventureiros iniciam o dia em clima descontraído, quando surge a **[Fada Val](fada_val.md)** — uma emissária mágica do **[Doutor Galileu](doutor_galileu.md)**.  
-Com um estalar de dedos, ela teleporta toda a construção para a margem do **[Selintan](selintan.md)**, onde o excêntrico inventor, um **autómato consciente**, os aguarda.
-
-Galileu explica que precisa da ajuda do grupo para abrir um portal para o **[Plano do Gelo](ice_plan.md)** e recuperar um **[Diamante Vermelho](red_diamond.md)**, essencial para as suas experiências. Ele entrega aos heróis uma **[Bússola Mágica](magic_compass.md)** para guiá-los até o artefacto.
+| Semana / Week | Data / Date | Sessão / Session | Nome / Title |
+|----------------|--------------|------------------|---------------|
+| 01 | 28/09/25 | T02-S01 | O Portal do Gelo / The Ice Gate |
 
 ---
 
-### O Ritual dos Quatro Pilares
-O grupo encontra quatro pilares de pedra cobertos por runas dos elementos — **água, fogo, ar e terra**.  
-Cada pilar é ativado por um membro diferente:  
-- **[Kai](pc_kai.md)** aciona o da terra,  
-- **[Wagner](pc_wagner.md)** o do gelo (água),  
-- os restantes auxiliam completando o círculo mágico.  
+## 📖 Visão Geral / Overview
 
-Com o ritual completo, abre-se um portal cintilante para o **Plano do Gelo**, e uma corrente gélida envolve todos.
+| Português | English |
+|------------|----------|
+| Os aventureiros são convocados pela [Fada Val](fada_val.md), emissária do [Doutor Galileu](doutor_galileu.md), que transporta a [Taberna](taverna.md) através de magia para as margens do [Selintan](selintan.md). Lá, o grupo ajuda o excêntrico inventor — um autómato consciente — a abrir um portal para o [Plano do Gelo](ice_plan.md) e recuperar um poderoso [Diamante Vermelho](red_diamond.md). A expedição leva-os a enfrentar reflexos de si próprios, um servo do [Institute of the Veiled Light](institute_of_the_veiled_light.md) e um guardião mecânico colossal. | The adventurers are summoned by [Fada Val](fada_val.md), emissary of [Doctor Galileu](doutor_galileu.md), who magically transports the [Tavern](taverna.md) to the banks of the [Selintan](selintan.md). There, they assist the eccentric inventor — a self-aware automaton — in opening a portal to the [Ice Plane](ice_plan.md) and recovering a powerful [Red Diamond](red_diamond.md). Their journey leads them to face reflections of themselves, a servant of the [Institute of the Veiled Light](institute_of_the_veiled_light.md), and a colossal mechanical guardian. |
 
 ---
 
-### O Plano do Gelo
-Do outro lado, os aventureiros encontram um mundo de frio absoluto e ruínas cobertas de neve — a antiga **[Greyhawk em Ruínas](greyhawk_ruins.md)**.  
-Enquanto exploram, avistam **[Vultos Reflexos](vultos_reflexos.md)** — sete figuras idênticas a eles próprios, que desaparecem ao serem atacadas.
+## ⚔️ Eventos Principais / Key Events
 
-Logo após, um **[Humano Corrompido](corrupt_human.md)** revela-se servo do **[Instituto da Luz Velada](instituto_da_luz_velada.md)**, alegando que o diamante pertence ao Instituto. Ele invoca **[Dinossauros Invocados](dinossauros_invocados.md)** antes de ser derrotado por **[Dustin Thorne](pc_dustin_thorne.md)**.
-
----
-
-### O Guardião Metálico
-No coração das ruínas, o grupo depara-se com o guardião final: o **[Galo Metálico Gigante](galo_metalico_gigante.md)** — um construto colossal com olhos vermelhos como rubis.  
-O combate é feroz; **[Dustin Thorne](pc_dustin_thorne.md)** lidera o ataque enquanto **[Wagner](pc_wagner.md)** manipula o gelo para proteger os aliados.  
-O monstro é destruído, revelando dentro do seu crânio o **[Diamante Vermelho](red_diamond.md)** procurado.
-
-Durante a luta, o **[Doutor Galileu](doutor_galileu.md)** é gravemente ferido, perdendo um braço mecânico.
+| Português | English |
+|------------|----------|
+| **Chamado da Fada Val** — Na [Taberna](taverna.md), os aventureiros recebem o apelo mágico da [Fada Val](fada_val.md). Ela revela que o [Doutor Galileu](doutor_galileu.md) precisa de ajuda para abrir um portal. | **Call of Fada Val** — At the [Tavern](taverna.md), the adventurers receive the magical summons from [Fada Val](fada_val.md). She reveals that [Doctor Galileu](doutor_galileu.md) needs help opening a portal. |
+| **Ritual dos Quatro Pilares** — O grupo ativa os pilares elementais de terra, ar, fogo e água, abrindo o portal para o [Plano do Gelo](ice_plan.md). | **Ritual of the Four Pillars** — The group activates the elemental pillars of earth, air, fire, and water, opening the portal to the [Ice Plane](ice_plan.md). |
+| **Reflexos e Corrupção** — No plano gelado, encontram os [Vultos Reflexos](vultos_reflexos.md) e enfrentam um [Humano Corrompido](corrupt_human.md) que serve o [Institute of the Veiled Light](institute_of_the_veiled_light.md). | **Reflections and Corruption** — In the frozen plane, they encounter the [Reflex Shadows](vultos_reflexos.md) and fight a [Corrupted Human](corrupt_human.md) serving the [Institute of the Veiled Light](institute_of_the_veiled_light.md). |
+| **O Guardião Metálico** — Um [Galo Metálico Gigante](galo_metalico_gigante.md) protege o [Diamante Vermelho](red_diamond.md); o grupo vence após um combate brutal. | **The Metallic Guardian** — A [Giant Metallic Rooster](galo_metalico_gigante.md) guards the [Red Diamond](red_diamond.md); the party triumphs after a brutal battle. |
+| **Conclusão** — O [Doutor Galileu](doutor_galileu.md) recompensa os heróis e a [Fada Val](fada_val.md) promete restaurar a [Taberna](taverna.md). | **Conclusion** — [Doctor Galileu](doutor_galileu.md) rewards the heroes and [Fada Val](fada_val.md) promises to restore the [Tavern](taverna.md). |
 
 ---
 
-### Conclusão
-Com o diamante recuperado, o grupo retorna pelo portal.  
-Galileu, enfraquecido, agradece a ajuda e entrega **250 gp** a cada um como recompensa.  
-A **[Fada Val](fada_val.md)** promete que a Taberna será restaurada e que o inventor continuará o seu trabalho — mas as runas e os símbolos vistos nas ruínas apontam para uma verdade mais sombria: o **[Instituto da Luz Velada](instituto_da_luz_velada.md)** está de volta.
+## 👥 Elenco / Cast
+
+| Personagem | Função / Classe | Observações |
+|-------------|-----------------|--------------|
+| [Dustin Thorne](pc_dustin_thorne.md) | Combatente / Fighter | Determinado e corajoso; liderou o ataque contra o [Galo Metálico Gigante](galo_metalico_gigante.md). |
+| [Kai](pc_kai.md) | Exploradora / Elementalist | Responsável por ativar o pilar da terra. |
+| [Wagner](pc_wagner.md) | Mago / Ice Elementalist | Manipulou o gelo para abrir caminho e proteger o grupo. |
+| [Teias](pc_teias.md) | Feiticeiro(a) / Investigator | Revelou que o [Doutor Galileu](doutor_galileu.md) era um autómato. |
+| [Silfir](pc_silfir.md) | Entidade mágica / Magical Entity | Autoidentifica-se como “memória do inverno.” |
 
 ---
 
-## 🎲 Resumo de Acontecimentos
-- A [Fada Val](fada_val.md) teleporta a [Taberna](taberna.md) para o [Selintan](selintan.md).  
-- O grupo ajuda o [Doutor Galileu](doutor_galileu.md) a abrir o portal para o [Plano do Gelo](ice_plan.md).  
-- Ativação dos quatro pilares elementais.  
-- Encontro com [Vultos Reflexos](vultos_reflexos.md).  
-- Combate com o [Humano Corrompido](corrupt_human.md) e os [Dinossauros Invocados](dinossauros_invocados.md).  
-- Batalha final contra o [Galo Metálico Gigante](galo_metalico_gigante.md).  
-- Recuperação do [Diamante Vermelho](red_diamond.md).  
-- Recompensa de 250 gp e promessa de futuras alianças.  
+## 💰 Recompensas e Itens / Rewards & Loot
+
+| Item | Detalhes |
+|------|-----------|
+| [Red Diamond](red_diamond.md) | Entregue ao [Doctor Galileu](doutor_galileu.md) como núcleo de energia. |
+| [Magic Compass](magic_compass.md) | Permanece com os aventureiros; guia planar. |
+| [Ruined Book](ruined_book.md) | Encontrado na [Tavern](taverna.md); menciona o [Institute of the Veiled Light](institute_of_the_veiled_light.md). |
+| 250 gp | Recompensa paga a cada membro pelo [Doctor Galileu](doutor_galileu.md). |
 
 ---
 
-## 💰 Loot Distribuído
-- **[Diamante Vermelho](red_diamond.md)** – entregue ao [Doutor Galileu](doutor_galileu.md).  
-- **250 gp** – recompensa para o grupo.  
-- **[Bússola Mágica](magic_compass.md)** – permanece com os aventureiros.  
-- **[Caderno Destruído](ruined_book.md)** – encontrado nas ruínas da [Taberna](taberna.md) (indício do [Instituto da Luz Velada](instituto_da_luz_velada.md)).  
+## 🌌 Consequências e Ganchos / Aftermath & Hooks
+
+| Português | English |
+|------------|----------|
+| A abertura do portal para o [Ice Plane](ice_plan.md) sugere novas ameaças planárias. O [Institute of the Veiled Light](institute_of_the_veiled_light.md) regressa à sombra, e as ruínas de [Greyhawk Ruins](greyhawk_ruins.md) continuam a emitir energia instável. | The opening of the [Ice Plane](ice_plan.md) portal hints at new planar threats. The [Institute of the Veiled Light](institute_of_the_veiled_light.md) returns to the shadows, and the [Greyhawk Ruins](greyhawk_ruins.md) still radiate unstable energy. |
 
 ---
 
-## 🧾 Notas Extra
-- Primeira sessão da Temporada 2.  
-- Ligações reforçadas: [Plano do Gelo](ice_plan.md), [Instituto da Luz Velada](instituto_da_luz_velada.md), [Greyhawk em Ruínas](greyhawk_ruins.md), [Selintan](selintan.md).  
-- [Fada Val](fada_val.md) demonstra poder de transporte planar.  
-- [Doutor Galileu](doutor_galileu.md) confirma ser um autómato e inicia nova fase da sua pesquisa.  
-- O [Instituto da Luz Velada](instituto_da_luz_velada.md) ressurge como antagonista oculto.  
+## 🧩 Notas do Mestre / DM-Only Notes
 
----
-
-### Temas de Conversa
-- Que ligação existe entre o [Plano do Gelo](ice_plan.md) e o [Instituto da Luz Velada](instituto_da_luz_velada.md)?  
-- O [Doutor Galileu](doutor_galileu.md) será uma criação do Instituto ou uma mente livre?  
-- O meteoro que destruiu a [Taberna](taberna.md) será uma arma ou um sinal?  
-- Que outros planos poderão ser alcançados através do [Diamante Vermelho](red_diamond.md)?  
-- Serão os [Vultos Reflexos](vultos_reflexos.md) ecos de realidades paralelas ou manifestações da mente?  
-- Que nova ameaça prepara o [Instituto da Luz Velada](instituto_da_luz_velada.md) nos bastidores?
+| Português                                                                                                                                                                                                                                                                                                                                              | English                                                                                                                                                                                                                                                                                                                                              |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| As runas nos pilares contêm símbolos idênticos aos usados pelo [Institute of the Veiled Light](institute_of_the_veiled_light.md), implicando que o [Doctor Galileu](doutor_galileu.md) pode ter sido uma criação do Instituto. O [Magic Compass](magic_compass.md) reage a energias de portais semelhantes, servindo como gancho para futuras missões. | The runes on the pillars bear symbols identical to those used by the [Institute of the Veiled Light](institute_of_the_veiled_light.md), implying that [Doctor Galileu](doutor_galileu.md) may have been a creation of the Institute. The [Magic Compass](magic_compass.md) reacts to similar portal energies, serving as a hook for future missions. |
+| As energias residuais no [Selintan](selintan.md) podem causar anomalias mágicas próximas à [Tavern](taverna.md).                                                                                                                                                                                                                                       | Residual energies in the [Selintan](selintan.md) may cause magical anomalies near the [Tavern](taverna.md).                                                                                                                                                                                                                                          |
 
 ---

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "docs/dm/-/adventures/-/WIP/T02_S01_2025-09-28_o_portal_do_gelo.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,55 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "T02_S01_2025-09-28_o_portal_do_gelo"
+            }
+          },
+          {
+            "id": "a90d105021dc99d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/organizations/-/factions/institute_of_the_veiled_light.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "institute_of_the_veiled_light"
+            }
+          },
+          {
+            "id": "74b3c66ae3a599ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/dm/-/pc/pc_eldric_silvanos.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "pc_eldric_silvanos"
             }
           },
           {
@@ -103,7 +151,8 @@
               "title": "doutor_galileu"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -248,53 +297,54 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "4c0b727d3ccbcbc8",
+  "active": "74b3c66ae3a599ea",
   "lastOpenFiles": [
+    "docs/organizations/-/factions/institute_of_the_veiled_light.md",
+    "docs/dm/-/adventures/-/WIP/T02_S01_2025-09-28_o_portal_do_gelo.md",
+    "docs/locations/cities/free_city_of_greyhawk/taverna.md",
+    "docs/dm/-/adventures/-/mission_01_os_fungos_do_bosque.md",
+    "docs/loot/itens/magic_compass.md",
+    "docs/npc/-/unknown/doutor_galileu.md",
+    "docs/monsters/-/galo_metalico_gigante.md",
+    "docs/dm/-/adventures/-/mission_04_regresso_a_mina.md",
+    "docs/dm/-/adventures/-/WIP/S26_2025-06-26_blank_session.md",
+    "docs/assets/monsters/psB2FB.tmp",
+    "docs/assets/monsters/metal_cock.png",
+    "docs/dm/-/monsters/bullywug_infestados.md",
+    "docs/dm/-/adventures/-/WIP/S01_2025-01-02_riacho.md",
+    "docs/dm/-/adventures/-/WIP/S31A_2025-07-31_idolo_de_lady_scale_parte_3.md",
+    "docs/dm/-/adventures/-/WIP/S31B_2025-07-31_24_o_eclipse_de_vauria_parte_4.md",
+    "docs/rumors/-/history_free_city_of_greyhawk.md",
+    "docs/assets/loot/topaz.webp",
+    "docs/assets/loot/ruined_book.png",
+    "docs/assets/loot/red_diamond.png",
+    "docs/assets/loot/object_blank.png",
+    "docs/assets/loot/magic_compass.png",
+    "docs/assets/loot/livro_druida.jpg",
+    "docs/assets/loot/gema_das_cinco_vozes.webp",
+    "docs/assets/loot/espada_mais_um.png",
+    "docs/assets/loot/espada_luz_velada.png",
+    "README.md",
     "docs/locations/cities/free_city_of_greyhawk/greyhawk_ruins.md",
     "Untitled.canvas",
-    "docs/organizations/-/factions/institute_of_the_veiled_light.md",
     "instituto_da_luz_velada.md",
-    "docs/assets/organization/institute_of_the_veiled_light.png",
     "docs/monsters/-/corrupt_human.md",
     "docs/loot/itens/ruined_book.md",
-    "docs/npc/-/unknown/doutor_galileu.md",
     "docs/loot/itens/red_diamond.md",
     "docs/locations/ice_plan.md",
-    "docs/assets/location/ice_plan.png",
     "docs/monsters/-/dinossauros_invocados.md",
     "docs/loot/itens/livro_druida.md",
     "docs/locations/cities/free_city_of_greyhawk/ruinas_das_sombras.md",
     "docs/loot/itens/dr_galileu_gold.md",
-    "docs/assets/loot/red_diamond.png",
-    "docs/assets/loot/acorn_borogrove.jpg",
-    "docs/assets/loot/bracers_of_defense.jpeg",
     "docs/assets/loot/psA33F.tmp",
     "docs/assets/loot/psDB7E.tmp",
     "docs/loot/itens/capa_da_neblina.md",
-    "docs/assets/loot/ruined_book.png",
-    "docs/loot/itens/magic_compass.md",
-    "docs/assets/loot/magic_compass.png",
-    "docs/assets/location/greyhawk_ruins.png",
-    "docs/locations/cities/free_city_of_greyhawk/selintan.md",
-    "docs/assets/location/selintan.png",
-    "docs/dm/-/adventures/-/WIP/S16_2025-04-17_blank_session.md",
-    "docs/dm/-/adventures/-/WIP/S19_2025-05-08_blank_session.md",
-    "docs/dm/-/adventures/-/WIP/S24_2025-06-12_blank_session.md.md",
-    "docs/dm/-/adventures/-/WIP/S26_2025-06-26_blank_session.md",
-    "docs/dm/-/adventures/-/WIP/S21_2025-05-22_a_sombra_do_tempo_perdido.md",
-    "docs/dm/-/adventures/-/WIP/S20_2025-05-15_blank_session.md",
-    "docs/assets/monsters/metal_cock.png",
-    "docs/dm/-/adventures/-/WIP/S25_2025-06-19_sociedade_dos_ratos_sedentos.md",
-    "docs/dm/-/adventures/-/WIP/sessions_list.md",
-    "docs/loot/itens/medalhao_do_sussurro.md",
-    "docs/loot/itens/manto_sombra_viva.md",
     "tools/docs_structure.txt",
     "docs/dm/-/adventures/CorrectOrderMerged.txt",
     "docs/dm/-/adventures/AleatorioMerged.txt",
     "docs/dm/-/adventures/06 Missões Avançadas.txt",
     "docs/dm/-/adventures/05 Missões Intermédias  Greyhawk.txt",
     "docs/dm/-/adventures/04 Arcos Fae  Dustin  Illithids.txt",
-    "docs/dm/-/adventures/03 Arcos de Eribend  Blackfair.txt",
-    "docs/dm/-/adventures/02 Arcos de Mistwood  Goblins  Culto.txt"
+    "docs/dm/-/adventures/03 Arcos de Eribend  Blackfair.txt"
   ]
 }
