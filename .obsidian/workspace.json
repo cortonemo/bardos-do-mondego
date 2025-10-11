@@ -80,6 +80,18 @@
             }
           },
           {
+            "id": "81a062e392e63f32",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
+          },
+          {
             "id": "233e3a87fae2ff00",
             "type": "leaf",
             "state": {
@@ -151,8 +163,7 @@
               "title": "doutor_galileu"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -297,7 +308,7 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "74b3c66ae3a599ea",
+  "active": "4c0b727d3ccbcbc8",
   "lastOpenFiles": [
     "docs/organizations/-/factions/institute_of_the_veiled_light.md",
     "docs/dm/-/adventures/-/WIP/T02_S01_2025-09-28_o_portal_do_gelo.md",
