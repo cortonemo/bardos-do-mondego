@@ -11,10 +11,48 @@
             "id": "e2343d10a1fea845",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "docs/pc/-/pc_silfir.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "pc_silfir"
+            }
+          },
+          {
+            "id": "6b919e95e83c2015",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/organizations/-/factions/institute_of_the_veiled_light.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "institute_of_the_veiled_light"
             }
           }
         ]
@@ -162,36 +200,38 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "8b60e7fd6b137849",
+  "active": "e2343d10a1fea845",
   "lastOpenFiles": [
+    "docs/dm/-/pc/pc_silfir.md",
+    "docs/pc/-/pc_silfir.md",
+    "docs/dm/-/pc/pc_eldric_silvanos.md",
+    "docs/npc/-/Free City of Grehawk/liwana.md",
+    "docs/pc/-/pc_zahel.md",
+    "docs/dm/-/pc/pc_ulma.md",
+    "docs/dm/-/npc/Free City of Grehawk/liwana.md",
+    "docs/pc/-/pc_ulma.md",
+    "docs/pc/-/pc_ulma.md",
+    "docs/dm/-/npc/Fey/titania.md",
+    "docs/dm/-/npc/Fey/pryssana.md",
+    "docs/dm/-/npc/Free City of Grehawk/lord_aleister_devraine.md",
+    "docs/dm/-/npc/Free City of Grehawk/lady_silvra_malren.md",
+    "docs/dm/-/npc/Free City of Grehawk/kythria.md",
+    "docs/assets/npc/liwana.png",
+    "docs/organizations/-/factions/institute_of_the_veiled_light.md",
+    "docs/dm/-/pc/pc_dustin_thorne.md",
+    "docs/locations/cities/free_city_of_greyhawk/clerks_quarter/clerkburg.md",
+    "clerkburg.md",
+    "docs/dm/-/pc/pc_drayl_bharash.md",
+    "docs/dm/-/pc/pc_lucien.md",
+    "docs/dm/-/pc/pc_leo.md",
     "docs/pc_claudio.md",
     "docs/dm/-/npc/Fey/joao_das_bocas.md",
     "docs/dm/-/pc/pc_arkos_vasell.md",
     "docs/dm/-/npc/Free City of Grehawk/sister_blathine.md",
     "mkdocs.yml",
     "mkdocs.yml.bak",
-    "docs/dm/-/npc/Free City of Grehawk/tobias_greenbottle.md",
-    "docs/dm/-/npc/Free City of Grehawk/tomtha_beaknose.md",
-    "docs/dm/-/npc/Free City of Grehawk/trixie.md",
-    "docs/dm/-/npc/Free City of Grehawk/wenla_frott.md",
-    "docs/dm/-/npc/Free City of Grehawk/mestre_donlan.md",
-    "docs/dm/-/npc/Free City of Grehawk/mistress_lyra_quil.md",
-    "docs/dm/-/adventures/-/WIP/T02_S01_2025-09-28_o_portal_do_gelo.md",
-    "docs/organizations/-/factions/institute_of_the_veiled_light.md",
-    "docs/locations/cities/free_city_of_greyhawk/taverna.md",
-    "docs/dm/-/adventures/-/mission_01_os_fungos_do_bosque.md",
-    "docs/loot/itens/magic_compass.md",
-    "docs/npc/-/unknown/doutor_galileu.md",
-    "docs/monsters/-/galo_metalico_gigante.md",
-    "docs/dm/-/adventures/-/mission_04_regresso_a_mina.md",
-    "docs/dm/-/adventures/-/WIP/S26_2025-06-26_blank_session.md",
     "docs/assets/monsters/psB2FB.tmp",
     "docs/assets/monsters/metal_cock.png",
-    "docs/dm/-/monsters/bullywug_infestados.md",
-    "docs/dm/-/adventures/-/WIP/S01_2025-01-02_riacho.md",
-    "docs/dm/-/adventures/-/WIP/S31A_2025-07-31_idolo_de_lady_scale_parte_3.md",
-    "docs/dm/-/adventures/-/WIP/S31B_2025-07-31_24_o_eclipse_de_vauria_parte_4.md",
-    "docs/rumors/-/history_free_city_of_greyhawk.md",
     "docs/assets/loot/topaz.webp",
     "docs/assets/loot/ruined_book.png",
     "docs/assets/loot/red_diamond.png",
@@ -200,9 +240,6 @@
     "docs/assets/loot/livro_druida.jpg",
     "docs/assets/loot/gema_das_cinco_vozes.webp",
     "docs/assets/loot/espada_mais_um.png",
-    "docs/assets/loot/espada_luz_velada.png",
-    "README.md",
-    "docs/locations/cities/free_city_of_greyhawk/greyhawk_ruins.md",
     "Untitled.canvas",
     "docs/assets/loot/psA33F.tmp",
     "docs/assets/loot/psDB7E.tmp",

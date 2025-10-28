@@ -6,7 +6,7 @@ Sessões: — | Datas: — | Fontes: Gazetteer of Worlds and Realms.txt | Tags: 
 
 | **Português (PT-PT)** | **English (EN-US)** |
 |-----------------------|---------------------|
-| A Guilda dos Construtores Navais é uma das principais organizações de [Clerksburg](clerksburg.md), especializada na construção e manutenção de navios. Os seus estaleiros são responsáveis por embarcações de comércio e guerra, competindo diretamente com os construtores de outras cidades portuárias de Flanaess. | The Sailwrights' Guild is one of the leading organizations in [Clerksburg](clerksburg.md), specializing in shipbuilding and maintenance. Its shipyards produce vessels for trade and war, competing directly with shipwrights from other port cities of Flanaess. |
+| A Guilda dos Construtores Navais é uma das principais organizações de [Clerksburg](docs/locations/cities/free_city_of_greyhawk/clerks_quarter/clerkburg.md), especializada na construção e manutenção de navios. Os seus estaleiros são responsáveis por embarcações de comércio e guerra, competindo diretamente com os construtores de outras cidades portuárias de Flanaess. | The Sailwrights' Guild is one of the leading organizations in [Clerksburg](docs/locations/cities/free_city_of_greyhawk/clerks_quarter/clerkburg.md), specializing in shipbuilding and maintenance. Its shipyards produce vessels for trade and war, competing directly with shipwrights from other port cities of Flanaess. |
 
 ---
 
@@ -30,7 +30,7 @@ Sessões: — | Datas: — | Fontes: Gazetteer of Worlds and Realms.txt | Tags: 
 
 | **Português (PT-PT)** | **English (EN-US)** |
 |-----------------------|---------------------|
-| - [Clerksburg](clerksburg.md), sede da guilda.<br>- Estaleiros ribeirinhos e costeiros ligados à guilda. | - [Clerksburg](clerksburg.md), guild headquarters.<br>- River and coastal shipyards tied to the guild. |
+| - [Clerksburg](docs/locations/cities/free_city_of_greyhawk/clerks_quarter/clerkburg.md), sede da guilda.<br>- Estaleiros ribeirinhos e costeiros ligados à guilda. | - [Clerksburg](docs/locations/cities/free_city_of_greyhawk/clerks_quarter/clerkburg.md), guild headquarters.<br>- River and coastal shipyards tied to the guild. |
 
 ---
 

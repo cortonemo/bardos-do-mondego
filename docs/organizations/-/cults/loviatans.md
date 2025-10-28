@@ -6,7 +6,7 @@ Sessões: S06, S14, [por preencher] | Datas: [por preencher] | Fontes: greyhawk_
 
 | **Português** | **English** |
 |---------------|-------------|
-| Seita devotada a Loviatar, deusa da dor e do sofrimento, conhecida por práticas cruéis e rituais de submissão. Estão associados a raptos e a manipulação de famílias, incluindo o passado de [Ulma](pc_ulma.md). [Fonte Direta] | Sect devoted to Loviatar, goddess of pain and suffering, known for cruel practices and rituals of submission. They are linked to kidnappings and manipulation of families, including the past of [Ulma](pc_ulma.md). [Source] |
+| Seita devotada a Loviatar, deusa da dor e do sofrimento, conhecida por práticas cruéis e rituais de submissão. Estão associados a raptos e a manipulação de famílias, incluindo o passado de [Ulma](docs/pc/-/pc_ulma.md). [Fonte Direta] | Sect devoted to Loviatar, goddess of pain and suffering, known for cruel practices and rituals of submission. They are linked to kidnappings and manipulation of families, including the past of [Ulma](docs/pc/-/pc_ulma.md). [Source] |
 
 ---
 
@@ -14,7 +14,7 @@ Sessões: S06, S14, [por preencher] | Datas: [por preencher] | Fontes: greyhawk_
 
 | **Português**                                                                                                                                                                                                                                                                                                                                                                                                           | **English**                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Os Loviatans operam nas sombras de [Free City of Greyhawk](free_city_of_greyhawk.md) e regiões vizinhas. <br><br> Estão ligados ao rapto de [Liwana](../liwana.md) e a eventos traumáticos na infância de [Ulma](pc_ulma.md). <br><br> A sua prática baseia-se em rituais de dor e prazer, vistos por outros cultos como degenerados mas temidos pela sua eficácia em subjugar vítimas. [Fonte Direta] | The Loviatans operate in the shadows of [Free City of Greyhawk](free_city_of_greyhawk.md) and nearby regions. <br><br> They are tied to the kidnapping of [Liwana](../liwana.md) and to traumatic events in [Ulma](pc_ulma.md)’s childhood. <br><br> Their practice is based on rituals of pain and pleasure, seen by other cults as degenerate but feared for their effectiveness in subjugating victims. [Source] |
+| Os Loviatans operam nas sombras de [Free City of Greyhawk](free_city_of_greyhawk.md) e regiões vizinhas. <br><br> Estão ligados ao rapto de [Liwana](../liwana.md) e a eventos traumáticos na infância de [Ulma](docs/pc/-/pc_ulma.md). <br><br> A sua prática baseia-se em rituais de dor e prazer, vistos por outros cultos como degenerados mas temidos pela sua eficácia em subjugar vítimas. [Fonte Direta] | The Loviatans operate in the shadows of [Free City of Greyhawk](free_city_of_greyhawk.md) and nearby regions. <br><br> They are tied to the kidnapping of [Liwana](../liwana.md) and to traumatic events in [Ulma](docs/pc/-/pc_ulma.md)’s childhood. <br><br> Their practice is based on rituals of pain and pleasure, seen by other cults as degenerate but feared for their effectiveness in subjugating victims. [Source] |
 
 ---
 
@@ -22,7 +22,7 @@ Sessões: S06, S14, [por preencher] | Datas: [por preencher] | Fontes: greyhawk_
 
 | **Português** | **English** |
 |---------------|-------------|
-| - [Liwana](../liwana.md), vítima de rapto. <br>- [Ulma](pc_ulma.md), com passado marcado pelos Loviatans. <br>- Sacerdotes anónimos de Loviatar. [Fonte Direta] | - [Liwana](../liwana.md), kidnapping victim. <br>- [Ulma](pc_ulma.md), with a past marked by the Loviatans. <br>- Unnamed priests of Loviatar. [Source] |
+| - [Liwana](../liwana.md), vítima de rapto. <br>- [Ulma](docs/pc/-/pc_ulma.md), com passado marcado pelos Loviatans. <br>- Sacerdotes anónimos de Loviatar. [Fonte Direta] | - [Liwana](../liwana.md), kidnapping victim. <br>- [Ulma](docs/pc/-/pc_ulma.md), with a past marked by the Loviatans. <br>- Unnamed priests of Loviatar. [Source] |
 
 ---
 

@@ -50,7 +50,7 @@
 | [Kai](pc_kai.md) | Exploradora / Elementalist | Responsável por ativar o pilar da terra. |
 | [Wagner](pc_wagner.md) | Mago / Ice Elementalist | Manipulou o gelo para abrir caminho e proteger o grupo. |
 | [Teias](pc_teias.md) | Feiticeiro(a) / Investigator | Revelou que o [Doutor Galileu](doutor_galileu.md) era um autómato. |
-| [Silfir](pc_silfir.md) | Entidade mágica / Magical Entity | Autoidentifica-se como “memória do inverno.” |
+| [Silfir](docs/pc/-/pc_silfir.md) | Entidade mágica / Magical Entity | Autoidentifica-se como “memória do inverno.” |
 
 ---
 
