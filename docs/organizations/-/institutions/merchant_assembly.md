@@ -33,11 +33,3 @@ Sessões: — | Datas: — | Fontes: Gazetteer of Worlds and Realms.txt | Tags: 
 | - Câmara da Assembleia, situada no coração do distrito mercantil de Dyvers.<br>- Casas de famílias mercantis influentes. | - Assembly Chamber, located in the heart of Dyvers’ merchant district.<br>- Houses of influential merchant families. |
 
 ---
-
-## 🎲 Ganchos de Aventura / Adventure Hooks
-
-| **Português (PT-PT)** | **English (EN-US)** |
-|-----------------------|---------------------|
-| - Um assento da Assembleia fica vago após a morte suspeita de um mercador influente.<br>- PCs são contratados para impedir subornos que favorecem uma guilda criminosa.<br>- A Assembleia pede ajuda para lidar com contrabandistas do grupo [Ditch Rats](../factions/ditch_rats.md). | - An Assembly seat becomes vacant after the suspicious death of an influential merchant.<br>- PCs are hired to prevent bribes favoring a criminal guild.<br>- The Assembly seeks help to deal with smugglers from the [Ditch Rats](../factions/ditch_rats.md). |
-
----

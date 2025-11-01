@@ -28,20 +28,5 @@
 
 ---
 
-## 🧩 Ganchos de Aventura / Adventure Hooks
-
-| **Português (PT-PT)** | **English (EN-US)** |
-| --------------------- | ------------------- |
-| - A Ordem recruta os PCs para recuperar um tomo roubado, vital para evitar uma catástrofe planar.<br>- Um Guardião traidor vende segredos proibidos a agentes de [Iuz](../iuz/greater_boneheart.md).<br>- O grupo descobre inscrições antigas com a marca dos Guardiões, que podem desbloquear uma profecia esquecida.<br>- Os Guardiões pedem ajuda para impedir a destruição de um arquivo secreto em [Mistwood](mistwood.md). | - The Order recruits the PCs to retrieve a stolen tome, vital to prevent a planar catastrophe.<br>- A traitor Keeper sells forbidden secrets to agents of [Iuz](../iuz/greater_boneheart.md).<br>- The party discovers ancient inscriptions marked with the Keepers’ sigil, potentially unlocking a forgotten prophecy.<br>- The Keepers ask for help to prevent the destruction of a secret archive in [Mistwood](mistwood.md). |
-
----
-## 🏷️ Tags, Fontes e Sessões / Tags, Sources & Sessions
-
-| **Português (PT-PT)**                                                                               | **English (EN-US)**                                                                              |
-| --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
-| **Tags:** organização, arcane order, sabedoria antiga, segredo                                      | **Tags:** organization, arcane order, ancient wisdom, secrecy                                    |
-| **Fontes:** AllOrganizations, Named Beings and Groups of the Realms                                 | **Sources:** AllOrganizations, Named Beings and Groups of the Realms                             |
-| **Sessões:** Referências indiretas nas aventuras ligadas a [Wandering Sage](/pc_wandering_sage.md). | **Sessions:** Indirect references in adventures tied to [Wandering Sage](/pc_wandering_sage.md). |
-
 
 ---

@@ -27,23 +27,3 @@
 | - Bairro de artesãos em [Dyvers](../dyvers.md).<br>- Presença itinerante em caravanas e missões da [Taberna](the_company.md). | - Artisan quarter in [Dyvers](../dyvers.md).<br>- Itinerant presence in caravans and missions of the [Tavern](the_company.md). |
 
 ---
-
-## 🧩 Ganchos de Aventura / Adventure Hooks
-
-| **Português (PT-PT)** | **English (EN-US)** |
-| --------------------- | ------------------- |
-| - Um engenho defeituoso da Oficina ameaça explodir no meio da cidade.<br>- Mercadores rivais tentam roubar invenções de Gauthak.<br>- A Oficina recebe uma encomenda de origem obscura ligada a Iuz.<br>- Um autómato criado por engano ganha consciência própria. | - A faulty device from the Workshop threatens to explode in the middle of the city.<br>- Rival merchants attempt to steal Gauthak’s inventions.<br>- The Workshop receives a suspicious order linked to Iuz.<br>- An automaton accidentally created gains self-awareness. |
-
----
-
-## 🏷️ Tags, Fontes e Sessões / Tags, Sources & Sessions
-
-| **Português (PT-PT)**                                                        | **English (EN-US)**                                                           |
-| ---------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| **Tags:** organização, aliados, invenções, alquimia, Gauthak, Dyvers         | **Tags:** organization, allies, inventions, alchemy, Gauthak, Dyvers          |
-| **Fontes:** Tales from the Great Tavern, lista_dos_pc_e_suas_interaccoes.txt | **Sources:** Tales from the Great Tavern, lista_dos_pc_e_suas_interaccoes.txt |
-| **Sessões:** Referências indiretas a negócios e criações de Gauthak.         | **Sessions:** Indirect references to Gauthak’s business and creations.        |
-
-
-
----

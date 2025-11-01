@@ -27,21 +27,3 @@
 | - Mansões e solares na [Free City of Greyhawk](free_city_of_greyhawk.md).<br>- Residências nobres em [Dyvers](dyvers.md).<br>- Ruínas da Casa Vanthir, ainda alvo de investigação. | - Mansions and estates in the [Free City of Greyhawk](free_city_of_greyhawk.md).<br>- Noble residences in [Dyvers](dyvers.md).<br>- Ruins of House Vanthir, still subject to investigation. |
 
 ---
-
-## 🧩 Ganchos de Aventura / Adventure Hooks
-
-| **Português (PT-PT)** | **English (EN-US)** |
-| --------------------- | ------------------- |
-| - Os PCs são contratados para proteger Lady Silvra durante uma reunião secreta.<br>- Exploradores descobrem um segredo da Casa Vanthir que pode abalar Greyhawk.<br>- O Lord Aleister contrata o grupo para eliminar rivais políticos.<br>- As casas entram em guerra aberta em Dyvers, envolvendo facções como os [Ditch Rats](ditch_rats.md) e o [Crimson Oath](crimson_oath.md). | - PCs are hired to protect Lady Silvra during a secret meeting.<br>- Explorers uncover a House Vanthir secret that could shake Greyhawk.<br>- Lord Aleister hires the party to eliminate political rivals.<br>- The houses wage open war in Dyvers, drawing in factions like the [Ditch Rats](ditch_rats.md) and the [Crimson Oath](crimson_oath.md). |
-
----
-
-## 🏷️ Tags, Fontes e Sessões / Tags, Sources & Sessions
-
-| **Português (PT-PT)** | **English (EN-US)** |
-| --------------------- | ------------------- |
-| **Tags:** organização, facção, nobres, Greyhawk, Dyvers, política | **Tags:** organization, faction, nobles, Greyhawk, Dyvers, politics |
-| **Fontes:** Named Beings:contentReference[oaicite:0]{index=0}, AllOrganizations:contentReference[oaicite:1]{index=1} | **Sources:** Named Beings:contentReference[oaicite:2]{index=2}, AllOrganizations:contentReference[oaicite:3]{index=3} |
-| **Sessões:** Referências ligadas a interações com nobres e a ruínas da Casa Vanthir. | **Sessions:** References tied to noble interactions and the ruins of House Vanthir. |
-
----

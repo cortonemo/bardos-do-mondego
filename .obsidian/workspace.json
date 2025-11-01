@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4d35598a386215f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Adventures/s06b_resgate_rolger.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "s06b_resgate_rolger"
-            }
-          },
-          {
             "id": "a04fd158416016f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/pc/-/pc_ugus_bugus.md",
+                "file": "docs/organizations/-/iuz/ritekeepers.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +28,34 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "pc_ugus_bugus"
+              "title": "ritekeepers"
+            }
+          },
+          {
+            "id": "56f1e2ee969a6b43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/dm/-/npc/Free City of Grehawk/lord_aleister_devraine.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "lord_aleister_devraine"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -203,33 +202,33 @@
   },
   "active": "a04fd158416016f7",
   "lastOpenFiles": [
-    "docs/dm/-/pc/pc_ugus_bugus.md",
-    "docs/pc/-/pc_ugus_bugus.md",
-    "docs/dm/-/pc/pc_triss_merril.md",
-    "docs/dm/-/pc/pc_arkos_vasell.md",
+    "docs/organizations/-/iuz/red_chains.md",
+    "docs/organizations/-/iuz/greater_boneheart.md",
+    "docs/organizations/-/iuz/fiendish_envoys.md",
+    "docs/organizations/-/iuz/cult_of_the_fiendfather.md",
+    "docs/organizations/-/institutions/university_of_magical_arts.md",
+    "docs/organizations/-/institutions/merchant_assembly.md",
+    "docs/organizations/-/institutions/irongate_navy.md",
+    "docs/organizations/-/institutions/great_library.md",
+    "docs/organizations/-/institutions/directing_oligarchy.md",
+    "docs/organizations/-/institutions/city_watch.md",
+    "docs/organizations/-/guilds/sailwrights_guild.md",
+    "docs/organizations/-/guilds/order_of_scribes_and_notarie.md",
+    "docs/organizations/-/guilds/nine_of_swords.md",
+    "docs/organizations/-/guilds/guildas_de_greyhawk.md",
+    "docs/organizations/-/guilds/guild_of_weavers_tanners_tailors.md",
+    "docs/organizations/-/guilds/guild_of_thieves.md",
+    "docs/organizations/-/guilds/guild_of_performance_artists.md",
+    "docs/organizations/-/guilds/guild_of_free_merchants.md",
+    "docs/organizations/-/guilds/guild_of_carpenters.md",
+    "docs/organizations/-/guilds/guild_of_architects_and_mason.md",
+    "docs/organizations/-/guilds/assassins_guild.md",
+    "docs/organizations/-/factions/scale_flock.md",
+    "docs/organizations/-/factions/redbrands.md",
+    "docs/organizations/-/factions/order_of_beltar.md",
+    "docs/organizations/-/factions/noble_houses.md",
+    "docs/organizations/-/factions/merchants_consortium.md",
     "docs/assets/pc/pc_ugus_bugus.png",
-    "docs/Adventures/s06b_resgate_rolger.md",
-    "docs/Adventures/s08a_intriga_odrak_erybend.md",
-    "docs/Adventures/s10_blank.md",
-    "docs/dm/-/adventures/-/👽 Cosmic Connection Arc/s13a_retorno_nave_illithid.md",
-    "docs/dm/-/adventures/-/old/s01_os_fungos_do_bosque_bullet.md",
-    "docs/dm/-/adventures/-/old/s04_vale_do_vento_sombrio_dragao_summary.md",
-    "docs/dm/-/adventures/-/old/sessões - Bullet Points.md",
-    "docs/dm/-/adventures/-/🛡️ The Beltar and the Paladin's Fall Arc/s13_resgate_dustin.md",
-    "docs/dm/-/adventures/-/🛡️ The Beltar and the Paladin's Fall Arc/s11_sombras_de_iuz.md",
-    "docs/dm/-/adventures/-/🛡️ The Beltar and the Paladin's Fall Arc/s09a_sombras_sobre_a_agua.md",
-    "docs/dm/-/adventures/-/🦑 Elemental Evil Corruption Arc/s01a_purificacao_riacho.md",
-    "docs/dm/-/adventures/-/🛡️ The Beltar and the Paladin's Fall Arc/s09b_ondas_lo_reltarma.md",
-    "docs/dm/-/adventures/-/🦑 Elemental Evil Corruption Arc/s14_guildas_greyhawk.md",
-    "docs/dm/-/adventures/-/🦑 Elemental Evil Corruption Arc/s12b_legado_de_krixis.md",
-    "docs/dm/-/adventures/-/🦑 Elemental Evil Corruption Arc/s11b_sombras_sobre_erybend.md",
-    "docs/dm/-/adventures/-/🦑 Elemental Evil Corruption Arc/s08_templo_basilisco_pedras.md",
-    "docs/dm/-/adventures/-/🦑 Elemental Evil Corruption Arc/s07_pantano_basilisco.md",
-    "docs/dm/-/adventures/-/🦑 Elemental Evil Corruption Arc/s06a_intriga_high_ery.md",
-    "docs/dm/-/adventures/-/🦑 Elemental Evil Corruption Arc/s05b_campo_goblin_nerull.md",
-    "docs/dm/-/adventures/-/🦑 Elemental Evil Corruption Arc/s05a_mascaras_da_morte.md",
-    "docs/dm/-/adventures/-/🦑 Elemental Evil Corruption Arc/s04b_vale_sombrio_culto_alado.md",
-    "docs/dm/-/adventures/-/🦑 Elemental Evil Corruption Arc/s04a_culto_two_fords.md.md",
     "docs/Adventures/👽 Cosmic Connection Arc",
     "docs/dm/-/adventures/-/👽 Cosmic Connection Arc",
     "docs/Adventures/🛡️ The Beltar and the Paladin's Fall Arc/s05_s05_as_mascaras_da_morte_mistwood.txt",

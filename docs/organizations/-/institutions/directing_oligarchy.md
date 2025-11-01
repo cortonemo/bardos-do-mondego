@@ -33,11 +33,3 @@ Sessões: — | Datas: — | Fontes: Gazetteer of Worlds and Realms.txt | Tags: 
 | [Inferido] - Câmara do Conselho, situada no [High Quarter](high_quarter.md).<br>- Residências privadas dos oligarcas, espalhadas pela cidade. | [Inferred] - Council Chamber, located in the [High Quarter](high_quarter.md).<br>- Private residences of the oligarchs, spread throughout the city. |
 
 ---
-
-## 🎲 Ganchos de Aventura / Adventure Hooks
-
-| **Português (PT-PT)** | **English (EN-US)** |
-|-----------------------|---------------------|
-| [Inferido] - Um oligarca é assassinado em circunstâncias misteriosas e os PCs são contratados para descobrir o culpado.<br>- O conselho debate secretamente a criação de uma nova guilda, e os PCs são chamados a defender uma posição.<br>- Rumores indicam que um dos membros do conselho é um agente infiltrado de [Iuz](../iuz/greater_boneheart.md). | [Inferred] - An oligarch is assassinated under mysterious circumstances, and the PCs are hired to uncover the culprit.<br>- The council secretly debates the creation of a new guild, and the PCs are asked to defend a position.<br>- Rumors suggest that one of the council members is an infiltrated agent of [Iuz](../iuz/greater_boneheart.md). |
-
----

@@ -33,11 +33,3 @@ Sessões: 13 | Datas: 2025-03-13 | Fontes: s13_enfrentando_a_guilda_dos_ladroes_
 | - [Bairro dos Ladrões](bairro_dos_ladroes.md), sede e reduto principal.<br>- Túnel subterrâneo ligado ao [Distrito do Bazar](distrito_do_bazar.md), usado para contrabando. | - [Thieves’ Quarter](bairro_dos_ladroes.md), main headquarters and stronghold.<br>- Underground tunnel connected to the [Bazaar District](distrito_do_bazar.md), used for smuggling. |
 
 ---
-
-## 🎲 Ganchos de Aventura / Adventure Hooks
-
-| **Português (PT-PT)** | **English (EN-US)** |
-|-----------------------|---------------------|
-| - Convite misterioso para uma reunião secreta da guilda.<br>- O desaparecimento de um aprendiz que descobriu que o seu mestre estava ligado à guilda.<br>- Rumores de licenças falsas de guilda a circular pela cidade. | - A mysterious invitation to a secret guild meeting.<br>- The disappearance of an apprentice who discovered his master was linked to the guild.<br>- Rumors of forged guild licenses circulating through the city. |
-
----

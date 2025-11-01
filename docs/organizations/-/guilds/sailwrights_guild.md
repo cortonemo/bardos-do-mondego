@@ -33,11 +33,3 @@ Sessões: — | Datas: — | Fontes: Gazetteer of Worlds and Realms.txt | Tags: 
 | - [Clerksburg](docs/locations/cities/free_city_of_greyhawk/clerks_quarter/clerkburg.md), sede da guilda.<br>- Estaleiros ribeirinhos e costeiros ligados à guilda. | - [Clerksburg](docs/locations/cities/free_city_of_greyhawk/clerks_quarter/clerkburg.md), guild headquarters.<br>- River and coastal shipyards tied to the guild. |
 
 ---
-
-## 🎲 Ganchos de Aventura / Adventure Hooks
-
-| **Português (PT-PT)** | **English (EN-US)** |
-|-----------------------|---------------------|
-| - A guilda contrata os PCs para proteger um navio em construção contra sabotadores rivais.<br>- Um mestre construtor desaparece antes de entregar os planos de um novo galeão.<br>- Rumores indicam que membros da guilda estão a negociar secretamente com piratas. | - The guild hires the PCs to protect a ship under construction from rival saboteurs.<br>- A master shipwright vanishes before delivering the plans for a new galleon.<br>- Rumors suggest guild members are secretly negotiating with pirates. |
-
----

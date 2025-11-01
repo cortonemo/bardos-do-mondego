@@ -27,20 +27,3 @@
 | - Florestas e cavernas de **Sapolândia**.<br>- Presenças ocasionais na [Free City of Greyhawk](free_city_of_greyhawk.md). | - Forests and caves of **Sapolandia**.<br>- Occasional presence in the [Free City of Greyhawk](free_city_of_greyhawk.md). |
 
 ---
-
-## 🧩 Ganchos de Aventura / Adventure Hooks
-
-| **Português (PT-PT)** | **English (EN-US)** |
-| --------------------- | ------------------- |
-| - Os PCs são contratados para ajudar os Funguys a conter uma praga de esporos mutantes.<br>- Um membro dos Funguys desaparece em Greyhawk, arrastando os heróis para uma intriga planar.<br>- O “Grande Cogumelo” afirma ter visões de um cataclismo futuro e pede auxílio.<br>- A aliança entre Funguys e a **[Amphibian Conclave](amphibian_conclave.md)** é posta em risco por agentes de Iuz. | - PCs are hired to help the Funguys contain a mutant spore outbreak.<br>- A Funguy member vanishes in Greyhawk, pulling heroes into a planar intrigue.<br>- The “Great Mushroom” claims to have visions of an upcoming cataclysm and asks for help.<br>- The alliance between the Funguys and the **[Amphibian Conclave](amphibian_conclave.md)** is endangered by agents of Iuz. |
-
----
-
-## 🏷️ Tags, Fontes e Sessões / Tags, Sources & Sessions
-
-| **Português (PT-PT)** | **English (EN-US)** |
-| --------------------- | ------------------- |
-| **Tags:** organização, aliados, fungos, Sapolândia, magia natural | **Tags:** organization, allies, fungi, Sapolandia, natural magic |
-| **Fontes:** Tales from the Great Tavern, Gazetteer of Worlds and Realms | **Sources:** Tales from the Great Tavern, Gazetteer of Worlds and Realms |
-| **Sessões:** Referências em sessões passadas ligadas a Sapolândia. | **Sessions:** References in past sessions tied to Sapolandia. |
-

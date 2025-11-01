@@ -34,10 +34,3 @@ Sessões: — | Datas: — | Fontes: Gazetteer of Worlds and Realms.txt:contentR
 
 ---
 
-## 🎲 Ganchos de Aventura / Adventure Hooks
-
-| **Português (PT-PT)** | **English (EN-US)** |
-|-----------------------|---------------------|
-| - A guilda contrata os PCs para eliminar um sindicato pirata que ameaça o comércio no rio.<br>- Um comerciante acusado injustamente pede ajuda para provar a sua inocência.<br>- Documentos forjados de licenciamento começam a circular, criando caos no mercado. | - The guild hires the PCs to eliminate a pirate syndicate threatening river trade.<br>- A falsely accused merchant seeks help to prove his innocence.<br>- Forged licensing documents begin circulating, causing chaos in the marketplace. |
-
----

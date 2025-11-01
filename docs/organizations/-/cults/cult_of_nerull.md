@@ -33,11 +33,3 @@ Sessões: S05, S08, S09 | Datas: 2025-01-23 → 2025-02-13 | Fontes: greyhawk_se
 | - [Mistwood](mistwood.md): rituais de sangue conduzidos por Morvanya. <br>- [Blackfair Manor](blackfair_manor.md): base principal de Asdrobal e palco de sacrifícios. <br>- Ruínas e criptas associadas à seita (locais não identificados). [Fonte Direta] | - [Mistwood](mistwood.md): blood rituals led by Morvanya. <br>- [Blackfair Manor](blackfair_manor.md): Asdrobal’s main base and site of sacrifices. <br>- Ruins and crypts tied to the sect (unspecified locations). [Source] |
 
 ---
-
-## 🎲 Ganchos de Aventura | Adventure Hooks
-
-| **Português** | **English** |
-|---------------|-------------|
-| - Investigar a ligação entre o [Cult of Elemental Evil](docs/organizations/-/cults/cult_of_elemental_evil.md) e o Culto de Nerull. [Inferido] <br>- Recuperar grimórios necromânticos escondidos em [Blackfair Manor](blackfair_manor.md). [Inferido] <br>- Morvanya pode ter sobrevivido e busca reunir novos seguidores. [Inferido] <br>- O fantasma de uma vítima do baile de Asdrobal procura vingança. [Inferido] | - Investigate ties between the [Cult of Elemental Evil](docs/organizations/-/cults/cult_of_elemental_evil.md) and the Cult of Nerull. [Inferred] <br>- Recover necromantic grimoires hidden in [Blackfair Manor](blackfair_manor.md). [Inferred] <br>- Morvanya may have survived and seeks to gather new followers. [Inferred] <br>- The ghost of a victim from Asdrobal’s ball seeks vengeance. [Inferred] |
-
----

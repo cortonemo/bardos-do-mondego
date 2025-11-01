@@ -27,21 +27,3 @@
 | - Covis subterrâneos associados a rituais de necromancia.<br>- Regiões devastadas pelas tropas de Iuz.<br>- Túneis partilhados com drow no Subterrâneo. | - Subterranean lairs tied to necromantic rituals.<br>- Regions devastated by Iuz’s armies.<br>- Shared tunnels with drow in the Underdark. |
 
 ---
-
-## 🧩 Ganchos de Aventura / Adventure Hooks
-
-| **Português (PT-PT)** | **English (EN-US)** |
-| --------------------- | ------------------- |
-| - O grupo descobre que o Clã Ferrugio está a criar um exército de mortos-vivos num cemitério próximo.<br>- Necromantes Ferrugio procuram um artefacto perdido em **Mistwood**.<br>- PCs são contratados para impedir uma aliança entre os Ferrugio e a **Casa Azh'Thalith**.<br>- Um Ferrugio renegado oferece ajuda contra Iuz em troca de proteção. | - The party discovers the Ferrugio Clan is raising an undead army in a nearby graveyard.<br>- Ferrugio necromancers seek a lost artifact in **Mistwood**.<br>- PCs are hired to prevent an alliance between the Ferrugio and **House Azh'Thalith**.<br>- A renegade Ferrugio offers help against Iuz in exchange for protection. |
-
----
-
-## 🏷️ Tags, Fontes e Sessões / Tags, Sources & Sessions
-
-| **Português (PT-PT)** | **English (EN-US)** |
-| --------------------- | ------------------- |
-| **Tags:** organização, facção, necromancia, Iuz, Subterrâneo | **Tags:** organization, faction, necromancy, Iuz, Underdark |
-| **Fontes:** AllOrganizations, Named Beings and Groups of the Realms | **Sources:** AllOrganizations, Named Beings and Groups of the Realms |
-| **Sessões:** Referências indiretas em tramas ligadas a Iuz e necromancia. | **Sessions:** Indirect references in plots tied to Iuz and necromancy. |
-
----

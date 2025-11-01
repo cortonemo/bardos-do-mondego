@@ -33,11 +33,3 @@ Sessões: — | Datas: — | Fontes: Gazetteer of Worlds and Realms.txt | Tags: 
 | [Inferido] - Doca Militar de Greyhawk, onde a frota se encontra ancorada.<br>- Fortaleza costeira de **Irongate**, centro de treino e arsenal.<br>- Torres de vigia mágicas ao longo do porto. | [Inferred] - Greyhawk’s Military Dock, where the fleet is anchored.<br>- Coastal fortress of **Irongate**, training center and arsenal.<br>- Magical watchtowers along the harbor. |
 
 ---
-
-## 🎲 Ganchos de Aventura / Adventure Hooks
-
-| **Português (PT-PT)** | **English (EN-US)** |
-|-----------------------|---------------------|
-| [Inferido] - Um navio da frota desaparece misteriosamente durante uma patrulha noturna.<br>- O Almirante pede ajuda dos PCs para investigar sabotagens nas docas.<br>- Rumores indicam que espiões de [Dyvers](dyvers.md) infiltraram-se entre os marinheiros. | [Inferred] - A warship vanishes mysteriously during a night patrol.<br>- The Admiral requests the PCs’ aid to investigate dockside sabotage.<br>- Rumors suggest [Dyvers](dyvers.md) spies have infiltrated the sailors. |
-
----

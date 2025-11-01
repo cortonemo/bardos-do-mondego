@@ -33,11 +33,3 @@ Sessões: — | Datas: — | Fontes: Gazetteer of Worlds and Realms.txt | Tags: 
 | [Inferido] - Quartéis da Guarda espalhados por vários distritos de Greyhawk.<br>- Postos avançados na entrada das muralhas e portões da cidade.<br>- Guarnições menores em Dyvers, frequentemente em condições precárias. | [Inferred] - Watch barracks spread across Greyhawk’s districts.<br>- Outposts at the city walls and gates.<br>- Smaller garrisons in Dyvers, often in poor conditions. |
 
 ---
-
-## 🎲 Ganchos de Aventura / Adventure Hooks
-
-| **Português (PT-PT)** | **English (EN-US)** |
-|-----------------------|---------------------|
-| [Inferido] - Um sargento corrupto da Black Watch contrata os PCs em segredo para eliminar rivais dentro da própria Guarda.<br>- Os PCs são acusados injustamente e precisam provar inocência perante o Capitão da Guarda.<br>- Um destacamento inteiro de Dyvers desaparece durante patrulha noturna, levantando rumores de seita ou conspiração. | [Inferred] - A corrupt Black Watch sergeant secretly hires the PCs to eliminate rivals within the Watch itself.<br>- PCs are falsely accused and must prove their innocence before the Captain of the Guard.<br>- An entire Dyvers patrol vanishes during a night watch, sparking rumors of cult or conspiracy. |
-
----

@@ -33,11 +33,3 @@ Sessões: [por preencher] | Datas: [por preencher] | Fontes: Gazetteer of Worlds
 | - [Dyvers](dyvers.md): base principal do grupo. <br>- Docas e embarcações fluviais usadas em assaltos. [Fonte Direta] | - [Dyvers](dyvers.md): main base of the group. <br>- Docks and riverboats used in raids. [Source] |
 
 ---
-
-## 🎲 Ganchos de Aventura | Adventure Hooks
-
-| **Português** | **English** |
-|---------------|-------------|
-| - Ralph procura expandir a gangue com novos recrutas aventureiros. [Inferido] <br>- As Orquídeas Negras competem com os [Ditch Rats](ditch_rats.md) pelo controle do contrabando fluvial. [Inferido] <br>- O passado nobre de Ralph pode ser explorado por rivais políticos na [Free City of Greyhawk](free_city_of_greyhawk.md). [Inferido] <br>- A gangue possui um artefato roubado que ninguém sabe como ativar. [Inferido] | - Ralph seeks to expand the gang with new adventurer recruits. [Inferred] <br>- The Black Orchids compete with the [Ditch Rats](ditch_rats.md) for control of river smuggling. [Inferred] <br>- Ralph’s noble heritage may be exploited by political rivals in the [Free City of Greyhawk](free_city_of_greyhawk.md). [Inferred] <br>- The gang holds a stolen artifact that no one knows how to activate. [Inferred] |
-
----

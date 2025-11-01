@@ -27,20 +27,3 @@
 | - Pântanos e lagoas de **Sapolândia**.<br>- Aldeias anfíbias em territórios húmidos.<br>- Locais sagrados ligados a círculos druídicos. | - Swamps and ponds of **Sapolandia**.<br>- Amphibian villages in wetland territories.<br>- Sacred sites tied to druidic circles. |
 
 ---
-
-## 🧩 Ganchos de Aventura / Adventure Hooks
-
-| **Português (PT-PT)** | **English (EN-US)** |
-| --------------------- | ------------------- |
-| - O Conclave pede ajuda dos PCs para repelir invasores que drenam os pântanos.<br>- Um espírito aquático aliado ao Conclave é corrompido por agentes de Iuz.<br>- Um tratado de aliança com os **[Funguys](funguys.md)** precisa ser protegido contra sabotagem.<br>- Um herói anfíbio do Conclave pede auxílio para resgatar um santuário submerso. | - The Conclave seeks the PCs’ help to repel invaders draining the swamps.<br>- A water spirit allied to the Conclave is corrupted by Iuz’s agents.<br>- An alliance treaty with the **[Funguys](funguys.md)** must be safeguarded against sabotage.<br>- An amphibian hero of the Conclave asks for help reclaiming a sunken shrine. |
-
----
-
-## 🏷️ Tags, Fontes e Sessões / Tags, Sources & Sessions
-
-| **Português (PT-PT)** | **English (EN-US)** |
-| --------------------- | ------------------- |
-| **Tags:** organização, aliados, anfíbios, Sapolândia, druidas, natureza | **Tags:** organization, allies, amphibians, Sapolandia, druids, nature |
-| **Fontes:** Tales from the Great Tavern, Gazetteer of Worlds and Realms | **Sources:** Tales from the Great Tavern, Gazetteer of Worlds and Realms |
-| **Sessões:** Referências diretas em aventuras passadas em Sapolândia. | **Sessions:** Direct references in past adventures in Sapolandia. |
-

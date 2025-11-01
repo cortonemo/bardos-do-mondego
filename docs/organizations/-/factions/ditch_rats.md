@@ -33,11 +33,3 @@ Sessões: [por preencher] | Datas: [por preencher] | Fontes: Gazetteer of Worlds
 | - [Dyvers](dyvers.md): centro das operações dos Ditch Rats. <br>- Túneis e sarjetas subterrâneas usados para contrabando. [Fonte Direta] | - [Dyvers](dyvers.md): main hub of Ditch Rat operations. <br>- Underground tunnels and ditches used for smuggling. [Source] |
 
 ---
-
-## 🎲 Ganchos de Aventura | Adventure Hooks
-
-| **Português** | **English** |
-|---------------|-------------|
-| - Os Ditch Rats contrabandearam uma relíquia feérica roubada e querem vendê-la em segredo. [Inferido] <br>- Autoridades de [Dyvers](dyvers.md) oferecem recompensas por líderes capturados. [Inferido] <br>- Rivalidade crescente com as [Black Orchids](black_orchids.md) pode levar a uma guerra de gangues. [Inferido] <br>- Rumores ligam o grupo ao [Cult of the Drowned Star](../cults/cult_of_the_drowned_star.md). [Inferido] | - The Ditch Rats smuggled a stolen fey relic and plan to sell it secretly. [Inferred] <br>- Authorities in [Dyvers](dyvers.md) offer bounties for captured leaders. [Inferred] <br>- Growing rivalry with the [Black Orchids](black_orchids.md) may lead to a gang war. [Inferred] <br>- Rumors link the group to the [Cult of the Drowned Star](../cults/cult_of_the_drowned_star.md). [Inferred] |
-
----

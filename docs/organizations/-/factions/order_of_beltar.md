@@ -33,11 +33,3 @@ Sessões: [por preencher] | Datas: [por preencher] | Fontes: Named Beings and Gr
 | - Entradas conhecidas do [Underdark](underdark.md). <br>- Templos subterrâneos dedicados a Beltar (locais específicos não identificados). [Fonte Direta] | - Known entrances to the [Underdark](underdark.md). <br>- Underground temples dedicated to Beltar (specific locations not identified). [Source] |
 
 ---
-
-## 🎲 Ganchos de Aventura | Adventure Hooks
-
-| **Português** | **English** |
-|---------------|-------------|
-| - A Ordem de Beltar procura recrutar aventureiros para uma expedição suicida ao [Underdark](underdark.md). [Inferido] <br>- Um dos seus líderes, [Brandon Bane](../brandon_bane.md), é acusado de massacres contra inocentes. [Inferido] <br>- Os paladinos planeiam atacar a House Azh’Thalith. [Inferido] <br>- Um artefacto sagrado de Beltar foi perdido e precisa ser recuperado. [Inferido] | - The Order of Beltar seeks to recruit adventurers for a suicidal expedition into the [Underdark](underdark.md). [Inferred] <br>- One of its leaders, [Brandon Bane](../brandon_bane.md), is accused of massacres against innocents. [Inferred] <br>- The paladins plan to strike at House Azh’Thalith. [Inferred] <br>- A sacred artifact of Beltar has been lost and needs recovery. [Inferred] |
-
----

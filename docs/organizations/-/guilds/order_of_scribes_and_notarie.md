@@ -33,11 +33,3 @@ Sessões: — | Datas: — | Fontes: Gazetteer of Worlds and Realms.txt:contentR
 | - [City Archives](city_archives.md), sede da ordem.<br>- Escritórios menores em tribunais e mercados. | - [City Archives](city_archives.md), order headquarters.<br>- Smaller offices in courts and markets. |
 
 ---
-
-## 🎲 Ganchos de Aventura / Adventure Hooks
-
-| **Português (PT-PT)** | **English (EN-US)** |
-|-----------------------|---------------------|
-| - PCs são contratados para recuperar um tomo roubado que contém registos sensíveis.<br>- Um notário corrupto falsifica documentos para favorecer uma guilda criminosa.<br>- Um feitiço de preservação falha, ameaçando destruir séculos de registos. | - PCs are hired to recover a stolen tome containing sensitive records.<br>- A corrupt notary forges documents to favor a criminal guild.<br>- A preservation spell fails, threatening to destroy centuries of records. |
-
----

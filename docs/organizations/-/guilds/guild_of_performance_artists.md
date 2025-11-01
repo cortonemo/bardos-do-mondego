@@ -33,11 +33,3 @@ Sessões: — | Datas: — | Fontes: Gazetteer of Worlds and Realms.txt:contentR
 | - [Artisan Quarter](artisan_quarter.md), sede da guilda.<br>- Teatros e praças da cidade onde só artistas licenciados podem atuar. | - [Artisan Quarter](artisan_quarter.md), guild headquarters.<br>- Theaters and city squares where only licensed performers may play. |
 
 ---
-
-## 🎲 Ganchos de Aventura / Adventure Hooks
-
-| **Português (PT-PT)** | **English (EN-US)** |
-|-----------------------|---------------------|
-| - Um nobre tenta contratar os PCs para sabotar uma peça teatral que o ridiculariza.<br>- Um ator desaparece misteriosamente antes da estreia de uma peça patrocinada pela guilda.<br>- A guilda contrata aventureiros para lidar com bardos não licenciados que perturbam os festivais. | - A noble seeks to hire the PCs to sabotage a play mocking him.<br>- An actor mysteriously vanishes before the premiere of a guild-sponsored performance.<br>- The guild hires adventurers to deal with unlicensed bards disrupting festivals. |
-
----

@@ -33,11 +33,3 @@ Sessões: — | Datas: — | Fontes: Gazetteer of Worlds and Realms.txt:contentR
 | - [Artisan Quarter](artisan_quarter.md), sede da corporação.<br>- Oficinas licenciadas espalhadas por toda a cidade. | - [Artisan Quarter](artisan_quarter.md), corporation headquarters.<br>- Licensed workshops scattered throughout the city. |
 
 ---
-
-## 🎲 Ganchos de Aventura / Adventure Hooks
-
-| **Português (PT-PT)** | **English (EN-US)** |
-|-----------------------|---------------------|
-| - PCs são contratados para proteger uma caravana de aço destinada a forjas da Nove Espadas.<br>- Um ferreiro sem licença pede ajuda para provar que a corporação está envolvida em corrupção.<br>- Um mestre forjador desaparece na véspera da renovação das licenças anuais. | - PCs are hired to protect a steel caravan bound for Nine of Swords forges.<br>- An unlicensed smith seeks help to prove the corporation is engaged in corruption.<br>- A master smith disappears on the eve of the annual license renewals. |
-
----

@@ -33,11 +33,3 @@ Sessões: — | Datas: — | Fontes: Gazetteer of Worlds and Realms.txt | Tags: 
 | - [University of Magical Arts](university_of_magical_arts.md), sede da sociedade.<br>- Salas de aula e laboratórios experimentais. | - [University of Magical Arts](university_of_magical_arts.md), society headquarters.<br>- Classrooms and experimental laboratories. |
 
 ---
-
-## 🎲 Ganchos de Aventura / Adventure Hooks
-
-| **Português (PT-PT)** | **English (EN-US)** |
-|-----------------------|---------------------|
-| - Dois eruditos rivais contratam os PCs para roubar notas um do outro.<br>- Um manuscrito perdido da sociedade ressurge num mercado negro.<br>- Um experimento arcano corre mal, libertando criaturas mágicas na universidade. | - Two rival scholars hire the PCs to steal each other’s notes.<br>- A lost manuscript of the society resurfaces in a black market.<br>- An arcane experiment goes wrong, releasing magical creatures into the university. |
-
----

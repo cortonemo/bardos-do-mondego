@@ -28,20 +28,3 @@
 |                                                                                                                                                                               |                                                                                                                                                                                  |
 
 ---
-
-## 🧩 Ganchos de Aventura / Adventure Hooks
-
-| **Português (PT-PT)** | **English (EN-US)** |
-| --------------------- | ------------------- |
-| - PCs são convidados a integrar a companhia como membros honorários.<br>- Um contrato da Dragon Arcana Co. entra em conflito com interesses da **[Merchant Assembly](../institutions/merchant_assembly.md)** em Dyvers.<br>- O desaparecimento de uma caravana ameaça a reputação da companhia.<br>- A Dragon Arcana Co. é acusada de tráfico arcano ilegal. | - PCs are invited to join the company as honorary members.<br>- A Dragon Arcana Co. contract clashes with interests of the **[Merchant Assembly](../institutions/merchant_assembly.md)** in Dyvers.<br>- The disappearance of a caravan threatens the company’s reputation.<br>- The Dragon Arcana Co. is accused of illegal arcane trafficking. |
-
----
-
-## 🏷️ Tags, Fontes e Sessões / Tags, Sources & Sessions
-
-| **Português (PT-PT)** | **English (EN-US)** |
-| --------------------- | ------------------- |
-| **Tags:** organização, aliados, mercenários, magia, dragões, Greyhawk | **Tags:** organization, allies, mercenaries, magic, dragons, Greyhawk |
-| **Fontes:** Tales from the Great Tavern, lista_dos_pc_e_suas_interaccoes.txt | **Sources:** Tales from the Great Tavern, lista_dos_pc_e_suas_interaccoes.txt |
-| **Sessões:** Referências às fundações da companhia e contratos aceites por Drayl e Wagner. | **Sessions:** References to the company’s founding and contracts accepted by Drayl and Wagner. |
-

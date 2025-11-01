@@ -27,20 +27,3 @@
 | - [**Dorakaa**](dorakaa.md), capital da teocracia de Iuz.<br>- Templos fortificados e fortalezas militares espalhadas pelo império.<br>- Áreas corrompidas por rituais demoníacos. | - [**Dorakaa**](dorakaa.md), capital of Iuz’s theocracy.<br>- Fortified temples and military strongholds across the empire.<br>- Lands corrupted by demonic rituals. |     |
 
 ---
-
-## 🧩 Ganchos de Aventura / Adventure Hooks
-
-| **Português (PT-PT)** | **English (EN-US)** |
-| --------------------- | ------------------- |
-| - Um dos membros do Boneheart procura um artefacto escondido em **Mistwood**.<br>- Os PCs interceptam planos secretos que revelam ataques iminentes a **Dyvers**.<br>- Um traidor dentro do Boneheart oferece informações em troca de proteção.<br>- Os heróis precisam impedir um ritual liderado por todo o círculo em Dorakaa. | - A Boneheart member seeks an artifact hidden in **Mistwood**.<br>- PCs intercept secret plans revealing imminent attacks on **Dyvers**.<br>- A traitor within the Boneheart offers information in exchange for protection.<br>- The heroes must stop a ritual led by the entire circle in Dorakaa. |
-
----
-
-## 🏷️ Tags, Fontes e Sessões / Tags, Sources & Sessions
-
-| **Português (PT-PT)** | **English (EN-US)** |
-| --------------------- | ------------------- |
-| **Tags:** organização, facção, Iuz, necromancia, demónios, teocracia | **Tags:** organization, faction, Iuz, necromancy, demons, theocracy |
-| **Fontes:** AllOrganizations, Named Beings and Groups of the Realms, Gazetteer of Worlds and Realms | **Sources:** AllOrganizations, Named Beings and Groups of the Realms, Gazetteer of Worlds and Realms |
-| **Sessões:** Referências indiretas a Iuz e aos seus generais demoníacos. | **Sessions:** Indirect references to Iuz and his demonic generals. |
-

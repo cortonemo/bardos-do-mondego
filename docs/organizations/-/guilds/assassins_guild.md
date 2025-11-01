@@ -33,11 +33,3 @@ Sessões: 3, 13 | Datas: 2025-01-15, 2025-03-13 | Fontes: s03_vale_do_vento_somb
 | - [Bairro das Favelas](slum_quarter.md), sede secreta e centro de treino.<br>- Rede de casas seguras escondidas em toda Greyhawk. | - [Slum Quarter](slum_quarter.md), secret headquarters and training center.<br>- Network of safehouses scattered across Greyhawk. |
 
 ---
-
-## 🎲 Ganchos de Aventura / Adventure Hooks
-
-| **Português (PT-PT)** | **English (EN-US)** |
-|-----------------------|---------------------|
-| - Um contrato misterioso é colocado sobre a cabeça de um dos PCs.<br>- O grupo é contratado pela guilda rival (Ladrões) para sabotar um golpe dos Assassinos.<br>- Uma série de assassinatos políticos ameaça mergulhar Greyhawk no caos. | - A mysterious contract is placed on one of the PCs’ heads.<br>- The party is hired by the rival guild (Thieves) to sabotage an Assassins’ Guild strike.<br>- A string of political murders threatens to plunge Greyhawk into chaos. |
-
----

@@ -33,11 +33,3 @@ Sessões: — | Datas: — | Fontes: Gazetteer of Worlds and Realms.txt:contentR
 | - [Bairro dos Artesãos](artisans_quarter.md), sede da guilda.<br>- Oficinas afiliadas em todo o distrito. | - [Artisan Quarter](artisans_quarter.md), guild headquarters.<br>- Affiliated workshops throughout the district. |
 
 ---
-
-## 🎲 Ganchos de Aventura / Adventure Hooks
-
-| **Português (PT-PT)** | **English (EN-US)** |
-|-----------------------|---------------------|
-| - Um mestre carpinteiro pede ajuda para recuperar madeira rara roubada por bandidos.<br>- Um aprendiz descobre que o seu mestre está envolvido em práticas ilegais (como necromancia) e procura os PCs em segredo.<br>- Um incêndio misterioso destrói parte do armazém da guilda e suspeita-se de sabotagem da [Guilda dos Ladrões](docs/organizations/-/guilds/guild_of_thieves.md). | - A master carpenter asks for help retrieving rare timber stolen by bandits.<br>- An apprentice discovers his master is involved in illegal practices (such as necromancy) and secretly seeks out the PCs.<br>- A mysterious fire destroys part of the guild’s warehouse, suspected sabotage by the [Thieves Guild](docs/organizations/-/guilds/guild_of_thieves.md). |
-
----

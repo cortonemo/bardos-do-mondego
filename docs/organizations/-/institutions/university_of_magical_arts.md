@@ -22,7 +22,7 @@ Sessões: — | Datas: — | Fontes: Gazetteer of Worlds and Realms.txt | Tags: 
 
 | **Português (PT-PT)**                                                                                                                                                                                                                        | **English (EN-US)**                                                                                                                                                                                                                       |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Inferido] - **Reitor da Universidade**, responsável pela administração.<br>- Membros da [Sociedade dos Magos](society_of_magi.md), professores e investigadores.<br>- Estudantes ambiciosos, alguns ligados a guildas ou nobres influentes. | [Inferred] - **University Rector**, responsible for administration.<br>- Members of the [Society of Magi](society_of_magi.md), serving as professors and researchers.<br>- Ambitious students, some tied to guilds or influential nobles. |
+| [Inferido] - **Reitor da Universidade**, responsável pela administração.<br>- Membros da [Sociedade dos Magos](docs/organizations/-/arcane%20orders/society_of_magi.md), professores e investigadores.<br>- Estudantes ambiciosos, alguns ligados a guildas ou nobres influentes. | [Inferred] - **University Rector**, responsible for administration.<br>- Members of the [Society of Magi](docs/organizations/-/arcane%20orders/society_of_magi.md), serving as professors and researchers.<br>- Ambitious students, some tied to guilds or influential nobles. |
 
 ---
 
@@ -31,13 +31,5 @@ Sessões: — | Datas: — | Fontes: Gazetteer of Worlds and Realms.txt | Tags: 
 | **Português (PT-PT)** | **English (EN-US)** |
 |-----------------------|---------------------|
 | [Inferido] - Campus principal situado no [High Quarter](high_quarter.md).<br>- Biblioteca mágica com grimórios e artefactos raros.<br>- Laboratórios arcanos dedicados à investigação e certificação. | [Inferred] - Main campus located in the [High Quarter](high_quarter.md).<br>- Magical library holding rare grimoires and artifacts.<br>- Arcane laboratories dedicated to research and certification. |
-
----
-
-## 🎲 Ganchos de Aventura / Adventure Hooks
-
-| **Português (PT-PT)** | **English (EN-US)** |
-|-----------------------|---------------------|
-| [Inferido] - Um estudante descobre que o seu mestre pratica necromancia ilegal e pede ajuda aos PCs.<br>- A Universidade contrata os aventureiros para recuperar um tomo roubado.<br>- Uma experiência arcana corre mal e abre um portal para outro plano. | [Inferred] - A student discovers their master is practicing illegal necromancy and seeks the PCs’ aid.<br>- The University hires adventurers to recover a stolen tome.<br>- An arcane experiment goes wrong, opening a portal to another plane. |
 
 ---

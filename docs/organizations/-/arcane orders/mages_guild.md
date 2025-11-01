@@ -33,11 +33,3 @@ Sessões: — | Datas: — | Fontes: Gazetteer of Worlds and Realms.txt:contentR
 | - [High Quarter](high_quarter.md), sede da guilda.<br>- Salas de treino e bibliotecas afiliadas em vários distritos. | - [High Quarter](high_quarter.md), guild headquarters.<br>- Training halls and affiliated libraries across districts. |
 
 ---
-
-## 🎲 Ganchos de Aventura / Adventure Hooks
-
-| **Português (PT-PT)** | **English (EN-US)** |
-|-----------------------|---------------------|
-| - Dois magos rivais disputam patentes mágicas e pedem aos PCs que intervenham.<br>- Um item mágico ilegal é vendido sem licença, atraindo a atenção da guilda.<br>- Um aprendiz desaparece após ser visto a investigar rituais proibidos. | - Two rival mages dispute magical patents and ask the PCs to intervene.<br>- An unlicensed magical item is sold, drawing the guild’s attention.<br>- An apprentice vanishes after being seen investigating forbidden rituals. |
-
----

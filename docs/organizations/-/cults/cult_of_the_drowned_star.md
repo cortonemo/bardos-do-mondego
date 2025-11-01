@@ -33,11 +33,3 @@ Sessões: [por preencher] | Datas: [por preencher] | Fontes: Gazetteer of Worlds
 | - [Dyvers](dyvers.md): cidade onde o culto é mais referido. <br>- Docas e rios da região, associados a afogamentos rituais. [Fonte Direta] | - [Dyvers](dyvers.md): city where the cult is most referenced. <br>- Docks and rivers of the region, tied to ritual drownings. [Source] |
 
 ---
-
-## 🎲 Ganchos de Aventura | Adventure Hooks
-
-| **Português** | **English** |
-|---------------|-------------|
-| - Investigar desaparecimentos recentes em [Dyvers](dyvers.md) ligados ao culto. [Inferido] <br>- Recuperar um ídolo submerso da Estrela Afogada em ruínas subaquáticas. [Inferido] <br>- O culto pode estar em aliança com as [Black Orchids](../factions/black_orchids.md). [Inferido] <br>- Um mapa náutico roubado indica a localização de um templo submerso. [Inferido] | - Investigate recent disappearances in [Dyvers](dyvers.md) linked to the cult. [Inferred] <br>- Recover a submerged idol of the Drowned Star from underwater ruins. [Inferred] <br>- The cult may be allied with the [Black Orchids](../factions/black_orchids.md). [Inferred] <br>- A stolen nautical chart points to the location of a submerged temple. [Inferred] |
-
----

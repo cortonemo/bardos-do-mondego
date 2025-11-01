@@ -33,11 +33,3 @@ Sessões: — | Datas: — | Fontes: Gazetteer of Worlds and Realms.txt | Tags: 
 | - [Grand Market](grand_market.md), subsolo onde se encontra a sede do círculo.<br>- Salas de arbitragem para resolução de disputas. | - [Grand Market](grand_market.md), underground headquarters of the circle.<br>- Arbitration halls for dispute resolution. |
 
 ---
-
-## 🎲 Ganchos de Aventura / Adventure Hooks
-
-| **Português (PT-PT)** | **English (EN-US)** |
-|-----------------------|---------------------|
-| - PCs são convidados a testemunhar num duelo diplomático entre magos comerciantes.<br>- Uma patente mágica forjada ameaça desestabilizar o mercado.<br>- O círculo procura aventureiros para caçar um antigo membro que traiu os seus estatutos. | - PCs are invited to witness a diplomatic duel between merchant mages.<br>- A forged magical patent threatens to destabilize the market.<br>- The circle seeks adventurers to hunt down a former member who betrayed its statutes. |
-
----

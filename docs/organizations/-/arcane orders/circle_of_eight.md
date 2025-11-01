@@ -26,18 +26,4 @@ Sessões: — | Datas: — | Fontes: Gazetteer of Worlds and Realms.txt, Named B
 
 ---
 
-## 📌 Localizações / Locations
-
-| **Português (PT-PT)** | **English (EN-US)** |
-|-----------------------|---------------------|
-| - [Free City of Greyhawk](free_city_of_greyhawk.md), local de influência política e arcana.<br>- Torretas e torres privadas dos membros, espalhadas por Oerth. | - [Free City of Greyhawk](free_city_of_greyhawk.md), center of political and arcane influence.<br>- Private towers and strongholds of members, scattered across Oerth. |
-
----
-
-## 🎲 Ganchos de Aventura / Adventure Hooks
-
-| **Português (PT-PT)** | **English (EN-US)** |
-|-----------------------|---------------------|
-| - O círculo procura aventureiros para investigar atividades da [Scarlet Brotherhood](scarlet_brotherhood.md).<br>- Um membro do círculo desaparece misteriosamente e os PCs são contratados para o encontrar.<br>- Um inimigo antigo do círculo regressa, ameaçando desestabilizar Greyhawk. | - The circle seeks adventurers to investigate activities of the [Scarlet Brotherhood](scarlet_brotherhood.md).<br>- A member of the circle disappears mysteriously, and the PCs are hired to find them.<br>- An old enemy of the circle returns, threatening to destabilize Greyhawk. |
-
 ---

@@ -33,11 +33,3 @@ Sessões: — | Datas: — | Fontes: Gazetteer of Worlds and Realms.txt | Tags: 
 | [Inferido] - Edifício principal situado no [High Quarter](high_quarter.md).<br>- Arquivos subterrâneos protegidos por encantamentos.<br>- Salas de estudo abertas a visitantes com autorização. | [Inferred] - Main building located in the [High Quarter](high_quarter.md).<br>- Underground archives protected by enchantments.<br>- Study halls open to visitors with clearance. |
 
 ---
-
-## 🎲 Ganchos de Aventura / Adventure Hooks
-
-| **Português (PT-PT)** | **English (EN-US)** |
-|-----------------------|---------------------|
-| [Inferido] - Um tomo antigo desaparece misteriosamente da biblioteca.<br>- O Arquivista-Chefe pede aos PCs para proteger uma remessa rara de livros vindos de Dyvers.<br>- Uma seita secreta tenta infiltrar-se na biblioteca para destruir escrituras sagradas. | [Inferred] - An ancient tome mysteriously vanishes from the library.<br>- The Chief Archivist asks the PCs to protect a rare shipment of books arriving from Dyvers.<br>- A secret cult tries to infiltrate the library to destroy sacred writings. |
-
----

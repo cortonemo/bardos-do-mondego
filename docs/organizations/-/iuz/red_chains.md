@@ -27,20 +27,3 @@
 | - Campos de escravos em **Dorakaa**.<br>- Guarnições móveis em caravanas fortificadas.<br>- Presença em rotas subterrâneas próximas da **Casa Azh’Thalith**. | - Slave camps in **Dorakaa**.<br>- Mobile garrisons in fortified caravans.<br>- Presence in Underdark routes near **House Azh’Thalith**. |
 
 ---
-
-## 🧩 Ganchos de Aventura / Adventure Hooks
-
-| **Português (PT-PT)** | **English (EN-US)** |
-| --------------------- | ------------------- |
-| - Os PCs são contratados para libertar prisioneiros capturados pelas Correntes Vermelhas.<br>- Uma caravana de escravos Vanthir é protegida pelos Red Chains.<br>- O grupo descobre que os Red Chains estão a fornecer vítimas para o **[Culto do Pai Demónio](cult_of_the_fiendfather.md)**.<br>- Um capitão desertor oferece segredos sobre Dorakaa em troca de proteção. | - PCs are hired to rescue prisoners captured by the Red Chains.<br>- A Vanthir slave caravan is guarded by the Red Chains.<br>- The party discovers that the Red Chains are supplying victims to the **[Cult of the Fiendfather](cult_of_the_fiendfather.md)**.<br>- A deserter captain offers secrets about Dorakaa in exchange for protection. |
-
----
-
-## 🏷️ Tags, Fontes e Sessões / Tags, Sources & Sessions
-
-| **Português (PT-PT)** | **English (EN-US)** |
-| --------------------- | ------------------- |
-| **Tags:** organização, facção, Iuz, escravidão, Dorakaa | **Tags:** organization, faction, Iuz, slavery, Dorakaa |
-| **Fontes:** AllOrganizations, Named Beings and Groups of the Realms, Gazetteer of Worlds and Realms | **Sources:** AllOrganizations, Named Beings and Groups of the Realms, Gazetteer of Worlds and Realms |
-| **Sessões:** Não existem menções diretas em sessões; presença confirmada apenas em lore. | **Sessions:** No direct mentions in sessions; presence confirmed only in lore. |
-

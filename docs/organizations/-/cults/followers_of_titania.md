@@ -34,11 +34,3 @@ Sessões: [por preencher] | Datas: [por preencher] | Fontes: Gazetteer of Worlds
 |                                                                                                                                                                               |                                                                                                                                                        |
 
 ---
-
-## 🎲 Ganchos de Aventura | Adventure Hooks
-
-| **Português** | **English** |
-|---------------|-------------|
-| - Um grupo de seguidores tenta abrir um portal permanente para o [Feywild](feywild.md). [Inferido] <br>- Titânia oferece bênçãos a aventureiros, mas sempre a um preço. [Inferido] <br>- Conflito entre os seguidores de Titânia e druidas de Rao sobre a “pureza da natureza”. [Inferido] <br>- Uma relíquia feérica perdida é disputada entre os seguidores de Titânia e a Order of the Keepers. [Inferido] | - A group of followers attempts to open a permanent portal to the [Feywild](feywild.md). [Inferred] <br>- Titania offers blessings to adventurers, but always at a price. [Inferred] <br>- Conflict arises between Titania’s followers and druids of Rao over the “purity of nature.” [Inferred] <br>- A lost fey relic is contested between Titania’s followers and the Order of the Keepers. [Inferred] |
-
----

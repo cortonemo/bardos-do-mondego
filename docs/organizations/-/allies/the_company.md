@@ -67,22 +67,3 @@
 | - [Artisan Quarter](artisan_quarter.md), onde se encontra ancorada.<br>- Corredores mutáveis adaptados aos hóspedes.<br>- Portais dimensionais ligados a outros planos. | - [Artisan Quarter](artisan_quarter.md), where it is anchored.<br>- Shifting corridors adapted to guests.<br>- Dimensional portals linked to other planes. |
 
 ---
-
-## 🎲 Ganchos de Aventura / Adventure Hooks
-
-| **Português (PT-PT)** | **English (EN-US)** |
-|-----------------------|---------------------|
-| - Um **tavern ring** é roubado, permitindo a entrada de um inimigo.<br>- Novas salas secretas aparecem durante um eclipse.<br>- As âncoras mágicas da taberna começam a falhar, ameaçando arrastá-la para outro plano. | - A **tavern ring** is stolen, allowing an enemy inside.<br>- New secret halls appear during an eclipse.<br>- The tavern’s magical anchors begin to fail, threatening to drag it into another plane. |
-
----
-
-## 🏷️ Tags, Fontes e Sessões / Tags, Sources & Sessions
-
-| **Português (PT-PT)** | **English (EN-US)** |
-|-----------------------|---------------------|
-| **Tags:** organização, taberna, magia, Greyhawk | **Tags:** organization, tavern, magic, Greyhawk |
-| **Fontes:** Tales from the Great Tavern.txt, greyhawk_sessions_complete.md | **Sources:** Tales from the Great Tavern.txt, greyhawk_sessions_complete.md |
-| **Sessões:** múltiplas | **Sessions:** multiple |
-| **Datas:** desde 2024-12-14 | **Dates:** since 2024-12-14 |
-
----

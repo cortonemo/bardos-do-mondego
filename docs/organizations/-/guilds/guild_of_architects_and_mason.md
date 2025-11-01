@@ -33,11 +33,3 @@ Sessões: — | Datas: — | Fontes: Gazetteer of Worlds and Realms.txt:contentR
 | - [Bairro dos Artesãos](artisans_quarter.md), sede da guilda.<br>- Canteiros de pedra e oficinas em várias zonas da cidade. | - [Artisan Quarter](artisans_quarter.md), guild headquarters.<br>- Stone yards and workshops across the city. |
 
 ---
-
-## 🎲 Ganchos de Aventura / Adventure Hooks
-
-| **Português (PT-PT)** | **English (EN-US)** |
-|-----------------------|---------------------|
-| - Um aprendiz descobre plantas secretas que revelam passagens ocultas sob Greyhawk.<br>- Um colapso misterioso numa obra pública sugere sabotagem.<br>- Um patrono nobre contrata os PCs para garantir que um arquiteto rival “não conclua” a sua obra. | - An apprentice uncovers secret blueprints revealing hidden passages beneath Greyhawk.<br>- A mysterious collapse at a public construction site suggests sabotage.<br>- A noble patron hires the PCs to ensure a rival architect “never completes” his work. |
-
----

@@ -4,8 +4,8 @@ Sessões: — | Datas: — | Fontes: Gazetteer of Worlds and Realms.txt:contentR
 
 ![Guild of Weavers, Tanners, and Tailors](assets/organization/org_blank.png)
 
-| **Português (PT-PT)** | **English (EN-US)** |
-|-----------------------|---------------------|
+| **Português (PT-PT)**                                                                                                                                                                                                                                                                                                                                                                                                                                                     | **English (EN-US)**                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Localizada no [Artisan Quarter](artisan_quarter.md) da [Free City of Greyhawk](free_city_of_greyhawk.md), esta guilda reúne profissionais que trabalham com tecidos, peles e roupas. Os tecelões produzem tecidos finos e utilitários, os curtidores preparam couros para uso em armaduras e vestuário, e os alfaiates criam vestes luxuosas e uniformes. A guilda regula preços, qualidade e licenciamento, impondo severas punições a quem trabalha fora da sua alçada. | Located in the [Artisan Quarter](artisan_quarter.md) of the [Free City of Greyhawk](free_city_of_greyhawk.md), this guild unites professionals working with textiles, hides, and clothing. Weavers produce both fine and practical fabrics, tanners prepare leathers for armor and garments, and tailors create luxurious outfits and uniforms. The guild regulates pricing, quality, and licensing, imposing severe punishments on those who work outside its authority. |
 
 ---
@@ -31,13 +31,5 @@ Sessões: — | Datas: — | Fontes: Gazetteer of Worlds and Realms.txt:contentR
 | **Português (PT-PT)** | **English (EN-US)** |
 |-----------------------|---------------------|
 | - [Artisan Quarter](artisan_quarter.md), sede da guilda.<br>- Oficinas de curtidores junto às margens do rio, devido ao cheiro forte dos processos. | - [Artisan Quarter](artisan_quarter.md), guild headquarters.<br>- Tanner workshops near the riverbanks due to the strong smells of their trade. |
-
----
-
-## 🎲 Ganchos de Aventura / Adventure Hooks
-
-| **Português (PT-PT)** | **English (EN-US)** |
-|-----------------------|---------------------|
-| - Um carregamento de tecidos raros desapareceu a caminho do mercado — suspeita-se de contrabando organizado.<br>- Um aprendiz pede ajuda após descobrir que o seu mestre está envolvido em tráfico de peles exóticas ilegais.<br>- O roubo de um traje cerimonial ameaça atrasar uma reunião importante do Conselho das Guildas. | - A shipment of rare fabrics has gone missing en route to the market — smuggling is suspected.<br>- An apprentice seeks help after discovering their master is involved in trafficking illegal exotic hides.<br>- The theft of a ceremonial outfit threatens to delay an important Guild Council meeting. |
 
 ---

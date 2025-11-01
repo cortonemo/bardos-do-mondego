@@ -27,18 +27,3 @@
 | - Enclaves ocultos no **Subterrâneo (Underdark)**.<br>- Túneis próximos a ruínas visitadas pelos PCs.<br>- Possíveis ligações a áreas sombrias de **Mistwood**. | - Hidden enclaves in the **Underdark**.<br>- Tunnels near ruins explored by the PCs.<br>- Possible connections to shadowed regions of **Mistwood**. |
 
 ---
-
-## 🧩 Ganchos de Aventura / Adventure Hooks
-
-| **Português (PT-PT)** | **English (EN-US)** |
-| --------------------- | ------------------- |
-| - Um emissário da Casa Azh'Thalith aproxima-se dos PCs com uma proposta perigosa.<br>- Um enclave drow é descoberto sob uma aldeia próxima e ameaça a sua destruição.<br>- Os Azh'Thalith tentam capturar um dos heróis para rituais sombrios.<br>- Informações roubadas sugerem que a casa procura uma aliança com necromantes do **Clan Ferrugio**. | - A House Azh'Thalith emissary approaches the PCs with a dangerous offer.<br>- A drow enclave is uncovered beneath a nearby village, threatening its destruction.<br>- The Azh'Thalith attempt to capture one of the heroes for dark rituals.<br>- Stolen intelligence suggests the house seeks an alliance with necromancers of the **Clan Ferrugio**. |
-
----
-## 🏷️ Tags, Fontes e Sessões / Tags, Sources & Sessions
-
-| **Português (PT-PT)** | **English (EN-US)** |
-| --------------------- | ------------------- |
-| **Tags:** organização, facção, drow, Underdark, intriga | **Tags:** organization, faction, drow, Underdark, intrigue |
-| **Fontes:** AllOrganizations, Named Beings and Groups of the Realms | **Sources:** AllOrganizations, Named Beings and Groups of the Realms |
-| **Sessões:** Referências indiretas em missões no Subterrâneo. | **Sessions:** Indirect references in Underdark missions. |

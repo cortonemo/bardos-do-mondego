@@ -27,19 +27,3 @@
 | - [Free City of Greyhawk](free_city_of_greyhawk.md), especialmente o [Bazaar District](bazaar_district.md).<br>- Casas de câmbio e armazéns no **Wharf District**. | - [Free City of Greyhawk](free_city_of_greyhawk.md), especially the [Bazaar District](bazaar_district.md).<br>- Money houses and warehouses in the **Wharf District**. |
 
 ---
-
-## 🧩 Ganchos de Aventura / Adventure Hooks
-
-| **Português (PT-PT)** | **English (EN-US)** |
-| --------------------- | ------------------- |
-| - O Consórcio recruta os PCs para proteger uma caravana que transporta bens “sensíveis”.<br>- Um contrato com o Consórcio obriga os heróis a lidar com rivais criminosos.<br>- Descobrem que o Consórcio está a financiar cultistas do [Culto do Mal Elemental](docs/organizations/-/cults/cult_of_elemental_evil.md).<br>- Um dos mercadores oferece-se como patrono, mas exige lealdade total. | - The Consortium hires the PCs to protect a caravan carrying “sensitive” goods.<br>- A contract with the Consortium forces the heroes to deal with criminal rivals.<br>- The party discovers the Consortium is financing cultists of the [Cult of Elemental Evil](docs/organizations/-/cults/cult_of_elemental_evil.md).<br>- One merchant offers to act as a patron, but demands total loyalty. |
-
----
-
-## 🏷️ Tags, Fontes e Sessões / Tags, Sources & Sessions
-
-| **Português (PT-PT)** | **English (EN-US)** |
-| --------------------- | ------------------- |
-| **Tags:** organização, facção, Greyhawk, comércio, influência económica | **Tags:** organization, faction, Greyhawk, trade, economic influence |
-| **Fontes:** AllOrganizations:contentReference[oaicite:0]{index=0} | **Sources:** AllOrganizations:contentReference[oaicite:1]{index=1} |
-| **Sessões:** Ainda não associada a sessões diretas. | **Sessions:** Not yet tied to direct sessions. |

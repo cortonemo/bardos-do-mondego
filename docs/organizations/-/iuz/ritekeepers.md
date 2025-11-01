@@ -22,25 +22,9 @@
 
 ## 📍 Localizações / Locations
 
-| **Português (PT-PT)** | **English (EN-US)** |
-| --------------------- | ------------------- |
-| - Templos ocultos em **Dorakaa** e nas regiões fronteiriças.<br>- Criptas no Subterrâneo ligadas ao clã **[Ferrugio](../factions/clan_ferrugio.md)**.<br>- Locais de batalha marcados por antigos rituais de sangue. | - Hidden temples in **Dorakaa** and border regions.<br>- Crypts in the Underdark tied to the **[Ferrugio Clan](../factions/clan_ferrugio.md)**.<br>- Battlefields scarred by ancient blood rites. |
+| **Português (PT-PT)**                                                                                                                                                                                    | **English (EN-US)**                                                                                                                                                                   |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| - Templos ocultos em **Dorakaa** e nas regiões fronteiriças.<br>- Criptas no Subterrâneo ligadas ao **[clã Ferrugio](clan_ferrugio.md)**.<br>- Locais de batalha marcados por antigos rituais de sangue. | - Hidden temples in **Dorakaa** and border regions.<br>- Crypts in the Underdark tied to the **[Ferrugio Clan](clan_ferrugio.md)**.<br>- Battlefields scarred by ancient blood rites. |
 
 ---
-
-## 🧩 Ganchos de Aventura / Adventure Hooks
-
-| **Português (PT-PT)** | **English (EN-US)** |
-| --------------------- | ------------------- |
-| - Os PCs encontram um grimório codificado dos Ritekeepers e precisam de ajuda para decifrá-lo.<br>- Um ritual em Mistwood ameaça abrir uma fenda planar permanente.<br>- Um aprendiz Ritekeeper foge de Dorakaa e procura os heróis para proteção.<br>- O grupo deve impedir um sacrifício em massa conduzido por Ritekeepers numa fortaleza fronteiriça. | - PCs find a coded Ritekeeper grimoire and must seek help to decipher it.<br>- A ritual in Mistwood threatens to open a permanent planar rift.<br>- A Ritekeeper apprentice flees Dorakaa seeking protection from the heroes.<br>- The party must stop a mass sacrifice led by Ritekeepers in a border fortress. |
-
----
-
-## 🏷️ Tags, Fontes e Sessões / Tags, Sources & Sessions
-
-| **Português (PT-PT)** | **English (EN-US)** |
-| --------------------- | ------------------- |
-| **Tags:** organização, facção, Iuz, necromancia, rituais, Dorakaa | **Tags:** organization, faction, Iuz, necromancy, rituals, Dorakaa |
-| **Fontes:** AllOrganizations, Named Beings and Groups of the Realms, Gazetteer of Worlds and Realms | **Sources:** AllOrganizations, Named Beings and Groups of the Realms, Gazetteer of Worlds and Realms |
-| **Sessões:** Referências indiretas a rituais de Iuz e necromancia em Dorakaa. | **Sessions:** Indirect references to Iuz rituals and necromancy in Dorakaa. |
 

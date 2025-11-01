@@ -36,21 +36,3 @@
 | - **Mansão Vanthir em Dorakaa**, hoje em ruínas e parcialmente abandonada.<br>- Túnel subterrâneo associado ao comércio de escravos, ligando Dorakaa ao Subterrâneo.<br>- **Ruínas Vanthir** visitadas em sessão, usadas por Raveth como palco de chantagem. | - **Vanthir Manor in Dorakaa**, now ruined and partially abandoned.<br>- Subterranean tunnel network tied to the slave trade, linking Dorakaa to the Underdark.<br>- **Vanthir Ruins** visited in session, used by Raveth as blackmail stage. |
 
 ---
-
-## 🧩 Ganchos de Aventura / Adventure Hooks
-
-| **Português (PT-PT)** | **English (EN-US)** |
-| --------------------- | ------------------- |
-| - Os PCs encontram provas de pactos antigos entre os Vanthir e [Iuz](../iuz/greater_boneheart.md).<br>- Um herdeiro perdido da casa regressa, ameaçando expor a impostura de **[Kai](docs/pc/-/pc_kai.md)**.<br>- O espectro de **Lorde Dain Vanthir** assombra Dorakaa, exigindo sangue para restaurar a honra perdida.<br>- **[Raveth Xil’Zyrl](../raveth_xilzyrl.md)** manipula o legado Vanthir como ferramenta de chantagem política. | - PCs uncover evidence of ancient pacts between the Vanthir and [Iuz](../iuz/greater_boneheart.md).<br>- A lost heir of the house resurfaces, threatening to expose **[Kai](docs/pc/-/pc_kai.md)**’s imposture.<br>- The specter of **Lord Dain Vanthir** haunts Dorakaa, demanding blood to restore lost honor.<br>- **[Raveth Xil’Zyrl](../raveth_xilzyrl.md)** manipulates the Vanthir legacy as a tool of political blackmail. |
-
----
-
-## 🏷️ Tags, Fontes e Sessões / Tags, Sources & Sessions
-
-| **Português (PT-PT)** | **English (EN-US)** |
-| --------------------- | ------------------- |
-| **Tags:** organização, facção, nobres, Dorakaa, Iuz, Kai, impostura, ruínas | **Tags:** organization, faction, nobles, Dorakaa, Iuz, Kai, imposture, ruins |
-| **Fontes:** Tales from the Great Tavern, AllOrganizations, Named Beings and Groups of the Realms | **Sources:** Tales from the Great Tavern, AllOrganizations, Named Beings and Groups of the Realms |
-| **Sessões:** S16A (“A Chantagem de Kai e a Captura de Dustin”), outras em que o passado de Kai foi revelado. | **Sessions:** S16A (“Kai’s Blackmail and Dustin’s Capture”), others where Kai’s past was revealed. |
-
----

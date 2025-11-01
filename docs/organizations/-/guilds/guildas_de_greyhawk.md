@@ -53,24 +53,6 @@ Cada guilda possui estatutos próprios, rituais de admissão e níveis hierárqu
 
 ---
 
-## Ganchos de Roleplay
-
--  Um aprendiz pede ajuda após descobrir que o mestre da sua guilda está envolvido em necromancia ilegal.
--  A Guilda dos Ferreiros está em greve e armas não estão a ser produzidas  a cidade fica vulnerável.
-- ️ Um convite misterioso chega aos aventureiros para assistirem a uma reunião secreta da Guilda dos Ladrões.
--  A Guilda dos Comerciantes Livres quer contratar aventureiros para eliminar um novo sindicato pirata rival.
-
----
-
-## Notas de Foundry VTT
-
-- Sugestão: Criar uma **pasta Guildas nos Journal Entries** e subdividir por tipo (legítimas, mágicas, criminais).
-- Pins de Mapa: Posicionar entradas visíveis apenas após Interações Sociais (ex: *descobrir localização da Guilda dos Ladrões*).
-
-
----
-
-
 
 
 

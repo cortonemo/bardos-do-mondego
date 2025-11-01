@@ -27,21 +27,3 @@
 | - **Spa da Lady Scale**, destruído durante a batalha.<br>- Cavernas e salas adjacentes, agora em ruínas assombradas. | - **Lady Scale’s Spa**, destroyed during the battle.<br>- Adjacent halls and caverns, now haunted ruins. |
 
 ---
-
-## 🧩 Ganchos de Aventura / Adventure Hooks
-
-| **Português (PT-PT)** | **English (EN-US)** |
-| --------------------- | ------------------- |
-| - Fantasmas do spa continuam a assombrar o local em busca de Lady Scale.<br>- Um fragmento espiritual de Lady Scale ressurge, pedindo libertação ou vingança.<br>- Tesouros dracónicos permanecem escondidos nas ruínas.<br>- Um novo culto tenta erguer-se sobre as memórias do Scale-Flock. | - Ghosts of the spa continue to haunt the site seeking Lady Scale.<br>- A spiritual fragment of Lady Scale resurfaces, asking for release or revenge.<br>- Draconic treasures remain hidden in the ruins.<br>- A new cult attempts to rise over the memory of the Scale-Flock. |
-
----
-
-## 🏷️ Tags, Fontes e Sessões / Tags, Sources & Sessions
-
-| **Português (PT-PT)** | **English (EN-US)** |
-| --------------------- | ------------------- |
-| **Tags:** organização, facção, kobolds, Lady Scale, fantasma, destruição | **Tags:** organization, faction, kobolds, Lady Scale, ghost, destruction |
-| **Fontes:** Tales from the Great Tavern, greyhawk_sessions_complete.md | **Sources:** Tales from the Great Tavern, greyhawk_sessions_complete.md |
-| **Sessões:** Queda do Scale-Flock e destruição da Lady Scale confirmadas em sessões jogadas. | **Sessions:** Fall of the Scale-Flock and destruction of Lady Scale confirmed in played sessions. |
-
----
