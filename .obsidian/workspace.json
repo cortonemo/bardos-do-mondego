@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/pc/-/pc_silfir.md",
+                "file": "docs/dm/-/adventures/-/WIP/s02a_miner_difficulties.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "pc_silfir"
+              "title": "s02a_miner_difficulties"
             }
           }
         ]
@@ -178,6 +178,20 @@
   },
   "active": "e2343d10a1fea845",
   "lastOpenFiles": [
+    "docs/dm/-/adventures/-/01 Início da Campanha/s01a_purificacao_riacho_ready.md.md",
+    "triss.md",
+    "docs/pc/-/pc_triss_merrill.md",
+    "docs/pc/-/pc_usopp.md",
+    "docs/pc/-/pc_grix_molah.md",
+    "docs/pc/-/pc_vaunia_kolakiala.md",
+    "docs/pc/-/pc_markus_grimm.md",
+    "markus.md",
+    "docs/loot/itens/acorn_borogrove.md",
+    "docs/docs_structure.txt",
+    "Taberneiro.md",
+    "docs/dm/-/adventures/-/old/s01_os_fungos_do_bosque_bullet.md",
+    "docs/dm/-/adventures/-/WIP/S22_2025-05-29_casino_heist_parte1.md",
+    "docs/pc/-/pc_silfir.md",
     "docs/dm/-/pc/pc_silfir.md",
     "docs/dm/-/npc/Free City of Grehawk/kythria.md",
     "docs/npc/-/Free City of Grehawk/kythria.md",
@@ -190,21 +204,8 @@
     "docs/dm/-/pc/pc_ulma.md",
     "docs/organizations/-/factions/institute_of_the_veiled_light.md",
     "docs/dm/-/pc/pc_ulma_old.md",
-    "docs/pc/-/pc_silfir.md",
     "pc_gauthak_vunakamune 1.md",
-    "clerkburg.md",
-    "docs/dm/-/pc/pc_gauthak_vunakamune.md",
-    "docs/npc/-/Free City of Grehawk/liwana.md",
-    "docs/npc/-/unknown/lirael.md",
-    "docs/dm/-/pc/pc_eldric_silvanos.md",
-    "docs/pc/-/pc_zahel.md",
-    "docs/dm/-/npc/Free City of Grehawk/liwana.md",
-    "docs/dm/-/npc/Fey/titania.md",
-    "docs/dm/-/npc/Fey/pryssana.md",
-    "docs/dm/-/npc/Free City of Grehawk/lord_aleister_devraine.md",
-    "docs/dm/-/npc/Free City of Grehawk/lady_silvra_malren.md",
     "docs/assets/npc/liwana.png",
-    "docs/dm/-/pc/pc_dustin_thorne.md",
     "mkdocs.yml",
     "mkdocs.yml.bak",
     "docs/assets/monsters/psB2FB.tmp",
@@ -223,7 +224,6 @@
     "tools/docs_structure.txt",
     "docs/dm/-/adventures/CorrectOrderMerged.txt",
     "docs/dm/-/adventures/AleatorioMerged.txt",
-    "docs/dm/-/adventures/06 Missões Avançadas.txt",
-    "docs/dm/-/adventures/05 Missões Intermédias  Greyhawk.txt"
+    "docs/dm/-/adventures/06 Missões Avançadas.txt"
   ]
 }
