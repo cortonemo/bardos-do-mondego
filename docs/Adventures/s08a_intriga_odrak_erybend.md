@@ -1,0 +1,40 @@
+## Intriga de Odrak em Erybend / Odrak Intrigue in Erybend
+
+| 🗓 Timeline | PT | EN |
+| :--- | :--- | :--- |
+| **Data (In-Game)** | 20 de Fevereiro de 2025 | February 20, 2025 |
+| **Sessão #** | S08A | S08A |
+| **DM** | Laura | Laura |
+
+---
+## 📖 Overview / Sumário
+
+| Descrição | PT | EN |
+| :--- | :--- | :--- |
+| **Missão Principal** | A *party* é enviada a **[Erybend](erybend.md)**, uma cidade comercial estratégica, para estabelecer novos contactos e rotas comerciais, incluindo ligações a [Blackfair Manor](blackfair_manor.md) e [Two Fords](two_fords.md). O contacto é **[Dolrea Vas](dolrea_vas.md)**, que alerta o grupo sobre distúrbios e raptos recentes na cidade. | The party is sent to **[Erybend](erybend.md)**, a strategic trading city, to establish new contacts and trade routes, including links to [Blackfair Manor](blackfair_manor.md) and [Two Fords](two_fords.md). The contact is **[Dolrea Vas](dolrea_vas.md)**, who alerts the group to recent disturbances and kidnappings in the city. |
+| **Resultado** | O grupo é emboscado por **6 indivíduos encapuzados** (cultistas) na Taberna Machado Quebrado. Após a derrota dos atacantes, o grupo recupera uma lista de 7 nomes, descobrindo que **[Dolrea Vas](dolrea_vas.md)** é o próximo alvo dos sequestros, que se suspeita serem orquestrados pelos **Cultistas de Odrak**. | The party is ambushed by **6 hooded individuals** (cultists) in the Broken Axe Tavern. After defeating the attackers, the group recovers a list of 7 names, discovering that **[Dolrea Vas](dolrea_vas.md)** is the next target of the kidnappings, which are suspected to be orchestrated by **Odrak's Cultists**. |
+
+---
+## 🎲 Key Events / Eventos Chave
+
+| Evento | PT | EN |
+| :--- | :--- | :--- |
+| **O Chamado de Erybend** | **[Kythria](kythria.md)**, sobrinha do Taberneiro, envia a *party* a **[Erybend](erybend.md)**, conhecida por ser uma cidade de comerciantes. No caminho, o grupo encontra o *halfling* **[Flynn](pc_flynn.md)**, que se junta à missão. | **[Kythria](kythria.md)**, the Barkeep's niece, sends the *party* to **[Erybend](erybend.md)**, known as a city of merchants. En route, the group meets the *halfling* **[Flynn](pc_flynn.md)**, who joins the mission. |
+| **O Aviso de Dolrea** | Na chegada, o *half-elf* **[Dolrea Vas](dolrea_vas.md)** encontra o grupo e alerta para a série de desaparecimentos e raptos noturnos, que se suspeita serem obra dos **Cultistas de Odrak**. | Upon arrival, the *half-elf* **[Dolrea Vas](dolrea_vas.md)** meets the group and warns of the series of night-time disappearances and kidnappings, suspected to be the work of **Odrak's Cultists**. |
+| **Emboscada na Taberna** | O grupo segue a pista de **[Dolrea Vas](dolrea_vas.md)** até à Taberna Machado Quebrado (Broken Axe Tavern), onde veem cartazes de desaparecidos. Ao saírem, são emboscados por **6 indivíduos encapuzados** (cultistas). **[Grix Molah](pc_grix_molah.md)** compra mais de 85 pares de meias. | The party follows **[Dolrea Vas](dolrea_vas.md)'s** lead to the Broken Axe Tavern, where they see missing persons posters. As they leave, they are ambushed by **6 hooded individuals** (cultists). **[Grix Molah](pc_grix_molah.md)** buys over 85 pairs of socks. |
+| **O Próximo Alvo** | Ao revistar o corpo de um dos cultistas, o grupo encontra uma lista de 7 nomes. **[Dolrea Vas](dolrea_vas.md)** está no final da lista, confirmando que os cultistas vieram raptá-lo e que ele é o próximo alvo. | Upon searching the body of one of the cultists, the party finds a list of 7 names. **[Dolrea Vas](dolrea_vas.md)** is at the bottom of the list, confirming that the cultists came to kidnap him and that he is the next target. |
+
+---
+## 👥 Cast of Characters / Elenco de Personagens
+
+| Personagem | PT | EN |
+| :--- | :--- | :--- |
+| **[Kai](pc_kai.md)** | Membro da *party* de investigação e combate em [Erybend](erybend.md). | Investigation and combat *party* member in [Erybend](erybend.md). |
+| **[Grix Molah](pc_grix_molah.md)** | Envolvido na investigação do desaparecimento e na compra exagerada de meias. | Involved in the disappearance investigation and the exaggerated purchase of socks. |
+| **[Varus](pc_varus.md)** | Participa na missão de reconhecimento comercial e no combate. | Participates in the commercial reconnaissance mission and combat. |
+| **[Flynn](pc_flynn.md)** | O *halfling* que se junta à *party* na viagem. | The *halfling* who joins the *party* on the journey. |
+| **[Triss Merril](pc_triss_merril.md)** | Ajuda na investigação inicial e compra meias (*mal feitas*). | Aids in the initial investigation and buys socks (*poorly made*). |
+| **[Dolrea Vas](dolrea_vas.md)** | O *half-elf* local que contrata o grupo e é revelado como o próximo alvo do culto. | The local *half-elf* who contracts the group and is revealed as the cult's next target. |
+| **[Kythria](kythria.md)** | Sobrinha do Taberneiro que transmite a missão. | Barkeep's niece who relays the mission. |
+
+---
