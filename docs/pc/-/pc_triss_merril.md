@@ -1,4 +1,4 @@
-# Triss Merrill
+# Triss Merril
 
 
 | ![pc_triss_merrill_01](assets/pc/pc_triss_merrill_01.png){width=200} | ![pc_triss_merrill_02](assets/pc/pc_triss_merrill_02.png){width=200} | ![pc_triss_merrill_03](assets/pc/pc_triss_merrill_03.png){width=200} |

@@ -36,17 +36,20 @@
 | 💰 Rewards & Loot           | PT (Português)                                                                                                                                         | EN (English)                                                                                                                                           |
 | :-------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Itens Mágicos/Especiais** | [Staff of Flowers](staff_of_flowers.md) ([Markus](pc_markus_grimm.md)), [Magic Acorn](acorn_borogrove.md) ([Vaunia](docs/pc/-/pc_vaunia_kolakiala.md)) | [Staff of Flowers](staff_of_flowers.md) ([Markus](pc_markus_grimm.md)), [Magic Acorn](acorn_borogrove.md) ([Vaunia](docs/pc/-/pc_vaunia_kolakiala.md)) |
-| **Tesouro**                 | 10 gold ([Grix'Molah](pc_grix_molah.md)), 3 gems (1 [Conan](pc_conan_barbaro_ra.md), 2 [Triss](pc_triss_merrill.md))                                   | 10 gold ([Grix'Molah](pc_grix_molah.md)), 3 gems (1 [Conan](pc_conan_barbaro_ra.md), 2 [Triss](pc_triss_merrill.md))                                   |
-| **Outros**                  | [Silver knife](silver_knife.md) ([Triss](pc_triss_merrill.md)), Livro do Druida [Galin Fiduadin](galin_fiduadin.md)                                    | [Silver knife](silver_knife.md) ([Triss](pc_triss_merrill.md)),[Galin Fiduadin](galin_fiduadin.md) Druid's Book                                        |
+| **Tesouro**                 | 10 gold ([Grix'Molah](pc_grix_molah.md)), 3 gems (1 [Conan](pc_conan_barbaro_ra.md), 2 [Triss](docs/pc/-/pc_triss_merril.md))                                   | 10 gold ([Grix'Molah](pc_grix_molah.md)), 3 gems (1 [Conan](pc_conan_barbaro_ra.md), 2 [Triss](docs/pc/-/pc_triss_merril.md))                                   |
+| **Outros**                  | [Silver knife](silver_knife.md) ([Triss](docs/pc/-/pc_triss_merril.md)), Livro do Druida [Galin Fiduadin](galin_fiduadin.md)                                    | [Silver knife](silver_knife.md) ([Triss](docs/pc/-/pc_triss_merril.md)),[Galin Fiduadin](galin_fiduadin.md) Druid's Book                                        |
 
 -----
 
 | 🧭 Aftermath & Hooks | PT (Português)                                                                                                                                                                                            | EN (English)                                                                                                                                                                                              |
 | :------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Level Up**         | [Dustin](pc_dustin_thorne.md),  [Triss](pc_triss_merrill.md), ([Vaunia](docs/pc/-/pc_vaunia_kolakiala.md)), [Conan](pc_conan_barbaro_ra.md), [Markus](pc_markus_grimm.md), [Grix'Molah](pc_grix_molah.md) | [Dustin](pc_dustin_thorne.md),  [Triss](pc_triss_merrill.md), ([Vaunia](docs/pc/-/pc_vaunia_kolakiala.md)), [Conan](pc_conan_barbaro_ra.md), [Markus](pc_markus_grimm.md), [Grix'Molah](pc_grix_molah.md) |
+| **Level Up**         | [Dustin](pc_dustin_thorne.md),  [Triss](docs/pc/-/pc_triss_merril.md), ([Vaunia](docs/pc/-/pc_vaunia_kolakiala.md)), [Conan](pc_conan_barbaro_ra.md), [Markus](pc_markus_grimm.md), [Grix'Molah](pc_grix_molah.md) | [Dustin](pc_dustin_thorne.md),  [Triss](docs/pc/-/pc_triss_merril.md), ([Vaunia](docs/pc/-/pc_vaunia_kolakiala.md)), [Conan](pc_conan_barbaro_ra.md), [Markus](pc_markus_grimm.md), [Grix'Molah](pc_grix_molah.md) |
 | **Notas Extra**      | Palavras arcanas para sair e entrar: *posso sair pff*.                                                                                                                                                    | Arcane words to exit and enter: *posso sair pff*.                                                                                                                                                         |
 
------
+## 🔒 DM-ONLY SECTION / SEÇÃO APENAS PARA O DM
+
+---
+## 📂 Source Files / Ficheiros Fonte
 
 | 📂 Source Files | PT (Português) | EN (English) |
 | :--- | :--- | :--- |

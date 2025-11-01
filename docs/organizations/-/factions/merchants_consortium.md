@@ -32,7 +32,7 @@
 
 | **Português (PT-PT)** | **English (EN-US)** |
 | --------------------- | ------------------- |
-| - O Consórcio recruta os PCs para proteger uma caravana que transporta bens “sensíveis”.<br>- Um contrato com o Consórcio obriga os heróis a lidar com rivais criminosos.<br>- Descobrem que o Consórcio está a financiar cultistas do [Culto do Mal Elemental](docs/organizations/-/cults/cult_of_elemental_evil.md).<br>- Um dos mercadores oferece-se como patrono, mas exige lealdade total. | - The Consortium hires the PCs to protect a caravan carrying “sensitive” goods.<br>- A contract with the Consortium forces the heroes to deal with criminal rivals.<br>- The party discovers the Consortium is financing cultists of the [Cult of Elemental Evil](docs/organizations/-/cults/cult_of_elemental_evil.md).<br>- One merchant offers to act as a patron, but demands total loyalty. |
+| - O Consórcio recruta os PCs para proteger uma caravana que transporta bens “sensíveis”.<br>- Um contrato com o Consórcio obriga os heróis a lidar com rivais criminosos.<br>- Descobrem que o Consórcio está a financiar cultistas do [Culto do Mal Elemental](docs/organizations/-/cults/cult_of_the_elemental_evil.md).<br>- Um dos mercadores oferece-se como patrono, mas exige lealdade total. | - The Consortium hires the PCs to protect a caravan carrying “sensitive” goods.<br>- A contract with the Consortium forces the heroes to deal with criminal rivals.<br>- The party discovers the Consortium is financing cultists of the [Cult of Elemental Evil](docs/organizations/-/cults/cult_of_the_elemental_evil.md).<br>- One merchant offers to act as a patron, but demands total loyalty. |
 
 ---
 

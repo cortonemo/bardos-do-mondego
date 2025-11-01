@@ -8,7 +8,7 @@
 | **Raça:** ???                                                          | **Race:** ???                                                             |
 | **Classe:** Mago                                                       | **Class:** Wizard                                                         |
 | **Alinhamento:** ???                                                   | **Alignment:** ???                                                        |
-| **Profissão / Função:** Líder do [culto elemental](docs/dm/-/organizations/cult_of_elemental_evil.md) | **Profession / Role:** Leader of the [elemental cult](docs/dm/-/organizations/cult_of_elemental_evil.md) |
+| **Profissão / Função:** Líder do [culto elemental](docs/dm/-/organizations/cult_of_the_elemental_evil.md) | **Profession / Role:** Leader of the [elemental cult](docs/dm/-/organizations/cult_of_the_elemental_evil.md) |
 | **Localização:** [Aldeia Abandonada](aldeia_abandonada.md)             | **Location:** [Abandoned Village](aldeia_abandonada.md)                   |
 | **Sessão:** 3                                                          | **Session:** 3                                                            |
 | **Data:** 2025-04-18                                                   | **Date:** 2025-04-18                                                      |

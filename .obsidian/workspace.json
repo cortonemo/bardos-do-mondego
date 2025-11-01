@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7041a48b33645d20",
+        "id": "453ae335964da3f0",
         "type": "tabs",
         "children": [
           {
-            "id": "e2343d10a1fea845",
+            "id": "94a2d952f7e77a07",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/dm/-/adventures/-/WIP/s02a_miner_difficulties.md",
+                "file": "docs/Adventures/02 Arcos de Mistwood  Goblins  Culto/s06a_intriga_high_ery.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "s02a_miner_difficulties"
+              "title": "s06a_intriga_high_ery"
             }
           }
         ]
@@ -176,39 +176,45 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "e2343d10a1fea845",
+  "active": "94a2d952f7e77a07",
   "lastOpenFiles": [
-    "docs/dm/-/adventures/-/01 Início da Campanha/s01a_purificacao_riacho_ready.md.md",
-    "triss.md",
-    "docs/pc/-/pc_triss_merrill.md",
-    "docs/pc/-/pc_usopp.md",
-    "docs/pc/-/pc_grix_molah.md",
+    "docs/dm/-/adventures/-/02 Arcos de Mistwood  Goblins  Culto/s06a_intriga_high_ery.md",
+    "docs/dm/-/pc/pc_vaunia_kolakiala.md",
     "docs/pc/-/pc_vaunia_kolakiala.md",
-    "docs/pc/-/pc_markus_grimm.md",
-    "markus.md",
-    "docs/loot/itens/acorn_borogrove.md",
-    "docs/docs_structure.txt",
-    "Taberneiro.md",
-    "docs/dm/-/adventures/-/old/s01_os_fungos_do_bosque_bullet.md",
-    "docs/dm/-/adventures/-/WIP/S22_2025-05-29_casino_heist_parte1.md",
-    "docs/pc/-/pc_silfir.md",
-    "docs/dm/-/pc/pc_silfir.md",
-    "docs/dm/-/npc/Free City of Grehawk/kythria.md",
-    "docs/npc/-/Free City of Grehawk/kythria.md",
-    "docs/pc/-/pc_zeldris.md",
-    "docs/pc/-/pc_gauthak_vunakamune.md",
-    "docs/pc/-/pc_kai.md",
-    "docs/npc/-/Free City of Grehawk/innkeeper.md",
-    "docs/npc/-/Free City of Grehawk/neliara_de_oghma.md",
-    "docs/pc/-/pc_ulma.md",
-    "docs/dm/-/pc/pc_ulma.md",
-    "docs/organizations/-/factions/institute_of_the_veiled_light.md",
-    "docs/dm/-/pc/pc_ulma_old.md",
-    "pc_gauthak_vunakamune 1.md",
+    "docs/Adventures/02 Arcos de Mistwood  Goblins  Culto/s06a_intriga_high_ery.md",
+    "pc_vaunia.md",
+    "docs/Adventures/02 Arcos de Mistwood  Goblins  Culto/s05b_campo_goblin_nerull.md",
+    "docs/organizations/-/cults/cult_of_the_elemental_evil.md",
+    "docs/dm/-/organizations/cult_of_the_elemental_evil.md",
+    "cult_of_the_elemental_evil.md",
+    "docs/dm/-/adventures/-/02 Arcos de Mistwood  Goblins  Culto/s05b_campo_goblin_nerull.md",
+    "docs/Adventures/02 Arcos de Mistwood  Goblins  Culto/s05a_mascaras_da_morte.md",
+    "docs/dm/-/adventures/-/02 Arcos de Mistwood  Goblins  Culto/s05a_mascaras_da_morte.md",
+    "docs/Adventures/02 Arcos de Mistwood  Goblins  Culto/s05_s05_as_mascaras_da_morte_mistwood.txt",
+    "docs/Adventures/02 Arcos de Mistwood  Goblins  Culto/s05_o_altar_de_sangue_no_campo_goblin.txt",
+    "docs/Adventures/02 Arcos de Mistwood  Goblins  Culto/s05_diario_acolita_morvanya.txt",
+    "docs/Adventures/02 Arcos de Mistwood  Goblins  Culto",
+    "docs/dm/-/adventures/-/04 Arcos Fae  Dustin  Illithids/s13_sombras_de_iuz_parte2.md",
+    "docs/dm/-/adventures/-/04 Arcos Fae  Dustin  Illithids/s11_sombras_de_iuz_parte1.md",
+    "docs/dm/-/adventures/-/01 Início da Campanha/s04b_vale_sombrio_culto_alado.md",
+    "docs/dm/-/adventures/-/01 Início da Campanha/s04a_culto_two_fords.md.md",
+    "docs/dm/-/adventures/-/01 Início da Campanha/s03a_ataque_rio_neem.md",
+    "docs/dm/-/adventures/-/01 Início da Campanha/s02a_miner_difficulties.md",
+    "docs/dm/-/adventures/-/01 Início da Campanha/s01a_purificacao_riacho.md",
+    "docs/Adventures/01 Início da Campanha/s05a_mascaras_da_morte.md",
+    "docs/Adventures/01 Início da Campanha/s05a_mascaras_da_morte.md",
+    "docs/dm/-/pc/pc_leo.md",
+    "docs/dm/-/adventures/-/04 Arcos Fae  Dustin  Illithids/04 Arcos Fae  Dustin  Illithids/s13_sombras_de_iuz_parte2.md",
+    "docs/dm/-/adventures/-/04 Arcos Fae  Dustin  Illithids/04 Arcos Fae  Dustin  Illithids/s11_sombras_de_iuz_parte1.md",
+    "docs/Adventures/01 Início da Campanha/s04b_vale_sombrio_culto_alado.md",
+    "docs/Adventures/01 Início da Campanha/s04a_culto_two_fords.md.md",
+    "docs/Adventures/01 Início da Campanha/s04_vale_do_vento_sombrio_dragao.txt",
+    "docs/Adventures/01 Início da Campanha/s03_vale_do_vento_sombrio.txt",
+    "docs/Adventures/01 Início da Campanha/s04_regresso_mina_gravuras.txt",
+    "docs/Adventures/01 Início da Campanha/s04_two_fords_doenca_moinho.txt",
+    "docs/Adventures/01 Início da Campanha/s03_emboscada_nas_margens_do_rio_neem.txt",
+    "docs/Adventures/01 Início da Campanha/s02_dificuldades_na_mina_de_obsidiana.txt",
     "docs/assets/npc/liwana.png",
-    "mkdocs.yml",
-    "mkdocs.yml.bak",
-    "docs/assets/monsters/psB2FB.tmp",
     "docs/assets/monsters/metal_cock.png",
     "docs/assets/loot/topaz.webp",
     "docs/assets/loot/ruined_book.png",
@@ -218,12 +224,6 @@
     "docs/assets/loot/livro_druida.jpg",
     "docs/assets/loot/gema_das_cinco_vozes.webp",
     "docs/assets/loot/espada_mais_um.png",
-    "Untitled.canvas",
-    "docs/assets/loot/psA33F.tmp",
-    "docs/assets/loot/psDB7E.tmp",
-    "tools/docs_structure.txt",
-    "docs/dm/-/adventures/CorrectOrderMerged.txt",
-    "docs/dm/-/adventures/AleatorioMerged.txt",
-    "docs/dm/-/adventures/06 Missões Avançadas.txt"
+    "Untitled.canvas"
   ]
 }

@@ -1,0 +1,90 @@
+# As Máscaras da Morte em Mistwood  Bullet Points
+
+| Português                                                                                                                                                                                                                                                         | English                                                                                                                                                                                                                                           |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| - Chegada a Mistwood para investigar rituais e mortos-vivos.<br>- Confronto com Morvanya e undead villagers.<br>- Descoberta de diário amaldiçoado.<br>- Shade do sacerdote derrotado; altar profano purificado.<br>- Paladina de Titania recompensa a party.<br> | - Arrival at Mistwood to investigate rituals and undead.<br>- Confrontation with Morvanya and undead villagers.<br>- Cursed diary discovered.<br>- Priests shade defeated; profane altar cleansed.<br>- Paladin of Titania rewards the party.<br> |
+| **NPCs:** Morvanya, Egalar, shade do sacerdote, villagers undead, paladina de Titania                                                                                                                                                                             | **NPCs:** Morvanya, Egalar, priests shade, undead villagers, paladin of Titania                                                                                                                                                                   |
+| **Loot:** Orquídea mágica, símbolo sagrado, loot mágico do altar                                                                                                                                                                                                  | **Loot:** Magic orchid, holy symbol, magical loot from altar                                                                                                                                                                                      |
+| **Data:** 2025-01-30                                                                                                                                                                                                                                              | **Date:** 2025-01-30                                                                                                                                                                                                                              |
+| **Ficheiros de origem:** s05_as_mascaras_da_morte_mistwood_pontos.md                                                                                                                                                                                              | **Source files:** s05_as_mascaras_da_morte_mistwood_pontos.md                                                                                                                                                                                     |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s05_as_mascaras_da_morte_mistwood_ready.md ==== -->
+
+# As Máscaras da Morte em Mistwood  Resumo Detalhado
+
+| Português                                                                                                                                                                                                                                | English                                                                                                                                                                                                                           |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Descrição:** Em Mistwood, o grupo enfrenta mortos-vivos de Morvanya. Descobrem diário amaldiçoado e recebem bênção de Titania após derrotar o shade do sacerdote. O altar profano é purificado, revelando segredos do culto local.<br> | **Description:** In Mistwood, the group faces Morvanyas undead. They discover a cursed diary and receive Titanias blessing after defeating the priests shade. The profane altar is cleansed, revealing local cult secrets.<br> |
+| **NPCs:** Morvanya, Egalar, shade do sacerdote, villagers undead, paladina de Titania                                                                                                                                                    | **NPCs:** Morvanya, Egalar, priests shade, undead villagers, paladin of Titania                                                                                                                                                  |
+| **Loot:** Orquídea mágica, símbolo sagrado, loot mágico do altar                                                                                                                                                                         | **Loot:** Magic orchid, holy symbol, magical loot from altar                                                                                                                                                                      |
+| **Data:** 2025-01-30                                                                                                                                                                                                                     | **Date:** 2025-01-30                                                                                                                                                                                                              |
+| **Ficheiros de origem:** s05_as_mascaras_da_morte_mistwood_resumo.md                                                                                                                                                                     | **Source files:** s05_as_mascaras_da_morte_mistwood_resumo.md                                                                                                                                                                     |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==== s05_as_mascaras_da_morte_mistwood_summary.md ==== -->
+
+# As Máscaras da Morte em Mistwood
+
+| Português | English |
+|-----------|---------|
+| **Descrição:** Em Mistwood, o grupo enfrenta mortos-vivos de Morvanya. Descobrem diário amaldiçoado e recebem bênção de Titania após derrotar o shade do sacerdote. O altar profano é purificado, revelando segredos do culto local.<br> | **Description:** In Mistwood, the group faces Morvanyas undead. They discover a cursed diary and receive Titanias blessing after defeating the priests shade. The profane altar is cleansed, revealing local cult secrets.<br> |
+| **PCs:** Markus, Vaunia, Grix, Triss, Conan | **PCs:** Markus, Vaunia, Grix, Triss, Conan |
+| **NPCs:** Morvanya, Egalar, shade do sacerdote, villagers undead, paladina de Titania | **NPCs:** Morvanya, Egalar, priests shade, undead villagers, paladin of Titania |
+| **Loot:** Orquídea mágica, símbolo sagrado, loot mágico do altar | **Loot:** Magic orchid, holy symbol, magical loot from altar |
+| **Data:** 2025-01-30 | **Date:** 2025-01-30 |
+| **Ficheiros de origem:** s05_as_mascaras_da_morte_mistwood_resumo.md | **Source files:** s05_as_mascaras_da_morte_mistwood_resumo.md |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
