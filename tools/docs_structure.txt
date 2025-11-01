@@ -12,9 +12,12 @@
 │   │   ├── 📄 free_city_of_irongate_coat_of_Arms.gif
 │   │   ├── 📄 free_city_of_verbobonc.png
 │   │   ├── 📄 greyhawk_114x135.png
+│   │   ├── 📄 greyhawk_ruins.png
+│   │   ├── 📄 ice_plan.png
 │   │   ├── 📄 location_blank.png
 │   │   ├── 📄 old_citadel.png
 │   │   ├── 📄 peculiar_manor.png
+│   │   ├── 📄 selintan.png
 │   │   ├── 📄 the_inn.jpeg
 │   │   ├── 📄 ulek.png
 │   │   ├── 📄 undercity.png
@@ -29,19 +32,28 @@
 │   │   ├── 📄 espada_mais_um.png
 │   │   ├── 📄 gema_das_cinco_vozes.webp
 │   │   ├── 📄 livro_druida.jpg
+│   │   ├── 📄 magic_compass.png
 │   │   ├── 📄 object_blank.png
+│   │   ├── 📄 red_diamond.png
+│   │   ├── 📄 ruined_book.png
 │   │   └── 📄 topaz.webp
 │   ├── 📂 monsters/
+│   │   ├── 📄 corrupt_human.png
+│   │   ├── 📄 dinossauros_invocados.png
 │   │   ├── 📄 giant_spider.png
+│   │   ├── 📄 metal_cock.png
 │   │   ├── 📄 monster_blank.png
 │   │   ├── 📄 swarm_of_bats.png
 │   │   ├── 📄 swarm_of_rats.jpeg
 │   │   ├── 📄 swarm_of_spiders.png
+│   │   ├── 📄 vulto_reflexo.png
 │   │   └── 📄 zombie.jpeg
 │   ├── 📂 npc/
+│   │   ├── 📄 liwana.png
 │   │   └── 📄 npc_blank.png
 │   ├── 📂 organization/
 │   │   ├── 📄 house_vanthir.png
+│   │   ├── 📄 institute_of_the_veiled_light.png
 │   │   └── 📄 org_blank.png
 │   ├── 📂 pc/
 │   │   ├── 📄 pc_arkos_vasell.png
@@ -93,8 +105,6 @@
 │   │   └── 📄 pc_zeldris.png
 │   └── 📂 rumor/
 │       └── 📄 rumor_blank.png
-├── 📂 css/
-│   └── 📄 image-sizing.css
 ├── 📂 dm/
 │   ├── 📂 -/
 │   │   ├── 📂 .summary/
@@ -642,6 +652,7 @@
 │   │   │   │   ├── 📄 jandel_the_lintwatcher.md
 │   │   │   │   ├── 📄 kythria.md
 │   │   │   │   ├── 📄 lady_silvra_malren.md
+│   │   │   │   ├── 📄 liwana.md
 │   │   │   │   ├── 📄 lord_aleister_devraine.md
 │   │   │   │   ├── 📄 marielle_duns.md
 │   │   │   │   ├── 📄 mestre_donlan.md
@@ -786,7 +797,7 @@
 │   │   │   │   ├── 📄 casa_dos_greenbottle.md
 │   │   │   │   └── 📄 city_market.md
 │   │   │   ├── 📂 clerks_quarter/
-│   │   │   │   └── 📄 clerksburg.md
+│   │   │   │   └── 📄 clerkburg.md
 │   │   │   ├── 📂 foreign_quarter/
 │   │   │   │   ├── 📄 foreign_quarter.md
 │   │   │   │   └── 📄 rua_do_dragao_enferrujado.md
@@ -819,6 +830,7 @@
 │   │   │   ├── 📄 garden_quarter_fountain.md
 │   │   │   ├── 📄 golden_dragon_tavern.md
 │   │   │   ├── 📄 greyhawk.md
+│   │   │   ├── 📄 greyhawk_ruins.md
 │   │   │   ├── 📄 jardim_greyhawk.md
 │   │   │   ├── 📄 mapa_cidade_de_greyhawk.md
 │   │   │   ├── 📄 mercado_de_greyhawk.md
@@ -828,6 +840,7 @@
 │   │   │   ├── 📄 parque_da_cidade.md
 │   │   │   ├── 📄 referenced_locations_greyhawk.md
 │   │   │   ├── 📄 ruinas_das_sombras.md
+│   │   │   ├── 📄 selintan.md
 │   │   │   ├── 📄 taberna_da_trixie.md
 │   │   │   ├── 📄 taberna_golden_dragon.md
 │   │   │   └── 📄 taverna.md
@@ -881,6 +894,7 @@
 │   │   └── 📄 vila_de_vauria.md
 │   ├── 📄 .To-Do List – Organizações & Locais (Não-Guildas).txt
 │   ├── 📄 geography.md
+│   ├── 📄 ice_plan.md
 │   ├── 📄 locais_notaveis.md
 │   └── 📄 loja_olho_de_boccob.md
 ├── 📂 loot/
@@ -890,20 +904,23 @@
 │       ├── 📄 artefatos_e_itens.md
 │       ├── 📄 bracers_of_defense.md
 │       ├── 📄 capa_da_neblina.md
+│       ├── 📄 dr_galileu_gold.md
 │       ├── 📄 espada_luz_velada.md
 │       ├── 📄 espada_mais_um.md
 │       ├── 📄 gema_das_cinco_vozes.md
 │       ├── 📄 hook_horror_teeth.md
 │       ├── 📄 livro_druida.md
-│       ├── 📄 loot.md
 │       ├── 📄 loot_sessao1.md
 │       ├── 📄 loot_vento_sombrio.md
+│       ├── 📄 magic_compass.md
 │       ├── 📄 manto_sombra_viva.md
 │       ├── 📄 medalhao_do_sussurro.md
 │       ├── 📄 pergaminho_expulsar_mortos_vivos.md
 │       ├── 📄 pocao_da_esperanca.md
 │       ├── 📄 pocao_resistencia_necrotico.md
+│       ├── 📄 red_diamond.md
 │       ├── 📄 reliquia_amaldicoada.md
+│       ├── 📄 ruined_book.md
 │       ├── 📄 sala_subterranea_frascos.md
 │       ├── 📄 staff_of_flowers.md
 │       ├── 📄 thargrin_letter.md
@@ -927,8 +944,12 @@
 │           └── 📄 greyhawk_timeline_complete.md
 ├── 📂 monsters/
 │   └── 📂 -/
+│       ├── 📄 corrupt_human.md
+│       ├── 📄 dinossauros_invocados.md
+│       ├── 📄 galo_metalico_gigante.md
 │       ├── 📄 swarm_of_bats.md
 │       ├── 📄 swarm_of_rats.md
+│       ├── 📄 vultos_reflexos.md
 │       └── 📄 zombie.md
 ├── 📂 notable_figures/
 │   └── 📂 -/
@@ -964,6 +985,7 @@
 │       │   ├── 📄 jandel_the_lintwatcher.md
 │       │   ├── 📄 kythria.md
 │       │   ├── 📄 lady_silvra_malren.md
+│       │   ├── 📄 liwana.md
 │       │   ├── 📄 lord_aleister_devraine.md
 │       │   ├── 📄 marielle_duns.md
 │       │   ├── 📄 mestre_donlan.md
@@ -1009,11 +1031,12 @@
 │       │   ├── 📄 berdan_barleybrow.md
 │       │   ├── 📄 cultista.md
 │       │   ├── 📄 darsen.md
+│       │   ├── 📄 doutor_galileu.md
 │       │   ├── 📄 draven.md
 │       │   ├── 📄 druida_infestado.md
+│       │   ├── 📄 fada_val.md
 │       │   ├── 📄 lia.md
 │       │   ├── 📄 lirael.md
-│       │   ├── 📄 liwana.md
 │       │   ├── 📄 raveth_xil_zyrl.md
 │       │   ├── 📄 selene.md
 │       │   └── 📄 snikil_pescabrasa.md
@@ -1060,6 +1083,7 @@
 │       │   ├── 📄 ditch_rats.md
 │       │   ├── 📄 house_azhthalith.md
 │       │   ├── 📄 house_vanthir.md
+│       │   ├── 📄 institute_of_the_veiled_light.md
 │       │   ├── 📄 merchants_consortium.md
 │       │   ├── 📄 noble_houses.md
 │       │   ├── 📄 order_of_beltar.md
