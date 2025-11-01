@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Adventures/s06b_resgate_rolger.md",
+                "file": "docs/pc/-/pc_ugus_bugus.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "s06b_resgate_rolger"
+              "title": "pc_ugus_bugus"
             }
           }
         ],
@@ -203,9 +203,14 @@
   },
   "active": "a04fd158416016f7",
   "lastOpenFiles": [
+    "docs/dm/-/pc/pc_ugus_bugus.md",
+    "docs/pc/-/pc_ugus_bugus.md",
+    "docs/dm/-/pc/pc_triss_merril.md",
+    "docs/dm/-/pc/pc_arkos_vasell.md",
+    "docs/assets/pc/pc_ugus_bugus.png",
+    "docs/Adventures/s06b_resgate_rolger.md",
     "docs/Adventures/s08a_intriga_odrak_erybend.md",
     "docs/Adventures/s10_blank.md",
-    "docs/Adventures/s06b_resgate_rolger.md",
     "docs/dm/-/adventures/-/👽 Cosmic Connection Arc/s13a_retorno_nave_illithid.md",
     "docs/dm/-/adventures/-/old/s01_os_fungos_do_bosque_bullet.md",
     "docs/dm/-/adventures/-/old/s04_vale_do_vento_sombrio_dragao_summary.md",
@@ -225,10 +230,6 @@
     "docs/dm/-/adventures/-/🦑 Elemental Evil Corruption Arc/s05a_mascaras_da_morte.md",
     "docs/dm/-/adventures/-/🦑 Elemental Evil Corruption Arc/s04b_vale_sombrio_culto_alado.md",
     "docs/dm/-/adventures/-/🦑 Elemental Evil Corruption Arc/s04a_culto_two_fords.md.md",
-    "docs/dm/-/adventures/-/🦑 Elemental Evil Corruption Arc/s03a_ataque_rio_neem.md",
-    "docs/dm/-/adventures/-/🦑 Elemental Evil Corruption Arc/s02a_miner_difficulties.md",
-    "docs/Adventures/🦑 Elemental Evil Corruption Arc/s14_guildas_greyhawk.md",
-    "docs/Adventures/🦑 Elemental Evil Corruption Arc/s12b_legado_de_krixis.md",
     "docs/Adventures/👽 Cosmic Connection Arc",
     "docs/dm/-/adventures/-/👽 Cosmic Connection Arc",
     "docs/Adventures/🛡️ The Beltar and the Paladin's Fall Arc/s05_s05_as_mascaras_da_morte_mistwood.txt",
@@ -248,7 +249,6 @@
     "docs/assets/loot/magic_compass.png",
     "docs/assets/loot/livro_druida.jpg",
     "docs/assets/loot/gema_das_cinco_vozes.webp",
-    "docs/assets/loot/espada_mais_um.png",
     "Untitled.canvas"
   ]
 }
