@@ -2,7 +2,7 @@
 
 Sessões: S01, S03, S04, S06, S07, S10, S11 | Datas: 2025-01-02 → 2025-02-20 | Fontes: greyhawk_sessions_complete.md, resumo_dos_acontecimentos_season_01_Campanha_west_marches.txt, lista_dos_npc_e_suas_interaccoes.txt | Tags: organization, cult, antagonists, vaelkor_ashbrand, jogmaahx, greyhawk
 
-![Culto do Mal Elemental](assets/organization/org_blank.png)
+![Culto do Mal Elemental](org_blank.png)
 
 ---
 

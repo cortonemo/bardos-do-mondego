@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/organizations/-/iuz/ritekeepers.md",
+                "file": "docs/dm/-/adventures/-/Arcos/s07b_pantano_basilisco.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ritekeepers"
+              "title": "s07b_pantano_basilisco"
             }
           },
           {
-            "id": "56f1e2ee969a6b43",
+            "id": "f2d695c084db29b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/dm/-/npc/Free City of Grehawk/lord_aleister_devraine.md",
+                "file": "docs/dm/-/adventures/-/Arcos/s14b_dandan_e_os_40_kobolds.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,10 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "lord_aleister_devraine"
+              "title": "s14b_dandan_e_os_40_kobolds"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "elemental",
+                "query": "aleister",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -200,37 +201,37 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "a04fd158416016f7",
+  "active": "f2d695c084db29b3",
   "lastOpenFiles": [
-    "docs/organizations/-/iuz/red_chains.md",
-    "docs/organizations/-/iuz/greater_boneheart.md",
-    "docs/organizations/-/iuz/fiendish_envoys.md",
-    "docs/organizations/-/iuz/cult_of_the_fiendfather.md",
-    "docs/organizations/-/institutions/university_of_magical_arts.md",
-    "docs/organizations/-/institutions/merchant_assembly.md",
-    "docs/organizations/-/institutions/irongate_navy.md",
-    "docs/organizations/-/institutions/great_library.md",
-    "docs/organizations/-/institutions/directing_oligarchy.md",
-    "docs/organizations/-/institutions/city_watch.md",
-    "docs/organizations/-/guilds/sailwrights_guild.md",
-    "docs/organizations/-/guilds/order_of_scribes_and_notarie.md",
-    "docs/organizations/-/guilds/nine_of_swords.md",
-    "docs/organizations/-/guilds/guildas_de_greyhawk.md",
-    "docs/organizations/-/guilds/guild_of_weavers_tanners_tailors.md",
-    "docs/organizations/-/guilds/guild_of_thieves.md",
-    "docs/organizations/-/guilds/guild_of_performance_artists.md",
-    "docs/organizations/-/guilds/guild_of_free_merchants.md",
-    "docs/organizations/-/guilds/guild_of_carpenters.md",
-    "docs/organizations/-/guilds/guild_of_architects_and_mason.md",
-    "docs/organizations/-/guilds/assassins_guild.md",
-    "docs/organizations/-/factions/scale_flock.md",
-    "docs/organizations/-/factions/redbrands.md",
-    "docs/organizations/-/factions/order_of_beltar.md",
-    "docs/organizations/-/factions/noble_houses.md",
-    "docs/organizations/-/factions/merchants_consortium.md",
+    "docs/Adventures/-/Arcos/s29a_museu_sombras_p2.md",
+    "docs/Adventures/-/Arcos/s28a_museu_sombras_p1.md",
+    "docs/Adventures/-/Arcos/s25_sociedade_ratos_sedentos.md",
+    "docs/Adventures/-/Arcos/s23a_golpe_dados_rubi_p2.md",
+    "docs/Adventures/-/Arcos/s22a_golpe_dados_rubi_p1.md",
+    "docs/Adventures/-/Arcos/s17a_missao_assassinos.md",
+    "docs/Adventures/-/Arcos/s16_blank.md",
+    "docs/Adventures/-/Arcos/s15b_a_crianca_perdida.md",
+    "docs/Adventures/-/Arcos/s15a_ceptro_de_zan.md",
+    "docs/Adventures/-/Arcos/s14b_dandan_e_os_40_kobolds.md",
+    "docs/Adventures/-/Arcos/s14a_guildas_greyhawk.md",
+    "docs/Adventures/-/Arcos/s13b_retorno_nave_illithid.md",
+    "docs/Adventures/-/Arcos/s13a_resgate_dustin.md",
+    "docs/Adventures/-/Arcos/s12b_legado_de_krixis.md",
+    "docs/Adventures/-/Arcos/s11b_sombras_sobre_erybend.md",
+    "docs/Adventures/-/Arcos/s11a_sombras_de_iuz.md",
+    "docs/Adventures/-/Arcos/s10c_baile_rainha_caecena.md",
+    "docs/Adventures/-/Arcos/s10b_resgate_rolger.md",
+    "docs/Adventures/-/Arcos/s10a_intriga_high_ery.md",
+    "docs/Adventures/-/Arcos/s09b_ondas_lo_reltarma.md",
+    "docs/Adventures/-/Arcos/s09a_sombras_sobre_a_agua.md",
+    "docs/Adventures/-/Arcos/s08b_templo_basilisco_pedras.md",
+    "docs/Adventures/-/Arcos/s08a_intriga_odrak_erybend.md",
+    "docs/Adventures/-/Arcos/s07b_pantano_basilisco.md",
+    "docs/Adventures/-/Arcos/s07a_emboscada_erybend.md",
+    "docs/Adventures/-/Arcos/s06_blank.md",
     "docs/assets/pc/pc_ugus_bugus.png",
     "docs/Adventures/👽 Cosmic Connection Arc",
-    "docs/dm/-/adventures/-/👽 Cosmic Connection Arc",
+    "docs/dm/-/adventures/-/Arcos",
     "docs/Adventures/🛡️ The Beltar and the Paladin's Fall Arc/s05_s05_as_mascaras_da_morte_mistwood.txt",
     "docs/Adventures/🛡️ The Beltar and the Paladin's Fall Arc/s05_o_altar_de_sangue_no_campo_goblin.txt",
     "docs/Adventures/🛡️ The Beltar and the Paladin's Fall Arc/s05_diario_acolita_morvanya.txt",
