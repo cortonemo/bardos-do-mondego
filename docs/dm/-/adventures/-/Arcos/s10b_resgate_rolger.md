@@ -1,10 +1,12 @@
 ## O Resgate de Rolger e a Intriga dos Metamorfos / The Rescue of Rolger and the Shapeshifter Intrigue
 
-| 🗓 Timeline | PT | EN |
-| :--- | :--- | :--- |
-| **Data (In-Game)** | 6 de Março de 2025 | March 6, 2025 |
-| **Sessão #** | S06B | S06B |
+| 🗓 Timeline / Cronologia | PT | EN |
+| :-------------------- | :---------------------------------------------------- | :------------------------------------------------------- |
+| **Data do Jogo** | 06 de Março de 2025 | March 6th, 2025 |
+| **Data In-Game** | 22 de Sunsebb, 998 CY (Semana 10) | 22nd of Sunsebb, 998 CY (Week 10) |
+| **Sessão #** | S10B | S10B |
 | **DM** | Henrique | Henrique |
+| **Arcos Enquadrados** | **🦑 Arco da Corrupção do Mal Elemental** | **🦑 Elemental Evil Corruption Arc** |
 
 ---
 ## 📖 Overview / Sumário
@@ -34,7 +36,7 @@
 | **[Conan o Bárbaro](pc_conan_barbaro_ra.md)** | Envolvido na tentativa de resgate de **[Rolger](rolger.md)**, onde foi alvo da armadilha de gravidade. | Involved in the rescue attempt of **[Rolger](rolger.md)**, where he was targeted by the gravity trap. |
 | **[Flynn](pc_flynn.md)** | O Druida do Círculo do Sol de quem **[Uteluk](uteluk.md)** é conhecido. | The Sun Circle Druid with whom **[Uteluk](uteluk.md)** is acquainted. |
 | **[Wandering Sage](pc_wandering_sage.md)** | A sua forma foi usada como disfarce pelos Metamorfos. | His form was used as a disguise by the Shapeshifters. |
-| **[Varus](pc_varus.md)** | Participa na investigação e combate. | Participates in the investigation and combat. |
+| **[Varus](docs/pc/-/pc_zeldris.md)** | Participa na investigação e combate. | Participates in the investigation and combat. |
 | **[Rolger](rolger.md)** | Hobgoblin resgatado, vítima dos Metamorfos no Lago dos Diamantes. | Rescued Hobgoblin, victim of the Shapeshifters at Diamond Lake. |
 | **[Uteluk](uteluk.md)** | Vedalken, membro do Círculo da Lua, contratante. | Vedalken, member of the Moon Circle, the contractor. |
 
@@ -84,7 +86,7 @@ Com a conclusão da sessão **S06B: O Resgate de Rolger e a Intriga dos Metamorf
 | **PCs**       | [Conan o Bárbaro](pc_conan_barbaro_ra.md)     | S06B                                          |                       |
 | **PCs**       | [Flynn](pc_flynn.md)                          | S06B                                          |                       |
 | **PCs**       | [Wandering Sage](pc_wandering_sage.md)        | S06B                                          |                       |
-| **PCs**       | [Varus](pc_varus.md) (Novo)                   | S06B                                          |                       |
+| **PCs**       | [Varus](docs/pc/-/pc_zeldris.md) (Novo)                   | S06B                                          |                       |
 | **NPCs**      | [Rolger](rolger.md) (Novo)                    | S06B                                          |                       |
 | **NPCs**      | [Uteluk](uteluk.md) (Novo)                    | S06B                                          |                       |
 | **Locations** | [Lago dos Diamantes](diamond_lake.md) (Novo)  | S06B                                          |                       |

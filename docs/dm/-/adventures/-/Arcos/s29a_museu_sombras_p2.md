@@ -1,12 +1,12 @@
 ## O Museu das Sombras (Parte 2): O Curador e a Coisa / The Museum of Shadows (Part 2): The Curator and the Thing
 
-| 🗓 Timeline | PT | EN |
-| :--- | :--- | :--- |
+| 🗓 Timeline / Cronologia | PT | EN |
+| :-------------------- | :---------------------------------------------------- | :------------------------------------------------------- |
 | **Data do Jogo** | 17 de Julho de 2025 | July 17th, 2025 |
 | **Data In-Game** | 11 de Growfest, 999 CY (Semana 29) | 11th of Growfest, 999 CY (Week 29) |
 | **Sessão #** | S29A | S29A |
 | **DM** | André Maia | André Maia |
-| **Arcos Enquadrados** | **🦑 A Corrupção do Mal Elemental** | **🦑 The Elemental Evil Corruption Arc** |
+| **Arcos Enquadrados** | **🦑 Arco da Corrupção do Mal Elemental** | **🦑 Elemental Evil Corruption Arc** |
 
 ---
 ## 📖 Overview / Sumário

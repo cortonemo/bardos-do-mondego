@@ -1,12 +1,12 @@
 ## A Sociedade dos Ratos Sedentos / The Thirsty Rat Society
 
-| 🗓 Timeline | PT | EN |
-| :--- | :--- | :--- |
+| 🗓 Timeline / Cronologia | PT | EN |
+| :-------------------- | :---------------------------------------------------- | :------------------------------------------------------- |
 | **Data do Jogo** | 19 de Junho de 2025 | June 19th, 2025 |
-| **Data In-Game** | 11 de Coldeven, 999 CY (Semana 25) | 11th of Coldeven, 999 CY (Week 25) |
+| **Data In-Game** | 1 de Growfest, 999 CY (Semana 25) | 1st of Growfest, 999 CY (Week 25) |
 | **Sessão #** | S25 | S25 |
 | **DM** | Carlos | Carlos |
-| **Arcos Enquadrados** | **🦑 A Corrupção do Mal Elemental** (Culto Subterrâneo) | **🦑 The Elemental Evil Corruption Arc** (Underground Cult) |
+| **Arcos Enquadrados** | **🦑 Arco da Corrupção do Mal Elemental** | **🦑 Elemental Evil Corruption Arc** |
 
 ---
 ## 📖 Overview / Sumário

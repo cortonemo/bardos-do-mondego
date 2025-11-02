@@ -1,19 +1,19 @@
 ## O Museu das Sombras (Parte 1): O Convite Misterioso / The Museum of Shadows (Part 1): The Mysterious Invitation
 
-| 🗓 Timeline | PT | EN |
-| :--- | :--- | :--- |
+| 🗓 Timeline / Cronologia | PT | EN |
+| :-------------------- | :---------------------------------------------------- | :------------------------------------------------------- |
 | **Data do Jogo** | 10 de Julho de 2025 | July 10th, 2025 |
 | **Data In-Game** | 4 de Growfest, 999 CY (Semana 28) | 4th of Growfest, 999 CY (Week 28) |
-| **Sessão #** | S28 | S28 |
+| **Sessão #** | S28A | S28A |
 | **DM** | André Maia | André Maia |
-| **Arcos Enquadrados** | **🦑 A Corrupção do Mal Elemental** (Intriga/Recrutamento) | **🦑 The Elemental Evil Corruption Arc** (Intrigue/Recruitment) |
+| **Arcos Enquadrados** | **🦑 Arco da Corrupção do Mal Elemental** | **🦑 Elemental Evil Corruption Arc** |
 
 ---
 ## 📖 Overview / Sumário
 
 | Descrição | PT | EN |
 | :--- | :--- | :--- |
-| **Missão Principal** | O grupo é abordado por uma **Figura de Cartola** que lhes oferece **bilhetes VIP** para o recém-inaugurado **Museu das Maravilhas Naturais e Arcanas** de Greyhawk. O objetivo (não declarado) é investigar o museu, que é suspeito de estar ligado ao **[Culto do Mal Elemental](cult_of_the_elemental_evil.md)** e de ser um centro de experimentação mágica nefasta. | The party is approached by a **Top Hat Figure** who offers them **VIP tickets** to the newly opened **Museum of Natural and Arcane Wonders** in Greyhawk. The objective (undisclosed) is to investigate the museum, which is suspected of being linked to the **[Cult of Elemental Evil](cult_of_the_elemental_evil.md)** and being a center for nefarious magical experimentation. |
+| **Missão Principal** | O grupo é abordado por uma **Figura de Cartola** que lhes oferece **bilhetes VIP** para o recém-inaugurado **Museu das Maravilhas Naturais e Arcanas** de Greyhawk. O objetivo (não declarado) é investigar o museu, que é suspeito de estar ligado ao **[Culto do Mal Elemental](docs/dm/-/organizations/-/cults/cult_of_elemental_evil.md)** e de ser um centro de experimentação mágica nefasta. | The party is approached by a **Top Hat Figure** who offers them **VIP tickets** to the newly opened **Museum of Natural and Arcane Wonders** in Greyhawk. The objective (undisclosed) is to investigate the museum, which is suspected of being linked to the **[Cult of Elemental Evil](docs/dm/-/organizations/-/cults/cult_of_elemental_evil.md)** and being a center for nefarious magical experimentation. |
 | **Resultado** | O grupo infiltra-se no museu, onde **[Zahel](pc_zahel.md)** testemunha uma transformação de *Wild Shape*. Nas condutas de ventilação, confrontam um **Mimic Kinky** que ataca **[Ulma](pc_ulma.md)**, mas que se **rende** e tenta comunicar, sugerindo que as criaturas do museu são vítimas de um aprisionamento arcano. | The party infiltrates the museum, where **[Zahel](pc_zahel.md)** witnesses a *Wild Shape* transformation. In the ventilation shafts, they confront a **Kinky Mimic** that attacks **[Ulma](pc_ulma.md)**, but which **surrenders** and attempts to communicate, suggesting that the museum's creatures are victims of arcane imprisonment. |
 
 ---

@@ -1,11 +1,12 @@
 ## A Criança Perdida e o Gigante / The Lost Child and the Giant
 
-| 🗓 Timeline | PT | EN |
-| :--- | :--- | :--- |
-| **Data (In-Game)** | 10 de Abril de 2025 | April 10, 2025 |
-| **Sessão \#** | S15B | S15B |
+| 🗓 Timeline / Cronologia | PT | EN |
+| :-------------------- | :---------------------------------------------------- | :------------------------------------------------------- |
+| **Data do Jogo** | 10 de Abril de 2025 | April 10th, 2025 |
+| **Data In-Game** | 22 de Fireseek, 999 CY (Semana 15) | 22nd of Fireseek, 999 CY (Week 15) |
+| **Sessão #** | S15B | S15B |
 | **DM** | Henrique | Henrique |
-| **Arcos Enquadrados** | **🦑 Arco da Corrupção do CME** | **🦑 CME Corruption Arc** |
+| **Arcos Enquadrados** | **🦑 Arco da Corrupção do Mal Elemental** | **🦑 Elemental Evil Corruption Arc** |
 
 -----
 

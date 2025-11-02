@@ -1,11 +1,12 @@
 ## Intriga nas Ondas de Lo Reltarma / Intrigue on the Waves of Lo Reltarma
 
-| 🗓 Timeline           | PT                                             | EN                                            |
-| :-------------------- | :--------------------------------------------- | :-------------------------------------------- |
-| **Data (In-Game)**    | 27 de Fevereiro de 2025 (Viagem ao Passado)    | February 27, 2025 (Time Travel to the Past)   |
-| **Sessão #**          | S09B                                           | S09B                                          |
-| **DM**                | Henrique                                       | Henrique                                      |
-| **Arcos Enquadrados** | **🛡️ O Arco de Beltar e a Queda do Paladino** | **🛡️ The Beltar and the Paladin's Fall Arc** |
+| 🗓 Timeline / Cronologia | PT | EN |
+| :-------------------- | :---------------------------------------------------- | :------------------------------------------------------- |
+| **Data do Jogo** | 27 de Fevereiro de 2025 | February 27th, 2025 |
+| **Data In-Game** | 15 de Sunsebb, 998 CY (Semana 09) | 15th of Sunsebb, 998 CY (Week 09) |
+| **Sessão #** | S09B | S09B |
+| **DM** | Henrique | Henrique |
+| **Arcos Enquadrados** | **👽 Arco da Conexão Cósmica** | **👽 Cosmic Connection Arc** |
 
 ---
 ## 📖 Overview / Sumário

@@ -1,12 +1,12 @@
-## O Golpe dos Dados Rubi (Parte 1): O Recrutamento / The Ruby Dice Heist (Part 1): The Recruitment
+## O Golpe dos Dados Rubi (Parte 2): O Cofre de Três Trancas / The Ruby Dice Heist (Part 2): The Three-Lock Vault
 
-| 🗓 Timeline | PT | EN |
-| :--- | :--- | :--- |
-| **Data do Jogo** | 29 de Maio de 2025 | May 29th, 2025 |
-| **Data In-Game** | 18 de Readying, 999 CY (Semana 22) | 18th of Readying, 999 CY (Week 22) |
-| **Sessão #** | S22 | S22 |
+| 🗓 Timeline / Cronologia | PT | EN |
+| :-------------------- | :---------------------------------------------------- | :------------------------------------------------------- |
+| **Data do Jogo** | 05 de Junho de 2025 | June 5th, 2025 |
+| **Data In-Game** | 22 de Coldeven, 999 CY (Semana 23) | 22nd of Coldeven, 999 CY (Week 23) |
+| **Sessão #** | S23 | S23 |
 | **DM** | Carlos | Carlos |
-| **Arcos Enquadrados** | **🦑 A Corrupção do Mal Elemental** (Intriga/Subterfúgio) | **🦑 The Elemental Evil Corruption Arc** (Intrigue/Subterfuge) |
+| **Arcos Enquadrados** | **🦑 Arco da Corrupção do Mal Elemental** | **🦑 Elemental Evil Corruption Arc** |
 
 ---
 ## 📖 Overview / Sumário

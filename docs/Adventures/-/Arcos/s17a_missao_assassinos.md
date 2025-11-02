@@ -1,12 +1,12 @@
 ## A Missão dos Assassinos / The Assassins' Mission
 
-| 🗓 Timeline | PT | EN |
-| :--- | :--- | :--- |
+| 🗓 Timeline / Cronologia | PT | EN |
+| :-------------------- | :---------------------------------------------------- | :------------------------------------------------------- |
 | **Data do Jogo** | 24 de Abril de 2025 | April 24th, 2025 |
-| **Data In-Game** | 11 de Fireseek, 999 CY (Semana 17) | 11th of Fireseek, 999 CY (Week 17) |
+| **Data In-Game** | 8 de Readying, 999 CY (Semana 17) | 8th of Readying, 999 CY (Week 17) |
 | **Sessão #** | S17A | S17A |
 | **DM** | Jota | Jota |
-| **Arcos Enquadrados** | **🦑 A Corrupção do Mal Elemental**, **🛡️ Arco de Beltar** | **🦑 The Elemental Evil Corruption Arc**, **🛡️ The Beltar Arc** |
+| **Arcos Enquadrados** | **🦑 Arco da Corrupção do Mal Elemental** | **🦑 Elemental Evil Corruption Arc** |
 
 ---
 ## 📖 Overview / Sumário
@@ -37,52 +37,5 @@
 | **[Markus Grimm](pc_markus_grimm.md)** | Envolvido no combate, usando as suas habilidades de Paladino/Warlock contra a ameaça necrótica. | Involved in combat, using his Paladin/Warlock abilities against the necrotic threat. |
 | **[Conan o Bárbaro](pc_conan_barbaro_ra.md)** | Fornece a força bruta para lidar com os inimigos. | Provides the brute force to deal with the enemies. |
 | **Líder da Guilda** | O contacto da **[Guilda dos Assassinos](assassins_guild.md)**, que entrega a missão. | The contact from the **[Assassins Guild](assassins_guild.md)**, who hands over the mission. |
-
----
-## 🔒 DM-ONLY SECTION / SEÇÃO APENHAS PARA O DM
-
-### 📝 Prep Notes / Notas de Preparação
-* **Motivação dos Assassinos:** A **[Guilda dos Assassinos](assassins_guild.md)** está a ser diretamente atacada (ou alvo de concorrência) pelo **[Culto do Mal Elemental](docs/dm/-/organizations/-/cults/cult_of_elemental_evil.md)**. O *Vampire Spawn* estava a roubar clientes da Guilda, que é a razão pela qual eles querem o alvo eliminado (e não o culto em si).
-* **O Esconderijo:** O esconderijo está ligado aos **esgotos** (Undercity) e a antigos túneis Illithid (Arco Cósmico), confirmando que o Culto está a usar o caos da cidade para se expandir subterraneamente.
-
-### 🤫 Secrets & Hooks / Segredos e Ganchos
-* **O Item do Vampiro:** O *Vampire Spawn* pode ter um anel ou um talismã que é a fonte do seu poder de necromancia. Se for recuperado, revela uma ligação a uma célula de nível superior do culto (possivelmente **[Morvanya](acolyte_morvanya.md)** ou **[Vaelkor Ashbrand](vaelkor_ashbrand.md)**).
-* **A Palavra "Paladino":** Os PCs devem notar que a palavra "paladino" (ou o nome "Dustin") faz o *Vampire Spawn* reagir violentamente ou com medo, ligando esta ameaça diretamente ao **[Arco de Beltar](paladins_of_beltar.md)**.
-
-### ⚙️ Contingencies / Contingências
-* **Fuga do Vampiro:** Se o *Vampire Spawn* escapasse, ele se reportaria ao **[Lorde Vaeltherin Duskbane](vaeltherin_duskbane.md)** (inimigo de Gauthak, S09A), aumentando o perigo pessoal de **[Gauthak Vunakamune](pc_gauthak_vunakamune.md)**.
-* **Exposição da Guilda:** Se o grupo expusesse a **[Guilda dos Assassinos](assassins_guild.md)**, eles perderiam a recompensa e ganhariam um inimigo poderoso na cidade.
-
----
-## 📂 Source Files / Ficheiros Fonte
-
-| Ficheiro | Tipo |
-| :--- | :--- |
-| [Sessão Jota](uploaded:Sessão%20Jota) | Notas do DM (Setup e Encontros) |
-
----
-## 💰 Rewards & Loot / Recompensas e Saque
-
-| Item | Descrição (PT) | Description (EN) |
-| :--- | :--- | :--- |
-| **Ouro** | Recompensa da Guilda (Não Especificada, mas Implícita). | Guild Reward (Unspecified, but Implied). |
-| **Feitiços de Cultista** | Pergaminhos de feitiços de necromancia/sombra (do Aprendiz de Mago). | Scrolls of necromancy/shadow spells (from the Mage Apprentice). |
-
----
-
-## 📊 Passo 3 — Index Maintenance / Manutenção do Índice
-
-Com a conclusão da sessão **S17A: A Missão dos Assassinos**, os seguintes índices teóricos seriam atualizados com a referência ao ficheiro **(s17a_missao_assassinos.md)**:
-
-| Categoria | Entidade | Slug (Confirmado com docs\_structure ou Novo) | Sessões (Nova Adição) |
-| :--- | :--- | :--- | :--- |
-| **Missions** | [A Missão dos Assassinos](s17a_missao_assassinos.md) | S17A |
-| **PCs** | [Raylahn](pc_raylahn.md) | S17A |
-| **PCs** | [Drayl Bharash](pc_drayl_bharash.md) | S17A |
-| **PCs** | [Kai](pc_kai.md) | S17A |
-| **PCs** | [Markus Grimm](pc_markus_grimm.md) | S17A |
-| **PCs** | [Conan o Bárbaro](pc_conan_barbaro_ra.md) | S17A |
-| **Monsters** | [Vampire Spawn](vampire_spawn.md) (Novo) | S17A |
-| **Organizations** | [Guilda dos Assassinos](assassins_guild.md) | S17A |
 
 ---

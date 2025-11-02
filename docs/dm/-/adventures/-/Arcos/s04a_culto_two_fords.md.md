@@ -1,13 +1,12 @@
 ## O Culto em Two Fords / The Cult at Two Fords
 
-| 🗓 Timeline           | PT                                        | EN                                   |
-| :-------------------- | :---------------------------------------- | :----------------------------------- |
-| **Data do Jogo**      | 23/01/2025 (Quinta-feira)                 | January 23rd, 2025 (Thursday)        |
-| **Data In-Game**      | 6 de Ready'reat, 998 CY (Semana 04)       | 6th of Ready'reat, 998 CY (Week 04)  |
-| **Sessão #**          | S04A                                      | S04A                                 |
-| **DM**                | Laura                                     | Laura                                |
+| 🗓 Timeline / Cronologia | PT | EN |
+| :-------------------- | :---------------------------------------------------- | :------------------------------------------------------- |
+| **Data do Jogo** | 23 de Janeiro de 2025 | January 23rd, 2025 |
+| **Data In-Game** | 8 de Ready'reat, 998 CY (Semana 04) | 8th of Ready'reat, 998 CY (Week 04) |
+| **Sessão #** | S04A | S04A |
+| **DM** | Laura | Laura |
 | **Arcos Enquadrados** | **🦑 Arco da Corrupção do Mal Elemental** | **🦑 Elemental Evil Corruption Arc** |
-
 
 ---
 ## 📖 Overview / Sumário

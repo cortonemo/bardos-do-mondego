@@ -1,13 +1,12 @@
 ## As Máscaras da Morte / The Masks of Death
 
-| 🗓 Timeline           | PT                                        | EN                                   |
-| :-------------------- | :---------------------------------------- | :----------------------------------- |
-| **Data do Jogo**      | 30 de Janeiro de 2025                     | January 30, 2025                     |
-| **Data In-Game**      | 13 de Ready'reat, 998 CY (Semana 05)      | 13th of Ready'reat, 998 CY (Week 05) |
-| **Sessão #**          | S05A                                      | S05A                                 |
-| **DM**                | André Maia                                | André Maia                           |
+| 🗓 Timeline / Cronologia | PT | EN |
+| :-------------------- | :---------------------------------------------------- | :------------------------------------------------------- |
+| **Data do Jogo** | 30 de Janeiro de 2025 | January 30th, 2025 |
+| **Data In-Game** | 15 de Ready'reat, 998 CY (Semana 05) | 15th of Ready'reat, 998 CY (Week 05) |
+| **Sessão #** | S05A | S05A |
+| **DM** | André Maia | André Maia |
 | **Arcos Enquadrados** | **🦑 Arco da Corrupção do Mal Elemental** | **🦑 Elemental Evil Corruption Arc** |
-
 
 ---
 ## 📖 Overview / Sumário

@@ -1,11 +1,11 @@
 ## Intriga em High Ery / Intrigue in High Ery
 
-| 🗓 Timeline           | PT                                        | EN                                   |
-| :-------------------- | :---------------------------------------- | :----------------------------------- |
-| **Data (In-Game)**    | 6 de Março de 2025                        | March 6, 2025                        |
-|                       |                                           |                                      |
-| **Sessão #**          | S06A                                      | S06A                                 |
-| **DM**                | Laura                                     | Laura                                |
+| 🗓 Timeline / Cronologia | PT | EN |
+| :-------------------- | :---------------------------------------------------- | :------------------------------------------------------- |
+| **Data do Jogo** | 06 de Março de 2025 | March 6th, 2025 |
+| **Data In-Game** | 22 de Sunsebb, 998 CY (Semana 10) | 22nd of Sunsebb, 998 CY (Week 10) |
+| **Sessão #** | S10A | S10A |
+| **DM** | Laura | Laura |
 | **Arcos Enquadrados** | **🦑 Arco da Corrupção do Mal Elemental** | **🦑 Elemental Evil Corruption Arc** |
 
 ---

@@ -1,33 +1,13 @@
 
+Com certeza. O seu pedido final é para uma lista abrangente de **todos os ficheiros de missão Markdown (slugs)** que o Forge gerou ao longo da nossa sessão, incluindo os _placeholders_.
 
-| Nome Atual (Gerado)                | Nome Proposto/Correto              | Necessidade de Mudar? | Notas de Correção              |
-| :--------------------------------- | :--------------------------------- | :-------------------- | :----------------------------- |
-| **S01**                            |                                    |                       |                                |
-| `s01a_purificacao_riacho.md`       | `s01_purificacao_riacho.md`        | **SIM**               | Removido `a`.                  |
-| **S02**                            |                                    |                       |                                |
-| `s02a_miner_difficulties.md`       | `s02_miner_difficulties.md`        | **SIM**               | Removido `a`.                  |
-| **S03**                            |                                    |                       |                                |
-| `s03a_ataque_rio_neem.md`          | `s03_ataque_rio_neem.md`           | **SIM**               | Removido `a`.                  |
-| **S04**                            |                                    |                       |                                |
-| `s04a_culto_two_fords.md`          | `s04a_culto_two_fords.md`          | NÃO                   | Mantém A.                      |
-| `s04b_vale_sombrio_culto_alado.md` | `s04b_vale_sombrio_culto_alado.md` | NÃO                   | Mantém B.                      |
-| **S06 / S10**                      |                                    |                       |                                |
-| `s06a_intriga_high_ery.md`         | `s10a_intriga_high_ery.md`         | **SIM**               | Alinhado com a numeração S10A. |
-| `s06b_resgate_rolger.md`           | `s10b_resgate_rolger.md`           | **SIM**               | Alinhado com a numeração S10B. |
-| **S07 / S08**                      |                                    |                       |                                |
-| `s07_pantano_basilisco.md`         | `s07b_pantano_basilisco.md`        | **SIM**               | Alinhado como S07B.            |
-| `s08_templo_basilisco_pedras.md`   | `s08b_templo_basilisco_pedras.md`  | **SIM**               | Alinhado como S08B.            |
-| `s08a_intriga_odrak_erybend.md`    | `s08a_intriga_odrak_erybend.md`    | NÃO                   | Mantém A.                      |
-| **S11 / S13**                      |                                    |                       |                                |
-| `s11_sombras_de_iuz.md`            | `s11a_sombras_de_iuz.md`           | **SIM**               | Corrigido para S11A.           |
-| `s13_resgate_dustin.md`            | `s13a_resgate_dustin.md`           | **SIM**               | Corrigido para S13A.           |
-| `s13a_retorno_nave_illithid.md`    | `s13b_retorno_nave_illithid.md`    | **SIM**               | Corrigido para S13B.           |
-| `s14_guildas_greyhawk.md` | **`s14a_guildas_greyhawk.md`** | **SIM** | Corrigido para S14A. |
-| `s22_golpe_dados_rubi_p1.md` | **`s22a_golpe_dados_rubi_p1.md`** | **SIM** | Corrigido para S22A. |
-| `s23_golpe_dados_rubi_p2.md` | **`s23b_golpe_dados_rubi_p2.md`** | **SIM** | Corrigido para S23B. |
-| `s28_museu_sombras_p1.md` | **`s28a_museu_sombras_p1.md`** | **SIM** | Corrigido para S28A. |
+Esta tabela serve como o **Índice Mestre de Ficheiros** da sua Wiki, com os nomes canónicos corrigidos (SXXA/SXXB) para garantir a consistência dos seus _links_ internos.
 
+---
 
+## 💾 Índice Mestre de Ficheiros de Missão Criados (S01 - S31)
+
+---
 
 ## 📅 Índice Mestre de Todas as Sessões (Canónicas)
 

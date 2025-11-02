@@ -1,10 +1,11 @@
 ## Guildas de Greyhawk: A Burocracia e o Submundo / Guilds of Greyhawk: Bureaucracy and the Underworld
 
-| 🗓 Timeline           | PT                                        | EN                                   |
-| :-------------------- | :---------------------------------------- | :----------------------------------- |
-| **Data (In-Game)**    | 3 de Abril de 2025                        | April 3, 2025                        |
-| **Sessão #**          | S14                                       | S14                                  |
-| **DM**                | Jota                                      | Jota                                 |
+| 🗓 Timeline / Cronologia | PT | EN |
+| :-------------------- | :---------------------------------------------------- | :------------------------------------------------------- |
+| **Data do Jogo** | 03 de Abril de 2025 | April 3rd, 2025 |
+| **Data In-Game** | 15 de Fireseek, 999 CY (Semana 14) | 15th of Fireseek, 999 CY (Week 14) |
+| **Sessão #** | S14A | S14A |
+| **DM** | Jota | Jota |
 | **Arcos Enquadrados** | **🦑 Arco da Corrupção do Mal Elemental** | **🦑 Elemental Evil Corruption Arc** |
 
 ---

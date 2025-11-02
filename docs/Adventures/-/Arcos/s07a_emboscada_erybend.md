@@ -1,12 +1,12 @@
 ## Emboscada a Caminho de Erybend / Ambush on the Road to Erybend
 
-| 🗓 Timeline | PT | EN |
-| :--- | :--- | :--- |
+| 🗓 Timeline / Cronologia | PT | EN |
+| :-------------------- | :---------------------------------------------------- | :------------------------------------------------------- |
 | **Data do Jogo** | 13 de Fevereiro de 2025 | February 13th, 2025 |
-| **Data In-Game** | 1 de Sunsebb, 998 CY (Semana 7) | 1st of Sunsebb, 998 CY (Week 7) |
+| **Data In-Game** | 1 de Sunsebb, 998 CY (Semana 07) | 1st of Sunsebb, 998 CY (Week 07) |
 | **Sessão #** | S07A | S07A |
 | **DM** | Laura | Laura |
-| **Arcos Enquadrados** | **🦑 A Corrupção do Mal Elemental** | **🦑 The Elemental Evil Corruption Arc** |
+| **Arcos Enquadrados** | **🦑 Arco da Corrupção do Mal Elemental** | **🦑 Elemental Evil Corruption Arc** |
 
 ---
 ## 📖 Overview / Sumário
@@ -33,7 +33,7 @@
 | :--- | :--- | :--- |
 | **[Kai](pc_kai.md)** | Reconhece o líder Kobold [Torzac](torzac.md) (como Cavaleiro da Luz?). | Recognizes the Kobold leader [Torzac](torzac.md) (as Knight of Light?). |
 | **[Grix Molah](pc_grix_molah.md)** | Participa no combate e no interrogatório fracassado. | Participates in the combat and the failed interrogation. |
-| **[Varus](pc_varus.md)** | Presente na missão e no acampamento de comerciantes. | Present on the mission and at the merchant camp. |
+| **[Varus](docs/pc/-/pc_zeldris.md)** | Presente na missão e no acampamento de comerciantes. | Present on the mission and at the merchant camp. |
 | **[Triss Merril](pc_triss_merril.md)** | Ajuda no combate e na recuperação do loot. | Aids in combat and loot recovery. |
 | **[Torzac](torzac.md)** | Líder Kobold, revela a lealdade a [Nerzul](nerzul.md) antes de se suicidar. | Kobold leader, reveals allegiance to [Nerzul](nerzul.md) before committing suicide. |
 | **[Myria](myria.md) & [Jeraldina](jeraldina.md)** | Comerciantes que fornecem informações sobre os ataques. | Merchants who provide information about the attacks. |

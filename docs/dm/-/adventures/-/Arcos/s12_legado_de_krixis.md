@@ -1,11 +1,12 @@
 ## O Legado de Krixis, o Valente / The Legacy of Krixis the Brave
 
-| 🗓 Timeline           | PT                                        | EN                                   |
-| :-------------------- | :---------------------------------------- | :----------------------------------- |
-| **Data (In-Game)**    | 20 de Março de 2025                       | March 20, 2025                       |
-| **Sessão #**          | S12B                                      | S12B                                 |
-| **DM**                | Jota                                      | Jota                                 |
-| **Arcos Enquadrados** | **🦑 Arco da Corrupção do Mal Elemental** | **🦑 Elemental Evil Corruption Arc** |
+| 🗓 Timeline / Cronologia | PT                                        | EN                                   |
+| :----------------------- | :---------------------------------------- | :----------------------------------- |
+| **Data do Jogo**         | 20 de Março de 2025                       | March 20th, 2025                     |
+| **Data In-Game**         | 1 de Fireseek, 999 CY (Semana 12)         | 1st of Fireseek, 999 CY (Week 12)    |
+| **Sessão #**             | S12                                       | S12                                  |
+| **DM**                   | Jota                                      | Jota                                 |
+| **Arcos Enquadrados**    | **🦑 Arco da Corrupção do Mal Elemental** | **🦑 Elemental Evil Corruption Arc** |
 
 ---
 ## 📖 Overview / Sumário
@@ -76,7 +77,7 @@ Com a conclusão da sessão **S12B: O Legado de Krixis, o Valente**, os seguinte
 
 | Categoria | Entidade | Slug (Confirmado com docs\_structure ou Novo) | Sessões (Nova Adição) |
 | :--- | :--- | :--- | :--- |
-| **Missions** | [O Legado de Krixis, o Valente](docs/dm/-/adventures/-/Arcos/s12b_legado_de_krixis.md) | S12B |
+| **Missions** | [O Legado de Krixis, o Valente](s12_legado_de_krixis.md) | S12B |
 | **NPCs** | [Krixis, o Valente](krixis_o_valente.md) (Novo) | S12B |
 | **NPCs** | [Snikil Pescabrasa](snikil_pescabrasa.md) (Novo) | S12B |
 | **NPCs** | [Gogrom](gogrom.md) (Novo) | S12B |

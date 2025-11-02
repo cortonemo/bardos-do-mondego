@@ -7,6 +7,16 @@
 | **DM**                | Jota                                      | Jota                                 |
 | **Arcos Enquadrados** | **🦑 Arco da Corrupção do Mal Elemental** | **🦑 Elemental Evil Corruption Arc** |
 
+## O Legado de Krixis, o Valente / The Legacy of Krixis the Brave
+
+| 🗓 Timeline / Cronologia | PT | EN |
+| :-------------------- | :---------------------------------------------------- | :------------------------------------------------------- |
+| **Data do Jogo** | 20 de Março de 2025 | March 20th, 2025 |
+| **Data In-Game** | 1 de Fireseek, 999 CY (Semana 12) | 1st of Fireseek, 999 CY (Week 12) |
+| **Sessão #** | S12 | S12 |
+| **DM** | Jota | Jota |
+| **Arcos Enquadrados** | **🦑 Arco da Corrupção do Mal Elemental** | **🦑 Elemental Evil Corruption Arc** |
+
 ---
 ## 📖 Overview / Sumário
 

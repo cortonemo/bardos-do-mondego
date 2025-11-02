@@ -1,13 +1,12 @@
-## ## Dificuldades na Mina / Miner Difficulties
+## Dificuldades na Mina / Miner Difficulties
 
-| 🗓 Timeline           | PT                                        | EN                                   |
-| :-------------------- | :---------------------------------------- | :----------------------------------- |
-| **Data do Jogo**      | 09/01/2025 (Quinta-feira)                 | January 9th, 2025 (Thursday)         |
-| **Data In-Game**      | 22 de Patchwall, 998 CY (Semana 02)       | 22nd of Patchwall, 998 CY (Week 02)  |
-| **Sessão #**          | S02                                       | S02                                  |
-| **DM**                | André Maia                                | André Maia                           |
+| 🗓 Timeline / Cronologia | PT | EN |
+| :-------------------- | :---------------------------------------------------- | :------------------------------------------------------- |
+| **Data do Jogo** | 09 de Janeiro de 2025 | January 9th, 2025 |
+| **Data In-Game** | 22 de Patchwall, 998 CY (Semana 02) | 22nd of Patchwall, 998 CY (Week 02) |
+| **Sessão #** | S02 | S02 |
+| **DM** | André Maia | André Maia |
 | **Arcos Enquadrados** | **🦑 Arco da Corrupção do Mal Elemental** | **🦑 Elemental Evil Corruption Arc** |
-| **Data do Jogo**      | 09/01/2025 (Quinta-feira)                 | January 9th, 2025 (Thursday)         |
 
 ---
 ## 📖 Overview / Sumário

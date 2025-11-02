@@ -1,11 +1,12 @@
 ## O Ceptro de Zan e o Culto da Mão / The Scepter of Zan and the Cult of the Hand
 
-| 🗓 Timeline | PT | EN |
-| :--- | :--- | :--- |
-| **Data (In-Game)** | 10 de Abril de 2025 | April 10, 2025 |
+| 🗓 Timeline / Cronologia | PT | EN |
+| :-------------------- | :---------------------------------------------------- | :------------------------------------------------------- |
+| **Data do Jogo** | 10 de Abril de 2025 | April 10th, 2025 |
+| **Data In-Game** | 22 de Fireseek, 999 CY (Semana 15) | 22nd of Fireseek, 999 CY (Week 15) |
 | **Sessão #** | S15A | S15A |
 | **DM** | Guiné | Guiné |
-| **Arcos Enquadrados** | **👽 Arco da Conexão Cósmica**, **🦑 Arco da Corrupção do CME**, **🛡️ Arco de Beltar** | **👽 Cosmic Connection Arc**, **🦑 CME Corruption Arc**, **🛡️ Beltar Arc** |
+| **Arcos Enquadrados** | **👽 Arco da Conexão Cósmica & 🦑 CME** | **👽 Cosmic Connection Arc & 🦑 CME** |
 
 ---
 ## 📖 Overview / Sumário

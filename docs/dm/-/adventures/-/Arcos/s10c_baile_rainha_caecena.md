@@ -1,12 +1,12 @@
 ## O Baile da Rainha Caecena / Queen Caecena's Ball
 
-| 🗓 Timeline | PT | EN |
-| :--- | :--- | :--- |
+| 🗓 Timeline / Cronologia | PT | EN |
+| :-------------------- | :---------------------------------------------------- | :------------------------------------------------------- |
 | **Data do Jogo** | 06 de Março de 2025 | March 6th, 2025 |
 | **Data In-Game** | 22 de Sunsebb, 998 CY (Semana 10) | 22nd of Sunsebb, 998 CY (Week 10) |
 | **Sessão #** | S10C | S10C |
 | **DM** | Barda Pipa | Barda Pipa |
-| **Arcos Enquadrados** | (Externo / Feywild), **🛡️ Arco de Beltar** (Ligação Pessoal) | (External / Feywild), **🛡️ Beltar Arc** (Personal Connection) |
+| **Arcos Enquadrados** | **👑 Arco Externo (Feywild/Caecena)** | **👑 External Arc (Feywild/Caecena)** |
 
 ---
 ## 📖 Overview / Sumário

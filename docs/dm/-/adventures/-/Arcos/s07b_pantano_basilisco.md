@@ -1,12 +1,12 @@
 ## O Pântano da Companhia e o Basilisco / The Company's Swamp and the Basilisk
 
-| 🗓 Timeline           | PT                                        | EN                                   |
-| :-------------------- | :---------------------------------------- | :----------------------------------- |
-| **Data (In-Game)**    | 13 de Fevereiro de 2025                   | February 13, 2025                    |
-| **Sessão #**          | S07                                       | S07                                  |
-| **DM**                | Guiné / Laura                             | Guiné / Laura                        |
-| **Arcos Enquadrados** | **🦑 Arco da Corrupção do Mal Elemental** | **🦑 Elemental Evil Corruption Arc** |
-
+| 🗓 Timeline / Cronologia | PT                               | EN                               |
+| :----------------------- | :------------------------------- | :------------------------------- |
+| **Data do Jogo**         | 13 de Fevereiro de 2025          | February 13th, 2025              |
+| **Data In-Game**         | 1 de Sunsebb, 998 CY (Semana 07) | 1st of Sunsebb, 998 CY (Week 07) |
+| **Sessão #**             | S07B                             | S07B                             |
+| **DM**                   | Guiné                            | Guiné                            |
+| **Arcos Enquadrados**    | **👽 Arco da Conexão Cósmica**   | **👽 Cosmic Connection Arc**     |
 
 ---
 ## 📖 Overview / Sumário

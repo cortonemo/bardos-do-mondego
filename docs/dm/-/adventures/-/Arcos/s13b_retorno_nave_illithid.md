@@ -1,19 +1,20 @@
 ## O Retorno da Nave Illithid / The Illithid Ship Returns
 
-| 🗓 Timeline | PT | EN |
-| :--- | :--- | :--- |
-| **Data (In-Game)** | 27 de Março de 2025 | March 27, 2025 |
-| **Sessão #** | S13A | S13A |
+| 🗓 Timeline / Cronologia | PT | EN |
+| :-------------------- | :---------------------------------------------------- | :------------------------------------------------------- |
+| **Data do Jogo** | 27 de Março de 2025 | March 27th, 2025 |
+| **Data In-Game** | 8 de Fireseek, 999 CY (Semana 13) | 8th of Fireseek, 999 CY (Week 13) |
+| **Sessão #** | S13B | S13B |
 | **DM** | Guiné | Guiné |
-| **Arcos Enquadrados** | **👽 Arco da Conexão Cósmica** (Primário) | **👽 Cosmic Connection Arc** (Primary) |
+| **Arcos Enquadrados** | **👽 Arco da Conexão Cósmica** | **👽 Cosmic Connection Arc** |
 
 ---
 ## 📖 Overview / Sumário
 
-| Descrição | PT | EN |
-| :--- | :--- | :--- |
-| **Missão Principal** | O grupo é convocado para a **Nave Mãe Illithid** (Mind Flayer) para uma "negociação" de alto nível. O objetivo é recuperar os artefatos mágicos roubados e libertar o Hobgoblin **[Endouvan Bom Sossego](pc_endouven_bomsossego.md)** (abduzido há anos), que a nave Illithid detém. | The party is summoned to the **Illithid Mothership** (Mind Flayer) for a high-level "negotiation." The objective is to retrieve the stolen magical artifacts and free the Hobgoblin **[Endouvan Bom Sossego](pc_endouven_bomsossego.md)** (abducted years ago), whom the Illithid ship holds. |
-| **Resultado** | O grupo negocia com o piloto Illithid **[Zorg](zorg.md)** e liberta **Endouvan**. No entanto, **[Varus](pc_varus.md)** morre no processo, mas é ressuscitado com tecnologia alienígena, criando o *alter ego* **[Zeldris](zeldris.md)**. Após serem enganados e escaparem por pouco da ejeção para o espaço, a nave *Starship* **despenha-se** num bairro de luxo de Greyhawk, causando danos catastróficos e confirmando o caos alienígena. | The party negotiates with the Illithid pilot **[Zorg](zorg.md)** and frees **Endouvan**. However, **[Varus](pc_varus.md)** dies in the process but is resurrected with alien technology, creating the *alter ego* **[Zeldris](zeldris.md)**. After being tricked and narrowly escaping ejection into space, the *Starship* **crashes** into a luxury neighborhood in Greyhawk, causing catastrophic damage and confirming the alien chaos. |
+| Descrição            | PT                                                                                                                                                                                                                                                                                                                                                                                                                                           | EN                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| :------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Missão Principal** | O grupo é convocado para a **Nave Mãe Illithid** (Mind Flayer) para uma "negociação" de alto nível. O objetivo é recuperar os artefatos mágicos roubados e libertar o Hobgoblin **[Endouvan Bom Sossego](pc_endouven_bomsossego.md)** (abduzido há anos), que a nave Illithid detém.                                                                                                                                                         | The party is summoned to the **Illithid Mothership** (Mind Flayer) for a high-level "negotiation." The objective is to retrieve the stolen magical artifacts and free the Hobgoblin **[Endouvan Bom Sossego](pc_endouven_bomsossego.md)** (abducted years ago), whom the Illithid ship holds.                                                                                                                                              |
+| **Resultado**        | O grupo negocia com o piloto Illithid **[Zorg](zorg.md)** e liberta **Endouvan**. No entanto, **[Varus](docs/pc/-/pc_zeldris.md)** morre no processo, mas é ressuscitado com tecnologia alienígena, criando o *alter ego* **[Zeldris](zeldris.md)**. Após serem enganados e escaparem por pouco da ejeção para o espaço, a nave *Starship* **despenha-se** num bairro de luxo de Greyhawk, causando danos catastróficos e confirmando o caos alienígena. | The party negotiates with the Illithid pilot **[Zorg](zorg.md)** and frees **Endouvan**. However, **[Varus](docs/pc/-/pc_zeldris.md)** dies in the process but is resurrected with alien technology, creating the *alter ego* **[Zeldris](zeldris.md)**. After being tricked and narrowly escaping ejection into space, the *Starship* **crashes** into a luxury neighborhood in Greyhawk, causing catastrophic damage and confirming the alien chaos. |
 
 ---
 ## 🎲 Key Events / Eventos Chave
@@ -21,7 +22,7 @@
 | Evento | PT | EN |
 | :--- | :--- | :--- |
 | **Reunião com Zorg** | O grupo é transportado para a Nave Mãe, uma câmara de alta tecnologia. O Illithid **[Zorg](zorg.md)** é o piloto e negocia com o grupo, demonstrando interesse em participar no **Baile** de [Blackfair Manor](blackfair_manor.md). | The party is transported to the Mothership, a high-tech chamber. The Illithid **[Zorg](zorg.md)** is the pilot and negotiates with the group, showing interest in attending the **[Blackfair Manor](blackfair_manor.md) Ball**. |
-| **Resgate e Morte de Varus** | O grupo resgata **[Endouvan Bom Sossego](pc_endouven_bomsossego.md)**, que foi abduzido há anos. Durante uma luta ou um procedimento médico, **[Varus](pc_varus.md)** é morto (Implícito). Ele é ressuscitado usando tecnologia alienígena, o que resulta na criação do seu *alter ego* **[Zeldris](zeldris.md)**. | The party rescues **[Endouvan Bom Sossego](pc_endouven_bomsossego.md)**, who was abducted years ago. During a fight or a medical procedure, **[Varus](pc_varus.md)** is killed (Implied). He is resurrected using alien technology, which results in the creation of his *alter ego* **[Zeldris](zeldris.md)**. |
+| **Resgate e Morte de Varus** | O grupo resgata **[Endouvan Bom Sossego](pc_endouven_bomsossego.md)**, que foi abduzido há anos. Durante uma luta ou um procedimento médico, **[Varus](docs/pc/-/pc_zeldris.md)** é morto (Implícito). Ele é ressuscitado usando tecnologia alienígena, o que resulta na criação do seu *alter ego* **[Zeldris](zeldris.md)**. | The party rescues **[Endouvan Bom Sossego](pc_endouven_bomsossego.md)**, who was abducted years ago. During a fight or a medical procedure, **[Varus](docs/pc/-/pc_zeldris.md)** is killed (Implied). He is resurrected using alien technology, which results in the creation of his *alter ego* **[Zeldris](zeldris.md)**. |
 | **Lixo Espacial** | O grupo é enganado por um Illithid de vigilância para entrar num compartimento de lixo espacial. **[Sarvian Midlor](pc_sarvian_midlor.md)** usa o seu novo **Anel de Chamado** (oferecido por Zorg) para contactar a comitiva de Zorg e escapar. | The party is tricked by a surveillance Illithid into entering a space garbage compartment. **[Sarvian Midlor](pc_sarvian_midlor.md)** uses his new **Calling Ring** (offered by Zorg) to contact Zorg's retinue and escape. |
 | **O Crash da Nave** | Durante a viagem de regresso, a nave **despenha-se** violentamente num bairro de luxo de Greyhawk, destruindo grande parte da área e causando **mortes massivas**, confirmando a natureza perigosa da tecnologia alienígena. | During the return trip, the ship **crashes** violently into a luxury neighborhood in Greyhawk, destroying a large part of the area and causing **massive deaths**, confirming the dangerous nature of alien technology. |
 
@@ -31,7 +32,7 @@
 | Personagem | PT | EN |
 | :--- | :--- | :--- |
 | **[Endouvan Bom Sossego](pc_endouven_bomsossego.md)** | Resgatado, mas com buracos de memória devido à abdução de longa data. | Rescued, but with memory gaps due to the long-term abduction. |
-| **[Varus](pc_varus.md) / [Zeldris](zeldris.md)** | Morre e é ressuscitado como **[Zeldris](zeldris.md)**, um alter ego com potencial ligação à tecnologia Illithid. | Dies and is resurrected as **[Zeldris](zeldris.md)**, an alter ego with a potential link to Illithid technology. |
+| **[Varus](docs/pc/-/pc_zeldris.md) / [Zeldris](zeldris.md)** | Morre e é ressuscitado como **[Zeldris](zeldris.md)**, um alter ego com potencial ligação à tecnologia Illithid. | Dies and is resurrected as **[Zeldris](zeldris.md)**, an alter ego with a potential link to Illithid technology. |
 | **[Sarvian Midlor](pc_sarvian_midlor.md)** | Recebe o **Anel de Chamado** de **[Zorg](zorg.md)** e usa-o para salvar o grupo. | Receives the **Calling Ring** from **[Zorg](zorg.md)** and uses it to save the party. |
 | **[Bok Thunderfist](pc_bok_thunderfist.md)** | Envolvido no confronto final com os Illithids de vigilância. | Involved in the final confrontation with the surveillance Illithids. |
 | **[Zorg](zorg.md)** | Illithid Piloto Principal, revela o interesse da sua espécie no evento social (Baile) e na política de Greyhawk. | Main Illithid Pilot, reveals his species' interest in the social event (Ball) and Greyhawk politics. |
@@ -79,8 +80,8 @@ Com a conclusão da sessão **S13A: O Retorno da Nave Illithid**, os seguintes �
 | :--- | :--- | :--- | :--- |
 | **Missions** | [O Retorno da Nave Illithid](docs/dm/-/adventures/-/Arcos/s13b_retorno_nave_illithid.md) | S13A |
 | **PCs** | [Endouvan Bom Sossego](pc_endouven_bomsossego.md) | S13A |
-| **PCs** | [Varus](pc_varus.md) | S13A |
-| **PCs** | [Zeldris](pc_zeldris.md) (Novo) | S13A |
+| **PCs** | [Varus](docs/pc/-/pc_zeldris.md) | S13A |
+| **PCs** | [Zeldris](docs/pc/-/pc_zeldris.md) (Novo) | S13A |
 | **PCs** | [Sarvian Midlor](pc_sarvian_midlor.md) | S13A |
 | **PCs** | [Bok Thunderfist](pc_bok_thunderfist.md) | S13A |
 | **NPCs** | [Zorg](zorg.md) (Novo) | S13A |

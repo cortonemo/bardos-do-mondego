@@ -1,11 +1,12 @@
 ## Sombras de Iuz: O Resgate de Dustin / Shadows of Iuz: The Rescue of Dustin
 
-| 🗓 Timeline           | PT                                                                           | EN                                                                 |
-| :-------------------- | :--------------------------------------------------------------------------- | :----------------------------------------------------------------- |
-| **Data (In-Game)**    | 27 de Março de 2025                                                          | March 27, 2025                                                     |
-| **Sessão #**          | S13                                                                          | S13                                                                |
-| **DM**                | André Maia                                                                   | André Maia                                                         |
-| **Arcos Enquadrados** | **🛡️ Arco de Beltar** (Primário), **🦑 Arco da Corrupção do Mal Elemental** | **🛡️ Beltar Arc** (Primary), **🦑 Elemental Evil Corruption Arc** |
+| 🗓 Timeline / Cronologia | PT | EN |
+| :-------------------- | :---------------------------------------------------- | :------------------------------------------------------- |
+| **Data do Jogo** | 27 de Março de 2025 | March 27th, 2025 |
+| **Data In-Game** | 8 de Fireseek, 999 CY (Semana 13) | 8th of Fireseek, 999 CY (Week 13) |
+| **Sessão #** | S13A | S13A |
+| **DM** | André Maia | André Maia |
+| **Arcos Enquadrados** | **🛡️ Arco de Beltar e a Queda do Paladino** | **🛡️ The Beltar and the Paladin's Fall Arc** |
 
 ---
 ## 📖 Overview / Sumário

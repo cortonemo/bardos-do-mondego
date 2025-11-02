@@ -1,13 +1,12 @@
-## Sessão 01 – O Riacho Poluído e o Fungo Elemental / Session 01 – The Fouled Stream and the Elemental Fungus
+## 📝 O Riacho Poluído e o Fungo Elemental / The Fouled Stream and the Elemental Fungus
 
-| Linha Temporal        | PT (Português)                            | EN (English)                           |
-| :-------------------- | :---------------------------------------- | :------------------------------------- |
-| **Data do Jogo**      | 02/01/2025 (Quinta-feira)                 | January 2nd, 2025 (Thursday)           |
-| **Data In-Game**      | 15 de Patchwall, 998 CY (Semana 01)       | 15th of Patchwall, 998 CY (Week 01)    |
-| **Sessão #**          | S01                                       | S01                                    |
-| **DM**                |                                           |                                        |
-| **Local de Partida**  | [Refúgio do Errante](refugio_errante.md)  | [Wanderer's Haven](refugio_errante.md) |
-| **Arcos Enquadrados** | **🦑 Arco da Corrupção do Mal Elemental** | **🦑 Elemental Evil Corruption Arc**   |
+| 🗓 Timeline / Cronologia | PT | EN |
+| :-------------------- | :---------------------------------------------------- | :------------------------------------------------------- |
+| **Data do Jogo** | 02 de Janeiro de 2025 | January 2nd, 2025 |
+| **Data In-Game** | 15 de Patchwall, 998 CY (Semana 01) | 15th of Patchwall, 998 CY (Week 01) |
+| **Sessão \#** | S01 | S01 |
+| **DM** | *Não Especificado* | *Not Specified* |
+| **Arcos Enquadrados** | **🦑 Arco da Corrupção do Mal Elemental** | **🦑 Elemental Evil Corruption Arc** |
 
 -----
 

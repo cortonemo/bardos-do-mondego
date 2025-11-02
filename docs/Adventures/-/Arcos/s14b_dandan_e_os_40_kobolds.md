@@ -1,12 +1,12 @@
 ## Dandan e os 40 Kobolds / Dandan and the 40 Kobolds
 
-| 🗓 Timeline | PT | EN |
-| :--- | :--- | :--- |
+| 🗓 Timeline / Cronologia | PT | EN |
+| :-------------------- | :---------------------------------------------------- | :------------------------------------------------------- |
 | **Data do Jogo** | 03 de Abril de 2025 | April 3rd, 2025 |
 | **Data In-Game** | 15 de Fireseek, 999 CY (Semana 14) | 15th of Fireseek, 999 CY (Week 14) |
 | **Sessão #** | S14B | S14B |
 | **DM** | Laura | Laura |
-| **Arcos Enquadrados** | **🦑 A Corrupção do Mal Elemental** | **🦑 The Elemental Evil Corruption Arc** |
+| **Arcos Enquadrados** | **🦑 Arco da Corrupção do Mal Elemental** | **🦑 Elemental Evil Corruption Arc** |
 
 ---
 ## 📖 Overview / Sumário

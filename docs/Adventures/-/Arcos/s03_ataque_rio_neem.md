@@ -1,10 +1,11 @@
 ## O Ataque de Rio Neem / The Neen River Ambush
 
-| 🗓 Timeline           | PT                                        | EN                                   |
-| :-------------------- | :---------------------------------------- | :----------------------------------- |
-| **Data (In-Game)**    | 15 de Janeiro de 2025                     | January 15, 2025                     |
-| **Sessão #**          | S03A                                      | S03A                                 |
-| **DM**                | Laura                                     | Laura                                |
+| 🗓 Timeline / Cronologia | PT | EN |
+| :-------------------- | :---------------------------------------------------- | :------------------------------------------------------- |
+| **Data do Jogo** | 16 de Janeiro de 2025 | January 16th, 2025 |
+| **Data In-Game** | 1 de Ready'reat, 998 CY (Semana 03) | 1st of Ready'reat, 998 CY (Week 03) |
+| **Sessão #** | S03 | S03 |
+| **DM** | Laura | Laura |
 | **Arcos Enquadrados** | **🦑 Arco da Corrupção do Mal Elemental** | **🦑 Elemental Evil Corruption Arc** |
 
 ---

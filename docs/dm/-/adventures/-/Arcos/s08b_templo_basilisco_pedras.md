@@ -1,11 +1,12 @@
 ## O Templo do Basilisco e a Abdução Alienígena / The Basilisk Temple and the Alien Abduction
 
-| 🗓 Timeline           | PT                                        | EN                                   |
-| :-------------------- | :---------------------------------------- | :----------------------------------- |
-| **Data (In-Game)**    | 20 de Fevereiro de 2025                   | February 20, 2025                    |
-| **Sessão #**          | S08                                       | S08                                  |
-| **DM**                | Guiné                                     | Guiné                                |
-| **Arcos Enquadrados** | **🦑 Arco da Corrupção do Mal Elemental** | **🦑 Elemental Evil Corruption Arc** |
+| 🗓 Timeline / Cronologia | PT | EN |
+| :-------------------- | :---------------------------------------------------- | :------------------------------------------------------- |
+| **Data do Jogo** | 20 de Fevereiro de 2025 | February 20th, 2025 |
+| **Data In-Game** | 8 de Sunsebb, 998 CY (Semana 08) | 8th of Sunsebb, 998 CY (Week 08) |
+| **Sessão #** | S08B | S08B |
+| **DM** | Guiné | Guiné |
+| **Arcos Enquadrados** | **👽 Arco da Conexão Cósmica** | **👽 Cosmic Connection Arc** |
 
 ---
 ## 📖 Overview / Sumário

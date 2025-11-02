@@ -1,8 +1,9 @@
 ## Sombras Sobre Erybend / Shadows Over Erybend
 
-| 🗓 Timeline | PT | EN |
-| :--- | :--- | :--- |
-| **Data (In-Game)** | 13 de Março de 2025 | March 13, 2025 |
+| 🗓 Timeline / Cronologia | PT | EN |
+| :-------------------- | :---------------------------------------------------- | :------------------------------------------------------- |
+| **Data do Jogo** | 13 de Março de 2025 | March 13th, 2025 |
+| **Data In-Game** | 1 de Needfest, 999 CY (Semana 11) | 1st of Needfest, 999 CY (Week 11) |
 | **Sessão #** | S11B | S11B |
 | **DM** | Laura | Laura |
 | **Arcos Enquadrados** | **🦑 Arco da Corrupção do Mal Elemental** | **🦑 Elemental Evil Corruption Arc** |
@@ -33,7 +34,7 @@
 | **[Kai](pc_kai.md)**                   | Envolvido no assalto ao templo e na derrota de Odrak.                                                         | Involved in the temple assault and the defeat of Odrak.                                              |
 | **[Grix Molah](pc_grix_molah.md)**     | Participa na batalha, ajudando a controlar a multidão de cultistas.                                           | Participates in the battle, helping to control the cultist crowd.                                    |
 | **[Triss Merril](pc_triss_merril.md)** | A sua presença é notada como possível drow; ganchos futuros sugerem que o culto pode estar ligado à sua irmã. | Her presence is noted as a possible drow; future hooks suggest the cult may be linked to her sister. |
-| **[Varus](pc_zeldris.md)**             | Ajuda a estabilizar o combate no templo.                                                                      | Helps stabilize the combat in the temple.                                                            |
+| **[Varus](docs/pc/-/pc_zeldris.md)**             | Ajuda a estabilizar o combate no templo.                                                                      | Helps stabilize the combat in the temple.                                                            |
 | **[Flynn](pc_flynn.md)**               | O *halfling* usa as suas habilidades contra os elementos do culto.                                            | The *halfling* uses his abilities against the cult's elements.                                       |
 | **[Dolrea Vas](dolrea_vas.md)**        | O *half-elf* que contrata e é protegido, assegurando a aliança.                                               | The *half-elf* who contracts and is protected, securing the alliance.                                |
 | **Odrak**                              | Líder da célula do culto em Erybend, derrotado no altar.                                                      | Leader of the cult cell in Erybend, defeated at the altar.                                           |
@@ -85,7 +86,7 @@ Com a conclusão da sessão **S11B: Sombras Sobre Erybend**, os seguintes índic
 | **PCs** | [Kai](pc_kai.md) | S11B |
 | **PCs** | [Grix Molah](pc_grix_molah.md) | S11B |
 | **PCs** | [Triss Merril](pc_triss_merril.md) | S11B |
-| **PCs** | [Varus](pc_varus.md) | S11B |
+| **PCs** | [Varus](docs/pc/-/pc_zeldris.md) | S11B |
 | **PCs** | [Flynn](pc_flynn.md) | S11B |
 | **NPCs** | [Dolrea Vas](dolrea_vas.md) | S11B |
 | **NPCs** | [Odrak](odrak.md) (Novo) | S11B |

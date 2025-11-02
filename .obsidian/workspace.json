@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/dm/-/adventures/-/Arcos/s07b_pantano_basilisco.md",
+                "file": "tools/greyhawk_sessions_complete.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "s07b_pantano_basilisco"
-            }
-          },
-          {
-            "id": "f2d695c084db29b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/dm/-/adventures/-/Arcos/s14b_dandan_e_os_40_kobolds.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "s14b_dandan_e_os_40_kobolds"
+              "title": "greyhawk_sessions_complete"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,34 +176,34 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "f2d695c084db29b3",
+  "active": "a04fd158416016f7",
   "lastOpenFiles": [
-    "docs/Adventures/-/Arcos/s29a_museu_sombras_p2.md",
-    "docs/Adventures/-/Arcos/s28a_museu_sombras_p1.md",
-    "docs/Adventures/-/Arcos/s25_sociedade_ratos_sedentos.md",
-    "docs/Adventures/-/Arcos/s23a_golpe_dados_rubi_p2.md",
-    "docs/Adventures/-/Arcos/s22a_golpe_dados_rubi_p1.md",
+    "galin_fiduadin.md",
+    "tools/greyhawk_sessions_complete.md",
+    "docs/dm/-/adventures/-/Arcos/s01_purificacao_riacho.md",
+    "docs/dm/-/organizations/-/cults/cult_of_elemental_evil.md",
+    "docs/dm/-/adventures/-/Arcos/s17a_missao_assassinos.md",
+    "docs/dm/-/adventures/-/Arcos/s17b_a_crianca_perdida.md",
+    "docs/dm/-/adventures/-/Arcos/s15b_a_crianca_perdida.md",
     "docs/Adventures/-/Arcos/s17a_missao_assassinos.md",
-    "docs/Adventures/-/Arcos/s16_blank.md",
-    "docs/Adventures/-/Arcos/s15b_a_crianca_perdida.md",
-    "docs/Adventures/-/Arcos/s15a_ceptro_de_zan.md",
-    "docs/Adventures/-/Arcos/s14b_dandan_e_os_40_kobolds.md",
-    "docs/Adventures/-/Arcos/s14a_guildas_greyhawk.md",
-    "docs/Adventures/-/Arcos/s13b_retorno_nave_illithid.md",
-    "docs/Adventures/-/Arcos/s13a_resgate_dustin.md",
-    "docs/Adventures/-/Arcos/s12b_legado_de_krixis.md",
-    "docs/Adventures/-/Arcos/s11b_sombras_sobre_erybend.md",
-    "docs/Adventures/-/Arcos/s11a_sombras_de_iuz.md",
-    "docs/Adventures/-/Arcos/s10c_baile_rainha_caecena.md",
-    "docs/Adventures/-/Arcos/s10b_resgate_rolger.md",
-    "docs/Adventures/-/Arcos/s10a_intriga_high_ery.md",
-    "docs/Adventures/-/Arcos/s09b_ondas_lo_reltarma.md",
-    "docs/Adventures/-/Arcos/s09a_sombras_sobre_a_agua.md",
+    "docs/Adventures/-/Arcos/s17b_a_crianca_perdida.md",
+    "docs/Adventures/-/Arcos/s17b.md",
+    "docs/dm/-/adventures/-/Arcos/s16_blank.md",
+    "docs/dm/-/adventures/-/Arcos/s07b_pantano_basilisco.md",
+    "docs/dm/-/adventures/-/Arcos/s08a_intriga_odrak_erybend.md",
     "docs/Adventures/-/Arcos/s08b_templo_basilisco_pedras.md",
     "docs/Adventures/-/Arcos/s08a_intriga_odrak_erybend.md",
     "docs/Adventures/-/Arcos/s07b_pantano_basilisco.md",
     "docs/Adventures/-/Arcos/s07a_emboscada_erybend.md",
-    "docs/Adventures/-/Arcos/s06_blank.md",
+    "docs/Adventures/-/Arcos/s31_idolo_lady_scale_p3.md",
+    "docs/dm/-/adventures/-/Arcos/s31_idolo_lady_scale_p3.md",
+    "docs/dm/-/adventures/-/Arcos/s30b_idolo_lady_scale_p2.md",
+    "docs/Adventures/-/Arcos/s30b_idolo_lady_scale_p2.md",
+    "docs/Adventures/-/Arcos/s30a_polimorfismo_sea_hag.md",
+    "docs/dm/-/adventures/-/Arcos/s30a_polimorfismo_sea_hag.md",
+    "docs/dm/-/adventures/-/Arcos/s29b_idolo_lady_scale_p1.md",
+    "docs/Adventures/-/Arcos/s29b_idolo_lady_scale_p1.md",
+    "docs/Adventures/-/Arcos/s29a_museu_sombras_p2.md",
     "docs/assets/pc/pc_ugus_bugus.png",
     "docs/Adventures/👽 Cosmic Connection Arc",
     "docs/dm/-/adventures/-/Arcos",

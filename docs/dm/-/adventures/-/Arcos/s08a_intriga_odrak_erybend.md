@@ -1,10 +1,12 @@
 ## Intriga de Odrak em Erybend / Odrak Intrigue in Erybend
 
-| 🗓 Timeline | PT | EN |
-| :--- | :--- | :--- |
-| **Data (In-Game)** | 20 de Fevereiro de 2025 | February 20, 2025 |
+| 🗓 Timeline / Cronologia | PT | EN |
+| :-------------------- | :---------------------------------------------------- | :------------------------------------------------------- |
+| **Data do Jogo** | 20 de Fevereiro de 2025 | February 20th, 2025 |
+| **Data In-Game** | 8 de Sunsebb, 998 CY (Semana 08) | 8th of Sunsebb, 998 CY (Week 08) |
 | **Sessão #** | S08A | S08A |
 | **DM** | Laura | Laura |
+| **Arcos Enquadrados** | **🦑 Arco da Corrupção do Mal Elemental** | **🦑 Elemental Evil Corruption Arc** |
 
 ---
 ## 📖 Overview / Sumário
@@ -31,7 +33,7 @@
 | :--- | :--- | :--- |
 | **[Kai](pc_kai.md)** | Membro da *party* de investigação e combate em [Erybend](erybend.md). | Investigation and combat *party* member in [Erybend](erybend.md). |
 | **[Grix Molah](pc_grix_molah.md)** | Envolvido na investigação do desaparecimento e na compra exagerada de meias. | Involved in the disappearance investigation and the exaggerated purchase of socks. |
-| **[Varus](pc_varus.md)** | Participa na missão de reconhecimento comercial e no combate. | Participates in the commercial reconnaissance mission and combat. |
+| **[Varus](docs/pc/-/pc_zeldris.md)** | Participa na missão de reconhecimento comercial e no combate. | Participates in the commercial reconnaissance mission and combat. |
 | **[Flynn](pc_flynn.md)** | O *halfling* que se junta à *party* na viagem. | The *halfling* who joins the *party* on the journey. |
 | **[Triss Merril](pc_triss_merril.md)** | Ajuda na investigação inicial e compra meias (*mal feitas*). | Aids in the initial investigation and buys socks (*poorly made*). |
 | **[Dolrea Vas](dolrea_vas.md)** | O *half-elf* local que contrata o grupo e é revelado como o próximo alvo do culto. | The local *half-elf* who contracts the group and is revealed as the cult's next target. |
@@ -80,7 +82,7 @@ Com a conclusão da sessão **S08A: Intriga de Odrak em Erybend**, os seguintes 
 | **Missions**      | [Intriga de Odrak em Erybend ](docs/dm/-/adventures/-/Arcos/s08a_intriga_odrak_erybend.md) | S08A                                          |                       |
 | **PCs**           | [Kai](pc_kai.md)                                              | S08A                                          |                       |
 | **PCs**           | [Grix Molah](pc_grix_molah.md)                                | S08A                                          |                       |
-| **PCs**           | [Varus](pc_zeldris.md)                                        | S08A                                          |                       |
+| **PCs**           | [Varus](docs/pc/-/pc_zeldris.md)                                        | S08A                                          |                       |
 | **PCs**           | [Flynn](pc_flynn.md)                                          | S08A                                          |                       |
 | **PCs**           | [Triss Merril](pc_triss_merril.md)                            | S08A                                          |                       |
 | **NPCs**          | [Dolrea Vas ](dolrea_vas.md) (Novo)                           | S08A                                          |                       |

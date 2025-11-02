@@ -1,10 +1,11 @@
 ## O Vale Sombrio e o Culto Alado / The Shadow Valley and the Winged Cult
 
-| 🗓 Timeline           | PT                                        | EN                                   |
-| :-------------------- | :---------------------------------------- | :----------------------------------- |
-| **Data (In-Game)**    | 23 de Janeiro de 2025                     | January 23, 2025                     |
-| **Sessão #**          | S04B                                      | S04B                                 |
-| **DM**                | André Maia                                | André Maia                           |
+| 🗓 Timeline / Cronologia | PT | EN |
+| :-------------------- | :---------------------------------------------------- | :------------------------------------------------------- |
+| **Data do Jogo** | 23 de Janeiro de 2025 | January 23rd, 2025 |
+| **Data In-Game** | 8 de Ready'reat, 998 CY (Semana 04) | 8th of Ready'reat, 998 CY (Week 04) |
+| **Sessão #** | S04B | S04B |
+| **DM** | André Maia | André Maia |
 | **Arcos Enquadrados** | **🦑 Arco da Corrupção do Mal Elemental** | **🦑 Elemental Evil Corruption Arc** |
 
 ---
