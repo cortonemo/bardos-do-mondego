@@ -1,41 +1,47 @@
-# Ketrich Flavifer
+# Ketrich Flavifer ([S29A](s29a_museu_sombras_p2.md), [S30A](s30a_polimorfismo_sea_hag.md))
 
 
-| ![pc_ketrich_flavifer_01](assets/pc/pc_ketrich_flavifer_01.png){ width=200 } | ![pc_ketrich_flavifer_02](assets/pc/pc_ketrich_flavifer_02.jpg){ width=200 } | ![pc_ketrich_flavifer_03](assets/pc/pc_ketrich_flavifer_03.jpg){ width=200 } |
+| ![pc_ketrich_flavifer_01](pc_ketrich_flavifer_01.png){ width=200 } | ![pc_ketrich_flavifer_02](pc_ketrich_flavifer_02.jpg){ width=200 } | ![pc_ketrich_flavifer_03](pc_ketrich_flavifer_03.jpg){ width=200 } |
 | ----------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
 
 ---
 
-**[DM-ONLY – Não incluir na Wiki]**  
+**[DM-ONLY – Não incluir na Wiki]**
 
-| Português                                                                    | English                                                |
-| --------------------------------------------------------- | ---------------------------------------- |
-| **Jogador:** Pietro Semprebon                                      | **Player:**  Pietro Semprebon                      |
-| **Idade:** 27                                          | **Age:**   27                        |
-| **Contacto:** +39 333 6730728                                    | **Contact:**  +39 333 6730728                   |
-| **Instagram:** [por preencher]                                   | **Instagram:**  [to be filled]               |
-| **Discord:** [por preencher]                                       | **Discord:**  [to be filled]                   |
-| **Ficha D&D Beyond:** [Link](https://www.dndbeyond.com/characters/149408058)                     | **D&D Beyond Sheet:**  [Link](https://www.dndbeyond.com/characters/149408058) |
+### 🎲 Jogador / 🎲 Player
 
-**[DM-ONLY – Não incluir na Wiki]**  
+| 🎲 Jogador | 🎲 Player |
+| ---------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| **Jogador:** Pietro Semprebon | **Player:** Pietro Semprebon |
+| **Idade:** 27 | **Age:** 27 |
+| **Contacto:** +39 333 6730728 | **Contact:** +39 333 6730728 |
+| **Instagram:** [por preencher] | **Instagram:** [to be filled] |
+| **Discord:** [por preencher] | **Discord:** [to be filled] |
+| **Ficha D&D Beyond:** [Link](https://www.dndbeyond.com/characters/149408058) | **D&D Beyond Sheet:** [Link](https://www.dndbeyond.com/characters/149408058) |
+
+**[DM-ONLY – Não incluir na Wiki]**
 
 ---
 
-| **🧙 Personagem**                                     | **🧙 Character**                             |
+### 🧙 Personagem / 🧙 Character
+
+| **🧙 Personagem** | **🧙 Character** |
 | ----------------------------------------------------- | -------------------------------------------- |
-| Nome: Ketrich Flavifer                                | Name:  Ketrich Flavifer                      |
-| Espécie:  Humano                                      | Species:  Human                              |
-| Classe:  Warlock (Pacto da Lâmina)                    | Class:  Warlock (Pact of the Blade)          |
-| Alinhamento: [por preencher]                          | Alignment: [to be filled]                    |
+| Nome: **Ketrich Flavifer** | Name: **Ketrich Flavifer** |
+| Espécie: [Humano](https://www.dndbeyond.com/races/human) | Species: [Human](https://www.dndbeyond.com/races/human) |
+| Classe: [Warlock](https://www.dndbeyond.com/classes/warlock) (Pacto da Lâmina) | Class: [Warlock](https://www.dndbeyond.com/classes/warlock) ([Pact of the Blade](https://www.dndbeyond.com/classes/warlock#PactoftheBlade)) |
+| Alinhamento: [por preencher] | Alignment: [to be filled] |
 | Background: Mercador (família de especiarias e ervas) | Background: Merchant (spices & herbs family) |
-| Idade: [por preencher]                                | Age: [to be filled]                          |
-| Altura: [por preencher]                               | Height: [to be filled]                       |
-| Olhos: [por preencher]                                | Eyes: [to be filled]                         |
-| Cabelo: [por preencher]                               | Hair: [to be filled]                         |
-| Pele: [por preencher]                                 | Skin: [to be filled]                         |
-| Tamanho:  [por preencher]                             | Size:  [to be filled]                        |
+| Idade: [por preencher] | Age: [to be filled] |
+| Altura: [por preencher] | Height: [to be filled] |
+| Olhos: [por preencher] | Eyes: [to be filled] |
+| Cabelo: [por preencher] | Hair: [to be filled] |
+| Pele: [por preencher] | Skin: [to be filled] |
+| Tamanho: [por preencher] | Size: [to be filled] |
 
 ---
+
+### 📜 Descrição Física / 📜 Physical Description
 
 | **📜 Descrição Física** | **📜 Physical Description** |
 | ----------------------- | --------------------------- |
@@ -43,17 +49,23 @@
 
 ---
 
-| **⚔️ Itens**             | **⚔️ Items**                         |
+### ⚔️ Itens / ⚔️ Items
+
+| **⚔️ Itens** | **⚔️ Items** |
 | ---------------------- | ------------------------------ |
-| **Armadura/Escudo:** Leather Armor <br>**Armas:** Rapier (pact weapon); 2 Daggers <br>**Items mágicos:** [por preencher] <br>**Potions:** [por preencher] <br>**Items não mágicos:** Backpack; Herbalism Kit; Paper and Ink; Chalk; Candles; Bedroll; Fine Clothes; Adventurer’s Clothes  <br>**Ouro:** 200 gp | **Armor/Shield:** Leather Armor <br>**Weapons:** Rapier (pact weapon); 2 Daggers <br>**Magical Items:** [to be filled] <br>**Potions:** [to be filled] <br>**Non-magical Items:** Backpack; Herbalism Kit; Paper and Ink; Chalk; Candles; Bedroll; Fine Clothes; Adventurer’s Clothes <br>**Gold:** 200 gp |
+| **Armadura/Escudo:** [Leather Armor](https://www.dndbeyond.com/equipment/leather-armor) <br>**Armas:** [Rapier](https://www.dndbeyond.com/equipment/rapier) (pact weapon); 2 [Daggers](https://www.dndbeyond.com/equipment/dagger) <br>**Items mágicos:** [por preencher] <br>**Potions:** [por preencher] <br>**Items não mágicos:** [Backpack](https://www.dndbeyond.com/equipment/backpack); [Herbalism Kit](https://www.dndbeyond.com/equipment/herbalism-kit); [Paper and Ink](https://www.dndbeyond.com/equipment/paper-and-ink); [Chalk](https://www.dndbeyond.com/equipment/chalk); [Candles](https://www.dndbeyond.com/equipment/candle); [Bedroll](https://www.dndbeyond.com/equipment/bedroll); [Fine Clothes](https://www.dndbeyond.com/equipment/fine-clothes); [Adventurer’s Clothes](https://www.dndbeyond.com/equipment/clothes-travelers) <br>**Ouro:** 200 gp | **Armor/Shield:** [Leather Armor](https://www.dndbeyond.com/equipment/leather-armor) <br>**Weapons:** [Rapier](https://www.dndbeyond.com/equipment/rapier) (pact weapon); 2 [Daggers](https://www.dndbeyond.com/equipment/dagger) <br>**Magical Items:** [to be filled] <br>**Potions:** [to be filled] <br>**Non-magical Items:** [Backpack](https://www.dndbeyond.com/equipment/backpack); [Herbalism Kit](https://www.dndbeyond.com/equipment/herbalism-kit); [Paper and Ink](https://www.dndbeyond.com/equipment/paper-and-ink); [Chalk](https://www.dndbeyond.com/equipment/chalk); [Candles](https://www.dndbeyond.com/equipment/candle); [Bedroll](https://www.dndbeyond.com/equipment/bedroll); [Fine Clothes](https://www.dndbeyond.com/equipment/fine-clothes); [Adventurer’s Clothes](https://www.dndbeyond.com/equipment/clothes-travelers) <br>**Gold:** 200 gp |
 
 ---
+
+### 📖 História – Antes da Taberna / 📖 Story – Before the Tavern
 
 | **📖 História – Antes da Taberna** | **📖 Story – Before the Tavern** |
 | ---------------------------------- | -------------------------------- |
-| - Nascido numa família de mercadores de especiarias e ervas, com vida confortável mas não rica. <br>- O pai, **Rond Cornelius Flavifer**, foi aventureiro amaldiçoado por um mago sombrio, reduzindo-lhe a expectativa de vida pela metade. <br>- A mãe, **Lia Viridis**, herdou e geriu os negócios da família. <br>- O seu maior objetivo é encontrar a cura para a maldição do pai. <br>- Descobriu uma cripta antiga no porão da casa, onde fez contacto com o seu Patrono, que lhe revelou uma nova realidade. <br>- Desde então, tenta partilhar essa revelação com outros. <br>- Foi salvo de um museu amaldiçoado por aventureiros e chegou assim à Taberna. | - Born into a spice and herb merchant family, comfortable but not rich. <br>- His father, **Rond Cornelius Flavifer**, was an adventurer cursed by a dark mage, halving his lifespan. <br>- His mother, **Lia Viridis**, inherited and managed the family business. <br>- His main goal is to cure his father’s curse. <br>- Discovered an ancient crypt in the family cellar, where he encountered his Patron, who revealed another reality to him. <br>- Since then, he seeks to share this revelation with others. <br>- He was saved from a cursed museum by adventurers, arriving thus at the Tavern. |
+| - Nascido numa família de mercadores de especiarias e ervas, com vida confortável mas não rica. <br>- O pai, **[Rond Cornelius Flavifer](rond_flavifer.md)**, foi aventureiro amaldiçoado por um mago sombrio, reduzindo-lhe a expectativa de vida pela metade. <br>- A mãe, **[Lia Viridis](lia_viridis.md)**, herdou e geriu os negócios da família. <br>- O seu maior objetivo é encontrar a cura para a maldição do pai. <br>- Descobriu uma cripta antiga no porão da casa, onde fez contacto com o seu Patrono, que lhe revelou uma nova realidade. <br>- Desde então, tenta partilhar essa revelação com outros. <br>- Foi salvo de um **museu amaldiçoado** por aventureiros e chegou assim à Taberna. | - Born into a spice and herb merchant family, comfortable but not rich. <br>- His father, **[Rond Cornelius Flavifer](rond_flavifer.md)**, was an adventurer cursed by a dark mage, halving his lifespan. <br>- His mother, **[Lia Viridis](lia_viridis.md)**, inherited and managed the family business. <br>- His main goal is to cure his father’s curse. <br>- Discovered an ancient crypt in the family cellar, where he encountered his Patron, who revealed another reality to him. <br>- Since then, he seeks to share this revelation with others. <br>- He was saved from a **cursed museum** by adventurers, arriving thus at the Tavern. |
 
 ---
+
+### 📖 História – Depois da Taberna / 📖 Story – After the Tavern
 
 | **📖 História – Depois da Taberna** | **📖 Story – After the Tavern** |
 | ----------------------------------- | -------------------------------- |
@@ -61,16 +73,49 @@
 
 ---
 
-| **🎭 Dramatis Persona**                                                                                                                 | **🎭 Dramatis Persona**                                                                                                           |
+### 🎭 Dramatis Persona / 🎭 Dramatis Personae
+
+| **🎭 Dramatis Persona** | **🎭 Dramatis Personae** |
 | --------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
-| **NPCs de influência direta:**  <br>- [Lia Viridis](lia_viridis.md) (mãe, mercadora) <br>- [Rond Cornelius Flavifer](rond_flavifer.md) (pai amaldiçoado) <br>- [Clementine Flavifer](clementine_flavifer.md) (irmã mais nova, curandeira no templo de Selûne) <br>- [Fringilla Flavifer](fringilla_flavifer.md) (irmã mais velha, ex-militar e aventureira) | **Direct Influence NPCs:**  <br>- [Lia Viridis](lia_viridis.md) (mother, merchant) <br>- [Rond Cornelius Flavifer](rond_flavifer.md) (cursed father) <br>- [Clementine Flavifer](clementine_flavifer.md) (younger sister, healer at temple of Selûne) <br>- [Fringilla Flavifer](fringilla_flavifer.md) (older sister, ex-military adventurer) |
-| **Antagonistas:**  <br>- Mago sombrio que amaldiçoou Rond Flavifer | **Antagonists:**  <br>- Dark mage who cursed Rond Flavifer |
-| **Aliados:**  <br>- [por preencher] | **Allies:**  <br>- [to be filled] |
+| **NPCs de influência direta:** <br>- [Lia Viridis](lia_viridis.md) (mãe, mercadora) <br>- [Rond Cornelius Flavifer](rond_flavifer.md) (pai amaldiçoado) <br>- [Clementine Flavifer](clementine_flavifer.md) (irmã mais nova, curandeira no templo de [Selûne](pantheon.md)) <br>- [Fringilla Flavifer](fringilla_flavifer.md) (irmã mais velha, ex-militar e aventureira) | **Direct Influence NPCs:** <br>- [Lia Viridis](lia_viridis.md) (mother, merchant) <br>- [Rond Cornelius Flavifer](rond_flavifer.md) (cursed father) <br>- [Clementine Flavifer](clementine_flavifer.md) (younger sister, healer at temple of [Selûne](pantheon.md)) <br>- [Fringilla Flavifer](fringilla_flavifer.md) (older sister, ex-military adventurer) |
+| **Antagonistas:** <br>- Mago sombrio que amaldiçoou [Rond Flavifer](rond_flavifer.md) | **Antagonists:** <br>- Dark mage who cursed [Rond Flavifer](rond_flavifer.md) |
+| **Aliados:** <br>- [por preencher] | **Allies:** <br>- [to be filled] |
 
 ---
+
+### 🔮 OBS / 🔮 Notes
 
 | **🔮 OBS** | **🔮 Notes** |
 | ---------- | ------------ |
 | - Nenhum item mágico registado até agora. <br>- A ligação com o Patrono permanece um mistério, revelando apenas fragmentos de uma realidade oculta. <br>- Objetivo de vida: quebrar a maldição familiar. | - No magical items recorded so far. <br>- His bond with the Patron remains mysterious, revealing only fragments of a hidden reality. <br>- Life goal: to break his family’s curse. |
 
 ---
+## Processing Audit
+
+### Internal Links
+| Source File | Linked Files |
+| :--- | :--- |
+| pc_ketrich_flavifer.md | s29a_museu_sombras_p2.md, s30a_polimorfismo_sea_hag.md, rond_flavifer.md, lia_viridis.md, clementine_flavifer.md, fringilla_flavifer.md, pantheon.md |
+
+### Warnings
+| Type | Where | Detail |
+| :--- | :--- | :--- |
+| Session File Missing | pc_ketrich_flavifer.md | Linked file `s06a_intriga_high_ery.md` for PC `Frederick Junsi` in `Recapitulativo Temporada 01.md` does not exist in the provided file list. Link was omitted. |
+
+### Missing Files
+| Type | Where | Detail |
+| :--- | :--- | :--- |
+| Linked File | 🎭 Dramatis Persona / 🎭 Dramatis Personae (row 1, col 1) | File `lia_viridis.md` not found for text `Lia Viridis`. Used underscore rule: `lia_viridis.md`. |
+| Linked File | 🎭 Dramatis Persona / 🎭 Dramatis Personae (row 1, col 1) | File `rond_flavifer.md` not found for text `Rond Cornelius Flavifer`. Used underscore rule: `rond_flavifer.md`. |
+| Linked File | 🎭 Dramatis Persona / 🎭 Dramatis Personae (row 1, col 1) | File `clementine_flavifer.md` not found for text `Clementine Flavifer`. Used underscore rule: `clementine_flavifer.md`. |
+| Linked File | 🎭 Dramatis Persona / 🎭 Dramatis Personae (row 1, col 1) | File `fringilla_flavifer.md` not found for text `Fringilla Flavifer`. Used underscore rule: `fringilla_flavifer.md`. |
+| Linked File | 🎭 Dramatis Persona / 🎭 Dramatis Personae (row 1, col 2) | File `lia_viridis.md` not found for text `Lia Viridis`. Used underscore rule: `lia_viridis.md`. |
+| Linked File | 🎭 Dramatis Persona / 🎭 Dramatis Personae (row 1, col 2) | File `rond_flavifer.md` not found for text `Rond Cornelius Flavifer`. Used underscore rule: `rond_flavifer.md`. |
+| Linked File | 🎭 Dramatis Persona / 🎭 Dramatis Personae (row 1, col 2) | File `clementine_flavifer.md` not found for text `Clementine Flavifer`. Used underscore rule: `clementine_flavifer.md`. |
+| Linked File | 🎭 Dramatis Persona / 🎭 Dramatis Personae (row 1, col 2) | File `fringilla_flavifer.md` not found for text `Fringilla Flavifer`. Used underscore rule: `fringilla_flavifer.md`. |
+| Linked File | 🎭 Dramatis Persona / 🎭 Dramatis Personae (row 2, col 1) | File `rond_flavifer.md` not found for text `Rond Flavifer`. Used underscore rule: `rond_flavifer.md`. |
+| Linked File | 🎭 Dramatis Persona / 🎭 Dramatis Personae (row 2, col 2) | File `rond_flavifer.md` not found for text `Rond Flavifer`. Used underscore rule: `rond_flavifer.md`. |
+| Linked File | 📖 História – Antes da Taberna / 📖 Story – Before the Tavern (row 1, col 1) | File `rond_flavifer.md` not found for text `Rond Cornelius Flavifer`. Used underscore rule: `rond_flavifer.md`. |
+| Linked File | 📖 História – Antes da Taberna / 📖 Story – Before the Tavern (row 1, col 1) | File `lia_viridis.md` not found for text `Lia Viridis`. Used underscore rule: `lia_viridis.md`. |
+| Linked File | 📖 História – Antes da Taberna / 📖 Story – Before the Tavern (row 1, col 2) | File `rond_flavifer.md` not found for text `Rond Cornelius Flavifer`. Used underscore rule: `rond_flavifer.md`. |
+| Linked File | 📖 História – Antes da Taberna / 📖 Story – Before the Tavern (row 1, col 2) | File `lia_viridis.md` not found for text `Lia Viridis`. Used underscore rule: `lia_viridis.md`. |

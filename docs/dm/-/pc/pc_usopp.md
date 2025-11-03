@@ -8,14 +8,16 @@
 
 **[DM-ONLY – Não incluir na Wiki]**  
 
-| Português                                                                    | English                                                |
-| --------------------------------------------------------- | ---------------------------------------- |
-| **Jogador:** João Lopes (Jota)                                      | **Player:**  João Lopes (Jota)                      |
-| **Idade:** 26                                          | **Age:**   26                        |
-| **Contacto:** +351 933 686 501                                    | **Contact:**  +351 933 686 501                   |
-| **Instagram:** jota379                                   | **Instagram:**  jota379               |
-| **Discord:** jota379                                       | **Discord:**  jota379                   |
-| **Ficha D&D Beyond:** [Link](https://www.dndbeyond.com/characters/139380083)                     | **D&D Beyond Sheet:**  [Link](https://www.dndbeyond.com/characters/139380083) |
+## 🎲 Jogador / 🎲 Player
+
+| 🎲 Jogador                                                                   | 🎲 Player                                                                     |
+| ---------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| **Jogador:** João Lopes (Jota)                                               | **Player:**  João Lopes (Jota)                                                |
+| **Idade:** 26                                                                | **Age:**   26                                                                 |
+| **Contacto:** +351 933 686 501                                               | **Contact:**  +351 933 686 501                                                |
+| **Instagram:** jota379                                                       | **Instagram:**  jota379                                                       |
+| **Discord:** jota379                                                         | **Discord:**  jota379                                                         |
+| **Ficha D&D Beyond:** [Link](https://www.dndbeyond.com/characters/139380083) | **D&D Beyond Sheet:**  [Link](https://www.dndbeyond.com/characters/139380083) |
 
 **[DM-ONLY – Não incluir na Wiki]**  
 

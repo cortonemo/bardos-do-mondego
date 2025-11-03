@@ -89,11 +89,11 @@
 
 ## 📊 Passo 3 — Index Maintenance / Manutenção do Índice
 
-Com a conclusão da sessão **S11/S12: Sombras de Iuz: A Chantagem e a Captura**, os seguintes índices teóricos seriam atualizados com a referência ao ficheiro **`s11_sombras_de_iuz_parte1_ready.md`**:
+Com a conclusão da sessão **S11/S12: Sombras de Iuz: A Chantagem e a Captura**, os seguintes índices teóricos seriam atualizados com a referência ao ficheiro **`s11a_sombras_de_iuz.md`**:
 
 | Categoria | Entidade | Slug (Confirmado com docs\_structure ou Novo) | Sessões (Nova Adição) |
 | :--- | :--- | :--- | :--- |
-| **Missions** | Sombras de Iuz (Parte 1) | `s11_sombras_de_iuz_parte1_ready.md` | S11-S12 |
+| **Missions** | Sombras de Iuz (Parte 1) | `s11a_sombras_de_iuz.md` | S11-S12 |
 | **PCs** | [Kai] | `pc_kai.md` | S11-S12 |
 | **PCs** | [Dustin Thorne] | `pc_dustin_thorne.md` | S11-S12 |
 | **PCs** | [Triss Merril] | `pc_triss_merril.md` | S11-S12 |

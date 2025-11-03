@@ -5,16 +5,18 @@
 
 ---
 
-**[DM-ONLY – Não incluir na Wiki]**
+**[DM-ONLY – Não incluir na Wiki]**  
 
-|Português|English|
-|---|---|
-|**Jogador:** Allan|**Player:** Allan|
-|**Idade:** 34|**Age:** 34|
-|**Contacto:** +351 910 139 447|**Contact:** +351 910 139 447|
-|**Instagram:** @llanf|**Instagram:** @llanf|
-|**Discord:** @allanfds|**Discord:** @allanfds|
-|**Ficha D&D Beyond:** [Ficha de Ustrax](https://www.dndbeyond.com/characters/140969823)|**D&D Beyond Sheet:** [Ustrax’s Sheet](https://www.dndbeyond.com/characters/140969823)|
+## 🎲 Jogador / 🎲 Player
+
+| 🎲 Jogador                                                                              | 🎲 Player                                                                              |
+| --------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| **Jogador:** Allan                                                                      | **Player:** Allan                                                                      |
+| **Idade:** 34                                                                           | **Age:** 34                                                                            |
+| **Contacto:** +351 910 139 447                                                          | **Contact:** +351 910 139 447                                                          |
+| **Instagram:** @llanf                                                                   | **Instagram:** @llanf                                                                  |
+| **Discord:** @allanfds                                                                  | **Discord:** @allanfds                                                                 |
+| **Ficha D&D Beyond:** [Ficha de Ustrax](https://www.dndbeyond.com/characters/140969823) | **D&D Beyond Sheet:** [Ustrax’s Sheet](https://www.dndbeyond.com/characters/140969823) |
 
 **[DM-ONLY – Não incluir na Wiki]**
 
