@@ -45,7 +45,7 @@
 * **O Enigma:** O enigma da "Vela" (Sail) é um jogo de palavras com um conceito não diretamente visível no templo (o mar/viagem), forçando o grupo a pensar para além das paredes.
 
 ### 🤫 Secrets & Hooks / Segredos e Ganchos
-* **Gogrom, o Feiticeiro:** Gogrom ainda está ativo na região (ou tem lacaios ativos). A libertação de Krixis trará a sua ira sobre os Vermisombra e a *party*, especialmente se Gogrom estiver ligado ao **[Culto do Mal Elemental](docs/dm/-/organizations/cult_of_elemental_evil.md)** (facção Terra).
+* **Gogrom, o Feiticeiro:** Gogrom ainda está ativo na região (ou tem lacaios ativos). A libertação de Krixis trará a sua ira sobre os Vermisombra e a *party*, especialmente se Gogrom estiver ligado ao **[Culto do Mal Elemental](cult_of_elemental_evil.md)** (facção Terra).
 * **Espada de Krixis:** A espada é um Artefato Mágico com propriedades anti-orc e de proteção do clã. A sua posse torna o grupo o guardião *de facto* dos Kobolds Vermisombra.
 * **Krixis no Presente:** [Krixis, o Valente](krixis_o_valente.md) pode tornar-se um **NPC/Aliado Recorrente** com conhecimento antigo sobre as ruínas e as tribos Orcs de Greyhawk.
 

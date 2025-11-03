@@ -43,7 +43,7 @@
 ## 🔒 DM-ONLY SECTION / SEÇÃO APENAS PARA O DM
 
 ### 📝 Prep Notes / Notas de Preparação
-* **Cultistas de Odrak:** Estes cultistas são agentes da facção Vento/Ar do **[Culto do Mal Elemental](docs/dm/-/organizations/cult_of_elemental_evil.md)**, com foco em sequestro e coerção. Odrak é uma divindade menor ligada ao vento caótico/destrutivo.
+* **Cultistas de Odrak:** Estes cultistas são agentes da facção Vento/Ar do **[Culto do Mal Elemental](cult_of_elemental_evil.md)**, com foco em sequestro e coerção. Odrak é uma divindade menor ligada ao vento caótico/destrutivo.
 * **Flynn:** A sua entrada na *party* foi planeada pelo Taberneiro para ter um *halfling* (uma raça normalmente neutra) com talentos druídicos na cidade.
 * **A Lista:** A lista de 7 nomes é um *plot hook* direto, confirmando que os cultistas estão a trabalhar através de uma lista de alvos de alto valor (provavelmente comerciantes com ligações à Taberna).
 
@@ -54,7 +54,7 @@
 
 ### ⚙️ Contingencies / Contingências
 * **Se Dolrea fosse raptado:** A missão falhava e o grupo teria de invadir o templo para o resgatar (Missão S11B), enfrentando um número muito maior de cultistas.
-* **Se o grupo ignorasse o rapto:** Os raptos continuariam e os cultistas sentiriam-se à vontade para operar abertamente, levando a um controlo total de [Erybend](erybend.md) pelo [Culto do Mal Elemental](docs/dm/-/organizations/cult_of_elemental_evil.md) (facção Vento/Ar).
+* **Se o grupo ignorasse o rapto:** Os raptos continuariam e os cultistas sentiriam-se à vontade para operar abertamente, levando a um controlo total de [Erybend](erybend.md) pelo [Culto do Mal Elemental](cult_of_elemental_evil.md) (facção Vento/Ar).
 
 ---
 ## 📂 Source Files / Ficheiros Fonte

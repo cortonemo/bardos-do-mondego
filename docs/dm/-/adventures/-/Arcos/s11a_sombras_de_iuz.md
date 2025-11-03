@@ -1,12 +1,12 @@
 ## Sombras de Iuz: A Chantagem e a Captura / Shadows of Iuz: The Blackmail and the Capture
 
-| 🗓 Timeline / Cronologia | PT | EN |
-| :-------------------- | :---------------------------------------------------- | :------------------------------------------------------- |
-| **Data do Jogo** | 13 de Março de 2025 | March 13th, 2025 |
-| **Data In-Game** | 1 de Needfest, 999 CY (Semana 11) | 1st of Needfest, 999 CY (Week 11) |
-| **Sessão #** | S11A | S11A |
-| **DM** | André Maia | André Maia |
-| **Arcos Enquadrados** | **🛡️ Arco de Beltar e a Queda do Paladino** | **🛡️ The Beltar and the Paladin's Fall Arc** |
+| 🗓 Timeline / Cronologia | PT                                           | EN                                            |
+| :----------------------- | :------------------------------------------- | :-------------------------------------------- |
+| **Data do Jogo**         | 13 de Março de 2025                          | March 13th, 2025                              |
+| **Data In-Game**         | 1 de Needfest, 999 CY (Semana 11)            | 1st of Needfest, 999 CY (Week 11)             |
+| **Sessão #**             | S11A                                         | S11A                                          |
+| **DM**                   | André Maia                                   | André Maia                                    |
+| **Arcos Enquadrados**    | **🛡️ Arco de Beltar e a Queda do Paladino** | **🛡️ The Beltar and the Paladin's Fall Arc** |
 
 ---
 ## 📖 Overview / Sumário

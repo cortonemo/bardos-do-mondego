@@ -13,7 +13,7 @@
 
 | Descrição | PT | EN |
 | :--- | :--- | :--- |
-| **Missão Principal** | **[Gauthak Vunakamune](pc_gauthak_vunakamune.md)** recebe uma carta urgente do informante **[Darvek](darvek.md)**, alertando-o de que o seu inimigo jurado, **[Lorde Vaeltherin Duskbane](vaeltherin_duskbane.md)**, está em Greyhawk e aliado ao **[Culto do Mal Elemental](docs/dm/-/organizations/cult_of_elemental_evil.md)**. O grupo viaja para a aldeia de **[Miren's Hollow](mirens_hollow.md)** para um encontro secreto. | **[Gauthak Vunakamune](pc_gauthak_vunakamune.md)** receives an urgent letter from the informant **[Darvek](darvek.md)**, warning him that his sworn enemy, **[Lorde Vaeltherin Duskbane](vaeltherin_duskbane.md)**, is in Greyhawk and allied with the **[Cult of Elemental Evil](docs/dm/-/organizations/cult_of_elemental_evil.md)**. The party travels to the village of **[Miren's Hollow](mirens_hollow.md)** for a secret meeting. |
+| **Missão Principal** | **[Gauthak Vunakamune](pc_gauthak_vunakamune.md)** recebe uma carta urgente do informante **[Darvek](darvek.md)**, alertando-o de que o seu inimigo jurado, **[Lorde Vaeltherin Duskbane](vaeltherin_duskbane.md)**, está em Greyhawk e aliado ao **[Culto do Mal Elemental](cult_of_elemental_evil.md)**. O grupo viaja para a aldeia de **[Miren's Hollow](mirens_hollow.md)** para um encontro secreto. | **[Gauthak Vunakamune](pc_gauthak_vunakamune.md)** receives an urgent letter from the informant **[Darvek](darvek.md)**, warning him that his sworn enemy, **[Lorde Vaeltherin Duskbane](vaeltherin_duskbane.md)**, is in Greyhawk and allied with the **[Cult of Elemental Evil](cult_of_elemental_evil.md)**. The party travels to the village of **[Miren's Hollow](mirens_hollow.md)** for a secret meeting. |
 | **Resultado** | O grupo encontra **Darvek** sob ataque de um cavaleiro cultista. Confrontam e eliminam o cavaleiro **[Pravi Smjer](pravi_smjer.md)** e as **Sombras**, mas a luta leva à destruição de uma relíquia mágica no **[Lago Sombrio](lake_umbra.md)**. Gauthak e a *party* confirmam a aliança do seu inimigo com o Culto e escapam, marcados por **Vaeltherin**. | The party finds **Darvek** under attack by a cultist knight. They confront and eliminate the knight **[Pravi Smjer](pravi_smjer.md)** and **Shadows**, but the fight leads to the destruction of a magical relic in **[Lake Umbra](lake_umbra.md)**. Gauthak and the *party* confirm his foe's alliance with the Cult and escape, now marked by **Vaeltherin**. |
 
 ---
@@ -52,7 +52,7 @@
 * **A Armadura:** O Warlock deve receber a **Armadura Explosiva** como *plot hook* se a quiserem reconstruir. A armadura tem propriedades de *shadow/necrotic damage* mas está amaldiçoada/destruída.
 
 ### ⚙️ Contingencies / Contingências
-* **Se Darvek morresse:** Uma nota na sua bolsa com o nome de **Vaeltherin** e a ligação ao **[Culto do Mal Elemental](docs/dm/-/organizations/cult_of_elemental_evil.md)** seria a única recompensa de informação.
+* **Se Darvek morresse:** Uma nota na sua bolsa com o nome de **Vaeltherin** e a ligação ao **[Culto do Mal Elemental](cult_of_elemental_evil.md)** seria a única recompensa de informação.
 * **Se o grupo se atrasasse:** Encontrariam **Darvek** já morto, transformado num *Shadow* que teriam que derrotar, antes de poderem investigar a área.
 
 ---

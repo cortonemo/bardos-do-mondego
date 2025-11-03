@@ -13,7 +13,7 @@
 
 | Descrição | PT | EN |
 | :--- | :--- | :--- |
-| **Missão Principal** | O grupo é abordado por uma **Figura de Cartola** que lhes oferece **bilhetes VIP** para o recém-inaugurado **Museu das Maravilhas Naturais e Arcanas** de Greyhawk. O objetivo (não declarado) é investigar o museu, que é suspeito de estar ligado ao **[Culto do Mal Elemental](docs/dm/-/organizations/-/cults/cult_of_elemental_evil.md)** e de ser um centro de experimentação mágica nefasta. | The party is approached by a **Top Hat Figure** who offers them **VIP tickets** to the newly opened **Museum of Natural and Arcane Wonders** in Greyhawk. The objective (undisclosed) is to investigate the museum, which is suspected of being linked to the **[Cult of Elemental Evil](docs/dm/-/organizations/-/cults/cult_of_elemental_evil.md)** and being a center for nefarious magical experimentation. |
+| **Missão Principal** | O grupo é abordado por uma **Figura de Cartola** que lhes oferece **bilhetes VIP** para o recém-inaugurado **Museu das Maravilhas Naturais e Arcanas** de Greyhawk. O objetivo (não declarado) é investigar o museu, que é suspeito de estar ligado ao **[Culto do Mal Elemental](-/cults/cult_of_elemental_evil.md)** e de ser um centro de experimentação mágica nefasta. | The party is approached by a **Top Hat Figure** who offers them **VIP tickets** to the newly opened **Museum of Natural and Arcane Wonders** in Greyhawk. The objective (undisclosed) is to investigate the museum, which is suspected of being linked to the **[Cult of Elemental Evil](-/cults/cult_of_elemental_evil.md)** and being a center for nefarious magical experimentation. |
 | **Resultado** | O grupo infiltra-se no museu, onde **[Zahel](pc_zahel.md)** testemunha uma transformação de *Wild Shape*. Nas condutas de ventilação, confrontam um **Mimic Kinky** que ataca **[Ulma](pc_ulma.md)**, mas que se **rende** e tenta comunicar, sugerindo que as criaturas do museu são vítimas de um aprisionamento arcano. | The party infiltrates the museum, where **[Zahel](pc_zahel.md)** witnesses a *Wild Shape* transformation. In the ventilation shafts, they confront a **Kinky Mimic** that attacks **[Ulma](pc_ulma.md)**, but which **surrenders** and attempts to communicate, suggesting that the museum's creatures are victims of arcane imprisonment. |
 
 ---
@@ -41,7 +41,7 @@
 
 ### 📝 Prep Notes / Notas de Preparação
 * **O Convite:** Os bilhetes VIP são um teste. O Taberneiro (ou um agente superior) está a recrutar "agentes" para investigar o museu sem alarmar o Curador.
-* **O Museu:** O Museu das Maravilhas é a frente para um antigo laboratório Illithid (Arco Cósmico) ou um centro de experimentação do **[Culto do Mal Elemental](docs/dm/-/organizations/-/cults/cult_of_elemental_evil.md)** (CME). As criaturas estão presas e possuídas (não em exposição).
+* **O Museu:** O Museu das Maravilhas é a frente para um antigo laboratório Illithid (Arco Cósmico) ou um centro de experimentação do **[Culto do Mal Elemental](-/cults/cult_of_elemental_evil.md)** (CME). As criaturas estão presas e possuídas (não em exposição).
 * **Mimic Kinky:** O *Mimic* tenta comunicar para ser libertado. Ele tem pistas sobre o Curador.
 
 ### 🤫 Secrets & Hooks / Segredos e Ganchos

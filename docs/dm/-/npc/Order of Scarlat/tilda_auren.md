@@ -36,7 +36,7 @@
 
 | **Português (PT-PT)** | **English (EN-US)** |
 | --------------------- | ------------------- |
-| [Soren Vest](docs/dm/-/npc/Order%20of%20Scarlat/soren_vest.md) | [Soren Vest](docs/dm/-/npc/Order%20of%20Scarlat/soren_vest.md) |
+| [Soren Vest](soren_vest.md) | [Soren Vest](soren_vest.md) |
 
 ---
 

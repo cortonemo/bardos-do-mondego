@@ -36,6 +36,6 @@
 
 | **Português (PT-PT)**         | **English (EN-US)**           |
 | ----------------------------- | ----------------------------- |
-| [Tilda Auren](docs/dm/-/npc/Order%20of%20Scarlat/tilda_auren.md) | [Tilda Auren](docs/dm/-/npc/Order%20of%20Scarlat/tilda_auren.md) |
+| [Tilda Auren](tilda_auren.md) | [Tilda Auren](tilda_auren.md) |
 
 ---

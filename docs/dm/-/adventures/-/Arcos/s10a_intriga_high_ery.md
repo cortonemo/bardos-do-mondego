@@ -50,7 +50,7 @@
 
 ### 🤫 Secrets & Hooks / Segredos e Ganchos
 * **O Teatro:** O **Mestre dos Ratos** está escondido no Teatro de High Ery. Ele está a usar o queijo roubado como alimento para os ratos (que podem ser *Giant Rats* ou *Rats of Unusual Size*). O Teatro é a chave para o próximo passo.
-* **Sr. Henrique:** Ele é um agente do Mestre dos Ratos (e possivelmente do **[Culto do Mal Elemental](docs/dm/-/organizations/cult_of_elemental_evil.md)**, facção Terra/Subterrâneo). Ele é a ponta visível da conspiração de mercado.
+* **Sr. Henrique:** Ele é um agente do Mestre dos Ratos (e possivelmente do **[Culto do Mal Elemental](cult_of_elemental_evil.md)**, facção Terra/Subterrâneo). Ele é a ponta visível da conspiração de mercado.
 * **Ratú:** A sua comunicação com **[Vaunia](pc_vaunia_kolakiala.md)** não é telepatia comum. É provável que seja um efeito da sua maldição ou que Vaunia tenha uma sensibilidade mágica incomum para a magia do *Feywild* e da *Corrupção*.
 
 ### ⚙️ Contingencies / Contingências

@@ -1,12 +1,12 @@
 ## O Ceptro de Zan e o Culto da Mão / The Scepter of Zan and the Cult of the Hand
 
-| 🗓 Timeline / Cronologia | PT | EN |
-| :-------------------- | :---------------------------------------------------- | :------------------------------------------------------- |
-| **Data do Jogo** | 10 de Abril de 2025 | April 10th, 2025 |
-| **Data In-Game** | 22 de Fireseek, 999 CY (Semana 15) | 22nd of Fireseek, 999 CY (Week 15) |
-| **Sessão #** | S15A | S15A |
-| **DM** | Guiné | Guiné |
-| **Arcos Enquadrados** | **👽 Arco da Conexão Cósmica & 🦑 CME** | **👽 Cosmic Connection Arc & 🦑 CME** |
+| 🗓 Timeline / Cronologia | PT                                                                     | EN                                                              |
+| :----------------------- | :--------------------------------------------------------------------- | :-------------------------------------------------------------- |
+| **Data do Jogo**         | 10 de Abril de 2025                                                    | April 10th, 2025                                                |
+| **Data In-Game**         | 22 de Fireseek, 999 CY (Semana 15)                                     | 22nd of Fireseek, 999 CY (Week 15)                              |
+| **Sessão #**             | S15A                                                                   | S15A                                                            |
+| **DM**                   | Guiné                                                                  | Guiné                                                           |
+| **Arcos Enquadrados**    | **👽 Arco da Conexão Cósmica & 🦑 Arco da Corrupção do Mal Elemental** | **👽 Cosmic Connection Arc & 🦑 Elemental Evil Corruption Arc** |
 
 ---
 ## 📖 Overview / Sumário
@@ -24,7 +24,7 @@
 | **O Encontro com o Culto** | O grupo é alertado sobre 3 **Cultistas** (encapuzados) que se dirigem para a área interdita do *crash*. O grupo segue-os até um templo destruído, onde encontram uma **Pedra Verde Fluorescente** (Artefato Cósmico) que mata um dos cultistas e incapacita outro. | The party is alerted to 3 **Cultists** (hooded) heading towards the forbidden *crash* area. The party follows them to a destroyed temple, where they find a **Fluorescent Green Stone** (Cosmic Artifact) that kills one cultist and incapacitates another. |
 | **O Ceptro de Zan** | Dentro do templo, o grupo encontra a **Mão Mumificada** (artefato) e um **Ceptro**. **[Dustin Thorne](pc_dustin_thorne.md)** toca no Ceptro e é amaldiçoado com a alma de **[Zan](zan.md)**. Dustin começa a ser assombrado pela voz de Zan, que lhe promete vingança contra **[Kas](kas.md)** (o traidor que o matou). | Inside the temple, the party finds the **Mummified Hand** (artifact) and a **Scepter**. **[Dustin Thorne](pc_dustin_thorne.md)** touches the Scepter and is cursed with the soul of **[Zan](zan.md)**. Dustin begins to be haunted by Zan's voice, who promises him revenge against **[Kas](kas.md)** (the traitor who killed him). |
 | **A Aliança com o Ferreiro** | A **Pedra Verde Fluorescente** é levada a um **Ferreiro Anão** conhecido para ser contida. A pedra é demasiado instável para ser guardada (ligação clara à tecnologia Illithid/Alienígena). | The **Fluorescent Green Stone** is taken to a known **Dwarf Blacksmith** to be contained. The stone is too unstable to be kept (a clear link to Illithid/Alien technology). |
-| **O Roubo da Mão** | O grupo visita o Templo da Ordem Escarlate (o culto atual de Zan) para obter informações e descobre que a **Mão de Zan** (o artefato em exposição) foi roubada, sugerindo um conflito interno ou uma intrusão do **[Culto do Mal Elemental](docs/dm/-/organizations/-/cults/cult_of_elemental_evil.md)**. | The party visits the Scarlet Order Temple (Zan's current cult) to obtain information and discovers that the **Hand of Zan** (the artifact on display) has been stolen, hinting at an internal conflict or an intrusion by the **[Cult of Elemental Evil](docs/dm/-/organizations/-/cults/cult_of_elemental_evil.md)**. |
+| **O Roubo da Mão** | O grupo visita o Templo da Ordem Escarlate (o culto atual de Zan) para obter informações e descobre que a **Mão de Zan** (o artefato em exposição) foi roubada, sugerindo um conflito interno ou uma intrusão do **[Culto do Mal Elemental](-/cults/cult_of_elemental_evil.md)**. | The party visits the Scarlet Order Temple (Zan's current cult) to obtain information and discovers that the **Hand of Zan** (the artifact on display) has been stolen, hinting at an internal conflict or an intrusion by the **[Cult of Elemental Evil](-/cults/cult_of_elemental_evil.md)**. |
 
 ---
 ## 👥 Cast of Characters / Elenco de Personagens
@@ -41,11 +41,11 @@
 
 ### 📝 Prep Notes / Notas de Preparação
 * **A Pedra Fluorescente:** É a quarta **Pedra Mágica** (Artefato Illithid) que o grupo encontra. A sua instabilidade é um efeito secundário do *crash* da nave, indicando que a tecnologia alienígena está a quebrar.
-* **Culto da Mão (Ordem Escarlate):** Esta facção é fanática e auto-flageladora. **[Zan](zan.md)** é uma divindade de Lei/Caos, e o seu culto pode ser facilmente manipulado pelo [Culto do Mal Elemental](docs/dm/-/organizations/-/cults/cult_of_elemental_evil.md).
+* **Culto da Mão (Ordem Escarlate):** Esta facção é fanática e auto-flageladora. **[Zan](zan.md)** é uma divindade de Lei/Caos, e o seu culto pode ser facilmente manipulado pelo [Culto do Mal Elemental](-/cults/cult_of_elemental_evil.md).
 * **A Maldição de Dustin:** A maldição é um *plot hook* para o **Arcos de Beltar** e **CME**. A voz de **[Zan](zan.md)** tenta redirecionar a fúria de Dustin da sua Ordem (Beltar) para **[Kas](kas.md)**, um traidor antigo (mas que pode ter ligações modernas).
 
 ### 🤫 Secrets & Hooks / Segredos e Ganchos
-* **O Roubo da Mão:** O roubo foi orquestrado pelo **[Culto do Mal Elemental](docs/dm/-/organizations/-/cults/cult_of_elemental_evil.md)**, que procura artefatos de alto poder para os seus rituais. A **Mão de Zan** é um catalisador necromântico (e liga-se à facção de [Nerull](nerull.md)).
+* **O Roubo da Mão:** O roubo foi orquestrado pelo **[Culto do Mal Elemental](-/cults/cult_of_elemental_evil.md)**, que procura artefatos de alto poder para os seus rituais. A **Mão de Zan** é um catalisador necromântico (e liga-se à facção de [Nerull](nerull.md)).
 * **O Taberneiro:** O Taberneiro confisca o Ceptro, confirmando que ele está a acumular artefatos de alto poder e tecnologia Illithid (as Pedras e o Ceptro).
 
 ### ⚙️ Contingencies / Contingências
@@ -76,7 +76,7 @@ Com a conclusão da sessão **S15A: O Ceptro de Zan e o Culto da Mão**, os segu
 
 | Categoria | Entidade | Slug (Confirmado com docs\_structure ou Novo) | Sessões (Nova Adição) |
 | :--- | :--- | :--- | :--- |
-| **Missions** | [O Ceptro de Zan e o Culto da Mão](s15a_ceptro_de_zan.md) | S15A |
+| **Missions** | [O Ceptro de Zan e o Culto da Mão](docs/dm/-/adventures/-/Arcos/s15a_ceptro_de_zan.md) | S15A |
 | **PCs** | [Dustin Thorne](pc_dustin_thorne.md) | S15A |
 | **NPCs** | [Zan](zan.md) (Novo) | S15A |
 | **NPCs** | [Kas](kas.md) (Novo) | S15A |

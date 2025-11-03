@@ -1,12 +1,12 @@
 ## A Criança Perdida e o Gigante / The Lost Child and the Giant
 
-| 🗓 Timeline / Cronologia | PT | EN |
-| :-------------------- | :---------------------------------------------------- | :------------------------------------------------------- |
-| **Data do Jogo** | 10 de Abril de 2025 | April 10th, 2025 |
-| **Data In-Game** | 22 de Fireseek, 999 CY (Semana 15) | 22nd of Fireseek, 999 CY (Week 15) |
-| **Sessão #** | S15B | S15B |
-| **DM** | Henrique | Henrique |
-| **Arcos Enquadrados** | **🦑 Arco da Corrupção do Mal Elemental** | **🦑 Elemental Evil Corruption Arc** |
+| 🗓 Timeline / Cronologia | PT                                        | EN                                   |
+| :----------------------- | :---------------------------------------- | :----------------------------------- |
+| **Data do Jogo**         | 10 de Abril de 2025                       | April 10th, 2025                     |
+| **Data In-Game**         | 22 de Fireseek, 999 CY (Semana 15)        | 22nd of Fireseek, 999 CY (Week 15)   |
+| **Sessão #**             | S15B                                      | S15B                                 |
+| **DM**                   | Henrique                                  | Henrique                             |
+| **Arcos Enquadrados**    | **🦑 Arco da Corrupção do Mal Elemental** | **🦑 Elemental Evil Corruption Arc** |
 
 -----
 
@@ -89,7 +89,7 @@ Com a conclusão da sessão **S15B: A Criança Perdida**, os seguintes índices 
 
 | Categoria     | Entidade                                       | Slug (Confirmado com docs\_structure ou Novo) | Sessões (Nova Adição) |
 | :------------ | :--------------------------------------------- | :-------------------------------------------- | :-------------------- |
-| **Missions**  | [A Criança Perdida](s15b_a_crianca_perdida.md) | S15B                                          |                       |
+| **Missions**  | [A Criança Perdida](docs/dm/-/adventures/-/Arcos/s15b_a_crianca_perdida.md) | S15B                                          |                       |
 | **PCs**       | [Eldric Silvanos](pc_eldric_silvanos.md)       | S15B                                          |                       |
 | **PCs**       | [Silfir](pc_silfir.md) (Novo)                  | S15B                                          |                       |
 | **NPCs**      | [Abril](abril.md) (Novo)                       | S15B                                          |                       |

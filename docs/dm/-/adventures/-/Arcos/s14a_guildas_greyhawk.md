@@ -42,7 +42,7 @@
 
 ### 📝 Prep Notes / Notas de Preparação
 * **Os Anéis GPS:** São anéis Illithid/Arcanos (como o de S13A) dados pelo Taberneiro, que permitem a comunicação bidirecional e o rastreamento, mas também ligam os PCs à rede de vigilância do Taberneiro.
-* **Conflito de Guildas:** O conflito entre Ladrões e Assassinos é uma distração para a cidade. Ambas as guildas estão a ser exploradas pelo **[Culto do Mal Elemental](docs/dm/-/organizations/-/cults/cult_of_elemental_evil.md)**: os Ladrões são usados para roubar artefatos e os Assassinos para eliminar alvos (como [Dolrea Vas](dolrea_vas.md)).
+* **Conflito de Guildas:** O conflito entre Ladrões e Assassinos é uma distração para a cidade. Ambas as guildas estão a ser exploradas pelo **[Culto do Mal Elemental](-/cults/cult_of_elemental_evil.md)**: os Ladrões são usados para roubar artefatos e os Assassinos para eliminar alvos (como [Dolrea Vas](dolrea_vas.md)).
 * **A Arena:** O fiasco de **[Conan o Bárbaro](pc_conan_barbaro_ra.md)** na Arena serve para reforçar que Greyhawk é uma sociedade civilizada e que o "Bárbaro" é um estranho aqui.
 
 ### 🤫 Secrets & Hooks / Segredos e Ganchos

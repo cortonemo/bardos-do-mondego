@@ -40,7 +40,7 @@
 ## 🔒 DM-ONLY SECTION / SEÇÃO APENHAS PARA O DM
 
 ### 📝 Prep Notes / Notas de Preparação
-* **Profeta Rato e Necromancia:** A ligação à necromancia é um gancho que aponta para a facção de **[Nerull](nerull.md)** dentro do **[Culto do Mal Elemental](docs/organizations/-/cults/cult_of_elemental_evil.md)**.
+* **Profeta Rato e Necromancia:** A ligação à necromancia é um gancho que aponta para a facção de **[Nerull](nerull.md)** dentro do **[Culto do Mal Elemental](cult_of_elemental_evil.md)**.
 * **Devorador Vermelho:** O Devorador Vermelho é um nome de código para uma entidade ligada à Loucura/Caos (potencialmente Iuz ou Tharizdun), adorado por esta seita degenerada.
 
 ### 🤫 Secrets & Hooks / Segredos e Ganchos
@@ -75,11 +75,11 @@ Com a conclusão da sessão **S25: A Sociedade dos Ratos Sedentos**, os seguinte
 
 | Categoria | Entidade | Slug (Confirmado com docs\_structure ou Novo) | Sessões (Nova Adição) |
 | :--- | :--- | :--- | :--- |
-| **Missions** | [A Sociedade dos Ratos Sedentos](s25_sociedade_ratos_sedentos.md) | S25 |
+| **Missions** | [A Sociedade dos Ratos Sedentos](docs/dm/-/adventures/-/Arcos/s25_sociedade_ratos_sedentos.md) | S25 |
 | **NPCs** | [Lorde Aleister Devraine](docs/npc/-/Free%20City%20of%20Grehawk/lord_aleister_devraine.md) | S25 |
 | **NPCs** | [Profeta Rato](rat_prophet.md) (Novo) | S25 |
 | **NPCs** | [Alzar Vonn](alzar_vonn.md) (Novo) | S25 |
-| **Organizations** | [Culto do Mal Elemental](docs/organizations/-/cults/cult_of_elemental_evil.md) | S25 |
+| **Organizations** | [Culto do Mal Elemental](cult_of_elemental_evil.md) | S25 |
 | **Monsters** | [Devorador Vermelho](red_devourer.md) (Novo) | S25 |
 
 ---

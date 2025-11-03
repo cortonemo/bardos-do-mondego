@@ -58,7 +58,7 @@
 * **Escravos Goblins:** A decisão de deixar os goblins submissos para trás foi moralmente ambígua, mas permitiu que a *party* evitasse um combate prolongado com inimigos menores, focando-se no resgate principal.
 
 ### 🤫 Secrets & Hooks / Segredos e Ganchos
-* **Vaelkor Ashbrand:** O autor da carta é um tenente de alto escalão do [Culto do Mal Elemental](docs/dm/-/organizations/cult_of_elemental_evil.md), com a missão de **conquistar as terras** através de ataques coordenados a caravanas e cidades. A sua carta liga a S05B à S04B (onde ele também é mencionado) e à S05A (Morvanya/Manvea).
+* **Vaelkor Ashbrand:** O autor da carta é um tenente de alto escalão do [Culto do Mal Elemental](cult_of_elemental_evil.md), com a missão de **conquistar as terras** através de ataques coordenados a caravanas e cidades. A sua carta liga a S05B à S04B (onde ele também é mencionado) e à S05A (Morvanya/Manvea).
 * **Consequência da Decisão:** O goblin *charmed* que foi atirado para a jaula sobrevive e torna-se um NPC recorrente, caçando o grupo mais tarde ou retornando para pedir ajuda, criando um gancho de redenção/vingança focado em **[Sarvian Midlor](pc_sarvian_midlor.md)**.
 * **Implicações do Resgate:** Os escravos libertados podem ser futuros contatos ou informantes em [Two Fords](two_fords.md) e [Erybend](erybend.md).
 
@@ -91,7 +91,7 @@ Com a conclusão da sessão **S05B: O Campo Goblin de Nerull**, os seguintes ín
 | **PCs** | [Lone Straw]](pc_lone_straw.md) | S05B |
 | **NPCs** | [Jogmaahx (Xamã Goblin)](jogmaahx.md) (Novo) | S05B |
 | **NPCs** | [Vaelkor Ashbrand](vaelkor_ashbrand.md) (Novo) | S05B |
-| **Organizations** | [Culto do Mal Elemental](docs/dm/-/organizations/cult_of_elemental_evil.md) | S05B |
+| **Organizations** | [Culto do Mal Elemental](cult_of_elemental_evil.md) | S05B |
 | **Deities** | [Nerull](nerull.md) (Novo) | S05B |
 
 ---

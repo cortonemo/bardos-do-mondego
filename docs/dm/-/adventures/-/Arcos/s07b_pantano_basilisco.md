@@ -51,7 +51,7 @@
 ## 🔒 DM-ONLY SECTION / SEÇÃO APENAS PARA O DM
 
 ### 📝 Prep Notes / Notas de Preparação
-* **Mistmarsh:** O pântano está sob a influência do **[Culto do Mal Elemental](docs/dm/-/organizations/cult_of_elemental_evil.md)**. A antiga namorada de Conan é uma Acólita que lidera a célula local e está a usar o **Basilisco Progenitor** como *guardião*.
+* **Mistmarsh:** O pântano está sob a influência do **[Culto do Mal Elemental](cult_of_elemental_evil.md)**. A antiga namorada de Conan é uma Acólita que lidera a célula local e está a usar o **Basilisco Progenitor** como *guardião*.
 * **Basiliscos:** A cria de Basilisco era apenas um *scout*. O Basilisco Progenitor é o alvo real, e o seu templo é onde a terceira pedra mágica pode ser encontrada.
 * **Ruínas Alienígenas:** As ruínas contêm tecnologia antiga, indicando que os artefatos alienígenas (as pedras) estão ligados aos Illithids e a uma nave espacial.
 

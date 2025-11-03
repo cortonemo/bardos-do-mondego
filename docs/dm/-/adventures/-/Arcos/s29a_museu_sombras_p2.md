@@ -79,7 +79,7 @@ Com a conclusão da sessão **S29A: O Museu das Sombras (Parte 2)**, os seguinte
 
 | Categoria | Entidade | Slug (Confirmado com docs\_structure ou Novo) | Sessões (Nova Adição) |
 | :--- | :--- | :--- | :--- |
-| **Missions** | [O Museu das Sombras (Parte 2)](s29a_museu_sombras_p2.md) | S29A |
+| **Missions** | [O Museu das Sombras (Parte 2)](docs/dm/-/adventures/-/Arcos/s29a_museu_sombras_p2.md) | S29A |
 | **PCs** | [Eirwen](pc_eirwen.md) | S29A |
 | **PCs** | [Leo](pc_leo.md) | S29A |
 | **PCs** | [Ulma](pc_ulma.md) | S29A |

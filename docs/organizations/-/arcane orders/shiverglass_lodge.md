@@ -8,7 +8,7 @@
 
 | **Português (PT-PT)** | **English (EN-US)** |
 | --------------------- | ------------------- |
-| O **Shiverglass Lodge** é uma ordem arcanista semi-secreta sediada em [Dyvers](dyvers.md). Especializam-se em contrabando planar e comércio de artefactos arcanos obtidos através de fissuras e portais instáveis. São conhecidos pelo uso de espelhos mágicos e cristais translúcidos como foco para as suas práticas, que tanto servem de disfarce como de canal para magias proibidas. <br><br> Embora tolerados pelas autoridades de Dyvers devido à sua utilidade em lidar com ameaças extraplanares, são vistos como perigosos e pouco confiáveis, sendo rivais diretos da [Society of Magi](docs/organizations/-/arcane%20orders/society_of_magi.md). | The **Shiverglass Lodge** is a semi-secret arcanist order based in [Dyvers](dyvers.md). They specialize in planar contraband and the trade of arcane artifacts obtained through unstable rifts and portals. They are known for their use of magical mirrors and translucent crystals as both disguises and conduits for forbidden magic. <br><br> While tolerated by Dyvers authorities due to their usefulness in dealing with extraplanar threats, they are seen as dangerous and untrustworthy, acting as direct rivals of the [Society of Magi](docs/organizations/-/arcane%20orders/society_of_magi.md). |
+| O **Shiverglass Lodge** é uma ordem arcanista semi-secreta sediada em [Dyvers](dyvers.md). Especializam-se em contrabando planar e comércio de artefactos arcanos obtidos através de fissuras e portais instáveis. São conhecidos pelo uso de espelhos mágicos e cristais translúcidos como foco para as suas práticas, que tanto servem de disfarce como de canal para magias proibidas. <br><br> Embora tolerados pelas autoridades de Dyvers devido à sua utilidade em lidar com ameaças extraplanares, são vistos como perigosos e pouco confiáveis, sendo rivais diretos da [Society of Magi](/society_of_magi.md). | The **Shiverglass Lodge** is a semi-secret arcanist order based in [Dyvers](dyvers.md). They specialize in planar contraband and the trade of arcane artifacts obtained through unstable rifts and portals. They are known for their use of magical mirrors and translucent crystals as both disguises and conduits for forbidden magic. <br><br> While tolerated by Dyvers authorities due to their usefulness in dealing with extraplanar threats, they are seen as dangerous and untrustworthy, acting as direct rivals of the [Society of Magi](/society_of_magi.md). |
 
 ---
 
@@ -16,7 +16,7 @@
 
 | **Português (PT-PT)** | **English (EN-US)** |
 | --------------------- | ------------------- |
-| - Membros seniores não identificados (operam em sigilo). <br>- Rivais declarados da [Society of Magi](docs/organizations/-/arcane%20orders/society_of_magi.md). <br>- Mantêm contactos obscuros no [Grand Bazaar](bazaar_district.md). | - Senior members not publicly identified (operate in secrecy). <br>- Declared rivals of the [Society of Magi](docs/organizations/-/arcane%20orders/society_of_magi.md). <br>- Maintain shadowy contacts in the [Grand Bazaar](bazaar_district.md). |
+| - Membros seniores não identificados (operam em sigilo). <br>- Rivais declarados da [Society of Magi](/society_of_magi.md). <br>- Mantêm contactos obscuros no [Grand Bazaar](bazaar_district.md). | - Senior members not publicly identified (operate in secrecy). <br>- Declared rivals of the [Society of Magi](/society_of_magi.md). <br>- Maintain shadowy contacts in the [Grand Bazaar](bazaar_district.md). |
 
 ---
 

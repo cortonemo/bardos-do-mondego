@@ -75,7 +75,7 @@
 * **Coerção do Bugbear:** O Bugbear e o Lobo não eram membros voluntários da Guilda. A sua nota rudimentar a pedir ajuda reforça o tema da coerção e do Mal Elemental.
 
 ### 🤫 Secrets & Hooks / Segredos e Ganchos
-* **A Guilda:** Esta **Guilda de Bandidos** opera sob o disfarce de ataques tribais. São financiados pela facção do **[Culto do Mal Elemental](docs/dm/-/organizations/cult_of_elemental_evil.md)**, cujo objetivo é desestabilizar as rotas de comércio que favorecem Greyhawk e a [Taberna do Errante](tavern_of_the_errant.md).
+* **A Guilda:** Esta **Guilda de Bandidos** opera sob o disfarce de ataques tribais. São financiados pela facção do **[Culto do Mal Elemental](cult_of_elemental_evil.md)**, cujo objetivo é desestabilizar as rotas de comércio que favorecem Greyhawk e a [Taberna do Errante](tavern_of_the_errant.md).
 * **Blackfair Manor:** O destino da carroça é crucial. [Blackfair Manor](blackfair_manor.md) é o cenário de um próximo **Baile** (conforme mencionado noutras sessões) e é secretamente a base de operações de **Maxibom Gustgavv** e da drow **Isa Merrill** (consorte/agente do Culto de Nerull). Os bens são para o ritual.
 
 ### ⚙️ Contingencies / Contingências

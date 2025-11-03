@@ -42,7 +42,7 @@
 ## 🔒 DM-ONLY SECTION / SEÇÃO APENAS PARA O DM
 
 ### 📝 Prep Notes / Notas de Preparação
-* **Malik Dorne e o CME:** Dorne é secretamente influenciado pelo **[Culto do Mal Elemental](docs/dm/-/organizations/cult_of_elemental_evil.md)**, [Culto](docs/dm/-/organizations/cult_of_elemental_evil.md) que o manipula para atacar os aliados do Taberneiro (que detém tecnologia alienígena).
+* **Malik Dorne e o CME:** Dorne é secretamente influenciado pelo **[Culto do Mal Elemental](cult_of_elemental_evil.md)**, [Culto](cult_of_elemental_evil.md) que o manipula para atacar os aliados do Taberneiro (que detém tecnologia alienígena).
 * **O Portal:** O portal que a *party* usa para fugir é uma cópia barata da tecnologia Illithid (ver S08), confirmando a infiltração de tecnologia arcana/alienígena na região.
 * **O Dano:** A extração da memória é um dano permanente de *roleplay*: Dustin nunca mais se lembrará magicamente do caminho para a Taberna, forçando-o a depender dos seus aliados.
 

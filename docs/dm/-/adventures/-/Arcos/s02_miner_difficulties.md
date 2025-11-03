@@ -79,7 +79,7 @@
 ### 🤫 Secrets & Hooks / Segredos e Ganchos
 * **O Envolvimento de Kristryd:** A sua promessa de ajuda é um gancho genuíno. Ele pode ser um recurso fiável para missões de Paladinos ou informações sobre ameaças do Underdark.
 * **Yellow Mold Origem:** O fungo tem uma telepatia latente (como descoberto na sessão S04), e a sua presença aqui, ao lado de minérios, pode ser uma semente plantada pelo Culto do Mal Elemental para corromper a terra de Flanaess.
-* **O Destino de Thargrin:** A família de Thargrin pode mais tarde contactar os PCs em Blackstone para agradecer, ou talvez o seu espírito (se o corpo não for purificado) possa ser usado em rituais necromânticos pelo [Culto do Mal Elemental](docs/dm/-/organizations/cult_of_elemental_evil.md).
+* **O Destino de Thargrin:** A família de Thargrin pode mais tarde contactar os PCs em Blackstone para agradecer, ou talvez o seu espírito (se o corpo não for purificado) possa ser usado em rituais necromânticos pelo [Culto do Mal Elemental](cult_of_elemental_evil.md).
 
 ### ⚙️ Contingencies / Contingências
 * **Se Kristryd morresse:** A recompensa de 500 GP seria encontrada no corpo dele. A missão de entregar a carta a [Thargrin's Family](thargrin_family.md) passaria para o grupo, dando um gancho de exploração social em Blackstone.

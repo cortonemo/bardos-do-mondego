@@ -1,12 +1,12 @@
 ## 📝 O Riacho Poluído e o Fungo Elemental / The Fouled Stream and the Elemental Fungus
 
-| 🗓 Timeline / Cronologia | PT | EN |
-| :-------------------- | :---------------------------------------------------- | :------------------------------------------------------- |
-| **Data do Jogo** | 02 de Janeiro de 2025 | January 2nd, 2025 |
-| **Data In-Game** | 15 de Patchwall, 998 CY (Semana 01) | 15th of Patchwall, 998 CY (Week 01) |
-| **Sessão \#** | S01 | S01 |
-| **DM** | *Não Especificado* | *Not Specified* |
-| **Arcos Enquadrados** | **🦑 Arco da Corrupção do Mal Elemental** | **🦑 Elemental Evil Corruption Arc** |
+| 🗓 Timeline / Cronologia | PT                                        | EN                                   |
+| :----------------------- | :---------------------------------------- | :----------------------------------- |
+| **Data do Jogo**         | 02 de Janeiro de 2025                     | January 2nd, 2025                    |
+| **Data In-Game**         | 15 de Patchwall, 998 CY (Semana 01)       | 15th of Patchwall, 998 CY (Week 01)  |
+| **Sessão \#**            | S01                                       | S01                                  |
+| **DM**                   | *Não Especificado*                        | *Not Specified*                      |
+| **Arcos Enquadrados**    | **🦑 Arco da Corrupção do Mal Elemental** | **🦑 Elemental Evil Corruption Arc** |
 
 -----
 
@@ -14,7 +14,7 @@
 | :------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Introdução** | PCs acordam no Grande Castelo. O [Taberneiro](innkeeper.md) atribui a missão de investigar a corrupção do riacho no bosque.                                       | PCs awaken in the Grand Castle. The [Innkeeper](innkeeper.md) assigns the mission to investigate the corruption of the nearby stream in the woods.               |
 | **Missão**     | Purificar a nascente do riacho que está a ser infestada por um "fungo alienígena", a pedido do Treant [Borogrove](borogrove.md).                                  | To cleanse the stream's source, which is being infested by an "alien fungus," at the request of the Treant [Borogrove](borogrove.md).                            |
-| **Desfecho**   | A nascente é purificada, e o grupo regressa com recompensas do [Borogrove](borogrove.md) e conhecimento sobre o [Culto do Mal Elemental](docs/organizations/-/cults/cult_of_elemental_evil.md). | The source is purified, and the group returns with rewards from [Borogrove](borogrove.md) and knowledge about the [Elemental Evil Cult](docs/organizations/-/cults/cult_of_elemental_evil.md). |
+| **Desfecho**   | A nascente é purificada, e o grupo regressa com recompensas do [Borogrove](borogrove.md) e conhecimento sobre o [Culto do Mal Elemental](cult_of_elemental_evil.md). | The source is purified, and the group returns with rewards from [Borogrove](borogrove.md) and knowledge about the [Elemental Evil Cult](cult_of_elemental_evil.md). |
 
 -----
 
