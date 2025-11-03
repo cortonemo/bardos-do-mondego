@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/dm/-/adventures/-/index.md",
+                "file": "docs/dm/-/adventures/-/validation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "validation"
             }
           }
         ]
@@ -176,10 +176,13 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "8b60e7fd6b137849",
+  "active": "a04fd158416016f7",
   "lastOpenFiles": [
+    "docs/dm/-/adventures/-/timeline_season_01.md",
+    "docs/adventures/s01.md",
+    "docs/dm/-/adventures/-/reconciliacao_wip_vs_previous.md",
+    "docs/dm/-/adventures/-/s01.md",
     "docs/dm/-/adventures/-/validation.md",
-    "docs/dm/-/adventures/-/index.md",
     "docs/dm/-/adventures/-/S01/s07b_pantano_basilisco.md",
     "docs/dm/-/adventures/-/S01/s07a_emboscada_erybend.md",
     "docs/dm/-/adventures/-/S01/s06_blank.md",
@@ -190,7 +193,6 @@
     "docs/dm/-/adventures/-/S01/s03_ataque_rio_neem.md",
     "docs/dm/-/adventures/-/S01/s02_miner_difficulties.md",
     "docs/dm/-/adventures/-/S01/s01_purificacao_riacho.md",
-    "docs/adventures/index.md",
     "docs/dm/-/adventures/-/S01/s30a_polimorfismo_sea_hag.md",
     "docs/dm/-/adventures/-/S01/s29b_idolo_lady_scale_p1.md",
     "docs/dm/-/adventures/-/S01/s29a_museu_sombras_p2.md",
@@ -202,8 +204,6 @@
     "docs/dm/-/adventures/-/S01/s17b_a_crianca_perdida.md",
     "docs/dm/-/adventures/-/S01/s17a_missao_assassinos.md",
     "docs/dm/-/adventures/-/S01/s16_blank.md",
-    "docs/dm/-/adventures/-/S01/s15b_a_crianca_perdida.md",
-    "docs/dm/-/adventures/-/S01/s15a_ceptro_de_zan.md",
     "docs/assets/pc/pc_ugus_bugus.png",
     "docs/Adventures/👽 Cosmic Connection Arc",
     "docs/dm/-/adventures/-/S01",

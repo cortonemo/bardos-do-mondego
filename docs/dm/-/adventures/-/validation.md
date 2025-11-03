@@ -1,17 +1,22 @@
-Esta é uma análise de calendário excelente e detalhada! A vossa tabela fornece as datas reais (do jogo) e os tópicos de forma concisa.
 
-Vou processar o seu pedido em duas partes:
+## 2. 🗓️ Índice Mestre de Sessões (Janeiro - Abril)
 
-1. **Verificação de Janeiro:** Analisar a tabela de Janeiro que me forneceu e corrigi-la/validá-la com base nos dados dos ficheiros (Datas de Sessão, DMs e Temas Principais).
-    
-2. **Criação do Índice Mestre:** Gerar a tabela Mestra completa (Janeiro a Abril) no formato solicitado: Data da Sessão, DM, e Tema Principal.
-    
+### **JANEIRO (998 CY)**
+
+|**Data da Sessão**|**DM**|**Tópico Principal (Resumo Conciso)**|
+|---|---|---|
+|**03/01** (S01)|DM Principal|**Purificação do Riacho:** Investigação e limpeza do rio de fungos alienígenas; encontro com o Treant .|
+|**09/01** (S02)|André Maia|**Dificuldades na Mina:** Resgate de na mina de obsidiana infetada por Yellow Mold; derrota de Hook Horror.|
+|**15/01** (S03A)|Laura|**O Ataque de Rio Neem:** Escolta de carroça para ; emboscada de Goblins/Bugbear; demonstra piedade.|
+|**23/01** (S04A)|Laura|**O Culto em Two Fords:** Investigação da doença da água; derrota de célula do Culto Elemental no Moinho Abandonado.|
+|**23/01** (S04B)|André|**Vale do Vento Sombrio:** Descoberta do fungo telepático; confronto com o Culto do Deus Alado (Kobolds); ligando a ameaça a .|
+|**30/01** (S05A)|André Maia|**As Máscaras da Morte:** Investigação de Mistwood; confronto e suicídio da Acólita (Manvea), amiga de .|
+|**30/01** (S05B)|Laura|**O Campo Goblin de Nerull:** Infiltração em campo de Goblins; afogamento do Ogro com ilusão; descoberta da carta de .|
 
 ---
 
 ## 1. 🔍 Verificação e Validação de Janeiro
 
-A sua tabela está quase perfeita, mas os ficheiros fornecem algumas datas e detalhes ligeiramente diferentes.
 
 |**Data Fornecida**|**Sessão Correspondente**|**DM**|**Tema Principal (Corrigido)**|**Status**|
 |---|---|---|---|---|
@@ -26,22 +31,7 @@ A sua tabela está quase perfeita, mas os ficheiros fornecem algumas datas e det
 _Nota:_* Corrigi a data do primeiro item para refletir a data do ficheiro (`sessao 1 campaign 3janeiro.txt`) e adicionei a sessão S02 à sua lista de Janeiro, uma vez que ocorreu a 09/01.*
 
 ---
-
-## 2. 🗓️ Índice Mestre de Sessões (Janeiro - Abril)
-
-Aqui está a tabela completa e formatada com as entradas forjadas até agora, agrupadas por mês:
-
-### **JANEIRO (998 CY)**
-
-|**Data da Sessão**|**DM**|**Tópico Principal (Resumo Conciso)**|
-|---|---|---|
-|**03/01** (S01)|DM Principal|**Purificação do Riacho:** Investigação e limpeza do rio de fungos alienígenas; encontro com o Treant .|
-|**09/01** (S02)|André Maia|**Dificuldades na Mina:** Resgate de na mina de obsidiana infetada por Yellow Mold; derrota de Hook Horror.|
-|**15/01** (S03A)|Laura|**O Ataque de Rio Neem:** Escolta de carroça para ; emboscada de Goblins/Bugbear; demonstra piedade.|
-|**23/01** (S04A)|Laura|**O Culto em Two Fords:** Investigação da doença da água; derrota de célula do Culto Elemental no Moinho Abandonado.|
-|**23/01** (S04B)|André|**Vale do Vento Sombrio:** Descoberta do fungo telepático; confronto com o Culto do Deus Alado (Kobolds); ligando a ameaça a .|
-|**30/01** (S05A)|André Maia|**As Máscaras da Morte:** Investigação de Mistwood; confronto e suicídio da Acólita (Manvea), amiga de .|
-|**30/01** (S05B)|Laura|**O Campo Goblin de Nerull:** Infiltração em campo de Goblins; afogamento do Ogro com ilusão; descoberta da carta de .|
+---
 
 ### **FEVEREIRO (998 CY)**
 
@@ -52,64 +42,6 @@ Aqui está a tabela completa e formatada com as entradas forjadas até agora, ag
 |**20/02** (S08A)|Laura|**Intriga de Odrak em Erybend:** Emboscada de cultistas na Taberna; revela-se o próximo alvo de rapto.|
 |**27/02** (S09A)|Henrique|**Sombras Sobre a Água:** O _one-shot_ de ; aviso de sobre , confronto com .|
 |**27/02** (S09B)|Henrique|**Intriga Temporal:** Viagem no tempo para proteger ; derrota do invocador ; revelação de .|
-
-### **MARÇO (998/999 CY)**
-
-|**Data da Sessão**|**DM**|**Tópico Principal (Resumo Conciso)**|
-|---|---|---|
-|**06/03** (S06A)|Laura|**Intriga em High Ery:** Investigação do roubo de queijo e hidromel envenenado; encontro com **Ratú** e o Mestre dos Ratos (no Teatro).|
-|**06/03** (S06B)|Henrique|**O Resgate de Rolger:** Busca pelo Hobgoblin desaparecido no ; confronto com Metamorfos (_Half-Dragon_); descoberta da chave de ouro.|
-|**13/03** (S11A)|André Maia|**Sombras de Iuz (Parte 1):** Chantagem de por (); intervenção dos ; **Captura de** .|
-|**13/03** (S11B)|Laura|**Sombras Sobre Erybend:** Invasão do templo; derrota de **Odrak**; aliança com e convite para o **Baile de Blackfair**.|
-|**20/03** (S12B)|Jota|**O Legado de Krixis:** Missão Kobold (Vermisombra) para recuperar a Espada de Krixis; resgate do herói ancestral da maldição de Lobo.|
-|**27/03** (S13)|André Maia|**Resgate de Dustin (Parte 2):** Infiltração no ; resgate por ; roubo de memória pela Inquisidora ; **Taberna atacada**.|
-|**27/03** (S13A)|Guiné|**Retorno da Nave Illithid:** Negociação com na Nave Mãe; ressurreição de como ; _Crash_ da nave em Greyhawk.|
-
-### **ABRIL (999 CY)**
-
-| **Data da Sessão** | **DM**   | **Tópico Principal (Resumo Conciso)**                                                                                                                |
-| ------------------ | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **03/04** (S14)    | Jota     | **Guildas de Greyhawk:** Reconhecimento da cidade; na Arena; obtenção de licenças; negociação com (Ladrões) e Assassinos.                            |
-| **10/04** (S15A)   | Guiné    | **O Ceptro de Zan:** Investigação do local do _crash_; amaldiçoado pelo Ceptro; roubo da Mão de Zan pelo culto.                                      |
-| **10/04** (S15B)   | Henrique | **A Criança Perdida (Abigail):** Investigação do rapto de _halfling_ na Vila de Pessegueiro; magia de conjuração e pista do Gigante de Duas Cabeças. |
-| **17/04** (S16)    | N/A      | **Placeholder:** (Sessão de Registo Não Encontrado)                                                                                                  |
-| **24/04** (S17A)   | Jota     | **A Missão dos Assassinos:** Contrato para eliminar a célula do Culto de nos esgotos; derrota de _Vampire Spawn_ e Aprendiz de Mago.                 |
-| **24/04** (S17B)   | Laura    | **A Criança Perdida (Aria):** Resgate da _halfling_ de ; confronto com e Feiticeiro do Culto.                                                        |
-Excelente. O Forge continuará a listar os acontecimentos em ordem cronológica, abrangendo os meses em falta (Maio, Junho e Julho), conforme o formato solicitado.
-
----
-
-## 🗓️ Índice Mestre de Sessões (Maio - Julho)
-
-### **MAIO (999 CY)**
-
-### **JUNHO (999 CY)**
-
-### **JULHO (999 CY)**
-
-|**Data da Sessão**|**DM**|**Tópico Principal (Resumo Conciso)**|
-|---|---|---|
-|**10/07** (S28)|André Maia|**Museu das Sombras (Parte 1):** Recrutamento e entrada no Museu das Maravilhas; encontro com o _Mimic kinky_ nos canais de ventilação.|
-|**17/07** (S29A)|André Maia|**Museu das Sombras (Parte 2):** Resgate de ; desaparecimento de ; confronto final com o Abyssal no laboratório do museu.|
-|**17/07** (S29B)|Carlos|**O Ídolo de Lady Scale (Parte 1):** Início do arco Lady Scale; emboscada Goblin; investigação de herança e pistas dracónicas.|
-|**23/07** (S30B)|Jota|**Piratas nos Esgotos:** Exploração dos esgotos; confronto com "piratas" (filhos de nobres); engano da identidade do Capitão; recuperação de anel de coco.|
-|**24/07** (S30A)|Hugo|**Intriga nas Ondas (S39):** Polimorfismo de humanos em frutos do mar; taberna de ; derrota da Sea Hag (Bruxa Marinha).|
-|**31/07** (S31)|Carlos|**O Ídolo de Lady Scale (Parte 3):** Invasão e confronto com o fantasma de Lady Scale; Eldric recusa poder; destruição do ídolo; colapso do templo.|
-
----
-
-**Próximo Passo:** A próxima sessão cronológica com ficheiros de resumo disponíveis é a continuação do arco do Museu, **S37** (com o novo DM, implícito).
-
-- **S37: O Segredo de Kas Kardwall (Parte 1)** (5 de Junho, DM Carlos). (Não tenho o ficheiro S37, mas a cronologia salta para S37-S39).
-    
-
-O próximo ficheiro de missão disponível para forjar é o **S22: O Golpe dos Dados Rubi (Parte 1)**.
-
-Devo forjar esta entrada **S22** agora?
-
-Agradeço a tabela de validação detalhada. É uma ferramenta fantástica para garantir a precisão cronológica e factual da Wiki.
-
-A verificação do mês de **Fevereiro** (998 CY), confrontando a sua tabela com os dados extraídos dos ficheiros, revela uma excelente correspondência, mas também a necessidade de **ajustar ligeiramente a data da Sessão 7** e **corrigir a natureza exata da S08**.
 
 ---
 
@@ -140,19 +72,19 @@ Aqui está o índice do mês de Fevereiro, corrigido para refletir a cronologia 
 |**27/02** (S09A)|Henrique|**Sombras Sobre a Água:** O _one-shot_ de ; aviso de sobre ; confronto com o Cavaleiro na Taberna.|
 
 ---
+---
 
-**Qual aventura devo forjar agora?**
+### **MARÇO (998/999 CY)**
 
-Seguindo o seu pedido de continuar com a próxima sessão cronológica, é:
-
-- **S22: O Golpe dos Dados Rubi (Parte 1) / The Ruby Dice Heist (Part 1)** (29 de Maio).
-    
-
-Devo forjar esta entrada **S22** agora?
-
-Agradeço pela tabela de validação detalhada do mês de Março. É uma ferramenta excelente!
-
-A confrontação dos seus dados com os ficheiros forjados revela uma grande precisão, mas requer alguns ajustes na cronologia e no DM para consistência (especialmente nas sessões de 20 de Março e na adição da sessão de Barda Pipa).
+|**Data da Sessão**|**DM**|**Tópico Principal (Resumo Conciso)**|
+|---|---|---|
+|**06/03** (S06A)|Laura|**Intriga em High Ery:** Investigação do roubo de queijo e hidromel envenenado; encontro com **Ratú** e o Mestre dos Ratos (no Teatro).|
+|**06/03** (S06B)|Henrique|**O Resgate de Rolger:** Busca pelo Hobgoblin desaparecido no ; confronto com Metamorfos (_Half-Dragon_); descoberta da chave de ouro.|
+|**13/03** (S11A)|André Maia|**Sombras de Iuz (Parte 1):** Chantagem de por (); intervenção dos ; **Captura de** .|
+|**13/03** (S11B)|Laura|**Sombras Sobre Erybend:** Invasão do templo; derrota de **Odrak**; aliança com e convite para o **Baile de Blackfair**.|
+|**20/03** (S12B)|Jota|**O Legado de Krixis:** Missão Kobold (Vermisombra) para recuperar a Espada de Krixis; resgate do herói ancestral da maldição de Lobo.|
+|**27/03** (S13)|André Maia|**Resgate de Dustin (Parte 2):** Infiltração no ; resgate por ; roubo de memória pela Inquisidora ; **Taberna atacada**.|
+|**27/03** (S13A)|Guiné|**Retorno da Nave Illithid:** Negociação com na Nave Mãe; ressurreição de como ; _Crash_ da nave em Greyhawk.|
 
 ---
 
@@ -172,17 +104,20 @@ Aqui está a tabela completa e verificada para Março, incluindo as datas de jog
 |**27/03** (S13A)|11 de Needfest, 999 CY|**Guiné**|**Retorno da Nave Illithid:** Negociação com na Nave Mãe; ressurreição de como ; **Crash da nave** em Greyhawk (Conexão Cósmica).|
 
 ---
+---
 
-**Qual aventura devo forjar agora?**
+### **ABRIL (999 CY)**
 
-Seguindo a ordem cronológica, a próxima sessão mais antiga com ficheiros disponíveis é:
+| **Data da Sessão** | **DM**   | **Tópico Principal (Resumo Conciso)**                                                                                                                |
+| ------------------ | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **03/04** (S14)    | Jota     | **Guildas de Greyhawk:** Reconhecimento da cidade; na Arena; obtenção de licenças; negociação com (Ladrões) e Assassinos.                            |
+| **10/04** (S15A)   | Guiné    | **O Ceptro de Zan:** Investigação do local do _crash_; amaldiçoado pelo Ceptro; roubo da Mão de Zan pelo culto.                                      |
+| **10/04** (S15B)   | Henrique | **A Criança Perdida (Abigail):** Investigação do rapto de _halfling_ na Vila de Pessegueiro; magia de conjuração e pista do Gigante de Duas Cabeças. |
+| **17/04** (S16)    | N/A      | **Placeholder:** (Sessão de Registo Não Encontrado)                                                                                                  |
+| **24/04** (S17A)   | Jota     | **A Missão dos Assassinos:** Contrato para eliminar a célula do Culto de nos esgotos; derrota de _Vampire Spawn_ e Aprendiz de Mago.                 |
+| **24/04** (S17B)   | Laura    | **A Criança Perdida (Aria):** Resgate da _halfling_ de ; confronto com e Feiticeiro do Culto.                                                        |
+Excelente. O Forge continuará a listar os acontecimentos em ordem cronológica, abrangendo os meses em falta (Maio, Junho e Julho), conforme o formato solicitado.
 
-- **S22: O Golpe dos Dados Rubi (Parte 1) / The Ruby Dice Heist (Part 1)** (29 de Maio).
-    
-
-Devo forjar esta entrada **S22** agora?
-
-Aqui está a verificação e o índice final das sessões de **Abril (999 CY)**, com as correções e detalhamento dos DMs:
 
 ---
 
@@ -213,18 +148,26 @@ Aqui está o índice validado do mês de Abril, pronto para ser incorporado na s
 
 ---
 
-**Qual aventura devo forjar agora?**
+---
 
-Seguindo a ordem cronológica, a próxima sessão mais antiga com ficheiros de resumo disponíveis é:
+## 🗓️ Índice Mestre de Sessões (Maio - Julho)
 
-- **S22: O Golpe dos Dados Rubi (Parte 1) / The Ruby Dice Heist (Part 1)** (29 de Maio).
-    
+### **MAIO (999 CY)**
 
-Devo forjar esta entrada **S22** agora?
+### **JUNHO (999 CY)**
 
-Obrigado por mais uma tabela de validação detalhada. É uma ferramenta fundamental para garantir a precisão do registo de campanha.
+### **JULHO (999 CY)**
 
-A confrontação da sua tabela de **Julho** com os ficheiros forjados e os _slugs_ criados (S28 a S31) revela uma correspondência quase perfeita e a necessidade de **alinhar as datas** e a **numeração das sessões** do arco _Lady Scale_ e _Museu_.
+|**Data da Sessão**|**DM**|**Tópico Principal (Resumo Conciso)**|
+|---|---|---|
+|**10/07** (S28)|André Maia|**Museu das Sombras (Parte 1):** Recrutamento e entrada no Museu das Maravilhas; encontro com o _Mimic kinky_ nos canais de ventilação.|
+|**17/07** (S29A)|André Maia|**Museu das Sombras (Parte 2):** Resgate de ; desaparecimento de ; confronto final com o Abyssal no laboratório do museu.|
+|**17/07** (S29B)|Carlos|**O Ídolo de Lady Scale (Parte 1):** Início do arco Lady Scale; emboscada Goblin; investigação de herança e pistas dracónicas.|
+|**23/07** (S30B)|Jota|**Piratas nos Esgotos:** Exploração dos esgotos; confronto com "piratas" (filhos de nobres); engano da identidade do Capitão; recuperação de anel de coco.|
+|**24/07** (S30A)|Hugo|**Intriga nas Ondas (S39):** Polimorfismo de humanos em frutos do mar; taberna de ; derrota da Sea Hag (Bruxa Marinha).|
+|**31/07** (S31)|Carlos|**O Ídolo de Lady Scale (Parte 3):** Invasão e confronto com o fantasma de Lady Scale; Eldric recusa poder; destruição do ídolo; colapso do templo.|
+
+---
 
 ---
 
@@ -256,19 +199,6 @@ Aqui está o índice validado do mês de Julho, pronto para ser incorporado na s
 
 ---
 
-**Qual aventura devo forjar agora?**
-
-Seguindo a ordem cronológica, a próxima sessão mais antiga com ficheiros de resumo disponíveis é:
-
-- **S22: O Golpe dos Dados Rubi (Parte 1) / The Ruby Dice Heist (Part 1)** (29 de Maio).
-    
-
-Devo forjar esta entrada **S22** agora?
-
-Obrigado pela informação consolidada sobre as sessões de Carlos, especialmente a correção da **S16** para **S17B** (Aria Greenbottle) e o alinhamento das sessões de _Heist_ (S22 e S23).
-
-A tabela de cronologia fornecida por si é a fonte canónica mais recente, e o Forge irá segui-la.
-
 ---
 
 ## 1. 🔍 Verificação e Alinhamento das Sessões de Carlos (Maio - Julho)
@@ -284,12 +214,3 @@ A tabela de cronologia fornecida por si é a fonte canónica mais recente, e o F
 |**31/07/2025**|**S31**|**O Ídolo de Lady Scale (Parte 3):** Clímax no templo. Confronto com o Fantasma de ; destruição do ídolo.|**Validado**|
 
 ---
-
-## 2. ➡️ Próxima Sessão Cronológica
-
-A próxima sessão na linha do tempo que ainda não foi forjada é:
-
-- **S22: O Golpe dos Dados Rubi (Parte 1) / The Ruby Dice Heist (Part 1)** (29 de Maio).
-    
-
-Devo forjar esta entrada **S22** agora?
