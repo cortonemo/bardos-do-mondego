@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/dm/-/adventures/-/validation.md",
+                "file": "docs/dm/-/adventures/s01.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "validation"
+              "title": "s01"
             }
           }
         ]
@@ -178,11 +178,14 @@
   },
   "active": "a04fd158416016f7",
   "lastOpenFiles": [
-    "docs/dm/-/adventures/-/timeline_season_01.md",
     "docs/adventures/s01.md",
-    "docs/dm/-/adventures/-/reconciliacao_wip_vs_previous.md",
-    "docs/dm/-/adventures/-/s01.md",
+    "docs/adventures/-/S01/s03_ataque_rio_neem.md",
+    "docs/adventures/-/S01/s02_miner_difficulties.md",
+    "docs/adventures/-/S01/s01_purificacao_riacho.md",
     "docs/dm/-/adventures/-/validation.md",
+    "docs/dm/-/adventures/-/timeline_season_01.md",
+    "docs/dm/-/adventures/-/reconciliacao_wip_vs_previous.md",
+    "docs/dm/-/adventures/s01.md",
     "docs/dm/-/adventures/-/S01/s07b_pantano_basilisco.md",
     "docs/dm/-/adventures/-/S01/s07a_emboscada_erybend.md",
     "docs/dm/-/adventures/-/S01/s06_blank.md",
@@ -201,9 +204,6 @@
     "docs/dm/-/adventures/-/S01/s23a_golpe_dados_rubi_p2.md",
     "docs/dm/-/adventures/-/S01/s22a_golpe_dados_rubi_p1.md",
     "docs/dm/-/adventures/-/S01/s18_blank.md",
-    "docs/dm/-/adventures/-/S01/s17b_a_crianca_perdida.md",
-    "docs/dm/-/adventures/-/S01/s17a_missao_assassinos.md",
-    "docs/dm/-/adventures/-/S01/s16_blank.md",
     "docs/assets/pc/pc_ugus_bugus.png",
     "docs/Adventures/👽 Cosmic Connection Arc",
     "docs/dm/-/adventures/-/S01",
