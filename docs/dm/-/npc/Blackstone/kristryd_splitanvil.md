@@ -1,67 +1,68 @@
-# Kristryd Splitanvil
+# Kristryd Splitanvil ([S02](s02_miner_difficulties_ready.md))
 
-![Kristryd Splitanvil](docs/assets/npc/npc_blank.png)
+![Kristryd Splitanvil](npc_blank.png)
 
-| **Português (PT-PT)** | **English (EN-US)** |
-| --------------------- | ------------------- |
-| **Nome:** Kristryd Splitanvil | **Name:** Kristryd Splitanvil |
-| **Raça:** Anão | **Race:** Dwarf |
-| **Classe:** Clérigo de [Pelor](pelor.md) | **Class:** Cleric of [Pelor](pelor.md) |
-| **Alinhamento:** Legal e Bom | **Alignment:** Lawful Good |
-| **Profissão:** Prefeito de [Blackstone](blackstone.md) | **Profession:** Mayor of [Blackstone](blackstone.md) |
-| **Função:** Líder resiliente da comunidade de Blackstone | **Role:** Resilient leader of the Blackstone community |
-| **Localização:** [Blackstone](blackstone.md) e Minas locais | **Location:** [Blackstone](blackstone.md) and local Mines |
-| **Sessão:** 2 | **Session:** 2 |
-| **Fonte:** s02.txt | **Source:** s02.txt |
+### 👤 Detalhes do NPC / 👤 NPC Details
+
+| 👤 Detalhes do NPC                           | 👤 NPC Details                               |
+| -------------------------------------------- | -------------------------------------------- |
+| **Kristryd Splitanvil**                      | **Kristryd Splitanvil**                      |
+| **Raça**                                     | **Race**                                     |
+| Anão                                         | Dwarf                                        |
+| **Classe**                                   | **Class**                                    |
+| Clérigo de [Pelor](pelor.md)                 | Cleric of [Pelor](pelor.md)                  |
+| **Alinhamento**                              | **Alignment**                                |
+| Legal e Bom                                  | Lawful Good                                  |
+| **Profissão**                                | **Profession**                               |
+| Prefeito de [Blackstone](blackstone.md)      | Mayor of [Blackstone](blackstone.md)         |
+| **Função**                                   | **Role**                                     |
+| Líder resiliente da comunidade de Blackstone | Resilient leader of the Blackstone community |
+| **Localização**                              | **Location**                                 |
+| [Blackstone](blackstone.md) e Minas locais   | [Blackstone](blackstone.md) and local Mines  |
+| **Sessão**                                   | **Session**                                  |
+| 2                                            | 2                                            |
+| **Fonte**                                    | **Source**                                   |
+| s02.txt                                      | s02.txt                                      |
 
 ---
 
 ## 📖 Sobre / About
 
-| **Português (PT-PT)** | **English (EN-US)** |
+| 📖 Sobre | 📖 About |
 | --------------------- | ------------------- |
-| Prefeito de [Blackstone](blackstone.md), Kristryd Splitanvil é um anão de fé e resiliência, devoto de [Pelor](pelor.md). Foi encontrado ferido na mina, com a armadura danificada, mas manteve a liderança mesmo enfraquecido. Pede ajuda aos aventureiros para salvar a cidade das ameaças subterrâneas. | Mayor of [Blackstone](blackstone.md), Kristryd Splitanvil is a dwarf of faith and resilience, devoted to [Pelor](pelor.md). He was found wounded in the mine, his armor damaged, but maintained his leadership even in weakness. He asks the adventurers to save the city from underground threats. |
+| [cite_start]Prefeito de [Blackstone](blackstone.md) [cite: 1][cite_start], Kristryd Splitanvil é um anão de fé e resiliência, devoto de [Pelor](pelor.md)[cite: 1]. [cite_start]Foi encontrado ferido na mina, com a armadura danificada, mas manteve a liderança mesmo enfraquecido[cite: 1]. [cite_start]Pede ajuda aos aventureiros para salvar a cidade das ameaças subterrâneas[cite: 1]. | [cite_start]Mayor of [Blackstone](blackstone.md) [cite: 1][cite_start], Kristryd Splitanvil is a dwarf of faith and resilience, devoted to [Pelor](pelor.md)[cite: 1]. [cite_start]He was found wounded in the mine, his armor damaged, but maintained his leadership even in weakness[cite: 1]. [cite_start]He asks the adventurers to save the city from underground threats[cite: 1]. |
 
 ---
 
 ## 🎭 Personalidade / Personality
 
-| **Português (PT-PT)** | **English (EN-US)** |
+| 🎭 Personalidade | 🎭 Personality |
 | --------------------- | ------------------- |
-| **Traços:** Determinado, resistente, orgulhoso e honrado. | **Traits:** Determined, tough, proud, and honorable. |
-| **Ideais:** A fé e a liderança devem guiar a comunidade, mesmo em tempos de crise. | **Ideals:** Faith and leadership must guide the community, even in times of crisis. |
-| **Vínculos:** A sua cidade de [Blackstone](blackstone.md) e os seus habitantes. | **Bonds:** His city of [Blackstone](blackstone.md) and its people. |
-| **Medos:** Que a mina consuma não só os mineiros mas também a esperança de Blackstone. | **Fears:** That the mine will consume not only miners but also Blackstone’s hope. |
+| [cite_start]**Traços:** Determinado, resistente, orgulhoso e honrado[cite: 1]. | [cite_start]**Traits:** Determined, tough, proud, and honorable[cite: 1]. |
+| [cite_start]**Ideais:** A fé e a liderança devem guiar a comunidade, mesmo em tempos de crise[cite: 1]. | [cite_start]**Ideals:** Faith and leadership must guide the community, even in times of crisis[cite: 1]. |
+| [cite_start]**Vínculos:** A sua cidade de [Blackstone](blackstone.md) e os seus habitantes[cite: 1]. | [cite_start]**Bonds:** His city of [Blackstone](blackstone.md) and its people[cite: 1]. |
+| [cite_start]**Medos:** Que a mina consuma não só os mineiros mas também a esperança de Blackstone[cite: 1]. | [cite_start]**Fears:** That the mine will consume not only miners but also Blackstone’s hope[cite: 1]. |
 
 ---
 
 ## 🔗 Ligações / Connections
 
-| **Português (PT-PT)** | **English (EN-US)** |
+| 🔗 Ligações | 🔗 Connections |
 | --------------------- | ------------------- |
-| Líder espiritual e político de [Blackstone](blackstone.md). Promete apoio aos aventureiros caso regressem às Montanhas de Cairn. | Spiritual and political leader of [Blackstone](blackstone.md). Promises support to the adventurers if they return to the Cairn Mountains. |
+| [cite_start]Líder espiritual e político de [Blackstone](blackstone.md)[cite: 1]. [cite_start]Promete apoio aos aventureiros caso regressem às Montanhas de Cairn[cite: 1]. | [cite_start]Spiritual and political leader of [Blackstone](blackstone.md)[cite: 1]. [cite_start]Promises support to the adventurers if they return to the Cairn Mountains[cite: 1]. |
 
 ---
 
-<!-- 🔒 DM-ONLY SECTION BELOW -->
+### Processing Audit
 
-## 🧩 Estatísticas / Stat Block
+| Source File | Linked Files |
+| :--- | :--- |
+| kristryd_splitanvil.md | pelor.md, blackstone.md |
+| Recapitulativo Temporada 01.md | s02_miner_difficulties_ready.md |
 
-*(Não disponível — informações insuficientes)*  
-*(Not available — insufficient information)*
-
----
-
-## 🎲 Ganchos de Aventura / Adventure Hooks
-
-| **Português (PT-PT)** | **English (EN-US)** |
-| --------------------- | ------------------- |
-| *(desconhecido)* | *(unknown)* |
-
----
-
-## 🧑‍💻 DM Notes
-
-| **Português (PT-PT)** | **English (EN-US)** |
-| --------------------- | ------------------- |
-| Nenhum detalhe adicional disponível neste momento. | No further details available at this time. |
+| Type | Where | Detail |
+| :--- | :--- | :--- |
+| **Missing Files** | Location | pelor.md, blackstone.md |
+| **Warning** | Markdown Image Simplification | Simplified path in image tag: `![Kristryd Splitanvil](docs/assets/npc/npc_blank.png)` to `![Kristryd Splitanvil](npc_blank.png)` |
+| **Session Linking** | Header | NPC Kristryd Splitanvil's session added: S02. |
+| **Table Processing** | Table 1 | Monolingual table was split and headers were simplified for better bilingual structure. |

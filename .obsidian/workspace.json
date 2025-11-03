@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/dm/-/pc/pc_asinius.md",
-                "mode": "source",
+                "file": "docs/dm/-/npc/Blackstone/kristryd_splitanvil.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "pc_asinius"
+              "title": "kristryd_splitanvil"
             }
           }
         ]
@@ -178,8 +178,13 @@
   },
   "active": "a04fd158416016f7",
   "lastOpenFiles": [
-    "docs/dm/-/pc/pc_arkos_vasell.md",
+    "docs/dm/-/npc/Abandoned Village/vaelkor_ashbrand.md",
+    "docs/npc/-/Abandoned Village/vaelkor_ashbrand.md",
+    "docs/pc/-/pc_zeldris.md",
+    "docs/pc/-/pc_arkos_vasell.md",
+    "docs/dm/-/adventures/-/T01/s01_purificacao_riacho.md",
     "docs/dm/-/pc/pc_asinius.md",
+    "docs/dm/-/pc/pc_arkos_vasell.md",
     "docs/dm/-/pc/pc_conan_barbaro_ra.md",
     "docs/dm/-/pc/pc_bok_thunderfist.md",
     "docs/adventures/-/T01/s11a_sombras_de_iuz.md",
@@ -199,11 +204,6 @@
     "docs/dm/-/pc/pc_dustin_thorne.md",
     "docs/dm/-/pc/pc_drayl_bharash.md",
     "s02_miner_difficulties_ready.md",
-    "docs/dm/-/pc/pc_wandering_sage.md",
-    "docs/dm/-/pc/pc_zeldris.md",
-    "docs/dm/-/pc/pc_zahel.md",
-    "docs/dm/-/pc/pc_wagner.md",
-    "docs/dm/-/pc/pc_vaunia_kolakiala.md",
     "docs/assets/pc/pc_usopp.png",
     "docs/dm/-/adventures/-/T01",
     "docs/dm/-/adventures/-/S01",
