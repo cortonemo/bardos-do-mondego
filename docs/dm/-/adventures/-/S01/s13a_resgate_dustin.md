@@ -79,7 +79,7 @@ Com a conclusão da sessão **S13: Sombras de Iuz: O Resgate de Dustin**, os seg
 
 | Categoria         | Entidade                                          | Slug (Confirmado com docs\_structure ou Novo) | Sessões (Nova Adição) |
 | :---------------- | :------------------------------------------------ | :-------------------------------------------- | :-------------------- |
-| **Missions**      | [Sombras de Iuz (Parte 2)](docs/dm/-/adventures/-/Arcos/s13a_resgate_dustin.md) | S13                                           |                       |
+| **Missions**      | [Sombras de Iuz (Parte 2)](docs/dm/-/adventures/-/S01/s13a_resgate_dustin.md) | S13                                           |                       |
 | **PCs**           | [Dustin Thorne](pc_dustin_thorne.md)              | S13                                           |                       |
 | **PCs**           | [Markus Grimm](pc_markus_grimm.md)                | S13                                           |                       |
 | **NPCs**          | [Pryssana](pryssana.md)                           | S13                                           |                       |

@@ -89,7 +89,7 @@ Com a conclusão da sessão **S15B: A Criança Perdida**, os seguintes índices 
 
 | Categoria     | Entidade                                       | Slug (Confirmado com docs\_structure ou Novo) | Sessões (Nova Adição) |
 | :------------ | :--------------------------------------------- | :-------------------------------------------- | :-------------------- |
-| **Missions**  | [A Criança Perdida](docs/dm/-/adventures/-/Arcos/s15b_a_crianca_perdida.md) | S15B                                          |                       |
+| **Missions**  | [A Criança Perdida](docs/dm/-/adventures/-/S01/s15b_a_crianca_perdida.md) | S15B                                          |                       |
 | **PCs**       | [Eldric Silvanos](pc_eldric_silvanos.md)       | S15B                                          |                       |
 | **PCs**       | [Silfir](pc_silfir.md) (Novo)                  | S15B                                          |                       |
 | **NPCs**      | [Abril](abril.md) (Novo)                       | S15B                                          |                       |

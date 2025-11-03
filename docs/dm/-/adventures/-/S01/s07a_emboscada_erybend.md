@@ -78,7 +78,7 @@ Com a conclusão da sessão **S07A: Emboscada a Caminho de Erybend**, os seguint
 
 | Categoria     | Entidade                                                    | Slug (Confirmado com docs\_structure ou Novo) | Sessões (Nova Adição) |
 | :------------ | :---------------------------------------------------------- | :-------------------------------------------- | :-------------------- |
-| **Missions**  | [Emboscada a Caminho de Erybend](docs/dm/-/adventures/-/Arcos/s07a_emboscada_erybend.md) | S07A                                          |                       |
+| **Missions**  | [Emboscada a Caminho de Erybend](docs/dm/-/adventures/-/S01/s07a_emboscada_erybend.md) | S07A                                          |                       |
 | **PCs**       | [Kai](pc_kai.md)                                            | S07A                                          |                       |
 | **PCs**       | [Grix Molah](pc_grix_molah.md)                              | S07A                                          |                       |
 | **PCs**       | [Varus](docs/pc/-/pc_zeldris.md)                                      | S07A                                          |                       |

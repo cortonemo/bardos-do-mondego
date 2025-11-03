@@ -79,7 +79,7 @@ Com a conclusão da sessão **S08A: Intriga de Odrak em Erybend**, os seguintes 
 
 | Categoria         | Entidade                                                      | Slug (Confirmado com docs\_structure ou Novo) | Sessões (Nova Adição) |
 | :---------------- | :------------------------------------------------------------ | :-------------------------------------------- | :-------------------- |
-| **Missions**      | [Intriga de Odrak em Erybend ](docs/dm/-/adventures/-/Arcos/s08a_intriga_odrak_erybend.md) | S08A                                          |                       |
+| **Missions**      | [Intriga de Odrak em Erybend ](docs/dm/-/adventures/-/S01/s08a_intriga_odrak_erybend.md) | S08A                                          |                       |
 | **PCs**           | [Kai](pc_kai.md)                                              | S08A                                          |                       |
 | **PCs**           | [Grix Molah](pc_grix_molah.md)                                | S08A                                          |                       |
 | **PCs**           | [Varus](docs/pc/-/pc_zeldris.md)                                        | S08A                                          |                       |

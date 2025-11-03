@@ -76,7 +76,7 @@ Com a conclusão da sessão **S22: O Golpe dos Dados Rubi (Parte 1)**, os seguin
 
 | Categoria | Entidade | Slug (Confirmado com docs\_structure ou Novo) | Sessões (Nova Adição) |
 | :--- | :--- | :--- | :--- |
-| **Missions** | [O Golpe dos Dados Rubi (Parte 1)](docs/dm/-/adventures/-/Arcos/s22a_golpe_dados_rubi_p1.md) | S22 |
+| **Missions** | [O Golpe dos Dados Rubi (Parte 1)](docs/dm/-/adventures/-/S01/s22a_golpe_dados_rubi_p1.md) | S22 |
 | **PCs** | [Ustrax](pc_ustrax.md) | S22 |
 | **PCs** | [Markus Grimm](pc_markus_grimm.md) | S22 |
 | **PCs** | [Wandering Sage](pc_wandering_sage.md) | S22 |

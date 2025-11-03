@@ -77,7 +77,7 @@ Com a conclusão da sessão **S23: O Golpe dos Dados Rubi (Parte 2)**, os seguin
 
 | Categoria | Entidade | Slug (Confirmado com docs\_structure ou Novo) | Sessões (Nova Adição) |
 | :--- | :--- | :--- | :--- |
-| **Missions** | [O Golpe dos Dados Rubi (Parte 2)](docs/dm/-/adventures/-/Arcos/s23a_golpe_dados_rubi_p2.md) | S23 |
+| **Missions** | [O Golpe dos Dados Rubi (Parte 2)](docs/dm/-/adventures/-/S01/s23a_golpe_dados_rubi_p2.md) | S23 |
 | **PCs** | [Ustrax](pc_ustrax.md) | S23 |
 | **PCs** | [Markus Grimm](pc_markus_grimm.md) | S23 |
 | **NPCs** | [Lorde Aleister Devraine](lord_aleister_devraine.md) | S23 |

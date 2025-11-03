@@ -79,7 +79,7 @@ Com a conclusão da sessão **S14: Guildas de Greyhawk**, os seguintes índices 
 
 | Categoria | Entidade | Slug (Confirmado com docs\_structure ou Novo) | Sessões (Nova Adição) |
 | :--- | :--- | :--- | :--- |
-| **Missions** | [Guildas de Greyhawk](docs/dm/-/adventures/-/Arcos/s14a_guildas_greyhawk.md) | S14 |
+| **Missions** | [Guildas de Greyhawk](docs/dm/-/adventures/-/S01/s14a_guildas_greyhawk.md) | S14 |
 | **PCs** | [[Conan o Bárbaro](pc_conan_barbaro_ra.md) | S14 |
 | **NPCs** | [Mr. 0](mr_0.md) (Novo) | S14 |
 | **NPCs** | [Cleseur](cleseur.md) (Novo) | S14 |

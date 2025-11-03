@@ -78,7 +78,7 @@ Com a conclusão da sessão **S13A: O Retorno da Nave Illithid**, os seguintes �
 
 | Categoria | Entidade | Slug (Confirmado com docs\_structure ou Novo) | Sessões (Nova Adição) |
 | :--- | :--- | :--- | :--- |
-| **Missions** | [O Retorno da Nave Illithid](docs/dm/-/adventures/-/Arcos/s13b_retorno_nave_illithid.md) | S13A |
+| **Missions** | [O Retorno da Nave Illithid](docs/dm/-/adventures/-/S01/s13b_retorno_nave_illithid.md) | S13A |
 | **PCs** | [Endouvan Bom Sossego](pc_endouven_bomsossego.md) | S13A |
 | **PCs** | [Varus](docs/pc/-/pc_zeldris.md) | S13A |
 | **PCs** | [Zeldris](docs/pc/-/pc_zeldris.md) (Novo) | S13A |

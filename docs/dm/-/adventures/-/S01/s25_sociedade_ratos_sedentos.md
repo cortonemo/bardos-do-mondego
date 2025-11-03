@@ -75,7 +75,7 @@ Com a conclusão da sessão **S25: A Sociedade dos Ratos Sedentos**, os seguinte
 
 | Categoria | Entidade | Slug (Confirmado com docs\_structure ou Novo) | Sessões (Nova Adição) |
 | :--- | :--- | :--- | :--- |
-| **Missions** | [A Sociedade dos Ratos Sedentos](docs/dm/-/adventures/-/Arcos/s25_sociedade_ratos_sedentos.md) | S25 |
+| **Missions** | [A Sociedade dos Ratos Sedentos](docs/dm/-/adventures/-/S01/s25_sociedade_ratos_sedentos.md) | S25 |
 | **NPCs** | [Lorde Aleister Devraine](docs/npc/-/Free%20City%20of%20Grehawk/lord_aleister_devraine.md) | S25 |
 | **NPCs** | [Profeta Rato](rat_prophet.md) (Novo) | S25 |
 | **NPCs** | [Alzar Vonn](alzar_vonn.md) (Novo) | S25 |

@@ -82,7 +82,7 @@ Com a conclusão da sessão **S11B: Sombras Sobre Erybend**, os seguintes índic
 
 | Categoria | Entidade | Slug (Confirmado com docs\_structure ou Novo) | Sessões (Nova Adição) |
 | :--- | :--- | :--- | :--- |
-| **Missions** | [Sombras Sobre Erybend](docs/dm/-/adventures/-/Arcos/s11b_sombras_sobre_erybend.md) | S11B |
+| **Missions** | [Sombras Sobre Erybend](docs/dm/-/adventures/-/S01/s11b_sombras_sobre_erybend.md) | S11B |
 | **PCs** | [Kai](pc_kai.md) | S11B |
 | **PCs** | [Grix Molah](pc_grix_molah.md) | S11B |
 | **PCs** | [Triss Merril](pc_triss_merril.md) | S11B |

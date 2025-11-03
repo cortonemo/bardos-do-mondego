@@ -76,7 +76,7 @@ Com a conclusão da sessão **S10C: O Baile da Rainha Caecena**, os seguintes í
 
 | Categoria | Entidade | Slug (Confirmado com docs\_structure ou Novo) | Sessões (Nova Adição) |
 | :--- | :--- | :--- | :--- |
-| **Missions** | [O Baile da Rainha Caecena](docs/dm/-/adventures/-/Arcos/s10c_baile_rainha_caecena.md) | S10C |
+| **Missions** | [O Baile da Rainha Caecena](docs/dm/-/adventures/-/S01/s10c_baile_rainha_caecena.md) | S10C |
 | **PCs** | [Kai](pc_kai.md) | S10C |
 | **PCs** | [Dustin Thorne](pc_dustin_thorne.md) | S10C |
 | **PCs** | [Triss Merril](pc_triss_merril.md) | S10C |

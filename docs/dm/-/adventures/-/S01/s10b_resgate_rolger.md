@@ -81,7 +81,7 @@ Com a conclusão da sessão **S06B: O Resgate de Rolger e a Intriga dos Metamorf
 
 | Categoria     | Entidade                                      | Slug (Confirmado com docs\_structure ou Novo) | Sessões (Nova Adição) |
 | :------------ | :-------------------------------------------- | :-------------------------------------------- | :-------------------- |
-| **Missions**  | [O Resgate de Rolger](docs/dm/-/adventures/-/Arcos/s10b_resgate_rolger.md) | S06B                                          |                       |
+| **Missions**  | [O Resgate de Rolger](docs/dm/-/adventures/-/S01/s10b_resgate_rolger.md) | S06B                                          |                       |
 | **PCs**       | [Raylahn](pc_raylahn.md)                      | S06B                                          |                       |
 | **PCs**       | [Conan o Bárbaro](pc_conan_barbaro_ra.md)     | S06B                                          |                       |
 | **PCs**       | [Flynn](pc_flynn.md)                          | S06B                                          |                       |

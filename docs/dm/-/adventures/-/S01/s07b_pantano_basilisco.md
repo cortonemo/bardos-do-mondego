@@ -81,7 +81,7 @@ Com a conclusão da sessão **S07: O Pântano da Companhia e o Basilisco**, os s
 
 | Categoria | Entidade | Slug (Confirmado com docs\_structure ou Novo) | Sessões (Nova Adição) |
 | :--- | :--- | :--- | :--- |
-| **Missions** | [O Pântano da Companhia e o Basilisco](docs/dm/-/adventures/-/Arcos/s07b_pantano_basilisco.md) | S07 |
+| **Missions** | [O Pântano da Companhia e o Basilisco](docs/dm/-/adventures/-/S01/s07b_pantano_basilisco.md) | S07 |
 | **PCs** | [Conan o Bárbaro](pc_conan_barbaro_ra.md) | S07 |
 | **PCs** | [Bok Thunderfist](pc_bok_thunderfist.md) | S07 |
 | **PCs** | [Flynn](pc_flynn.md) | S07 |

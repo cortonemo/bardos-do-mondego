@@ -75,7 +75,7 @@ Com a conclusão da sessão **S30B: O Ídolo de Lady Scale (Parte 2)**, os segui
 
 | Categoria | Entidade | Slug (Confirmado com docs\_structure ou Novo) | Sessões (Nova Adição) |
 | :--- | :--- | :--- | :--- |
-| **Missions** | [O Ídolo de Lady Scale (Parte 2)](docs/dm/-/adventures/-/Arcos/s30b_idolo_lady_scale_p2.md) | S30B |
+| **Missions** | [O Ídolo de Lady Scale (Parte 2)](docs/dm/-/adventures/-/S01/s30b_idolo_lady_scale_p2.md) | S30B |
 | **PCs** | [Eldric Silvanos](pc_eldric_silvanos.md) | S30B |
 | **PCs** | [Silfir](pc_silfir.md) | S30B |
 | **PCs** | [Bok Thunderfist](pc_bok_thunderfist.md) | S30B |

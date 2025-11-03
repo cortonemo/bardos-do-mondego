@@ -74,7 +74,7 @@ Com a conclusão da sessão **S29B: O Ídolo de Lady Scale (Parte 1)**, os segui
 
 | Categoria | Entidade | Slug (Confirmado com docs\_structure ou Novo) | Sessões (Nova Adição) |
 | :--- | :--- | :--- | :--- |
-| **Missions** | [O Ídolo de Lady Scale (Parte 1)](docs/dm/-/adventures/-/Arcos/s29b_idolo_lady_scale_p1.md) | S29B |
+| **Missions** | [O Ídolo de Lady Scale (Parte 1)](docs/dm/-/adventures/-/S01/s29b_idolo_lady_scale_p1.md) | S29B |
 | **PCs** | [Eldric Silvanos](pc_eldric_silvanos.md) | S29B |
 | **PCs** | [Silfir](pc_silfir.md) | S29B |
 | **PCs** | [Bok Thunderfist](pc_bok_thunderfist.md) | S29B |

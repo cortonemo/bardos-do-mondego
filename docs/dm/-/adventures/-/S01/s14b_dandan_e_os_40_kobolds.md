@@ -76,7 +76,7 @@ Com a conclusão da sessão **S14B: Dandan e os 40 Kobolds**, os seguintes índi
 
 | Categoria | Entidade | Slug (Confirmado com docs\_structure ou Novo) | Sessões (Nova Adição) |
 | :--- | :--- | :--- | :--- |
-| **Missions** | [Dandan e os 40 Kobolds](docs/dm/-/adventures/-/Arcos/s14b_dandan_e_os_40_kobolds.md) | S14B |
+| **Missions** | [Dandan e os 40 Kobolds](docs/dm/-/adventures/-/S01/s14b_dandan_e_os_40_kobolds.md) | S14B |
 | **PCs** | [Gauthak Vunakamune](pc_gauthak_vunakamune.md) | S14B |
 | **PCs** | [Frederick Junsi](pc_frederick_junsi.md) | S14B |
 | **NPCs** | [Dandan](dandan_kobold.md) (Novo) | S14B |

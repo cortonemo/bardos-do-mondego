@@ -75,7 +75,7 @@ Com a conclusão da sessão **S28: O Museu das Sombras (Parte 1)**, os seguintes
 
 | Categoria | Entidade | Slug (Confirmado com docs\_structure ou Novo) | Sessões (Nova Adição) |
 | :--- | :--- | :--- | :--- |
-| **Missions** | [O Museu das Sombras (Parte 1)](docs/dm/-/adventures/-/Arcos/s28a_museu_sombras_p1.md) | S28 |
+| **Missions** | [O Museu das Sombras (Parte 1)](docs/dm/-/adventures/-/S01/s28a_museu_sombras_p1.md) | S28 |
 | **PCs** | [Leo](pc_leo.md) (Novo) | S28 |
 | **PCs** | [Zahel](pc_zahel.md) (Novo) | S28 |
 | **PCs** | [Ulma](pc_ulma.md) (Novo) | S28 |

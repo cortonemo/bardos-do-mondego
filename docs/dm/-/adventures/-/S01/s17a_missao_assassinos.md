@@ -76,7 +76,7 @@ Com a conclusão da sessão **S17A: A Missão dos Assassinos**, os seguintes ín
 
 | Categoria | Entidade | Slug (Confirmado com docs\_structure ou Novo) | Sessões (Nova Adição) |
 | :--- | :--- | :--- | :--- |
-| **Missions** | [A Missão dos Assassinos](docs/dm/-/adventures/-/Arcos/s17a_missao_assassinos.md) | S17A |
+| **Missions** | [A Missão dos Assassinos](docs/dm/-/adventures/-/S01/s17a_missao_assassinos.md) | S17A |
 | **PCs** | [Raylahn](pc_raylahn.md) | S17A |
 | **PCs** | [Drayl Bharash](pc_drayl_bharash.md) | S17A |
 | **PCs** | [Kai](pc_kai.md) | S17A |

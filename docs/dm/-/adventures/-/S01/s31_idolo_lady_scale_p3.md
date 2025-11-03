@@ -75,7 +75,7 @@ Com a conclusão da sessão **S31: O Ídolo de Lady Scale (Parte 3)**, os seguin
 
 | Categoria | Entidade | Slug (Confirmado com docs\_structure ou Novo) | Sessões (Nova Adição) |
 | :--- | :--- | :--- | :--- |
-| **Missions** | [O Ídolo de Lady Scale (Parte 3)](docs/dm/-/adventures/-/Arcos/s31_idolo_lady_scale_p3.md) | S31 |
+| **Missions** | [O Ídolo de Lady Scale (Parte 3)](docs/dm/-/adventures/-/S01/s31_idolo_lady_scale_p3.md) | S31 |
 | **PCs** | [Eldric Silvanos](pc_eldric_silvanos.md) | S31 |
 | **PCs** | [Silfir](pc_silfir.md) | S31 |
 | **PCs** | [Bok Thunderfist](pc_bok_thunderfist.md) | S31 |

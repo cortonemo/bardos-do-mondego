@@ -76,7 +76,7 @@ Com a conclusão da sessão **S15A: O Ceptro de Zan e o Culto da Mão**, os segu
 
 | Categoria | Entidade | Slug (Confirmado com docs\_structure ou Novo) | Sessões (Nova Adição) |
 | :--- | :--- | :--- | :--- |
-| **Missions** | [O Ceptro de Zan e o Culto da Mão](docs/dm/-/adventures/-/Arcos/s15a_ceptro_de_zan.md) | S15A |
+| **Missions** | [O Ceptro de Zan e o Culto da Mão](docs/dm/-/adventures/-/S01/s15a_ceptro_de_zan.md) | S15A |
 | **PCs** | [Dustin Thorne](pc_dustin_thorne.md) | S15A |
 | **NPCs** | [Zan](zan.md) (Novo) | S15A |
 | **NPCs** | [Kas](kas.md) (Novo) | S15A |

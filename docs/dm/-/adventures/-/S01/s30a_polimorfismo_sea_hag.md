@@ -74,7 +74,7 @@ Com a conclusão da sessão **S30A: Polimorfismo e Sea Hag**, os seguintes índi
 
 | Categoria | Entidade | Slug (Confirmado com docs\_structure ou Novo) | Sessões (Nova Adição) |
 | :--- | :--- | :--- | :--- |
-| **Missions** | [Polimorfismo e Sea Hag](docs/dm/-/adventures/-/Arcos/s30a_polimorfismo_sea_hag.md) | S30A |
+| **Missions** | [Polimorfismo e Sea Hag](docs/dm/-/adventures/-/S01/s30a_polimorfismo_sea_hag.md) | S30A |
 | **PCs** | [Ketrich Flavifer](pc_ketrich_flavifer.md) | S30A |
 | **NPCs** | [Kas Kardwall](kas.md) | S30A |
 | **Monsters** | [Sea Hag](sea_hag.md) (Novo) | S30A |
