@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/dm/-/adventures/s01.md",
+                "file": "docs/dm/-/pc/links.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "s01"
+              "title": "links"
             }
           }
         ]
@@ -178,6 +178,14 @@
   },
   "active": "a04fd158416016f7",
   "lastOpenFiles": [
+    "docs/dm/-/pc/pc_dustin_thorne.md",
+    "docs/dm/-/pc/pc_drayl_bharash.md",
+    "docs/dm/-/pc/links.md",
+    "docs/dm/-/pc/pc_conan_barbaro_ra.md",
+    "docs/dm/-/pc/pc_bok_thunderfist.md",
+    "docs/dm/-/pc/pc_asinius.md",
+    "docs/dm/-/pc/pc_arkos_vasell.md",
+    "docs/dm/-/adventures/s01.md",
     "docs/adventures/s01.md",
     "docs/adventures/-/S01/s03_ataque_rio_neem.md",
     "docs/adventures/-/S01/s02_miner_difficulties.md",
@@ -185,7 +193,6 @@
     "docs/dm/-/adventures/-/validation.md",
     "docs/dm/-/adventures/-/timeline_season_01.md",
     "docs/dm/-/adventures/-/reconciliacao_wip_vs_previous.md",
-    "docs/dm/-/adventures/s01.md",
     "docs/dm/-/adventures/-/S01/s07b_pantano_basilisco.md",
     "docs/dm/-/adventures/-/S01/s07a_emboscada_erybend.md",
     "docs/dm/-/adventures/-/S01/s06_blank.md",
@@ -197,13 +204,6 @@
     "docs/dm/-/adventures/-/S01/s02_miner_difficulties.md",
     "docs/dm/-/adventures/-/S01/s01_purificacao_riacho.md",
     "docs/dm/-/adventures/-/S01/s30a_polimorfismo_sea_hag.md",
-    "docs/dm/-/adventures/-/S01/s29b_idolo_lady_scale_p1.md",
-    "docs/dm/-/adventures/-/S01/s29a_museu_sombras_p2.md",
-    "docs/dm/-/adventures/-/S01/s28a_museu_sombras_p1.md",
-    "docs/dm/-/adventures/-/S01/s25_sociedade_ratos_sedentos.md",
-    "docs/dm/-/adventures/-/S01/s23a_golpe_dados_rubi_p2.md",
-    "docs/dm/-/adventures/-/S01/s22a_golpe_dados_rubi_p1.md",
-    "docs/dm/-/adventures/-/S01/s18_blank.md",
     "docs/assets/pc/pc_ugus_bugus.png",
     "docs/Adventures/👽 Cosmic Connection Arc",
     "docs/dm/-/adventures/-/S01",
