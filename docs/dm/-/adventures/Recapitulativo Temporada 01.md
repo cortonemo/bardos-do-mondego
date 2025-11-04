@@ -1,51 +1,686 @@
 A seguir, apresento a **reconciliação completa de cada missão documentada** na Temporada 01 (S01 a S31), organizadas cronologicamente com base nos índices de sessão (SXX) e nos respetivos arcos narrativos.
 
-| Sessão   | Nome da Missão (PT) / Slug (PT)                                                      | Objetivo Central Reconciliado                                                                                                                                                                                                                                                       | Arco Principal               |
-| :------- | :----------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------- |
-| **S01**  | **O Riacho Poluído e o Fungo Elemental** / `s01_purificacao_riacho.md`               | Purificar a nascente do riacho que estava infestada por um **fungo alienígena**. O grupo derrotou e matou o druida infetado (Galin Fiduadin) e o fungo revelou-se telepático.                                                                                                       | 🦑 CME                       |
-| **S02**  | **Dificuldades na Mina** / `s02_miner_difficulties_ready.md`                         | Resgatar o prefeito anão **Kristryd Splitanvil** na Mina de Obsidiana. O grupo derrotou um *Hook Horror* e um *Cubo Gelatinoso*, e a mina foi ligada à presença de *Yellow Mold*.                                                                                                   | 🦑 CME                       |
-| **S03**  | **O Ataque de Rio Neem** / `s03_ataque_rio_neem.md`                                  | Missão de escolta de bens preciosos (hidromel/vinho) da Taberna para a enigmática **Blackfair Manor**. O grupo encontrou o mercador Kaldros Veynor sob ataque de goblins e um lobo.                                                                                                 | 🦑 CME                       |
-| **S04A** | **O Culto em Two Fords** / `s04a_culto_two_fords.md`                                 | Investigar uma doença misteriosa causada por contaminação da água na vila de **Two Fords**. O grupo descobriu que o Culto do Mal Elemental (CME) estava a usar um moinho para espalhar esporos fúngicos no Rio Ery.                                                                 | 🦑 CME                       |
-| **S04B** | **O Vale Sombrio e o Culto Alado** / `s04b_vale_sombrio_culto_alado.md`              | Explorar o **Vale do Vento Sombrio**, uma rota de comércio importante, onde o ar estava "doente". Descobriram que o fungo alienígena era telepático e encontraram artefatos e um convite para o Baile em Blackfair Manor.                                                           | 🦑 CME                       |
-| **S05A** | **As Máscaras da Morte** / `s05a_mascaras_da_morte.md`                               | Confronto em Mistwood com a Acólita **Morvanya** (serva de Nerull/Nerzul). O grupo obteve a carta de Morvanya, revelando os planos do CME para Blackfair Manor e a ameaça a Borogrove.                                                                                              | 🦑 CME                       |
-| **S05B** | **O Campo Goblin de Nerull** / `s05b_campo_goblin_nerull.md`                         | Resgate de viajantes sequestrados num **Acampamento Goblin** para rituais dedicados a Nerull. O grupo recuperou um **Pergaminho de Feitiço de *Alarm*** e um **Manto de Tenente Cultista**.                                                                                         | 🦑 CME                       |
-| **S06**  | **Registo Cronológico (Placeholder)** / `s06_blank.md`                               | Marcador de posição cronológico. Presumivelmente *downtime*, treino ou missão menor não registada.                                                                                                                                                                                  | N/A (Placeholder)            |
-| **S07A** | **Emboscada a Caminho de Erybend** / `s07a_emboscada_erybend.md`                     | Missão de **reconhecimento comercial** para Erybend para estabelecer novas rotas, a pedido de Kythria. O grupo enfrentou Kobolds do culto (liderados por Torzac, que revelou lealdade a Nerzul antes de se suicidar).                                                               | 🦑 CME                       |
-| **S07B** | **O Pântano da Companhia e o Basilisco** / `s07b_pantano_basilisco.md`               | Estabelecer uma rota comercial segura pelo **Pântano de Mistmarsh**. O grupo lutou contra o Basilisco Progenitor e encontrou a primeira das três **Pedras Mágicas** Illithid.                                                                                                       | 👽 Conexão Cósmica           |
-| **S08A** | **Intriga de Odrak em Erybend** / `s08a_intriga_odrak_erybend.md`                    | Investigar raptos em Erybend, resultando numa emboscada por **cultistas encapuzados** na Taberna Machado Quebrado. Encontraram uma **lista de 7 alvos** de rapto do culto, sendo Dolrea Vas o próximo.                                                                              | 🦑 CME                       |
-| **S08B** | **O Templo do Basilisco e a Abdução Alienígena** / `s08b_templo_basilisco_pedras.md` | Encontrar a **terceira Pedra Mágica** no altar do templo do Basilisco. Ao juntar as três pedras, estas emitiram um feixe de luz que resultou na **abdução alienígena** de um NPC (Thoren, antigo mestre de Hugo Ferreira).                                                          | 👽 Conexão Cósmica           |
-| **S09A** | **Sombras Sobre a Água** / `s09a_sombras_sobre_a_agua.md`                            | Encontro com Darvek (espião anti-culto) alertado sobre a aliança entre o inimigo de Gauthak, **Lorde Vaeltherin Duskbane**, e o CME. O grupo derrotou o cavaleiro cultista Pravi Smjer, que tentava usar a relíquia elemental para abrir um portal para o Plano Elemental da Terra. | 🦑 CME                       |
-| **S09B** | **Intriga nas Ondas de Lo Reltarma** / `s09b_ondas_lo_reltarma.md`                   | Missão de **viagem no tempo** para proteger o mercador **Vrith Boralis** de um assassinato orquestrado por Ithyros, o Renegado Temporal. O fracasso resultaria no apagamento do futuro herói Sarvian.                                                                               | 👽 Conexão Cósmica           |
-| **S10A** | **Intriga em High Ery** / `s10a_intriga_high_ery.md`                                 | Investigar por que os habitantes de High Ery caíam inconscientes semanalmente, desconfiando do hidromel. O grupo descobriu uma conspiração de roubo de queijo controlada por um Mestre dos Ratos (agente do CME/facção Terra) no Teatro.                                            | 🦑 CME                       |
-| **S10B** | **O Resgate de Rolger e a Intriga dos Metamorfos** / `s10b_resgate_rolger.md`        | Encontrar o Hobgoblin desaparecido **Rolger**, que resultou num confronto com Metamorfos (*Half-Dragon* e outros) no Lago dos Diamantes.                                                                                                                                            | 🦑 CME                       |
-| **S10C** | **O Baile da Rainha Caecena** / `s10c_baile_rainha_caecena.md`                       | Participar num Baile de Gala no Feywild. Houve uma tentativa de ataque orquestrada por Lord Coriver (inimigo da Rainha Caecena), envolvendo homens-serpente. Kai recebeu a **Bênção da Rainha**.                                                                                    | 👑 Arco Externo              |
-| **S11A** | **Sombras de Iuz: A Chantagem e a Captura** / `s11a_sombras_de_iuz_parte1_ready.md`  | **Kai** foi chantageado pelo Drow **Raveth Xil-Zyrl** (agente de Iuz) que ameaçou expor o seu segredo como impostor. O confronto culminou na **captura de Dustin Thorne** pelos Paladinos de Beltar.                                                                                | 🛡️ Beltar/Queda do Paladino |
-| **S11B** | **Sombras Sobre Erybend** / `s11b_sombras_sobre_erybend.md`                          | Desmantelar a célula do Culto de Odrak num templo na periferia de Erybend para libertar os raptados e proteger Dolrea Vas.                                                                                                                                                          | 🦑 CME                       |
-| **S12**  | **O Legado de Krixis, o Valente** / `s12_legado_de_krixis.md`                        | Ajudar o Kobold Snikil Pescabrasa a recuperar a **Espada de Krixis**, roubada por criaturas sinistras num templo, para quebrar a maldição sobre o clã Vermisombra.                                                                                                                  | 🦑 CME                       |
-| **S13A** | **Sombras de Iuz: O Resgate de Dustin** / `s13a_resgate_dustin.md`                   | Infiltrar o **Castelo Ruína-de-Ebano** para resgatar Dustin da tortura do Inquisidor **Malik Dorne**. Dorne roubou a memória de Dustin do caminho para a Taberna. O taberneiro mudou a localização da taberna para Greyhawk.                                                        | 🛡️ Beltar/Queda do Paladino |
-| **S13B** | **O Retorno da Nave Illithid** / `s13b_retorno_nave_illithid.md`                     | Confronto a bordo de uma nave Illithid que procurava as Pedras Mágicas. A nave **despenhou-se violentamente em Greyhawk**.                                                                                                                                                          | 👽 Conexão Cósmica           |
-| **S14A** | **Guildas de Greyhawk** / `s14a_guildas_greyhawk.md`                                 | Missão urgente de **reconhecimento e burocracia** em Greyhawk após o ataque Paladino. O grupo obteve licenças e mapeou o submundo (rivalidade entre Guilda de Ladrões e Assassinos).                                                                                                | 🦑 CME                       |
-| **S14B** | **Dandan e os 40 Kobolds** / `s14b_dandan_e_os_40_kobolds.md`                        | Investigar Kobolds em **Bernagrade** que roubaram a Espada de Viltrix. Gauthak confrontou e matou o líder alado **Dandan**. O grupo descobriu um **mapa de renovação** para a ocupação Kobold.                                                                                      | 🦑 CME                       |
-| **S15A** | **O Ceptro de Zan e o Culto da Mão** / `s15a_ceptro_de_zan.md`                       | Investigar o local do *crash* Illithid (S13B) para impedir que o Culto da Mão obtivesse o **Ceptro amaldiçoado de Zan** (artefato cósmico/CME). Dustin foi amaldiçoado pelo Ceptro.                                                                                                 | 👽 Cósmica & 🦑 CME          |
-| **S15B** | **A Criança Perdida e o Gigante** / `s15b_a_crianca_perdida.md`                      | Resgatar a criança desaparecida **Abigail** na Vila de Pessegueiro, a pedido da sua mãe Abril. Os novos PCs **Eldric** e **Silfir** juntaram-se à missão, acordando sem memórias.                                                                                                   | 🦑 CME                       |
-| **S16**  | **Registo Cronológico (Placeholder)** / `s16_blank.md`                               | Marcador de posição cronológico.                                                                                                                                                                                                                                                    | N/A (Placeholder)            |
-| **S17A** | **A Missão dos Assassinos** / `s17a_missao_assassinos.md`                            | Eliminação de uma célula do CME nos esgotos de Greyhawk (incluindo um *Vampire Spawn*). A missão foi disfarçada pela **Guilda dos Assassinos** como a remoção de um alvo de alto valor.                                                                                             | 🦑 CME                       |
-| **S17B** | **A Criança Perdida e o Espectro** / `s17b_a_crianca_perdida.md`                     | Resgate urgente de **Aria Greenbottle** de ruínas. Foi o primeiro contacto jogado com a entidade **"A Voz no Véu"** e a fragmentação (Gema das Cinco Vozes), confirmando a corrupção do CME.                                                                                        | 🦑 CME                       |
-| **S18**  | **Registo Cronológico (Placeholder)** / `s18_blank.md`                               | Marcador de posição cronológico.                                                                                                                                                                                                                                                    | N/A (Placeholder)            |
-| **S19**  | **Registo Cronológico (Placeholder)** / `s19_blank.md`                               | Marcador de posição cronológico.                                                                                                                                                                                                                                                    | N/A (Placeholder)            |
-| **S20**  | **Registo Cronológico (Placeholder)** / `s20_blank.md`                               | Marcador de posição cronológico.                                                                                                                                                                                                                                                    | N/A (Placeholder)            |
-| **S21**  | **Registo Cronológico (Placeholder)** / `s21_blank.md`                               | Marcador de posição cronológico.                                                                                                                                                                                                                                                    | N/A (Placeholder)            |
-| **S22**  | **O Golpe dos Dados Rubi (Parte 1)** / `s22a_golpe_dados_rubi_p1.md`                 | Recrutamento (via pergaminho mágico) para roubar os **Dados Rubi da Fortuna** do cassino "O Quinto Jogo". O grupo passou pelo Teste do Armazém Hexagonal e obteve a colaboração secreta de Lorde Aleister Devraine.                                                                 | 🦑 CME                       |
-| **S23**  | **O Golpe dos Dados Rubi (Parte 2)** / `s23a_golpe_dados_rubi_p2.md`                 | Infiltração e roubo dos **Dados Rubi** (que amplificam a magia elemental/Fogo/Caos) e de um Fragmento Arcano. O grupo superou o *puzzle* de xadrez na Sala do Cavaleiro e extraiu os artefatos.                                                                                     | 🦑 CME                       |
-| **S24**  | **Registo Cronológico (Placeholder)** / `s24_blank.md`                               | Marcador de posição cronológico, pós-golpe.                                                                                                                                                                                                                                         | N/A (Placeholder)            |
-| **S25**  | **A Sociedade dos Ratos Sedentos** / `s25_sociedade_ratos_sedentos.md`               | Investigação de uma **sociedade de ratos inteligentes e mágicos** sob o Caldeirão do Grifo (Lorde Aleister Devraine) que realizava rituais de sangue liderados pelo Vidente Escarlate.                                                                                              | 🦑 CME                       |
-| **S28A** | **O Museu das Sombras (Parte 1)** / `s28a_museu_sombras_p1.md`                       | Infiltração no **Museu das Maravilhas Naturais e Arcanas** após receber bilhetes VIP. O grupo investigou as criaturas aprisionadas e encontrou pistas de que o Curador Darsen estava possuído por um Abyssal.                                                                       | 🦑 CME                       |
-| **S29A** | **O Museu das Sombras (Parte 2)** / `s29a_museu_sombras_p2.md`                       | Desmascarar o Curador **Darsen** e banir a entidade demoníaca **Raelith**. O grupo encontrou a Ranger **Eirwen**, que procurava por aventureiros desaparecidos.                                                                                                                     | 🦑 CME                       |
-| **S29B** | **O Ídolo de Lady Scale (Parte 1)** / `s29b_idolo_lady_scale_p1.md`                  | Investigação da herança de Lady Silvra Malren (o **Spa do Lago do Chão Azul**). O grupo decifrou a carta em Dracónico Arcaico, confirmando a ligação ao culto dracónico de **Lady Scale**.                                                                                          | 🦑 CME (Dracónico)           |
-| **S30A** | **Polimorfismo e Sea Hag** / `s30a_polimorfismo_sea_hag.md`                          | Combate numa taberna quando clientes se transformaram em frutos do mar e monstros marinhos. O grupo derrotou a **Sea Hag**, líder da célula de contaminação e polimorfismo, salvando o Chef Kas Kardwall.                                                                           | 🦑 CME                       |
-| **S30B** | **O Ídolo de Lady Scale (Parte 2)** / `s30b_idolo_lady_scale_p2.md`                  | **Diplomacia** com a tribo Lizardfolk (liderada pela sacerdotisa Essh’ta) para obter passagem segura e avançar para o domínio de Lady Scale. O grupo obteve uma **Cerveja Encantada** que permitia respirar debaixo d'água.                                                         | 🦑 CME (Dracónico)           |
-| **S31**  | **O Ídolo de Lady Scale (Parte 3)** / `s31_idolo_lady_scale_p3.md`                   | Invasão e destruição do **Ídolo Negro** (catalisador do poder de Lady Scale) no templo. Lady Scale manifestou-se e atacou os seus próprios seguidores (Kobolds). O grupo recuperou as **Esmeraldas de Lady Scale**.                                                                 | 🦑 CME (Dracónico)           |
+| Sessão | Nome da Missão (PT) / Slug (PT)                                                                           | Objetivo Central Reconciliado | Arco Principal |
+| :--- | :--- | :--- | :--- |
+| **S01** | **O Riacho Poluído e o Fungo Elemental** / `s01_purificacao_riacho.md`                                    | Purificar a nascente do riacho que estava infestada por um **fungo alienígena**. O grupo derrotou e matou o druida infetado (Galin Fiduadin) e o fungo revelou-se telepático. | 🦑 CME |
+| **S02** | **Dificuldades na Mina** / `s02_miner_difficulties_ready.md`                                              | Resgatar o prefeito anão **Kristryd Splitanvil** na [Mina de Obsidiana](mina_de_obsidiana.md). O grupo derrotou um [Hook Horror](https://www.dndbeyond.com/monsters/hook-horror) e um [Cubo Gelatinoso](https://www.dndbeyond.com/monsters/gelatinous-cube), e a mina foi ligada à presença de *Yellow Mold*. | 🦑 CME |
+| **S03** | **O Ataque de Rio Neem** / `s03_ataque_rio_neem.md`                                                       | Missão de escolta de bens preciosos (hidromel/vinho) da Taberna para a enigmática **Blackfair Manor**. O grupo encontrou o mercador [Kaldros Veynor](kaldros_veynor.md) sob ataque de goblins e um lobo. | 🦑 CME |
+| **S04A** | **O Culto em Two Fords** / `s04a_culto_two_fords.md.md`                                                   | Investigar uma doença misteriosa causada por contaminação da água na vila de **Two Fords**. O grupo descobriu que o Culto do Mal Elemental (CME) estava a usar um moinho para espalhar esporos fúngicos no Rio Ery. | 🦑 CME |
+| **S04B** | **O Vale Sombrio e o Culto Alado** / `s04b_vale_sombrio_culto_alado.md`                                   | Explorar o **Vale do Vento Sombrio**, uma rota de comércio importante, onde o ar estava "doente". Descobriram que o fungo alienígena era telepático e encontraram artefatos e um convite para o Baile em [Blackfair Manor](blackfair_manor.md). | 🦑 CME |
+| **S05A** | **As Máscaras da Morte** / `s05a_mascaras_da_morte.md`                                                    | Confronto em Mistwood com a Acólita **Morvanya** (serva de [Nerull](nerull.md)). O grupo obteve a carta de Morvanya, revelando os planos do CME para [Blackfair Manor](blackfair_manor.md) e a ameaça a Borogrove. | 🦑 CME |
+| **S05B** | **O Campo Goblin de Nerull** / `s05b_campo_goblin_nerull.md`                                              | Resgate de viajantes sequestrados num **Acampamento Goblin** para rituais dedicados a [Nerull](nerull.md). O grupo recuperou um **Pergaminho de Feitiço de Alarm** e um **Manto de Tenente Cultista**. | 🦑 CME |
+| **S06** | **Registo Cronológico (Placeholder)** / `s06_blank.md`                                                    | Marcador de posição cronológico. Presumivelmente *downtime*, treino ou missão menor não registada. | N/A (Placeholder) |
+| **S07A** | **Emboscada a Caminho de Erybend** / `s07a_emboscada_erybend.md`                                          | Missão de **reconhecimento comercial** para [Erybend](eribend.md) para estabelecer novas rotas, a pedido de [Kythria](kythria.md). O grupo enfrentou Kobolds do culto (liderados por Torzac, que revelou lealdade a Nerzul antes de se suicidar). | 🦑 CME |
+| **S07B** | **O Pântano da Companhia e o Basilisco** / `s07b_pantano_basilisco.md`                                    | Estabelecer uma rota comercial segura pelo **Pântano de Mistmarsh**. O grupo lutou contra o [Basilisco](https://www.dndbeyond.com/monsters/basilisk) Progenitor e encontrou a primeira das três **Pedras Mágicas** Illithid. | 👽 Conexão Cósmica |
+| **S08A** | **Intriga de Odrak em Erybend** / `s08a_intriga_odrak_erybend.md`                                         | Investigar raptos em [Erybend](eribend.md), resultando numa emboscada por **cultistas encapuzados** na [Taberna Machado Quebrado](taberna_machado_quebrado_(eribend).md). Encontraram uma **lista de 7 alvos** de rapto do culto, sendo [Dolrea Vas](dolrea_vas.md) o próximo. | 🦑 CME |
+| **S08B** | **O Templo do Basilisco e a Abdução Alienígena** / `s08b_templo_basilisco_pedras.md`                      | Encontrar a **terceira Pedra Mágica** no altar do templo do Basilisco. Ao juntar as três pedras, estas emitiram um feixe de luz que resultou na **abdução alienígena** de um NPC ([Thoren](thoren.md), antigo mestre de Hugo Ferreira). | 👽 Conexão Cósmica |
+| **S09A** | **Sombras Sobre a Água** / `s09a_sombras_sobre_a_agua.md`                                                 | Encontro com Darvek (espião anti-culto) alertado sobre a aliança entre o inimigo de Gauthak, **Lorde Vaeltherin Duskbane**, e o CME. O grupo derrotou o cavaleiro cultista Pravi Smjer, que tentava usar a relíquia elemental para abrir um portal para o Plano Elemental da Terra. | 🦑 CME |
+| **S09B** | **Intriga nas Ondas de Lo Reltarma** / `s09b_ondas_lo_reltarma.md`                                        | Missão de **viagem no tempo** para proteger o mercador **Vrith Boralis** de um assassinato orquestrado por Ithyros, o Renegado Temporal. O fracasso resultaria no apagamento do futuro herói [Sarvian](pc_sarvian_midlor.md). | 👽 Conexão Cósmica |
+| **S10A** | **Intriga em High Ery** / `s10a_intriga_high_ery.md`                                                      | Investigar por que os habitantes de [High Ery](high_ery.md) caíam inconscientes semanalmente, desconfiando do hidromel. O grupo descobriu uma conspiração de roubo de queijo controlada por um Mestre dos Ratos (agente do CME/facção Terra) no Teatro. | 🦑 CME |
+| **S10B** | **O Resgate de Rolger e a Intriga dos Metamorfos** / `s10b_resgate_rolger.md`                             | Encontrar o Hobgoblin desaparecido **Rolger**, que resultou num confronto com Metamorfos (*[Half-Dragon](https://www.dndbeyond.com/races/half-dragon)* e outros) no Lago dos Diamantes. | 🦑 CME |
+| **S10C** | **O Baile da Rainha Caecena** / `s10c_baile_rainha_caecena.md`                                            | Participar num Baile de Gala no Feywild. Houve uma tentativa de ataque orquestrada por Lord Coriver (inimigo da Rainha Caecena), envolvendo homens-serpente. [Kai](pc_kai.md) recebeu a **Bênção da Rainha**. | 👑 Arco Externo |
+| **S11A** | **Sombras de Iuz: A Chantagem e a Captura** / `s11a_sombras_de_iuz.md`                                    | [Kai](pc_kai.md) foi chantageado pelo Drow **Raveth Xil-Zyrl** (agente de [Iuz](iuz.md)) que ameaçou expor o seu segredo como impostor. O confronto culminou na **captura de [Dustin Thorne](pc_dustin_thorne.md)** pelos [Paladinos de Beltar](order_of_beltar.md). | 🛡️ Beltar/Queda do Paladino |
+| **S11B** | **Sombras Sobre Erybend** / `s11b_sombras_sobre_erybend.md`                                               | Desmantelar a célula do Culto de Odrak num templo na periferia de [Erybend](eribend.md) para libertar os raptados e proteger [Dolrea Vas](dolrea_vas.md). | 🦑 CME |
+| **S12** | **O Legado de Krixis, o Valente** / `s12_legado_de_krixis.md`                                             | Ajudar o Kobold [Snikil Pescabrasa](snikil_pescabrasa.md) a recuperar a **Espada de Krixis**, roubada por criaturas sinistras num templo, para quebrar a maldição sobre o clã Vermisombra. | 🦑 CME |
+| **S13A** | **Sombras de Iuz: O Resgate de Dustin** / `s13a_resgate_dustin.md`                                        | Infiltrar o **[Castelo Ruína-de-Ebano](castelo_ruina_de_ebano.md)** para resgatar [Dustin](pc_dustin_thorne.md) da tortura do Inquisidor **Malik Dorne**. Dorne roubou a memória de [Dustin](pc_dustin_thorne.md) do caminho para a Taberna. O taberneiro mudou a localização da taberna para [Greyhawk](free_city_of_greyhawk.md). | 🛡️ Beltar/Queda do Paladino |
+| **S13B** | **O Retorno da Nave Illithid** / `s13b_retorno_nave_illithid.md`                                          | Confronto a bordo de uma [nave Illithid](nave_illithid.md) que procurava as Pedras Mágicas. A nave **despenhou-se violentamente em [Greyhawk](free_city_of_greyhawk.md)**. | 👽 Conexão Cósmica |
+| **S14A** | **Guildas de Greyhawk** / `s14a_guildas_greyhawk.md`                                                      | Missão urgente de **reconhecimento e burocracia** em [Greyhawk](free_city_of_greyhawk.md) após o ataque Paladino. O grupo obteve licenças e mapeou o submundo (rivalidade entre [Guilda de Ladrões](guild_of_thieves.md) e [Assassinos](assassins_guild.md)). | 🦑 CME |
+| **S14B** | **Dandan e os 40 Kobolds** / `s14b_dandan_e_os_40_kobolds.md`                                             | Investigar Kobolds em **Bernagrade** que roubaram a Espada de Viltrix. [Gauthak](pc_gauthak_vunakamune.md) confrontou e matou o líder alado **[Dandan](dandan.md)**. O grupo descobriu um **mapa de renovação** para a ocupação Kobold. | 🦑 CME |
+| **S15A** | **O Ceptro de Zan e o Culto da Mão** / `s15a_ceptro_de_zan.md`                                            | Investigar o local do *crash* Illithid (S13B) para impedir que o Culto da Mão obtivesse o **Ceptro amaldiçoado de Zan** (artefato cósmico/CME). [Dustin](pc_dustin_thorne.md) foi amaldiçoado pelo Ceptro. | 👽 Cósmica & 🦑 CME |
+| **S15B** | **A Criança Perdida e o Gigante** / `s15b_a_crianca_perdida.md`                                           | Resgatar a criança desaparecida **[Abigail](abigail.md)** na [Vila de Pessegueiro](vila_de_pessegueiro.md), a pedido da sua mãe Abril. Os novos PCs **[Eldric Silvanos](pc_eldric_silvanos.md)** e **[Silfir](pc_silfir.md)** juntaram-se à missão, acordando sem memórias. | 🦑 CME |
+| **S16** | **Registo Cronológico (Placeholder)** / `s16_blank.md`                                                    | Marcador de posição cronológico. | N/A (Placeholder) |
+| **S17A** | **A Missão dos Assassinos** / `s17a_missao_assassinos.md`                                                 | Eliminação de uma célula do CME nos [esgotos de Greyhawk](esgotos_de_greyhawk.md) (incluindo um *[Vampire Spawn](https://www.dndbeyond.com/monsters/vampire-spawn)*). A missão foi disfarçada pela **[Guilda dos Assassinos](assassins_guild.md)** como a remoção de um alvo de alto valor. | 🦑 CME |
+| **S17B** | **A Criança Perdida e o Espectro** / `s17b_a_crianca_perdida.md`                                          | Resgate urgente de **[Aria Greenbottle](aria_greenbottle.md)** de ruínas. Foi o primeiro contacto jogado com a entidade **"A Voz no Véu"** e a fragmentação ([Gema das Cinco Vozes](gema_das_cinco_vozes.md)), confirmando a corrupção do CME. | 🦑 CME |
+| **S18** | **Registo Cronológico (Placeholder)** / `s18_blank.md`                                                    | Marcador de posição cronológico. | N/A (Placeholder) |
+| **S19** | **Registo Cronológico (Placeholder)** / `s19_blank.md`                                                    | Marcador de posição cronológico. | N/A (Placeholder) |
+| **S20** | **Registo Cronológico (Placeholder)** / `s20_blank.md`                                                    | Marcador de posição cronológico. | N/A (Placeholder) |
+| **S21** | **Registo Cronológico (Placeholder)** / `s21_blank.md`                                                    | Marcador de posição cronológico. | N/A (Placeholder) |
+| **S22** | **O Golpe dos Dados Rubi (Parte 1)** / `s22a_golpe_dados_rubi_p1.md`                                      | Recrutamento (via pergaminho mágico) para roubar os **Dados Rubi da Fortuna** do cassino "O Quinto Jogo". O grupo passou pelo Teste do Armazém Hexagonal e obteve a colaboração secreta de **[Lorde Aleister Devraine](lord_aleister_devraine.md)**. | 🦑 CME |
+| **S23** | **O Golpe dos Dados Rubi (Parte 2)** / `s23a_golpe_dados_rubi_p2.md`                                      | Infiltração e roubo dos **Dados Rubi** (que amplificam a magia elemental/Fogo/Caos) e de um Fragmento Arcano. O grupo superou o *puzzle* de xadrez na Sala do Cavaleiro e extraiu os artefatos. | 🦑 CME |
+| **S24** | **Registo Cronológico (Placeholder)** / `s24_blank.md`                                                    | Marcador de posição cronológico, pós-golpe. | N/A (Placeholder) |
+| **S25** | **A Sociedade dos Ratos Sedentos** / `s25_sociedade_ratos_sedentos.md`                                    | Investigação de uma **sociedade de ratos inteligentes e mágicos** sob o Caldeirão do Grifo ([Lorde Aleister Devraine](lord_aleister_devraine.md)) que realizava rituais de sangue liderados pelo Vidente Escarlate. | 🦑 CME |
+| **S28A** | **O Museu das Sombras (Parte 1)** / `s28a_museu_sombras_p1.md`                                            | Infiltração no **[Museu das Maravilhas Naturais e Arcanas](museu_das_maravilhas_naturais_e_arcanas_de_greyhawk.md)** após receber bilhetes VIP. O grupo investigou as criaturas aprisionadas e encontrou pistas de que o Curador **[Darsen](darsen.md)** estava possuído por um Abyssal. | 🦑 CME |
+| **S29A** | **O Museu das Sombras (Parte 2)** / `s29a_museu_sombras_p2.md`                                            | Desmascarar o Curador **[Darsen](darsen.md)** e banir a entidade demoníaca **Raelith**. O grupo encontrou a [Ranger Eirwen](pc_eirwen.md), que procurava por aventureiros desaparecidos. | 🦑 CME |
+| **S29B** | **O Ídolo de Lady Scale (Parte 1)** / `s29b_idolo_lady_scale_p1.md`                                       | Investigação da herança de [Lady Silvra Malren](lady_silvra_malren.md) (o **Spa do Lago do Chão Azul**). O grupo decifrou a carta em Dracónico Arcaico, confirmando a ligação ao culto dracónico de **Lady Scale**. | 🦑 CME (Dracónico) |
+| **S30A** | **Polimorfismo e [Sea Hag](https://www.dndbeyond.com/monsters/sea-hag)** / `s30a_polimorfismo_sea_hag.md` | Combate numa taberna quando clientes se transformaram em frutos do mar e monstros marinhos. O grupo derrotou a [Sea Hag](https://www.dndbeyond.com/monsters/sea-hag), líder da célula de contaminação e polimorfismo, salvando o Chef Kas Kardwall. | 🦑 CME |
+| **S30B** | **O Ídolo de Lady Scale (Parte 2)** / `s30b_idolo_lady_scale_p2.md`                                       | **Diplomacia** com a tribo Lizardfolk (liderada pela sacerdotisa Essh’ta) para obter passagem segura e avançar para o domínio de Lady Scale. O grupo obteve uma **Cerveja Encantada** que permitia respirar debaixo d'água. | 🦑 CME (Dracónico) |
+| **S31** | **O Ídolo de Lady Scale (Parte 3)** / `s31_idolo_lady_scale_p3.md`                                        | Invasão e destruição do **Ídolo Negro** (catalisador do poder de Lady Scale) no templo. Lady Scale manifestou-se e atacou os seus próprios seguidores (Kobolds). O grupo recuperou as **Esmeraldas de Lady Scale**. | 🦑 CME (Dracónico) |
 
+---
+
+### 🦑 Arco da Corrupção do Mal Elemental / 🦑 Elemental Evil Corruption Arc
+
+| 🦑 Arco da Corrupção do Mal Elemental | 🦑 Elemental Evil Corruption Arc |
+| :--- | :--- |
+| Foco na disseminação de pragas fúngicas telepáticas, rituais em moinhos e caça a relíquias elementais. O culto tenta manipular a linha temporal e eliminar Vrith Boralis para impedir o surgimento de [Sarvian](pc_sarvian_midlor.md). [Vaelkor Ashbrand](vaelkor_ashbrand.md) e Lorde Vaeltherin Duskbane atuam como antagonistas. Liga-se a [Peculiar Manor](peculiar_manor.md), adaptada ao culto. | Centers on telepathic fungal blights, mill-site rituals, and the hunt for elemental relics. The cult seeks to bend the timeline and kill Vrith Boralis to prevent [Sarvian](pc_sarvian_midlor.md)’s rise. [Vaelkor Ashbrand](vaelkor_ashbrand.md) and Lord Vaeltherin Duskbane are active foes. Ties into [Peculiar Manor](peculiar_manor.md), reworked for the cult. |
+
+---
+
+### 👽 Arco da Conexão Cósmica / 👽 Cosmic Connection Arc
+
+| 👽 Arco da Conexão Cósmica | 👽 Cosmic Connection Arc |
+| :--- | :--- |
+| Mistérios que transcendem [Greyhawk](free_city_of_greyhawk.md) e mexem com mente e realidade. Inclui o [Museu das Maravilhas](museu_das_maravilhas.md) com entidades extradimensionais e o curador semi-possuído por **Yzr’alith**. Aparece um **[Spectator](https://www.dndbeyond.com/monsters/spectator)** no confronto com [Malrik Dorn](malrik_dorn.md), e em _O Eclipse de Vauria_ o grupo recupera um **Prisma Celestial** e enfrenta **Nyx’Zul, O Olho na Escuridão**. | Mysteries beyond [Greyhawk](free_city_of_greyhawk.md) that warp mind and reality. Includes the [Museum of Wonders](museu_das_maravilhas.md) with extradimensional beings and a curator half-claimed by **Yzr’alith**. A **[Spectator](https://www.dndbeyond.com/monsters/spectator)** shows up in the [Malrik Dorn](malrik_dorn.md) fight, and in _The Eclipse of Vauria_ the party recovers a **Celestial Prism** and faces **Nyx’Zul, the Eye in the Dark**. |
+
+---
+
+### 👑 Arco Externo (Feywild/Caecena) / 👑 Feywild/Caecena Arc
+
+| 👑 Arco Externo (Feywild/Caecena) | 👑 Feywild/Caecena Arc |
+| :--- | :--- |
+| Relações com o reino das fadas. O **Baile da Rainha Caecena** culmina no rapto pelo **Lord Coriver** e no resgate, com [Kai](pc_kai.md) a receber a **bênção da Rainha**. [Dustin](pc_dustin_thorne.md) liga-se a [Prysanna](pryssana.md) por contrato inquebrável. Um ritual com o unicórnio de [Titania](titania.md) forja uma espada mágica. | Dealings with the fae realm. The **Queen Caecena’s Ball** leads to abduction by **Lord Coriver** and a rescue, with [Kai](pc_kai.md) earning the **Queen’s blessing**. [Dustin](pc_dustin_thorne.md) is bound to [Prysanna](pryssana.md) by an unbreakable pact. A ritual with [Titania](titania.md)’s unicorn forges a magic blade. |
+
+---
+
+### 🛡️ Arco de Beltar e a Queda do Paladino / 🛡️ Beltar and the Paladin’s Fall Arc
+
+| 🛡️ Arco de Beltar e a Queda do Paladino | 🛡️ Beltar and the Paladin’s Fall Arc |
+| :--- | :--- |
+| [Dustin](pc_dustin_thorne.md) deserta dos [Paladinos de Beltar](order_of_beltar.md) por recusar matar uma família de kobolds. Capturado e torturado no **[Castelo Ruína-de-Ebano](castelo_ruina_de_ebano.md)**, é salvo pela intervenção de [Prysanna](pryssana.md). O arco culmina no confronto com o **Alto Inquisidor [Malrik Dorn](malrik_dorn.md)**. | [Dustin](pc_dustin_thorne.md) deserts [Beltar’s Paladins](order_of_beltar.md) after refusing to kill a kobold family. Captured and tortured in **[Ebon-Ruin Castle](castelo_ruina_de_ebano.md)**, he’s rescued through [Prysanna](pryssana.md)’s intervention. The arc peaks in a showdown with **High Inquisitor [Malrik Dorn](malrik_dorn.md)**. |
+
+---
+
+### 🔪 Arco da Intriga e Submundo de Greyhawk / 🔪 Greyhawk Intrigue and Underworld Arc
+
+| 🔪 Arco da Intriga e Submundo de [Greyhawk](free_city_of_greyhawk.md) | 🔪 Greyhawk Intrigue and Underworld Arc |
+| :--- | :--- |
+| Ascensão do grupo no submundo. Inclui o **Golpe dos Dados Rubi** num cassino, a queda da **Sociedade dos Ratos Sedentos** financiada por terceiros, e potenciais operações contra a [Guilda dos Ladrões](guild_of_thieves.md)/[Assassinos](assassins_guild.md) de **Org Nenshen**. [Raveth Xil’Zyrl](raveth_xil_zyrl.md) chantageia [Kai](pc_kai.md), jogando em várias frentes. | The party’s rise in the underworld. Includes the **Ruby Dice Heist** at a casino, the takedown of the **Thirsting Rats Society** backed by outside money, and possible moves against **Org Nenshen’s** [Thieves](guild_of_thieves.md)/[Assassins Guild](assassins_guild.md). [Raveth Xil’Zyrl](raveth_xil_zyrl.md) blackmails [Kai](pc_kai.md), playing multiple angles. |
+
+---
+
+### 💀 Arco da Morte e Corrupção de Nerull/Wee Jas / 💀 Nerull/Wee Jas Death and Corruption Arc
+
+| 💀 Arco da Morte e Corrupção de [Nerull](nerull.md)/[Wee Jas](wee_jas.md) | 💀 [Nerull](nerull.md)/[Wee Jas](wee_jas.md) Death and Corruption Arc |
+| :--- | :--- |
+| Propagação de praga ao serviço de [Nerull](nerull.md) e fricção com [Wee Jas](wee_jas.md). Em **Mistwood**, a **Acólita Morvanya** transforma a aldeia num laboratório vivo. [Markus](pc_markus_grimm.md) recebe orientação de [Wee Jas](wee_jas.md) para desfazer altares de [Nerull](nerull.md). No Vale do Vento Sombrio, o altar de **Syzzin** exibe energia **fiend** e o símbolo de [Wee Jas](wee_jas.md), sugerindo corrupção interna. | Plague spread in [Nerull](nerull.md)’s name and tension with [Wee Jas](wee_jas.md). In **Mistwood**, **Acolyte Morvanya** turns the village into a living lab. [Markus](pc_markus_grimm.md) is guided by [Wee Jas](wee_jas.md) to unmake [Nerull](nerull.md)’s shrines. In the Vale of the Shadowed Wind, **Syzzin’s** altar shows **fiend** energy and [Wee Jas](wee_jas.md)’s sigil, hinting at internal corruption. |
+
+---
+
+### 🐉 Arco da Deusa Dracónica (Lady Scale) / 🐉 Draconic Goddess Arc (Lady Scale)
+
+| 🐉 Arco da Deusa Dracónica (Lady Scale) | 🐉 Draconic Goddess Arc (Lady Scale) |
+| :--- | :--- |
+| A partir de uma **herança misteriosa**, o grupo descobre o domínio de **Lady Scale** no **Lago do Chão Azul**. Após negociações com a sacerdotisa Essh’ta, o templo é invadido. O clímax é o confronto espiritual com **Lady Scale**, a destruição do **ídolo negro** e a fuga com **esmeraldas**. A deusa recua para o plano espiritual, ainda uma ameaça. | From a **mysterious inheritance**, the party uncovers **Lady Scale’s** sway at the **Blue-Floor Lake**. After tense talks with priestess Essh’ta, they storm the temple. The climax is a spiritual clash with **Lady Scale**, the **black idol**’s destruction, and an escape with **emeralds**. The goddess withdraws to the spirit plane, still a threat. |
+
+Abaixo, apresento os três arcos narrativos adicionais identificados nos seus ficheiros:
+
+***
+
+## 👑 Arco Externo: Intriga do Feywild e a Rainha Caecena (S10C)
+
+Este arco foca-se na política e nos conflitos do reino Fae, proporcionando um respiro da ameaça do CME e estabelecendo alianças cruciais que se estendem ao arco de Beltar.
+
+### Sessão / Nome da Missão (PT) / Slug (PT) / Objetivo Central Reconciliado / Elementos-Chave
+
+| Sessão | Nome da Missão (PT) / Slug (PT) | Objetivo Central Reconciliado | Elementos-Chave |
+| :--- | :--- | :--- | :--- |
+| **S10C** | **O Baile da Rainha Caecena** / `s10c_baile_rainha_caecena.md` | Participar num **Baile de Gala** no Feywild no Castelo da **Rainha Caecena**. A missão social transformou-se numa crise após um **rapto em massa** orquestrado por **Lord Coriver**. | [Kai](pc_kai.md) recebeu a **Bênção da Rainha**. A Paladina Fae, [Pryssana](pryssana.md) (seguidora de [Titania](titania.md), deusa rival de [Beltar](beltar.md)), é introduzida, estabelecendo o palco para o resgate de [Dustin](pc_dustin_thorne.md). |
+
+**Ligação ao CME:** O sucesso deste baile e o encorajamento da Rainha Caecena levam-na a intervir em [Greyhawk](free_city_of_greyhawk.md), o que permite que [Pryssana](pryssana.md) seja enviada para auxiliar no resgate de [Dustin](pc_dustin_thorne.md) (Arco de Beltar).
+
+***
+
+## 🛡️ Arco de Beltar e a Queda do Paladino (S11A, S13A, S15A)
+
+Este arco foca-se no passado de **[Dustin Thorne](pc_dustin_thorne.md)** e na sua Ordem (os **[Paladinos de Beltar](order_of_beltar.md)**), que, apesar de caçarem ameaças como o Culto, se tornam um perigo para o próprio [Dustin](pc_dustin_thorne.md) devido a fanáticos.
+
+### Sessão / Nome da Missão (PT) / Slug (PT) / Objetivo Central Reconciliado / Elementos-Chave
+
+| Sessão | Nome da Missão (PT) / Slug (PT)                                        | Objetivo Central Reconciliado | Elementos-Chave |
+| :------- | :--------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **S11A** | **Sombras de Iuz: A Chantagem e a Captura** / `s11a_sombras_de_iuz.md` | Lidar com a chantagem do Drow **[Raveth Xil-Zyrl](raveth_xil_zyrl.md)** (agente de [Iuz](iuz.md)) a [Kai](pc_kai.md). O confronto culmina na **captura de [Dustin Thorne](pc_dustin_thorne.md)** pelos [Paladinos de Beltar](order_of_beltar.md), que o levam para o **[Castelo Ruína-de-Ebano](castelo_ruina_de_ebano.md)**. | [Raveth](raveth_xil_zyrl.md) queria usar [Kai](pc_kai.md) para influenciar a [Casa Vanthir](house_vanthir.md) em nome de [Iuz](iuz.md). O foco muda de [Kai](pc_kai.md) para o resgate de [Dustin](pc_dustin_thorne.md). |
+| **S13A** | **Sombras de Iuz: O Resgate de Dustin** / `s13a_resgate_dustin.md`     | Infiltrar o **[Castelo Ruína-de-Ebano](castelo_ruina_de_ebano.md)** e resgatar [Dustin](pc_dustin_thorne.md) da tortura do Inquisidor **[Malik Dorne](malrik_dorn.md)**. | [Malik Dorne](malrik_dorn.md) **roubou a memória** de [Dustin](pc_dustin_thorne.md) sobre a localização da Taberna. O ataque forçou o Taberneiro a mudar o *hub* de segurança. A Paladina Fae [Pryssana](pryssana.md) fornece informações internas contra [Beltar](beltar.md). |
+| **S15A** | **O Ceptro de Zan e o Culto da Mão** / `s15a_ceptro_de_zan.md`         | Recuperar o **Ceptro amaldiçoado de Zan** do local do *crash* Illithid. [Dustin](pc_dustin_thorne.md) **é amaldiçoado** pela voz de Zan, que tenta redirecionar a sua fúria para **Kas**, um antigo traidor. | A maldição é um *plot hook* que liga a fúria de [Dustin](pc_dustin_thorne.md) ao conflito de Zan. O roubo da **Mão de Zan** pelo CME liga este deus-guerreiro ao arco da Corrupção. |
+
+**Interligação:** Este arco mostra como as forças do CME usam **fanáticos religiosos** (como [Malik Dorne](malrik_dorn.md)) e **agentes externos** (como [Raveth](raveth_xil_zyrl.md), servo de [Iuz](iuz.md)) para desestabilizar as potências de Lei.
+
+***
+
+## 🌌 Arco da Fragmentação e a Voz no Véu (S17B, S4/S5/S8)
+
+Este arco lida com a ameaça cósmica/aberrante que opera em paralelo ao Culto Elemental, muitas vezes através da manipulação da mente, amnésia, ou manifestação de artefatos que revelam uma realidade superior (a **Fragmentação**).
+
+### Sessão / Nome da Missão (PT) / Slug (PT) / Objetivo Central Reconciliado / Elementos-Chave
+
+| Sessão | Nome da Missão (PT) / Slug (PT) | Objetivo Central Reconciliado | Elementos-Chave |
+| :--- | :--- | :--- | :--- |
+| **S04B/S05A** | **Fungos Telepáticos e Morvanya** / `s04b_vale_sombrio_culto_alado.md` | O fungo alienígena é descoberto como sendo **telepático**, indicando que o CME não é apenas elemental, mas também utiliza tecnologia/vida alienígena. | A silhueta que [Vaunia](pc_vaunia_kolakiala.md) vê no Rubi é **Morvanya** (Manvea), a Acólita de [Nerull](nerull.md). |
+| **S08B/S13B** | **A Abdução Alienígena e o Crash** / `s08_templo_basilisco_pedras.md` & `s13b_retorno_nave_illithid.md` | **Três Pedras Mágicas** Illithid são reunidas, ativando um farol de emergência que leva à **abdução** de [Thoren](thoren.md) por um *starship*. A [nave](nave_illithid.md) mais tarde **despenha-se em [Greyhawk](free_city_of_greyhawk.md)**. | A morte de Varus e a sua ressurreição como **[Zeldris](pc_zeldris.md)**, ligado à tecnologia Illithid, cimenta a interferência alienígena. |
+| **S17B** | **A Criança Perdida e o Espectro** / `s17b_a_crianca_perdida.md` | Resgate de **[Aria Greenbottle](aria_greenbottle.md)** das ruínas. É o **primeiro contacto jogado** com a entidade **"A Voz no Véu"**, que se comunica através de [Aria](aria_greenbottle.md). | O grupo recupera a **[Gema das Cinco Vozes](gema_das_cinco_vozes.md)** (Fragmento Sombrio), confirmando o tema da **Fragmentação**. A Voz no Véu é descrita como bela, mas a chorar. |
+| **S15B** | **[Eldric](pc_eldric_silvanos.md) e [Silfir](pc_silfir.md) Sem Memórias** / `s15b_a_crianca_perdida.md` | Introdução dos novos PCs **[Eldric Silvanos](pc_eldric_silvanos.md)** e **[Silfir](pc_silfir.md)**, que **acordam sem memórias** e são imediatamente recrutados para a missão. | A **amnésia** recorrente pode ser um resultado da tecnologia Illithid ou de um dos feitiços elementais. |
+
+**Metáfora da Campanha:** A campanha parece ser como um teatro de marionetas, onde o **Culto do Mal Elemental (CME)** é a peça principal de terror, mas o **Taberneiro** (que confisca artefatos Illithid) e os **Illithids** (que causam abduções e *crashes* de naves) são os manipuladores invisíveis por trás do palco, usando os PCs como agentes para acumular artefatos fragmentados (Pedras Mágicas, Ceptro de Zan, [Gema das Cinco Vozes](gema_das_cinco_vozes.md)).
+
+Este é um resumo das sessões de jogo registradas nos fontes para cada Player Character (PC), listado em ordem alfabética.
+
+### PC Name / Date of Session (Real) / In Game Game Date / Session No. / File Name of the Session
+
+| PC Name                                               | Date of Session (Real) | In Game Game Date                    | Session No. | File Name of the Session           |
+| :---------------------------------------------------- | :--------------------- | :----------------------------------- | :---------- | :--------------------------------- |
+| **[Arkos Vasell](pc_arkos_vasell.md)**                | 16/01/2025             | 1 de Ready'reat, 998 CY (Semana 03)  | S03         | `s03_ataque_rio_neem.md`           |
+| **[Arkos Vasell](pc_arkos_vasell.md)**                | 23/01/2025             | 8 de Ready'reat, 998 CY (Semana 04)  | S04A        | `s04a_culto_two_fords.md.md`       |
+| **[Bok Thunderfist](pc_bok_thunderfist.md)**          | 13/02/2025             | 1 de Sunsebb, 998 CY (Semana 07)     | S07B        | `s07b_pantano_basilisco.md`        |
+| **[Bok Thunderfist](pc_bok_thunderfist.md)**          | 20/02/2025             | 8 de Sunsebb, 998 CY (Semana 08)     | S08B        | `s08b_templo_basilisco_pedras.md`  |
+| **[Bok Thunderfist](pc_bok_thunderfist.md)**          | 27/03/2025             | 8 de Fireseek, 999 CY (Semana 13)    | S13B        | `s13b_retorno_nave_illithid.md`    |
+| **[Bok Thunderfist](pc_bok_thunderfist.md)**          | 24/04/2025             | 8 de Readying, 999 CY (Semana 17)    | S17B        | `s17b_a_crianca_perdida.md`        |
+| **[Bok Thunderfist](pc_bok_thunderfist.md)**          | 29/05/2025             | 15 de Coldeven, 999 CY (Semana 22)   | S22         | `s22a_golpe_dados_rubi_p1.md`      |
+| **[Bok Thunderfist](pc_bok_thunderfist.md)**          | 05/06/2025             | 22 de Coldeven, 999 CY (Semana 23)   | S23         | `s23a_golpe_dados_rubi_p2.md`      |
+| **[Bok Thunderfist](pc_bok_thunderfist.md)**          | 17/07/2025             | 11 de Growfest, 999 CY (Semana 29)   | S29B        | `s29b_idolo_lady_scale_p1.md`      |
+| **[Bok Thunderfist](pc_bok_thunderfist.md)**          | 24/07/2025             | 18 de Growfest, 999 CY (Semana 30)   | S30B        | `s30b_idolo_lady_scale_p2.md`      |
+| **[Bok Thunderfist](pc_bok_thunderfist.md)**          | 31/07/2025             | 25 de Growfest, 999 CY (Semana 31)   | S31         | `s31_idolo_lady_scale_p3.md`       |
+| **[Conan o Bárbaro](pc_conan_barbaro_ra.md)**         | 02/01/2025             | 15 de Patchwall, 998 CY (Semana 01)  | S01         | `s01_purificacao_riacho.md`        |
+| **[Conan o Bárbaro](pc_conan_barbaro_ra.md)**         | 09/01/2025             | 22 de Patchwall, 998 CY (Semana 02)  | S02         | `s02_miner_difficulties_ready.md`  |
+| **[Conan o Bárbaro](pc_conan_barbaro_ra.md)**         | 23/01/2025             | 8 de Ready'reat, 998 CY (Semana 04)  | S04B        | `s04b_vale_sombrio_culto_alado.md` |
+| **[Conan o Bárbaro](pc_conan_barbaro_ra.md)**         | 13/02/2025             | 1 de Sunsebb, 998 CY (Semana 07)     | S07B        | `s07b_pantano_basilisco.md`        |
+| **[Conan o Bárbaro](pc_conan_barbaro_ra.md)**         | 20/02/2025             | 8 de Sunsebb, 998 CY (Semana 08)     | S08B        | `s08b_templo_basilisco_pedras.md`  |
+| **[Conan o Bárbaro](pc_conan_barbaro_ra.md)**         | 06/03/2025             | 22 de Sunsebb, 998 CY (Semana 10)    | S10B        | `s10b_resgate_rolger.md`           |
+| **[Conan o Bárbaro](pc_conan_barbaro_ra.md)**         | 03/04/2025             | 15 de Fireseek, 999 CY (Semana 14)   | S14A        | `s14a_guildas_greyhawk.md`         |
+| **[Conan o Bárbaro](pc_conan_barbaro_ra.md)**         | 24/04/2025             | 8 de Readying, 999 CY (Semana 17)    | S17A        | `s17a_missao_assassinos.md`        |
+| **[Conan o Bárbaro](pc_conan_barbaro_ra.md)**         | 29/05/2025             | 15 de Coldeven, 999 CY (Semana 22)   | S22         | `s22a_golpe_dados_rubi_p1.md`      |
+| **[Conan o Bárbaro](pc_conan_barbaro_ra.md)**         | 05/06/2025             | 22 de Coldeven, 999 CY (Semana 23)   | S23         | `s23a_golpe_dados_rubi_p2.md`      |
+| **[Drayl Bharash](pc_drayl_bharash.md)**              | 30/01/2025             | 15 de Ready'reat, 998 CY (Semana 05) | S05B        | `s05b_campo_goblin_nerull.md`      |
+| **[Drayl Bharash](pc_drayl_bharash.md)**              | 27/02/2025             | 15 de Sunsebb, 998 CY (Semana 09)    | S09A        | `s09a_sombras_sobre_a_agua.md`     |
+| **[Drayl Bharash](pc_drayl_bharash.md)**              | 06/03/2025             | 22 de Sunsebb, 998 CY (Semana 10)    | S10C        | `s10c_baile_rainha_caecena.md`     |
+| **[Drayl Bharash](pc_drayl_bharash.md)**              | 24/04/2025             | 8 de Readying, 999 CY (Semana 17)    | S17A        | `s17a_missao_assassinos.md`        |
+| **[Drayl Bharash](pc_drayl_bharash.md)**              | 24/04/2025             | 8 de Readying, 999 CY (Semana 17)    | S17B        | `s17b_a_crianca_perdida.md`        |
+| **[Dustin Thorne](pc_dustin_thorne.md)**              | 02/01/2025             | 15 de Patchwall, 998 CY (Semana 01)  | S01         | `s01_purificacao_riacho.md`        |
+| **[Dustin Thorne](pc_dustin_thorne.md)**              | 09/01/2025             | 22 de Patchwall, 998 CY (Semana 02)  | S02         | `s02_miner_difficulties_ready.md`  |
+| **[Dustin Thorne](pc_dustin_thorne.md)**              | 23/01/2025             | 8 de Ready'reat, 998 CY (Semana 04)  | S04B        | `s04b_vale_sombrio_culto_alado.md` |
+| **[Dustin Thorne](pc_dustin_thorne.md)**              | 06/03/2025             | 22 de Sunsebb, 998 CY (Semana 10)    | S10C        | `s10c_baile_rainha_caecena.md`     |
+| **[Dustin Thorne](pc_dustin_thorne.md)**              | 13/03/2025             | 1 de Needfest, 999 CY (Semana 11)    | S11A        | `s11a_sombras_de_iuz.md`           |
+| **[Dustin Thorne](pc_dustin_thorne.md)**              | 20/03/2025             | 1 de Fireseek, 999 CY (Semana 12)    | S12         | `s12_legado_de_krixis.md`          |
+| **[Dustin Thorne](pc_dustin_thorne.md)**              | 27/03/2025             | 8 de Fireseek, 999 CY (Semana 13)    | S13A        | `s13a_resgate_dustin.md`           |
+| **[Dustin Thorne](pc_dustin_thorne.md)**              | 10/04/2025             | 22 de Fireseek, 999 CY (Semana 15)   | S15A        | `s15a_ceptro_de_zan.md`            |
+| **[Eldric Silvanos](pc_eldric_silvanos.md)**          | 10/04/2025             | 22 de Fireseek, 999 CY (Semana 15)   | S15B        | `s15b_a_crianca_perdida.md`        |
+| **[Eldric Silvanos](pc_eldric_silvanos.md)**          | 17/07/2025             | 11 de Growfest, 999 CY (Semana 29)   | S29B        | `s29b_idolo_lady_scale_p1.md`      |
+| **[Eldric Silvanos](pc_eldric_silvanos.md)**          | 24/07/2025             | 18 de Growfest, 999 CY (Semana 30)   | S30B        | `s30b_idolo_lady_scale_p2.md`      |
+| **[Eldric Silvanos](pc_eldric_silvanos.md)**          | 31/07/2025             | 25 de Growfest, 999 CY (Semana 31)   | S31         | `s31_idolo_lady_scale_p3.md`       |
+| **[Eirwen](pc_eirwen.md)**                            | 17/07/2025             | 11 de Growfest, 999 CY (Semana 29)   | S29A        | `s29a_museu_sombras_p2.md`         |
+| **[Endouvan Bom Sossego](pc_endouven_bomsossego.md)** | 16/01/2025             | 1 de Ready'reat, 998 CY (Semana 03)  | S03         | `s03_ataque_rio_neem.md`           |
+| **[Endouvan Bom Sossego](pc_endouven_bomsossego.md)** | 23/01/2025             | 8 de Ready'reat, 998 CY (Semana 04)  | S04A        | `s04a_culto_two_fords.md.md`       |
+| **[Endouvan Bom Sossego](pc_endouven_bomsossego.md)** | 27/03/2025             | 8 de Fireseek, 999 CY (Semana 13)    | S13B        | `s13b_retorno_nave_illithid.md`    |
+| **[Flynn](pc_flynn.md)**                              | 13/02/2025             | 1 de Sunsebb, 998 CY (Semana 07)     | S07B        | `s07b_pantano_basilisco.md`        |
+| **[Flynn](pc_flynn.md)**                              | 20/02/2025             | 8 de Sunsebb, 998 CY (Semana 08)     | S08A        | `s08a_intriga_odrak_erybend.md`    |
+| **[Flynn](pc_flynn.md)**                              | 06/03/2025             | 22 de Sunsebb, 998 CY (Semana 10)    | S10B        | `s10b_resgate_rolger.md`           |
+| **[Flynn](pc_flynn.md)**                              | 13/03/2025             | 1 de Needfest, 999 CY (Semana 11)    | S11B        | `s11b_sombras_sobre_erybend.md`    |
+| **[Frederick Junsi](pc_frederick_junsi.md)**          | 06/03/2025             | 22 de Sunsebb, 998 CY (Semana 10)    | S10A        | `s10a_intriga_high_ery.md`         |
+| **[Frederick Junsi](pc_frederick_junsi.md)**          | 03/04/2025             | 15 de Fireseek, 999 CY (Semana 14)   | S14B        | `s14b_dandan_e_os_40_kobolds.md`   |
+| **[Frederick Junsi](pc_frederick_junsi.md)**          | 10/04/2025             | 22 de Fireseek, 999 CY (Semana 15)   | S15B        | `s15b_a_crianca_perdida.md`        |
+| **[Gauthak Vunakamune](pc_gauthak_vunakamune.md)**    | 16/01/2025             | 1 de Ready'reat, 998 CY (Semana 03)  | S03         | `s03_ataque_rio_neem.md`           |
+| **[Gauthak Vunakamune](pc_gauthak_vunakamune.md)**    | 23/01/2025             | 8 de Ready'reat, 998 CY (Semana 04)  | S04A        | `s04a_culto_two_fords.md.md`       |
+| **[Gauthak Vunakamune](pc_gauthak_vunakamune.md)**    | 27/02/2025             | 15 de Sunsebb, 998 CY (Semana 09)    | S09A        | `s09a_sombras_sobre_a_agua.md`     |
+| **[Gauthak Vunakamune](pc_gauthak_vunakamune.md)**    | 06/03/2025             | 22 de Sunsebb, 998 CY (Semana 10)    | S10A        | `s10a_intriga_high_ery.md`         |
+| **[Gauthak Vunakamune](pc_gauthak_vunakamune.md)**    | 03/04/2025             | 15 de Fireseek, 999 CY (Semana 14)   | S14B        | `s14b_dandan_e_os_40_kobolds.md`   |
+| **[Gauthak Vunakamune](pc_gauthak_vunakamune.md)**    | 10/04/2025             | 22 de Fireseek, 999 CY (Semana 15)   | S15B        | `s15b_a_crianca_perdida.md`        |
+| **[Grix Molah](pc_grix_molah.md)**                    | 02/01/2025             | 15 de Patchwall, 998 CY (Semana 01)  | S01         | `s01_purificacao_riacho.md`        |
+| **[Grix Molah](pc_grix_molah.md)**                    | 09/01/2025             | 22 de Patchwall, 998 CY (Semana 02)  | S02         | `s02_miner_difficulties_ready.md`  |
+| **[Grix Molah](pc_grix_molah.md)**                    | 23/01/2025             | 8 de Ready'reat, 998 CY (Semana 04)  | S04B        | `s04b_vale_sombrio_culto_alado.md` |
+| **[Grix Molah](pc_grix_molah.md)**                    | 13/02/2025             | 1 de Sunsebb, 998 CY (Semana 07)     | S07A        | `s07a_emboscada_erybend.md`        |
+| **[Grix Molah](pc_grix_molah.md)**                    | 20/02/2025             | 8 de Sunsebb, 998 CY (Semana 08)     | S08A        | `s08a_intriga_odrak_erybend.md`    |
+| **[Grix Molah](pc_grix_molah.md)**                    | 06/03/2025             | 22 de Sunsebb, 998 CY (Semana 10)    | S10A        | `s10a_intriga_high_ery.md`         |
+| **[Grix Molah](pc_grix_molah.md)**                    | 13/03/2025             | 1 de Needfest, 999 CY (Semana 11)    | S11B        | `s11b_sombras_sobre_erybend.md`    |
+| **[Kai](pc_kai.md)**                                  | 13/02/2025             | 1 de Sunsebb, 998 CY (Semana 07)     | S07A        | `s07a_emboscada_erybend.md`        |
+| **[Kai](pc_kai.md)**                                  | 20/02/2025             | 8 de Sunsebb, 998 CY (Semana 08)     | S08A        | `s08a_intriga_odrak_erybend.md`    |
+| **[Kai](pc_kai.md)**                                  | 06/03/2025             | 22 de Sunsebb, 998 CY (Semana 10)    | S10C        | `s10c_baile_rainha_caecena.md`     |
+| **[Kai](pc_kai.md)**                                  | 13/03/2025             | 1 de Needfest, 999 CY (Semana 11)    | S11A        | `s11a_sombras_de_iuz.md`           |
+| **[Kai](pc_kai.md)**                                  | 13/03/2025             | 1 de Needfest, 999 CY (Semana 11)    | S11B        | `s11b_sombras_sobre_erybend.md`    |
+| **[Kai](pc_kai.md)**                                  | 20/03/2025             | 1 de Fireseek, 999 CY (Semana 12)    | S12         | `s12_legado_de_krixis.md`          |
+| **[Kai](pc_kai.md)**                                  | 27/03/2025             | 8 de Fireseek, 999 CY (Semana 13)    | S13A        | `s13a_resgate_dustin.md`           |
+| **[Kai](pc_kai.md)**                                  | 24/04/2025             | 8 de Readying, 999 CY (Semana 17)    | S17A        | `s17a_missao_assassinos.md`        |
+| **[Ketrich Flavifer](pc_ketrich_flavifer.md)**        | 17/07/2025             | 11 de Growfest, 999 CY (Semana 29)   | S29A        | `s29a_museu_sombras_p2.md`         |
+| **[Ketrich Flavifer](pc_ketrich_flavifer.md)**        | 24/07/2025             | 18 de Growfest, 999 CY (Semana 30)   | S30A        | `s30a_polimorfismo_sea_hag.md`     |
+| **[Leo](pc_leo.md)**                                  | 10/07/2025             | 4 de Growfest, 999 CY (Semana 28)    | S28A        | `s28a_museu_sombras_p1.md`         |
+| **[Leo](pc_leo.md)**                                  | 17/07/2025             | 11 de Growfest, 999 CY (Semana 29)   | S29A        | `s29a_museu_sombras_p2.md`         |
+| **[Lone Straw](pc_lone_straw.md)**                    | 16/01/2025             | 1 de Ready'reat, 998 CY (Semana 03)  | S03         | `s03_ataque_rio_neem.md`           |
+| **[Lone Straw](pc_lone_straw.md)**                    | 23/01/2025             | 8 de Ready'reat, 998 CY (Semana 04)  | S04A        | `s04a_culto_two_fords.md.md`       |
+| **[Lone Straw](pc_lone_straw.md)**                    | 30/01/2025             | 15 de Ready'reat, 998 CY (Semana 05) | S05B        | `s05b_campo_goblin_nerull.md`      |
+| **[Markus Grimm](pc_markus_grimm.md)**                | 02/01/2025             | 15 de Patchwall, 998 CY (Semana 01)  | S01         | `s01_purificacao_riacho.md`        |
+| **[Markus Grimm](pc_markus_grimm.md)**                | 09/01/2025             | 22 de Patchwall, 998 CY (Semana 02)  | S02         | `s02_miner_difficulties_ready.md`  |
+| **[Markus Grimm](pc_markus_grimm.md)**                | 23/01/2025             | 8 de Ready'reat, 998 CY (Semana 04)  | S04B        | `s04b_vale_sombrio_culto_alado.md` |
+| **[Markus Grimm](pc_markus_grimm.md)**                | 30/01/2025             | 15 de Ready'reat, 998 CY (Semana 05) | S05A        | `s05a_mascaras_da_morte.md`        |
+| **[Markus Grimm](pc_markus_grimm.md)**                | 13/03/2025             | 1 de Needfest, 999 CY (Semana 11)    | S11A        | `s11a_sombras_de_iuz.md`           |
+| **[Markus Grimm](pc_markus_grimm.md)**                | 27/03/2025             | 8 de Fireseek, 999 CY (Semana 13)    | S13A        | `s13a_resgate_dustin.md`           |
+| **[Markus Grimm](pc_markus_grimm.md)**                | 24/04/2025             | 8 de Readying, 999 CY (Semana 17)    | S17A        | `s17a_missao_assassinos.md`        |
+| **[Markus Grimm](pc_markus_grimm.md)**                | 24/04/2025             | 8 de Readying, 999 CY (Semana 17)    | S17B        | `s17b_a_crianca_perdida.md`        |
+| **[Markus Grimm](pc_markus_grimm.md)**                | 29/05/2025             | 15 de Coldeven, 999 CY (Semana 22)   | S22         | `s22a_golpe_dados_rubi_p1.md`      |
+| **[Markus Grimm](pc_markus_grimm.md)**                | 05/06/2025             | 22 de Coldeven, 999 CY (Semana 23)   | S23         | `s23a_golpe_dados_rubi_p2.md`      |
+| **[Orianna](pc_orianna.md)**                          | 16/01/2025             | 1 de Ready'reat, 998 CY (Semana 03)  | S03         | `s03_ataque_rio_neem.md`           |
+| **[Orianna](pc_orianna.md)**                          | 23/01/2025             | 8 de Ready'reat, 998 CY (Semana 04)  | S04A        | `s04a_culto_two_fords.md.md`       |
+| **[Raylahn](pc_raylahn.md)**                          | 06/03/2025             | 22 de Sunsebb, 998 CY (Semana 10)    | S10B        | `s10b_resgate_rolger.md`           |
+| **[Raylahn](pc_raylahn.md)**                          | 13/03/2025             | 1 de Needfest, 999 CY (Semana 11)    | S11A        | `s11a_sombras_de_iuz.md`           |
+| **[Raylahn](pc_raylahn.md)**                          | 20/03/2025             | 1 de Fireseek, 999 CY (Semana 12)    | S12         | `s12_legado_de_krixis.md`          |
+| **[Raylahn](pc_raylahn.md)**                          | 27/03/2025             | 8 de Fireseek, 999 CY (Semana 13)    | S13A        | `s13a_resgate_dustin.md`           |
+| **[Raylahn](pc_raylahn.md)**                          | 24/04/2025             | 8 de Readying, 999 CY (Semana 17)    | S17A        | `s17a_missao_assassinos.md`        |
+| **[Raylahn](pc_raylahn.md)**                          | 24/04/2025             | 8 de Readying, 999 CY (Semana 17)    | S17B        | `s17b_a_crianca_perdida.md`        |
+| **[Sarvian Midlor](pc_sarvian_midlor.md)**            | 30/01/2025             | 15 de Ready'reat, 998 CY (Semana 05) | S05B        | `s05b_campo_goblin_nerull.md`      |
+| **[Sarvian Midlor](pc_sarvian_midlor.md)**            | 27/02/2025             | 15 de Sunsebb, 998 CY (Semana 09)    | S09B        | `s09b_ondas_lo_reltarma.md`        |
+| **[Sarvian Midlor](pc_sarvian_midlor.md)**            | 27/03/2025             | 8 de Fireseek, 999 CY (Semana 13)    | S13B        | `s13b_retorno_nave_illithid.md`    |
+| **[Silfir](pc_silfir.md)**                            | 10/04/2025             | 22 de Fireseek, 999 CY (Semana 15)   | S15B        | `s15b_a_crianca_perdida.md`        |
+| **[Silfir](pc_silfir.md)**                            | 17/07/2025             | 11 de Growfest, 999 CY (Semana 29)   | S29B        | `s29b_idolo_lady_scale_p1.md`      |
+| **[Silfir](pc_silfir.md)**                            | 24/07/2025             | 18 de Growfest, 999 CY (Semana 30)   | S30B        | `s30b_idolo_lady_scale_p2.md`      |
+| **[Silfir](pc_silfir.md)**                            | 31/07/2025             | 25 de Growfest, 999 CY (Semana 31)   | S31         | `s31_idolo_lady_scale_p3.md`       |
+| **[Triss Merril](pc_triss_merril.md)**                | 02/01/2025             | 15 de Patchwall, 998 CY (Semana 01)  | S01         | `s01_purificacao_riacho.md`        |
+| **[Triss Merril](pc_triss_merril.md)**                | 09/01/2025             | 22 de Patchwall, 998 CY (Semana 02)  | S02         | `s02_miner_difficulties_ready.md`  |
+| **[Triss Merril](pc_triss_merril.md)**                | 23/01/2025             | 8 de Ready'reat, 998 CY (Semana 04)  | S04B        | `s04b_vale_sombrio_culto_alado.md` |
+| **[Triss Merril](pc_triss_merril.md)**                | 13/02/2025             | 1 de Sunsebb, 998 CY (Semana 07)     | S07A        | `s07a_emboscada_erybend.md`        |
+| **[Triss Merril](pc_triss_merril.md)**                | 20/02/2025             | 8 de Sunsebb, 998 CY (Semana 08)     | S08A        | `s08a_intriga_odrak_erybend.md`    |
+| **[Triss Merril](pc_triss_merril.md)**                | 06/03/2025             | 22 de Sunsebb, 998 CY (Semana 10)    | S10C        | `s10c_baile_rainha_caecena.md`     |
+| **[Triss Merril](pc_triss_merril.md)**                | 13/03/2025             | 1 de Needfest, 999 CY (Semana 11)    | S11A        | `s11a_sombras_de_iuz.md`           |
+| **[Triss Merril](pc_triss_merril.md)**                | 13/03/2025             | 1 de Needfest, 999 CY (Semana 11)    | S11B        | `s11b_sombras_sobre_erybend.md`    |
+| **[Triss Merril](pc_triss_merril.md)**                | 20/03/2025             | 1 de Fireseek, 999 CY (Semana 12)    | S12         | `s12_legado_de_krixis.md`          |
+| **[Triss Merril](pc_triss_merril.md)**                | 27/03/2025             | 8 de Fireseek, 999 CY (Semana 13)    | S13A        | `s13a_resgate_dustin.md`           |
+| **[Triss Merril](pc_triss_merril.md)**                | 10/04/2025             | 22 de Fireseek, 999 CY (Semana 15)   | S15A        | `s15a_ceptro_de_zan.md`            |
+| **[Ulma](pc_ulma.md)**                                | 10/07/2025             | 4 de Growfest, 999 CY (Semana 28)    | S28A        | `s28a_museu_sombras_p1.md`         |
+| **[Ulma](pc_ulma.md)**                                | 17/07/2025             | 11 de Growfest, 999 CY (Semana 29)   | S29A        | `s29a_museu_sombras_p2.md`         |
+| **[Usopp](pc_usopp.md)**                              | 30/01/2025             | 15 de Ready'reat, 998 CY (Semana 05) | S05B        | `s05b_campo_goblin_nerull.md`      |
+| **[Ustrax](pc_ustrax.md)**                            | 06/03/2025             | 22 de Sunsebb, 998 CY (Semana 10)    | S10A        | `s10a_intriga_high_ery.md`         |
+| **[Ustrax](pc_ustrax.md)**                            | 29/05/2025             | 15 de Coldeven, 999 CY (Semana 22)   | S22         | `s22a_golpe_dados_rubi_p1.md`      |
+| **[Ustrax](pc_ustrax.md)**                            | 05/06/2025             | 22 de Coldeven, 999 CY (Semana 23)   | S23         | `s23a_golpe_dados_rubi_p2.md`      |
+| **[Vaunia Kolakiala](pc_vaunia_kolakiala.md)**        | 02/01/2025             | 15 de Patchwall, 998 CY (Semana 01)  | S01         | `s01_purificacao_riacho.md`        |
+| **[Vaunia Kolakiala](pc_vaunia_kolakiala.md)**        | 23/01/2025             | 8 de Ready'reat, 998 CY (Semana 04)  | S04B        | `s04b_vale_sombrio_culto_alado.md` |
+| **[Vaunia Kolakiala](pc_vaunia_kolakiala.md)**        | 30/01/2025             | 15 de Ready'reat, 998 CY (Semana 05) | S05A        | `s05a_mascaras_da_morte.md`        |
+| **[Vaunia Kolakiala](pc_vaunia_kolakiala.md)**        | 20/02/2025             | 8 de Sunsebb, 998 CY (Semana 08)     | S08B        | `s08b_templo_basilisco_pedras.md`  |
+| **[Vaunia Kolakiala](pc_vaunia_kolakiala.md)**        | 06/03/2025             | 22 de Sunsebb, 998 CY (Semana 10)    | S10A        | `s10a_intriga_high_ery.md`         |
+| **[Valto](pc_valto.md)**                              | 29/05/2025             | 15 de Coldeven, 999 CY (Semana 22)   | S22         | `s22a_golpe_dados_rubi_p1.md`      |
+| **[Valto](pc_valto.md)**                              | 05/06/2025             | 22 de Coldeven, 999 CY (Semana 23)   | S23         | `s23a_golpe_dados_rubi_p2.md`      |
+| **[Varus/Zeldris](pc_zeldris.md)**                    | 13/02/2025             | 1 de Sunsebb, 998 CY (Semana 07)     | S07A        | `s07a_emboscada_erybend.md`        |
+| **[Varus/Zeldris](pc_zeldris.md)**                    | 20/02/2025             | 8 de Sunsebb, 998 CY (Semana 08)     | S08A        | `s08a_intriga_odrak_erybend.md`    |
+| **[Varus/Zeldris](pc_zeldris.md)**                    | 06/03/2025             | 22 de Sunsebb, 998 CY (Semana 10)    | S10B        | `s10b_resgate_rolger.md`           |
+| **[Varus/Zeldris](pc_zeldris.md)**                    | 13/03/2025             | 1 de Needfest, 999 CY (Semana 11)    | S11B        | `s11b_sombras_sobre_erybend.md`    |
+| **[Varus/Zeldris](pc_zeldris.md)**                    | 27/03/2025             | 8 de Fireseek, 999 CY (Semana 13)    | S13B        | `s13b_retorno_nave_illithid.md`    |
+| **[Wagner](pc_wagner.md)**                            | 24/04/2025             | 8 de Readying, 999 CY (Semana 17)    | S17B        | `s17b_a_crianca_perdida.md`        |
+| **[Wandering Sage](pc_wandering_sage.md)**            | 23/01/2025             | 8 de Ready'reat, 998 CY (Semana 04)  | S04A        | `s04a_culto_two_fords.md.md`       |
+| **[Wandering Sage](pc_wandering_sage.md)**            | 30/01/2025             | 15 de Ready'reat, 998 CY (Semana 05) | S05B        | `s05b_campo_goblin_nerull.md`      |
+| **[Wandering Sage](pc_wandering_sage.md)**            | 06/03/2025             | 22 de Sunsebb, 998 CY (Semana 10)    | S10B        | `s10b_resgate_rolger.md`           |
+| **[Wandering Sage](pc_wandering_sage.md)**            | 10/04/2025             | 22 de Fireseek, 999 CY (Semana 15)   | S15B        | `s15b_a_crianca_perdida.md`        |
+| **[Wandering Sage](pc_wandering_sage.md)**            | 29/05/2025             | 15 de Coldeven, 999 CY (Semana 22)   | S22         | `s22a_golpe_dados_rubi_p1.md`      |
+| **[Wandering Sage](pc_wandering_sage.md)**            | 05/06/2025             | 22 de Coldeven, 999 CY (Semana 23)   | S23         | `s23a_golpe_dados_rubi_p2.md`      |
+| **[Wandering Sage](pc_wandering_sage.md)**            | 24/07/2025             | 18 de Growfest, 999 CY (Semana 30)   | S30B        | `s30b_idolo_lady_scale_p2.md`      |
+| **[Zahel](pc_zahel.md)**                              | 10/07/2025             | 4 de Growfest, 999 CY (Semana 28)    | S28A        | `s28a_museu_sombras_p1.md`         |
+| **[Zahel](pc_zahel.md)**                              | 17/07/2025             | 11 de Growfest, 999 CY (Semana 29)   | S29A        | `s29a_museu_sombras_p2.md`         |
+
+---
+### Processing Audit
+
+#### Internal Links
+
+| Source File | Linked Files |
+| :--- | :--- |
+| Recapitulativo Temporada 01.md | mina_de_obsidiana.md, kaldros_veynor.md, blackfair_manor.md, nerull.md, eribend.md, kythria.md, taberna_machado_quebrado_(eribend).md, dolrea_vas.md, thoren.md, pc_sarvian_midlor.md, high_ery.md, pc_kai.md, pc_dustin_thorne.md, order_of_beltar.md, iuz.md, snikil_pescabrasa.md, castelo_ruina_de_ebano.md, free_city_of_greyhawk.md, guild_of_thieves.md, assassins_guild.md, pc_gauthak_vunakamune.md, dandan.md, vila_de_pessegueiro.md, pc_eldric_silvanos.md, pc_silfir.md, esgotos_de_greyhawk.md, aria_greenbottle.md, gema_das_cinco_vozes.md, lord_aleister_devraine.md, museu_das_maravilhas_naturais_e_arcanas_de_greyhawk.md, darsen.md, pc_eirwen.md, lady_silvra_malren.md, pryssana.md, titania.md, beltar.md, raveth_xil_zyrl.md, house_vanthir.md, malrik_dorn.md, pc_vaunia_kolakiala.md, nave_illithid.md, pc_zeldris.md, pc_markus_grimm.md, wee_jas.md, pc_conan_barbaro_ra.md, pc_drayl_bharash.md, pc_endouven_bomsossego.md, pc_flynn.md, pc_frederick_junsi.md, pc_grix_molah.md, pc_ketrich_flavifer.md, pc_leo.md, pc_lone_straw.md, pc_orianna.md, pc_raylahn.md, pc_triss_merril.md, pc_ulma.md, pc_usopp.md, pc_ustrax.md, pc_valto.md, pc_wagner.md, pc_wandering_sage.md, pc_zahel.md, vaelkor_ashbrand.md, peculiar_manor.md, museu_das_maravilhas.md |
+
+#### Warnings
+
+| Type | Where | Detail |
+| :--- | :--- | :--- |
+| DDB Link Ambiguity | Table `Sessão / Nome da Missão (PT) / Slug (PT) / Objetivo Central Reconciliado / Arco Principal` (Row 2) | Ambiguous term: Cubo Gelatinoso. Linked as [Gelatinous Cube](https://www.dndbeyond.com/monsters/gelatinous-cube). |
+| DDB Link Ambiguity | Table `Sessão / Nome da Missão (PT) / Slug (PT) / Objetivo Central Reconciliado / Arco Principal` (Row 8) | Ambiguous term: Basilisco Progenitor. Linked as [Basilisk](https://www.dndbeyond.com/monsters/basilisk). |
+| DDB Link Ambiguity | Table `Sessão / Nome da Missão (PT) / Slug (PT) / Objetivo Central Reconciliado / Arco Principal` (Row 14) | Ambiguous term: Half-Dragon. Linked as [Half-Dragon](https://www.dndbeyond.com/races/half-dragon). |
+| DDB Link Ambiguity | Table `Sessão / Nome da Missão (PT) / Slug (PT) / Objetivo Central Reconciliado / Arco Principal` (Row 24) | Ambiguous term: Vampire Spawn. Linked as [Vampire Spawn](https://www.dndbeyond.com/monsters/vampire-spawn). |
+| DDB Link Ambiguity | Table `Sessão / Nome da Missão (PT) / Slug (PT) / Objetivo Central Reconciliado / Arco Principal` (Row 29) | Ambiguous term: Sea Hag. Linked as [Sea Hag](https://www.dndbeyond.com/monsters/sea-hag). |
+| DDB Link Ambiguity | Table `👽 Arco da Conexão Cósmica / 👽 Cosmic Connection Arc` (Row 1) | Ambiguous term: Spectator. Linked as [Spectator](https://www.dndbeyond.com/monsters/spectator). |
+| Link Resolution | Table `Sessão / Nome da Missão (PT) / Slug (PT) / Objetivo Central Reconciliado / Elementos-Chave` (Row 1) | Unable to find corresponding file for 'beltar.md' based on file name or PC name. |
+
+#### Missing Files
+
+| Type | Where | Detail |
+| :--- | :--- | :--- |
+| PC Name | Table `PC Name / Date of Session (Real) / In Game Game Date / Session No. / File Name of the Session` (Row 67) | Missing file: pc_valto.md |
+| NPC Name | Table `Sessão / Nome da Missão (PT) / Slug (PT) / Objetivo Central Reconciliado / Arco Principal` (Row 1) | Missing file: galin_fiduadin.md |
+| NPC Name | Table `Sessão / Nome da Missão (PT) / Slug (PT) / Objetivo Central Reconciliado / Arco Principal` (Row 7) | Missing file: torzac.md |
+| NPC Name | Table `Sessão / Nome da Missão (PT) / Slug (PT) / Objetivo Central Reconciliado / Arco Principal` (Row 11) | Missing file: darvek.md |
+| NPC Name | Table `Sessão / Nome da Missão (PT) / Slug (PT) / Objetivo Central Reconciliado / Arco Principal` (Row 11) | Missing file: lorde_vaeltherin_duskbane.md |
+| NPC Name | Table `Sessão / Nome da Missão (PT) / Slug (PT) / Objetivo Central Reconciliado / Arco Principal` (Row 11) | Missing file: pravi_smjer.md |
+| NPC Name | Table `Sessão / Nome da Missão (PT) / Slug (PT) / Objetivo Central Reconciliado / Arco Principal` (Row 12) | Missing file: vrith_boralis.md |
+| NPC Name | Table `Sessão / Nome da Missão (PT) / Slug (PT) / Objetivo Central Reconciliado / Arco Principal` (Row 12) | Missing file: ithyros_o_renegado_temporal.md |
+| NPC Name | Table `Sessão / Nome da Missão (PT) / Slug (PT) / Objetivo Central Reconciliado / Arco Principal` (Row 14) | Missing file: rolger.md |
+| NPC Name | Table `Sessão / Nome da Missão (PT) / Slug (PT) / Objetivo Central Reconciliado / Arco Principal` (Row 15) | Missing file: lord_coriver.md |
+| NPC Name | Table `Sessão / Nome da Missão (PT) / Slug (PT) / Objetivo Central Reconciliado / Arco Principal` (Row 21) | Missing file: abigail.md |
+| NPC Name | Table `Sessão / Nome da Missão (PT) / Slug (PT) / Objetivo Central Reconciliado / Arco Principal` (Row 21) | Missing file: abril.md |
+| NPC Name | Table `Sessão / Nome da Missão (PT) / Slug (PT) / Objetivo Central Reconciliado / Arco Principal` (Row 27) | Missing file: kas_kardwall.md |
+| Concept Name | Table `Sessão / Nome da Missão (PT) / Slug (PT) / Objetivo Central Reconciliado / Arco Principal` (Row 19) | Missing file: ceptro_de_zan.md |
+| Concept Name | Table `Sessão / Nome da Missão (PT) / Slug (PT) / Objetivo Central Reconciliado / Arco Principal` (Row 28) | Missing file: lady_scale.md |
+| Concept Name | Table `Sessão / Nome da Missão (PT) / Slug (PT) / Objetivo Central Reconciliado / Arco Principal` (Row 30) | Missing file: esshta.md |
+| Concept Name | Table `Sessão / Nome da Missão (PT) / Slug (PT) / Objetivo Central Reconciliado / Arco Principal` (Row 31) | Missing file: idolo_negro.md |
+| Concept Name | Table `Sessão / Nome da Missão (PT) / Slug (PT) / Objetivo Central Reconciliado / Arco Principal` (Row 31) | Missing file: esmeraldas_de_lady_scale.md |
+| Concept Name | Table `🦑 Arco da Corrupção do Mal Elemental / 🦑 Elemental Evil Corruption Arc` (Row 1) | Missing file: lorde_vaeltherin_duskbane.md |
+| Concept Name | Table `👽 Arco da Conexão Cósmica / 👽 Cosmic Connection Arc` (Row 1) | Missing file: yzralith.md |
+| Concept Name | Table `👽 Arco da Conexão Cósmica / 👽 Cosmic Connection Arc` (Row 1) | Missing file: o_eclipse_de_vauria.md |
+| Concept Name | Table `👽 Arco da Conexão Cósmica / 👽 Cosmic Connection Arc` (Row 1) | Missing file: prisma_celestial.md |
+| Concept Name | Table `👽 Arco da Conexão Cósmica / 👽 Cosmic Connection Arc` (Row 1) | Missing file: nyxzul_o_olho_na_escuridao.md |
+| Concept Name | Table `👑 Arco Externo (Feywild/Caecena) / 👑 Feywild/Caecena Arc` (Row 1) | Missing file: lord_coriver.md |
+| Concept Name | Table `🛡️ Arco de Beltar e a Queda do Paladino / 🛡️ Beltar and the Paladin’s Fall Arc` (Row 1) | Missing file: beltar.md |
+| Concept Name | Table `🔪 Arco da Intriga e Submundo de Greyhawk / 🔪 Greyhawk Intrigue and Underworld Arc` (Row 1) | Missing file: org_nenshen.md |
+| Concept Name | Table `💀 Arco da Morte e Corrupção de Nerull/Wee Jas / 💀 Nerull/Wee Jas Death and Corruption Arc` (Row 1) | Missing file: wee_jas.md |
+| Concept Name | Table `💀 Arco da Morte e Corrupção de Nerull/Wee Jas / 💀 Nerull/Wee Jas Death and Corruption Arc` (Row 1) | Missing file: syzzin.md |
+| Concept Name | Table `🐉 Arco da Deusa Dracónica (Lady Scale) / 🐉 Draconic Goddess Arc (Lady Scale)` (Row 1) | Missing file: lady_scale.md |
+| Concept Name | Table `🐉 Arco da Deusa Dracónica (Lady Scale) / 🐉 Draconic Goddess Arc (Lady Scale)` (Row 1) | Missing file: idolo_negro.md |
+| Concept Name | Table `🐉 Arco da Deusa Dracónica (Lady Scale) / 🐉 Draconic Goddess Arc (Lady Scale)` (Row 1) | Missing file: esshta.md |
+| Concept Name | Table `👑 Arco Externo: Intriga do Feywild e a Rainha Caecena (S10C) / Sessão / Nome da Missão (PT) / Slug (PT) / Objetivo Central Reconciliado / Elementos-Chave` (Row 1) | Missing file: lord_coriver.md |
+| Concept Name | Table `🛡️ Arco de Beltar e a Queda do Paladino (S11A, S13A, S15A) / Sessão / Nome da Missão (PT) / Slug (PT) / Objetivo Central Reconciliado / Elementos-Chave` (Row 3) | Missing file: kas.md |
+| Concept Name | Table `🛡️ Arco de Beltar e a Queda do Paladino (S11A, S13A, S15A) / Sessão / Nome da Missão (PT) / Slug (PT) / Objetivo Central Reconciliado / Elementos-Chave` (Row 3) | Missing file: ceptro_de_zan.md |
+| Concept Name | Table `🌌 Arco da Fragmentação e a Voz no Véu (S17B, S4/S5/S8) / Sessão / Nome da Missão (PT) / Slug (PT) / Objetivo Central Reconciliado / Elementos-Chave` (Row 1) | Missing file: nerull.md |
+| Concept Name | Table `🌌 Arco da Fragmentação e a Voz no Véu (S17B, S4/S5/S8) / Sessão / Nome da Missão (PT) / Slug (PT) / Objetivo Central Reconciliado / Elementos-Chave` (Row 3) | Missing file: aria_greenbottle.md |
+| PC Name | Table `PC Name / Date of Session (Real) / In Game Game Date / Session No. / File Name of the Session` (Row 72) | Missing file: pc_wagner.md |
+
+---
+
+### 🦑 Arco da Corrupção do Mal Elemental / 🦑 Elemental Evil Corruption Arc
+
+| 🦑 Arco da Corrupção do Mal Elemental | 🦑 Elemental Evil Corruption Arc |
+| :--- | :--- |
+| Foco na disseminação de pragas fúngicas telepáticas, rituais em moinhos e caça a relíquias elementais. O culto tenta manipular a linha temporal e eliminar Vrith Boralis para impedir o surgimento de [Sarvian](pc_sarvian_midlor.md). [Vaelkor Ashbrand](vaelkor_ashbrand.md) e Lorde Vaeltherin Duskbane atuam como antagonistas. Liga-se a [Peculiar Manor](peculiar_manor.md), adaptada ao culto. | Centers on telepathic fungal blights, mill-site rituals, and the hunt for elemental relics. The cult seeks to bend the timeline and kill Vrith Boralis to prevent [Sarvian](pc_sarvian_midlor.md)’s rise. [Vaelkor Ashbrand](vaelkor_ashbrand.md) and Lord Vaeltherin Duskbane are active foes. Ties into [Peculiar Manor](peculiar_manor.md), reworked for the cult. |
+
+---
+
+### 👽 Arco da Conexão Cósmica / 👽 Cosmic Connection Arc
+
+| 👽 Arco da Conexão Cósmica | 👽 Cosmic Connection Arc |
+| :--- | :--- |
+| Mistérios que transcendem [Greyhawk](free_city_of_greyhawk.md) e mexem com mente e realidade. Inclui o [Museu das Maravilhas](museu_das_maravilhas.md) com entidades extradimensionais e o curador semi-possuído por **Yzr’alith**. Aparece um **[Spectator](https://www.dndbeyond.com/monsters/spectator)** no confronto com [Malrik Dorn](malrik_dorn.md), e em _O Eclipse de Vauria_ o grupo recupera um **Prisma Celestial** e enfrenta **Nyx’Zul, O Olho na Escuridão**. | Mysteries beyond [Greyhawk](free_city_of_greyhawk.md) that warp mind and reality. Includes the [Museum of Wonders](museu_das_maravilhas.md) with extradimensional beings and a curator half-claimed by **Yzr’alith**. A **[Spectator](https://www.dndbeyond.com/monsters/spectator)** shows up in the [Malrik Dorn](malrik_dorn.md) fight, and in _The Eclipse of Vauria_ the party recovers a **Celestial Prism** and faces **Nyx’Zul, the Eye in the Dark**. |
+
+---
+
+### 👑 Arco Externo (Feywild/Caecena) / 👑 Feywild/Caecena Arc
+
+| 👑 Arco Externo (Feywild/Caecena) | 👑 Feywild/Caecena Arc |
+| :--- | :--- |
+| Relações com o reino das fadas. O **Baile da Rainha Caecena** culmina no rapto pelo **Lord Coriver** e no resgate, com [Kai](pc_kai.md) a receber a **bênção da Rainha**. [Dustin](pc_dustin_thorne.md) liga-se a [Prysanna](pryssana.md) por contrato inquebrável. Um ritual com o unicórnio de [Titania](titania.md) forja uma espada mágica. | Dealings with the fae realm. The **Queen Caecena’s Ball** leads to abduction by **Lord Coriver** and a rescue, with [Kai](pc_kai.md) earning the **Queen’s blessing**. [Dustin](pc_dustin_thorne.md) is bound to [Prysanna](pryssana.md) by an unbreakable pact. A ritual with [Titania](titania.md)’s unicorn forges a magic blade. |
+
+---
+
+### 🛡️ Arco de Beltar e a Queda do Paladino / 🛡️ Beltar and the Paladin’s Fall Arc
+
+| 🛡️ Arco de Beltar e a Queda do Paladino | 🛡️ Beltar and the Paladin’s Fall Arc |
+| :--- | :--- |
+| [Dustin](pc_dustin_thorne.md) deserta dos [Paladinos de Beltar](order_of_beltar.md) por recusar matar uma família de kobolds. Capturado e torturado no **[Castelo Ruína-de-Ebano](castelo_ruina_de_ebano.md)**, é salvo pela intervenção de [Prysanna](pryssana.md). O arco culmina no confronto com o **Alto Inquisidor [Malrik Dorn](malrik_dorn.md)**. | [Dustin](pc_dustin_thorne.md) deserts [Beltar’s Paladins](order_of_beltar.md) after refusing to kill a kobold family. Captured and tortured in **[Ebon-Ruin Castle](castelo_ruina_de_ebano.md)**, he’s rescued through [Prysanna](pryssana.md)’s intervention. The arc peaks in a showdown with **High Inquisitor [Malrik Dorn](malrik_dorn.md)**. |
+
+---
+
+### 🔪 Arco da Intriga e Submundo de Greyhawk / 🔪 Greyhawk Intrigue and Underworld Arc
+
+| 🔪 Arco da Intriga e Submundo de [Greyhawk](free_city_of_greyhawk.md) | 🔪 Greyhawk Intrigue and Underworld Arc |
+| :--- | :--- |
+| Ascensão do grupo no submundo. Inclui o **Golpe dos Dados Rubi** num cassino, a queda da **Sociedade dos Ratos Sedentos** financiada por terceiros, e potenciais operações contra a [Guilda dos Ladrões](guild_of_thieves.md)/[Assassinos](assassins_guild.md) de **Org Nenshen**. [Raveth Xil’Zyrl](raveth_xil_zyrl.md) chantageia [Kai](pc_kai.md), jogando em várias frentes. | The party’s rise in the underworld. Includes the **Ruby Dice Heist** at a casino, the takedown of the **Thirsting Rats Society** backed by outside money, and possible moves against **Org Nenshen’s** [Thieves](guild_of_thieves.md)/[Assassins Guild](assassins_guild.md). [Raveth Xil’Zyrl](raveth_xil_zyrl.md) blackmails [Kai](pc_kai.md), playing multiple angles. |
+
+---
+
+### 💀 Arco da Morte e Corrupção de Nerull/Wee Jas / 💀 Nerull/Wee Jas Death and Corruption Arc
+
+| 💀 Arco da Morte e Corrupção de [Nerull](nerull.md)/[Wee Jas](wee_jas.md) | 💀 [Nerull](nerull.md)/[Wee Jas](wee_jas.md) Death and Corruption Arc |
+| :--- | :--- |
+| Propagação de praga ao serviço de [Nerull](nerull.md) e fricção com [Wee Jas](wee_jas.md). Em **Mistwood**, a **Acólita Morvanya** transforma a aldeia num laboratório vivo. [Markus](pc_markus_grimm.md) recebe orientação de [Wee Jas](wee_jas.md) para desfazer altares de [Nerull](nerull.md). No Vale do Vento Sombrio, o altar de **Syzzin** exibe energia **fiend** e o símbolo de [Wee Jas](wee_jas.md), sugerindo corrupção interna. | Plague spread in [Nerull](nerull.md)’s name and tension with [Wee Jas](wee_jas.md). In **Mistwood**, **Acolyte Morvanya** turns the village into a living lab. [Markus](pc_markus_grimm.md) is guided by [Wee Jas](wee_jas.md) to unmake [Nerull](nerull.md)’s shrines. In the Vale of the Shadowed Wind, **Syzzin’s** altar shows **fiend** energy and [Wee Jas](wee_jas.md)’s sigil, hinting at internal corruption. |
+
+---
+
+### 🐉 Arco da Deusa Dracónica (Lady Scale) / 🐉 Draconic Goddess Arc (Lady Scale)
+
+| 🐉 Arco da Deusa Dracónica (Lady Scale) | 🐉 Draconic Goddess Arc (Lady Scale) |
+| :--- | :--- |
+| A partir de uma **herança misteriosa**, o grupo descobre o domínio de **Lady Scale** no **Lago do Chão Azul**. Após negociações com a sacerdotisa Essh’ta, o templo é invadido. O clímax é o confronto espiritual com **Lady Scale**, a destruição do **ídolo negro** e a fuga com **esmeraldas**. A deusa recua para o plano espiritual, ainda uma ameaça. | From a **mysterious inheritance**, the party uncovers **Lady Scale’s** sway at the **Blue-Floor Lake**. After tense talks with priestess Essh’ta, they storm the temple. The climax is a spiritual clash with **Lady Scale**, the **black idol**’s destruction, and an escape with **emeralds**. The goddess withdraws to the spirit plane, still a threat. |
+
+---
+É excelente que queira uma visão consolidada de **todos os arcos narrativos** da Temporada 01. Embora o Arco da Corrupção do Mal Elemental (CME) e o Arco da Conexão Cósmica sejam os pilares, a análise detalhada das sessões revela a existência de outros arcos significativos que se entrelaçam com a conspiração principal.
+
+Abaixo, apresento os três arcos narrativos adicionais identificados nos seus ficheiros:
+
+***
+
+## 👑 Arco Externo: Intriga do Feywild e a Rainha Caecena (S10C)
+
+Este arco foca-se na política e nos conflitos do reino Fae, proporcionando um respiro da ameaça do CME e estabelecendo alianças cruciais que se estendem ao arco de Beltar.
+
+### Sessão / Nome da Missão (PT) / Slug (PT) / Objetivo Central Reconciliado / Elementos-Chave
+
+| Sessão | Nome da Missão (PT) / Slug (PT) | Objetivo Central Reconciliado | Elementos-Chave |
+| :--- | :--- | :--- | :--- |
+| **S10C** | **O Baile da Rainha Caecena** / `s10c_baile_rainha_caecena.md` | Participar num **Baile de Gala** no Feywild no Castelo da **Rainha Caecena**. A missão social transformou-se numa crise após um **rapto em massa** orquestrado por **Lord Coriver**. | [Kai](pc_kai.md) recebeu a **Bênção da Rainha**. A Paladina Fae, [Pryssana](pryssana.md) (seguidora de [Titania](titania.md), deusa rival de [Beltar](beltar.md)), é introduzida, estabelecendo o palco para o resgate de [Dustin](pc_dustin_thorne.md). |
+
+**Ligação ao CME:** O sucesso deste baile e o encorajamento da Rainha Caecena levam-na a intervir em [Greyhawk](free_city_of_greyhawk.md), o que permite que [Pryssana](pryssana.md) seja enviada para auxiliar no resgate de [Dustin](pc_dustin_thorne.md) (Arco de Beltar).
+
+***
+
+## 🛡️ Arco de Beltar e a Queda do Paladino (S11A, S13A, S15A)
+
+Este arco foca-se no passado de **[Dustin Thorne](pc_dustin_thorne.md)** e na sua Ordem (os **[Paladinos de Beltar](order_of_beltar.md)**), que, apesar de caçarem ameaças como o Culto, se tornam um perigo para o próprio [Dustin](pc_dustin_thorne.md) devido a fanáticos.
+
+### Sessão / Nome da Missão (PT) / Slug (PT) / Objetivo Central Reconciliado / Elementos-Chave
+
+| Sessão | Nome da Missão (PT) / Slug (PT) | Objetivo Central Reconciliado | Elementos-Chave |
+| :--- | :--- | :--- | :--- |
+| **S11A** | **Sombras de Iuz: A Chantagem e a Captura** / `s11a_sombras_de_iuz.md` | Lidar com a chantagem do Drow **[Raveth Xil-Zyrl](raveth_xil_zyrl.md)** (agente de [Iuz](iuz.md)) a [Kai](pc_kai.md). O confronto culmina na **captura de [Dustin Thorne](pc_dustin_thorne.md)** pelos [Paladinos de Beltar](order_of_beltar.md), que o levam para o **[Castelo Ruína-de-Ebano](castelo_ruina_de_ebano.md)**. | [Raveth](raveth_xil_zyrl.md) queria usar [Kai](pc_kai.md) para influenciar a [Casa Vanthir](house_vanthir.md) em nome de [Iuz](iuz.md). O foco muda de [Kai](pc_kai.md) para o resgate de [Dustin](pc_dustin_thorne.md). |
+| **S13A** | **Sombras de Iuz: O Resgate de Dustin** / `s13a_resgate_dustin.md` | Infiltrar o **[Castelo Ruína-de-Ebano](castelo_ruina_de_ebano.md)** e resgatar [Dustin](pc_dustin_thorne.md) da tortura do Inquisidor **[Malik Dorne](malrik_dorn.md)**. | [Malik Dorne](malrik_dorn.md) **roubou a memória** de [Dustin](pc_dustin_thorne.md) sobre a localização da Taberna. O ataque forçou o Taberneiro a mudar o *hub* de segurança. A Paladina Fae [Pryssana](pryssana.md) fornece informações internas contra [Beltar](beltar.md). |
+| **S15A** | **O Ceptro de Zan e o Culto da Mão** / `s15a_ceptro_de_zan.md` | Recuperar o **Ceptro amaldiçoado de Zan** do local do *crash* Illithid. [Dustin](pc_dustin_thorne.md) **é amaldiçoado** pela voz de Zan, que tenta redirecionar a sua fúria para **Kas**, um antigo traidor. | A maldição é um *plot hook* que liga a fúria de [Dustin](pc_dustin_thorne.md) ao conflito de Zan. O roubo da **Mão de Zan** pelo CME liga este deus-guerreiro ao arco da Corrupção. |
+
+**Interligação:** Este arco mostra como as forças do CME usam **fanáticos religiosos** (como [Malik Dorne](malrik_dorn.md)) e **agentes externos** (como [Raveth](raveth_xil_zyrl.md), servo de [Iuz](iuz.md)) para desestabilizar as potências de Lei.
+
+***
+
+## 🌌 Arco da Fragmentação e a Voz no Véu (S17B, S4/S5/S8)
+
+Este arco lida com a ameaça cósmica/aberrante que opera em paralelo ao Culto Elemental, muitas vezes através da manipulação da mente, amnésia, ou manifestação de artefatos que revelam uma realidade superior (a **Fragmentação**).
+
+### Sessão / Nome da Missão (PT) / Slug (PT) / Objetivo Central Reconciliado / Elementos-Chave
+
+| Sessão | Nome da Missão (PT) / Slug (PT) | Objetivo Central Reconciliado | Elementos-Chave |
+| :--- | :--- | :--- | :--- |
+| **S04B/S05A** | **Fungos Telepáticos e Morvanya** / `s04b_vale_sombrio_culto_alado.md` | O fungo alienígena é descoberto como sendo **telepático**, indicando que o CME não é apenas elemental, mas também utiliza tecnologia/vida alienígena. | A silhueta que [Vaunia](pc_vaunia_kolakiala.md) vê no Rubi é **Morvanya** (Manvea), a Acólita de [Nerull](nerull.md). |
+| **S08B/S13B** | **A Abdução Alienígena e o Crash** / `s08_templo_basilisco_pedras.md` & `s13b_retorno_nave_illithid.md` | **Três Pedras Mágicas** Illithid são reunidas, ativando um farol de emergência que leva à **abdução** de [Thoren](thoren.md) por um *starship*. A [nave](nave_illithid.md) mais tarde **despenha-se em [Greyhawk](free_city_of_greyhawk.md)**. | A morte de Varus e a sua ressurreição como **[Zeldris](pc_zeldris.md)**, ligado à tecnologia Illithid, cimenta a interferência alienígena. |
+| **S17B** | **A Criança Perdida e o Espectro** / `s17b_a_crianca_perdida.md` | Resgate de **[Aria Greenbottle](aria_greenbottle.md)** das ruínas. É o **primeiro contacto jogado** com a entidade **"A Voz no Véu"**, que se comunica através de [Aria](aria_greenbottle.md). | O grupo recupera a **[Gema das Cinco Vozes](gema_das_cinco_vozes.md)** (Fragmento Sombrio), confirmando o tema da **Fragmentação**. A Voz no Véu é descrita como bela, mas a chorar. |
+| **S15B** | **[Eldric](pc_eldric_silvanos.md) e [Silfir](pc_silfir.md) Sem Memórias** / `s15b_a_crianca_perdida.md` | Introdução dos novos PCs **[Eldric Silvanos](pc_eldric_silvanos.md)** e **[Silfir](pc_silfir.md)**, que **acordam sem memórias** e são imediatamente recrutados para a missão. | A **amnésia** recorrente pode ser um resultado da tecnologia Illithid ou de um dos feitiços elementais. |
+
+**Metáfora da Campanha:** A campanha parece ser como um teatro de marionetas, onde o **Culto do Mal Elemental (CME)** é a peça principal de terror, mas o **Taberneiro** (que confisca artefatos Illithid) e os **Illithids** (que causam abduções e *crashes* de naves) são os manipuladores invisíveis por trás do palco, usando os PCs como agentes para acumular artefatos fragmentados (Pedras Mágicas, Ceptro de Zan, [Gema das Cinco Vozes](gema_das_cinco_vozes.md)).
+
+Este é um resumo das sessões de jogo registradas nos fontes para cada Player Character (PC), listado em ordem alfabética.
+
+### PC Name / Date of Session (Real) / In Game Game Date / Session No. / File Name of the Session
+
+| PC Name | Date of Session (Real) | In Game Game Date | Session No. | File Name of the Session |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Arkos Vasell](pc_arkos_vasell.md)** | 16/01/2025 | 1 de Ready'reat, 998 CY (Semana 03) | S03 | `s03_ataque_rio_neem.md` |
+| **[Arkos Vasell](pc_arkos_vasell.md)** | 23/01/2025 | 8 de Ready'reat, 998 CY (Semana 04) | S04A | `s04a_culto_two_fords.md.md` |
+| **[Bok Thunderfist](pc_bok_thunderfist.md)** | 13/02/2025 | 1 de Sunsebb, 998 CY (Semana 07) | S07B | `s07b_pantano_basilisco.md` |
+| **[Bok Thunderfist](pc_bok_thunderfist.md)** | 20/02/2025 | 8 de Sunsebb, 998 CY (Semana 08) | S08B | `s08b_templo_basilisco_pedras.md` |
+| **[Bok Thunderfist](pc_bok_thunderfist.md)** | 27/03/2025 | 8 de Fireseek, 999 CY (Semana 13) | S13B | `s13b_retorno_nave_illithid.md` |
+| **[Bok Thunderfist](pc_bok_thunderfist.md)** | 24/04/2025 | 8 de Readying, 999 CY (Semana 17) | S17B | `s17b_a_crianca_perdida.md` |
+| **[Bok Thunderfist](pc_bok_thunderfist.md)** | 29/05/2025 | 15 de Coldeven, 999 CY (Semana 22) | S22 | `s22a_golpe_dados_rubi_p1.md` |
+| **[Bok Thunderfist](pc_bok_thunderfist.md)** | 05/06/2025 | 22 de Coldeven, 999 CY (Semana 23) | S23 | `s23a_golpe_dados_rubi_p2.md` |
+| **[Bok Thunderfist](pc_bok_thunderfist.md)** | 17/07/2025 | 11 de Growfest, 999 CY (Semana 29) | S29B | `s29b_idolo_lady_scale_p1.md` |
+| **[Bok Thunderfist](pc_bok_thunderfist.md)** | 24/07/2025 | 18 de Growfest, 999 CY (Semana 30) | S30B | `s30b_idolo_lady_scale_p2.md` |
+| **[Bok Thunderfist](pc_bok_thunderfist.md)** | 31/07/2025 | 25 de Growfest, 999 CY (Semana 31) | S31 | `s31_idolo_lady_scale_p3.md` |
+| **[Conan o Bárbaro](pc_conan_barbaro_ra.md)** | 02/01/2025 | 15 de Patchwall, 998 CY (Semana 01) | S01 | `s01_purificacao_riacho.md` |
+| **[Conan o Bárbaro](pc_conan_barbaro_ra.md)** | 09/01/2025 | 22 de Patchwall, 998 CY (Semana 02) | S02 | `s02_miner_difficulties_ready.md` |
+| **[Conan o Bárbaro](pc_conan_barbaro_ra.md)** | 23/01/2025 | 8 de Ready'reat, 998 CY (Semana 04) | S04B | `s04b_vale_sombrio_culto_alado.md` |
+| **[Conan o Bárbaro](pc_conan_barbaro_ra.md)** | 13/02/2025 | 1 de Sunsebb, 998 CY (Semana 07) | S07B | `s07b_pantano_basilisco.md` |
+| **[Conan o Bárbaro](pc_conan_barbaro_ra.md)** | 20/02/2025 | 8 de Sunsebb, 998 CY (Semana 08) | S08B | `s08b_templo_basilisco_pedras.md` |
+| **[Conan o Bárbaro](pc_conan_barbaro_ra.md)** | 06/03/2025 | 22 de Sunsebb, 998 CY (Semana 10) | S10B | `s10b_resgate_rolger.md` |
+| **[Conan o Bárbaro](pc_conan_barbaro_ra.md)** | 03/04/2025 | 15 de Fireseek, 999 CY (Semana 14) | S14A | `s14a_guildas_greyhawk.md` |
+| **[Conan o Bárbaro](pc_conan_barbaro_ra.md)** | 24/04/2025 | 8 de Readying, 999 CY (Semana 17) | S17A | `s17a_missao_assassinos.md` |
+| **[Conan o Bárbaro](pc_conan_barbaro_ra.md)** | 29/05/2025 | 15 de Coldeven, 999 CY (Semana 22) | S22 | `s22a_golpe_dados_rubi_p1.md` |
+| **[Conan o Bárbaro](pc_conan_barbaro_ra.md)** | 05/06/2025 | 22 de Coldeven, 999 CY (Semana 23) | S23 | `s23a_golpe_dados_rubi_p2.md` |
+| **[Drayl Bharash](pc_drayl_bharash.md)** | 30/01/2025 | 15 de Ready'reat, 998 CY (Semana 05) | S05B | `s05b_campo_goblin_nerull.md` |
+| **[Drayl Bharash](pc_drayl_bharash.md)** | 27/02/2025 | 15 de Sunsebb, 998 CY (Semana 09) | S09A | `s09a_sombras_sobre_a_agua.md` |
+| **[Drayl Bharash](pc_drayl_bharash.md)** | 06/03/2025 | 22 de Sunsebb, 998 CY (Semana 10) | S10C | `s10c_baile_rainha_caecena.md` |
+| **[Drayl Bharash](pc_drayl_bharash.md)** | 24/04/2025 | 8 de Readying, 999 CY (Semana 17) | S17A | `s17a_missao_assassinos.md` |
+| **[Drayl Bharash](pc_drayl_bharash.md)** | 24/04/2025 | 8 de Readying, 999 CY (Semana 17) | S17B | `s17b_a_crianca_perdida.md` |
+| **[Dustin Thorne](pc_dustin_thorne.md)** | 02/01/2025 | 15 de Patchwall, 998 CY (Semana 01) | S01 | `s01_purificacao_riacho.md` |
+| **[Dustin Thorne](pc_dustin_thorne.md)** | 09/01/2025 | 22 de Patchwall, 998 CY (Semana 02) | S02 | `s02_miner_difficulties_ready.md` |
+| **[Dustin Thorne](pc_dustin_thorne.md)** | 23/01/2025 | 8 de Ready'reat, 998 CY (Semana 04) | S04B | `s04b_vale_sombrio_culto_alado.md` |
+| **[Dustin Thorne](pc_dustin_thorne.md)** | 06/03/2025 | 22 de Sunsebb, 998 CY (Semana 10) | S10C | `s10c_baile_rainha_caecena.md` |
+| **[Dustin Thorne](pc_dustin_thorne.md)** | 13/03/2025 | 1 de Needfest, 999 CY (Semana 11) | S11A | `s11a_sombras_de_iuz.md` |
+| **[Dustin Thorne](pc_dustin_thorne.md)** | 20/03/2025 | 1 de Fireseek, 999 CY (Semana 12) | S12 | `s12_legado_de_krixis.md` |
+| **[Dustin Thorne](pc_dustin_thorne.md)** | 27/03/2025 | 8 de Fireseek, 999 CY (Semana 13) | S13A | `s13a_resgate_dustin.md` |
+| **[Dustin Thorne](pc_dustin_thorne.md)** | 10/04/2025 | 22 de Fireseek, 999 CY (Semana 15) | S15A | `s15a_ceptro_de_zan.md` |
+| **[Eldric Silvanos](pc_eldric_silvanos.md)** | 10/04/2025 | 22 de Fireseek, 999 CY (Semana 15) | S15B | `s15b_a_crianca_perdida.md` |
+| **[Eldric Silvanos](pc_eldric_silvanos.md)** | 17/07/2025 | 11 de Growfest, 999 CY (Semana 29) | S29B | `s29b_idolo_lady_scale_p1.md` |
+| **[Eldric Silvanos](pc_eldric_silvanos.md)** | 24/07/2025 | 18 de Growfest, 999 CY (Semana 30) | S30B | `s30b_idolo_lady_scale_p2.md` |
+| **[Eldric Silvanos](pc_eldric_silvanos.md)** | 31/07/2025 | 25 de Growfest, 999 CY (Semana 31) | S31 | `s31_idolo_lady_scale_p3.md` |
+| **[Eirwen](pc_eirwen.md)** | 17/07/2025 | 11 de Growfest, 999 CY (Semana 29) | S29A | `s29a_museu_sombras_p2.md` |
+| **[Endouvan Bom Sossego](pc_endouven_bomsossego.md)** | 16/01/2025 | 1 de Ready'reat, 998 CY (Semana 03) | S03 | `s03_ataque_rio_neem.md` |
+| **[Endouvan Bom Sossego](pc_endouven_bomsossego.md)** | 23/01/2025 | 8 de Ready'reat, 998 CY (Semana 04) | S04A | `s04a_culto_two_fords.md.md` |
+| **[Endouvan Bom Sossego](pc_endouven_bomsossego.md)** | 27/03/2025 | 8 de Fireseek, 999 CY (Semana 13) | S13B | `s13b_retorno_nave_illithid.md` |
+| **[Flynn](pc_flynn.md)** | 13/02/2025 | 1 de Sunsebb, 998 CY (Semana 07) | S07B | `s07b_pantano_basilisco.md` |
+| **[Flynn](pc_flynn.md)** | 20/02/2025 | 8 de Sunsebb, 998 CY (Semana 08) | S08A | `s08a_intriga_odrak_erybend.md` |
+| **[Flynn](pc_flynn.md)** | 06/03/2025 | 22 de Sunsebb, 998 CY (Semana 10) | S10B | `s10b_resgate_rolger.md` |
+| **[Flynn](pc_flynn.md)** | 13/03/2025 | 1 de Needfest, 999 CY (Semana 11) | S11B | `s11b_sombras_sobre_erybend.md` |
+| **[Frederick Junsi](pc_frederick_junsi.md)** | 06/03/2025 | 22 de Sunsebb, 998 CY (Semana 10) | S10A | `s10a_intriga_high_ery.md` |
+| **[Frederick Junsi](pc_frederick_junsi.md)** | 03/04/2025 | 15 de Fireseek, 999 CY (Semana 14) | S14B | `s14b_dandan_e_os_40_kobolds.md` |
+| **[Frederick Junsi](pc_frederick_junsi.md)** | 10/04/2025 | 22 de Fireseek, 999 CY (Semana 15) | S15B | `s15b_a_crianca_perdida.md` |
+| **[Gauthak Vunakamune](pc_gauthak_vunakamune.md)** | 16/01/2025 | 1 de Ready'reat, 998 CY (Semana 03) | S03 | `s03_ataque_rio_neem.md` |
+| **[Gauthak Vunakamune](pc_gauthak_vunakamune.md)** | 23/01/2025 | 8 de Ready'reat, 998 CY (Semana 04) | S04A | `s04a_culto_two_fords.md.md` |
+| **[Gauthak Vunakamune](pc_gauthak_vunakamune.md)** | 27/02/2025 | 15 de Sunsebb, 998 CY (Semana 09) | S09A | `s09a_sombras_sobre_a_agua.md` |
+| **[Gauthak Vunakamune](pc_gauthak_vunakamune.md)** | 06/03/2025 | 22 de Sunsebb, 998 CY (Semana 10) | S10A | `s10a_intriga_high_ery.md` |
+| **[Gauthak Vunakamune](pc_gauthak_vunakamune.md)** | 03/04/2025 | 15 de Fireseek, 999 CY (Semana 14) | S14B | `s14b_dandan_e_os_40_kobolds.md` |
+| **[Gauthak Vunakamune](pc_gauthak_vunakamune.md)** | 10/04/2025 | 22 de Fireseek, 999 CY (Semana 15) | S15B | `s15b_a_crianca_perdida.md` |
+| **[Grix Molah](pc_grix_molah.md)** | 02/01/2025 | 15 de Patchwall, 998 CY (Semana 01) | S01 | `s01_purificacao_riacho.md` |
+| **[Grix Molah](pc_grix_molah.md)** | 09/01/2025 | 22 de Patchwall, 998 CY (Semana 02) | S02 | `s02_miner_difficulties_ready.md` |
+| **[Grix Molah](pc_grix_molah.md)** | 23/01/2025 | 8 de Ready'reat, 998 CY (Semana 04) | S04B | `s04b_vale_sombrio_culto_alado.md` |
+| **[Grix Molah](pc_grix_molah.md)** | 13/02/2025 | 1 de Sunsebb, 998 CY (Semana 07) | S07A | `s07a_emboscada_erybend.md` |
+| **[Grix Molah](pc_grix_molah.md)** | 20/02/2025 | 8 de Sunsebb, 998 CY (Semana 08) | S08A | `s08a_intriga_odrak_erybend.md` |
+| **[Grix Molah](pc_grix_molah.md)** | 06/03/2025 | 22 de Sunsebb, 998 CY (Semana 10) | S10A | `s10a_intriga_high_ery.md` |
+| **[Grix Molah](pc_grix_molah.md)** | 13/03/2025 | 1 de Needfest, 999 CY (Semana 11) | S11B | `s11b_sombras_sobre_erybend.md` |
+| **[Kai](pc_kai.md)** | 13/02/2025 | 1 de Sunsebb, 998 CY (Semana 07) | S07A | `s07a_emboscada_erybend.md` |
+| **[Kai](pc_kai.md)** | 20/02/2025 | 8 de Sunsebb, 998 CY (Semana 08) | S08A | `s08a_intriga_odrak_erybend.md` |
+| **[Kai](pc_kai.md)** | 06/03/2025 | 22 de Sunsebb, 998 CY (Semana 10) | S10C | `s10c_baile_rainha_caecena.md` |
+| **[Kai](pc_kai.md)** | 13/03/2025 | 1 de Needfest, 999 CY (Semana 11) | S11A | `s11a_sombras_de_iuz.md` |
+| **[Kai](pc_kai.md)** | 13/03/2025 | 1 de Needfest, 999 CY (Semana 11) | S11B | `s11b_sombras_sobre_erybend.md` |
+| **[Kai](pc_kai.md)** | 20/03/2025 | 1 de Fireseek, 999 CY (Semana 12) | S12 | `s12_legado_de_krixis.md` |
+| **[Kai](pc_kai.md)** | 27/03/2025 | 8 de Fireseek, 999 CY (Semana 13) | S13A | `s13a_resgate_dustin.md` |
+| **[Kai](pc_kai.md)** | 24/04/2025 | 8 de Readying, 999 CY (Semana 17) | S17A | `s17a_missao_assassinos.md` |
+| **[Ketrich Flavifer](pc_ketrich_flavifer.md)** | 17/07/2025 | 11 de Growfest, 999 CY (Semana 29) | S29A | `s29a_museu_sombras_p2.md` |
+| **[Ketrich Flavifer](pc_ketrich_flavifer.md)** | 24/07/2025 | 18 de Growfest, 999 CY (Semana 30) | S30A | `s30a_polimorfismo_sea_hag.md` |
+| **[Leo](pc_leo.md)** | 10/07/2025 | 4 de Growfest, 999 CY (Semana 28) | S28A | `s28a_museu_sombras_p1.md` |
+| **[Leo](pc_leo.md)** | 17/07/2025 | 11 de Growfest, 999 CY (Semana 29) | S29A | `s29a_museu_sombras_p2.md` |
+| **[Lone Straw](pc_lone_straw.md)** | 16/01/2025 | 1 de Ready'reat, 998 CY (Semana 03) | S03 | `s03_ataque_rio_neem.md` |
+| **[Lone Straw](pc_lone_straw.md)** | 23/01/2025 | 8 de Ready'reat, 998 CY (Semana 04) | S04A | `s04a_culto_two_fords.md.md` |
+| **[Lone Straw](pc_lone_straw.md)** | 30/01/2025 | 15 de Ready'reat, 998 CY (Semana 05) | S05B | `s05b_campo_goblin_nerull.md` |
+| **[Markus Grimm](pc_markus_grimm.md)** | 02/01/2025 | 15 de Patchwall, 998 CY (Semana 01) | S01 | `s01_purificacao_riacho.md` |
+| **[Markus Grimm](pc_markus_grimm.md)** | 09/01/2025 | 22 de Patchwall, 998 CY (Semana 02) | S02 | `s02_miner_difficulties_ready.md` |
+| **[Markus Grimm](pc_markus_grimm.md)** | 23/01/2025 | 8 de Ready'reat, 998 CY (Semana 04) | S04B | `s04b_vale_sombrio_culto_alado.md` |
+| **[Markus Grimm](pc_markus_grimm.md)** | 30/01/2025 | 15 de Ready'reat, 998 CY (Semana 05) | S05A | `s05a_mascaras_da_morte.md` |
+| **[Markus Grimm](pc_markus_grimm.md)** | 13/03/2025 | 1 de Needfest, 999 CY (Semana 11) | S11A | `s11a_sombras_de_iuz.md` |
+| **[Markus Grimm](pc_markus_grimm.md)** | 27/03/2025 | 8 de Fireseek, 999 CY (Semana 13) | S13A | `s13a_resgate_dustin.md` |
+| **[Markus Grimm](pc_markus_grimm.md)** | 24/04/2025 | 8 de Readying, 999 CY (Semana 17) | S17A | `s17a_missao_assassinos.md` |
+| **[Markus Grimm](pc_markus_grimm.md)** | 24/04/2025 | 8 de Readying, 999 CY (Semana 17) | S17B | `s17b_a_crianca_perdida.md` |
+| **[Markus Grimm](pc_markus_grimm.md)** | 29/05/2025 | 15 de Coldeven, 999 CY (Semana 22) | S22 | `s22a_golpe_dados_rubi_p1.md` |
+| **[Markus Grimm](pc_markus_grimm.md)** | 05/06/2025 | 22 de Coldeven, 999 CY (Semana 23) | S23 | `s23a_golpe_dados_rubi_p2.md` |
+| **[Orianna](pc_orianna.md)** | 16/01/2025 | 1 de Ready'reat, 998 CY (Semana 03) | S03 | `s03_ataque_rio_neem.md` |
+| **[Orianna](pc_orianna.md)** | 23/01/2025 | 8 de Ready'reat, 998 CY (Semana 04) | S04A | `s04a_culto_two_fords.md.md` |
+| **[Raylahn](pc_raylahn.md)** | 06/03/2025 | 22 de Sunsebb, 998 CY (Semana 10) | S10B | `s10b_resgate_rolger.md` |
+| **[Raylahn](pc_raylahn.md)** | 13/03/2025 | 1 de Needfest, 999 CY (Semana 11) | S11A | `s11a_sombras_de_iuz.md` |
+| **[Raylahn](pc_raylahn.md)** | 20/03/2025 | 1 de Fireseek, 999 CY (Semana 12) | S12 | `s12_legado_de_krixis.md` |
+| **[Raylahn](pc_raylahn.md)** | 27/03/2025 | 8 de Fireseek, 999 CY (Semana 13) | S13A | `s13a_resgate_dustin.md` |
+| **[Raylahn](pc_raylahn.md)** | 24/04/2025 | 8 de Readying, 999 CY (Semana 17) | S17A | `s17a_missao_assassinos.md` |
+| **[Raylahn](pc_raylahn.md)** | 24/04/2025 | 8 de Readying, 999 CY (Semana 17) | S17B | `s17b_a_crianca_perdida.md` |
+| **[Sarvian Midlor](pc_sarvian_midlor.md)** | 30/01/2025 | 15 de Ready'reat, 998 CY (Semana 05) | S05B | `s05b_campo_goblin_nerull.md` |
+| **[Sarvian Midlor](pc_sarvian_midlor.md)** | 27/02/2025 | 15 de Sunsebb, 998 CY (Semana 09) | S09B | `s09b_ondas_lo_reltarma.md` |
+| **[Sarvian Midlor](pc_sarvian_midlor.md)** | 27/03/2025 | 8 de Fireseek, 999 CY (Semana 13) | S13B | `s13b_retorno_nave_illithid.md` |
+| **[Silfir](pc_silfir.md)** | 10/04/2025 | 22 de Fireseek, 999 CY (Semana 15) | S15B | `s15b_a_crianca_perdida.md` |
+| **[Silfir](pc_silfir.md)** | 17/07/2025 | 11 de Growfest, 999 CY (Semana 29) | S29B | `s29b_idolo_lady_scale_p1.md` |
+| **[Silfir](pc_silfir.md)** | 24/07/2025 | 18 de Growfest, 999 CY (Semana 30) | S30B | `s30b_idolo_lady_scale_p2.md` |
+| **[Silfir](pc_silfir.md)** | 31/07/2025 | 25 de Growfest, 999 CY (Semana 31) | S31 | `s31_idolo_lady_scale_p3.md` |
+| **[Triss Merril](pc_triss_merril.md)** | 02/01/2025 | 15 de Patchwall, 998 CY (Semana 01) | S01 | `s01_purificacao_riacho.md` |
+| **[Triss Merril](pc_triss_merril.md)** | 09/01/2025 | 22 de Patchwall, 998 CY (Semana 02) | S02 | `s02_miner_difficulties_ready.md` |
+| **[Triss Merril](pc_triss_merril.md)** | 23/01/2025 | 8 de Ready'reat, 998 CY (Semana 04) | S04B | `s04b_vale_sombrio_culto_alado.md` |
+| **[Triss Merril](pc_triss_merril.md)** | 13/02/2025 | 1 de Sunsebb, 998 CY (Semana 07) | S07A | `s07a_emboscada_erybend.md` |
+| **[Triss Merril](pc_triss_merril.md)** | 20/02/2025 | 8 de Sunsebb, 998 CY (Semana 08) | S08A | `s08a_intriga_odrak_erybend.md` |
+| **[Triss Merril](pc_triss_merril.md)** | 06/03/2025 | 22 de Sunsebb, 998 CY (Semana 10) | S10C | `s10c_baile_rainha_caecena.md` |
+| **[Triss Merril](pc_triss_merril.md)** | 13/03/2025 | 1 de Needfest, 999 CY (Semana 11) | S11A | `s11a_sombras_de_iuz.md` |
+| **[Triss Merril](pc_triss_merril.md)** | 13/03/2025 | 1 de Needfest, 999 CY (Semana 11) | S11B | `s11b_sombras_sobre_erybend.md` |
+| **[Triss Merril](pc_triss_merril.md)** | 20/03/2025 | 1 de Fireseek, 999 CY (Semana 12) | S12 | `s12_legado_de_krixis.md` |
+| **[Triss Merril](pc_triss_merril.md)** | 27/03/2025 | 8 de Fireseek, 999 CY (Semana 13) | S13A | `s13a_resgate_dustin.md` |
+| **[Triss Merril](pc_triss_merril.md)** | 10/04/2025 | 22 de Fireseek, 999 CY (Semana 15) | S15A | `s15a_ceptro_de_zan.md` |
+| **[Ulma](pc_ulma.md)** | 10/07/2025 | 4 de Growfest, 999 CY (Semana 28) | S28A | `s28a_museu_sombras_p1.md` |
+| **[Ulma](pc_ulma.md)** | 17/07/2025 | 11 de Growfest, 999 CY (Semana 29) | S29A | `s29a_museu_sombras_p2.md` |
+| **[Usopp](pc_usopp.md)** | 30/01/2025 | 15 de Ready'reat, 998 CY (Semana 05) | S05B | `s05b_campo_goblin_nerull.md` |
+| **[Ustrax](pc_ustrax.md)** | 06/03/2025 | 22 de Sunsebb, 998 CY (Semana 10) | S10A | `s10a_intriga_high_ery.md` |
+| **[Ustrax](pc_ustrax.md)** | 29/05/2025 | 15 de Coldeven, 999 CY (Semana 22) | S22 | `s22a_golpe_dados_rubi_p1.md` |
+| **[Ustrax](pc_ustrax.md)** | 05/06/2025 | 22 de Coldeven, 999 CY (Semana 23) | S23 | `s23a_golpe_dados_rubi_p2.md` |
+| **[Vaunia Kolakiala](pc_vaunia_kolakiala.md)** | 02/01/2025 | 15 de Patchwall, 998 CY (Semana 01) | S01 | `s01_purificacao_riacho.md` |
+| **[Vaunia Kolakiala](pc_vaunia_kolakiala.md)** | 23/01/2025 | 8 de Ready'reat, 998 CY (Semana 04) | S04B | `s04b_vale_sombrio_culto_alado.md` |
+| **[Vaunia Kolakiala](pc_vaunia_kolakiala.md)** | 30/01/2025 | 15 de Ready'reat, 998 CY (Semana 05) | S05A | `s05a_mascaras_da_morte.md` |
+| **[Vaunia Kolakiala](pc_vaunia_kolakiala.md)** | 20/02/2025 | 8 de Sunsebb, 998 CY (Semana 08) | S08B | `s08b_templo_basilisco_pedras.md` |
+| **[Vaunia Kolakiala](pc_vaunia_kolakiala.md)** | 06/03/2025 | 22 de Sunsebb, 998 CY (Semana 10) | S10A | `s10a_intriga_high_ery.md` |
+| **[Valto](pc_valto.md)** | 29/05/2025 | 15 de Coldeven, 999 CY (Semana 22) | S22 | `s22a_golpe_dados_rubi_p1.md` |
+| **[Valto](pc_valto.md)** | 05/06/2025 | 22 de Coldeven, 999 CY (Semana 23) | S23 | `s23a_golpe_dados_rubi_p2.md` |
+| **[Varus/Zeldris](pc_zeldris.md)** | 13/02/2025 | 1 de Sunsebb, 998 CY (Semana 07) | S07A | `s07a_emboscada_erybend.md` |
+| **[Varus/Zeldris](pc_zeldris.md)** | 20/02/2025 | 8 de Sunsebb, 998 CY (Semana 08) | S08A | `s08a_intriga_odrak_erybend.md` |
+| **[Varus/Zeldris](pc_zeldris.md)** | 06/03/2025 | 22 de Sunsebb, 998 CY (Semana 10) | S10B | `s10b_resgate_rolger.md` |
+| **[Varus/Zeldris](pc_zeldris.md)** | 13/03/2025 | 1 de Needfest, 999 CY (Semana 11) | S11B | `s11b_sombras_sobre_erybend.md` |
+| **[Varus/Zeldris](pc_zeldris.md)** | 27/03/2025 | 8 de Fireseek, 999 CY (Semana 13) | S13B | `s13b_retorno_nave_illithid.md` |
+| **[Wagner](pc_wagner.md)** | 24/04/2025 | 8 de Readying, 999 CY (Semana 17) | S17B | `s17b_a_crianca_perdida.md` |
+| **[Wandering Sage](pc_wandering_sage.md)** | 23/01/2025 | 8 de Ready'reat, 998 CY (Semana 04) | S04A | `s04a_culto_two_fords.md.md` |
+| **[Wandering Sage](pc_wandering_sage.md)** | 30/01/2025 | 15 de Ready'reat, 998 CY (Semana 05) | S05B | `s05b_campo_goblin_nerull.md` |
+| **[Wandering Sage](pc_wandering_sage.md)** | 06/03/2025 | 22 de Sunsebb, 998 CY (Semana 10) | S10B | `s10b_resgate_rolger.md` |
+| **[Wandering Sage](pc_wandering_sage.md)** | 10/04/2025 | 22 de Fireseek, 999 CY (Semana 15) | S15B | `s15b_a_crianca_perdida.md` |
+| **[Wandering Sage](pc_wandering_sage.md)** | 29/05/2025 | 15 de Coldeven, 999 CY (Semana 22) | S22 | `s22a_golpe_dados_rubi_p1.md` |
+| **[Wandering Sage](pc_wandering_sage.md)** | 05/06/2025 | 22 de Coldeven, 999 CY (Semana 23) | S23 | `s23a_golpe_dados_rubi_p2.md` |
+| **[Wandering Sage](pc_wandering_sage.md)** | 24/07/2025 | 18 de Growfest, 999 CY (Semana 30) | S30B | `s30b_idolo_lady_scale_p2.md` |
+| **[Zahel](pc_zahel.md)** | 10/07/2025 | 4 de Growfest, 999 CY (Semana 28) | S28A | `s28a_museu_sombras_p1.md` |
+| **[Zahel](pc_zahel.md)** | 17/07/2025 | 11 de Growfest, 999 CY (Semana 29) | S29A | `s29a_museu_sombras_p2.md` |
+
+---
+### Processing Audit
+
+#### Internal Links
+
+| Source File | Linked Files |
+| :--- | :--- |
+| Recapitulativo Temporada 01.md | mina_de_obsidiana.md, kaldros_veynor.md, blackfair_manor.md, nerull.md, eribend.md, kythria.md, taberna_machado_quebrado_(eribend).md, dolrea_vas.md, thoren.md, pc_sarvian_midlor.md, high_ery.md, pc_kai.md, pc_dustin_thorne.md, order_of_beltar.md, iuz.md, snikil_pescabrasa.md, castelo_ruina_de_ebano.md, free_city_of_greyhawk.md, guild_of_thieves.md, assassins_guild.md, pc_gauthak_vunakamune.md, dandan.md, vila_de_pessegueiro.md, pc_eldric_silvanos.md, pc_silfir.md, esgotos_de_greyhawk.md, aria_greenbottle.md, gema_das_cinco_vozes.md, lord_aleister_devraine.md, museu_das_maravilhas_naturais_e_arcanas_de_greyhawk.md, darsen.md, pc_eirwen.md, lady_silvra_malren.md, pryssana.md, titania.md, beltar.md, raveth_xil_zyrl.md, house_vanthir.md, malrik_dorn.md, pc_vaunia_kolakiala.md, nave_illithid.md, pc_zeldris.md, pc_markus_grimm.md, wee_jas.md, pc_conan_barbaro_ra.md, pc_drayl_bharash.md, pc_endouven_bomsossego.md, pc_flynn.md, pc_frederick_junsi.md, pc_grix_molah.md, pc_ketrich_flavifer.md, pc_leo.md, pc_lone_straw.md, pc_orianna.md, pc_raylahn.md, pc_triss_merril.md, pc_ulma.md, pc_usopp.md, pc_ustrax.md, pc_valto.md, pc_wagner.md, pc_wandering_sage.md, pc_zahel.md, vaelkor_ashbrand.md, peculiar_manor.md, museu_das_maravilhas.md |
+
+#### Warnings
+
+| Type | Where | Detail |
+| :--- | :--- | :--- |
+| DDB Link Ambiguity | Table `Sessão / Nome da Missão (PT) / Slug (PT) / Objetivo Central Reconciliado / Arco Principal` (Row 2) | Ambiguous term: Cubo Gelatinoso. Linked as [Gelatinous Cube](https://www.dndbeyond.com/monsters/gelatinous-cube). |
+| DDB Link Ambiguity | Table `Sessão / Nome da Missão (PT) / Slug (PT) / Objetivo Central Reconciliado / Arco Principal` (Row 8) | Ambiguous term: Basilisco Progenitor. Linked as [Basilisk](https://www.dndbeyond.com/monsters/basilisk). |
+| DDB Link Ambiguity | Table `Sessão / Nome da Missão (PT) / Slug (PT) / Objetivo Central Reconciliado / Arco Principal` (Row 14) | Ambiguous term: Half-Dragon. Linked as [Half-Dragon](https://www.dndbeyond.com/races/half-dragon). |
+| DDB Link Ambiguity | Table `Sessão / Nome da Missão (PT) / Slug (PT) / Objetivo Central Reconciliado / Arco Principal` (Row 24) | Ambiguous term: Vampire Spawn. Linked as [Vampire Spawn](https://www.dndbeyond.com/monsters/vampire-spawn). |
+| DDB Link Ambiguity | Table `Sessão / Nome da Missão (PT) / Slug (PT) / Objetivo Central Reconciliado / Arco Principal` (Row 29) | Ambiguous term: Sea Hag. Linked as [Sea Hag](https://www.dndbeyond.com/monsters/sea-hag). |
+| DDB Link Ambiguity | Table `👽 Arco da Conexão Cósmica / 👽 Cosmic Connection Arc` (Row 1) | Ambiguous term: Spectator. Linked as [Spectator](https://www.dndbeyond.com/monsters/spectator). |
+| Link Resolution | Table `Sessão / Nome da Missão (PT) / Slug (PT) / Objetivo Central Reconciliado / Elementos-Chave` (Row 1) | Unable to find corresponding file for 'beltar.md' based on file name or PC name. |
+
+#### Missing Files
+
+| Type | Where | Detail |
+| :--- | :--- | :--- |
+| PC Name | Table `PC Name / Date of Session (Real) / In Game Game Date / Session No. / File Name of the Session` (Row 67) | Missing file: pc_valto.md |
+| NPC Name | Table `Sessão / Nome da Missão (PT) / Slug (PT) / Objetivo Central Reconciliado / Arco Principal` (Row 1) | Missing file: galin_fiduadin.md |
+| NPC Name | Table `Sessão / Nome da Missão (PT) / Slug (PT) / Objetivo Central Reconciliado / Arco Principal` (Row 7) | Missing file: torzac.md |
+| NPC Name | Table `Sessão / Nome da Missão (PT) / Slug (PT) / Objetivo Central Reconciliado / Arco Principal` (Row 11) | Missing file: darvek.md |
+| NPC Name | Table `Sessão / Nome da Missão (PT) / Slug (PT) / Objetivo Central Reconciliado / Arco Principal` (Row 11) | Missing file: lorde_vaeltherin_duskbane.md |
+| NPC Name | Table `Sessão / Nome da Missão (PT) / Slug (PT) / Objetivo Central Reconciliado / Arco Principal` (Row 11) | Missing file: pravi_smjer.md |
+| NPC Name | Table `Sessão / Nome da Missão (PT) / Slug (PT) / Objetivo Central Reconciliado / Arco Principal` (Row 12) | Missing file: vrith_boralis.md |
+| NPC Name | Table `Sessão / Nome da Missão (PT) / Slug (PT) / Objetivo Central Reconciliado / Arco Principal` (Row 12) | Missing file: ithyros_o_renegado_temporal.md |
+| NPC Name | Table `Sessão / Nome da Missão (PT) / Slug (PT) / Objetivo Central Reconciliado / Arco Principal` (Row 14) | Missing file: rolger.md |
+| NPC Name | Table `Sessão / Nome da Missão (PT) / Slug (PT) / Objetivo Central Reconciliado / Arco Principal` (Row 15) | Missing file: lord_coriver.md |
+| NPC Name | Table `Sessão / Nome da Missão (PT) / Slug (PT) / Objetivo Central Reconciliado / Arco Principal` (Row 21) | Missing file: abigail.md |
+| NPC Name | Table `Sessão / Nome da Missão (PT) / Slug (PT) / Objetivo Central Reconciliado / Arco Principal` (Row 21) | Missing file: abril.md |
+| NPC Name | Table `Sessão / Nome da Missão (PT) / Slug (PT) / Objetivo Central Reconciliado / Arco Principal` (Row 27) | Missing file: kas_kardwall.md |
+| Concept Name | Table `Sessão / Nome da Missão (PT) / Slug (PT) / Objetivo Central Reconciliado / Arco Principal` (Row 19) | Missing file: ceptro_de_zan.md |
+| Concept Name | Table `Sessão / Nome da Missão (PT) / Slug (PT) / Objetivo Central Reconciliado / Arco Principal` (Row 28) | Missing file: lady_scale.md |
+| Concept Name | Table `Sessão / Nome da Missão (PT) / Slug (PT) / Objetivo Central Reconciliado / Arco Principal` (Row 30) | Missing file: esshta.md |
+| Concept Name | Table `Sessão / Nome da Missão (PT) / Slug (PT) / Objetivo Central Reconciliado / Arco Principal` (Row 31) | Missing file: idolo_negro.md |
+| Concept Name | Table `Sessão / Nome da Missão (PT) / Slug (PT) / Objetivo Central Reconciliado / Arco Principal` (Row 31) | Missing file: esmeraldas_de_lady_scale.md |
+| Concept Name | Table `🦑 Arco da Corrupção do Mal Elemental / 🦑 Elemental Evil Corruption Arc` (Row 1) | Missing file: lorde_vaeltherin_duskbane.md |
+| Concept Name | Table `👽 Arco da Conexão Cósmica / 👽 Cosmic Connection Arc` (Row 1) | Missing file: yzralith.md |
+| Concept Name | Table `👽 Arco da Conexão Cósmica / 👽 Cosmic Connection Arc` (Row 1) | Missing file: o_eclipse_de_vauria.md |
+| Concept Name | Table `👽 Arco da Conexão Cósmica / 👽 Cosmic Connection Arc` (Row 1) | Missing file: prisma_celestial.md |
+| Concept Name | Table `👽 Arco da Conexão Cósmica / 👽 Cosmic Connection Arc` (Row 1) | Missing file: nyxzul_o_olho_na_escuridao.md |
+| Concept Name | Table `👑 Arco Externo (Feywild/Caecena) / 👑 Feywild/Caecena Arc` (Row 1) | Missing file: lord_coriver.md |
+| Concept Name | Table `🛡️ Arco de Beltar e a Queda do Paladino / 🛡️ Beltar and the Paladin’s Fall Arc` (Row 1) | Missing file: beltar.md |
+| Concept Name | Table `🔪 Arco da Intriga e Submundo de Greyhawk / 🔪 Greyhawk Intrigue and Underworld Arc` (Row 1) | Missing file: org_nenshen.md |
+| Concept Name | Table `💀 Arco da Morte e Corrupção de Nerull/Wee Jas / 💀 Nerull/Wee Jas Death and Corruption Arc` (Row 1) | Missing file: wee_jas.md |
+| Concept Name | Table `💀 Arco da Morte e Corrupção de Nerull/Wee Jas / 💀 Nerull/Wee Jas Death and Corruption Arc` (Row 1) | Missing file: syzzin.md |
+| Concept Name | Table `🐉 Arco da Deusa Dracónica (Lady Scale) / 🐉 Draconic Goddess Arc (Lady Scale)` (Row 1) | Missing file: lady_scale.md |
+| Concept Name | Table `🐉 Arco da Deusa Dracónica (Lady Scale) / 🐉 Draconic Goddess Arc (Lady Scale)` (Row 1) | Missing file: idolo_negro.md |
+| Concept Name | Table `🐉 Arco da Deusa Dracónica (Lady Scale) / 🐉 Draconic Goddess Arc (Lady Scale)` (Row 1) | Missing file: esshta.md |
+| Concept Name | Table `👑 Arco Externo: Intriga do Feywild e a Rainha Caecena (S10C) / Sessão / Nome da Missão (PT) / Slug (PT) / Objetivo Central Reconciliado / Elementos-Chave` (Row 1) | Missing file: lord_coriver.md |
+| Concept Name | Table `🛡️ Arco de Beltar e a Queda do Paladino (S11A, S13A, S15A) / Sessão / Nome da Missão (PT) / Slug (PT) / Objetivo Central Reconciliado / Elementos-Chave` (Row 3) | Missing file: kas.md |
+| Concept Name | Table `🛡️ Arco de Beltar e a Queda do Paladino (S11A, S13A, S15A) / Sessão / Nome da Missão (PT) / Slug (PT) / Objetivo Central Reconciliado / Elementos-Chave` (Row 3) | Missing file: ceptro_de_zan.md |
+| Concept Name | Table `🌌 Arco da Fragmentação e a Voz no Véu (S17B, S4/S5/S8) / Sessão / Nome da Missão (PT) / Slug (PT) / Objetivo Central Reconciliado / Elementos-Chave` (Row 1) | Missing file: nerull.md |
+| Concept Name | Table `🌌 Arco da Fragmentação e a Voz no Véu (S17B, S4/S5/S8) / Sessão / Nome da Missão (PT) / Slug (PT) / Objetivo Central Reconciliado / Elementos-Chave` (Row 3) | Missing file: aria_greenbottle.md |
+| PC Name | Table `PC Name / Date of Session (Real) / In Game Game Date / Session No. / File Name of the Session` (Row 72) | Missing file: pc_wagner.md |
+```
 ---
 
 |**🦑 Arco da Corrupção do Mal Elemental**|**🦑 Elemental Evil Corruption Arc**|

@@ -31,14 +31,13 @@
 
 | Personagem                             | PT                                                                                                            | EN                                                                                                   |
 | :------------------------------------- | :------------------------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------- |
-| **[Kai](pc_kai.md)**                   | Envolvido no assalto ao templo e na derrota de Odrak.                                                         | Involved in the temple assault and the defeat of Odrak.                                              |
 | **[Grix Molah](pc_grix_molah.md)**     | Participa na batalha, ajudando a controlar a multidão de cultistas.                                           | Participates in the battle, helping to control the cultist crowd.                                    |
 | **[Triss Merril](pc_triss_merril.md)** | A sua presença é notada como possível drow; ganchos futuros sugerem que o culto pode estar ligado à sua irmã. | Her presence is noted as a possible drow; future hooks suggest the cult may be linked to her sister. |
-| **[Varus](docs/pc/-/pc_zeldris.md)**             | Ajuda a estabilizar o combate no templo.                                                                      | Helps stabilize the combat in the temple.                                                            |
+| **[Varus](docs/pc/-/pc_zeldris.md)**   | Ajuda a estabilizar o combate no templo.                                                                      | Helps stabilize the combat in the temple.                                                            |
 | **[Flynn](pc_flynn.md)**               | O *halfling* usa as suas habilidades contra os elementos do culto.                                            | The *halfling* uses his abilities against the cult's elements.                                       |
 | **[Dolrea Vas](dolrea_vas.md)**        | O *half-elf* que contrata e é protegido, assegurando a aliança.                                               | The *half-elf* who contracts and is protected, securing the alliance.                                |
 | **Odrak**                              | Líder da célula do culto em Erybend, derrotado no altar.                                                      | Leader of the cult cell in Erybend, defeated at the altar.                                           |
-|                                        |                                                                                                               |                                                                                                      |
+
 
 ---
 ## 🔒 DM-ONLY SECTION / SEÇÃO APENAS PARA O DM
@@ -80,18 +79,17 @@
 
 Com a conclusão da sessão **S11B: Sombras Sobre Erybend**, os seguintes índices teóricos seriam atualizados com a referência ao ficheiro **(s11b_sombras_sobre_erybend.md)**:
 
-| Categoria | Entidade | Slug (Confirmado com docs\_structure ou Novo) | Sessões (Nova Adição) |
-| :--- | :--- | :--- | :--- |
-| **Missions** | [Sombras Sobre Erybend](docs/dm/-/adventures/-/S01/s11b_sombras_sobre_erybend.md) | S11B |
-| **PCs** | [Kai](pc_kai.md) | S11B |
-| **PCs** | [Grix Molah](pc_grix_molah.md) | S11B |
-| **PCs** | [Triss Merril](pc_triss_merril.md) | S11B |
-| **PCs** | [Varus](docs/pc/-/pc_zeldris.md) | S11B |
-| **PCs** | [Flynn](pc_flynn.md) | S11B |
-| **NPCs** | [Dolrea Vas](dolrea_vas.md) | S11B |
-| **NPCs** | [Odrak](odrak.md) (Novo) | S11B |
-| **Deities** | [Nerzul](nerzul.md) (Novo) | S11B |
-| **Locations** | [Erybend](erybend.md) | S11B |
-| **Locations** | [Blackfair Manor](blackfair_manor.md) | S11B |
+| Categoria     | Entidade                                                                          | Slug (Confirmado com docs\_structure ou Novo) | Sessões (Nova Adição) |
+| :------------ | :-------------------------------------------------------------------------------- | :-------------------------------------------- | :-------------------- |
+| **Missions**  | [Sombras Sobre Erybend](docs/dm/-/adventures/-/S01/s11b_sombras_sobre_erybend.md) | S11B                                          |                       |
+| **PCs**       | [Grix Molah](pc_grix_molah.md)                                                    | S11B                                          |                       |
+| **PCs**       | [Triss Merril](pc_triss_merril.md)                                                | S11B                                          |                       |
+| **PCs**       | [Varus](docs/pc/-/pc_zeldris.md)                                                  | S11B                                          |                       |
+| **PCs**       | [Flynn](pc_flynn.md)                                                              | S11B                                          |                       |
+| **NPCs**      | [Dolrea Vas](dolrea_vas.md)                                                       | S11B                                          |                       |
+| **NPCs**      | [Odrak](odrak.md) (Novo)                                                          | S11B                                          |                       |
+| **Deities**   | [Nerzul](nerzul.md) (Novo)                                                        | S11B                                          |                       |
+| **Locations** | [Erybend](erybend.md)                                                             | S11B                                          |                       |
+| **Locations** | [Blackfair Manor](blackfair_manor.md)                                             | S11B                                          |                       |
 
 ---
