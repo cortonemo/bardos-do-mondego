@@ -1,15 +1,17 @@
-# Wagner
+## Wagner ([S17B](s17b_a_crianca_perdida.md))
 
-| ![pc_wagner](assets/pc/pc_wagner.png){width=300} |
+| ![pc_wagner](pc_wagner.png){width=300} |
 | ------------------------ |
 
 ---
 
+### 🧙 Personagem / 🧙 Character
+
 | **🧙 Personagem** | **🧙 Character** |
-| ----------------- | ---------------- |
-| **Nome**: Wagner | **Name**: Wagner |
-| **Espécie**: Dragonborn (escamas vermelhas com algumas amarelas) | **Species**: Dragonborn (red scales with some yellow) |
-| **Classe**: Feiticeiro | **Class**: Sorcerer |
+| :--- | :--- |
+| **Nome**: **Wagner** | **Name**: **Wagner** |
+| **Espécie**: [Dragonborn](https://www.dndbeyond.com/races/dragonborn) (escamas vermelhas com algumas amarelas) | **Species**: [Dragonborn](https://www.dndbeyond.com/races/dragonborn) (red scales with some yellow) |
+| **Classe**: [Feiticeiro](https://www.dndbeyond.com/classes/sorcerer) | **Class**: [Sorcerer](https://www.dndbeyond.com/classes/sorcerer) |
 | **Alinhamento**: Caótico Neutro | **Alignment**: Chaotic Neutral |
 | **Background**: [por preencher] | **Background**: [to be filled] |
 | **Idade**: [por preencher] | **Age**: [to be filled] |
@@ -21,45 +23,57 @@
 
 ---
 
+### 📜 Descrição Física / 📜 Physical Description
+
 | **📜 Descrição Física** | **📜 Physical Description** |
-| ------------------------ | --------------------------- |
-| Wagner é um Dragonborn imponente, de 1,90 m, coberto por escamas vermelhas com manchas amarelas incomuns entre os da sua estirpe. Os olhos laranja brilham com intensidade arcana. A imagem mostra-o com asas membranosas vermelhas, garras afiadas e uma postura de confiança com os braços cruzados. Usa roupas modernas de viajante — calças reforçadas, colete sem mangas —, sugerindo alguém pragmático mas confiante na sua presença imponente. | Wagner is an imposing Dragonborn, standing 1.90 m tall, his body covered in red scales mottled with rare yellow patches. His orange eyes glow with arcane intensity. The image depicts him with wide membranous wings, sharp claws, and a confident stance, arms crossed. He wears practical traveler’s clothing — fitted trousers and a sleeveless vest — suggesting a pragmatic yet commanding adventurer. |
+| :--- | :--- |
+| **Wagner** é um [Dragonborn](https://www.dndbeyond.com/races/dragonborn) imponente, de 1,90 m, coberto por escamas vermelhas com manchas amarelas incomuns entre os da sua estirpe. Os olhos laranja brilham com intensidade arcana. A imagem mostra-o com asas membranosas vermelhas, garras afiadas e uma postura de confiança com os braços cruzados. Usa roupas modernas de viajante — calças reforçadas, colete sem mangas —, sugerindo alguém pragmático mas confiante na sua presença imponente. | **Wagner** is an imposing [Dragonborn](https://www.dndbeyond.com/races/dragonborn), standing 1.90 m tall, his body covered in red scales mottled with rare yellow patches. His orange eyes glow with arcane intensity. The image depicts him with wide membranous wings, sharp claws, and a confident stance, arms crossed. He wears practical traveler’s clothing — fitted trousers and a sleeveless vest — suggesting a pragmatic yet commanding adventurer. |
 
 ---
 
+### ⚔️ Itens / ⚔️ Items
+
 | **⚔️ Itens** | **⚔️ Items** |
-|--------------|--------------|
+| :--- | :--- |
 | **Armadura/Escudo:** — | **Armor/Shield:** — |
-| **Armas:** Adaga | **Weapons:** Dagger |
-| **Items mágicos:** Headband of Intellect; Stone of Good Luck; Wand of the War Mage +1; Potion of Greater Healing; Potion of Poison Resistance | **Magical Items:** Headband of Intellect; Stone of Good Luck; Wand of the War Mage +1; Potion of Greater Healing; Potion of Poison Resistance |
-| **Poções:** Potion of Greater Healing; Potion of Poison Resistance | **Potions:** Potion of Greater Healing; Potion of Poison Resistance |
-| **Items não mágicos:** Adventuring Gear (caltrops, crowbar, oil, 10 rations, rope, tinderbox, 10 torches, waterskin); 1 adaga | **Non-magical Items:** Adventuring Gear (caltrops, crowbar, oil, 10 rations, rope, tinderbox, 10 torches, waterskin); 1 dagger |
+| **Armas:** [Adaga](https://www.dndbeyond.com/equipment/dagger) | **Weapons:** [Dagger](https://www.dndbeyond.com/equipment/dagger) |
+| **Items mágicos:** [Headband of Intellect](https://www.dndbeyond.com/magic-items/headband-of-intellect); [Stone of Good Luck](https://www.dndbeyond.com/magic-items/stone-of-good-luck); [Wand of the War Mage +1](https://www.dndbeyond.com/magic-items/wand-of-the-war-mage-1); [Potion of Greater Healing](https://www.dndbeyond.com/magic-items/potion-of-superior-healing); [Potion of Poison Resistance](https://www.dndbeyond.com/magic-items/potion-of-poison-resistance) | **Magical Items:** [Headband of Intellect](https://www.dndbeyond.com/magic-items/headband-of-intellect); [Stone of Good Luck](https://www.dndbeyond.com/magic-items/stone-of-good-luck); [Wand of the War Mage +1](https://www.dndbeyond.com/magic-items/wand-of-the-war-mage-1); [Potion of Greater Healing](https://www.dndbeyond.com/magic-items/potion-of-superior-healing); [Potion of Poison Resistance](https://www.dndbeyond.com/magic-items/potion-of-poison-resistance) |
+| **Poções:** [Potion of Greater Healing](https://www.dndbeyond.com/magic-items/potion-of-superior-healing); [Potion of Poison Resistance](https://www.dndbeyond.com/magic-items/potion-of-poison-resistance) | **Potions:** [Potion of Greater Healing](https://www.dndbeyond.com/magic-items/potion-of-superior-healing); [Potion of Poison Resistance](https://www.dndbeyond.com/magic-items/potion-of-poison-resistance) |
+| **Items não mágicos:** [Adventuring Gear](adventuring_gear.md) ([caltrops](https://www.dndbeyond.com/equipment/caltrops-bag-of-20), [crowbar](https://www.dndbeyond.com/equipment/crowbar), [oil](https://www.dndbeyond.com/equipment/oil-flask), 10 [rations](https://www.dndbeyond.com/equipment/rations-1-day), [rope](https://www.dndbeyond.com/equipment/hempen-rope), [tinderbox](https://www.dndbeyond.com/equipment/tinderbox), 10 [torches](https://www.dndbeyond.com/equipment/torch), [waterskin](https://www.dndbeyond.com/equipment/waterskin)); 1 [adaga](https://www.dndbeyond.com/equipment/dagger) | **Non-magical Items:** [Adventuring Gear](adventuring_gear.md) ([caltrops](https://www.dndbeyond.com/equipment/caltrops-bag-of-20), [crowbar](https://www.dndbeyond.com/equipment/crowbar), [oil](https://www.dndbeyond.com/equipment/oil-flask), 10 [rations](https://www.dndbeyond.com/equipment/rations-1-day), [rope](https://www.dndbeyond.com/equipment/hempen-rope), [tinderbox](https://www.dndbeyond.com/equipment/tinderbox), 10 [torches](https://www.dndbeyond.com/equipment/torch), [waterskin](https://www.dndbeyond.com/equipment/waterskin)); 1 [dagger](https://www.dndbeyond.com/equipment/dagger) |
 | **Ouro:** 2050 gp, 7 sp, 5 cp | **Gold:** 2050 gp, 7 sp, 5 cp |
 
 ---
 
+### 📖 História – Antes da Taberna / 📖 Story – Before the Tavern
+
 | **📖 História – Antes da Taberna** | **📖 Story – Before the Tavern** |
-| ---------------------------------- | -------------------------------- |
-| Wagner iniciou a vida de aventureiro para se descobrir, pois pouco sabia sobre si mesmo. Na infância, surgiram-lhe escamas amarelas pelo corpo, algo único entre dragonborn vermelhos. Viajou para testar capacidades e compreender a sua origem. | Wagner began adventuring to learn more about himself, knowing little of his past. As a child, yellow scales appeared across his body, unique among red dragonborn. He traveled to test his abilities and understand his origins. |
+| :--- | :--- |
+| **Wagner** iniciou a vida de aventureiro para se descobrir, pois pouco sabia sobre si mesmo. Na infância, surgiram-lhe escamas amarelas pelo corpo, algo único entre [dragonborn](https://www.dndbeyond.com/races/dragonborn) vermelhos. Viajou para testar capacidades e compreender a sua origem. | **Wagner** began adventuring to learn more about himself, knowing little of his past. As a child, yellow scales appeared across his body, unique among red [dragonborn](https://www.dndbeyond.com/races/dragonborn). He traveled to test his abilities and understand his origins. |
 
 ---
+
+### 📖 História – Depois da Taberna / 📖 Story – After the Tavern
 
 | **📖 História – Depois da Taberna** | **📖 Story – After the Tavern** |
-| ----------------------------------- | -------------------------------- |
-| - As escamas amarelas tornaram-se mais numerosas com o tempo, aumentando a dúvida sobre a sua origem.<br>- Ao chegar a [Greyhawk](free_city_of_greyhawk.md), fundou um Bastion com [Drayl Bharash](pc_drayl_bharash.md) e [Raylahn](pc_raylahn.md): **Dragon Arcana Co.**<br>- Encontrou um ovo idêntico ao que acreditava ser o seu, embora fosse ilusão, reforçando as questões sobre o seu nascimento.<br>- Participou em missões nas Ruínas das Sombras, onde ajudou a resgatar **Aria Greenbottle**.<br>- Hoje busca melhorar continuamente as suas capacidades, descobrir limites e origem. | - Yellow scales spread further, deepening the mystery of his origins.<br>- Upon arriving in [Greyhawk](free_city_of_greyhawk.md), co-founded a Bastion with [Drayl Bharash](pc_drayl_bharash.md) and [Raylahn](pc_raylahn.md): **Dragon Arcana Co.**<br>- Found an egg that seemed like his own, though an illusion, it fueled his doubts about birth.<br>- Took part in missions in the Shadow Ruins, where he helped rescue **Aria Greenbottle**.<br>- Now seeks to hone his skills, test his limits, and uncover his true origin. |
+| :--- | :--- |
+| - As escamas amarelas tornaram-se mais numerosas com o tempo, aumentando a dúvida sobre a sua origem.<br>- Ao chegar a [Greyhawk](free_city_of_greyhawk.md), fundou um **[Bastion](bastion.md)** com [Drayl Bharash](pc_drayl_bharash.md) e [Raylahn](pc_raylahn.md): **[Dragon Arcana Co.](dragon_arcana_co.md)**.<br>- Encontrou um ovo idêntico ao que acreditava ser o seu, embora fosse ilusão, reforçando as questões sobre o seu nascimento.<br>- Participou em missões nas [Ruínas das Sombras](ruinas_das_sombras.md), onde ajudou a resgatar **[Aria Greenbottle](aria_greenbottle.md)**.<br>- Hoje busca melhorar continuamente as suas capacidades, descobrir limites e origem. | - Yellow scales spread further, deepening the mystery of his origins.<br>- Upon arriving in [Greyhawk](free_city_of_greyhawk.md), co-founded a **[Bastion](bastion.md)** with [Drayl Bharash](pc_drayl_bharash.md) and [Raylahn](pc_raylahn.md): **[Dragon Arcana Co.](dragon_arcana_co.md)**.<br>- Found an egg that seemed like his own, though an illusion, it fueled his doubts about birth.<br>- Took part in missions in the [Shadow Ruins](ruinas_das_sombras.md), where he helped rescue **[Aria Greenbottle](aria_greenbottle.md)**.<br>- Now seeks to hone his skills, test his limits, and uncover his true origin. |
 
 ---
 
-| **🎭 Dramatis Persona** | **🎭 Dramatis Persona** |
-|--------------------------|-------------------------|
-| **NPCs de influência direta:**<br>- [Taberneiro](taverneiro.d) (mentor e gestor da Taberna)<br>- Aria Greenbottle (gnoma resgatada nas Ruínas das Sombras) | **Direct Influence NPCs:**<br>- [Innkeeper](taverneiro.d) (mentor and Tavern manager)<br>- Aria Greenbottle (gnome rescued in the Shadow Ruins) |
-| **Antagonistas:**<br>- Mortos-vivos e necromantes das Ruínas das Sombras<br>- Facções sombrias em Greyhawk, como o [Culto de Vecna](culto_vecna.md) e a [Scarlet Brotherhood](scarlet_brotherhood.md) | **Antagonists:**<br>- Undead and necromancers of the Shadow Ruins<br>- Dark factions in Greyhawk, such as the [Cult of Vecna](culto_vecna.md) and the [Scarlet Brotherhood](scarlet_brotherhood.md) |
-| **Aliados:**<br>- [Raylahn](pc_raylahn.md) (cofundador da Dragon Arcana Co.)<br>- [Drayl Bharash](pc_drayl_bharash.md) (cofundador da Dragon Arcana Co.)<br>- [Markus Grimm](pc_markus_grimm.md) (companheiro de aventuras)<br>- [Bok Thunderfist](pc_bok_thunderfist.md) (companheiro de expedição a Greyhawk)<br>- Restantes membros da [Taberna](taverna.md) | **Allies:**<br>- [Raylahn](pc_raylahn.md) (co-founder of Dragon Arcana Co.)<br>- [Drayl Bharash](pc_drayl_bharash.md) (co-founder of Dragon Arcana Co.)<br>- [Markus Grimm](pc_markus_grimm.md) (adventuring companion)<br>- [Bok Thunderfist](pc_bok_thunderfist.md) (companion in Greyhawk expedition)<br>- Other members of the [Tavern](taverna.md) |
+### 🎭 Dramatis Persona / 🎭 Dramatis Personae
+
+| **🎭 Dramatis Persona** | **🎭 Dramatis Personae** |
+| :--- | :--- |
+| **NPCs de influência direta:**<br>- [**Taberneiro**](taverneiro.md) (mentor e gestor da [Taverna](taverna.md))<br>- [**Aria Greenbottle**](aria_greenbottle.md) (gnoma resgatada nas [Ruínas das Sombras](ruinas_das_sombras.md)) | **Direct Influence NPCs:**<br>- [**Innkeeper**](taverneiro.md) (mentor and [Tavern](taverna.md) manager)<br>- [**Aria Greenbottle**](aria_greenbottle.md) (gnome rescued in the [Shadow Ruins](ruinas_das_sombras.md)) |
+| **Antagonistas:**<br>- Mortos-vivos e necromantes das [Ruínas das Sombras](ruinas_das_sombras.md)<br>- Facções sombrias em [Greyhawk](free_city_of_greyhawk.md), como o [Culto de Vecna](culto_vecna.md) e a [Scarlet Brotherhood](scarlet_brotherhood.md) | **Antagonists:**<br>- Undead and necromancers of the [Shadow Ruins](ruinas_das_sombras.md)<br>- Dark factions in [Greyhawk](free_city_of_greyhawk.md), such as the [Cult of Vecna](culto_vecna.md) and the [Scarlet Brotherhood](scarlet_brotherhood.md) |
+| **Aliados:**<br>- [**Raylahn**](pc_raylahn.md) (cofundador da [Dragon Arcana Co.](dragon_arcana_co.md))<br>- [**Drayl Bharash**](pc_drayl_bharash.md) (cofundador da [Dragon Arcana Co.](dragon_arcana_co.md))<br>- [**Markus Grimm**](pc_markus_grimm.md) (companheiro de aventuras)<br>- [**Bok Thunderfist**](pc_bok_thunderfist.md) (companheiro de expedição a [Greyhawk](free_city_of_greyhawk.md))<br>- Restantes membros da [Taverna](taverna.md) | **Allies:**<br>- [**Raylahn**](pc_raylahn.md) (co-founder of [Dragon Arcana Co.](dragon_arcana_co.md))<br>- [**Drayl Bharash**](pc_drayl_bharash.md) (co-founder of [Dragon Arcana Co.](dragon_arcana_co.md))<br>- [**Markus Grimm**](pc_markus_grimm.md) (adventuring companion)<br>- [**Bok Thunderfist**](pc_bok_thunderfist.md) (companion in [Greyhawk](free_city_of_greyhawk.md) expedition)<br>- Other members of the [Tavern](taverna.md) |
 
 ---
+
+### 🔮 OBS / 🔮 Notes
 
 | **🔮 OBS** | **🔮 Notes** |
-|------------|--------------|
-| - *Headband of Intellect*: INT = 19 enquanto usado.<br>- *Stone of Good Luck*: +1 a ataques, saves e checks.<br>- *Wand of the War Mage +1*: +1 a ataques de magia; ignora cobertura parcial.<br>- *Charm do Bastion*: após Long Rest, ganha encanto mágico que permite lançar *Identify* sem gastar slot ou componentes; dura 7 dias ou até usado.<br>- *Potion of Greater Healing*: cura 4d4 + 4.<br>- *Potion of Poison Resistance*: resistência a veneno por 1h. | - *Headband of Intellect*: INT = 19 while worn.<br>- *Stone of Good Luck*: +1 to attacks, saves, and checks.<br>- *Wand of the War Mage +1*: +1 to spell attacks; ignore half cover.<br>- *Bastion Charm*: after Long Rest, gain magical charm that lets you cast *Identify* without slot/components; lasts 7 days or until used.<br>- *Potion of Greater Healing*: heals 4d4 + 4.<br>- *Potion of Poison Resistance*: resistance to poison for 1h. |
+| :--- | :--- |
+| - *[Headband of Intellect](https://www.dndbeyond.com/magic-items/headband-of-intellect)*: INT = 19 enquanto usado.<br>- *[Stone of Good Luck](https://www.dndbeyond.com/magic-items/stone-of-good-luck)*: +1 a ataques, saves e checks.<br>- *[Wand of the War Mage +1](https://www.dndbeyond.com/magic-items/wand-of-the-war-mage-1)*: +1 a ataques de magia; ignora cobertura parcial.<br>- *Charm do **[Bastion](bastion.md)***: após Long Rest, ganha encanto mágico que permite lançar *Identify* sem gastar slot ou componentes; dura 7 dias ou até usado.<br>- *[Potion of Greater Healing](https://www.dndbeyond.com/magic-items/potion-of-superior-healing)*: cura 4d4 + 4.<br>- *[Potion of Poison Resistance](https://www.dndbeyond.com/magic-items/potion-of-poison-resistance)*: resistência a veneno por 1h. | - *[Headband of Intellect](https://www.dndbeyond.com/magic-items/headband-of-intellect)*: INT = 19 while worn.<br>- *[Stone of Good Luck](https://www.dndbeyond.com/magic-items/stone-of-good-luck)*: +1 to attacks, saves, and checks.<br>- *[Wand of the War Mage +1](https://www.dndbeyond.com/magic-items/wand-of-the-war-mage-1)*: +1 to spell attacks; ignore half cover.<br>- *[Bastion](bastion.md) Charm*: after Long Rest, gain magical charm that lets you cast *Identify* without slot/components; lasts 7 days or until used.<br>- *[Potion of Greater Healing](https://www.dndbeyond.com/magic-items/potion-of-superior-healing)*: heals 4d4 + 4.<br>- *[Potion of Poison Resistance](https://www.dndbeyond.com/magic-items/potion-of-poison-resistance)*: resistance to poison for 1h. |
 
 ---

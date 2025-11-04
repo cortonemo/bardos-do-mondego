@@ -19,6 +19,7 @@
 | **Ficha D&D Beyond:** [Link](https://www.dndbeyond.com/characters/138750238) | **D&D Beyond Sheet:** [Link](https://www.dndbeyond.com/characters/138750238) |
 
 **[DM-ONLY – Não incluir na Wiki]**
+
 -----
 
 ### 🧙 Personagem / 🧙 Character
