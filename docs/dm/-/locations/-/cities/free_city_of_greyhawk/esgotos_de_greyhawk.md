@@ -1,0 +1,29 @@
+
+# Esgotos de Greyhawk / Greyhawk Sewers
+
+Sessões: 29 | Datas: 2025-07-24 | Fontes: s29_-_2025-07-24.txt | Tags: localizacao, esgotos
+
+![Esgotos de Greyhawk](assets/location/location_blank.png)
+
+| Português | English |
+|-----------|---------|
+| Rede subterrânea de túneis sob a [Cidade de Greyhawk](free_city_of_greyhawk.md), local de exploração perigosa, encontros com piratas e monstros, e esconderijo de tesouros perdidos. | Underground network of tunnels beneath the [City of Greyhawk](free_city_of_greyhawk.md), a dangerous site for exploration, pirate encounters, monsters, and hidden treasures. |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

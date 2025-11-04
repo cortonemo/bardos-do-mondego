@@ -1,0 +1,27 @@
+### Grande Castelo
+
+Sessão: 1 | Data: 2025-08-02 | Fonte: s01.txt | Tags: localização, castelo, início
+
+![Grande Castelo](assets/location/location_blank.png)
+
+| English | Português |
+|---------|-----------|
+| **Description:** An ancient, mysterious castle where the adventurers awake. The castles majordomo welcomes newcomers and introduces them to the world of Greyhawk, full of secrets and danger. | **Descrição:** Um castelo antigo e misterioso onde os aventureiros despertam. O major-domo do castelo acolhe os recém-chegados e apresenta o mundo de Greyhawk, repleto de segredos e perigos. |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
