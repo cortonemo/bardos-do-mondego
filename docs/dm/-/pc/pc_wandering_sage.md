@@ -9,14 +9,14 @@
 
 ### 🎲 Jogador / 🎲 Player
 
-| 🎲 Jogador | 🎲 Player |
-| ------------------------------------- | ------------------------------------ |
-| **Jogador:** Hugo Ferreira | **Player:** Hugo Ferreira |
-| **Idade:** [por preencher] | **Age:** [to be filled] |
-| **Contacto:** +351 912 605 149 | **Contact:** +351 912 605 149 |
-| **Instagram:** [por preencher] | **Instagram:** [to be filled] |
-| **Discord:** [por preencher] | **Discord:** [to be filled] |
-| **Ficha D&D Beyond:** [por preencher] | **D&D Beyond Sheet:** [to be filled] |
+| 🎲 Jogador                                                                   | 🎲 Player                                                                    |
+| ---------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| **Jogador:** Hugo Ferreira                                                   | **Player:** Hugo Ferreira                                                    |
+| **Idade:** [por preencher]                                                   | **Age:** [to be filled]                                                      |
+| **Contacto:** +351 912 605 149                                               | **Contact:** +351 912 605 149                                                |
+| **Instagram:** [por preencher]                                               | **Instagram:** [to be filled]                                                |
+| **Discord:** [por preencher]                                                 | **Discord:** [to be filled]                                                  |
+| **Ficha D&D Beyond:** [link](https://www.dndbeyond.com/characters/139369339) | **D&D Beyond Sheet:** [link](https://www.dndbeyond.com/characters/139369339) |
 
 **[DM-ONLY – Não incluir na Wiki]**
 

@@ -9,14 +9,14 @@
 
 ### 🎲 Jogador / 🎲 Player
 
-| 🎲 Jogador | 🎲 Player |
-| :--- | :--- |
-| **Jogadora:** [por preencher] | **Player:** [to be filled] |
-| **Idade:** [por preencher] | **Age:** [to be filled] |
-| **Contacto:** [por preencher] | **Contact:** [to be filled] |
-| **Instagram:** [por preencher] | **Instagram:** [to be filled] |
-| **Discord:** [por preencher] | **Discord:** [to be filled] |
-| **Ficha D&D Beyond:** [Link](https://www.dndbeyond.com/characters/138906172) | **D&D Beyond Sheet:** [Link](https://www.dndbeyond.com/characters/138906172) |
+| 🎲 Jogador                                                                    | 🎲 Player                                                                    |
+| :---------------------------------------------------------------------------- | :--------------------------------------------------------------------------- |
+| **Jogadora:** [por preencher]                                                 | **Player:** [to be filled]                                                   |
+| **Idade:** [por preencher]                                                    | **Age:** [to be filled]                                                      |
+| **Contacto:** [por preencher]                                                 | **Contact:** [to be filled]                                                  |
+| **Instagram:** [por preencher]                                                | **Instagram:** [to be filled]                                                |
+| **Discord:** [por preencher]                                                  | **Discord:** [to be filled]                                                  |
+| **Ficha D&D Beyond:**  [Link](https://www.dndbeyond.com/characters/138364010) | **D&D Beyond Sheet:** [Link](https://www.dndbeyond.com/characters/138364010) |
 
 **[DM-ONLY – Não incluir na Wiki]**
 
@@ -24,19 +24,19 @@
 
 ### 🧙 Personagem / 🧙 Character
 
-| **🧙 Personagem** | **🧙 Character** |
-| :--- | :--- |
-| **Nome**: **Triss Merrill** | **Name**: **Triss Merrill** |
-| **Espécie**: [Humana](https://www.dndbeyond.com/races/human) | **Species**: [Human](https://www.dndbeyond.com/races/human) |
-| **Classe**: [Feiticeira](https://www.dndbeyond.com/classes/sorcerer) (Linagem Dracónica) | **Class**: [Sorcerer](https://www.dndbeyond.com/classes/sorcerer) (Draconic Bloodline) |
-| **Alinhamento**: [por preencher] | **Alignment**: [to be filled] |
-| **Background**: Filha ilegítima de mercador em [Greyhawk](free_city_of_greyhawk.md) | **Background**: Illegitimate daughter of a merchant in [Greyhawk](free_city_of_greyhawk.md) |
-| **Idade**: [por preencher] | **Age**: [to be filled] |
-| **Altura**: [por preencher] | **Height**: [to be filled] |
-| **Olhos**: Azul-claros brilhantes [**(Inferido da imagem)**] | **Eyes**: Bright light blue [**(Inferred from image)**] |
-| **Cabelo**: Azul-escuro, preso em trança [**(Inferido da imagem)**] | **Hair**: Dark blue, braided [**(Inferred from image)**] |
-| **Pele**: Violeta-acinzentada [**(Inferido da imagem)**] | **Skin**: Violet-gray [**(Inferred from image)**] |
-| **Tamanho**: Médio | **Size**: Medium |
+| **🧙 Personagem**                                                                        | **🧙 Character**                                                                            |
+| :--------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------ |
+| **Nome**: **Triss Merrill**                                                              | **Name**: **Triss Merrill**                                                                 |
+| **Espécie**: [Humana](https://www.dndbeyond.com/races/human)                             | **Species**: [Human](https://www.dndbeyond.com/races/human)                                 |
+| **Classe**: [Feiticeira](https://www.dndbeyond.com/classes/sorcerer) (Linagem Dracónica) | **Class**: [Sorcerer](https://www.dndbeyond.com/classes/sorcerer) (Draconic Bloodline)      |
+| **Alinhamento**: [por preencher]                                                         | **Alignment**: [to be filled]                                                               |
+| **Background**: Filha ilegítima de mercador em [Greyhawk](free_city_of_greyhawk.md)      | **Background**: Illegitimate daughter of a merchant in [Greyhawk](free_city_of_greyhawk.md) |
+| **Idade**: [por preencher]                                                               | **Age**: [to be filled]                                                                     |
+| **Altura**: [por preencher]                                                              | **Height**: [to be filled]                                                                  |
+| **Olhos**: Azul-claros brilhantes [**(Inferido da imagem)**]                             | **Eyes**: Bright light blue [**(Inferred from image)**]                                     |
+| **Cabelo**: Azul-escuro, preso em trança [**(Inferido da imagem)**]                      | **Hair**: Dark blue, braided [**(Inferred from image)**]                                    |
+| **Pele**: Violeta-acinzentada [**(Inferido da imagem)**]                                 | **Skin**: Violet-gray [**(Inferred from image)**]                                           |
+| **Tamanho**: Médio                                                                       | **Size**: Medium                                                                            |
 
 ---
 

@@ -25,19 +25,19 @@
 
 ### 🧙 Personagem / 🧙 Character
 
-| **🧙 Personagem** | **🧙 Character** |
-| :--- | :--- |
-| **Nome:** **Ugus Bugus** | **Name:** **Ugus Bugus** |
-| **Espécie:** [Anão](https://www.dndbeyond.com/races/dwarf) | **Species:** [Dwarf](https://www.dndbeyond.com/races/dwarf) |
+| **🧙 Personagem**                                                  | **🧙 Character**                                                    |
+| :----------------------------------------------------------------- | :------------------------------------------------------------------ |
+| **Nome:** **Ugus Bugus**                                           | **Name:** **Ugus Bugus**                                            |
+| **Espécie:** [Anão](https://www.dndbeyond.com/races/dwarf)         | **Species:** [Dwarf](https://www.dndbeyond.com/races/dwarf)         |
 | **Classe:** [Bárbaro](https://www.dndbeyond.com/classes/barbarian) | **Class:** [Barbarian](https://www.dndbeyond.com/classes/barbarian) |
-| **Alinhamento:** [por preencher] | **Alignment:** [to be filled] |
-| **Background:** [Mineiro](mineiro.md) (adotado por uma vila) | **Background:** [Miner](mineiro.md) (adopted by a village) |
-| **Idade:** [por preencher] | **Age:** [to be filled] |
-| **Altura:** 1,50 m | **Height:** 4'11" (approx.) |
-| **Olhos:** [por preencher] | **Eyes:** [to be filled] |
-| **Cabelo:** Careca (barbado) | **Hair:** Bald (bearded) |
-| **Pele:** [por preencher] | **Skin:** [to be filled] |
-| **Tamanho:** Médio (Anão) | **Size:** Medium (Dwarf) |
+| **Alinhamento:** [por preencher]                                   | **Alignment:** [to be filled]                                       |
+| **Background:** [Mineiro](mineiro.md) (adotado por uma vila)       | **Background:** [Miner](mineiro.md) (adopted by a village)          |
+| **Idade:** [por preencher]                                         | **Age:** [to be filled]                                             |
+| **Altura:** 1,50 m                                                 | **Height:** 4'11" (approx.)                                         |
+| **Olhos:** [por preencher]                                         | **Eyes:** [to be filled]                                            |
+| **Cabelo:** Careca (barbado)                                       | **Hair:** Bald (bearded)                                            |
+| **Pele:** [por preencher]                                          | **Skin:** [to be filled]                                            |
+| **Tamanho:** Médio (Anão)                                          | **Size:** Medium (Dwarf)                                            |
 
 ---
 

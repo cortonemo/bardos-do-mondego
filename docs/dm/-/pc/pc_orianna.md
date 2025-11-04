@@ -24,20 +24,20 @@
 
 ### 🧙 Personagem / 🧙 Character
 
-| **🧙 Personagem** | **🧙 Character** |
-| ---------------------------- | -------------------------- |
-| Nome: **Orianna** | Name: **Orianna** |
-| Espécie: [Tiefling](https://www.dndbeyond.com/races/tiefling) | Species: [Tiefling](https://www.dndbeyond.com/races/tiefling) |
+| **🧙 Personagem**                                                        | **🧙 Character**                                                     |
+| ------------------------------------------------------------------------ | -------------------------------------------------------------------- |
+| Nome: **Orianna**                                                        | Name: **Orianna**                                                    |
+| Espécie: [Tiefling](https://www.dndbeyond.com/races/tiefling)            | Species: [Tiefling](https://www.dndbeyond.com/races/tiefling)        |
 | Classe: [Ranger](https://www.dndbeyond.com/classes/ranger) (Exploradora) | Class: [Ranger](https://www.dndbeyond.com/classes/ranger) (Explorer) |
-| Alinhamento: [por preencher] | Alignment: [to be filled] |
-| Background: [Agricultora](agricultora.md), aventureira relutante | Background: [Farmer](agricultora.md), reluctant adventurer |
-| Idade: [por preencher] | Age: [to be filled] |
-| Altura: [por preencher] | Height: [to be filled] |
-| Olhos: [por preencher] | Eyes: [to be filled] |
-| Cabelo: [por preencher] | Hair: [to be filled] |
-| Pele: [por preencher] | Skin: [to be filled] |
-| Género: Feminino | Gender: Female |
-| Tamanho: Médio | Size: Medium |
+| Alinhamento: [por preencher]                                             | Alignment: [to be filled]                                            |
+| Background: [Agricultora](agricultora.md), aventureira relutante         | Background: [Farmer](agricultora.md), reluctant adventurer           |
+| Idade: [por preencher]                                                   | Age: [to be filled]                                                  |
+| Altura: [por preencher]                                                  | Height: [to be filled]                                               |
+| Olhos: [por preencher]                                                   | Eyes: [to be filled]                                                 |
+| Cabelo: [por preencher]                                                  | Hair: [to be filled]                                                 |
+| Pele: [por preencher]                                                    | Skin: [to be filled]                                                 |
+| Género: Feminino                                                         | Gender: Female                                                       |
+| Tamanho: Médio                                                           | Size: Medium                                                         |
 
 ---
 

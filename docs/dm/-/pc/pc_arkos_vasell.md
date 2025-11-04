@@ -8,13 +8,13 @@
 
 ### 🎲 Jogador / 🎲 Player
 
-| 🎲 Jogador | 🎲 Player |
+| 🎲 Jogador                                                                   | 🎲 Player                                                                    |
 | ---------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
-| **Jogador:** Luís Faria | **Player:** Luís Faria |
-| **Idade:** [por preencher] | **Age:** [to be filled] |
-| **Contacto:** +351 912 455 898 | **Contact:** +351 912 455 898 |
-| **Instagram:** [por preencher] | **Instagram:** [to be filled] |
-| **Discord:** [por preencher] | **Discord:** [to be filled] |
+| **Jogador:** Luís Faria                                                      | **Player:** Luís Faria                                                       |
+| **Idade:** [por preencher]                                                   | **Age:** [to be filled]                                                      |
+| **Contacto:** +351 912 455 898                                               | **Contact:** +351 912 455 898                                                |
+| **Instagram:** [por preencher]                                               | **Instagram:** [to be filled]                                                |
+| **Discord:** [por preencher]                                                 | **Discord:** [to be filled]                                                  |
 | **Ficha D&D Beyond:** [Link](https://www.dndbeyond.com/characters/139712043) | **D&D Beyond Sheet:** [Link](https://www.dndbeyond.com/characters/139712043) |
 
 **[DM-ONLY – Não incluir na Wiki]**
@@ -105,14 +105,12 @@
 
 ### Warnings
 
-| Type | Where | Detail |
-| :--- | :--- | :--- |
-| Missing File - No DDB Link | `⚔️ Itens / ⚔️ Items` | Item `Armadura leve` not a single DDB equipment item; kept as plain text. |
-| Missing File - No DDB Link | `⚔️ Itens / ⚔️ Items` | Item `Armadura leve` not a single DDB equipment item; kept as plain text. |
-| Missing File - No PC Link | `📖 História – Depois da Taberna` | Linking `Endor` to `pc_endor.md` - No direct file found. |
-| Missing File - No PC Link | `📖 História – Depois da Taberna` | Linking `Gaulutax` to `pc_gaulutax.md` - No direct file found. |
-| Missing File - No PC Link | `🎭 Dramatis Personae / 🎭 Dramatis Personae` | Linking `Endor` to `pc_endor.md` - No direct file found. |
-| Missing File - No PC Link | `🎭 Dramatis Personae / 🎭 Dramatis Personae` | Linking `Gaulutax` to `pc_gaulutax.md` - No direct file found. |
+| Type                       | Where                                         | Detail                                                                    |
+| :------------------------- | :-------------------------------------------- | :------------------------------------------------------------------------ |
+| Missing File - No PC Link  | `📖 História – Depois da Taberna`             | Linking `Endor` to `pc_endor.md` - No direct file found.                  |
+| Missing File - No PC Link  | `📖 História – Depois da Taberna`             | Linking `Gaulutax` to `pc_gaulutax.md` - No direct file found.            |
+| Missing File - No PC Link  | `🎭 Dramatis Personae / 🎭 Dramatis Personae` | Linking `Endor` to `pc_endor.md` - No direct file found.                  |
+| Missing File - No PC Link  | `🎭 Dramatis Personae / 🎭 Dramatis Personae` | Linking `Gaulutax` to `pc_gaulutax.md` - No direct file found.            |
 
 ### Missing Files
 

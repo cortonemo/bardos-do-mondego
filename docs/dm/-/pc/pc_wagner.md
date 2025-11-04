@@ -9,14 +9,15 @@
 
 ### 🎲 Jogador / 🎲 Player
 
-| 🎲 Jogador | 🎲 Player |
-| :--- | :--- |
-| **Jogador:** [Vasco Amorim de Almeida](vasco_amorim_de_almeida.md) | **Player:** [Vasco Amorim de Almeida](vasco_amorim_de_almeida.md) |
-| **Idade:** 27 | **Age:** 27 |
-| **Contacto:** +351 961 228 813 | **Contact:** +351 961 228 813 |
+| 🎲 Jogador                                                                     | 🎲 Player                                                                      |
+| :----------------------------------------------------------------------------- | :----------------------------------------------------------------------------- |
+| **Jogador:** [Vasco Amorim de Almeida](vasco_amorim_de_almeida.md)             | **Player:** [Vasco Amorim de Almeida](vasco_amorim_de_almeida.md)              |
+| **Idade:** 27                                                                  | **Age:** 27                                                                    |
+| **Contacto:** +351 961 228 813                                                 | **Contact:** +351 961 228 813                                                  |
 | **Instagram:** [vasco_goes_insta](https://www.instagram.com/vasco_goes_insta/) | **Instagram:** [vasco_goes_insta](https://www.instagram.com/vasco_goes_insta/) |
-| **Discord:** vasooooo | **Discord:** vasooooo |
-| **Ficha D&D Beyond:** [Link](https://www.dndbeyond.com/characters/140233506) | **D&D Beyond Sheet:** [Link](https://www.dndbeyond.com/characters/140233506) |
+| **Discord:** vasooooo                                                          | **Discord:** vasooooo                                                          |
+| **Ficha D&D Beyond:** [Link](https://www.dndbeyond.com/characters/140233506)   | **D&D Beyond Sheet:** [Link](https://www.dndbeyond.com/characters/140233506)   |
+
 
 **[DM-ONLY – Não incluir na Wiki]**
 
