@@ -99,7 +99,7 @@ Com a conclusão da sessão **S05A: As scaras da Morte**, os seguintes índices 
 | **PCs**           | [Markus Grimm](pc_markus_grimm.md)                  | S05A                                          |                       |
 | **NPCs**          | [Acólita Morvanya](acolyte_morvanya.md) (Novo)      | S05A                                          |                       |
 | **NPCs**          | [Manvea](manvea.md) (Novo)                          | S05A                                          |                       |
-| **NPCs**          | [Borogrove](borogrove.md)                           | S05A                                          |                       |
+| **NPCs**          | [Borogrove](npc_borogrove.md)                           | S05A                                          |                       |
 | **Locations**     | [Mistwood](mistwood.md) (Novo)                      | S05A                                          |                       |
 | **Organizations** | [Culto do Mal Elemental](cult_of_elemental_evil.md) | S05A                                          |                       |
 

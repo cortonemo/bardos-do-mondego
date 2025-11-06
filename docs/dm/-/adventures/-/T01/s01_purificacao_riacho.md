@@ -12,20 +12,20 @@
 
 | 📖 Overview    | PT (Português)                                                                                                                                                    | EN (English)                                                                                                                                                     |
 | :------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Introdução** | PCs acordam no Grande Castelo. O [Taberneiro](innkeeper.md) atribui a missão de investigar a corrupção do riacho no bosque.                                       | PCs awaken in the Grand Castle. The [Innkeeper](innkeeper.md) assigns the mission to investigate the corruption of the nearby stream in the woods.               |
-| **Missão**     | Purificar a nascente do riacho que está a ser infestada por um "fungo alienígena", a pedido do Treant [Borogrove](borogrove.md).                                  | To cleanse the stream's source, which is being infested by an "alien fungus," at the request of the Treant [Borogrove](borogrove.md).                            |
-| **Desfecho**   | A nascente é purificada, e o grupo regressa com recompensas do [Borogrove](borogrove.md) e conhecimento sobre o [Culto do Mal Elemental](cult_of_elemental_evil.md). | The source is purified, and the group returns with rewards from [Borogrove](borogrove.md) and knowledge about the [Elemental Evil Cult](cult_of_elemental_evil.md). |
+| **Introdução** | PCs acordam no Grande Castelo. O [Taberneiro](docs/npc/-/Free%20City%20of%20Grehawk/npc_innkeeper.md) atribui a missão de investigar a corrupção do riacho no bosque.                                       | PCs awaken in the Grand Castle. The [Innkeeper](docs/npc/-/Free%20City%20of%20Grehawk/npc_innkeeper.md) assigns the mission to investigate the corruption of the nearby stream in the woods.               |
+| **Missão**     | Purificar a nascente do riacho que está a ser infestada por um "fungo alienígena", a pedido do Treant [Borogrove](npc_borogrove.md).                                  | To cleanse the stream's source, which is being infested by an "alien fungus," at the request of the Treant [Borogrove](npc_borogrove.md).                            |
+| **Desfecho**   | A nascente é purificada, e o grupo regressa com recompensas do [Borogrove](npc_borogrove.md) e conhecimento sobre o [Culto do Mal Elemental](cult_of_elemental_evil.md). | The source is purified, and the group returns with rewards from [Borogrove](npc_borogrove.md) and knowledge about the [Elemental Evil Cult](cult_of_elemental_evil.md). |
 
 -----
 
-### O Bosque e [Borogrove](borogrove.md) / The Woods and [Borogrove](borogrove.md)
+### O Bosque e [Borogrove](npc_borogrove.md) / The Woods and [Borogrove](npc_borogrove.md)
 
 | Secção | PT (Português) | EN (English) |
 | :--- | :--- | :--- |
-| **O Aviso** | O [Borogrove](borogrove.md), um Treant ancião, explica que o riacho está corrompido por um **fungo alienígena** e oferece uma **[Magic Acorn](acorn_borogrove.md)**. | [Borogrove](borogrove.md), an ancient Treant, explains the stream is corrupted by an **alien fungus** and offers a **[Magic Acorn](acorn_borogrove.md)**. |
+| **O Aviso** | O [Borogrove](npc_borogrove.md), um Treant ancião, explica que o riacho está corrompido por um **fungo alienígena** e oferece uma **[Magic Acorn](acorn_borogrove.md)**. | [Borogrove](npc_borogrove.md), an ancient Treant, explains the stream is corrupted by an **alien fungus** and offers a **[Magic Acorn](acorn_borogrove.md)**. |
 | **A Caverna** | Entrada cercada por vinhas pulsantes e guardada por **6 Twig Blights**. O interior está infestado de esporos e deformações. | Entrance is guarded by **6 Twig Blights** and surrounded by pulsing vines. The interior is infested with spores and deformations. |
 | **Encontros** | Confrontos com **Bullywug Warriors** (corrompidos), um **Urso Corrompido**, um **Psionic Ooze**, e o **Ajuntamento Fúngico Alienígena** na nascente. Arcana/Perceção: sinais de **inteligência alienígena** nos padrões de crescimento. | Encounters with corrupted **Bullywug Warriors**, a **Corrupted Bear**, a **Psionic Ooze**, and the **Alien Fungal Clump** at the source. Arcana/Perception: signs of **alien intelligence** in growth patterns. |
-| **Conclusão** | O [Borogrove](borogrove.md) concede um **[Staff of Flowers](staff_of_flowers.md)** em gratidão pela purificação da nascente. | [Borogrove](borogrove.md) grants a **[Staff of Flowers](staff_of_flowers.md)** in gratitude for cleansing the source. |
+| **Conclusão** | O [Borogrove](npc_borogrove.md) concede um **[Staff of Flowers](staff_of_flowers.md)** em gratidão pela purificação da nascente. | [Borogrove](npc_borogrove.md) grants a **[Staff of Flowers](staff_of_flowers.md)** in gratitude for cleansing the source. |
 
 -----
 

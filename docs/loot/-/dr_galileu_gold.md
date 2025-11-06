@@ -10,6 +10,6 @@
 
 | Português | English |
 |-----------|----------|
-| **Descrição:** Soma entregue pelo [Doutor Galileu](doutor_galileu.md) aos aventureiros como pagamento pela recuperação do [Diamante Vermelho](red_diamond.md) e pelo sucesso da missão no [Plano do Gelo](ice_plan.md). | **Description:** A sum given by [Doctor Galileu](doutor_galileu.md) to the adventurers as payment for retrieving the [Red Diamond](red_diamond.md) and succeeding in the [Ice Plane](ice_plan.md) mission. |
+| **Descrição:** Soma entregue pelo [Doutor Galileu](npc_doutor_galileu.md) aos aventureiros como pagamento pela recuperação do [Diamante Vermelho](red_diamond.md) e pelo sucesso da missão no [Plano do Gelo](ice_plan.md). | **Description:** A sum given by [Doctor Galileu](npc_doutor_galileu.md) to the adventurers as payment for retrieving the [Red Diamond](red_diamond.md) and succeeding in the [Ice Plane](ice_plan.md) mission. |
 
 ---

@@ -1,4 +1,4 @@
-### Bolota de [Borogrove](borogrove.md)
+### Bolota de [Borogrove](npc_borogrove.md)
 
 Sessão: 1 | Data: 2025-08-02 | Fonte: s01.txt | Tags: item, mágico, cura
 
@@ -6,7 +6,7 @@ Sessão: 1 | Data: 2025-08-02 | Fonte: s01.txt | Tags: item, mágico, cura
 
 | English                                                                                                                                                                 | Português                                                                                                                                                      |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Description:** Magic acorn granted by [Borogrove](borogrove.md). Consuming it grants healing and removes certain conditions (Potion of Healing + Lesser Restoration). | **Descrição:** Bolota mágica dada por [Borogrove](borogrove.md). Ao ser consumida, concede cura e remove certas condições (Poção de Cura + Restauração Menor). |
+| **Description:** Magic acorn granted by [Borogrove](npc_borogrove.md). Consuming it grants healing and removes certain conditions (Potion of Healing + Lesser Restoration). | **Descrição:** Bolota mágica dada por [Borogrove](npc_borogrove.md). Ao ser consumida, concede cura e remove certas condições (Poção de Cura + Restauração Menor). |
 
 
 

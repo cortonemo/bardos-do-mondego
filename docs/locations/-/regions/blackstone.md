@@ -8,7 +8,7 @@ Sessão: 2 | Data: (data não especificada) | Fonte: s02.txt | Tags: cidade, loc
 
 | English | Português |
 |---------|-----------|
-| **Description:** Mining town at the foot of the [Cairn Mountains](cairn_mountains.md), home t[Kristryd Splitanvil](kristryd_splitanvil.md))). Central to the adventure. | **Descrição:** Cidade mineira no sopé das [Montanhas de Cairn](cairn_mountains.md), lar d[Kristryd Splitanvil](kristryd_splitanvil.md))). Centro da aventura. |
+| **Description:** Mining town at the foot of the [Cairn Mountains](cairn_mountains.md), home t[Kristryd Splitanvil](docs/npc/-/Blackstone/npc_kristryd_splitanvil.md))). Central to the adventure. | **Descrição:** Cidade mineira no sopé das [Montanhas de Cairn](cairn_mountains.md), lar d[Kristryd Splitanvil](docs/npc/-/Blackstone/npc_kristryd_splitanvil.md))). Centro da aventura. |
 
 
 

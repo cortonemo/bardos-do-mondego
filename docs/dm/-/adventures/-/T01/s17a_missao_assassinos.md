@@ -46,7 +46,7 @@
 * **O Esconderijo:** O esconderijo está ligado aos **esgotos** (Undercity) e a antigos túneis Illithid (Arco Cósmico), confirmando que o Culto está a usar o caos da cidade para se expandir subterraneamente.
 
 ### 🤫 Secrets & Hooks / Segredos e Ganchos
-* **O Item do Vampiro:** O *Vampire Spawn* pode ter um anel ou um talismã que é a fonte do seu poder de necromancia. Se for recuperado, revela uma ligação a uma célula de nível superior do culto (possivelmente **[Morvanya](acolyte_morvanya.md)** ou **[Vaelkor Ashbrand](vaelkor_ashbrand.md)**).
+* **O Item do Vampiro:** O *Vampire Spawn* pode ter um anel ou um talismã que é a fonte do seu poder de necromancia. Se for recuperado, revela uma ligação a uma célula de nível superior do culto (possivelmente **[Morvanya](acolyte_morvanya.md)** ou **[Vaelkor Ashbrand](docs/npc/-/Abandoned%20Village/npc_vaelkor_ashbrand.md)**).
 * **A Palavra "Paladino":** Os PCs devem notar que a palavra "paladino" (ou o nome "Dustin") faz o *Vampire Spawn* reagir violentamente ou com medo, ligando esta ameaça diretamente ao **[Arco de Beltar](paladins_of_beltar.md)**.
 
 ### ⚙️ Contingencies / Contingências

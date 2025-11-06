@@ -22,7 +22,7 @@
 - **Iuz (devotos)** – **Melchis** (cultista ínfero) e outros agentes espalham caos.  
 - **Cavaleiros/Paladinos de Beltar** – Antagonizam o grupo (caso **Paladino Brandon Brayn**).  
 - **Irmandade Escarlate** – Organização secreta de assassinos e espiões.  
-- **Redbrands** – Bando de rufiões sob **Skarn**; aliados de **[Zarvokir](docs/dm/-/npc/Orefield/zarvokir.md)**.  
+- **Redbrands** – Bando de rufiões sob **Skarn**; aliados de **[Zarvokir](docs/dm/-/npc/Orefield/npc_zarvokir.md)**.  
 - **Tribos Goliath** – Alvos de aliança pelo Culto do Mal Elemental.  
 - **Gigantes das Colinas** – Aliados de **Zarvokir** (detalhes incertos).
 

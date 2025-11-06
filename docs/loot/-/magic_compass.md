@@ -9,6 +9,6 @@
 
 | Português | English |
 |-----------|----------|
-| **Descrição:** Artefacto encantado criado pelo [Doutor Galileu](doutor_galileu.md) para guiar os aventureiros até ao [Diamante Vermelho](red_diamond.md) perdido no [Plano do Gelo](ice_plan.md). Aponta para fontes de energia relacionadas com o diamante e permitiu ao grupo descobrir as ruínas de [Greyhawk em Ruínas](greyhawk_ruins.md). | **Description:** An enchanted artifact crafted by [Doctor Galileu](doutor_galileu.md) to guide the adventurers toward the lost [Red Diamond](red_diamond.md) within the [Ice Plane](ice_plan.md). It points toward sources of energy connected to the diamond and led the party to the ruins of [Greyhawk in Ruins](greyhawk_ruins.md). |
+| **Descrição:** Artefacto encantado criado pelo [Doutor Galileu](npc_doutor_galileu.md) para guiar os aventureiros até ao [Diamante Vermelho](red_diamond.md) perdido no [Plano do Gelo](ice_plan.md). Aponta para fontes de energia relacionadas com o diamante e permitiu ao grupo descobrir as ruínas de [Greyhawk em Ruínas](greyhawk_ruins.md). | **Description:** An enchanted artifact crafted by [Doctor Galileu](npc_doutor_galileu.md) to guide the adventurers toward the lost [Red Diamond](red_diamond.md) within the [Ice Plane](ice_plan.md). It points toward sources of energy connected to the diamond and led the party to the ruins of [Greyhawk in Ruins](greyhawk_ruins.md). |
 
 ---

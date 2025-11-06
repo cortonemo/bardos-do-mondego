@@ -37,7 +37,7 @@
 | **[Wandering Sage](pc_wandering_sage.md)** | Usa *stealth* para se aproximar do Xamã. | Uses *stealth* to approach the Shaman. |
 | **[Lone Straw](pc_lone_straw.md)** | Participa na infiltração e no combate no altar. | Participates in the infiltration and combat at the altar. |
 | **[Jogmaahx](jogmaahx.md)** | Xamã Goblin, líder da célula do culto de [Nerull](nerull.md), derrotado no altar. | Goblin Shaman, leader of the [Nerull](nerull.md) cult cell, defeated at the altar. |
-| **[Vaelkor Ashbrand](vaelkor_ashbrand.md)** | Superior do culto, o autor da carta recuperada. | Cult superior, the author of the recovered letter. |
+| **[Vaelkor Ashbrand](docs/npc/-/Abandoned%20Village/npc_vaelkor_ashbrand.md)** | Superior do culto, o autor da carta recuperada. | Cult superior, the author of the recovered letter. |
 
 ---
 ## 💰 Rewards & Loot / Recompensas e Saque
@@ -45,7 +45,7 @@
 | Item | Descrição (PT) | Description (EN) |
 | :--- | :--- | :--- |
 | **Recompensa** | 100 GP (implícito pela conclusão da missão). | 100 GP (implied by mission completion). |
-| **Carta de Vaelkor** | Uma carta de **[Vaelkor Ashbrand](vaelkor_ashbrand.md)** para Jogmaahx, com detalhes sobre os planos de conquista do Culto na região. | A letter from **[Vaelkor Ashbrand](vaelkor_ashbrand.md)** to Jogmaahx, with details on the Cult's conquest plans in the region. |
+| **Carta de Vaelkor** | Uma carta de **[Vaelkor Ashbrand](docs/npc/-/Abandoned%20Village/npc_vaelkor_ashbrand.md)** para Jogmaahx, com detalhes sobre os planos de conquista do Culto na região. | A letter from **[Vaelkor Ashbrand](docs/npc/-/Abandoned%20Village/npc_vaelkor_ashbrand.md)** to Jogmaahx, with details on the Cult's conquest plans in the region. |
 | **Cimitarra Mágica** | Item Mágico (Implícito). | Magic Scimitar (Implied). |
 | **Zombies** | Os dois *Zombies* invocados não morrem após a derrota do Xamã, mas são destruídos pelo grupo. | The two *Zombies* summoned do not die after the Shaman's defeat, but are destroyed by the party. |
 
