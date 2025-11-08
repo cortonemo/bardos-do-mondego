@@ -9,7 +9,7 @@
 | **Classe:** [por preencher]                                                                                                                                           | **Class:** [to be filled]                                                                                                                              |
 | **Alinhamento:** [por preencher]                                                                                                                                      | **Alignment:** [to be filled]                                                                                                                          |
 | **Profissão / Função:** Sobrinha do Taberneiro; intermediária e recrutadora de missões na [Taberna da Companhia](estalagem_da_companhia.md)                           | **Profession / Role:** Tavernkeeper’s niece; intermediary and recruiter of missions at the [Company Tavern](estalagem_da_companhia.md)                 |
-| **Localização:** [Taberna da Companhia](estalagem_da_companhia.md), [Bairro dos Artesãos](artisans_quarter.md),, [Cidade Livre de Greyhawk](free_city_of_greyhawk.md) | **Location:** [Company Tavern](estalagem_da_companhia.md), [Artisans’ Quarter](artisans_quarter.md), [Free City of Greyhawk](free_city_of_greyhawk.md) |
+| **Localização:** [Taberna da Companhia](estalagem_da_companhia.md), [Bairro dos Artesãos](docs/locations/-/cities/free_city_of_greyhawk/artisans_quarter/artisans_quarter.md),, [Cidade Livre de Greyhawk](free_city_of_greyhawk.md) | **Location:** [Company Tavern](estalagem_da_companhia.md), [Artisans’ Quarter](docs/locations/-/cities/free_city_of_greyhawk/artisans_quarter/artisans_quarter.md), [Free City of Greyhawk](free_city_of_greyhawk.md) |
 
 ---
 

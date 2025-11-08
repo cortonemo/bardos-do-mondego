@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/dm/-/npc/Free City of Grehawk/npc_mistress_lyra_quil.md",
+                "file": "docs/dm/-/npc/Free City of Grehawk/npc_innkeeper.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "npc_mistress_lyra_quil"
+              "title": "npc_innkeeper"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "aleister",
+                "query": "taberneiro",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -176,42 +176,43 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "a04fd158416016f7",
+  "active": "8b60e7fd6b137849",
   "lastOpenFiles": [
-    "docs/npc/-/Free City of Grehawk/npc_mistress_lyra_quil.md",
-    "docs/dm/-/npc/Free City of Grehawk/npc_mistress_lyra_quil.md",
-    "docs/dm/-/npc/Free City of Grehawk/npc_sister_blathine.md",
-    "docs/npc/-/Free City of Grehawk/npc_sister_blathine.md",
-    "docs/dm/-/pc/pc_kai.md",
+    "docs/npc/-/Free City of Grehawk/npc_innkeeper.md",
+    "docs/dm/-/npc/Free City of Grehawk/npc_innkeeper.md",
+    "docs/dm/-/npc/Free City of Grehawk/Untitled.md",
+    "docs/adventures/-/T01/s01_purificacao_riacho.md",
+    "docs/assets/loot/tavern_ring.md",
+    "docs/dm/-/organizations/-/allies/the_inn.md",
+    "Taberna.md",
+    "taberna_entidade.md",
+    "docs/dm/-/organizations/-/allies/ratus_workshop.md",
+    "docs/dm/-/locations/-/cities/free_city_of_greyhawk/artisans_quarter/artisans_quarter.md",
+    "docs/npc/-/Free City of Grehawk/ratu.md",
+    "docs/dm/-/npc/Free City of Grehawk/npc_ratu.md",
+    "docs/organizations/-/allies/ratus_workshop.md",
+    "funguys.png.md",
+    "docs/npc/-/Eribend/npc_mestre_tolinn.md",
+    "docs/lore/-/timeline/greyhawk_sessions_complete.md",
+    "tools/greyhawk_sessions_complete.md",
+    "docs/dm/-/tables/ganchos_por_aventura.md",
+    "docs/dm/-/pc/pc_leo.md",
     "docs/dm/-/pc/pc_arkos_vasell.md",
     "docs/assets/pc/pc_arkos_vasell.png",
+    "docs/dm/-/pc/pc_kai.md",
+    "docs/dm/-/pc/pc_asinius.md",
+    "docs/dm/-/pc/pc_eirwen.md",
+    "docs/dm/-/npc/Free City of Grehawk/npc_trixie.md",
+    "docs/assets/pc/pc_bok_thunderfist.png",
+    "docs/dm/-/npc/Free City of Grehawk/npc_aria_greenbottle.md",
+    "docs/dm/-/organizations/-/allies/funguys.md",
     "docs/assets/pc/pc_blank.png",
-    "docs/dm/-/npc/Free City of Grehawk/npc_mestre_donlan.md",
-    "docs/npc/-/Free City of Grehawk/npc_lady_silvra_malren.md",
     "docs/assets/npc/npc_sister_blathine.png",
     "docs/assets/npc/npc_blank.png",
     "docs/assets/npc/npc_liwana.png",
     "docs/assets/npc/npc_lyra_quill.png",
     "docs/assets/npc/npc_remy_ii.png",
-    "docs/npc/-/Free City of Grehawk/npc_liwana.md",
     "docs/assets/npc/ps9EC1.tmp",
-    "docs/dm/-/pc/template_pc.md",
-    "docs/dm/-/npc/npc_template.md",
-    "docs/dm/-/locations/-/template_location.md",
-    "docs/npc/-/Blackstone/npc_kristryd_splitanvil.md",
-    "docs/npc/-/Abandoned Village/npc_vaelkor_ashbrand.md",
-    "docs/npc/-/Eclipse Tower/npc_zavros_karamark.md",
-    "docs/npc/-/Eribend/npc_branwir.md",
-    "docs/npc/-/Eribend/npc_dolrea_vas.md",
-    "docs/npc/-/Eribend/npc_jeraldina.md",
-    "docs/npc/-/Eribend/npc_mestre_tolinn.md",
-    "docs/npc/-/Eribend/npc_senhor_rodrik.md",
-    "docs/npc/-/Eribend/npc_myria.md",
-    "docs/npc/-/Fey/npc_pryssana.md",
-    "docs/npc/-/Fey/npc_titania.md",
-    "docs/npc/-/Free City of Grehawk/npc_aria_greenbottle.md",
-    "docs/npc/-/Free City of Grehawk/npc_cleseur.md",
-    "docs/npc/-/Free City of Grehawk/npc_bartleby_quick.md",
     "docs/dm/-/pc/player_character_index.txt",
     "docs/dm/-/locations/-/regions",
     "docs/dm/-/locations/-/realms",
@@ -223,7 +224,6 @@
     "docs/dm/-/locations/-/cities/free_city_of_greyhawk/undercity",
     "docs/assets/pc/pc_usopp.png",
     "docs/assets/pc/pc_ugus_bugus.png",
-    "docs/assets/monsters/metal_cock.png",
     "Untitled.canvas"
   ]
 }

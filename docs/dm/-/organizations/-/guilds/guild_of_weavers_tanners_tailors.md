@@ -6,7 +6,7 @@ Sessões: — | Datas: — | Fontes: Gazetteer of Worlds and Realms.txt:contentR
 
 | **Português (PT-PT)** | **English (EN-US)** |
 |-----------------------|---------------------|
-| Localizada no [Artisan Quarter](artisan_quarter.md) da [Free City of Greyhawk](free_city_of_greyhawk.md), esta guilda reúne profissionais que trabalham com tecidos, peles e roupas. Os tecelões produzem tecidos finos e utilitários, os curtidores preparam couros para uso em armaduras e vestuário, e os alfaiates criam vestes luxuosas e uniformes. A guilda regula preços, qualidade e licenciamento, impondo severas punições a quem trabalha fora da sua alçada. | Located in the [Artisan Quarter](artisan_quarter.md) of the [Free City of Greyhawk](free_city_of_greyhawk.md), this guild unites professionals working with textiles, hides, and clothing. Weavers produce both fine and practical fabrics, tanners prepare leathers for armor and garments, and tailors create luxurious outfits and uniforms. The guild regulates pricing, quality, and licensing, imposing severe punishments on those who work outside its authority. |
+| Localizada no [Artisan Quarter](docs/dm/-/locations/-/cities/free_city_of_greyhawk/artisans_quarter/artisans_quarter.md) da [Free City of Greyhawk](free_city_of_greyhawk.md), esta guilda reúne profissionais que trabalham com tecidos, peles e roupas. Os tecelões produzem tecidos finos e utilitários, os curtidores preparam couros para uso em armaduras e vestuário, e os alfaiates criam vestes luxuosas e uniformes. A guilda regula preços, qualidade e licenciamento, impondo severas punições a quem trabalha fora da sua alçada. | Located in the [Artisan Quarter](docs/dm/-/locations/-/cities/free_city_of_greyhawk/artisans_quarter/artisans_quarter.md) of the [Free City of Greyhawk](free_city_of_greyhawk.md), this guild unites professionals working with textiles, hides, and clothing. Weavers produce both fine and practical fabrics, tanners prepare leathers for armor and garments, and tailors create luxurious outfits and uniforms. The guild regulates pricing, quality, and licensing, imposing severe punishments on those who work outside its authority. |
 
 ---
 
@@ -30,7 +30,7 @@ Sessões: — | Datas: — | Fontes: Gazetteer of Worlds and Realms.txt:contentR
 
 | **Português (PT-PT)** | **English (EN-US)** |
 |-----------------------|---------------------|
-| - [Artisan Quarter](artisan_quarter.md), sede da guilda.<br>- Oficinas de curtidores junto às margens do rio, devido ao cheiro forte dos processos. | - [Artisan Quarter](artisan_quarter.md), guild headquarters.<br>- Tanner workshops near the riverbanks due to the strong smells of their trade. |
+| - [Artisan Quarter](docs/dm/-/locations/-/cities/free_city_of_greyhawk/artisans_quarter/artisans_quarter.md), sede da guilda.<br>- Oficinas de curtidores junto às margens do rio, devido ao cheiro forte dos processos. | - [Artisan Quarter](docs/dm/-/locations/-/cities/free_city_of_greyhawk/artisans_quarter/artisans_quarter.md), guild headquarters.<br>- Tanner workshops near the riverbanks due to the strong smells of their trade. |
 
 ---
 

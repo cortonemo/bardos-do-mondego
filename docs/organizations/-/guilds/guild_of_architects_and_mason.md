@@ -6,7 +6,7 @@ Sessões: — | Datas: — | Fontes: Gazetteer of Worlds and Realms.txt:contentR
 
 | **Português (PT-PT)** | **English (EN-US)** |
 |-----------------------|---------------------|
-| Uma guilda sediada no [Bairro dos Artesãos](artisans_quarter.md), responsável pela construção das maiores obras de pedra e arquitetura da [Cidade Livre de Greyhawk](free_city_of_greyhawk.md). Desde muralhas defensivas até templos e palácios, a guilda é sinónimo de solidez e prestígio. Os seus membros são conhecidos pelo sigilo nos rituais de admissão e pela rivalidade interna entre mestres construtores. | A guild based in the [Artisan Quarter](artisans_quarter.md), responsible for erecting the greatest stoneworks and architectural feats of the [Free City of Greyhawk](free_city_of_greyhawk.md). From defensive walls to temples and palaces, the guild is synonymous with solidity and prestige. Its members are known for secretive admission rituals and internal rivalries between master builders. |
+| Uma guilda sediada no [Bairro dos Artesãos](docs/locations/-/cities/free_city_of_greyhawk/artisans_quarter/artisans_quarter.md), responsável pela construção das maiores obras de pedra e arquitetura da [Cidade Livre de Greyhawk](free_city_of_greyhawk.md). Desde muralhas defensivas até templos e palácios, a guilda é sinónimo de solidez e prestígio. Os seus membros são conhecidos pelo sigilo nos rituais de admissão e pela rivalidade interna entre mestres construtores. | A guild based in the [Artisan Quarter](docs/locations/-/cities/free_city_of_greyhawk/artisans_quarter/artisans_quarter.md), responsible for erecting the greatest stoneworks and architectural feats of the [Free City of Greyhawk](free_city_of_greyhawk.md). From defensive walls to temples and palaces, the guild is synonymous with solidity and prestige. Its members are known for secretive admission rituals and internal rivalries between master builders. |
 
 ---
 
@@ -30,6 +30,6 @@ Sessões: — | Datas: — | Fontes: Gazetteer of Worlds and Realms.txt:contentR
 
 | **Português (PT-PT)** | **English (EN-US)** |
 |-----------------------|---------------------|
-| - [Bairro dos Artesãos](artisans_quarter.md), sede da guilda.<br>- Canteiros de pedra e oficinas em várias zonas da cidade. | - [Artisan Quarter](artisans_quarter.md), guild headquarters.<br>- Stone yards and workshops across the city. |
+| - [Bairro dos Artesãos](docs/locations/-/cities/free_city_of_greyhawk/artisans_quarter/artisans_quarter.md), sede da guilda.<br>- Canteiros de pedra e oficinas em várias zonas da cidade. | - [Artisan Quarter](docs/locations/-/cities/free_city_of_greyhawk/artisans_quarter/artisans_quarter.md), guild headquarters.<br>- Stone yards and workshops across the city. |
 
 ---

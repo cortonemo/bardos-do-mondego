@@ -40,7 +40,7 @@
 
 | **Português (PT-PT)** | **English (EN-US)** |
 |-----------------------|---------------------|
-| A Grande Taberna é a manifestação multidimensional da Estalagem da Companhia. Situada atualmente no [Artisan Quarter](artisan_quarter.md) da [Free City of Greyhawk](free_city_of_greyhawk.md), existe simultaneamente em múltiplos planos. Dentro dela, reina uma proteção arcana que impede qualquer violência. | The Great Tavern is the multidimensional manifestation of the Company’s Inn. Currently located in the [Artisan Quarter](artisan_quarter.md) of the [Free City of Greyhawk](free_city_of_greyhawk.md), it exists simultaneously across multiple planes. Inside, an arcane protection prevents any violence. |
+| A Grande Taberna é a manifestação multidimensional da Estalagem da Companhia. Situada atualmente no [Artisan Quarter](docs/dm/-/locations/-/cities/free_city_of_greyhawk/artisans_quarter/artisans_quarter.md) da [Free City of Greyhawk](free_city_of_greyhawk.md), existe simultaneamente em múltiplos planos. Dentro dela, reina uma proteção arcana que impede qualquer violência. | The Great Tavern is the multidimensional manifestation of the Company’s Inn. Currently located in the [Artisan Quarter](docs/dm/-/locations/-/cities/free_city_of_greyhawk/artisans_quarter/artisans_quarter.md) of the [Free City of Greyhawk](free_city_of_greyhawk.md), it exists simultaneously across multiple planes. Inside, an arcane protection prevents any violence. |
 
 ---
 
@@ -64,6 +64,6 @@
 
 | **Português (PT-PT)** | **English (EN-US)** |
 |-----------------------|---------------------|
-| - [Artisan Quarter](artisan_quarter.md), onde se encontra ancorada.<br>- Corredores mutáveis adaptados aos hóspedes.<br>- Portais dimensionais ligados a outros planos. | - [Artisan Quarter](artisan_quarter.md), where it is anchored.<br>- Shifting corridors adapted to guests.<br>- Dimensional portals linked to other planes. |
+| - [Artisan Quarter](docs/dm/-/locations/-/cities/free_city_of_greyhawk/artisans_quarter/artisans_quarter.md), onde se encontra ancorada.<br>- Corredores mutáveis adaptados aos hóspedes.<br>- Portais dimensionais ligados a outros planos. | - [Artisan Quarter](docs/dm/-/locations/-/cities/free_city_of_greyhawk/artisans_quarter/artisans_quarter.md), where it is anchored.<br>- Shifting corridors adapted to guests.<br>- Dimensional portals linked to other planes. |
 
 ---

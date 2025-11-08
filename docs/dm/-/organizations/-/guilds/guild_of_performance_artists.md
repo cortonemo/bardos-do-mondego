@@ -6,7 +6,7 @@ Sessões: — | Datas: — | Fontes: Gazetteer of Worlds and Realms.txt:contentR
 
 | **Português (PT-PT)** | **English (EN-US)** |
 |-----------------------|---------------------|
-| A Guilda dos Artistas Performativos está sediada no [Artisan Quarter](artisan_quarter.md) da [Free City of Greyhawk](free_city_of_greyhawk.md). Reúne músicos, bardos, atores e dançarinos, responsáveis por animar festivais, tavernas e celebrações oficiais. O grupo regula atuações públicas, estabelece preços mínimos e protege os seus membros contra exploração por nobres ou comerciantes. | The Guild of Performance Artists is headquartered in the [Artisan Quarter](artisan_quarter.md) of the [Free City of Greyhawk](free_city_of_greyhawk.md). It brings together musicians, bards, actors, and dancers, who animate festivals, taverns, and official celebrations. The guild regulates public performances, sets minimum prices, and protects its members from exploitation by nobles or merchants. |
+| A Guilda dos Artistas Performativos está sediada no [Artisan Quarter](docs/dm/-/locations/-/cities/free_city_of_greyhawk/artisans_quarter/artisans_quarter.md) da [Free City of Greyhawk](free_city_of_greyhawk.md). Reúne músicos, bardos, atores e dançarinos, responsáveis por animar festivais, tavernas e celebrações oficiais. O grupo regula atuações públicas, estabelece preços mínimos e protege os seus membros contra exploração por nobres ou comerciantes. | The Guild of Performance Artists is headquartered in the [Artisan Quarter](docs/dm/-/locations/-/cities/free_city_of_greyhawk/artisans_quarter/artisans_quarter.md) of the [Free City of Greyhawk](free_city_of_greyhawk.md). It brings together musicians, bards, actors, and dancers, who animate festivals, taverns, and official celebrations. The guild regulates public performances, sets minimum prices, and protects its members from exploitation by nobles or merchants. |
 
 ---
 
@@ -30,7 +30,7 @@ Sessões: — | Datas: — | Fontes: Gazetteer of Worlds and Realms.txt:contentR
 
 | **Português (PT-PT)** | **English (EN-US)** |
 |-----------------------|---------------------|
-| - [Artisan Quarter](artisan_quarter.md), sede da guilda.<br>- Teatros e praças da cidade onde só artistas licenciados podem atuar. | - [Artisan Quarter](artisan_quarter.md), guild headquarters.<br>- Theaters and city squares where only licensed performers may play. |
+| - [Artisan Quarter](docs/dm/-/locations/-/cities/free_city_of_greyhawk/artisans_quarter/artisans_quarter.md), sede da guilda.<br>- Teatros e praças da cidade onde só artistas licenciados podem atuar. | - [Artisan Quarter](docs/dm/-/locations/-/cities/free_city_of_greyhawk/artisans_quarter/artisans_quarter.md), guild headquarters.<br>- Theaters and city squares where only licensed performers may play. |
 
 ---
 

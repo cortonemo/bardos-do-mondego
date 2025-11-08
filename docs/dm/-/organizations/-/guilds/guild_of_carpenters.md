@@ -6,7 +6,7 @@ Sessões: — | Datas: — | Fontes: Gazetteer of Worlds and Realms.txt:contentR
 
 | **Português (PT-PT)** | **English (EN-US)** |
 |-----------------------|---------------------|
-| Uma das guildas mais antigas da [Cidade Livre de Greyhawk](free_city_of_greyhawk.md), com sede no [Bairro dos Artesãos](artisans_quarter.md), próximo da [Grande Taberna](great_tavern.md). A Guilda dos Carpinteiros supervisiona a construção de edifícios civis e residenciais, embarcações menores e estruturas utilitárias. É conhecida pela qualidade das suas madeiras importadas e pelas regras rígidas de admissão de aprendizes. | One of the oldest guilds in the [Free City of Greyhawk](free_city_of_greyhawk.md), headquartered in the [Artisan Quarter](artisans_quarter.md), near the [Great Tavern](great_tavern.md). The Guild of Carpenters oversees the construction of civic and residential buildings, smaller vessels, and utility structures. It is renowned for its high-quality imported wood and strict rules for apprentice admission. |
+| Uma das guildas mais antigas da [Cidade Livre de Greyhawk](free_city_of_greyhawk.md), com sede no [Bairro dos Artesãos](docs/locations/-/cities/free_city_of_greyhawk/artisans_quarter/artisans_quarter.md), próximo da [Grande Taberna](great_tavern.md). A Guilda dos Carpinteiros supervisiona a construção de edifícios civis e residenciais, embarcações menores e estruturas utilitárias. É conhecida pela qualidade das suas madeiras importadas e pelas regras rígidas de admissão de aprendizes. | One of the oldest guilds in the [Free City of Greyhawk](free_city_of_greyhawk.md), headquartered in the [Artisan Quarter](docs/locations/-/cities/free_city_of_greyhawk/artisans_quarter/artisans_quarter.md), near the [Great Tavern](great_tavern.md). The Guild of Carpenters oversees the construction of civic and residential buildings, smaller vessels, and utility structures. It is renowned for its high-quality imported wood and strict rules for apprentice admission. |
 
 ---
 
@@ -30,7 +30,7 @@ Sessões: — | Datas: — | Fontes: Gazetteer of Worlds and Realms.txt:contentR
 
 | **Português (PT-PT)** | **English (EN-US)** |
 |-----------------------|---------------------|
-| - [Bairro dos Artesãos](artisans_quarter.md), sede da guilda.<br>- Oficinas afiliadas em todo o distrito. | - [Artisan Quarter](artisans_quarter.md), guild headquarters.<br>- Affiliated workshops throughout the district. |
+| - [Bairro dos Artesãos](docs/locations/-/cities/free_city_of_greyhawk/artisans_quarter/artisans_quarter.md), sede da guilda.<br>- Oficinas afiliadas em todo o distrito. | - [Artisan Quarter](docs/locations/-/cities/free_city_of_greyhawk/artisans_quarter/artisans_quarter.md), guild headquarters.<br>- Affiliated workshops throughout the district. |
 
 ---
 
