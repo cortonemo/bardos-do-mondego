@@ -47,7 +47,7 @@
 | Personagem | Função / Classe | Observações |
 |-------------|-----------------|--------------|
 | [Dustin Thorne](pc_dustin_thorne.md) | Combatente / Fighter | Determinado e corajoso; liderou o ataque contra o [Galo Metálico Gigante](galo_metalico_gigante.md). |
-| [Kai](docs/pc/-/pc_kai.md) | Exploradora / Elementalist | Responsável por ativar o pilar da terra. |
+| [Kai](docs/pc/-/pc_kai_vanthir.md) | Exploradora / Elementalist | Responsável por ativar o pilar da terra. |
 | [Wagner](pc_wagner.md) | Mago / Ice Elementalist | Manipulou o gelo para abrir caminho e proteger o grupo. |
 | [Teias](pc_teias.md) | Feiticeiro(a) / Investigator | Revelou que o [Doutor Galileu](npc_doutor_galileu.md) era um autómato. |
 | [Silfir](docs/pc/-/pc_silfir.md) | Entidade mágica / Magical Entity | Autoidentifica-se como “memória do inverno.” |

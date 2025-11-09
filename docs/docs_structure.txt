@@ -87,10 +87,11 @@
 │   │   ├── 📄 espada_mais_um.png
 │   │   ├── 📄 gema_das_cinco_vozes.webp
 │   │   ├── 📄 livro_druida.jpg
+│   │   ├── 📄 loot_blank.png
 │   │   ├── 📄 magic_compass.png
-│   │   ├── 📄 object_blank.png
 │   │   ├── 📄 red_diamond.png
 │   │   ├── 📄 ruined_book.png
+│   │   ├── 📄 tavern_ring.md
 │   │   └── 📄 topaz.webp
 │   ├── 📂 monsters/
 │   │   ├── 📄 corrupt_human.png
@@ -327,6 +328,7 @@
 │   │   │       │   ├── 📄 lago_umbra.md
 │   │   │       │   ├── 📄 mina_de_obsidiana.md
 │   │   │       │   ├── 📄 mirens_hallow.md
+│   │   │       │   ├── 📄 neen_river.md
 │   │   │       │   ├── 📄 peculiar_manor.md
 │   │   │       │   ├── 📄 refugio_do_errante.md
 │   │   │       │   ├── 📄 riacho_subterraneo.md
@@ -421,6 +423,7 @@
 │   │   │   │   ├── 📄 npc_mr0.md
 │   │   │   │   ├── 📄 npc_mr_mustard.md
 │   │   │   │   ├── 📄 npc_neliara_de_oghma.md
+│   │   │   │   ├── 📄 npc_ratu.md
 │   │   │   │   ├── 📄 npc_sister_blathine.md
 │   │   │   │   ├── 📄 npc_tobias_greenbottle.md
 │   │   │   │   ├── 📄 npc_tomtha_beaknose.md
@@ -448,6 +451,9 @@
 │   │   │   │   ├── 📄 npc_luthor_greystone.md
 │   │   │   │   ├── 📄 npc_malrik_dorn.md
 │   │   │   │   └── 📄 npc_vareth_lionmane.md
+│   │   │   ├── 📂 Two Fords/
+│   │   │   │   ├── 📄 npc_geralt.md
+│   │   │   │   └── 📄 npc_lila.md
 │   │   │   ├── 📂 Underdark Paladin/
 │   │   │   │   ├── 📄 npc_brand_orvain.md
 │   │   │   │   ├── 📄 npc_brandon_bane.md
@@ -488,7 +494,7 @@
 │   │   │       │   ├── 📄 dragon_arcana_co.md
 │   │   │       │   ├── 📄 funguys.md
 │   │   │       │   ├── 📄 ratus_workshop.md
-│   │   │       │   └── 📄 the_company.md
+│   │   │       │   └── 📄 the_inn.md
 │   │   │       ├── 📂 arcane orders/
 │   │   │       │   ├── 📄 circle_of_coin_mages.md
 │   │   │       │   ├── 📄 circle_of_eight.md
@@ -559,7 +565,7 @@
 │   │   │   ├── 📄 pc_friedrick_junsi.md
 │   │   │   ├── 📄 pc_gauthak_vunakamune.md
 │   │   │   ├── 📄 pc_grix_molah.md
-│   │   │   ├── 📄 pc_kai.md
+│   │   │   ├── 📄 pc_kai_vanthir.md
 │   │   │   ├── 📄 pc_ketrich_flavifer.md
 │   │   │   ├── 📄 pc_leo.md
 │   │   │   ├── 📄 pc_lone_straw.md
@@ -599,6 +605,11 @@
 │   │       ├── 📄 monstros_por_aventura.md
 │   │       ├── 📄 npcs_por_aventura.md
 │   │       └── 📄 pcs_por_aventura.md
+│   └── 📂 .obsidian/
+│       ├── 📄 app.json
+│       ├── 📄 appearance.json
+│       ├── 📄 core-plugins.json
+│       └── 📄 workspace.json
 ├── 📂 locations/
 │   └── 📂 -/
 │       ├── 📂 cities/
@@ -816,7 +827,8 @@
 │       │   ├── 📄 npc_tobias_greenbottle.md
 │       │   ├── 📄 npc_tomtha_beaknose.md
 │       │   ├── 📄 npc_trixie.md
-│       │   └── 📄 npc_wenla_frott.md
+│       │   ├── 📄 npc_wenla_frott.md
+│       │   └── 📄 ratu.md
 │       ├── 📂 Mirens Hallow/
 │       │   ├── 📄 npc_calra_brightwater.md
 │       │   └── 📄 npc_thamior.md
@@ -947,7 +959,7 @@
 │       ├── 📄 pc_friedrick_junsi.md
 │       ├── 📄 pc_gauthak_vunakamune.md
 │       ├── 📄 pc_grix_molah.md
-│       ├── 📄 pc_kai.md
+│       ├── 📄 pc_kai_vanthir.md
 │       ├── 📄 pc_ketrich_flavifer.md
 │       ├── 📄 pc_leo.md
 │       ├── 📄 pc_lone_straw.md

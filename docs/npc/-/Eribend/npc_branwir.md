@@ -10,7 +10,7 @@
 | **Alinhamento:** ???                                                              | **Alignment:** ???                                                              |
 | **Profissão:** Mendigo e contador de histórias                                    | **Profession:** Beggar and storyteller                                          |
 | **Função:** Fonte de rumores e pistas iniciais sobre ruínas e perigos esquecidos. | **Role:** Source of rumors and initial clues about ruins and forgotten dangers. |
-| **Localização:** [Eribend](eribend.md)                                            | **Location:** [Eribend](eribend.md)                                             |
+| **Localização:** [Eribend](docs/locations/-/regions/eribend.md)                                            | **Location:** [Eribend](docs/locations/-/regions/eribend.md)                                             |
 
 ---
 

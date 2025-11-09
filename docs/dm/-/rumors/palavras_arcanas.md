@@ -1,4 +1,4 @@
-﻿### Palavras Arcanas
+### Palavras Arcanas
 
 Sessão: 1 | Data: 2025-08-02 | Fonte: s01.txt | Tags: rumor, magia, nota
 

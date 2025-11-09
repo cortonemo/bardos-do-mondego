@@ -73,7 +73,7 @@
 
 | **📖 História – Depois da Taberna** | **📖 Story – After the Tavern** |
 | :--- | :--- |
-| - Ajudou a libertar templos corrompidos de [Nerull](nerull.md) com [Grix’Molah](pc_grix_molah.md).<br>- Fez contacto com entidades feéricas durante missões no [Feywild](feywild.md).<br>- Desenvolveu uma relação próxima com [Grix](pc_grix_molah.md), com quem planeia ir a um baile.<br>- Ganhou inspiração de [Titania](docs/npc/-/Fey/npc_titania.md) após purificar caveiras atormentadas.<br>- Tornou-se uma das vozes de equilíbrio no grupo dos **[Funguys](funguys.md)**. | - Helped cleanse [Nerull](nerull.md)-corrupted temples with [Grix’Molah](pc_grix_molah.md).<br>- Encountered fey entities during missions in the [Feywild](feywild.md).<br>- Developed a close bond with [Grix](pc_grix_molah.md), with whom she plans to attend a ball.<br>- Gained [Titania’s](docs/npc/-/Fey/npc_titania.md) inspiration after freeing tortured skulls.<br>- Became one of the balancing voices of the **[Funguys](funguys.md)** party. |
+| - Ajudou a libertar templos corrompidos de [Nerull](docs/dm/-/organizations/-/cults/cult_of_nerull.md) com [Grix’Molah](pc_grix_molah.md).<br>- Fez contacto com entidades feéricas durante missões no [Feywild](feywild.md).<br>- Desenvolveu uma relação próxima com [Grix](pc_grix_molah.md), com quem planeia ir a um baile.<br>- Ganhou inspiração de [Titania](docs/npc/-/Fey/npc_titania.md) após purificar caveiras atormentadas.<br>- Tornou-se uma das vozes de equilíbrio no grupo dos **[Funguys](funguys.md)**. | - Helped cleanse [Nerull](docs/dm/-/organizations/-/cults/cult_of_nerull.md)-corrupted temples with [Grix’Molah](pc_grix_molah.md).<br>- Encountered fey entities during missions in the [Feywild](feywild.md).<br>- Developed a close bond with [Grix](pc_grix_molah.md), with whom she plans to attend a ball.<br>- Gained [Titania’s](docs/npc/-/Fey/npc_titania.md) inspiration after freeing tortured skulls.<br>- Became one of the balancing voices of the **[Funguys](funguys.md)** party. |
 
 ---
 
@@ -83,7 +83,7 @@
 | :--- | :--- |
 | **NPCs de influência direta:** <br>- [Grix’Molah](pc_grix_molah.md) – aliado, companheiro próximo.<br>- [Titania](docs/npc/-/Fey/npc_titania.md) – Archfey, concedeu inspiração. | **Direct Influence NPCs:** <br>- [Grix’Molah](pc_grix_molah.md) – ally, close companion.<br>- [Titania](docs/npc/-/Fey/npc_titania.md) – Archfey, granted inspiration. |
 | **Antagonistas:** <br>- [por preencher]<br> | **Antagonists:** <br>-[to be filled] |
-| **Aliados:** <br>- Companheiros **[Funguys](funguys.md)**: [Kai](pc_kai.md), [Dustin](pc_dustin_thorne.md), [Conan](pc_conan_barbaro_ra.md), [Raylahn](pc_raylahn.md), [Eirwen](pc_eirwen.md), [Leo](pc_leo.md), [Sarvian](pc_sarvian_midlor.md) | **Allies:** <br>- **[Funguys](funguys.md)** companions: [Kai](pc_kai.md), [Dustin](pc_dustin_thorne.md), [Conan](pc_conan_barbaro_ra.md), [Raylahn](pc_raylahn.md), [Eirwen](pc_eirwen.md), [Leo](pc_leo.md), [Sarvian](pc_sarvian_midlor.md) |
+| **Aliados:** <br>- Companheiros **[Funguys](funguys.md)**: [Kai](docs/dm/-/pc/pc_kai_vanthir.md), [Dustin](pc_dustin_thorne.md), [Conan](pc_conan_barbaro_ra.md), [Raylahn](pc_raylahn.md), [Eirwen](pc_eirwen.md), [Leo](pc_leo.md), [Sarvian](pc_sarvian_midlor.md) | **Allies:** <br>- **[Funguys](funguys.md)** companions: [Kai](docs/dm/-/pc/pc_kai_vanthir.md), [Dustin](pc_dustin_thorne.md), [Conan](pc_conan_barbaro_ra.md), [Raylahn](pc_raylahn.md), [Eirwen](pc_eirwen.md), [Leo](pc_leo.md), [Sarvian](pc_sarvian_midlor.md) |
 
 ---
 

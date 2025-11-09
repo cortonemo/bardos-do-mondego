@@ -1,6 +1,7 @@
 # Conan, o Bárbaro-Rã ([S01](s01_purificacao_riacho.md), [S02](s02_miner_difficulties.md), [S04B](s04b_vale_sombrio_culto_alado.md), [S07B](s07b_pantano_basilisco.md), [S08B](s08b_templo_basilisco_pedras.md), [S10B](s10b_resgate_rolger.md), [S14A](s14a_guildas_greyhawk.md), [S17A](s17a_missao_assassinos.md), [S22](s22a_golpe_dados_rubi_p1.md), [S23](s23a_golpe_dados_rubi_p2.md))
 
-![pc_conan_barbaro_ra_00](pc_conan_barbaro_ra_00.png)
+| ![pc_conan_barbaro_ra_00](pc_conan_barbaro_ra_00.png){ width=200 } |
+| ------------------------------------------------------------------ |
 
 ---
 ### 🧙 Personagem / 🧙 Character Details

@@ -1,8 +1,8 @@
 # [Eirwen](pc_eirwen.md) ([S29A](s29a_museu_sombras_p2.md), [S30A](s30a_polimorfismo_sea_hag.md) , [S31](s31_idolo_lady_scale_p3.md))
 
-| ![pc_eirwen_01](pc_eirwen_01.png) | ![pc_eirwen_02](pc_eirwen_02.png) | ![pc_eirwen_03](pc_eirwen_03.png) |
-| -------------------------------------------- | -------------------------------------------- | ---------------------------------------------------------- |
-| arte por Élavar 💙 | - | ***Ninguém se lembra do eclipse.<br>Ninguém exceto ela.*** |
+| ![pc_eirwen_01](pc_eirwen_01.png){ width=200 } | ![pc_eirwen_02](pc_eirwen_02.png){ width=200 } | ![pc_eirwen_03](pc_eirwen_03.png){ width=200 }             |
+| ---------------------------------------------- | ---------------------------------------------- | ---------------------------------------------------------- |
+| arte por Élavar 💙                             | -                                              | ***Ninguém se lembra do eclipse.<br>Ninguém exceto ela.*** |
 
 ---
 

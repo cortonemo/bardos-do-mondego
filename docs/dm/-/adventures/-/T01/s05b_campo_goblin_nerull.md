@@ -13,17 +13,17 @@
 
 | Descrição | PT | EN |
 | :--- | :--- | :--- |
-| **Missão Principal** | O grupo é convocado para uma missão de reconhecimento e resgate no Noroeste, numa clareira junto a um riacho. O objetivo é libertar os viajantes sequestrados de caravanas de [Two Fords](two_fords.md) que estão a ser mantidos num **Acampamento Goblin** para serem usados em rituais do Culto de [Nerull](nerull.md). | The party is summoned for a reconnaissance and rescue mission in the Northwest, at a clearing by a stream. The goal is to free kidnapped travelers from [Two Fords](two_fords.md) caravans who are being held captive at a **Goblin Camp** for use in [Nerull](nerull.md) Cult rituals. |
-| **Resultado** | O grupo usou táticas inteligentes, incluindo uma **ilusão criativa** para afogar um Ogro vigia. Confrontaram e derrotaram o **Xamã Goblin Jogmaahx** no altar de [Nerull](nerull.md). Os escravos de outras raças foram libertados, o altar foi destruído, e o grupo recuperou provas dos planos futuros do Culto através de uma carta. | The party used clever tactics, including a **creative illusion** to drown an Ogre guard. They confronted and defeated the **Goblin Shaman Jogmaahx** at the [Nerull](nerull.md) altar. Slaves of other races were freed, the altar was destroyed, and the party recovered evidence of the Cult's future plans via a letter. |
+| **Missão Principal** | O grupo é convocado para uma missão de reconhecimento e resgate no Noroeste, numa clareira junto a um riacho. O objetivo é libertar os viajantes sequestrados de caravanas de [Two Fords](docs/locations/-/regions/two_fords.md) que estão a ser mantidos num **Acampamento Goblin** para serem usados em rituais do Culto de [Nerull](docs/dm/-/organizations/-/cults/cult_of_nerull.md). | The party is summoned for a reconnaissance and rescue mission in the Northwest, at a clearing by a stream. The goal is to free kidnapped travelers from [Two Fords](docs/locations/-/regions/two_fords.md) caravans who are being held captive at a **Goblin Camp** for use in [Nerull](docs/dm/-/organizations/-/cults/cult_of_nerull.md) Cult rituals. |
+| **Resultado** | O grupo usou táticas inteligentes, incluindo uma **ilusão criativa** para afogar um Ogro vigia. Confrontaram e derrotaram o **Xamã Goblin Jogmaahx** no altar de [Nerull](docs/dm/-/organizations/-/cults/cult_of_nerull.md). Os escravos de outras raças foram libertados, o altar foi destruído, e o grupo recuperou provas dos planos futuros do Culto através de uma carta. | The party used clever tactics, including a **creative illusion** to drown an Ogre guard. They confronted and defeated the **Goblin Shaman Jogmaahx** at the [Nerull](docs/dm/-/organizations/-/cults/cult_of_nerull.md) altar. Slaves of other races were freed, the altar was destroyed, and the party recovered evidence of the Cult's future plans via a letter. |
 
 ---
 ## 🎲 Key Events / Eventos Chave
 
 | Evento | PT | EN |
 | :--- | :--- | :--- |
-| **O Aviso da Guilda** | A sobrinha do taberneiro alerta o grupo para o trabalho: libertar prisioneiros raptados (humanos e elfos) para rituais em nome de [Nerull](nerull.md). Os prisioneiros foram sequestrados de caravanas entre [Two Fords](two_fords.md) e [Erybend](erybend.md). | The barkeep's niece alerts the party to the job: freeing kidnapped prisoners (humans and elves) for rituals in the name of [Nerull](nerull.md). The prisoners were abducted from caravans traveling between [Two Fords](two_fords.md) and [Erybend](erybend.md). |
+| **O Aviso da Guilda** | A sobrinha do taberneiro alerta o grupo para o trabalho: libertar prisioneiros raptados (humanos e elfos) para rituais em nome de [Nerull](docs/dm/-/organizations/-/cults/cult_of_nerull.md). Os prisioneiros foram sequestrados de caravanas entre [Two Fords](docs/locations/-/regions/two_fords.md) e [Erybend](erybend.md). | The barkeep's niece alerts the party to the job: freeing kidnapped prisoners (humans and elves) for rituals in the name of [Nerull](docs/dm/-/organizations/-/cults/cult_of_nerull.md). The prisoners were abducted from caravans traveling between [Two Fords](docs/locations/-/regions/two_fords.md) and [Erybend](erybend.md). |
 | **A Morte do Ogro** | O grupo usou a magia de **[Sarvian Midlor](pc_sarvian_midlor.md)** (*Silent Image*) e o talento de voz de **[Drayl Bharash](pc_drayl_bharash.md)** (*Minor Illusion*) para atrair o Ogro vigia para o rio, fingindo ser uma Ogro fêmea. O Ogro, seduzido pela voz e figura, é afogado. | The party used **[Sarvian Midlor](pc_sarvian_midlor.md)'s** magic (*Silent Image*) and **[Drayl Bharash](pc_drayl_bharash.md)'s** voice talent (*Minor Illusion*) to lure the Ogre guard to the river, pretending to be a female Ogre. The Ogre, seduced by the voice and figure, is drowned. |
-| **O Confronto no Altar** | O grupo ataca o **Xamã Goblin Jogmaahx** no altar de [Nerull](nerull.md). **[Usopp](pc_usopp.md)** e o **[Wandering Sage](pc_wandering_sage.md)** usam *stealth* para atacar o Xamã desprevenido. Jogmaahx invoca **2 Zombies** (que ficam enfraquecidos após a sua morte) antes de ser derrotado. | The party attacks **Goblin Shaman Jogmaahx** at the [Nerull](nerull.md) altar. **[Usopp](pc_usopp.md)** and the **[Wandering Sage](pc_wandering_sage.md)** use *stealth* to attack the Shaman unprepared. Jogmaahx summons **2 Zombies** (who are weakened after his death) before being defeated. |
+| **O Confronto no Altar** | O grupo ataca o **Xamã Goblin Jogmaahx** no altar de [Nerull](docs/dm/-/organizations/-/cults/cult_of_nerull.md). **[Usopp](pc_usopp.md)** e o **[Wandering Sage](pc_wandering_sage.md)** usam *stealth* para atacar o Xamã desprevenido. Jogmaahx invoca **2 Zombies** (que ficam enfraquecidos após a sua morte) antes de ser derrotado. | The party attacks **Goblin Shaman Jogmaahx** at the [Nerull](docs/dm/-/organizations/-/cults/cult_of_nerull.md) altar. **[Usopp](pc_usopp.md)** and the **[Wandering Sage](pc_wandering_sage.md)** use *stealth* to attack the Shaman unprepared. Jogmaahx summons **2 Zombies** (who are weakened after his death) before being defeated. |
 | **Escolha Moral** | O grupo liberta os prisioneiros humanos e elfos. No entanto, o goblin *charmed* que os ajudou, **[Sarvian Midlor](pc_sarvian_midlor.md)** atira-o para dentro da jaula dos goblins submissos para se matarem uns aos outros, numa decisão moralmente questionável. | The party frees the human and elf prisoners. However, the *charmed* goblin who helped them is thrown by **[Sarvian Midlor](pc_sarvian_midlor.md)** back into the submissive goblins' cage to kill each other, in a morally questionable decision. |
 
 ---
@@ -36,7 +36,7 @@
 | **[Drayl Bharash](pc_drayl_bharash.md)** | Forneceu a voz sedutora para a ilusão do Ogro. | Provided the seductive voice for the Ogre illusion. |
 | **[Wandering Sage](pc_wandering_sage.md)** | Usa *stealth* para se aproximar do Xamã. | Uses *stealth* to approach the Shaman. |
 | **[Lone Straw](pc_lone_straw.md)** | Participa na infiltração e no combate no altar. | Participates in the infiltration and combat at the altar. |
-| **[Jogmaahx](jogmaahx.md)** | Xamã Goblin, líder da célula do culto de [Nerull](nerull.md), derrotado no altar. | Goblin Shaman, leader of the [Nerull](nerull.md) cult cell, defeated at the altar. |
+| **[Jogmaahx](jogmaahx.md)** | Xamã Goblin, líder da célula do culto de [Nerull](docs/dm/-/organizations/-/cults/cult_of_nerull.md), derrotado no altar. | Goblin Shaman, leader of the [Nerull](docs/dm/-/organizations/-/cults/cult_of_nerull.md) cult cell, defeated at the altar. |
 | **[Vaelkor Ashbrand](docs/npc/-/Abandoned%20Village/npc_vaelkor_ashbrand.md)** | Superior do culto, o autor da carta recuperada. | Cult superior, the author of the recovered letter. |
 
 ---
@@ -60,7 +60,7 @@
 ### 🤫 Secrets & Hooks / Segredos e Ganchos
 * **Vaelkor Ashbrand:** O autor da carta é um tenente de alto escalão do [Culto do Mal Elemental](cult_of_elemental_evil.md), com a missão de **conquistar as terras** através de ataques coordenados a caravanas e cidades. A sua carta liga a S05B à S04B (onde ele também é mencionado) e à S05A (Morvanya/Manvea).
 * **Consequência da Decisão:** O goblin *charmed* que foi atirado para a jaula sobrevive e torna-se um NPC recorrente, caçando o grupo mais tarde ou retornando para pedir ajuda, criando um gancho de redenção/vingança focado em **[Sarvian Midlor](pc_sarvian_midlor.md)**.
-* **Implicações do Resgate:** Os escravos libertados podem ser futuros contatos ou informantes em [Two Fords](two_fords.md) e [Erybend](erybend.md).
+* **Implicações do Resgate:** Os escravos libertados podem ser futuros contatos ou informantes em [Two Fords](docs/locations/-/regions/two_fords.md) e [Erybend](erybend.md).
 
 ### ⚙️ Contingencies / Contingências
 * **Se o Ogro atacasse:** O combate seria travado numa área mais aberta, onde a *party* teria que lidar com as patrulhas de goblins em rápida sucessão, esgotando recursos antes do confronto com Jogmaahx.
@@ -92,6 +92,6 @@ Com a conclusão da sessão **S05B: O Campo Goblin de Nerull**, os seguintes ín
 | **NPCs** | [Jogmaahx (Xamã Goblin)](jogmaahx.md) (Novo) | S05B |
 | **NPCs** | [Vaelkor Ashbrand](docs/npc/-/Abandoned%20Village/npc_vaelkor_ashbrand.md) (Novo) | S05B |
 | **Organizations** | [Culto do Mal Elemental](cult_of_elemental_evil.md) | S05B |
-| **Deities** | [Nerull](nerull.md) (Novo) | S05B |
+| **Deities** | [Nerull](docs/dm/-/organizations/-/cults/cult_of_nerull.md) (Novo) | S05B |
 
 ---

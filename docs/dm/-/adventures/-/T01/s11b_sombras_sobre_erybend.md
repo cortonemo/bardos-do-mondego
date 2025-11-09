@@ -45,10 +45,10 @@
 ### 📝 Prep Notes / Notas de Preparação
 * **Odrak/Nerzul:** O culto era dedicado a **Odrak** (deus menor do caos aéreo/vento destrutivo), mas o seu ritual final visava fortalecer a influência do deus maior **Nerzul** (que é o nome usado por Nerull no contexto do culto).
 * **Guardiões Elementais:** Os *elementais convocados* eram a manifestação da facção Vento/Ar do Culto do Mal Elemental, reforçando o tema da ameaça.
-* **O Baile:** O convite para o Baile em [Blackfair Manor](blackfair_manor.md) serve para direcionar a *party* para um dos nós centrais da conspiração do Culto de [Nerull](nerull.md) (ver S05A).
+* **O Baile:** O convite para o Baile em [Blackfair Manor](blackfair_manor.md) serve para direcionar a *party* para um dos nós centrais da conspiração do Culto de [Nerull](docs/dm/-/organizations/-/cults/cult_of_nerull.md) (ver S05A).
 
 ### 🤫 Secrets & Hooks / Segredos e Ganchos
-* **A Irmã Drow:** O gancho para **[Triss Merril](pc_triss_merril.md)** era reforçado aqui: o seu clone (ou irmã) pode ser a drow **Isa Merrill**, que é a consorte do nobre na **[Blackfair Manor](blackfair_manor.md)** e uma agente de [Nerull](nerull.md).
+* **A Irmã Drow:** O gancho para **[Triss Merril](pc_triss_merril.md)** era reforçado aqui: o seu clone (ou irmã) pode ser a drow **Isa Merrill**, que é a consorte do nobre na **[Blackfair Manor](blackfair_manor.md)** e uma agente de [Nerull](docs/dm/-/organizations/-/cults/cult_of_nerull.md).
 * **A Aliança:** A aliança com **[Erybend](erybend.md)** é estratégica. A cidade torna-se agora um alvo prioritário do Culto.
 * **Os Raptados:** Os raptados seriam usados em rituais de sacrifício para o Elemental do Ar. A sua libertação aumenta a reputação do grupo em toda a região.
 

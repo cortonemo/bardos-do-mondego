@@ -1,42 +1,134 @@
-## Two Fords / Two Fords (Vila/Região)
+# TWO FORDS [S04A](s04a_culto_two_fords.md)
 
-A vila de **Two Fords** (também referida como **Two Forts**) é uma pequena comunidade de importância **estratégica** na campanha, conhecida pela sua ponte dupla sobre o **Rio Ery**. Está localizada numa **rota comercial crucial** que liga Greyhawk a cidades como Erybend.
+| ![banner](location_blank.png){ width=260 } |
+| :----------------------------------------: |
 
-A sua importância deve-se principalmente à sua localização como um **ponto nodal** e um alvo recorrente das conspirações do **Culto do Mal Elemental (CME)**.
+---
+
+### 🧭 Identidade / 🧭 Identity
+
+| 🧭 Identidade | 🧭 Identity |
+| --- | --- |
+| **Tipo:** Vila | **Type:** Village |
+| **Região:** [to be translated] | **Region:** [to be translated] |
+| **Coordenadas/Mapa:** [to be translated] | **Coordinates/Map:** [to be translated] |
+| **Importância Estratégica:** Nó de comércio potencial; Local de mineração | **Strategic Importance:** Potential Trade Node; Mining Location |
+| **Etiquetas de Arco:** 🦑 CME (Corrupção da Água) | **Arc Tags:** 🦑 CEE (Water Corruption) |
 
 ---
 
 ### 📜 Descrição Geral / 📜 General Description
 
-| 📜 Descrição Física | 📜 Physical Description |
+| 📜 Descrição | 📜 Description |
+| --- | --- |
+| [Two Fords](docs/locations/-/regions/two_fords.md) é uma pequena vila notável por ter sido o ponto de partida de uma investigação crucial na [Temporada 01](t01.md). A comunidade enfrentou uma crise de doença causada pela contaminação da água. O incidente foi ligado ao [Culto do Mal Elemental (CME)](cult_of_elemental_evil.md) através de um ritual num moinho próximo where the Cult was performing a ritual intended to spread fungal spores in the [Ery River]]. A aldeia também é conhecida pelas suas minas. | [Two Fords](docs/locations/-/regions/two_fords.md) is a small village significant for being the starting point of a crucial investigation in [Season 01](t01.md). The community faced an illness crisis caused by water contamination. The incident was linked to the [Cult of Elemental Evil (CEE)](cult_of_elemental_evil.md) via a ritual at a nearby mill where the Cult was performing a ritual intended to spread fungal spores in the [Ery River]]. The village is also known for its mines. |
+
+---
+
+### 🗺️ Marcos / 🗺️ Landmarks
+
+| 🗺️ Marcos | 🗺️ Landmarks |
+| --- | --- |
+| - **Estalagem de Geralt:** O ponto focal da missão, onde o estalajadeiro [Geralt](npc_geralt.md) e a sua filha [Lila](npc_lila.md) estavam doentes. <br> - **[Moinho Abandonado](abandoned_mill.md):** O local do ritual do [CME](cult_of_elemental_evil.md) para espalhar esporos fúngicos where the Cult was performing a ritual intended to spread fungal spores in the [Ery River]]. <br> - **[Minas de Two Fords](two_fords_mines.md):** Local de interesse estratégico ligado a células do [Culto](cult_of_elemental_evil.md).] | - **Geralt's Inn:** The mission focal point where the innkeeper [Geralt](npc_geralt.md) and his daughter [Lila](npc_lila.md) were sick. <br> - **[Abandoned Mill](abandoned_mill.md):** The site of the [CEE](cult_of_elemental_evil.md) ritual to spread fungal spores where the Cult was performing a ritual intended to spread fungal spores in the [Ery River]]. <br> - **[Two Fords Mines](two_fords_mines.md):** Location of strategic interest linked to [Cult](cult_of_elemental_evil.md) cells.] |
+
+---
+
+### ⚖️ Autoridade e Leis / ⚖️ Authority and Laws
+
+| ⚖️ Autoridade e Leis | ⚖️ Authority and Laws |
+| --- | --- |
+| **Governo:** [to be translated] <br> **Leis Notáveis:** [to be translated] <br> **Segurança:** [to be translated] | **Government:** [to be translated] <br> **Notable Laws:** [to be translated] <br> **Security:** [to be translated] |
+
+---
+
+### 🛒 Economia e Serviços / 🛒 Economy and Services
+
+| 🛒 Economia e Serviços | 🛒 Economy and Services |
+| --- | --- |
+| **Estalagem/Taberna:** Estalagem de [Geralt](npc_geralt.md). [Geralt](npc_geralt.md) poderia oferecer a estalagem como refúgio ou ponto de contacto para comércio futuro <br> **Mercado/Artesãos:** [to be translated] <br> **Templos/Curandeiros:** [to be translated] | **Inn/Tavern:** [Geralt's](npc_geralt.md) Inn. [Geralt](npc_geralt.md) could offer the inn as a safe haven or contact point for future trade <br> **Market/Crafts:** [to be translated] <br> **Temples/Healers:** [to be translated] |
+
+---
+
+### 🎭 Fações e Influência / 🎭 Factions and Influence
+
+| 🎭 Fações e Influência | 🎭 Factions and Influence |
+| --- | --- |
+| - **[Culto do Mal Elemental (CME)](cult_of_elemental_evil.md):** Presença ativa através da contaminação da água e rituais com esporos fúngicos, The party’s investigation led them to an [Abandoned Mill] where the Cult was performing a ritual intended to spread fungal spores in the [Ery River]] <br> - **[Kobolds da Região](kobolds_two_fords.md):** Indicadores de rotas de comércio ou mineração; ligados a informações sobre as minas]. | - **[Cult of Elemental Evil (CEE)](cult_of_elemental_evil.md):** Active presence via water contamination and fungal spore rituals, The party’s investigation led them to an [Abandoned Mill] where the Cult was performing a ritual intended to spread fungal spores in the [Ery River]] <br> - **[Local Kobolds](kobolds_two_fords.md):** Indicated trade routes or mining interest; linked to information about the mines]. |
+
+---
+
+### 🧨 Ameaças e Eventos Ativos / 🧨 Threats and Active Events
+
+| 🧨 Ameaças e Eventos | 🧨 Threats and Events |
+| --- | --- |
+| - **Praga de Contaminação (S04A):** Doença misteriosa causada pela ingestão de água contaminada do [Rio Ery](neen_river.md). | - **Contamination Plague (S04A):** Mysterious illness caused by ingesting contaminated water from the [Ery River](neen_river.md). |
+
+---
+
+### 🎯 Missões e Sessões / 🎯 Quests and Sessions
+
+| 🎯 Missões e Sessões | 🎯 Quests and Sessions |
+| --- | --- |
+| - **[S04A – O Culto em Two Fords](s04a_culto_two_fords.md):** Investigação de contaminação da água ligada ao [CME](cult_of_elemental_evil.md). O evento principal ocorreu em 20 de Ready’reat, 998 CY. | - **[S04A – The Cult in Two Fords](s04a_culto_two_fords.md):** Investigation of water contamination linked to the [CEE](cult_of_elemental_evil.md). The main event occurred on Ready’reat 20th, 998 CY. |
+
+---
+
+### 👥 Elenco de Personagens / 👥 Cast of Characters
+
+| 👥 Elenco de Personagens | 👥 Cast of Characters |
+| --- | --- |
+| **NPCs Locais:** **[Geralt](npc_geralt.md)**, Estalajadeiro e catalisador da missão, **[Lila](npc_lila.md)**, a filha doente de Geralt, **[Rix](npc_rix.md)**, Kobold informador] <br> **PCs Relevantes:** [Arkos Vasell](pc_arkos_vasell.md), [Orianna](pc_orianna.md), [Wandering Sage](pc_wandering_sage.md) (participantes na S04A) | **Local NPCs:** **[Geralt](npc_geralt.md)**, Innkeeper and mission catalyst, **[Lila](npc_lila.md)**, Geralt's sick daughter, **[Rix](npc_rix.md)**, Kobold Informant] <br> **Relevant PCs:** [Arkos Vasell](pc_arkos_vasell.md), [Orianna](pc_orianna.md), [Wandering Sage](pc_wandering_sage.md) (S04A participants) |
+
+---
+
+### 🧭 Viagens e Logística / 🧭 Travel and Logistics
+
+| 🧭 Viagens e Logística | 🧭 Travel and Logistics |
+| --- | --- |
+| **Rotas de/para:** [Kaldros Veynor](npc_kaldros_veynor.md) alertou o grupo sobre a doença enquanto se dirigiam para a aldeia <br> **Terreno/Clima:** [to be translated] <br> **Perigos de Rota:** [to be translated] | **Routes to/from:** [Kaldros Veynor](npc_kaldros_veynor.md) alerted the party about the illness while they were heading to the village <br> **Terrain/Weather:** [to be translated] <br> **Route Hazards:** [to be translated] |
+
+---
+
+### 🧪 Encontros Sugeridos / 🧪 Suggested Encounters
+
+| 🧪 Encontros Sugeridos | 🧪 Suggested Encounters |
+| --- | --- |
+| **Tier 1:** Confronto com agentes do [CME](cult_of_elemental_evil.md) no [Moinho Abandonado](abandoned_mill.md). <br> **Tier 2:** [to be translated] | **Tier 1:** Confrontation with [CEE](cult_of_elemental_evil.md) agents at the [Abandoned Mill](abandoned_mill.md). <br> **Tier 2:** [to be translated] |
+
+---
+
+## 🧰 Processing Audit
+
+### 🔗 Ligações Internas / 🔗 Internal Links
+| 🗂️ Fonte | 🔗 Apontadores |
 | :--- | :--- |
-| **Vila Pequena** com uma **ponte dupla** que atravessa o **Rio Ery**. | **Small village** with a **double bridge** crossing the **Ery River**. |
-| Situada numa **rota de comércio crucial**, ligando [Greyhawk](free_city_of_greyhawk.md) a [Erybend](eribend.md). | Located on a **crucial trade route**, linking [Greyhawk](free_city_of_greyhawk.md) to [Erybend](eribend.md). |
-| O taberneiro local, **Gerald**, pode oferecer a vila como um futuro *safe haven* ou um ponto de contacto importante para informação. | The local barkeep, **Gerald**, might offer the village as a future *safe haven* or an important contact point for information. |
-| A região é referida como tendo **minas de minério** a oeste, seguindo o Rio Nen, onde se podem encontrar **duas torres** (*Two Forts*). | The region is referred to as having **ore mines** to the west, following the Nen River, where **two towers** (*Two Forts*) can be found. |
+| `two_fords.md` | `s04a_culto_two_fords.md`, `t01.md`, `cult_of_elemental_evil.md`, `neen_river.md`, `npc_geralt.md`, `npc_lila.md`, `abandoned_mill.md`, `two_fords_mines.md`, `kobolds_two_fords.md`, `npc_rix.md`, `npc_kaldros_veynor.md`, `pc_arkos_vasell.md`, `pc_orianna.md`, `pc_wandering_sage.md` |
 
----
-
-### ⚔️ Missões e Envolvimento do Culto / ⚔️ Missions and Cult Involvement
-
-| Missão/Sessão | Ameaça e Objetivo Central (PT) | Threat and Central Objective (EN) |
+### ⚠️ Avisos / ⚠️ Warnings
+| ⚠️ Tipo | 📍 Onde | 🧾 Detalhe |
 | :--- | :--- | :--- |
-| **S04A: O Culto em Two Fords** | Investigar uma **doença misteriosa** causada por **contaminação da água**. O grupo rastreou a corrupção até um **Moinho Abandonado** no Rio Ery. | Investigate a **mysterious illness** caused by **water contamination**. The group traced the corruption to an **Abandoned Mill** on the Ery River. |
-| **Guerra Biológica do CME** | O Culto do Mal Elemental (CME) estava a realizar um **ritual** no Moinho para espalhar **esporos fúngicos** no rio, utilizando táticas de guerra biológica. | The Cult of Elemental Evil (CME) was performing a **ritual** at the Mill to spread **fungal spores** into the river, using biological warfare tactics. |
-| **S05B: O Resgate** | Caravanas que viajavam entre Two Fords e [Erybend](eribend.md) foram alvo de sequestro por **cultistas de [Nerull](nerull.md)**, que usavam as vítimas em rituais. | Caravans traveling between Two Fords and [Erybend](eribend.md) were targeted by kidnapping by **cultists of [Nerull](nerull.md)**, who used the victims in rituals. |
-| **Ameaça Goblin/Nerull** | Um relatório interno do Culto de [Nerull](nerull.md) indica que os **goblins** estavam prontos para iniciar preparativos nas terras próximas a Two Fords, aguardando ordens para desestabilizar a região. | An internal [Nerull](nerull.md) Cult report indicated that **goblins** were ready to start preparations in the lands nearby Two Fords, awaiting orders to destabilize the region. |
+| Topic | Header | topic=template_location, template=template_location.md |
+| Image | Banner | Assumed `two_fords.png` is available in `assets/location/` (File not found, linking for future use). |
+| Link Creation | Landmarks | Creating link for 'Abandoned Mill' -> `abandoned_mill.md` (Not found in provided structure). |
+| Link Creation | Landmarks | Creating link for 'Two Fords Mines' -> `two_fords_mines.md` (Not found in provided structure). |
+| Link Creation | Factions | Creating link for 'Local Kobolds' -> `kobolds_two_fords.md` (Not found in provided structure). |
+| Link Creation | Cast of Characters | Creating link for 'Rix' -> `npc_rix.md` (Not found in provided structure). |
 
----
-
-### 🎭 Pessoal Chave (NPCs & PCs) / 🎭 Key Personnel (NPCs & PCs)
-
-| 🎭 Nome (Tipo)                                                                                                                                                                                                                                      | Papel e Ligação a Two Fords (PT)                                                                                                                     | Role and Link to Two Fords (EN)                                                                                                                         |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Gerald** (NPC)                                                                                                                                                                                                                                    | O **taberneiro** local que procurou ajuda e serviu como catalisador da missão (S04A) devido à doença da sua filha, [Lila](lila.md).                  | The local **barkeep** who sought help and served as the mission's catalyst (S04A) due to his daughter's illness, [Lila](lila.md).                       |
-| **[Lila](lila.md)** (NPC)                                                                                                                                                                                                                           | Filha de Gerald, estava **gravemente doente** devido à água contaminada, sendo a principal motivação para a investigação (S04A).                     | Gerald’s daughter, who was **gravely ill** due to the contaminated water, serving as the primary motivator for the investigation (S04A).                |
-| **[Kythria](docs/npc/-/Free%20City%20of%20Grehawk/npc_kythria.md)** (NPC)                                                                                                                                                                                                                     | Sobrinha do Taberneiro; ela enviou missões de **reconhecimento comercial** para avaliar a segurança da rota entre Two Fords e [Erybend](eribend.md). | The Barkeep’s niece; she assigned **commercial reconnaissance** missions to assess the safety of the route between Two Fords and [Erybend](eribend.md). |
-| **[Rix](rix.md)** (Kobold NPC)                                                                                                                                                                                                                      | Forneceu **inteligência crucial** a um grupo distinto, ligando a importância das **minas de Two Forts** à conspiração do CME (S04A).                 | Provided **crucial intelligence** to a separate group, linking the importance of the **Two Forts mines** to the CME conspiracy (S04A).                  |
-| **[Arkos Vasell](pc_arkos_vasell.md)), [Gauthak Vunakamune](pc_gauthak_vunakamune.md) , [Orianna](pc_orianna.md), [Lone Straw](pc_lone_straw.md), [Wandering Sage](pc_wandering_sage.md), [Endouvan Bom Sossego](pc_endouven_bomsossego.md)** (PCs) | Participaram diretamente na missão S04A, investigando e interrompendo o ritual de contaminação do CME no Moinho Abandonado.                          | Directly participated in mission S04A, investigating and interrupting the CME contamination ritual at the Abandoned Mill.                               |
-| **[Kaldros Veynor](docs/npc/-/Peculiar%20Manor/npc_kaldros_veynor.md)** (NPC)                                                                                                                                                                                                       | Mercador que o grupo encontrou enquanto viajavam para Two Fords, alertando-os para a doença local. Foi resgatado anteriormente noutra missão.        | Merchant the party met while travelling toward Two Fords, alerting them to the local illness. He was previously rescued on another mission.             |
-
----
+### ❓ Ficheiros em Falta / ❓ Missing Files
+| ❓ Tipo | 📍 Onde | 🧾 Detalhe |
+| :--- | :--- | :--- |
+| Organization | General Description | Missing file for 'cult_of_elemental_evil.md'. |
+| Location | Landmarks | Missing file for 'abandoned_mill.md'. |
+| Location | Landmarks | Missing file for 'two_fords_mines.md'. |
+| NPC | Landmarks | Missing file for 'npc_rix.md'. |
+| Organization | Factions | Missing file for 'kobolds_two_fords.md'. |
+| Location | Threats and Active Events | Missing file for 'neen_river.md'. |
+| Session | Quests and Sessions | Missing file for 's04a_culto_two_fords.md'. |
+| NPC | Cast of Characters | Missing file for 'npc_rix.md'. |
+| NPC | Cast of Characters | Missing file for 'npc_kaldros_veynor.md'. |
+| PC | Cast of Characters | Missing file for 'pc_arkos_vasell.md'. |
+| PC | Cast of Characters | Missing file for 'pc_orianna.md'. |
+| PC | Cast of Characters | Missing file for 'pc_wandering_sage.md'. |
+| NPC | Cast of Characters | Missing file for 'npc_geralt.md'. |
+| NPC | Cast of Characters | Missing file for 'npc_lila.md'. |
+| NPC | Travel and Logistics | Missing file for 'npc_kaldros_veynor.md'. |

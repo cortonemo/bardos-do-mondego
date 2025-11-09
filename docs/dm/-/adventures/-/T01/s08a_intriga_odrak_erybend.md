@@ -13,7 +13,7 @@
 
 | Descrição | PT | EN |
 | :--- | :--- | :--- |
-| **Missão Principal** | A *party* é enviada a **[Erybend](erybend.md)**, uma cidade comercial estratégica, para estabelecer novos contactos e rotas comerciais, incluindo ligações a [Blackfair Manor](blackfair_manor.md) e [Two Fords](two_fords.md). O contacto é **[Dolrea Vas](docs/npc/-/Eribend/npc_dolrea_vas.md)**, que alerta o grupo sobre distúrbios e raptos recentes na cidade. | The party is sent to **[Erybend](erybend.md)**, a strategic trading city, to establish new contacts and trade routes, including links to [Blackfair Manor](blackfair_manor.md) and [Two Fords](two_fords.md). The contact is **[Dolrea Vas](docs/npc/-/Eribend/npc_dolrea_vas.md)**, who alerts the group to recent disturbances and kidnappings in the city. |
+| **Missão Principal** | A *party* é enviada a **[Erybend](erybend.md)**, uma cidade comercial estratégica, para estabelecer novos contactos e rotas comerciais, incluindo ligações a [Blackfair Manor](blackfair_manor.md) e [Two Fords](docs/locations/-/regions/two_fords.md). O contacto é **[Dolrea Vas](docs/npc/-/Eribend/npc_dolrea_vas.md)**, que alerta o grupo sobre distúrbios e raptos recentes na cidade. | The party is sent to **[Erybend](erybend.md)**, a strategic trading city, to establish new contacts and trade routes, including links to [Blackfair Manor](blackfair_manor.md) and [Two Fords](docs/locations/-/regions/two_fords.md). The contact is **[Dolrea Vas](docs/npc/-/Eribend/npc_dolrea_vas.md)**, who alerts the group to recent disturbances and kidnappings in the city. |
 | **Resultado** | O grupo é emboscado por **6 indivíduos encapuzados** (cultistas) na Taberna Machado Quebrado. Após a derrota dos atacantes, o grupo recupera uma lista de 7 nomes, descobrindo que **[Dolrea Vas](docs/npc/-/Eribend/npc_dolrea_vas.md)** é o próximo alvo dos sequestros, que se suspeita serem orquestrados pelos **Cultistas de Odrak**. | The party is ambushed by **6 hooded individuals** (cultists) in the Broken Axe Tavern. After defeating the attackers, the group recovers a list of 7 names, discovering that **[Dolrea Vas](docs/npc/-/Eribend/npc_dolrea_vas.md)** is the next target of the kidnappings, which are suspected to be orchestrated by **Odrak's Cultists**. |
 
 ---
@@ -31,7 +31,7 @@
 
 | Personagem | PT | EN |
 | :--- | :--- | :--- |
-| **[Kai](pc_kai.md)** | Membro da *party* de investigação e combate em [Erybend](erybend.md). | Investigation and combat *party* member in [Erybend](erybend.md). |
+| **[Kai](docs/pc/-/pc_kai_vanthir.md)** | Membro da *party* de investigação e combate em [Erybend](erybend.md). | Investigation and combat *party* member in [Erybend](erybend.md). |
 | **[Grix Molah](pc_grix_molah.md)** | Envolvido na investigação do desaparecimento e na compra exagerada de meias. | Involved in the disappearance investigation and the exaggerated purchase of socks. |
 | **[Varus](docs/pc/-/pc_zeldris.md)** | Participa na missão de reconhecimento comercial e no combate. | Participates in the commercial reconnaissance mission and combat. |
 | **[Flynn](pc_flynn.md)** | O *halfling* que se junta à *party* na viagem. | The *halfling* who joins the *party* on the journey. |
@@ -50,7 +50,7 @@
 ### 🤫 Secrets & Hooks / Segredos e Ganchos
 * **O Próximo Alvo:** **[Dolrea Vas](docs/npc/-/Eribend/npc_dolrea_vas.md)** é um mercador chave que, se for raptado, perturbará o fluxo de mercadorias para o Norte e para a Taberna, beneficiando o Culto. A sua proteção é vital.
 * **O Templo:** O movimento estranho no templo na periferia de [Erybend](erybend.md) (mencionado por Dolrea) é a base de operações da célula do culto. O templo é o destino dos raptados para rituais e/ou interrogatório.
-* **Odrak:** Este culto menor é subserviente a **[Nerull](nerull.md)** ou a um líder do Mal Elemental superior. O seu objetivo é o caos através de sequestro e controlo.
+* **Odrak:** Este culto menor é subserviente a **[Nerull](docs/dm/-/organizations/-/cults/cult_of_nerull.md)** ou a um líder do Mal Elemental superior. O seu objetivo é o caos através de sequestro e controlo.
 
 ### ⚙️ Contingencies / Contingências
 * **Se Dolrea fosse raptado:** A missão falhava e o grupo teria de invadir o templo para o resgatar (Missão S11B), enfrentando um número muito maior de cultistas.
@@ -80,7 +80,7 @@ Com a conclusão da sessão **S08A: Intriga de Odrak em Erybend**, os seguintes 
 | Categoria         | Entidade                                                      | Slug (Confirmado com docs\_structure ou Novo) | Sessões (Nova Adição) |
 | :---------------- | :------------------------------------------------------------ | :-------------------------------------------- | :-------------------- |
 | **Missions**      | [Intriga de Odrak em Erybend ](docs/dm/-/adventures/-/S01/s08a_intriga_odrak_erybend.md) | S08A                                          |                       |
-| **PCs**           | [Kai](pc_kai.md)                                              | S08A                                          |                       |
+| **PCs**           | [Kai](docs/pc/-/pc_kai_vanthir.md)                                              | S08A                                          |                       |
 | **PCs**           | [Grix Molah](pc_grix_molah.md)                                | S08A                                          |                       |
 | **PCs**           | [Varus](docs/pc/-/pc_zeldris.md)                                        | S08A                                          |                       |
 | **PCs**           | [Flynn](pc_flynn.md)                                          | S08A                                          |                       |

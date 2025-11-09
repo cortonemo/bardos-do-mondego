@@ -10,7 +10,7 @@
 | **Alinhamento:** *(desconhecido)* | **Alignment:** *(unknown)* |
 | **Profissão:** Recrutadora de aventureiros | **Profession:** Adventurer recruiter |
 | **Função:** Ponte entre fações, portadora de missões e rumores | **Role:** Bridge between factions, bearer of quests and rumors |
-| **Localização:** [Eribend](eribend.md), [Vauria](vila_de_vauria.md) | **Location:** [Eribend](eribend.md), [Vauria](vila_de_vauria.md) |
+| **Localização:** [Eribend](docs/locations/-/regions/eribend.md), [Vauria](vila_de_vauria.md) | **Location:** [Eribend](docs/locations/-/regions/eribend.md), [Vauria](vila_de_vauria.md) |
 
 ---
 
@@ -18,7 +18,7 @@
 
 | **Português (PT-PT)** | **English (EN-US)** |
 | --------------------- | ------------------- |
-| Dolrea Vas é uma meio-elfa carismática, conhecida por recrutar aventureiros em [Eribend](eribend.md) e [Vauria](vila_de_vauria.md). Atua como ponte entre diferentes fações e traz ao grupo missões e rumores importantes. | Dolrea Vas is a charismatic half-elf, known for recruiting adventurers in [Eribend](eribend.md) and [Vauria](vila_de_vauria.md). She acts as a bridge between factions and provides the group with important quests and rumors. |
+| Dolrea Vas é uma meio-elfa carismática, conhecida por recrutar aventureiros em [Eribend](docs/locations/-/regions/eribend.md) e [Vauria](vila_de_vauria.md). Atua como ponte entre diferentes fações e traz ao grupo missões e rumores importantes. | Dolrea Vas is a charismatic half-elf, known for recruiting adventurers in [Eribend](docs/locations/-/regions/eribend.md) and [Vauria](vila_de_vauria.md). She acts as a bridge between factions and provides the group with important quests and rumors. |
 
 ---
 

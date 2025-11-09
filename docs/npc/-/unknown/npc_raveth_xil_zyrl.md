@@ -17,7 +17,7 @@
 
 | **Português (PT-PT)** | **English (EN-US)** |
 | --------------------- | ------------------- |
-| Drow misterioso, mestre em chantagem, manipulação e espionagem. Envolvido em conflitos com [Kai](pc_kai.md) e outros PCs, é peça-chave em várias tramas ligadas ao submundo de Greyhawk. | Mysterious drow, master of blackmail, manipulation, and espionage. Involved in conflicts with [Kai](pc_kai.md) and other PCs, and a key figure in several plots tied to Greyhawk’s underworld. |
+| Drow misterioso, mestre em chantagem, manipulação e espionagem. Envolvido em conflitos com [Kai](docs/pc/-/pc_kai_vanthir.md) e outros PCs, é peça-chave em várias tramas ligadas ao submundo de Greyhawk. | Mysterious drow, master of blackmail, manipulation, and espionage. Involved in conflicts with [Kai](docs/pc/-/pc_kai_vanthir.md) and other PCs, and a key figure in several plots tied to Greyhawk’s underworld. |
 
 ---
 

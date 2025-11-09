@@ -4,7 +4,7 @@
 Sessões: 10 | Datas: 2025-03-13 | Fontes: s10_-_2025-03-13.txt | Tags: loot, medalhão, mágico
 
 ![Medalhão do Sussurro](
-object_blank.png)
+loot_blank.png)
 
 | Português | English |
 |-----------|---------|

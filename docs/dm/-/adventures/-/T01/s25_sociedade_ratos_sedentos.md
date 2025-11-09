@@ -40,7 +40,7 @@
 ## 🔒 DM-ONLY SECTION / SEÇÃO APENHAS PARA O DM
 
 ### 📝 Prep Notes / Notas de Preparação
-* **Profeta Rato e Necromancia:** A ligação à necromancia é um gancho que aponta para a facção de **[Nerull](nerull.md)** dentro do **[Culto do Mal Elemental](cult_of_elemental_evil.md)**.
+* **Profeta Rato e Necromancia:** A ligação à necromancia é um gancho que aponta para a facção de **[Nerull](docs/dm/-/organizations/-/cults/cult_of_nerull.md)** dentro do **[Culto do Mal Elemental](cult_of_elemental_evil.md)**.
 * **Devorador Vermelho:** O Devorador Vermelho é um nome de código para uma entidade ligada à Loucura/Caos (potencialmente Iuz ou Tharizdun), adorado por esta seita degenerada.
 
 ### 🤫 Secrets & Hooks / Segredos e Ganchos

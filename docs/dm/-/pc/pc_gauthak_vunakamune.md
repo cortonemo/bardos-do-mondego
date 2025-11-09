@@ -1,7 +1,7 @@
 # Gauthak Vunakamune ([S03](s03_ataque_rio_neem.md), [S04A](s04a_culto_two_fords.md), [S09A](s09a_sombras_sobre_a_agua.md), [S10A](s10a_intriga_high_ery.md), [S14B](s14b_dandan_e_os_40_kobolds.md), [S15B](s15b_a_crianca_perdida.md))
 
-| ![pc_gauthak_vunakamune](pc_gauthak_vunakamune.jpeg) |
-| --------------------------------------------------------------------------- |
+| ![pc_gauthak_vunakamune](pc_gauthak_vunakamune.jpeg){ width=200 } |
+| ----------------------------------------------------------------- |
 
 ---
 

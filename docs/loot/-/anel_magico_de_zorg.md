@@ -3,7 +3,7 @@
 
 Sessões: 8 | Datas: 2025-02-27 | Fontes: s08_-_2025-02-27.txt | Tags: loot, anel, mágico
 
-![Anel Mágico de Zorg](assets/loot/object_blank.png)
+![Anel Mágico de Zorg](loot_blank.png)
 
 | Português | English |
 |-----------|---------|

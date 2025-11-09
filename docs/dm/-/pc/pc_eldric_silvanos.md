@@ -1,7 +1,7 @@
 # Eldric Silvanos ([S15B](s15b_a_crianca_perdida.md), [S29B](s29b_idolo_lady_scale_p1.md), [S30B](s30b_idolo_lady_scale_p2.md), [S31](s31_idolo_lady_scale_p3.md))
 
-| ![pc_eldric_silvanos](pc_eldric_silvanos.png){ width=300 } |
-| :--- |
+| ![pc_eldric_silvanos](pc_eldric_silvanos.png){ width=200 }{ width=300 } |
+| :---------------------------------------------------------------------- |
 
 ---
 

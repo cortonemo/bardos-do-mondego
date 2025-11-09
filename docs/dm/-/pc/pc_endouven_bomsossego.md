@@ -1,7 +1,7 @@
 # Endouven "Endo" Bomsossego ([S03](s03_ataque_rio_neem.md), [S04A](s04a_culto_two_fords.md), [S13B](s13b_retorno_nave_illithid.md))
 
-| ![pc_endovan_bom_sossego](pc_blank.png) |
-| -------------------------------------------------------------- |
+| ![pc_endovan_bom_sossego](pc_blank.png){ width=200 } |
+| ---------------------------------------------------- |
 
 ---
 

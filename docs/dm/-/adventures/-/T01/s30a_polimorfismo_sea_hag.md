@@ -42,7 +42,7 @@
 
 ### 📝 Prep Notes / Notas de Preparação
 * **Sabotagem:** A Empregada da Taberna é uma agente da **Guilda dos Mercadores** ou de um rival do Chef **[Kas Kardwall](kas.md)** (possivelmente a Guilda dos Assassinos).
-* **Elementais e Necromancia:** A Sea Hag invoca **Elementais da Água** (facção Água do CME) e **Ghouls** (facção [Nerull](nerull.md)), ligando a ameaça aquática/marinha diretamente ao **[Culto do Mal Elemental](culto_do_mal_elemental.md)** e aos seus temas de morte e caos.
+* **Elementais e Necromancia:** A Sea Hag invoca **Elementais da Água** (facção Água do CME) e **Ghouls** (facção [Nerull](docs/dm/-/organizations/-/cults/cult_of_nerull.md)), ligando a ameaça aquática/marinha diretamente ao **[Culto do Mal Elemental](culto_do_mal_elemental.md)** e aos seus temas de morte e caos.
 
 ### 🤫 Secrets & Hooks / Segredos e Ganchos
 * **A Conexão com Kas:** **[Kas Kardwall](kas.md)** é um nome que aparece noutras sessões (como traidor de [Zan](zan.md) na S15A). O ataque à sua taberna é mais do que sabotagem comercial; é um ataque pessoal ou um aviso de inimigos mais antigos (o Culto da Mão).

@@ -61,7 +61,7 @@
 
 | **📖 História – Antes da Taberna** | **📖 Story – Before the Tavern** |
 | ---------------------------------- | -------------------------------- |
-| - Músico entertainer, juntou-se a uma trupe aos 20 anos e atuou com eles por 7 anos.<br>- A trupe atuou num baile organizado pelo nobre [Asdrobal Blackfair](asdrobal_blackfair.md), onde todos foram sacrificados em ritual macabro.<br>- [Asdrobal](asdrobal_blackfair.md) usou a adaga de [Wee Jas](wee_jas.md) em ritual dedicado a [Nerull](nerull.md), enfurecendo a deusa.<br>- [Wee Jas](wee_jas.md) trouxe Markus de volta à vida para recuperar a relíquia. | - Musician entertainer, joined a troupe at age 20 and performed with them for 7 years.<br>- The troupe performed at a ball organized by noble [Asdrobal Blackfair](asdrobal_blackfair.md), where all were sacrificed in a macabre ritual.<br>- [Asdrobal](asdrobal_blackfair.md) used [Wee Jas’s](wee_jas.md) dagger in a ritual dedicated to [Nerull](nerull.md), enraging the goddess.<br>- [Wee Jas](wee_jas.md) brought Markus back to life to reclaim the relic. |
+| - Músico entertainer, juntou-se a uma trupe aos 20 anos e atuou com eles por 7 anos.<br>- A trupe atuou num baile organizado pelo nobre [Asdrobal Blackfair](asdrobal_blackfair.md), onde todos foram sacrificados em ritual macabro.<br>- [Asdrobal](asdrobal_blackfair.md) usou a adaga de [Wee Jas](wee_jas.md) em ritual dedicado a [Nerull](docs/dm/-/organizations/-/cults/cult_of_nerull.md), enfurecendo a deusa.<br>- [Wee Jas](wee_jas.md) trouxe Markus de volta à vida para recuperar a relíquia. | - Musician entertainer, joined a troupe at age 20 and performed with them for 7 years.<br>- The troupe performed at a ball organized by noble [Asdrobal Blackfair](asdrobal_blackfair.md), where all were sacrificed in a macabre ritual.<br>- [Asdrobal](asdrobal_blackfair.md) used [Wee Jas’s](wee_jas.md) dagger in a ritual dedicated to [Nerull](docs/dm/-/organizations/-/cults/cult_of_nerull.md), enraging the goddess.<br>- [Wee Jas](wee_jas.md) brought Markus back to life to reclaim the relic. |
 
 ---
 
@@ -69,7 +69,7 @@
 
 | **📖 História – Depois da Taberna** | **📖 Story – After the Tavern** |
 | ----------------------------------- | -------------------------------- |
-| - Teve encontros com o [Culto do Mal Elemental](cult_of_elemental_evil.md).<br>- Encontrou um dragão ligado a [Wee Jas](wee_jas.md) e, sob feitiço, revelou a localização da taberna.<br>- Em [Greyhawk](free_city_of_greyhawk.md) conheceu a [Guilda dos Assassinos](assassins_guild.md) e a [Guilda dos Ladrões](guild_of_thieves.md), sem laços ainda. | - Had encounters with the [Cult of Elemental Evil](cult_of_elemental_evil.md).<br>- Met a dragon tied to [Wee Jas](wee_jas.md) and, under a spell, revealed the tavern’s location.<br>- In [Greyhawk](free_city_of_greyhawk.md), encountered the [Assassins’ Guild](assassins_guild.md) and the [Thieves’ Guild](guild_of_thieves.md), but hasn’t formed bonds yet. |
+| - Teve encontros com o [Culto do Mal Elemental](cult_of_elemental_evil.md).<br>- Encontrou um dragão ligado a [Wee Jas](wee_jas.md) e, sob feitiço, revelou a localização da taberna.<br>- Em [Greyhawk](free_city_of_greyhawk.md) conheceu a [Guilda dos Assassinos](assassins_guild.md) e a [Guilda dos Ladrões](docs/organizations/-/guilds/guild_of_thieves.md), sem laços ainda. | - Had encounters with the [Cult of Elemental Evil](cult_of_elemental_evil.md).<br>- Met a dragon tied to [Wee Jas](wee_jas.md) and, under a spell, revealed the tavern’s location.<br>- In [Greyhawk](free_city_of_greyhawk.md), encountered the [Assassins’ Guild](assassins_guild.md) and the [Thieves’ Guild](docs/organizations/-/guilds/guild_of_thieves.md), but hasn’t formed bonds yet. |
 
 ---
 
@@ -78,7 +78,7 @@
 | **🎭 Dramatis Persona** | **🎭 Dramatis Personae** |
 | --------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
 | **NPCs de influência direta:** <br>- [Wee Jas](wee_jas.md) (deusa da morte e magia) | **Direct Influence NPCs:** <br>- [Wee Jas](wee_jas.md) (goddess of death and magic) |
-| **Antagonistas:** <br>- [Asdrobal Blackfair](asdrobal_blackfair.md), nobre cultista de [Nerull](nerull.md) <br>- [Culto do Mal Elemental](cult_of_elemental_evil.md) | **Antagonists:** <br>- [Asdrobal Blackfair](asdrobal_blackfair.md), noble cultist of [Nerull](nerull.md) <br>- [Cult of Elemental Evil](cult_of_elemental_evil.md) |
+| **Antagonistas:** <br>- [Asdrobal Blackfair](asdrobal_blackfair.md), nobre cultista de [Nerull](docs/dm/-/organizations/-/cults/cult_of_nerull.md) <br>- [Culto do Mal Elemental](cult_of_elemental_evil.md) | **Antagonists:** <br>- [Asdrobal Blackfair](asdrobal_blackfair.md), noble cultist of [Nerull](docs/dm/-/organizations/-/cults/cult_of_nerull.md) <br>- [Cult of Elemental Evil](cult_of_elemental_evil.md) |
 | **Aliados:** <br>- [Funguys](funguys.md) | **Allies:** <br>- [Funguys](funguys.md) |
 
 ---

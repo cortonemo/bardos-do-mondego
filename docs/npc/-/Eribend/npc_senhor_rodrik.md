@@ -8,8 +8,8 @@
 | **Raça:** ??? | **Race:** ??? |
 | **Classe:** ??? | **Class:** ??? |
 | **Alinhamento:** ??? | **Alignment:** ??? |
-| **Profissão / Função:** Líder do mercado e da associação de comerciantes em [Eribend](eribend.md) | **Profession / Role:** Leader of the market and merchant association in [Eribend](eribend.md) |
-| **Localização:** [Eribend](eribend.md) | **Location:** [Eribend](eribend.md) |
+| **Profissão / Função:** Líder do mercado e da associação de comerciantes em [Eribend](docs/locations/-/regions/eribend.md) | **Profession / Role:** Leader of the market and merchant association in [Eribend](docs/locations/-/regions/eribend.md) |
+| **Localização:** [Eribend](docs/locations/-/regions/eribend.md) | **Location:** [Eribend](docs/locations/-/regions/eribend.md) |
 
 ---
 
@@ -17,7 +17,7 @@
 
 | **Português (PT-PT)** | **English (EN-US)** |
 | --------------------- | ------------------- |
-| Líder do mercado e da associação de comerciantes em [Eribend](eribend.md). Figura de autoridade respeitada, envolvida na resolução de disputas e na organização de feiras. | Leader of the market and merchant association in [Eribend](eribend.md). A respected authority figure, involved in resolving disputes and organizing fairs. |
+| Líder do mercado e da associação de comerciantes em [Eribend](docs/locations/-/regions/eribend.md). Figura de autoridade respeitada, envolvida na resolução de disputas e na organização de feiras. | Leader of the market and merchant association in [Eribend](docs/locations/-/regions/eribend.md). A respected authority figure, involved in resolving disputes and organizing fairs. |
 
 ---
 

@@ -45,7 +45,7 @@
 * **A Maldição de Dustin:** A maldição é um *plot hook* para o **Arcos de Beltar** e **CME**. A voz de **[Zan](zan.md)** tenta redirecionar a fúria de Dustin da sua Ordem (Beltar) para **[Kas](kas.md)**, um traidor antigo (mas que pode ter ligações modernas).
 
 ### 🤫 Secrets & Hooks / Segredos e Ganchos
-* **O Roubo da Mão:** O roubo foi orquestrado pelo **[Culto do Mal Elemental](-/cults/cult_of_elemental_evil.md)**, que procura artefatos de alto poder para os seus rituais. A **Mão de Zan** é um catalisador necromântico (e liga-se à facção de [Nerull](nerull.md)).
+* **O Roubo da Mão:** O roubo foi orquestrado pelo **[Culto do Mal Elemental](-/cults/cult_of_elemental_evil.md)**, que procura artefatos de alto poder para os seus rituais. A **Mão de Zan** é um catalisador necromântico (e liga-se à facção de [Nerull](docs/dm/-/organizations/-/cults/cult_of_nerull.md)).
 * **O Taberneiro:** O Taberneiro confisca o Ceptro, confirmando que ele está a acumular artefatos de alto poder e tecnologia Illithid (as Pedras e o Ceptro).
 
 ### ⚙️ Contingencies / Contingências

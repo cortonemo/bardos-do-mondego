@@ -38,6 +38,6 @@ Sessões: S06, S14, [por preencher] | Datas: [por preencher] | Fontes: greyhawk_
 
 | **Português** | **English** |
 |---------------|-------------|
-| - Libertar reféns mantidos em rituais de submissão. [Inferido] <br>- Destruir relíquias de Loviatar escondidas em Greyhawk. [Inferido] <br>- Os cultistas procuram recrutar nobres degenerados em segredo. [Inferido] <br>- Investigar se a ordem coopera com o [Cult of Nerull](cult_of_nerull.md). [Inferido] | - Rescue hostages held in submission rituals. [Inferred] <br>- Destroy Loviatar relics hidden in Greyhawk. [Inferred] <br>- Cultists seek to secretly recruit degenerate nobles. [Inferred] <br>- Investigate whether the order cooperates with the [Cult of Nerull](cult_of_nerull.md). [Inferred] |
+| - Libertar reféns mantidos em rituais de submissão. [Inferido] <br>- Destruir relíquias de Loviatar escondidas em Greyhawk. [Inferido] <br>- Os cultistas procuram recrutar nobres degenerados em segredo. [Inferido] <br>- Investigar se a ordem coopera com o [Cult of Nerull](docs/dm/-/organizations/-/cults/cult_of_nerull.md). [Inferido] | - Rescue hostages held in submission rituals. [Inferred] <br>- Destroy Loviatar relics hidden in Greyhawk. [Inferred] <br>- Cultists seek to secretly recruit degenerate nobles. [Inferred] <br>- Investigate whether the order cooperates with the [Cult of Nerull](docs/dm/-/organizations/-/cults/cult_of_nerull.md). [Inferred] |
 
 ---

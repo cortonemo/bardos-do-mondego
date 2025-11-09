@@ -47,7 +47,7 @@
 
 ### 🤫 Secrets & Hooks / Segredos e Ganchos
 * **Mr. 0:** O Mestre dos Ladrões tem conhecimento de que os Assassinos estão a receber contratos estranhos e bem pagos, indicando que alguém poderoso está a financiar o caos. Ele suspeita de um nobre (potencialmente **Maxibom Gustgavv**).
-* **Cultistas em Greyhawk:** O grupo deve notar figuras semelhantes aos cultistas de [Nerull](nerull.md) (mencionados em `Sessão Jota`) a patrulhar as áreas de comércio. Eles usam o caos das guildas para se moverem livremente.
+* **Cultistas em Greyhawk:** O grupo deve notar figuras semelhantes aos cultistas de [Nerull](docs/dm/-/organizations/-/cults/cult_of_nerull.md) (mencionados em `Sessão Jota`) a patrulhar as áreas de comércio. Eles usam o caos das guildas para se moverem livremente.
 * **O Próximo Passo:** O foco agora é usar as licenças para continuar o trabalho da Companhia e investigar o nó central da conspiração: o **Baile de [Blackfair Manor](blackfair_manor.md)**.
 
 ### ⚙️ Contingencies / Contingências

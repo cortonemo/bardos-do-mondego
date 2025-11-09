@@ -10,7 +10,7 @@
 | **Alinhamento:** ??? | **Alignment:** ??? |
 | **Profissão:** Taberneiro da [Taberna Machado Quebrado](taberna_machado_quebrado_(eribend).md), também reconhecido como mentor e mago enigmático. | **Profession:** Innkeeper of the [Taberna Machado Quebrado](taberna_machado_quebrado_(eribend).md), also known as a mentor and enigmatic mage. |
 | **Função:** Fonte de rumores, guia para aventureiros iniciantes, mentor oculto. | **Role:** Source of rumors, guide for novice adventurers, hidden mentor. |
-| **Localização:** [Eribend](eribend.md) | **Location:** [Eribend](eribend.md) |
+| **Localização:** [Eribend](docs/locations/-/regions/eribend.md) | **Location:** [Eribend](docs/locations/-/regions/eribend.md) |
 
 ---
 

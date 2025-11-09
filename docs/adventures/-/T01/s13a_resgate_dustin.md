@@ -36,6 +36,6 @@
 | **[Markus Grimm](pc_markus_grimm.md)** | Chega como reforço, envolvido no combate e na fuga. | Arrives as reinforcement, involved in the combat and the escape. |
 | **[Pryssana](docs/npc/-/Fey/npc_pryssana.md)** | Paladina Fey (associada a [Titania](docs/npc/-/Fey/npc_titania.md)), salva Dustin por Amor Destinado, cria ciúmes em **[Triss Merril](pc_triss_merril.md)**. | Fey Paladin (associated with [Titania](docs/npc/-/Fey/npc_titania.md)), saves Dustin out of Fated Love, creates jealousy in **[Triss Merril](pc_triss_merril.md)**. |
 | **[Malik Dorne](malik_dorne.md)** | Inquisidor, inimigo principal da Ordem de Beltar, agora com conhecimento da base da *party*. | Inquisitor, primary enemy from the Order of Beltar, now with knowledge of the *party's* base. |
-| **[Kai](pc_kai.md)**, **[Triss Merril](pc_triss_merril.md)**, **[Raylahn](pc_raylahn.md)** | Essenciais para o rastreio, infiltração e combate no castelo. | Essential for tracking, infiltration, and combat at the castle. |
+| **[Kai](docs/pc/-/pc_kai_vanthir.md)**, **[Triss Merril](pc_triss_merril.md)**, **[Raylahn](pc_raylahn.md)** | Essenciais para o rastreio, infiltração e combate no castelo. | Essential for tracking, infiltration, and combat at the castle. |
 
 ---

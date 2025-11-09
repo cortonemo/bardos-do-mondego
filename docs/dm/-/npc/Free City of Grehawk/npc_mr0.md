@@ -8,7 +8,7 @@
 | **Raça:** ??? | **Race:** ??? |
 | **Classe:** ??? | **Class:** ??? |
 | **Alinhamento:** ??? | **Alignment:** ??? |
-| **Profissão / Função:** Mestre da [Guilda dos Ladrões de Greyhawk](guild_of_thieves.md) | **Profession / Role:** Master of the [Thieves Guild of Greyhawk](guild_of_thieves.md) |
+| **Profissão / Função:** Mestre da [Guilda dos Ladrões de Greyhawk](docs/organizations/-/guilds/guild_of_thieves.md) | **Profession / Role:** Master of the [Thieves Guild of Greyhawk](docs/organizations/-/guilds/guild_of_thieves.md) |
 | **Localização:** [Cidade de Greyhawk](free_city_of_greyhawk.md) | **Location:** [Free City of Greyhawk](free_city_of_greyhawk.md) |
 
 ---
@@ -17,7 +17,7 @@
 
 | **Português (PT-PT)** | **English (EN-US)** |
 | --------------------- | ------------------- |
-| Mestre da [Guilda dos Ladrões de Greyhawk](guild_of_thieves.md), figura misteriosa que manipula eventos subterrâneos e controla parte do submundo criminoso da cidade. | Master of the [Thieves Guild of Greyhawk](guild_of_thieves.md), mysterious figure manipulating underground events and controlling part of the city’s criminal underworld. |
+| Mestre da [Guilda dos Ladrões de Greyhawk](docs/organizations/-/guilds/guild_of_thieves.md), figura misteriosa que manipula eventos subterrâneos e controla parte do submundo criminoso da cidade. | Master of the [Thieves Guild of Greyhawk](docs/organizations/-/guilds/guild_of_thieves.md), mysterious figure manipulating underground events and controlling part of the city’s criminal underworld. |
 
 ---
 

@@ -1,4 +1,4 @@
-﻿
+
 # Lendas das Ruínas das Sombras / Legends of the Ruins of Shadows
 
 Sessões: 16 | Datas: 2025-04-24 | Fontes: extra_relato_crianca_perdida.txt | Tags: rumor, lenda, ruínas, sombras

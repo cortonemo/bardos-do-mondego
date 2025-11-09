@@ -1,6 +1,6 @@
 # Anel da Taberna (Tavern Ring) / The Tavern Ring (Tavern GPS Ring)
 
-| ![item_image_1](object_blank.png){ width=260 } | 
+| ![item_image_1](loot_blank.png){ width=260 } | 
 | :-----------------------------------------: | 
 
 ---

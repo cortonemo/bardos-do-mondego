@@ -4,7 +4,7 @@
 
 Sessão: 2 | Data: (data não especificada) | Fonte: s02.txt | Tags: rumor, carta, mineiro
 
-![Thargrin's Farewell Letter](assets/loot/object_blank.png)
+![Thargrin's Farewell Letter](loot_blank.png)
 
 | English | Português |
 |---------|-----------|

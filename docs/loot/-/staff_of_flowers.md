@@ -2,7 +2,7 @@
 
 Sessão: 1 | Data: 2025-08-02 | Fonte: s01.txt | Tags: item, magic, reward
 
-![Staff of Flowers](assets/loot/object_blank.png)
+![Staff of Flowers](loot_blank.png)
 
 | English                                                                                      | Português                                                                                        |
 | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
